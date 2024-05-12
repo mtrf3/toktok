@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="start|center_vertical"
+    layout_gravity="bottom"
+    orientation="horizontal"
+    id="@+id/gi8"
+    background="@drawable/chz"
+    visibility="gone"
+    layout_width="wrap_content"
+    layout_height="24dp"
+    paddingStart="4dp"
+    paddingEnd="8dp">
+    <X.C47061t0
+        id="@+id/a9a"
+        layout_width="16dp"
+        layout_height="16dp"
+        NOT_FOUND_0x10="@drawable/d65"
+        NOT_FOUND_0x11="6"
+        NOT_FOUND_0x12="?attr/bn_"
+        NOT_FOUND_0x13="true"/>
+    <X.C47121t6
+        textColor="@color/a8g"
+        ellipsize="end"
+        gravity="center"
+        id="@+id/a9f"
+        layout_width="0dp"
+        layout_height="match_parent"
+        text="@string/mzh"
+        maxLines="1"
+        layout_weight="1"
+        layout_marginStart="4dp"
+        style="@style/a4a"/>
+    <androidx.appcompat.widget.AppCompatImageView
+        id="@+id/lqj"
+        visibility="gone"
+        layout_width="12dp"
+        layout_height="12dp"
+        layout_marginStart="6dp"
+        NOT_FOUND_0x14="@drawable/cxc"/>
+</LinearLayout>

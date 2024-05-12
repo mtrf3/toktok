@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item drawable="@drawable/br9"/>
+    <item
+        left="1dp"
+        top="1dp"
+        right="1dp"
+        bottom="2dp">
+        <selector>
+            <item state_pressed="true">
+                <shape shape="oval">
+                    <solid color="#ebebeb"/>
+                </shape>
+            </item>
+            <item>
+                <shape shape="oval">
+                    <solid color="#ffffff"/>
+                </shape>
+            </item>
+        </selector>
+    </item>
+    <item
+        left="1dp"
+        top="1dp"
+        right="1dp"
+        bottom="2dp">
+        <bitmap
+            gravity="center"
+            src="@drawable/br3"/>
+    </item>
+</layer-list>

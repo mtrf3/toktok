@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C47061t0
+        id="@+id/i03"
+        layout_width="32dp"
+        layout_height="32dp"
+        layout_marginTop="3dp"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x8="0"/>
+    <X.C47121t6
+        textColor="?attr/bns"
+        id="@+id/i08"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="4dp"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="@+id/i03"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

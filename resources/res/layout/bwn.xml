@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/dm"
+    gravity="center"
+    id="@+id/mpm"
+    visibility="visible"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    NOT_FOUND_0x6="51"/>

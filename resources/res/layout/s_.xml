@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="78dp"
+    layout_height="86dp"
+    layout_marginTop="16dp"
+    layout_marginEnd="6dp">
+    <X.C119624mk
+        id="@+id/ew1"
+        layout_width="48dp"
+        layout_height="48dp"
+        layout_marginStart="16dp"
+        layout_marginEnd="16dp"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xd="0"/>
+    <ImageView
+        id="@+id/ewq"
+        layout_width="8dp"
+        layout_height="8dp"
+        layout_marginTop="4dp"
+        src="@drawable/zk"
+        layout_marginStart="39dp"
+        NOT_FOUND_0xb="@+id/ew1"
+        NOT_FOUND_0xd="@+id/ew1"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gw"
+        gravity="center_horizontal"
+        id="@+id/lvt"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_marginTop="4dp"
+        maxLines="2"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="@+id/ew1"
+        NOT_FOUND_0xe="61"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

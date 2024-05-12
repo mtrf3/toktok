@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/eou"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        layout_gravity="end|bottom"
+        id="@+id/eow"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <View
+            background="@drawable/d69"
+            layout_width="86dp"
+            layout_height="@dimen/acw"/>
+        <com.bytedance.android.live.design.view.icon.LiveIconView
+            layout_gravity="end|bottom"
+            id="@+id/eov"
+            layout_width="48dp"
+            layout_height="40dp"
+            layout_marginBottom="8dp"
+            layout_marginEnd="16dp"
+            NOT_FOUND_0x7="?attr/ark"
+            NOT_FOUND_0x8="0.6"
+            NOT_FOUND_0x9="?attr/ax8"
+            NOT_FOUND_0xa="0.5"/>
+    </FrameLayout>
+</FrameLayout>

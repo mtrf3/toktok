@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="q2" parent="@style/pg">
+        <item name="android:backgroundDimAmount">?attr/bni</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowAnimationStyle">@style/af</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="aqh">@style/yj</item>
+    </style>
+    <style name="qa" parent="@style/pg">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowAnimationStyle">@style/af</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="bxp">false</item>
+        <item name="bxz">true</item>
+    </style>
+    <style name="s_" parent="@style/s4">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowAnimationStyle">@style/ai</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="y_" parent="@style/gf">
+        <item name="bg1">b88</item>
+        <item name="bgf">dbf</item>
+    </style>
+    <style name="yj" parent="@style/y4">
+        <item name="android:backgroundDimAmount">?attr/bni</item>
+        <item name="android:background">?attr/bme</item>
+        <item name="android:elevation">0dp</item>
+        <item name="zg">@dimen/ww</item>
+        <item name="aq6">false</item>
+        <item name="aq_">@dimen/x4</item>
+        <item name="aqe">0dp</item>
+        <item name="bkk">@dimen/ww</item>
+    </style>
+    <style name="a13" parent="@style/xw">
+        <item name="android:textAppearance">?attr/bhw</item>
+        <item name="android:textColor">?attr/a4n</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">@integer/bq</item>
+    </style>
+</resources>

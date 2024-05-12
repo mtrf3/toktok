@@ -1,0 +1,2255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">Alustame teie avataride loomist %d minuti pärast.</item>
+        <item quantity="other">Alustame teie avataride loomist %d minuti pärast.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">Jätka %d stiiliga</item>
+        <item quantity="other">Jätka %d stiiliga</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">Valige veel vähemalt %d inimese näoga pilt</item>
+        <item quantity="other">Valige veel vähemalt %d inimese näoga pilti</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">Sharpiga saate avatare luua %d kord päevas</item>
+        <item quantity="other">Sharpiga saate avatare luua %d korda päevas</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">Sharpiga saate avatare luua %d kord nädalas</item>
+        <item quantity="other">Sharpiga saate avatare luua %d korda nädalas</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">Speedyga saate avatare luua %d kord päevas</item>
+        <item quantity="other">Speedyga saate avatare luua %d korda päevas</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="one">Speedyga saate avatare luua %d kord nädalas</item>
+        <item quantity="other">Speedyga saate avatare luua %d korda nädalas</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="one">Avatare saate luua %d kord päevas</item>
+        <item quantity="other">Avatare saate luua %d korda päevas</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="one">Avatare saate luua %d kord nädalas</item>
+        <item quantity="other">Avatare saate luua %d korda nädalas</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="one">Alustame teie avataride loomist %d minuti pärast.</item>
+        <item quantity="other">Alustame teie avataride loomist %d minuti pärast.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="one">Teil on %d päring</item>
+        <item quantity="other">Teil on %d päringut</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="one">Teil on %d päring</item>
+        <item quantity="other">Teil on %d päringut</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="one">%d küsimus</item>
+        <item quantity="other">%d küsimust</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="one">Esimesel %d päeval peavad teised kasutajad teie postituste vaatamiseks postituse tegema.</item>
+        <item quantity="other">Esimesel %d päeval peavad teised kasutajad teie postituste vaatamiseks postituse tegema.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="one">%d päeva pärast saavad nad teie postitusi vaadata ise eelnevalt postitust tegemata.</item>
+        <item quantity="other">%d päeva pärast saavad nad teie postitusi vaadata ise eelnevalt postitust tegemata.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="one">%d päeva järel näete ainult teie oma postitusi.</item>
+        <item quantity="other">%d päeva järel näete ainult teie oma postitusi.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="one">Esimesel %d päeval peavad teised kasutajad teie Now-postituste vaatamiseks postituse tegema.</item>
+        <item quantity="other">Esimesel %d päeval peavad teised kasutajad teie Now-postituste vaatamiseks postituse tegema.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="one">%d toode</item>
+        <item quantity="other">%d toodet</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="one">Avage kasutaja {username} pilt</item>
+        <item quantity="other">Avage kasutaja {username} pildid</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="one">{number} inimene lisas selle video lemmikutesse</item>
+        <item quantity="other">{number} inimest lisas selle video lemmikutesse</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="one">%d meeldivaks märkimine</item>
+        <item quantity="other">%d meeldivaks märkimist</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ miljard</item>
+        <item quantity="other">%@ miljardit</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ miljon</item>
+        <item quantity="other">%@ miljonit</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ tuhat</item>
+        <item quantity="other">%@ tuhat</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="one">%d vaatamine</item>
+        <item quantity="other">%d vaatamist</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="one">%s videol on kommentaarid lubatud</item>
+        <item quantity="other">%s videol on kommentaarid lubatud</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="one">%s videol on kommentaarid keelatud</item>
+        <item quantity="other">%s videol on kommentaarid keelatud</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="one">ja %d video puhul on duett keelatud</item>
+        <item quantity="other">ja %d videote puhul on duett keelatud</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="one">Kõik saavad teie videotega duette teha. %1$d teie video puhul on dueti tegemine lubatud, %2$s</item>
+        <item quantity="other">Kõik saavad teie videotega duette teha. %1$d teie video puhul on dueti tegemine lubatud %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="one">ja %d video puhul on duett keelatud</item>
+        <item quantity="other">ja %d videote puhul on duett keelatud</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="one">Sõbrad saavad teie videotega duette teha. %1$d teie video puhul on dueti tegemine lubatud, %2$s</item>
+        <item quantity="other">Sõbrad saavad teie videotega duette teha. %1$d teie video puhul on dueti tegemine lubatud %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="one">ja %d video puhul on duett keelatud</item>
+        <item quantity="other">ja %d videote puhul on duett keelatud</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="one">Vaadake üle, kes saavad teie videotega duette teha. %1$d teie video puhul on dueti tegemine lubatud, %2$s</item>
+        <item quantity="other">Vaadake üle, kes saavad teie videotega duette teha. %1$d teie video puhul on dueti tegemine lubatud, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="one">ja %d video puhul on Stitch keelatud</item>
+        <item quantity="other">ja %d videote puhul on Stitch keelatud</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="one">Vaadake üle, kes saavad teie videotega montaaže teha. %1$d teie video puhul on montaaži tegemine lubatud, %2$s</item>
+        <item quantity="other">Vaadake üle, kes saavad teie videotega montaaže teha. %1$d teie video puhul on montaaži tegemine lubatud, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="one">ja %d video puhul on Stitch keelatud</item>
+        <item quantity="other">ja %d videote puhul on Stitch keelatud</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="one">Kõik saavad teie videotega montaaže teha. %1$d teie video puhul on montaaži tegemine lubatud, %2$s</item>
+        <item quantity="other">Kõik saavad teie videotega montaaže teha. %1$d teie video puhul on montaaži tegemine lubatud, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="one">ja %d video puhul on Stitch keelatud</item>
+        <item quantity="other">ja %d videote puhul on Stitch keelatud</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="one">Sõbrad saavad teie videotega montaaže teha. %1$d teie video puhul on montaaži tegemine lubatud, %2$s</item>
+        <item quantity="other">Sõbrad saavad teie videotega montaaže teha. %1$d teie video puhul on montaaži tegemine lubatud, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="one">%s video puhul on dueti tegemine lubatud</item>
+        <item quantity="other">%s video puhul on dueti tegemine lubatud</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="one">%s video puhul on dueti tegemine keelatud</item>
+        <item quantity="other">%s video puhul on dueti tegemine keelatud</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="one">%s video puhul on montaaži tegemine lubatud</item>
+        <item quantity="other">%s video puhul on montaaži tegemine lubatud</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="one">%s video puhul on montaaži tegemine keelatud</item>
+        <item quantity="other">%s video puhul on montaaži tegemine keelatud</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="one">Aktiivne %d tunni eest</item>
+        <item quantity="other">Aktiivne %d tunni eest</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="one">Aktiivne %d minuti eest</item>
+        <item quantity="other">Aktiivne %d minuti eest</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="one">%d osa</item>
+        <item quantity="other">%d osa</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="one">%1$s · %2$d uus postitus</item>
+        <item quantity="other">%1$s · %2$d uut postitust</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="one">Importige %d heli</item>
+        <item quantity="other">Importige %d heli</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="one">%2$d LIVE-videot | %1$d lugu</item>
+        <item quantity="other">%2$d LIVE-videot | %1$d lugu</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="one">%2$d LIVE-video | %1$d lugu</item>
+        <item quantity="other">%2$d LIVE-videot | %1$d lugu</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="one">%d LIVE-video | lugu</item>
+        <item quantity="other">%d LIVE-videot | lugu</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="one">%2$d LIVE-video | %1$d lugu</item>
+        <item quantity="other">%2$d LIVE-video | %1$d lugu</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="one">%d lugu</item>
+        <item quantity="other">%d lugu</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="one">%d sõber on kutsutud</item>
+        <item quantity="other">%d sõpra on kutsutud</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s videot</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="one">%s video on lisatud</item>
+        <item quantity="other">%s videot on lisatud</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="one">%s video postitatud</item>
+        <item quantity="other">%s videot postitatud</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="one">Lisa video (%d)</item>
+        <item quantity="other">Lisa videot (%d)</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="one">%d-aastane</item>
+        <item quantity="other">%d-aastane</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="one">%d-aastane</item>
+        <item quantity="other">%d-aastane</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="one">Kas olete %d-aastane?\n\n Kui see pole õige, ei pruugi te saada õiget TikToki kasutuskogemust. Võimalik, et te ei saa seda kohe muuta.</item>
+        <item quantity="other">Kas olete %d-aastane?\n\n Kui see pole õige, ei pruugi te saada õiget TikToki kasutuskogemust. Võimalik, et te ei saa seda kohe muuta.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="one">Kas olete %d-aastane?</item>
+        <item quantity="other">Kas olete %d-aastane?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="one">Sisestasite vanuseks %d-aastane. Sisestage oma tegelik sünnikuupäev.</item>
+        <item quantity="other">Sisestasite vanuseks %d-aastane. Sisestage oma tegelik sünnikuupäev.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="one">%d-aastane</item>
+        <item quantity="other">%d-aastane</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="one">%d heli</item>
+        <item quantity="other">%d heli</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="one">Heli sünkroonimine...</item>
+        <item quantity="other">Helide sünkroonimine...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="one">%s jagamine</item>
+        <item quantity="other">%s jagamist</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="one">%s vaatamine</item>
+        <item quantity="other">%s vaatamist</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="one">Hääleefektid võivad täpsust vähendada</item>
+        <item quantity="other">Hääleefektid võivad täpsust vähendada</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="one">Laadige üles %d fail</item>
+        <item quantity="other">Laadige üles %d faili</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="one">[num] video</item>
+        <item quantity="other">[num] videot</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="one">See beetaversioon aegub %d päeva pärast</item>
+        <item quantity="other">See beetaversioon aegub %d päeva pärast</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="one">Aegub %d päeva pärast</item>
+        <item quantity="other">Aegub %d päeva pärast</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="one">Aegub %d päeva pärast</item>
+        <item quantity="other">Aegub %d päeva pärast</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="one">Aegub %d päeva pärast</item>
+        <item quantity="other">Aegub %d päeva pärast</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="one">Saate lisada %d raamatu</item>
+        <item quantity="other">Saate lisada kuni %d raamatut</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="one">%s klipp</item>
+        <item quantity="other">%s klippi</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="one">Kuva veel %d</item>
+        <item quantity="other">Kuva veel %d</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="one">Vaadake %d vastust</item>
+        <item quantity="other">Vaadake %d vastust</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="one">%d kuu</item>
+        <item quantity="other">%d kuud</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="one">%d aasta</item>
+        <item quantity="other">%d aastat</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="one">Blokeeri konto</item>
+        <item quantity="other">Blokeeri kontod</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="one">%d konto on valitud.</item>
+        <item quantity="other">%d kontot on valitud.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="one">Korraga saab valida kuni %d konto.</item>
+        <item quantity="other">Korraga saab valida kuni %d kontot.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="one">Valisite blokeerimiseks %d konto. Blokeeritud kontod ei näe TikTokis teie profiili ega sisu.</item>
+        <item quantity="other">Valisite blokeerimiseks %d kontot. Blokeeritud kontod ei näe TikTokis teie profiili ega sisu.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="one">Kas blokeerida %d konto?</item>
+        <item quantity="other">Kas blokeerida %d kontot?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="one">Kustuta kommentaar</item>
+        <item quantity="other">Kustuta kommentaarid</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="one">Olete valinud %d kommentaari.</item>
+        <item quantity="other">Olete valinud %d kommentaari.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="one">Kas kustutada %d kommentaar?</item>
+        <item quantity="other">Kas kustutada %d kommentaari?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="one">Kommentaar on kustutatud</item>
+        <item quantity="other">Kommentaarid on kustutatud</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="one">%d kommentaar on valitud.</item>
+        <item quantity="other">%d kommentaari on valitud.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="one">Korraga saab valida kuni %d kommentaari.</item>
+        <item quantity="other">Korraga saab valida kuni %d kommentaari.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="one">Esitage kaebus kommentaari kohta</item>
+        <item quantity="other">Esitage kaebus kommentaaride kohta</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="one">Esitate kaebuse %d kommentaari kohta. Kontrollime, kas selles kommentaaris on sobimatu sisu.</item>
+        <item quantity="other">Esitate kaebuse %d kommentaari kohta. Kontrollime, kas nendes kommentaarides esineb sobimatut sisu.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="one">Kas esitada kaebus %d kommentaari kohta?</item>
+        <item quantity="other">Kas esitada kaebus %d kommentaari kohta?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="one">Kaebus kommentaari kohta on esitatud</item>
+        <item quantity="other">Kaebused kommentaaride kohta on esitatud</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="one">%s kommentaar</item>
+        <item quantity="other">%s kommentaari</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s videot</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="one">%s kasutaja seadis meeldetuletuse</item>
+        <item quantity="other">%s kasutajat seadsid meeldetuletuse</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="one">%s eriefekt</item>
+        <item quantity="other">%s eriefekti</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="one">video vaatamine</item>
+        <item quantity="other">videote vaatamist</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="one">jälgija (neto)</item>
+        <item quantity="other">jälgijat (neto)</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="one">meeldimine</item>
+        <item quantity="other">meeldimist</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="one">%s kasutaja seadis meeldetuletuse</item>
+        <item quantity="other">%s kasutajat seadsid meeldetuletuse</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="one">Kustutada mustand?</item>
+        <item quantity="other">Kustutada mustandid?</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="one">%s postitus</item>
+        <item quantity="other">%s postitust</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="one">Vale parool. %d katse jäänud.</item>
+        <item quantity="other">Vale parool. %d katset jäänud.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="one">Liiga palju katseid. Proovige %d minuti pärast uuesti.</item>
+        <item quantity="other">Liiga palju katseid. Proovige %d minuti pärast uuesti.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="one">%d meloodia</item>
+        <item quantity="other">%d meloodiat</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="one">%d muusika</item>
+        <item quantity="other">%d muusikat</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="one">%d heliteos</item>
+        <item quantity="other">%d heliteost</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="one">%d laul</item>
+        <item quantity="other">%d laulu</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="one">%d heli</item>
+        <item quantity="other">%d heli</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="one">%d viis</item>
+        <item quantity="other">%d viisi</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="one">Saada (%d)</item>
+        <item quantity="other">Saada (%d)</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="one">%1$d jälgitav · %2$d jälgija</item>
+        <item quantity="other">%1$d jälgitavat · %2$d jälgijat</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="one">@ uus mainimine</item>
+        <item quantity="other">@ uut mainimist</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="one">saatis uusi sõnumeid.</item>
+        <item quantity="other">saatsid uusi sõnumeid.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="one">saatis teile uusi sõnumeid.</item>
+        <item quantity="other">saatsid teile uusi sõnumeid.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="one">Saate valida kuni %d inimese</item>
+        <item quantity="other">Saate valida kuni %d inimest</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="one">Kas hüljata mustand?</item>
+        <item quantity="other">Kas hüljata mustandid?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="one">Kustutada mustand?</item>
+        <item quantity="other">Kustutada mustandid?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="one">Mustandid, {#} video</item>
+        <item quantity="other">Mustandid, {#} videot</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="one">Kasutajat %1$s ja veel %2$s kasutajat teavitatakse selle video postitamisest.</item>
+        <item quantity="other">Kasutajat %1$s ja veel %2$s kasutajat teavitatakse selle video postitamisest.</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="one">Valige vähemalt %d toode</item>
+        <item quantity="other">Valige vähemalt %d tooteartiklit</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="one">Järelhinnang %d päev hiljem</item>
+        <item quantity="other">Järelhinnang %d päeva hiljem</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="one">Lõpeb %s päeva pärast</item>
+        <item quantity="other">Lõpeb %s päeva pärast</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="one">%1$s toode, kokku %2$s</item>
+        <item quantity="other">%1$s toodet, kokku %2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="one">Kokku (%s toode)</item>
+        <item quantity="other">Kokku (%s toodet)</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="one">Saate redigeerida vaid %d korra</item>
+        <item quantity="other">Saate redigeerida kuni %d korda</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="one">Eriefekti eelvaadet näete %d sekundi pärast</item>
+        <item quantity="other">Eriefekti eelvaadet näete %d sekundi pärast</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="one">Märgistatud</item>
+        <item quantity="other">Märgistatud</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="one">Võite seda grupiliiget tunda.</item>
+        <item quantity="other">Te võite neid grupiliikmeid tunda.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s videot</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="one">%s video on lisatud</item>
+        <item quantity="other">%s videot on lisatud</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="one">Eemalda %1$d video kogust %2$s</item>
+        <item quantity="other">Eemalda %1$d videot kogust %2$s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="one">%1$d video teisaldati asukohta %2$s</item>
+        <item quantity="other">%1$d videot teisaldati asukohta %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="one">%d video eemaldati</item>
+        <item quantity="other">%d videot eemaldati</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="one">%d uus soovitatud konto</item>
+        <item quantity="other">%d uut soovitatud kontot</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="one">Kasutaja %s jälgib</item>
+        <item quantity="other">Kasutaja %s ja veel %d kasutajat jälgivad</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="one">Jälgib kasutajat %s</item>
+        <item quantity="other">Jälgib kasutajat %s ja veel %d kasutajat</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="one">{0} ja {1} ning veel {2} kasutaja jälgib</item>
+        <item quantity="other">{0} ja {1} ning veel {2} kasutajat jälgivad</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="one">{0} ja veel {2} kasutaja jälgib</item>
+        <item quantity="other">{0} ja veel {2} kasutajat jälgivad</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="one">Kasutajate {0} ja {1} ning veel {2} kasutaja jälgija</item>
+        <item quantity="other">Kasutajate {0} ja {1} ning veel {2} kasutaja jälgija</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="one">Kasutaja {0} ja veel {2} kasutaja jälgija</item>
+        <item quantity="other">Kasutaja {0} ja veel {2} kasutaja jälgija</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="one">Kasutajate {0} ja {1} ning veel {2} kasutaja sõber</item>
+        <item quantity="other">Kasutajate {0} ja {1} ning veel {2} kasutaja sõber</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="one">Kasutaja {0} ja veel {2} kasutaja sõber</item>
+        <item quantity="other">Kasutaja {0} ja veel {2} kasutaja sõber</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="one">{2} ühine tuttav</item>
+        <item quantity="other">{2} ühist tuttavat</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="one">Kasutaja %s sõber</item>
+        <item quantity="other">Kasutaja %s ja veel %d kasutaja sõber</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="one">%d uus postitus sõpradelt</item>
+        <item quantity="other">%d uut postitust sõpradelt</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="one">%d liige on praegu aktiivne</item>
+        <item quantity="other">%d liiget on praegu aktiivsed</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="one">%1$d liiget oli aktiivne %2$d minutit tagasi</item>
+        <item quantity="other">%1$d liiget olid aktiivsed %2$d minutit tagasi</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="one">%d liige oli täna aktiivne</item>
+        <item quantity="other">%d liiget olid täna aktiivsed</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="one">%d liige</item>
+        <item quantity="other">%d liiget</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="one">Uus taotlus</item>
+        <item quantity="other">Uued taotlused</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="one">%s liiget</item>
+        <item quantity="other">%s liiget</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="one">Vaata veel %d liiget</item>
+        <item quantity="other">Vaata veel %d liiget</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="one">%s vaatamine</item>
+        <item quantity="other">%s vaatamist</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="one">Jälgija: %s</item>
+        <item quantity="other">Jälgijad: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="one">Video: %s</item>
+        <item quantity="other">Videod: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="one">Saadetud kasutajale %s ja veel %d kasutajale</item>
+        <item quantity="other">Saadetud kasutajale %s ja veel %d kasutajale</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="one">%d lugu ei saanud üles laadida. Lugu salvestati teie mustandite alla.</item>
+        <item quantity="other">%d lugu ei saanud üles laadida. Need lood salvestati teie mustandite alla.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="one">Pilti ei saanud üles laadida. Pilt salvestati teie mustandite alla.</item>
+        <item quantity="other">Pilte ei saanud üles laadida. Pildid salvestati teie mustandite alla.</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="one">%d kleebis</item>
+        <item quantity="other">%d kleebist</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="one">mainis teid pildil.</item>
+        <item quantity="other">mainis teid piltidel.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="one">%s uus postitus</item>
+        <item quantity="other">%s uut postitust</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="one">Tegevus</item>
+        <item quantity="other">Tegevused</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="one">Jälgige kasutajaid %1$s, %2$s ja veel %d kasutajat, keda võite teada, et vaadata nende videoid.</item>
+        <item quantity="other">Jälgige kasutajaid %1$s, %2$s ja veel %d kasutajat, keda võite teada, et vaadata nende videoid.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="one">Veel %d kasutaja</item>
+        <item quantity="other">Veel %d kasutajat</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="one">Jälgige kasutajaid %1$s, %2$s ja veel %3$d kasutajat, keda võite teada, et vaadata nende videoid.</item>
+        <item quantity="other">Jälgige kasutajaid %1$s, %2$s ja veel %3$d kasutajat, keda võite teada, et vaadata nende videoid.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="one">Sõnum</item>
+        <item quantity="other">Sõnumid</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="one">Uus tegevus</item>
+        <item quantity="other">Uued tegevused</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="one">%s liiget</item>
+        <item quantity="other">%s liiget</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="one">%s postitus</item>
+        <item quantity="other">%s postitust</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="one">%d märksõna</item>
+        <item quantity="other">%d märksõna</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="one">%d LIVE-video</item>
+        <item quantity="other">%d LIVE-videot</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="one">Lõpeb %s päeva pärast</item>
+        <item quantity="other">Lõpeb %s päeva pärast</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="one">Saate valida vaid kuni %1$d meediumifaili</item>
+        <item quantity="other">Saate valida vaid kuni %1$d meediumifaili</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="one">%d taotlus</item>
+        <item quantity="other">%d taotlust</item>
+    </plurals>
+    <plurals name="j0">
+        <item quantity="one">%d uus märguanne</item>
+        <item quantity="other">%d uut märguannet</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="one">Kas eemaldada laul uute laulude loendist?</item>
+        <item quantity="other">Kas eemaldada laulud uute laulude loendist?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="one">%d laulu uuena määratlemine tühistati</item>
+        <item quantity="other">%d laulu uuena määratlemine tühistati</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="one">%d väljalase</item>
+        <item quantity="other">%d väljalaset</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="one">%d artist</item>
+        <item quantity="other">%d artisti</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="one">%d ühine tuttav</item>
+        <item quantity="other">%d ühist tuttavat</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="one">%d ühine tuttav</item>
+        <item quantity="other">%d ühist tuttavat</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="one">Saate nüüd laadida üles kuni %d minuti pikkuseid videoid!</item>
+        <item quantity="other">Saate nüüd laadida üles kuni %d minuti pikkuseid videoid!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="one">%d minuti pikkuse video funktsioon</item>
+        <item quantity="other">%d minuti pikkuse video funktsioon</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="one">%d ühine tuttav</item>
+        <item quantity="other">%d ühist tuttavat</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="one">%d kommentaar</item>
+        <item quantity="other">%d kommentaari</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="one">Kuva %d kommentaar</item>
+        <item quantity="other">Kuva kõik %d kommentaari</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="one">{nickname} ja veel {number_1} kasutaja</item>
+        <item quantity="other">{nickname} ja veel {number_1} kasutajat</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="one">{number} sõber postitas tänase Now</item>
+        <item quantity="other">{number} sõpra postitasid tänase Now</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="one">%1$s ja %2$d teine kasutaja postitasid oma Now</item>
+        <item quantity="other">%1$s ja %2$d teist kasutajat postitasid oma Now</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="one">{nickname} ja veel {number_1} kasutaja</item>
+        <item quantity="other">{nickname} ja veel {number_1} kasutajat</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="one">Ühinege {number} sõbraga teenuses TikTok Now, et jagada juhuslikke hetki</item>
+        <item quantity="other">Ühinege {number} sõbraga teenuses TikTok Now, et jagada juhuslikke hetki</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="one">Postitage Now järgmise {number} minuti jooksul</item>
+        <item quantity="other">Postitage Now järgmise {number} minuti jooksul</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="one">%d minut on jäänud Now postitamiseks.</item>
+        <item quantity="other">%d minutit on jäänud Now postitamiseks.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="one">%d ühine sõber</item>
+        <item quantity="other">%d ühist sõpra</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="one">%d meeldivaks märkimine</item>
+        <item quantity="other">%d meeldivaks märkimist</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="one">{1}, {2}, {3} ja veel {number} kasutaja postitasid äsja Now.</item>
+        <item quantity="other">{1}, {2}, {3} ja veel {number} kasutajat postitasid äsja Now.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="one">%d reaktsioon</item>
+        <item quantity="other">%d reaktsiooni</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="one">%d vaatamine</item>
+        <item quantity="other">%d vaatamist</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="one">%d vaatamine</item>
+        <item quantity="other">%d vaatamist</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="one">%1$s ja veel %2$s</item>
+        <item quantity="other">%1$s ja veel %2$s</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="one">Teie rakenduse Lemon8 kontolt sünkroonitud postitusel pole veel heli. Lisage heli, et postitus vaatajate jaoks paeluvamaks muuta.</item>
+        <item quantity="other">Teie rakenduse Lemon8 kontolt sünkroonitud postitustel pole veel heli. Lisage heli, et postitused vaatajate jaoks paeluvamaks muuta.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="one">Lisage oma postituse täiustamiseks heli</item>
+        <item quantity="other">Lisage oma postituste täiustamiseks heli</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="one">märkis teie pildi meeldivaks.</item>
+        <item quantity="other">märkis teie pildid meeldivaks.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="one">hääletas teie pildi poolt.</item>
+        <item quantity="other">hääletas teie piltide poolt.</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="one">%d episood</item>
+        <item quantity="other">%d episoodi</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="one">%d osa</item>
+        <item quantity="other">%d osa</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="one">Saate seda saata veel %d korra</item>
+        <item quantity="other">Saate seda saata veel %d korda</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="one">%d vaataja esitas laulusoovi</item>
+        <item quantity="other">%d vaatajat esitasid laulusoovi</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="one">Juurdepääs taastatakse %s päeva pärast</item>
+        <item quantity="other">Juurdepääs taastatakse %s päeva pärast</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="one">%s Münt kõige aktiivsemalt vaatajalt</item>
+        <item quantity="other">%s Münti kõige aktiivsemalt vaatajalt</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="one">%s Münt aktiivsuselt 2. kohal olevalt vaatajalt</item>
+        <item quantity="other">%s Münti aktiivsuselt 2. kohal olevalt vaatajalt</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="one">%s jälgija</item>
+        <item quantity="other">%s jälgijat</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="one">Valige %s müügiks pakutava toote seast</item>
+        <item quantity="other">Valige {number} müügiks pakutava toote seast</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="one">Valige %s müügiks pakutava toote seast</item>
+        <item quantity="other">Valige {number} müügiks pakutava toote seast</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="one">%s Münt antud LIVE-sisuloojale</item>
+        <item quantity="other">%s Münti antud LIVE-sisuloojale</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="one">%s meeldimine</item>
+        <item quantity="other">%s meeldimist</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="one">%s vaataja</item>
+        <item quantity="other">%s vaatajat</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="one">%s jagamine. Video jagamine</item>
+        <item quantity="other">%s jagamist. Video jagamine</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="one">%1$s hääletas %2$s</item>
+        <item quantity="other">%1$s hääletasid %2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="one">%1$s inimene hääletas %2$s, %3$s inimene hääletas %4$s</item>
+        <item quantity="other">%1$s inimest hääletas %2$s, %3$s inimest hääletas %4$s</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="one">%d minuti pärast</item>
+        <item quantity="other">%d minuti pärast</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="one">Uue tasemeni jõudmiseks on vaja saada veel %d kogemuspunkt</item>
+        <item quantity="other">Uue tasemeni jõudmiseks on vaja saada veel %d kogemuspunkti</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="one">Teie auhinnad hiberneeruvad %d päeva pärast</item>
+        <item quantity="other">Teie auhinnad hiberneeruvad %d päeva pärast</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="one">Kas lõpetada LIVE? Praegu vaatab %s vaataja.</item>
+        <item quantity="other">Kas lõpetada LIVE? Praegu vaatab %s vaatajat.</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="one">Kas lõpetada LIVE? Praegu vaatab %s vaataja.</item>
+        <item quantity="other">Kas lõpetada LIVE? Praegu vaatab %s vaatajat.</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="one">%s uus sõnum</item>
+        <item quantity="other">%s uut sõnumit</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="one">Kaaskorraldas {num} päeval</item>
+        <item quantity="other">Kaaskorraldas {num} päeva järjest</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="one">{number} münt on puudu</item>
+        <item quantity="other">{number} münti on puudu</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="one">Teie viimase {number} päeva rekord: {amount} Münt</item>
+        <item quantity="other">Teie viimase {number} päeva rekord: {amount} Münti</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="one">Soovitatud: {amount} Münt</item>
+        <item quantity="other">Soovitatud: {amount} Münti</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="one">Teil on nüüd {number} münt. Laadige juurde, et saada rohkem münte.</item>
+        <item quantity="other">Teil on nüüd {number} münti. Laadige juurde, et saada rohkem münte.</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="one">Õige pakkumine (%d)</item>
+        <item quantity="other">Õiged pakkumised (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="one">%s õige pakkumine</item>
+        <item quantity="other">%s õiget pakkumist</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="one">%s vaataja arvas selle ära ��</item>
+        <item quantity="other">%s vaatajat arvasid selle ära ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="one">Enamik vaatajatest arvas ära %s sõna</item>
+        <item quantity="other">Enamik vaatajatest arvas ära %s sõna</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="one">Ükski vaatajatest ei arvanud sõna ära</item>
+        <item quantity="other">Ükski vaatajatest ei arvanud sõnu ära</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="one">Sõna joonistamiseks on aega %s minut</item>
+        <item quantity="other">Sõna joonistamiseks on aega %s minutit</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="one">�� %d vaataja arvas sõna „%s“ ära</item>
+        <item quantity="other">�� %d vaatajat arvasid sõna „%s“ ära</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="one">Arvasin ära %s sõna!</item>
+        <item quantity="other">Arvasin ära %s sõna!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="one">Arvasite ära %s sõna</item>
+        <item quantity="other">Arvasite ära %s sõna</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="one">{0:string} ja veel {1:string} ostja ostab praegu</item>
+        <item quantity="other">{0:string} ja veel {1:string} ostjat ostavad praegu</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="one">%d pilt on liiga väike. Pildi suurus peab olema vähemalt 256 × 256 pikslit.</item>
+        <item quantity="other">%d pilti on liiga väikesed. Pildi suurus peab olema vähemalt 256 × 256 pikslit.</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="one">%d vaataja</item>
+        <item quantity="other">%d vaatajat</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="one">Teil on %d münt.</item>
+        <item quantity="other">Teil on %d münti.</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="one">Selle kingituse saatmiseks saate vahetada %@ veel %d mündi vastu.</item>
+        <item quantity="other">Selle kingituse saatmiseks saate vahetada %@ veel %d mündi vastu.</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="one">LIVE&apos;i kingituste saldo on vahetatud {{num}} mündi vastu</item>
+        <item quantity="other">LIVE&apos;i kingituste saldo on vahetatud {{num}} mündi vastu</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="one">Teil jääb %1$d münt puudu. Kas vahetada %2$s müntide vastu ja saata %3$s?</item>
+        <item quantity="other">Teil jääb %1$d münti puudu. Kas vahetada %2$s müntide vastu ja saata %3$s?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="one">%d münt vahetatud ja %s saadetud</item>
+        <item quantity="other">%d münti vahetatud ja %s saadetud</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="one">%s liige</item>
+        <item quantity="other">%s liiget</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="one">On teiega olnud {num} päev</item>
+        <item quantity="other">On teiega olnud {num} päeva</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="one">Aktiivseks jäämiseks saage {num} tunni jooksul 1 liikmepunkt</item>
+        <item quantity="other">Aktiivseks jäämiseks saage {num} tunni jooksul 1 liikmepunkt</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="one">Seda saab saata %1$d Mündi eest veel %2$d korra.</item>
+        <item quantity="other">Seda saab saata %1$d Mündi eest veel %2$d korda.</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="one">%d jälgija on praegu aktiivne</item>
+        <item quantity="other">%d jälgijat on praegu aktiivsed</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="one">{number} teie sõber on LIVE&apos;is. Saatke talle kutse, et alustada ühist LIVE&apos;i!</item>
+        <item quantity="other">{number} teie sõpra on LIVE&apos;is. Saatke neile kutse, et alustada ühist LIVE&apos;i!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="one">Juurde laadides avate {num} Mündi</item>
+        <item quantity="other">Juurde laadides avate {num} Münti</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="one">{num} päev</item>
+        <item quantity="other">{num} päeva</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="one">Lukustage lahti {num} Münt</item>
+        <item quantity="other">Lukustage lahti {num} Münti</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="one">{num} Münt</item>
+        <item quantity="other">{num} Münti</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="one">Lukustate lahti {num} Mündi.</item>
+        <item quantity="other">Lukustate lahti {num} Münti.</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="one">Laadige juurde veel {num_1} Münt.</item>
+        <item quantity="other">Laadige juurde veel {num_1} Münti.</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="one">Laadige juurde, et lukustada lahti {num} Münt</item>
+        <item quantity="other">Laadige juurde, et lukustada lahti {num} Münti</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="one">{number} viimane päev</item>
+        <item quantity="other">Viimased {number} päeva</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="one">Mängu {gameName} ja veel {number} mängu hinda muudeti. Lisateavet leiate partnerluskeskusest.</item>
+        <item quantity="other">Mängu {gameName} ja veel {number} mängu hinda muudeti. Lisateavet leiate partnerluskeskusest.</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="one">Programmi tingimuste rikkumise tõttu teie LIVE&apos;is kinkimine %s päevaks peatatud.</item>
+        <item quantity="other">Programmi tingimuste rikkumise tõttu teie LIVE&apos;is kinkimine %s päevaks peatatud.</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="one">Selles LIVE&apos;is kinkimine peatatud ja taastatakse %s minuti pärast.</item>
+        <item quantity="other">Selles LIVE&apos;is kinkimine peatatud ja taastatakse %s minuti pärast.</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="one">Kinkimine {0} päevaks peatatud.</item>
+        <item quantity="other">Kinkimine {0} päevaks peatatud.</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="one">Kinkimine %s päevaks peatatud</item>
+        <item quantity="other">Kinkimine %s päevaks peatatud</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="one">Saatke %d Mündi eest</item>
+        <item quantity="other">Saatke %d Mündi eest</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="one">Juurdelaadimine lõpetatud ja teil on nüüd %d Münt. Saatke see Kingitus oma toetuse näitamiseks!</item>
+        <item quantity="other">Juurdelaadimine lõpetatud ja teil on nüüd %d Münti. Saatke see Kingitus oma toetuse näitamiseks!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="one">Vahetus tehtud ja teil on nüüd %d Münt. Saatke see Kingitus oma toetuse näitamiseks!</item>
+        <item quantity="other">Vahetus tehtud ja teil on nüüd %d Münti. Saatke see Kingitus oma toetuse näitamiseks!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="one">{0:user} saatis {3:string} {1:gift} ({2:string} punkt), mis on nende kõige esimene saadetud Kingitus. Näidake oma tänulikkust!</item>
+        <item quantity="other">{0:user} saatis {3:string} {1:gift} ({2:string} punkti), mis on nende kõige esimene saadetud Kingitus. Näidake oma tänulikkust!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="one">{0:user} saatis {3:string} {1:gift} ({2:string} punkt)</item>
+        <item quantity="other">{0:user} saatis {3:string} {1:gift} ({2:string} punkti)</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="one">{0:user} saatis {3:string} {1:gift} ({2:string} punkt)</item>
+        <item quantity="other">{0:user} saatis {3:string} {1:gift} ({2:string} punkti)</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="one">{0:user} saatis {3:string} {1:gift} ({2:string} punkt) ja läks sisuloojaga esimest korda selle ringreisi jooksul linna {4:city}!</item>
+        <item quantity="other">{0:user} saatis {3:string} {1:gift} ({2:string} punkti) ja läks sisuloojaga esimest korda selle ringreisi jooksul linna {4:city}!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="one">Kingituse üksikasjad (kokku {{num}} tehing)</item>
+        <item quantity="other">Kingituse üksikasjad (kokku {{num}} tehingut)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="one">{amount} Münt</item>
+        <item quantity="other">{amount} Münti</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="one">Kingitus</item>
+        <item quantity="other">Kingitused</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="one">%d münt</item>
+        <item quantity="other">%d münti</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="one">Teile on saadetud %s kingitus. Ärge unustage tänada.</item>
+        <item quantity="other">Teile on saadetud %s kingitust. Ärge unustage tänada.</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="one">Teile on saadetud %s kingitus</item>
+        <item quantity="other">Teile on saadetud %s kingitust</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="one">Kas viia %s mündi vastu vahetamine lõpule?</item>
+        <item quantity="other">Kas viia %s mündi vastu vahetamine lõpule?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="one">Alustage LIVE&apos;i (%d s)</item>
+        <item quantity="other">Alustage LIVE&apos;i (%d s)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="one">%s külalise taotlus</item>
+        <item quantity="other">%s külaliste taotlust</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="one">%s taotlus</item>
+        <item quantity="other">%s taotlust</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="one">%s punkt</item>
+        <item quantity="other">%s punkti</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="one">peate koguma veel %1$s punkti, et jõuda tasemele %2$s</item>
+        <item quantity="other">peate koguma veel %1$s punkti, et jõuda tasemele %2$s</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="one">%d kasutaja taotleb liitumist</item>
+        <item quantity="other">%d kasutajat taotleb liitumist</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="one">Teil on LIVE-videote alustamine külalisena peatatud %d päevaks</item>
+        <item quantity="other">Teil on LIVE-videote alustamine külalisena peatatud %d päevaks</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="one">Teil on LIVE-videote alustamine külalisena peatatud %d tunniks</item>
+        <item quantity="other">Teil on LIVE-videote alustamine külalisena peatatud %d tunniks</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="one">Teil on LIVE-videote alustamine külalisena peatatud %d minutiks</item>
+        <item quantity="other">Teil on LIVE-videote alustamine külalisena peatatud %d minutiks</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="one">Teil on LIVE-videote alustamine külalisena peatatud %d sekundiks</item>
+        <item quantity="other">Teil on LIVE-videote alustamine külalisena peatatud %d sekundiks</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="one">Tööriist</item>
+        <item quantity="other">Tööriistad</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="one">[username] ja veel [number] jälgija müksasid teid, et te LIVE&apos;i alustaks</item>
+        <item quantity="other">[username] ja veel [number] jälgijat müksasid teid, et te LIVE&apos;i alustaks</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="one">[username] ja veel [number] jälgija müksasid teid hiljuti, et te LIVE&apos;i alustaks</item>
+        <item quantity="other">[username] ja veel [number] jälgijat müksasid teid hiljuti, et te LIVE&apos;i alustaks</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="one">Kui võtate kutse vastu, liitub see LIVE-sisulooja teie kaaskorraldajana.</item>
+        <item quantity="other">Kui võtate kutse vastu, liituvad need LIVE-sisuloojad teie kaaskorraldajatena.</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="one">{number} päev</item>
+        <item quantity="other">{number} päeva</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="one">Järgmisel sammul, pärast lehelt lahkumist, on teie kupong uuesti kasutamiseks saadaval {number} päeva pärast.</item>
+        <item quantity="other">Järgmisel sammul, pärast lehelt lahkumist, on teie kupong uuesti kasutamiseks saadaval {number} päeva pärast.</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="one">Järgmisel sammul, pärast lehelt lahkumist, on teie kupong uuesti kasutamiseks saadaval {number} tunni pärast.</item>
+        <item quantity="other">Järgmisel sammul, pärast lehelt lahkumist, on teie kupong uuesti kasutamiseks saadaval {number} tunni pärast.</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="one">Järgmisel sammul, pärast lehelt lahkumist, on teie kupong uuesti kasutamiseks saadaval {number} minuti pärast.</item>
+        <item quantity="other">Järgmisel sammul, pärast lehelt lahkumist, on teie kupong uuesti kasutamiseks saadaval {number} minuti pärast.</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="one">Kupong on uuesti saadaval {number} päeva pärast</item>
+        <item quantity="other">Kupong on uuesti saadaval {number} päeva pärast</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="one">Kupong on uuesti saadaval {number} tunni pärast</item>
+        <item quantity="other">Kupong on uuesti saadaval {number} tunni pärast</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="one">Kupong on uuesti saadaval {number} minuti pärast</item>
+        <item quantity="other">Kupong on uuesti saadaval {number} minuti pärast</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="one">%s meeldimine</item>
+        <item quantity="other">%s meeldimist</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="one">meeldimine</item>
+        <item quantity="other">meeldimised</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="one">%s meeldimine</item>
+        <item quantity="other">%s meeldimist</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="one">Teie LIVE&apos;i taotlust ei kinnitatud. Saate uuesti taotleda %d päeva pärast.</item>
+        <item quantity="other">Teie LIVE&apos;i taotlust ei kinnitatud. Saate uuesti taotleda %d päeva pärast.</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="one">Taotlesite juurdepääsu LIVE&apos;ile. Järgmise 7 päeva jooksul saate LIVE&apos;i alustada. Järgige kindlasti kogukonna juhiseid ja tehke alustage nädalal %d tunniks LIVE&apos;e, et saada püsiv juurdepääs.</item>
+        <item quantity="other">Taotlesite juurdepääsu LIVE&apos;ile. Järgmise 7 päeva jooksul saate LIVE&apos;i alustada. Järgige kindlasti kogukonna juhiseid ja tehke esimesel nädalal %d tunniks LIVE&apos;e, et saada püsiv juurdepääs.</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="one">Alustage kuupäevaks %s veel %d tunni jagu LIVE&apos;e, et saada püsiv juurdepääs LIVE&apos;ile</item>
+        <item quantity="other">Alustage kuupäevaks %s veel %d tunni jagu LIVE&apos;e, et saada püsiv juurdepääs LIVE&apos;ile</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="one">Alustage kuupäevaks %2$s veel %1$s tunni jagu LIVE&apos;e, et saada püsiv juurdepääs LIVE&apos;ile</item>
+        <item quantity="other">Alustage kuupäevaks %2$s veel %1$s tunni jagu LIVE&apos;e, et saada püsiv juurdepääs LIVE&apos;ile</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="one">%s punkt</item>
+        <item quantity="other">%s punkti</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="one">{%s host username} vajab {%d} Münti, et saada selle nädala paremuselt {%n} LIVE-sisulooja hulka!</item>
+        <item quantity="other">{%s host username} vajab {%d} Münti, et saada selle nädala paremuselt {%n} LIVE-sisulooja hulka!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="one">1 päev on jäänud. Hankige veel {%d} Teemant, et saada 3 parima LIVE-sisulooja hulka ja võita eksklusiivne märgis oma videole.</item>
+        <item quantity="other">1 päev on jäänud. Hankige veel {%d} Teemanti, et saada 3 parima LIVE-sisulooja hulka ja võita eksklusiivne märgis oma videole.</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="one">1 päev on jäänud. Hankige veel {%d} Teemant, et teie LIVE-video jõuaks rohkemate potentsiaalsete vaatajateni.</item>
+        <item quantity="other">1 päev on jäänud. Hankige veel {%d} Teemanti, et teie LIVE-video jõuaks rohkemate potentsiaalsete vaatajateni.</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="one">1 päev on jäänud. Hankige veel {%d} Teemant, et võita LIVE-sisuloojatele mõeldud unikaalseid auhindu!</item>
+        <item quantity="other">1 päev on jäänud. Hankige veel {%d} Teemanti, et võita LIVE-sisuloojatele mõeldud unikaalseid auhindu!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="one">1 jälgija on praegu aktiivne</item>
+        <item quantity="other">%s jälgijat on praegu aktiivsed</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="one">vaja on %s münti</item>
+        <item quantity="other">vaja on %s münti</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="one">%d tellija vaatab</item>
+        <item quantity="other">%d tellijat vaatavad</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="one">3 minutit on jäänud. Hankige veel {%d} Teemant, et saada paremuselt 3 LIVE-sisuloojaks ja võita eksklusiivne märgis.</item>
+        <item quantity="other">3 minutit on jäänud. Hankige veel {%d} Teemanti, et saada paremuselt 3 LIVE-sisuloojaks ja võita eksklusiivne märgis.</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="one">3 minutit on jäänud. Hankige veel {%d} Teemant, et teie LIVE-video jõuaks rohkemate potentsiaalsete vaatajateni.</item>
+        <item quantity="other">3 minutit on jäänud. Hankige veel {%d} Teemanti, et teie LIVE-video jõuaks rohkemate potentsiaalsete vaatajateni.</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="one">3 minutit on jäänud. Hankige veel {%d} Teemant, et võita populaarsetele LIVE-sisuloojatele mõeldud unikaalseid auhindu!</item>
+        <item quantity="other">3 minutit on jäänud. Hankige veel {%d} Teemanti, et võita LIVE-sisuloojatele mõeldud unikaalseid auhindu!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="one">%s tund %d minutit</item>
+        <item quantity="other">%s tundi %d minutit</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="one">teemant</item>
+        <item quantity="other">teemandid</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="one">vaatamine</item>
+        <item quantity="other">vaatamised</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="one">Küsimustele saab vastata %s minuti jooksul</item>
+        <item quantity="other">Küsimustele saab vastata %s minuti jooksul</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="one">%s tund tagasi</item>
+        <item quantity="other">%s tundi tagasi</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="one">%s min tagasi</item>
+        <item quantity="other">%s min tagasi</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="one">%s algab 10 minuti pärast. %d vaataja on teie sündmust näinud. Alustage LIVE&apos;i kohe, et oma reklaamist maksimumi võtta!</item>
+        <item quantity="other">%s algab 10 minuti pärast. %d vaataja on teie sündmust näinud. Alustage LIVE&apos;i kohe, et oma reklaamist maksimumi võtta!</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="one">Vaadake %s õpetusülesannet</item>
+        <item quantity="other">Vaadake %s õpetusülesannet</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="one">%d eelisjärjekorras olev taotlus toetajatelt</item>
+        <item quantity="other">%d eelisjärjekorras olevat taotlust toetajatelt</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="one">%d münt</item>
+        <item quantity="other">%d münti</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="one">See läheb teile maksma %d Münt.</item>
+        <item quantity="other">See läheb teile maksma %d Münti.</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="one">Olete täna saatnud %d Mündi. %s</item>
+        <item quantity="other">Olete täna saatnud %d Münti. %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="one">LIVE-sisulooja võib seada eelisjärjekorda taotlused nendelt, kes on kokku saatnud rohkem kui %d Mündi.</item>
+        <item quantity="other">LIVE-sisulooja võib seada eelisjärjekorda taotlused nendelt, kes on kokku saatnud rohkem kui %d Münti.</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="one">LIVE-sisulooja võib seada eelisjärjekorda taotlused teilt ja teistelt, kes on kokku saatnud rohkem kui %d Mündi.</item>
+        <item quantity="other">LIVE-sisulooja võib seada eelisjärjekorda taotlused teilt ja teistelt, kes on kokku saatnud rohkem kui %d Münti.</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="one">See läheb teile maksma %d Münt.</item>
+        <item quantity="other">See läheb teile maksma %d Münti.</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="one">Saate kasutajat %1$s uuesti kaamerat sisse lülitama kutsuda %2$s sekundi pärast</item>
+        <item quantity="other">Saate kasutajat %1$s uuesti kaamerat sisse lülitama kutsuda %2$s sekundi pärast</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="one">Saate kasutajat %1$s uuesti mikrofoni sisse lülitama kutsuda %2$s sekundi pärast</item>
+        <item quantity="other">Saate kasutajat %1$s uuesti mikrofoni sisse lülitama kutsuda %2$s sekundi pärast</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="one">%d minut</item>
+        <item quantity="other">%d minutit</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="one">%d sekund</item>
+        <item quantity="other">%d sekundit</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="one">%d sek</item>
+        <item quantity="other">%d sek</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="one">Esimeses etapis on vaja täita %s ülesanne</item>
+        <item quantity="other">Esimeses etapis on vaja täita %s ülesannet</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="one">Teises etapis on vaja täita %s ülesanne</item>
+        <item quantity="other">Teises etapis on vaja täita %s ülesannet</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="one">Saate luua kuni %s kohandatud hüve. Uue kohandatud hüve loomiseks kustutage mõni.</item>
+        <item quantity="other">Saate luua kuni %s kohandatud hüve. Uue kohandatud hüve loomiseks kustutage mõni.</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="one">Küsitlus lõpeb %s s pärast</item>
+        <item quantity="other">Küsitlus lõpeb %s s pärast</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="one">Hääletage kohe (%ss) :</item>
+        <item quantity="other">Hääletage kohe (%ss) :</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="one">Olete täna %d mündi kulutanud.</item>
+        <item quantity="other">Olete täna %d münti kulutanud.</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="one">Kinkige aeglasemas tempos ja proovige %d minuti pärast uuesti.</item>
+        <item quantity="other">Kinkige aeglasemas tempos ja proovige %d minuti pärast uuesti.</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="one">Kasutaja {0:user} portaal on suletud. {1:string} vaataja liitus portaali kaudu.</item>
+        <item quantity="other">Kasutaja {0:user} portaal on suletud. {1:string} vaatajat liitus portaali kaudu.</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="one">Kasutaja {0:user} portaal on suletud. {1:string} vaataja liitus portaali kaudu! Hästi tehtud!��</item>
+        <item quantity="other">Kasutaja {0:user} portaal on suletud. {1:string} vaatajat liitus portaali kaudu! Hästi tehtud!��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="one">Kasutaja {0:user} portaal on suletud. {1:string} vaataja liitus portaali kaudu! Suurepärane! ��</item>
+        <item quantity="other">Kasutaja {0:user} portaal on suletud. {1:string} vaatajat liitus portaali kaudu! Suurepärane! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="one">%s vaatamine</item>
+        <item quantity="other">%s vaatamist</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="one">Arvuti veebisaidilt on ostetud {{num}} münt</item>
+        <item quantity="other">Arvuti veebisaidilt on ostetud {{num}} münti</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="one">Rakenduses on ostetud {{num}} münt</item>
+        <item quantity="other">Rakenduses on ostetud {{num}} münti</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="one">Mobiilseadme veebisaidilt on ostetud {{num}} münt</item>
+        <item quantity="other">Mobiilseadme veebisaidilt on ostetud {{num}} münti</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="one">Vaatasime teie apellatsiooni üle ja muutsime tühistatud juurdepääsu tähtaega. Juurdepääs LIVE&apos;i alustamisele PC- või Mac-seadmest taastatakse %s päeva pärast.</item>
+        <item quantity="other">Vaatasime teie apellatsiooni üle ja muutsime tühistatud juurdepääsu tähtaega. Juurdepääs LIVE&apos;i alustamisele PC- või Mac-seadmest taastatakse %s päeva pärast.</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="one">Teie juurdepääs LIVE&apos;i alustamisele PC- või Mac-seadmest on Kogukonna juhiste korduva rikkumise tõttu %s päevaks peatatud.</item>
+        <item quantity="other">Teie juurdepääs LIVE&apos;i alustamisele PC- või Mac-seadmest on Kogukonna juhiste korduva rikkumise tõttu %s päevaks peatatud.</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="one">Vaatasime teie apellatsiooni üle ja määrasime uueks aardekirstule juurdepääsu piirangu kestuseks %s päeva.</item>
+        <item quantity="other">Vaatasime teie apellatsiooni üle ja määrasime uueks aardekirstule juurdepääsu piirangu kestuseks %s päeva.</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="one">Teie juurdepääs aardekirstule on Kogukonna juhiste korduva rikkumise tõttu %s päevaks peatatud.</item>
+        <item quantity="other">Teie juurdepääs aardekirstule on Kogukonna juhiste korduva rikkumise tõttu %s päevaks peatatud.</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="one">Kogusite viimase 30 päeva jooksul rohkem kui %s Teemanti. Jätkake nädalapõhise pingereaga liitumiseks samas vaimus.</item>
+        <item quantity="other">Kogusite viimase 30 päeva jooksul rohkem kui %s Teemanti. Jätkake nädalapõhise pingereaga liitumiseks samas vaimus.</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="one">Selles pingereas kuvatakse LIVE-sisuloojad, kes on viimase 30 päeva jooksul saanud vähem kui {0:string} Teemandi.</item>
+        <item quantity="other">Selles pingereas kuvatakse LIVE-sisuloojad, kes on viimase 30 päeva jooksul saanud vähem kui {0:string} Teemanti.</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="one">Kinkimine %s päevaks peatatud</item>
+        <item quantity="other">Kinkimine %s päevaks peatatud</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="one">Teil on praegu {number_1} münt. Üksuse saatmiseks laadige juurde {number_2} münti ({amount}).</item>
+        <item quantity="other">Teil on praegu {number_1} münti. Üksuse saatmiseks laadige juurde {number_2} münti ({amount}).</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="one">%s münt on puudu</item>
+        <item quantity="other">%s münti on puudu</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="one">Teile on saadetud {number} kutselink</item>
+        <item quantity="other">Teile on saadetud {number} kutselinki</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="one">Avage tellimusega seotud kutse, mille saatis %s</item>
+        <item quantity="other">Avage tellimusega seotud kutse, mille saatsid %s ja teised</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="one">Taotlus saadeti %d minuti eest</item>
+        <item quantity="other">Taotlus saadeti %d minuti eest</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="one">Kinkimine %s päevaks peatatud</item>
+        <item quantity="other">Kinkimine %s päevaks peatatud</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="one">Juurdepääs taastatakse %s päeva pärast.</item>
+        <item quantity="other">Juurdepääs taastatakse %s päeva pärast.</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="one">Vaatasime teie apellatsiooni üle ja muutsime tühistatud juurdepääsu tähtaega. Juurdepääs LIVE Studiole taastatakse %s päeva pärast.</item>
+        <item quantity="other">Vaatasime teie apellatsiooni üle ja muutsime tühistatud juurdepääsu tähtaega. Juurdepääs LIVE Studiole taastatakse %s päeva pärast.</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="one">Vaatasime teie apellatsiooni üle ja muutsime tühistatud juurdepääsu tähtaega. Juurdepääs mobiilimängudele taastatakse %s päeva pärast.</item>
+        <item quantity="other">Vaatasime teie apellatsiooni üle ja muutsime tühistatud juurdepääsu tähtaega. Juurdepääs mobiilimängudele taastatakse %s päeva pärast.</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="one">Vaatasime teie apellatsiooni üle ja muutsime tühistatud juurdepääsu tähtaega. Juurdepääs LIVE&apos;i alustamisele PC- või Mac-seadmest taastatakse %s päeva pärast.</item>
+        <item quantity="other">Vaatasime teie apellatsiooni üle ja muutsime tühistatud juurdepääsu tähtaega. Juurdepääs LIVE&apos;i alustamisele PC- või Mac-seadmest taastatakse %s päeva pärast.</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="one">Teie juurdepääs LIVE Studiole on %s päevaks peatatud, sest rikkusite korduvalt LIVE&apos;i reegleid või Kogukonna juhiseid.</item>
+        <item quantity="other">Teie juurdepääs LIVE Studiole on %s päevaks peatatud, sest rikkusite korduvalt LIVE&apos;i reegleid või Kogukonna juhiseid.</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="one">Teie juurdepääs mobiilimängudele on %s päevaks peatatud, sest rikkusite korduvalt LIVE&apos;i reegleid või Kogukonna juhiseid.</item>
+        <item quantity="other">Teie juurdepääs mobiilimängudele on %s päevaks peatatud, sest rikkusite korduvalt LIVE&apos;i reegleid või Kogukonna juhiseid.</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="one">Teie juurdepääs LIVE&apos;i alustamisele PC- või Mac-seadmest on %s päevaks peatatud, sest rikkusite korduvalt LIVE&apos;i reegleid või Kogukonna juhiseid.</item>
+        <item quantity="other">Teie juurdepääs LIVE&apos;i alustamisele PC- või Mac-seadmest on %s päevaks peatatud, sest rikkusite korduvalt LIVE&apos;i reegleid või Kogukonna juhiseid.</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="one">Eesmärk: {&lt;num&gt;} toetaja</item>
+        <item quantity="other">Eesmärk: {&lt;num&gt;} toetajat</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="one">Eesmärk: {&lt;num&gt;} kingipunkt</item>
+        <item quantity="other">Eesmärk: {&lt;num&gt;} kingipunkti</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="one">Eesmärk: {&lt;num&gt;} meeskonna toetaja</item>
+        <item quantity="other">Eesmärk: {&lt;num&gt;} meeskonna toetajat</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="one">Eesmärk: {&lt;num&gt;} meeskonna kingipunkt</item>
+        <item quantity="other">Eesmärk: {&lt;num&gt;} meeskonna kingipunkti</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="one">+ &lt;num&gt; võistluse punkt</item>
+        <item quantity="other">+ &lt;num&gt; võistluse punkti</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="one">%s vaataja näeb teie kommentaari ülaosas</item>
+        <item quantity="other">%s vaatajat näevad teie kommentaari ülaosas</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="one">Teie tärniga kommentaar kustutati LIVE&apos;i ajal ja saate selle kommentaari eest tagasimakse summas [0:string] Münt 24 tunni jooksul.</item>
+        <item quantity="other">Teie tärniga kommentaar kustutati LIVE&apos;i ajal ja saate selle kommentaari eest tagasimakse summas [0:string] Münti 24 tunni jooksul.</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="one">%s tärniga kommentaar järjekorras</item>
+        <item quantity="other">%s tärniga kommentaari järjekorras</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="one">Teie tärniga kommentaarid kustutati hiljuti. Proovige {num} tunni pärast uuesti.</item>
+        <item quantity="other">Teie tärniga kommentaarid kustutati hiljuti. Proovige {num} tunni pärast uuesti.</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="one">Teie tärniga kommentaarid kustutati hiljuti. Proovige {num} minuti pärast uuesti.</item>
+        <item quantity="other">Teie tärniga kommentaarid kustutati hiljuti. Proovige {num} minuti pärast uuesti.</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="one">Lõpp %s päeva pärast</item>
+        <item quantity="other">Lõpp %s päeva pärast</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="one">Vaatamas on %1$s vaatajat. Võite saada %2$s uue tellija, kui alustate ainult tellijatele mõeldud LIVE&apos;i nüüd.</item>
+        <item quantity="other">Vaatamas on %1$s vaatajat. Võite saada %2$s uut tellijat, kui alustate ainult tellijatele mõeldud LIVE&apos;i nüüd.</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="one">Vaatamas on %s tellija. See on hea hetk, et tugevdada sidet oma kogukonnaga, kasutades selleks ainult tellijatele mõeldud LIVE&apos;i.</item>
+        <item quantity="other">Vaatamas on %s tellijat. See on hea hetk, et tugevdada sidet oma kogukonnaga, kasutades selleks ainult tellijatele mõeldud LIVE&apos;i.</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="one">Võite saada %1$s uue tellija, korraldades iga kuu %2$s minuti jooksul ainult tellijatele mõeldud LIVE&apos;i.</item>
+        <item quantity="other">Võite saada %1$s uut tellijat, korraldades iga kuu %2$s minuti jooksul ainult tellijatele mõeldud LIVE&apos;i.</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="one">Kommentaari saab kuni %s emotikoni sisestada</item>
+        <item quantity="other">Kommentaari saab kuni %s emotikoni sisestada</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="one">Esitage tellimus, et kasutada kasutaja %1$s %2$s kohandatud emotikoni</item>
+        <item quantity="other">Esitage tellimus, et kasutada kasutaja %1$s %2$s kohandatud emotikoni</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="one">Korraldajad, kellel on vähem kui {number} jälgijat</item>
+        <item quantity="other">Korraldajad, kellel on vähem kui {number} jälgijat</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="one">Kutset ei saa saata sisuloojatele, kellel on vähem kui {number} jälgija</item>
+        <item quantity="other">Kutset ei saa saata sisuloojatele, kellel on vähem kui {number} jälgijat</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="one">Saatke {number2}. koha saavutamiseks kutse veel {number1} LIVE-sisuloojale! Ärge andke alla!</item>
+        <item quantity="other">Saatke {number2}. koha saavutamiseks kutse veel {number1} LIVE-sisuloojale! Ärge andke alla!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="one">Saatke {rankminusone}. koha saavutamiseks kutse veel {number} LIVE-sisuloojale! Ärge andke alla!</item>
+        <item quantity="other">Saatke {rankminusone}. koha saavutamiseks kutse veel {number} LIVE-sisuloojale! Ärge andke alla!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="one">Saate kutse saata vaid LIVE-sisuloojatele, kellel on rohkem kui {number} jälgija.</item>
+        <item quantity="other">Saate kutse saata vaid LIVE-sisuloojatele, kellel on rohkem kui {number} jälgijat.</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="one">Teie praegune hüve võib tuua %d%% rohkem tellijaid.</item>
+        <item quantity="other">Teie praegused hüved võib tuua %d%% rohkem tellijaid.</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="one">%1$s ostis just %2$d-kuulise tellimuse!</item>
+        <item quantity="other">%1$s ostis just %2$d-kuulise tellimuse!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="one">Saate selle välja lülitada ainult korra %s minuti jooksul. Proovige hiljem uuesti.</item>
+        <item quantity="other">Saate selle välja lülitada ainult korra %s minuti jooksul. Proovige hiljem uuesti.</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="one">Teile on {num} tellimuskingitus. Saatke see teistele!</item>
+        <item quantity="other">Teile on {num} tellimuskingitust. Saatke need teistele!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="one">Teile on jäänud %d tellimuskingitus. Saatke see teistele!</item>
+        <item quantity="other">Teile on jäänud %d tellimuskingitust. Saatke need teistele!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="one">Palju õnne! Saite aktiivsusauhinnaks [number] tellimuskingituse.</item>
+        <item quantity="other">Palju õnne! Saite aktiivsusauhinnaks [number] tellimuskingitust.</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="one">Oli kaaskorraldaja {num} päeva eest</item>
+        <item quantity="other">Oli kaaskorraldaja {num} päeva eest</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="one">Tegi teiega LIVE&apos;i {number} päeva eest</item>
+        <item quantity="other">Tegi teiega LIVE&apos;i {number} päeva eest</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="one">Oli koos teiega korraldaja {num} päeva eest</item>
+        <item quantity="other">Oli koos teiega korraldaja {num} päeva eest</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="one">Teie ligipääs funktsioonile &quot;Aardekirst&quot; on peatatud. Ligipääs taastatakse %s päeva pärast.</item>
+        <item quantity="other">Teie ligipääs funktsioonile &quot;Aardekirst&quot; on peatatud. Ligipääs taastatakse %s päeva pärast.</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="one">tippvaataja</item>
+        <item quantity="other">tippvaatajad</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="one">Tippvaataja</item>
+        <item quantity="other">Tippvaatajad</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="one">Finaal algab %s sekundi pärast</item>
+        <item quantity="other">Finaal algab %s sekundi pärast</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="one">Finaal algab %s päeva pärast</item>
+        <item quantity="other">Finaal algab %s päeva pärast</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="one">Finaal algab %s tunni pärast</item>
+        <item quantity="other">Finaal algab %s tunni pärast</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="one">Finaal algab %s minuti pärast</item>
+        <item quantity="other">Finaal algab %s minuti pärast</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="one">Poolfinaal algab %s päeva pärast</item>
+        <item quantity="other">Poolfinaal algab %s päeva pärast</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="one">Poolfinaal algab %s tunni pärast</item>
+        <item quantity="other">Poolfinaal algab %s tunni pärast</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="one">Poolfinaal algab %s minuti pärast</item>
+        <item quantity="other">Poolfinaal algab %s minuti pärast</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="one">Poolfinaal algab %s sekundi pärast</item>
+        <item quantity="other">Poolfinaal algab %s sekundi pärast</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="one">Vaja on veel {0:string} Teemanti, et jõuda {1:string}. kohale</item>
+        <item quantity="other">Vaja on veel {0:string} Teemanti, et jõuda {1:string}. kohale</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="one">Vaja on veel {0:string} toetajat, et jõuda {1:string}. kohale</item>
+        <item quantity="other">Vaja on veel {0:string} toetajat, et jõuda {1:string}. kohale</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="one">päev</item>
+        <item quantity="other">päeva</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="one">Vahetasite {amount} {num} Mündi vastu.</item>
+        <item quantity="other">Vahetasite {amount} {num} Mündi vastu.</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="one">Ostsite {amount} eest {num} Mündi.</item>
+        <item quantity="other">Ostsite {amount} eest {num} Münti.</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="one">{num} meeskonnapunktiga 2. kohast eespool</item>
+        <item quantity="other">{num} meeskonnapunktiga 2. kohast eespool</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="one">+{num} meeskonnapunkt (%1$s/%2$s meeskonnakingitust iga päev)</item>
+        <item quantity="other">+{num} meeskonnapunkti (%1$s/%2$s meeskonnakingitust iga päev)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="one">%s vaataja liitus otsingust</item>
+        <item quantity="other">%s vaatajat liitusid otsingust</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="one">Puudu %1$s meeskonnapunkt, et jõuda %2$s. kohale</item>
+        <item quantity="other">Puudu %1$s meeskonnapunkti, et jõuda %2$s. kohale</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="one">Puudu %1$s meeskonnapunkt, et jõuda %2$s. kohale</item>
+        <item quantity="other">Puudu %1$s meeskonnapunkti, et jõuda %2$s. kohale</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="one">Midagi läks valesti. Proovige {number} tunni pärast uuesti</item>
+        <item quantity="other">Midagi läks valesti. Proovige {number} tunni pärast uuesti</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="one">Midagi läks valesti. Tulge {number} minuti pärast tagasi</item>
+        <item quantity="other">Midagi läks valesti. Tulge {number} minuti pärast tagasi</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="one">Vaataja</item>
+        <item quantity="other">Vaatajad</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="one">%d vaataja</item>
+        <item quantity="other">%d vaatajat</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="one">%s vaataja</item>
+        <item quantity="other">%s vaatajat</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="one">%s vaataja saatis kingitusi</item>
+        <item quantity="other">%s vaatajat saatsid kingitusi</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="one">Postitus (%s)</item>
+        <item quantity="other">Postitused (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="one">(%s hinnang)</item>
+        <item quantity="other">(%s hinnangut)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="one">%s fotot ei laaditud üles. Proovige uuesti.</item>
+        <item quantity="other">%s fotot ei laaditud üles. Proovige uuesti.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="one">%d sarnane heli</item>
+        <item quantity="other">%d sarnast heli</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="one">%d profiili vaatamine</item>
+        <item quantity="other">%d profiili vaatamist</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="one">Jälgija</item>
+        <item quantity="other">Jälgijat</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="one">%1$s sai %2$s meeldimist</item>
+        <item quantity="other">Kasutaja %1$s kõik videod said kokku %2$s meeldimist</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="one">vaatas teie profiili.</item>
+        <item quantity="other">vaatasid teie profiili.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="one">%1$s, %2$s ja veel %d kasutaja</item>
+        <item quantity="other">%1$s, %2$s ja veel %d kasutajat</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="one">Teie profiili vaatas %s inimene.</item>
+        <item quantity="other">Teie profiili vaatas %s inimest.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="one">{0}, {1} ja veel {2} vaatasid teie profiili.</item>
+        <item quantity="other">{0}, {1} ja veel {2} vaatasid teie profiili.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="one">Saatsime teavituse teie seadmesse %1$s ja veel %2$s seadmesse. Veenduge, et teil on TikToki rakendus avatud, ja puudutage sisselogimise jätkamiseks teatises nuppu &quot;Jah&quot;.</item>
+        <item quantity="other">Saatsime teavituse teie seadmesse %1$s ja veel %2$s seadmesse. Veenduge, et teil on TikToki rakendus avatud, ja puudutage sisselogimise jätkamiseks teatises nuppu &quot;Jah&quot;.</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s videot</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videot</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="one">%s küsimus, mis pole saadaval, eemaldati teie kutsete hulgast</item>
+        <item quantity="other">%s küsimust, mis pole saadaval, eemaldati teie kutsete hulgast</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="one">%s uus sõnum</item>
+        <item quantity="other">%s uut sõnumit</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="one">%s uus reaktsioon</item>
+        <item quantity="other">%s uut reaktsiooni</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="one">%d soovitas</item>
+        <item quantity="other">%d soovitasid</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="one">%d soovitas</item>
+        <item quantity="other">%d soovitasid</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="one">Kuva veel %d soovitus</item>
+        <item quantity="other">Kuva veel %d soovitust</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="one">Salvestage kuni %d sekund</item>
+        <item quantity="other">Salvestage kuni %d sekundit</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="one">Salvestage kuni %d sekund, kasutades originaalvideo heli</item>
+        <item quantity="other">Salvestage kuni %d sekundit, kasutades originaalvideo heli</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="one">Mustand (%d)</item>
+        <item quantity="other">Mustandid (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="one">Kui otsustate selle heli taastada, siis teie video vaigistatakse.</item>
+        <item quantity="other">Kui otsustate need helid taastada, siis teie video vaigistatakse.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="one">Kas soovite autoriõigustega kaitstud heli taastada?</item>
+        <item quantity="other">Kas soovite autoriõigustega kaitstud helid taastada?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="one">Autoriõigustega kaitstud heli eemaldati</item>
+        <item quantity="other">Autoriõigustega kaitstud helid eemaldati</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="one">Heli eemaldamine</item>
+        <item quantity="other">Helide eemaldamine</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="one">Heli on eemaldatud</item>
+        <item quantity="other">Helid on eemaldatud</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="one">Asenda heli</item>
+        <item quantity="other">Asenda helid</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="one">Autoriõigustega kaitstud heli eemaldamine...</item>
+        <item quantity="other">Autoriõigustega kaitstud helide eemaldamine...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="one">Tuvastasime teie videost enam kui ühe minuti pikkuse autoriõigusi rikkuva heli. Teie video vaigistatakse, kui otsustate jätkata. Asendage heli või lühendage videot. %s</item>
+        <item quantity="other">Tuvastasime teie videost enam kui ühe minuti pikkuseid autoriõigusi rikkuvaid helisid. Teie video vaigistatakse, kui otsustate jätkata. Asendage heli või lühendage videot. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="one">Asenda heli</item>
+        <item quantity="other">Asenda helid</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="one">Autoriõigustega kaitstud heli eemaldamine...</item>
+        <item quantity="other">Autoriõigustega kaitstud helide eemaldamine...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="one">Tuvastasime teie videost autoriõigusi rikkuva kaitstud heli. Teie video vaigistatakse, kui otsustate jätkata. Soovi korral võite selle heli asendada. %s</item>
+        <item quantity="other">Tuvastasime teie videost autoriõigusi rikkuvaid helisid. Teie video vaigistatakse, kui otsustate jätkata. Soovi korral võite need helid asendada. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="one">Autoriõigustega kaitstud heli</item>
+        <item quantity="other">Autoriõigustega kaitstud helid</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="one">Autoriõiguse omanik lubab seda heli kasutada vaid 1 minuti jooksul.</item>
+        <item quantity="other">Autoriõiguse omanik lubab neid helisid kasutada vaid 1 minuti jooksul.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="one">Autoriõiguse omanik ei luba seda heli kasutada.</item>
+        <item quantity="other">Autoriõiguse omanik ei luba neid helisid kasutada.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="one">Asenda heli</item>
+        <item quantity="other">Asenda helid</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="one">Tuvastasime teie videost enam kui ühe minuti pikkuse autoriõigusi rikkuva heli. Teie video vaigistatakse, kui otsustate jätkata. Asendage heli või lühendage videot. %s</item>
+        <item quantity="other">Tuvastasime teie videost enam kui ühe minuti pikkuseid autoriõigusi rikkuvaid helisid. Teie video vaigistatakse, kui otsustate jätkata. Asendage heli või lühendage videot. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="one">Asenda heli</item>
+        <item quantity="other">Asenda helid</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="one">Tuvastasime teie videost autoriõigusi rikkuva kaitstud heli. Teie video vaigistatakse, kui otsustate jätkata. Soovi korral võite selle heli asendada. %s</item>
+        <item quantity="other">Tuvastasime teie videost autoriõigusi rikkuvaid helisid. Teie video vaigistatakse, kui otsustate jätkata. Soovi korral võite need helid asendada. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="one">Eemalda video (%d)</item>
+        <item quantity="other">Eemalda videod (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="one">%d taaspostitus</item>
+        <item quantity="other">%d taaspostitust</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="one">%d postitas uuesti</item>
+        <item quantity="other">%d postitasid uuesti</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="one">%d postitas uuesti</item>
+        <item quantity="other">%d postitasid uuesti</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="one">Kuva veel %d taaspostitus</item>
+        <item quantity="other">Kuva veel %d taaspostitust</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="one">%d päev</item>
+        <item quantity="other">%d päeva</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="one">Tehke veel %1$d otsing, et teenida %2$d punkti</item>
+        <item quantity="other">Tehke veel %1$d otsingut, et teenida %2$d punkti</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="one">Sirvige otsingutulemusi %d sekund</item>
+        <item quantity="other">Sirvige otsingutulemusi %d sekundit</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="one">Tehke veel %1$d otsing, et teenida %2$d punkti!</item>
+        <item quantity="other">Tehke veel %1$d otsingut, et teenida %2$d punkti!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="one">%d sarnast heli</item>
+        <item quantity="other">%d sarnast heli</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="one">Värskendatud %d päev tagasi</item>
+        <item quantity="other">Värskendatud %d päeva tagasi</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="one">Värskendatud %d tund tagasi</item>
+        <item quantity="other">Värskendatud %d tundi tagasi</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="one">Värskendatud %d minut tagasi</item>
+        <item quantity="other">Värskendatud %d minutit tagasi</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="one">Värskendatud %d sekund tagasi</item>
+        <item quantity="other">Värskendatud %d sekundit tagasi</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="one">Värskendatud %d nädal tagasi</item>
+        <item quantity="other">Värskendatud %d nädalat tagasi</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="one">Jagasite pilti.</item>
+        <item quantity="other">Jagasite pilte.</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="one">Palju õnne! Eile saite veel %d ostu. Jätkake suurepärast tööd ja jälgige oma sarja tulemuslikkust kuval „Sisulooja tööriistad” &gt; „Sarjad”.</item>
+        <item quantity="other">Palju õnne! Eile saite veel %d ostu. Jätkake suurepärast tööd ja jälgige oma sarja tulemuslikkust kuval „Sisulooja tööriistad” &gt; „Sarjad”.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="one">Teie sari on viimase paari päeva jooksul saanud %d lehekülastust. Sarja tulemuslikkuse jälgimiseks ja potentsiaalsete ostjate meelitamiseks kasulike näpunäidete saamiseks võite kasutada analüütikatööriistu, millele pääsete juurde kuvalt „Sisulooja tööriistad” &gt; „Sari”.</item>
+        <item quantity="other">Teie sari on viimase paari päeva jooksul saanud %d lehekülastust. Sarja tulemuslikkuse jälgimiseks ja potentsiaalsete ostjate meelitamiseks kasulike näpunäidete saamiseks võite kasutada analüütikatööriistu, millele pääsete juurde kuvalt „Sisulooja tööriistad” &gt; „Sari”.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="one">Palju õnne! %d teie LIVE’i vaataja ostis eile juurdepääsu teie sarjale. Jätkake suurepärast tööd ja jälgige oma sarja tulemuslikkust kuval „Sisulooja tööriistad” &gt; „Sarjad”.</item>
+        <item quantity="other">Palju õnne! %d teie LIVE’i vaataja ostis eile juurdepääsu teie sarjale. Jätkake suurepärast tööd ja jälgige oma sarja tulemuslikkust kuval „Sisulooja tööriistad” &gt; „Sarjad”.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="one">Palju õnne! %d vaataja ostis eile videos kuvatud sarjalingi kaudu juurdepääsu teie sarjale. Jätkake suurepärast tööd ja jälgige oma sarja tulemuslikkust kuval „Sisulooja tööriistad” &gt; „Sarjad”.</item>
+        <item quantity="other">Palju õnne! %d vaatajat ostsid eile videos kuvatud sarjalingi kaudu juurdepääsu teie sarjale. Jätkake suurepärast tööd ja jälgige oma sarja tulemuslikkust kuval „Sisulooja tööriistad” &gt; „Sarjad”.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="one">Ava kaamera (%d)</item>
+        <item quantity="other">Ava kaamera (%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="one">%.1f (%s hinnang)</item>
+        <item quantity="other">%.1f (%s hinnangut)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="one">Ainult esimene ostja</item>
+        <item quantity="other">Ainult esimesed %d ostjat</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="one">Ainult %d alles</item>
+        <item quantity="other">Ainult %d alles</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="one">Aegub %d päeva pärast</item>
+        <item quantity="other">Aegub %d päeva pärast</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videot</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videot</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videot</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s videot</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="one">%d vaatamine</item>
+        <item quantity="other">%d vaatamist</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="one">Lugu (%d)</item>
+        <item quantity="other">Lood (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="one">{Brand} soovib pikendada esialgset luba {start_date} - {end_date} {num} päeva võrra.</item>
+        <item quantity="other">{Brand} soovib pikendada esialgset luba {start_date} - {end_date} {num} päevade võrra.</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="one">%d video lisatud</item>
+        <item quantity="other">%d videot lisatud</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="one">Sisuloojad on olnud TikToki kasutajad kauem kui %d kuu.</item>
+        <item quantity="other">Sisuloojad on olnud TikToki kasutajad kauem kui %d kuud.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="one">Sisuloojatel on vähemalt %d jälgija.</item>
+        <item quantity="other">Sisuloojatel on vähemalt %d jälgijat.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="one">%d interaktsioon</item>
+        <item quantity="other">%d interaktsiooni</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="one">Päevalimiit populaarsete teemade lisamiseks: %d postitus</item>
+        <item quantity="other">Päevalimiit populaarsete teemade lisamiseks: %d postitust</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="one">Ülevaatuse ligikaudne kestus: %d päev</item>
+        <item quantity="other">Ülevaatuse ligikaudne kestus: %d päeva</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="one">%@ video</item>
+        <item quantity="other">%@ videot</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="one">%@ vaatamine</item>
+        <item quantity="other">%@ vaatamist</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="one">%d päev tagasi</item>
+        <item quantity="other">%d päev tagasi</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="one">Tund</item>
+        <item quantity="other">Tundi</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="one">%1$d tundi tagasi</item>
+        <item quantity="other">%1$d tundi tagasi</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="one">minut</item>
+        <item quantity="other">minutit</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="one">%1$d min tagasi</item>
+        <item quantity="other">%1$d min tagasi</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="one">Tund</item>
+        <item quantity="other">Tundi</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="one">minut</item>
+        <item quantity="other">minutit</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="one">sek</item>
+        <item quantity="other">sek</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="one">%1$d aasta tagasi</item>
+        <item quantity="other">%1$d aastat tagasi</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="one">Vabandage! Teid on eemaldatud\n Saate uuesti LIVE&apos;i teha %1$d päeva pärast</item>
+        <item quantity="other">Vabandage! Teid on eemaldatud\n Saate uuesti LIVE&apos;i teha %1$d päeva pärast</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="one">Vabandage! Teid on eemaldatud\n Saate uuesti LIVE&apos;i teha %1$d tunni pärast</item>
+        <item quantity="other">Vabandage! Teid on eemaldatud\n Saate uuesti LIVE&apos;i teha %1$d tunni pärast</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="one">Vabandage! Teid on eemaldatud\n Saate uuesti LIVE&apos;i teha %1$d minuti pärast</item>
+        <item quantity="other">Vabandage! Teid on eemaldatud\n Saate uuesti LIVE&apos;i teha %1$d minuti pärast</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="one">Vabandage! Teid on eemaldatud\n Saate uuesti LIVE&apos;i teha %1$d sekundi pärast</item>
+        <item quantity="other">Vabandage! Teid on eemaldatud\n Saate uuesti LIVE&apos;i teha %1$d sekundi pärast</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="one">%d kasutaja vaatab teie ülekannet. Kas soovite selle sulgeda?</item>
+        <item quantity="other">%d kasutajat vaatavad teie ülekannet. Kas soovite selle sulgeda?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="one">Aegub %d päeva pärast</item>
+        <item quantity="other">Aegub %d päeva pärast</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="one">Aegub %d tunni pärast</item>
+        <item quantity="other">Aegub %d tunni pärast</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="one">Laadige esimesel korral %1$d Teemant, et saada %2$d tükki juurde!</item>
+        <item quantity="other">Laadige esimesel korral %1$d Teemanti, et saada %2$d tükki juurde!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="one">minut</item>
+        <item quantity="other">minutit</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="one">Teie prooviperioodi lõpuni TikTokis on jäänud %d päev</item>
+        <item quantity="other">Kasutus TikTokis lõppeb %d päeva pärast</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="one">%d päev</item>
+        <item quantity="other">%d päeva</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="one">Saate seda funktsiooni TikTokis proovida veel %d päeva jooksul. Pärast seda peate jätkamiseks alla laadima rakenduse TikTok Now.</item>
+        <item quantity="other">Saate seda funktsiooni TikTokis proovida veel %d päeva jooksul. Pärast seda peate jätkamiseks alla laadima rakenduse TikTok Now.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="one">Postitage, et alustada oma %d-päevast TikTok Now’ kasutust.</item>
+        <item quantity="other">Postitage, et alustada oma %d-päevast TikTok Now’ kasutust.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="one">Valige või salvestage %d klipp</item>
+        <item quantity="other">Valige või salvestage %d klippi</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="one">Kas soovite lõpetamata pilti redigeerida?</item>
+        <item quantity="other">Kas soovite lõpetamata pilte redigeerida?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="one">%s uus postitus</item>
+        <item quantity="other">%s uut postitust</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="one">postitas %d video</item>
+        <item quantity="other">postitas %d videot</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="one">Kas olete %d-aastane?</item>
+        <item quantity="other">Kas olete %d-aastane?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="one">Kasutage kärbitud heli. Salvestage kuni %d sekundit.</item>
+        <item quantity="other">Kasutage kärbitud heli. Salvestage kuni %d sekundit.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="one">%s vaataja</item>
+        <item quantity="other">%s vaatajat</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="one">%s meeldimine</item>
+        <item quantity="other">%s meeldimist</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="one">Jagamine rakendusega %1$s %2$s s pärast</item>
+        <item quantity="other">Jagamine rakendusega %1$s %2$s s pärast</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="one">%d toode</item>
+        <item quantity="other">%d toodet</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="one">Postitus</item>
+        <item quantity="other">Postitused</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="one">%1$s, %2$s ja veel %d kasutaja</item>
+        <item quantity="other">%1$s, %2$s ja veel %d kasutajat</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="one">vaatas teie postitust.</item>
+        <item quantity="other">vaatasid teie postitust.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="one">%s jagamine</item>
+        <item quantity="other">%s jagamist</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="one">%s vaatamine</item>
+        <item quantity="other">%s vaatamist</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="one">{0}, {1} ja veel {2} kasutaja vaatasid teie postitust.</item>
+        <item quantity="other">{0}, {1} ja veel {2} kasutajat vaatasid teie postitust.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="one">%d münt</item>
+        <item quantity="other">%d münti</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="one">saatis: %s</item>
+        <item quantity="other">saatsid: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="one">Pilt on salvestatud</item>
+        <item quantity="other">Pildid on salvestatud</item>
+    </plurals>
+</resources>

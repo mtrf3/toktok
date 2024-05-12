@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        id="@+id/gwc"
+        layout_width="wrap_content"
+        layout_height="33dp">
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/gwa"
+            layout_width="20dp"
+            layout_height="20dp"
+            layout_marginStart="6dp"
+            NOT_FOUND_0x8="0"
+            NOT_FOUND_0xa="0"
+            NOT_FOUND_0xc="0"
+            NOT_FOUND_0xd="0"
+            NOT_FOUND_0xe="@raw/icon_3pt_scan_plant"
+            NOT_FOUND_0xf="?attr/cr"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            gravity="center"
+            id="@+id/title"
+            layout_width="wrap_content"
+            layout_height="match_parent"
+            textAllCaps="true"
+            layout_marginStart="6dp"
+            layout_marginEnd="6dp"
+            NOT_FOUND_0x8="0"
+            NOT_FOUND_0x9="0"
+            NOT_FOUND_0xb="@+id/gwa"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

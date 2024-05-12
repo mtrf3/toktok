@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.android.live.design.view.icon.LiveIconView
+    id="@+id/awo"
+    focusable="true"
+    clickable="true"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    NOT_FOUND_0x5="?attr/dj"/>

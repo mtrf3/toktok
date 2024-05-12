@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/gx8"
+    background="@drawable/bsx"
+    layout_width="48dp"
+    layout_height="48dp"
+    animateLayoutChanges="true">
+    <com.bytedance.lighten.loader.SmartImageView
+        layout_gravity="center"
+        id="@+id/gxk"
+        layout_width="48dp"
+        layout_height="48dp"
+        scaleType="fitCenter"/>
+    <ImageView
+        layout_gravity="end|bottom"
+        id="@+id/gxy"
+        background="@drawable/tg"
+        visibility="gone"
+        layout_width="16dp"
+        layout_height="16dp"
+        src="@drawable/awk"
+        scaleType="fitCenter"/>
+</FrameLayout>

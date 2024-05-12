@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    paddingTop="8dp"
+    paddingBottom="8dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    paddingStart="16dp"
+    paddingEnd="28dp">
+    <FrameLayout
+        id="@+id/nn1"
+        background="@drawable/die"
+        layout_width="64dp"
+        layout_height="64dp">
+        <com.bytedance.lighten.loader.SmartImageView
+            id="@+id/np7"
+            layout_width="64dp"
+            layout_height="64dp"/>
+        <com.bytedance.tux.icon.TuxIconView
+            layout_gravity="center"
+            id="@+id/npe"
+            layout_width="32dp"
+            layout_height="32dp"
+            NOT_FOUND_0x10="@raw/icon_list_music_note"
+            NOT_FOUND_0x11="?attr/eb"/>
+    </FrameLayout>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        id="@+id/npm"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_weight="1"
+        layout_marginStart="12dp"
+        NOT_FOUND_0xf="42"/>
+    <X.C116414hZ
+        id="@+id/nph"
+        visibility="gone"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginStart="2dp"
+        NOT_FOUND_0x10="@raw/icon_spinner_normal"
+        NOT_FOUND_0x11="?attr/gp"/>
+</LinearLayout>

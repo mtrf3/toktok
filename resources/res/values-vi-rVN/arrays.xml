@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Thư viện âm thanh trực tuyến</item>
+        <item>Âm thanh của tôi</item>
+    </array>
+    <array name="l">
+        <item>Xóa sạch</item>
+    </array>
+    <array name="q">
+        <item>Xóa</item>
+        <item>Hủy</item>
+    </array>
+    <array name="r">
+        <item>Thịnh hành</item>
+        <item>Mới nhất</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>Chủ Nhật</item>
+        <item>Thứ Hai</item>
+        <item>Thứ Ba</item>
+        <item>Thứ Tư</item>
+        <item>Thứ Năm</item>
+        <item>Thứ Sáu</item>
+        <item>Thứ Bảy</item>
+    </array>
+    <array name="a5">
+        <item>Tiếng Trung giản thể</item>
+        <item>Tiếng Trung phồn thể</item>
+        <item>Tiếng Anh</item>
+        <item>Tiếng Nhật</item>
+        <item>Tiếng Hàn Quốc</item>
+        <item>Tiếng Nga</item>
+        <item>Tiếng Indonesia</item>
+        <item>Tiếng Malaysia</item>
+        <item>Tiếng Bồ Đào Nha</item>
+        <item>Tiếng Thái</item>
+        <item>Tiếng Việt</item>
+        <item>Tiếng Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Bình thường</item>
+        <item>Đen/Trắng</item>
+        <item>Nghệ thuật</item>
+        <item>Cổ điển</item>
+        <item>Retrolux</item>
+        <item>Bão hòa</item>
+        <item>Chrome</item>
+    </array>
+    <array name="aa">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+    </array>
+    <array name="ad">
+        <item>Tiết kiệm dữ liệu trước</item>
+        <item>Độ phân giải cao trước</item>
+    </array>
+    <array name="ae">
+        <item>Mọi người</item>
+        <item>Chỉ Bạn bè</item>
+    </array>
+    <array name="bi">
+        <item>Thứ Hai</item>
+        <item>Thứ Ba</item>
+        <item>Thứ Tư</item>
+        <item>Thứ Năm</item>
+        <item>Thứ Sáu</item>
+        <item>Thứ Bảy</item>
+        <item>Chủ Nhật</item>
+    </array>
+</resources>

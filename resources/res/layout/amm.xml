@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="@color/cz"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C8IC
+        id="@+id/iaf"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x4="0"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge orientation="vertical">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gx"
+        id="@+id/cs4"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginLeft="32dp"
+        layout_marginRight="32dp"
+        NOT_FOUND_0xc="62"/>
+    <FrameLayout
+        gravity="center"
+        id="@+id/cs0"
+        background="@drawable/c8x"
+        paddingLeft="16dp"
+        paddingRight="16dp"
+        layout_width="match_parent"
+        layout_height="48dp"
+        layout_marginLeft="16dp"
+        layout_marginTop="8dp"
+        layout_marginRight="16dp"/>
+    <FrameLayout
+        id="@+id/cs1"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginLeft="32dp"
+        layout_marginTop="8dp"
+        layout_marginRight="32dp"/>
+</merge>

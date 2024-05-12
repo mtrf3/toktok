@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/dkn"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.ss.android.ugc.aweme.relation.follow.ui.RelationButton
+        id="@+id/dk5"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x4="0"/>
+</FrameLayout>

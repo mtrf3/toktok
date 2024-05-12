@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_selected="true"
+        color="#f7f7f7"/>
+    <item
+        state_focused="true"
+        color="#f7f7f7"/>
+    <item
+        state_pressed="true"
+        color="#f7f7f7"/>
+    <item color="#f1f1f2"/>
+</selector>

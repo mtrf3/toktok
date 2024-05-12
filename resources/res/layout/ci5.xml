@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_gravity="end"
+    orientation="horizontal"
+    visibility="gone"
+    layout_width="@dimen/a6s"
+    layout_height="48dp">
+    <FrameLayout
+        id="@+id/lfd"
+        background="@android:color/white"
+        paddingLeft="0dp"
+        layout_width="40dp"
+        layout_height="48dp"
+        paddingEnd="2dp"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xd="0">
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/lfc"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            NOT_FOUND_0xe="@raw/icon_layout_singlecolumn"
+            NOT_FOUND_0xf="20dp"
+            NOT_FOUND_0x10="20dp"
+            NOT_FOUND_0x11="?attr/gv"/>
+    </FrameLayout>
+    <View
+        id="@+id/lfe"
+        layout_width="20dp"
+        layout_height="match_parent"
+        NOT_FOUND_0xb="@+id/lfd"
+        NOT_FOUND_0xc="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

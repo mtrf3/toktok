@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    gravity="top"
+    id="@+id/c44"
+    background="?attr/c6"
+    layout_width="wrap_content"
+    layout_height="wrap_content"/>

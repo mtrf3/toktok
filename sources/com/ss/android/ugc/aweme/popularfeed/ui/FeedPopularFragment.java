@@ -1,0 +1,542 @@
+package com.ss.android.ugc.aweme.popularfeed.ui;
+
+import X.ActivityC45651qj;
+import X.AnonymousClass901;
+import X.C10A;
+import X.C141335gf;
+import X.C16970lZ;
+import X.C175336uP;
+import X.C188787b0;
+import X.C1DH;
+import X.C212418Vh;
+import X.C213178Yf;
+import X.C213198Yh;
+import X.C29S;
+import X.C2L4;
+import X.C2MA;
+import X.C2U8;
+import X.C33Q;
+import X.C38987FRv;
+import X.C3C5;
+import X.C3C8;
+import X.C3SZ;
+import X.C44938HkM;
+import X.C47261Igj;
+import X.C51697KQr;
+import X.C54081LKj;
+import X.C54082LKk;
+import X.C54502LaE;
+import X.C55026Lig;
+import X.C55096Ljo;
+import X.C55230Lly;
+import X.C56412MCa;
+import X.C62814Ol0;
+import X.C76800UCe;
+import X.C76965UIn;
+import X.C77317UWb;
+import X.C8VV;
+import X.C8YZ;
+import X.C90903hW;
+import X.C90M;
+import X.InterfaceC212848Wy;
+import X.InterfaceC222288nw;
+import X.InterfaceC40408FtU;
+import X.InterfaceC53896LDg;
+import X.InterfaceC55235Lm3;
+import X.InterfaceC56322M8o;
+import X.InterfaceC88471Ynr;
+import X.InterfaceC88472Yns;
+import X.InterfaceC88473Ynt;
+import X.InterfaceC88474Ynu;
+import X.InterfaceC88475Ynv;
+import X.InterfaceC88476Ynw;
+import X.KPL;
+import X.KRB;
+import X.KUM;
+import X.LAO;
+import X.LEJ;
+import X.LSC;
+import X.LX8;
+import X.LXD;
+import X.LXS;
+import X.LXU;
+import X.LXV;
+import X.M89;
+import X.NK1;
+import X.OSK;
+import X.OSL;
+import X.OSM;
+import X.TBW;
+import Y.IDiS271S0100000_9;
+import android.app.Activity;
+import android.content.Context;
+import android.os.Bundle;
+import android.util.SparseArray;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.view.Window;
+import androidx.lifecycle.Lifecycle;
+import androidx.lifecycle.LifecycleEventObserver;
+import androidx.lifecycle.LifecycleOwner;
+import androidx.lifecycle.ViewTreeLifecycleOwner;
+import androidx.lifecycle.ViewTreeViewModelStoreOwner;
+import com.bytedance.assem.arch.viewModel.AssemViewModel;
+import com.bytedance.hox.Hox;
+import com.bytedance.ies.uikit.base.AbsFragment;
+import com.bytedance.tiktok.homepage.mainfragment.InterceptHomeViewPagerProtocol;
+import com.ss.android.ugc.aweme.feed.model.Aweme;
+import com.ss.android.ugc.aweme.feed.ui.BaseFeedListFragment;
+import com.ss.android.ugc.aweme.popularfeed.component.PopularFeedComponent;
+import com.ss.android.ugc.aweme.popularfeed.panel.PopularFeedFragmentPanel;
+import com.ss.android.ugc.aweme.popularfeed.scope.FeedPopularFragmentScope;
+import com.ss.android.ugc.aweme.popularfeed.utils.PopularScrollProfileStrategy;
+import com.ss.android.ugc.feed.platform.fragment.HomeFeedComponent;
+import com.ss.android.ugc.feed.platform.panel.loadmorepanel.ILoadMoreAbility;
+import com.ss.android.ugc.feed.platform.panel.loadmorepanel.LoadMorePanelComponentTempHelper;
+import com.ss.android.ugc.feed.platform.panel.refreshpanel.IRefreshAbility;
+import com.zhiliaoapp.musically.R;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
+import kotlin.jvm.internal.AqS175S0100000_9;
+import kotlin.jvm.internal.o;
+
+/* loaded from: classes10.dex */
+public final class FeedPopularFragment extends BaseFeedListFragment implements InterfaceC53896LDg, NK1, KPL, InterfaceC40408FtU, C90M, InterfaceC56322M8o, C2L4 {
+    public LAO LJLL;
+    public final Map<Integer, View> LJLLI = new LinkedHashMap();
+    public final PopularFeedFragmentPanel LJLJLLL = new PopularFeedFragmentPanel();
+
+    @Override // X.InterfaceC53907LDr
+    public final String L6() {
+        return "";
+    }
+
+    @Override // X.C90M
+    public final boolean Rk() {
+        IPopularToFYPAssemAbility iPopularToFYPAssemAbility = (IPopularToFYPAssemAbility) C55096Ljo.LIZ(C55230Lly.LIZJ(this, null), IPopularToFYPAssemAbility.class, null);
+        if (iPopularToFYPAssemAbility == null || !iPopularToFYPAssemAbility.LJJLIIIJILLIZJL()) {
+            return false;
+        }
+        return true;
+    }
+
+    @Override // com.ss.android.ugc.aweme.feed.ui.BaseFeedListFragment
+    public final void _$_clearFindViewByIdCache() {
+        ((LinkedHashMap) this.LJLLI).clear();
+    }
+
+    @Override // X.KPL, X.C8YZ
+    public final LifecycleOwner getActualLifecycleOwner() {
+        return this;
+    }
+
+    @Override // X.KPL, X.C8YM
+    public final C8YZ getActualLifecycleOwnerHolder() {
+        return this;
+    }
+
+    @Override // X.KPL, X.InterfaceC212848Wy
+    public final C3C8 getActualReceiver() {
+        return this;
+    }
+
+    @Override // X.KPL, X.C8YM
+    public final InterfaceC212848Wy<C3C8> getActualReceiverHolder() {
+        return this;
+    }
+
+    @Override // X.KPL, X.C8YM
+    public final LifecycleOwner getHostLifecycleOwner() {
+        return null;
+    }
+
+    @Override // X.KPL, X.C8YM
+    public final LifecycleOwner getOwnLifecycleOwner() {
+        return this;
+    }
+
+    @Override // X.KPL, X.C8YM
+    public final C3C8 getReceiverForHostVM() {
+        return null;
+    }
+
+    @Override // X.InterfaceC55643Lsd
+    public final String getSceneId() {
+        return "popular_feed";
+    }
+
+    @Override // X.C8YM
+    public final boolean getUniqueOnlyDefault() {
+        return true;
+    }
+
+    @Override // X.InterfaceC56322M8o
+    public final boolean needConflictWithParent() {
+        return true;
+    }
+
+    @Override // X.InterfaceC40408FtU
+    public final String og() {
+        return "FeedPopularFragment";
+    }
+
+    @Override // com.ss.android.ugc.aweme.feed.ui.BaseFeedListFragment
+    public final HomeFeedComponent Gl() {
+        return new PopularFeedComponent();
+    }
+
+    @Override // X.NK1
+    public final boolean cd() {
+        return this.LJLJLLL.isShareDialogShowing();
+    }
+
+    @Override // X.C2L4
+    public final List<Class<Object>> getScopeDefine() {
+        return C76965UIn.LIZ(FeedPopularFragmentScope.class);
+    }
+
+    @Override // com.ss.android.ugc.aweme.feed.ui.FeedFragment
+    public final void Gz() {
+        IRefreshAbility YE = YE();
+        if (YE != null) {
+            YE.Gz();
+        }
+    }
+
+    @Override // X.InterfaceC55643Lsd
+    public final C54082LKk getPopupContext() {
+        Context requireContext = requireContext();
+        o.LJIIIIZZ(requireContext, "requireContext()");
+        ActivityC45651qj requireActivity = requireActivity();
+        o.LJIIIIZZ(requireActivity, "requireActivity()");
+        return C54081LKj.LIZ(requireContext, requireActivity);
+    }
+
+    @Override // X.InterfaceC55643Lsd
+    public final boolean isSceneActive() {
+        if (getLifecycle().getCurrentState().isAtLeast(Lifecycle.State.CREATED)) {
+            C188787b0 c188787b0 = Hox.LJLLI;
+            ActivityC45651qj requireActivity = requireActivity();
+            o.LJIIIIZZ(requireActivity, "requireActivity()");
+            if (c188787b0.LIZ(requireActivity).vv0("Popular")) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    @Override // com.ss.android.ugc.aweme.feed.ui.BaseFeedListFragment, com.ss.android.ugc.aweme.feed.ui.FeedFragment, com.ss.android.ugc.aweme.base.fragment.AmeBaseFragment, com.bytedance.ies.uikit.base.AbsFragment, androidx.fragment.app.Fragment
+    public final void onDestroyView() {
+        super.onDestroyView();
+        this.LJLJLLL.onDestroyView();
+        LAO lao = this.LJLL;
+        if (lao != null) {
+            o.LJI(lao);
+            ((C77317UWb) lao).LIZ();
+        }
+        _$_clearFindViewByIdCache();
+    }
+
+    @Override // com.ss.android.ugc.aweme.feed.ui.FeedFragment, com.ss.android.ugc.common.component.fragment.ComponentFragment, com.bytedance.ies.uikit.base.AbsFragment, androidx.fragment.app.Fragment
+    public final void onResume() {
+        Window window;
+        super.onResume();
+        if (getUserVisibleHint() && isResumed()) {
+            C38987FRv.LJI(LSC.POPULAR);
+        }
+        ActivityC45651qj mo49getActivity = mo49getActivity();
+        if (mo49getActivity != null && (window = mo49getActivity.getWindow()) != null) {
+            window.setBackgroundDrawableResource(R.color.b5);
+        }
+    }
+
+    @Override // com.ss.android.ugc.aweme.base.fragment.AmeBaseFragment, com.ss.android.ugc.common.component.fragment.ComponentFragment
+    public final SparseArray<KRB> registerComponents() {
+        SparseArray<KRB> registerComponents = super.registerComponents();
+        o.LJIIIIZZ(registerComponents, "super.registerComponents()");
+        registerComponents.append(C51697KQr.LIZJ, this.LJLJLLL);
+        return registerComponents;
+    }
+
+    @Override // X.InterfaceC53896LDg
+    public final void LLLLILI(Bundle bundle) {
+        KUM.LIZJ(this, bundle, "Popular", new AqS175S0100000_9(this, 183));
+        String string = bundle.getString("fromStart", "");
+        C188787b0 c188787b0 = Hox.LJLLI;
+        ActivityC45651qj mo49getActivity = mo49getActivity();
+        o.LJI(mo49getActivity);
+        String sv0 = c188787b0.LIZ(mo49getActivity).sv0("Popular");
+        ActivityC45651qj mo49getActivity2 = mo49getActivity();
+        o.LJI(mo49getActivity2);
+        String sv02 = c188787b0.LIZ(mo49getActivity2).sv0(sv0);
+        ActivityC45651qj mo49getActivity3 = mo49getActivity();
+        o.LJI(mo49getActivity3);
+        String sv03 = c188787b0.LIZ(mo49getActivity3).sv0(sv02);
+        if (o.LJ(string, "MainFragment") || bundle.getBoolean(sv0)) {
+            this.LJLJLLL.setUserVisibleHint(false);
+            wl(false);
+            return;
+        }
+        if (o.LJ(string, "MainPage") || bundle.getBoolean(sv02)) {
+            wl(true);
+            return;
+        }
+        if (!o.LJ(string, "RootNode") && !bundle.getBoolean(sv03)) {
+            return;
+        }
+        C2MA m30 = m30();
+        if (m30 != null) {
+            m30.LJJIII(1);
+        }
+        ActivityC45651qj mo49getActivity4 = mo49getActivity();
+        o.LJI(mo49getActivity4);
+        Aweme aweme = C3SZ.LIZ(mo49getActivity4).LJLJLLL;
+        if (aweme == null) {
+            return;
+        }
+        C175336uP.LIZ.LIZ(aweme.getAid());
+    }
+
+    @Override // X.InterfaceC53896LDg
+    public final void LLLLLLZ(Bundle args) {
+        IPopularEmptyAssemAbility iPopularEmptyAssemAbility;
+        boolean z;
+        AbsFragment absFragment;
+        AbsFragment absFragment2;
+        AbsFragment absFragment3;
+        o.LJIIIZ(args, "args");
+        KUM.LIZIZ(this, args, "Popular", new AqS175S0100000_9(this, 184));
+        String string = args.getString("fromStart", "");
+        C188787b0 c188787b0 = Hox.LJLLI;
+        ActivityC45651qj mo49getActivity = mo49getActivity();
+        o.LJI(mo49getActivity);
+        String sv0 = c188787b0.LIZ(mo49getActivity).sv0("Popular");
+        ActivityC45651qj mo49getActivity2 = mo49getActivity();
+        o.LJI(mo49getActivity2);
+        String sv02 = c188787b0.LIZ(mo49getActivity2).sv0(sv0);
+        ActivityC45651qj mo49getActivity3 = mo49getActivity();
+        o.LJI(mo49getActivity3);
+        String sv03 = c188787b0.LIZ(mo49getActivity3).sv0(sv02);
+        LXS LIZ = LXU.LIZ();
+        if (LIZ != null) {
+            IPopularToFYPAssemAbility iPopularToFYPAssemAbility = (IPopularToFYPAssemAbility) C55096Ljo.LIZ(C55230Lly.LIZJ(this, null), IPopularToFYPAssemAbility.class, null);
+            if ((iPopularToFYPAssemAbility != null && iPopularToFYPAssemAbility.LJJLIIIJILLIZJL()) || ((iPopularEmptyAssemAbility = (IPopularEmptyAssemAbility) C55096Ljo.LIZ(C55230Lly.LIZJ(this, null), IPopularEmptyAssemAbility.class, null)) != null && iPopularEmptyAssemAbility.LLF())) {
+                z = true;
+            } else {
+                z = false;
+            }
+            LIZ.LJ(z);
+        }
+        if (o.LJ(string, "MainFragment") || args.getBoolean(sv0)) {
+            this.LJLJLLL.setUserVisibleHint(true);
+            if (isResumed() && (absFragment = this.LJLJJL) != null && !absFragment.isHidden()) {
+                C38987FRv.LJI(LSC.POPULAR);
+                LXD lxd = new LXD();
+                lxd.LJIILJJIL = "homepage_popular";
+                lxd.LJIILIIL();
+            }
+            b5(false);
+            return;
+        }
+        if (o.LJ(string, "MainPage") || args.getBoolean(sv02)) {
+            this.LJLJLLL.setUserVisibleHint(true);
+            if (isResumed() && (absFragment2 = this.LJLJJL) != null && !absFragment2.isHidden()) {
+                C38987FRv.LJI(LSC.POPULAR);
+                LXD lxd2 = new LXD();
+                lxd2.LJIILJJIL = "homepage_popular";
+                lxd2.LJIILIIL();
+            }
+            b5(true);
+            return;
+        }
+        if (!o.LJ(string, "RootNode") && !args.getBoolean(sv03)) {
+            return;
+        }
+        this.LJLJLLL.setUserVisibleHint(true);
+        if (isResumed() && (absFragment3 = this.LJLJJL) != null && !absFragment3.isHidden()) {
+            C38987FRv.LJI(LSC.POPULAR);
+            LXD lxd3 = new LXD();
+            lxd3.LJIILJJIL = "homepage_popular";
+            lxd3.LJIILIIL();
+        }
+        C2MA m30 = m30();
+        if (m30 != null) {
+            m30.LJJIJIIJIL(1);
+        }
+        b5(true);
+    }
+
+    public final void b5(boolean z) {
+        AnonymousClass901 j3;
+        Window window;
+        if (!getUserVisibleHint() || !isViewValid()) {
+            return;
+        }
+        LXV.LJ.set(true);
+        Al();
+        C2U8.LIZ(new C55026Lig(1, this.LJLJLLL.getCurrentAweme(), this.LJLJLLL));
+        if (z) {
+            this.LJLJLLL.tryResumePlay();
+        } else {
+            this.LJLJLLL.handlePageResume();
+        }
+        qQ(false);
+        ActivityC45651qj mo49getActivity = mo49getActivity();
+        if (mo49getActivity != null && (window = mo49getActivity.getWindow()) != null) {
+            window.setBackgroundDrawableResource(R.color.b5);
+        }
+        C2MA m30 = m30();
+        if (m30 != null && (j3 = m30.j3()) != null) {
+            j3.Y2(z);
+            j3.e3(false);
+        }
+        C44938HkM.LJ = this.LJLJLLL.getCurrentAweme();
+        IPopularToFYPAssemAbility iPopularToFYPAssemAbility = (IPopularToFYPAssemAbility) C55096Ljo.LIZ(C55230Lly.LIZJ(this, null), IPopularToFYPAssemAbility.class, null);
+        if (iPopularToFYPAssemAbility == null || !iPopularToFYPAssemAbility.LJJLIIIJILLIZJL()) {
+            return;
+        }
+        C2U8.LIZ(new C55026Lig(2, this.LJLJLLL.getCurrentAweme(), this.LJLJLLL, Boolean.FALSE));
+    }
+
+    @Override // com.ss.android.ugc.aweme.feed.ui.BaseFeedListFragment, com.ss.android.ugc.aweme.feed.ui.FeedFragment
+    public final boolean ub(boolean z) {
+        IPopularContentAssemAbility iPopularContentAssemAbility = (IPopularContentAssemAbility) C55096Ljo.LIZ(C55230Lly.LIZJ(this, null), IPopularContentAssemAbility.class, null);
+        if (iPopularContentAssemAbility != null) {
+            iPopularContentAssemAbility.LJJJZ();
+            return true;
+        }
+        return false;
+    }
+
+    @Override // com.ss.android.ugc.aweme.feed.ui.FeedFragment
+    public final void wl(boolean z) {
+        AnonymousClass901 j3;
+        Dl();
+        C2U8.LIZ(new C55026Lig(2, this.LJLJLLL.getCurrentAweme(), this.LJLJLLL));
+        this.LJLJLLL.handlePageStop(z);
+        C2MA m30 = m30();
+        if (m30 != null && (j3 = m30.j3()) != null) {
+            j3.v2(z);
+        }
+        LXV.LJ.set(false);
+    }
+
+    @Override // com.ss.android.ugc.aweme.feed.ui.BaseFeedListFragment, com.ss.android.ugc.aweme.feed.ui.FeedFragment, com.ss.android.ugc.aweme.base.fragment.AmeBaseFragment, com.bytedance.ies.uikit.base.AbsFragment, androidx.fragment.app.Fragment
+    public final void onViewCreated(View view, Bundle bundle) {
+        o.LJIIIZ(view, "view");
+        super.onViewCreated(view, bundle);
+        M89 m89 = new M89();
+        m89.setEventType("homepage_popular");
+        m89.setPageType(33);
+        this.LJLJI = "homepage_popular";
+        this.LJLJLLL.setParam(m89);
+        this.LJLJLLL.setCheckLoadMoreListener(Hl());
+        this.LJLJLLL.setDeleteItemListener(Hl());
+        if (this.LJLL == null && C1DH.LJIL()) {
+            ActivityC45651qj mo49getActivity = mo49getActivity();
+            View findViewById = view.findViewById(R.id.d8h);
+            o.LJIIIIZZ(findViewById, "view.findViewById(R.id.feed_root_layout)");
+            this.LJLL = LEJ.LIZIZ(mo49getActivity, findViewById);
+        }
+        LXV.LJ.set(true);
+        qQ(false);
+        LXS LIZ = LXU.LIZ();
+        if (LIZ != null) {
+            LIZ.LIZLLL(false);
+        }
+        this.LJLJLLL.onViewCreated(view, bundle);
+        this.LJLJLLL.DA(Hl());
+        this.LJLJLLL.addOnPageChangeListener(new IDiS271S0100000_9(this, 12));
+        C8VV.LIZ(this, false, new AqS175S0100000_9(this, 185));
+        final InterfaceC55235Lm3 LIZJ = C55230Lly.LIZJ(this, null);
+        ActivityC45651qj requireActivity = requireActivity();
+        o.LJIIIIZZ(requireActivity, "requireActivity()");
+        final PopularScrollProfileStrategy popularScrollProfileStrategy = new PopularScrollProfileStrategy(requireActivity);
+        C62814Ol0.LJJIIJZLJL(LIZJ, InterceptHomeViewPagerProtocol.class, C47261Igj.LJJIJIL(popularScrollProfileStrategy));
+        Lifecycle lifecycle = getLifecycle();
+        if (lifecycle != null) {
+            lifecycle.addObserver(new LifecycleEventObserver() { // from class: com.ss.android.ugc.aweme.popularfeed.ui.FeedPopularFragment$onViewCreated$lambda$0$$inlined$registerProtocol$1
+                @Override // androidx.lifecycle.LifecycleEventObserver
+                public final void onStateChanged(LifecycleOwner source, Lifecycle.Event event) {
+                    o.LJIIIZ(source, "source");
+                    o.LJIIIZ(event, "event");
+                    if (event == Lifecycle.Event.ON_DESTROY) {
+                        C62814Ol0.LJJIJL(InterfaceC55235Lm3.this, InterceptHomeViewPagerProtocol.class, popularScrollProfileStrategy);
+                    }
+                }
+            });
+        }
+        IPopularPopupAssemAbility iPopularPopupAssemAbility = (IPopularPopupAssemAbility) C55096Ljo.LIZ(LIZJ, IPopularPopupAssemAbility.class, null);
+        if (iPopularPopupAssemAbility != null) {
+            iPopularPopupAssemAbility.LLLLJ();
+        }
+        ILoadMoreAbility PZ = PZ();
+        if (PZ != null) {
+            ((LoadMorePanelComponentTempHelper) PZ).Up0(new LX8(this));
+        }
+    }
+
+    @Override // com.ss.android.ugc.aweme.feed.ui.BaseFeedListFragment, com.ss.android.ugc.common.component.fragment.ComponentFragment, androidx.fragment.app.Fragment
+    public final View onCreateView(LayoutInflater inflater, ViewGroup viewGroup, Bundle bundle) {
+        o.LJIIIZ(inflater, "inflater");
+        C54502LaE.LIZ("homepage_popular");
+        View LIZLLL = C16970lZ.LIZLLL((Activity) getContext(), R.layout.c1e);
+        C29S c29s = null;
+        if (!(LIZLLL instanceof View)) {
+            LIZLLL = null;
+        }
+        if (LIZLLL != null) {
+            try {
+                ViewTreeLifecycleOwner.set(LIZLLL, getViewLifecycleOwner());
+                ViewTreeViewModelStoreOwner.set(LIZLLL, this);
+                C10A.LIZIZ(LIZLLL, this);
+                ActivityC45651qj mo49getActivity = mo49getActivity();
+                if (mo49getActivity instanceof C29S) {
+                    c29s = (C29S) mo49getActivity;
+                }
+                C90903hW.LIZ(c29s);
+            } catch (Throwable th) {
+                C3C5.m7constructorimpl(C141335gf.LIZ(th));
+            }
+        }
+        C3C5.m7constructorimpl(C76800UCe.LIZ);
+        return LIZLLL;
+    }
+
+    @Override // X.C8YM
+    public final <S extends C33Q> InterfaceC222288nw subscribe(AssemViewModel<S> assemViewModel, C56412MCa<S> c56412MCa, InterfaceC88472Yns<? super Throwable, C76800UCe> interfaceC88472Yns, InterfaceC88471Ynr<? super C3C8, ? super S, C76800UCe> interfaceC88471Ynr) {
+        return C212418Vh.LJIIIIZZ(this, assemViewModel, c56412MCa, interfaceC88472Yns, interfaceC88471Ynr);
+    }
+
+    @Override // X.C8YM
+    public final <S extends C33Q, A> InterfaceC222288nw selectSubscribe(AssemViewModel<S> assemViewModel, TBW<S, ? extends A> tbw, C56412MCa<C213178Yf<A>> c56412MCa, InterfaceC88472Yns<? super Throwable, C76800UCe> interfaceC88472Yns, InterfaceC88471Ynr<? super C3C8, ? super A, C76800UCe> interfaceC88471Ynr) {
+        return C212418Vh.LIZJ(this, assemViewModel, tbw, c56412MCa, interfaceC88472Yns, interfaceC88471Ynr);
+    }
+
+    @Override // X.C8YM
+    public final <S extends C33Q, A> InterfaceC222288nw selectSubscribeOnAsync(AssemViewModel<S> assemViewModel, TBW<S, ? extends A> tbw, C56412MCa<C213178Yf<A>> c56412MCa, InterfaceC88472Yns<? super Throwable, C76800UCe> interfaceC88472Yns, InterfaceC88471Ynr<? super C3C8, ? super A, C76800UCe> interfaceC88471Ynr) {
+        return C212418Vh.LJII(this, assemViewModel, tbw, c56412MCa, interfaceC88472Yns, interfaceC88471Ynr);
+    }
+
+    @Override // X.C8YM
+    public final <S extends C33Q, A, B> InterfaceC222288nw selectSubscribe(AssemViewModel<S> assemViewModel, TBW<S, ? extends A> tbw, TBW<S, ? extends B> tbw2, C56412MCa<C213198Yh<A, B>> c56412MCa, InterfaceC88472Yns<? super Throwable, C76800UCe> interfaceC88472Yns, InterfaceC88473Ynt<? super C3C8, ? super A, ? super B, C76800UCe> interfaceC88473Ynt) {
+        return C212418Vh.LIZIZ(assemViewModel, this, c56412MCa, interfaceC88472Yns, interfaceC88473Ynt, tbw, tbw2);
+    }
+
+    @Override // X.C8YM
+    public final <S extends C33Q, A, B, C> InterfaceC222288nw selectSubscribe(AssemViewModel<S> assemViewModel, TBW<S, ? extends A> tbw, TBW<S, ? extends B> tbw2, TBW<S, ? extends C> tbw3, C56412MCa<OSK<A, B, C>> c56412MCa, InterfaceC88472Yns<? super Throwable, C76800UCe> interfaceC88472Yns, InterfaceC88474Ynu<? super C3C8, ? super A, ? super B, ? super C, C76800UCe> interfaceC88474Ynu) {
+        return C212418Vh.LIZLLL(this, assemViewModel, tbw, tbw2, tbw3, c56412MCa, interfaceC88472Yns, interfaceC88474Ynu);
+    }
+
+    @Override // X.C8YM
+    public final <S extends C33Q, A, B, C, D> InterfaceC222288nw selectSubscribe(AssemViewModel<S> assemViewModel, TBW<S, ? extends A> tbw, TBW<S, ? extends B> tbw2, TBW<S, ? extends C> tbw3, TBW<S, ? extends D> tbw4, C56412MCa<OSL<A, B, C, D>> c56412MCa, InterfaceC88472Yns<? super Throwable, C76800UCe> interfaceC88472Yns, InterfaceC88475Ynv<? super C3C8, ? super A, ? super B, ? super C, ? super D, C76800UCe> interfaceC88475Ynv) {
+        return C212418Vh.LJ(this, assemViewModel, tbw, tbw2, tbw3, tbw4, c56412MCa, interfaceC88472Yns, interfaceC88475Ynv);
+    }
+
+    @Override // X.C8YM
+    public final <S extends C33Q, A, B, C, D, E> InterfaceC222288nw selectSubscribe(AssemViewModel<S> assemViewModel, TBW<S, ? extends A> tbw, TBW<S, ? extends B> tbw2, TBW<S, ? extends C> tbw3, TBW<S, ? extends D> tbw4, TBW<S, ? extends E> tbw5, C56412MCa<OSM<A, B, C, D, E>> c56412MCa, InterfaceC88472Yns<? super Throwable, C76800UCe> interfaceC88472Yns, InterfaceC88476Ynw<? super C3C8, ? super A, ? super B, ? super C, ? super D, ? super E, C76800UCe> interfaceC88476Ynw) {
+        return C212418Vh.LJFF(this, assemViewModel, tbw, tbw2, tbw3, tbw4, tbw5, c56412MCa, interfaceC88472Yns, interfaceC88476Ynw);
+    }
+}

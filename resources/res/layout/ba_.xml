@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ss.android.ugc.aweme.innerpush.ui.InnerPushPullUpLayout
+    id="@+id/ig2"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <FrameLayout
+        id="@+id/j5m"
+        paddingLeft="8dp"
+        paddingTop="10dp"
+        paddingRight="8dp"
+        paddingBottom="14dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</com.ss.android.ugc.aweme.innerpush.ui.InnerPushPullUpLayout>

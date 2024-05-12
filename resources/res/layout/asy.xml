@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/k_c"
+    focusable="true"
+    clickable="true"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_marginTop="15dp">
+    <X.C130995Cd
+        id="@+id/b99"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginEnd="7dp"
+        NOT_FOUND_0x7="@color/acm"
+        NOT_FOUND_0x8="12dp"
+        NOT_FOUND_0x9="2dp"
+        NOT_FOUND_0xa="?attr/dm"
+        NOT_FOUND_0xb="15dp"
+        NOT_FOUND_0xc="2"
+        NOT_FOUND_0xd="false"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x12="false"
+        NOT_FOUND_0x13="@color/acn"
+        NOT_FOUND_0x14="8dp"
+        NOT_FOUND_0x15="4"
+        NOT_FOUND_0x16="1dp"
+        NOT_FOUND_0x17="@color/acm"
+        NOT_FOUND_0x18="10dp"
+        NOT_FOUND_0x19="0dp"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

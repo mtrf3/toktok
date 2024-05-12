@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    orientation="vertical"
+    background="@drawable/cne"
+    padding="16dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <FrameLayout
+        layout_gravity="center"
+        layout_width="48dp"
+        layout_height="48dp">
+        <X.T4V
+            layout_gravity="center"
+            id="@+id/a5h"
+            layout_width="37.5dp"
+            layout_height="37.5dp"/>
+    </FrameLayout>
+    <X.C47121t6
+        textColor="@color/bd"
+        ellipsize="end"
+        gravity="center_horizontal"
+        layout_gravity="center_horizontal"
+        id="@+id/l5r"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="4dp"
+        maxWidth="176dp"
+        minWidth="61dp"
+        text="@string/sur"
+        maxLines="3"
+        style="@style/a7y"/>
+</merge>

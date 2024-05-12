@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/bpr"
+    visibility="gone"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.SY4
+        layout_gravity="center_vertical"
+        id="@+id/kkt"
+        layout_width="271dp"
+        layout_height="wrap_content"
+        text="@string/rpo"
+        NOT_FOUND_0x6="2"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="@raw/icon_3pt_stitch"/>
+</RelativeLayout>

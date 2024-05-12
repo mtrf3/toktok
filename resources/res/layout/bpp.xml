@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    gravity="center"
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C47121t6
+        textColor="?attr/bnd"
+        id="@+id/fxb"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_weight="1"
+        style="@style/a45"/>
+    <X.C41081jM
+        id="@+id/fxa"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x7="@drawable/bpk"/>
+</merge>

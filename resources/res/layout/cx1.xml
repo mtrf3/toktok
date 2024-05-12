@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/bcw"
+    background="@color/abc"
+    focusable="true"
+    clickable="true"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C47121t6
+        textColor="#80161823"
+        id="@+id/mlr"
+        paddingTop="20dp"
+        paddingBottom="4dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        minHeight="41dp"
+        text="@string/mkm"
+        paddingStart="16dp"
+        paddingEnd="16dp"
+        NOT_FOUND_0xd="0"
+        style="@style/a4a"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

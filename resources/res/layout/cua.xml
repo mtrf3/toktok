@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/a0a"
+    layout_width="54dp"
+    layout_height="54dp"
+    layout_marginRight="2dp"
+    layout_marginEnd="2dp">
+    <ImageView
+        layout_gravity="center"
+        id="@+id/jl2"
+        background="@drawable/cqy"
+        visibility="gone"
+        layout_width="52dp"
+        layout_height="52dp"/>
+    <X.C47061t0
+        layout_gravity="center"
+        id="@+id/egd"
+        layout_width="48dp"
+        layout_height="48dp"
+        scaleType="center"/>
+</FrameLayout>

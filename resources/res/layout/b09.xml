@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/e6y"
+    clipToPadding="false"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_below="@+id/co0">
+    <androidx.recyclerview.widget.RecyclerView
+        id="@+id/e70"
+        clipToPadding="false"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        paddingStart="16dp"
+        paddingEnd="8dp"/>
+</FrameLayout>

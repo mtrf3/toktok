@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/d8h"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/k3y"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C54634LcM
+        id="@+id/bps"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <include layout="@layout/aax"/>
+    </X.C54634LcM>
+    <FrameLayout
+        layout_gravity="center_horizontal"
+        id="@+id/k3x"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</FrameLayout>

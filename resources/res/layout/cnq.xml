@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/dgx"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <include layout="@layout/aaw"/>
+    <FrameLayout
+        id="@+id/hxu"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/dgy"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/dgz"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    id="@+id/h81"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <ImageView
+        layout_gravity="center_vertical"
+        layout_width="24dp"
+        layout_height="24dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        layout_gravity="center_vertical"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/j5h"
+        layout_marginStart="6dp"
+        NOT_FOUND_0x8="23"/>
+</LinearLayout>

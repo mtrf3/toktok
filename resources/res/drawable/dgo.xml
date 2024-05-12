@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <solid color="@color/ado"/>
+    <corners radius="40dp"/>
+    <padding
+        left="3dp"
+        top="3dp"
+        right="3dp"
+        bottom="3dp"/>
+    <size
+        height="28dp"
+        width="48dp"/>
+</shape>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/ifl"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C94623nW
+        layout_gravity="start|top"
+        id="@+id/kmk"
+        paddingLeft="16dp"
+        paddingRight="0dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="58dp"
+        layout_marginBottom="58dp"
+        paddingStart="16dp"
+        paddingEnd="0dp"
+        layout_marginEnd="58dp"/>
+</FrameLayout>

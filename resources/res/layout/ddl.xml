@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="120px"
+    layout_height="45px">
+    <X.C47121t6
+        textColor="#c69dff"
+        ellipsize="end"
+        id="@+id/m1p"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxWidth="120px"
+        text="@string/kf4"
+        maxLines="1"
+        includeFontPadding="true"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        style="@style/a4d"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item
+        left="20dp"
+        right="20dp">
+        <shape>
+            <solid color="@color/bc"/>
+        </shape>
+    </item>
+</layer-list>

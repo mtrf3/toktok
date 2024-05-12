@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <translate
+        interpolator="@android:anim/accelerate_decelerate_interpolator"
+        duration="250"
+        fromYDelta="50"
+        toYDelta="0"/>
+    <alpha
+        interpolator="@android:anim/linear_interpolator"
+        duration="200"
+        fromAlpha="0"
+        toAlpha="1"/>
+</set>

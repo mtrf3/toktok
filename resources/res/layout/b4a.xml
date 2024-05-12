@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_horizontal"
+    orientation="vertical"
+    style="@style/a86">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gx"
+        id="@+id/ipj"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginBottom="12dp"
+        NOT_FOUND_0xb="41"/>
+    <HorizontalScrollView
+        layout_gravity="center_horizontal"
+        scrollbars="none"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <LinearLayout
+            orientation="horizontal"
+            id="@+id/myr"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            paddingStart="12dp"
+            paddingEnd="8dp">
+            <include layout="@layout/b5h"/>
+            <include layout="@layout/b5h"/>
+            <include layout="@layout/b5h"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <FrameLayout
+        background="@drawable/ck2"
+        padding="2dp"
+        layout_width="77dp"
+        layout_height="77dp"
+        layout_margin="5dp"
+        elevation="2dp"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0">
+        <X.C73116Smm
+            id="@+id/cwz"
+            layout_width="73dp"
+            layout_height="73dp"
+            NOT_FOUND_0xb="6dp"/>
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

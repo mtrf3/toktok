@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        drawable="@drawable/fi"
+        state_activated="true"/>
+    <item
+        drawable="@drawable/fp"
+        state_activated="false"/>
+</selector>

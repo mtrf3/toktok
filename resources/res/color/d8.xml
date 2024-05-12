@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="true"
+        state_pressed="true"
+        color="@color/l2"
+        alpha="@dimen/sl"/>
+    <item
+        color="@color/l2"
+        alpha="@dimen/sj"/>
+</selector>

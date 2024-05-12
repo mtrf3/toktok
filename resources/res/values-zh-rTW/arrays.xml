@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>線上音樂庫</item>
+        <item>我的音樂</item>
+    </array>
+    <array name="q">
+        <item>刪除</item>
+        <item>取消</item>
+    </array>
+    <array name="r">
+        <item>熱門</item>
+        <item>最新</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </array>
+    <array name="a5">
+        <item>簡體中文</item>
+        <item>繁體中文</item>
+        <item>英文</item>
+        <item>日文</item>
+        <item>韓文</item>
+        <item>俄文</item>
+        <item>印尼文</item>
+        <item>馬來文</item>
+        <item>葡萄牙文</item>
+        <item>泰文</item>
+        <item>越南文</item>
+        <item>印度文</item>
+    </array>
+    <array name="a7">
+        <item>一般</item>
+        <item>黑/白</item>
+        <item>藝術</item>
+        <item>復古</item>
+        <item>懷舊</item>
+        <item>飽和</item>
+        <item>Chrome 濾鏡</item>
+    </array>
+    <array name="aa">
+        <item>1 月</item>
+        <item>2 月</item>
+        <item>3 月</item>
+        <item>4 月</item>
+        <item>5 月</item>
+        <item>6 月</item>
+        <item>7 月</item>
+        <item>8 月</item>
+        <item>9 月</item>
+        <item>10 月</item>
+        <item>11 月</item>
+        <item>12 月</item>
+    </array>
+    <array name="ad">
+        <item>減少數據用量優先</item>
+        <item>高解析度優先</item>
+    </array>
+    <array name="ae">
+        <item>所有人</item>
+        <item>僅限好友</item>
+    </array>
+    <array name="bi">
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+        <item>星期日</item>
+    </array>
+</resources>

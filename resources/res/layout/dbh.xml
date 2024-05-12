@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/keu"
+    visibility="visible"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        gravity="center"
+        id="@+id/cyf"
+        layout_width="60dp"
+        layout_height="60dp"
+        scaleType="centerInside"
+        NOT_FOUND_0xa="?attr/atb"
+        NOT_FOUND_0xb="@color/a1i"
+        NOT_FOUND_0xd="@+id/izs"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x12="2"/>
+    <X.C47121t6
+        textSize="12sp"
+        textColor="#999999"
+        id="@+id/izs"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="10dp"
+        text="@string/sor"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x10="@+id/cyf"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

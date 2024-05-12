@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View
+    layout_gravity="top|right"
+    id="@+id/kyn"
+    visibility="visible"
+    layout_width="5dp"
+    layout_height="5dp"
+    layout_marginLeft="2dp"
+    layout_marginTop="12dp"
+    layout_marginStart="2dp"/>

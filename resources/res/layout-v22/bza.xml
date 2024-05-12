@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_horizontal"
+    orientation="horizontal"
+    background="@drawable/buw"
+    paddingTop="8dp"
+    paddingBottom="8dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    paddingVertical="8dp">
+    <X.T5T
+        textColor="?attr/go"
+        gravity="center_vertical"
+        layout_gravity="center"
+        id="@+id/jpo"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        hint="@string/qmp"
+        singleLine="true"
+        maxLength="150"
+        textDirection="locale"
+        layout_marginStart="10dp"
+        layout_marginEnd="10dp"
+        NOT_FOUND_0x11="41"/>
+</LinearLayout>

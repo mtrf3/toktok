@@ -1,0 +1,6 @@
+package X;
+
+/* loaded from: classes7.dex */
+public class FTF {
+    public long LIZ;
+}

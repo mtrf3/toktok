@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView
+    layout_width="wrap_content"
+    layout_height="16dp"
+    layout_marginLeft="6dp"
+    scaleType="centerCrop"
+    adjustViewBounds="true"/>

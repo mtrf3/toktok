@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item gravity="center">
+        <shape shape="oval">
+            <stroke
+                width="3dp"
+                color="?attr/d4"/>
+            <size
+                height="6dp"
+                width="6dp"/>
+        </shape>
+    </item>
+</layer-list>

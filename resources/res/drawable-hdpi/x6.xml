@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <corners radius="@dimen/fl"/>
+    <padding
+        left="@dimen/g7"
+        top="@dimen/g7"
+        right="@dimen/g7"
+        bottom="@dimen/g7"/>
+    <stroke
+        width="@dimen/fj"
+        color="#e0e0e0"/>
+</shape>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        gravity="start"
+        id="@+id/elo"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="8dp"
+        layout_marginBottom="8dp"
+        textAlignment="viewStart"/>
+    <androidx.appcompat.widget.LinearLayoutCompat
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/gm_"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="52dp">
+        <com.bytedance.tux.input.TuxTextView
+            id="@+id/gn9"
+            layout_width="wrap_content"
+            layout_height="wrap_content"/>
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/gmg"
+            visibility="gone"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginStart="2dp"
+            NOT_FOUND_0xb="12dp"
+            NOT_FOUND_0xc="12dp"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+    <X.C223338pd
+        layout_gravity="center"
+        id="@+id/g85"
+        visibility="gone"
+        layout_width="36dp"
+        layout_height="36dp"
+        layout_marginTop="8dp"
+        layout_marginBottom="8dp"/>
+</androidx.appcompat.widget.LinearLayoutCompat>

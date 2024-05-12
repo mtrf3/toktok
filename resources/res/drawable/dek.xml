@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <corners radius="24dp"/>
+    <size
+        height="191dp"
+        width="210dp"/>
+    <gradient
+        startColor="?attr/dr"
+        endColor="?attr/cl"
+        angle="270"
+        centerColor="?attr/dr"/>
+</shape>

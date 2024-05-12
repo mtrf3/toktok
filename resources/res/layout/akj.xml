@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/kdb"
+    layout_width="96dp"
+    layout_height="96dp">
+    <View
+        layout_gravity="center"
+        id="@+id/kdi"
+        background="@drawable/bnx"
+        layout_width="71dp"
+        layout_height="71dp"/>
+    <X.C62846OlW
+        id="@+id/kdh"
+        layout_width="96dp"
+        layout_height="96dp"/>
+</FrameLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C47121t6
+    textSize="12sp"
+    textColor="?attr/dl"
+    ellipsize="end"
+    gravity="center"
+    layout_gravity="bottom|right"
+    id="@+id/epq"
+    paddingLeft="4dp"
+    paddingTop="8dp"
+    paddingRight="4dp"
+    paddingBottom="8dp"
+    visibility="gone"
+    layout_width="@dimen/ad7"
+    layout_height="wrap_content"
+    layout_marginRight="12dp"
+    layout_marginBottom="52dp"
+    text="@string/n8n"
+    maxLines="3"
+    style="@style/oy"/>

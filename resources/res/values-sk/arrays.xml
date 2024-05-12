@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Online knižnica zvukov</item>
+        <item>Môj zvuk</item>
+    </array>
+    <array name="l">
+        <item>Vyčistiť</item>
+    </array>
+    <array name="q">
+        <item>Odstrániť</item>
+        <item>Zrušiť</item>
+    </array>
+    <array name="r">
+        <item>Populárne</item>
+        <item>Najnovšie</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="v">
+        <item>Vybrať z galérie</item>
+    </array>
+    <array name="a3">
+        <item>Nedeľa</item>
+        <item>Pondelok</item>
+        <item>Utorok</item>
+        <item>Streda</item>
+        <item>Štvrtok</item>
+        <item>Piatok</item>
+        <item>Sobota</item>
+    </array>
+    <array name="a5">
+        <item>Zjednodušená čínština</item>
+        <item>Tradičná čínština</item>
+        <item>Angličtina</item>
+        <item>Japončina</item>
+        <item>Kórejčina</item>
+        <item>Ruština</item>
+        <item>Indonézčina</item>
+        <item>Malajčina</item>
+        <item>Portugalčina</item>
+        <item>Thajčina</item>
+        <item>Vietnamčina</item>
+        <item>Hindčina</item>
+    </array>
+    <array name="a7">
+        <item>Normálne</item>
+        <item>Čiernobiela</item>
+        <item>Umenie</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Sýtejšie</item>
+        <item>Chróm</item>
+    </array>
+    <array name="aa">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </array>
+    <array name="ad">
+        <item>Uprednostniť úsporu dát</item>
+        <item>Najprv vysoké rozlíšenie</item>
+    </array>
+    <array name="ae">
+        <item>Všetci</item>
+        <item>Len priatelia</item>
+    </array>
+    <array name="bi">
+        <item>Pondelok</item>
+        <item>Utorok</item>
+        <item>Streda</item>
+        <item>Štvrtok</item>
+        <item>Piatok</item>
+        <item>Sobota</item>
+        <item>Nedeľa</item>
+    </array>
+</resources>

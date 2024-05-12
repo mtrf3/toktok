@@ -1,0 +1,2809 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="zero">Mēs sāksim tavu avatāru izveidi pēc %d minūtēm.</item>
+        <item quantity="one">Mēs sāksim tavu avatāru izveidi pēc %d minūtes.</item>
+        <item quantity="other">Mēs sāksim tavu avatāru izveidi pēc %d minūtēm.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">Turpināt ar %d stiliem</item>
+        <item quantity="one">Turpināt ar %d stilu</item>
+        <item quantity="other">Turpināt ar %d stiliem</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="zero">Atlasi vēl vismaz %d fotoattēlu ar cilvēka seju</item>
+        <item quantity="one">Atlasi vēl vismaz %d fotoattēlu ar cilvēka seju</item>
+        <item quantity="other">Atlasi vēl vismaz %d fotoattēlus ar cilvēka seju</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">Tu vari veidot avatārus ar Sharp %d reizes dienā</item>
+        <item quantity="one">Tu vari veidot avatārus ar Sharp %d reizi dienā</item>
+        <item quantity="other">Tu vari veidot avatārus ar Sharp %d reizes dienā</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">Tu vari veidot avatārus ar Sharp %d reizes nedēļā</item>
+        <item quantity="one">Tu vari veidot avatārus ar Sharp %d reizi nedēļā</item>
+        <item quantity="other">Tu vari veidot avatārus ar Sharp %d reizes nedēļā</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">Tu vari veidot avatārus ar Speedy %d reizes dienā</item>
+        <item quantity="one">Tu vari veidot avatārus ar Speedy %d reizi dienā</item>
+        <item quantity="other">Tu vari veidot avatārus ar Speedy %d reizes dienā</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="zero">Tu vari veidot avatārus ar Speedy %d reizes nedēļā</item>
+        <item quantity="one">Tu vari veidot avatārus ar Speedy %d reizi nedēļā</item>
+        <item quantity="other">Tu vari veidot avatārus ar Speedy %d reizes nedēļā</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="zero">Tu vari veidot avatārus %d reizes dienā</item>
+        <item quantity="one">Tu vari veidot avatārus %d reizi dienā</item>
+        <item quantity="other">Tu vari veidot avatārus %d reizes dienā</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="zero">Tu vari veidot avatārus %d reizes nedēļā</item>
+        <item quantity="one">Tu vari veidot avatārus %d reizi nedēļā</item>
+        <item quantity="other">Tu vari veidot avatārus %d reizes nedēļā</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="zero">Mēs sāksim tavu avatāru izveidi pēc %d minūtēm.</item>
+        <item quantity="one">Mēs sāksim tavu avatāru izveidi pēc %d minūtes.</item>
+        <item quantity="other">Mēs sāksim tavu avatāru izveidi pēc %d minūtēm.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="zero">Tev ir %d pieprasījumi</item>
+        <item quantity="one">Tev ir %d pieprasījums</item>
+        <item quantity="other">Tev ir %d pieprasījumi</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="zero">Tev ir %d pieprasījumi</item>
+        <item quantity="one">Tev ir %d pieprasījums</item>
+        <item quantity="other">Tev ir %d pieprasījumi</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="zero">%d jautājumi</item>
+        <item quantity="one">%d jautājums</item>
+        <item quantity="other">%d jautājumi</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="zero">Pirmās %d dienas citiem būs jāpublicē savi ieraksti, lai skatītu tavus.</item>
+        <item quantity="one">Pirmās %d dienas citiem būs jāpublicē savi ieraksti, lai skatītu tavus.</item>
+        <item quantity="other">Pirmās %d dienas citiem būs jāpublicē savi ieraksti, lai skatītu tavus.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="zero">Pēc %d dienām citi varēs skatīt tavus ierakstus, paši nepublicējot.</item>
+        <item quantity="one">Pēc %d dienas citi varēs skatīt tavus ierakstus, paši nepublicējot.</item>
+        <item quantity="other">Pēc %d dienām citi varēs skatīt tavus ierakstus, paši nepublicējot.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="zero">Pēc %d dienām tavi ieraksti būs redzami tikai tev.</item>
+        <item quantity="one">Pēc %d dienas tavi ieraksti būs redzami tikai tev.</item>
+        <item quantity="other">Pēc %d dienām tavi ieraksti būs redzami tikai tev.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="zero">Pirmās %d dienas citiem būs jāpublicē savi ieraksti, lai skatītu tavus Now ierakstus.</item>
+        <item quantity="one">Pirmo %d dienu citiem būs jāpublicē savi ieraksti, lai skatītu tavus Now ierakstus.</item>
+        <item quantity="other">Pirmās %d dienas citiem būs jāpublicē savi ieraksti, lai skatītu tavus Now ierakstus.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="zero">%d produktu</item>
+        <item quantity="one">%d produkts</item>
+        <item quantity="other">%d produkti</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="zero">Atvērt lietotāja {username} fotoattēlus</item>
+        <item quantity="one">Atvērt lietotāja {username} fotoattēlu</item>
+        <item quantity="other">Atvērt lietotāja {username} fotoattēlus</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="zero">{number} cilvēku pievienoja šo video savai izlasei</item>
+        <item quantity="one">{number} cilvēks pievienoja šo video savai izlasei</item>
+        <item quantity="other">{number} cilvēki pievienoja šo video savai izlasei</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="zero">%d patīk</item>
+        <item quantity="one">%d patīk</item>
+        <item quantity="other">%d patīk</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ miljards</item>
+        <item quantity="other">%@ miljardi</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ miljons</item>
+        <item quantity="other">%@ miljoni</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ tūkstotis</item>
+        <item quantity="other">%@ tūkstoši</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="zero">%d skatījumi</item>
+        <item quantity="one">%d skatījums</item>
+        <item quantity="other">%d skatījumi</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="zero">%s video ir atļauti komentāri</item>
+        <item quantity="one">%s video ir atļauti komentāri</item>
+        <item quantity="other">%s video ir atļauti komentāri</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="zero">%s video nav atļauti komentāri</item>
+        <item quantity="one">%s video nav atļauti komentāri</item>
+        <item quantity="other">%s video nav atļauti komentāri</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="zero">bet %d nav atļauti Duo</item>
+        <item quantity="one">bet %d nav atļauti Duo</item>
+        <item quantity="other">bet %d nav atļauti Duo</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="zero">Ikviens var veidot Duo ar taviem video. %1$d no taviem video ir atļauts Duo, %2$s</item>
+        <item quantity="one">Ikviens var veidot Duo ar taviem video. %1$d no taviem video ir atļauts Duo, %2$s</item>
+        <item quantity="other">Ikviens var veidot Duo ar taviem video. %1$d no taviem video ir atļauts Duo, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="zero">bet %d nav atļauti Duo</item>
+        <item quantity="one">bet %d nav atļauti Duo</item>
+        <item quantity="other">bet %d nav atļauti Duo</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="zero">Draugi var veidot Duo ar taviem video. %1$d no taviem video ir atļauts Duo, %2$s</item>
+        <item quantity="one">Draugi var veidot Duo ar taviem video. %1$d no taviem video ir atļauts Duo, %2$s</item>
+        <item quantity="other">Draugi var veidot Duo ar taviem video. %1$d no taviem video ir atļauts Duo, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="zero">bet %d nav atļauti Duo</item>
+        <item quantity="one">bet %d nav atļauti Duo</item>
+        <item quantity="other">bet %d nav atļauti Duo</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="zero">Pārskati, kas var veidot Duo ar taviem video. %1$d no taviem video ir atļauts Duo, %2$s</item>
+        <item quantity="one">Pārskati, kas var veidot Duo ar taviem video. %1$d no taviem video ir atļauts Duo, %2$s</item>
+        <item quantity="other">Pārskati, kas var veidot Duo ar taviem video. %1$d no taviem video ir atļauts Duo, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="zero">bet %d nav atļauti Salaiduma video</item>
+        <item quantity="one">bet %d nav atļauti Salaiduma video</item>
+        <item quantity="other">bet %d nav atļauti Salaiduma video</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="zero">Pārskati, kas var veidot Salaidumus ar taviem video. %1$d no taviem video ir atļauti Salaidumi, %2$s</item>
+        <item quantity="one">Pārskati, kas var veidot Salaidumus ar taviem video. %1$d no taviem video ir atļauti Salaidumi, %2$s</item>
+        <item quantity="other">Pārskati, kas var veidot Salaidumus ar taviem video. %1$d no taviem video ir atļauti Salaidumi, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="zero">bet %d nav atļauti Salaiduma video</item>
+        <item quantity="one">bet %d nav atļauti Salaiduma video</item>
+        <item quantity="other">bet %d nav atļauti Salaiduma video</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="zero">Ikviens var veidot Salaidumus ar taviem video. %1$d no taviem video ir atļauti Salaidumi, %2$s</item>
+        <item quantity="one">Ikviens var veidot Salaidumus ar taviem video. %1$d no taviem video ir atļauti Salaidumi, %2$s</item>
+        <item quantity="other">Ikviens var veidot Salaidumus ar taviem video. %1$d no taviem video ir atļauti Salaidumi, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="zero">bet %d nav atļauti Salaiduma video</item>
+        <item quantity="one">bet %d nav atļauti Salaiduma video</item>
+        <item quantity="other">bet %d nav atļauti Salaiduma video</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="zero">Draugi var veidot Salaidumus ar taviem video. %1$d no taviem video ir atļauti Salaidumi, %2$s</item>
+        <item quantity="one">Draugi var veidot Salaidumus ar taviem video. %1$d no taviem video ir atļauti Salaidumi, %2$s</item>
+        <item quantity="other">Draugi var veidot Salaidumus ar taviem video. %1$d no taviem video ir atļauti Salaidumi, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="zero">%s video ir atļauts veidot Duo</item>
+        <item quantity="one">%s video ir atļauts veidot Duo</item>
+        <item quantity="other">%s video ir atļauts veidot Duo</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="zero">%s video nav atļauts veidot Duo</item>
+        <item quantity="one">%s video nav atļauts veidot Duo</item>
+        <item quantity="other">%s video nav atļauti veidot Duo</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="zero">%s video atļauts veidot Salaidumus</item>
+        <item quantity="one">%s video atļauts veidot Salaidumus</item>
+        <item quantity="other">%s video atļauts veidot Salaidumus</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="zero">%s video nav atļauts veidot Salaidumus</item>
+        <item quantity="one">%s video nav atļauts veidot Salaidumus</item>
+        <item quantity="other">%s video nav atļauts veidot Salaidumus</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="zero">Aktīvs pirms %d stundu</item>
+        <item quantity="one">Aktīvs pirms %d stundas</item>
+        <item quantity="other">Aktīvs pirms %d stundām</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="zero">Aktīvs pirms %d minūtēm</item>
+        <item quantity="one">Aktīvs pirms %d minūtes</item>
+        <item quantity="other">Aktīvs pirms %d minūtēm</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="zero">%d daļas</item>
+        <item quantity="one">%d daļa</item>
+        <item quantity="other">%d daļas</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="zero">%1$s · %2$d jauni ieraksti</item>
+        <item quantity="one">%1$s · %2$d jauns ieraksts</item>
+        <item quantity="other">%1$s · %2$d jauni ieraksti</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="zero">Importēt %d skaņu</item>
+        <item quantity="one">Importēt %d skaņu</item>
+        <item quantity="other">Importēt %d skaņas</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="zero">%2$d LIVE video | %1$d stāsti</item>
+        <item quantity="one">%2$d LIVE video | %1$d stāsts</item>
+        <item quantity="other">%2$d LIVE video | %1$d stāsti</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="zero">%2$d LIVE video | %1$d Stāsts</item>
+        <item quantity="one">%2$d LIVE video | %1$d Stāsts</item>
+        <item quantity="other">%2$d LIVE video | %1$d Stāsts</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="zero">%d LIVE video | Stāstu</item>
+        <item quantity="one">%d LIVE video | Stāsts</item>
+        <item quantity="other">%d LIVE video | Stāsti</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="zero">%2$d LIVE video | %1$d stāsti</item>
+        <item quantity="one">%2$d LIVE video | %1$d stāsts</item>
+        <item quantity="other">%2$d LIVE video | %1$d stāsti</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="zero">%d stāsti</item>
+        <item quantity="one">%d stāsts</item>
+        <item quantity="other">%d stāsti</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="zero">Uzaicināti %d draugi</item>
+        <item quantity="one">Uzaicināts %d draugs</item>
+        <item quantity="other">Uzaicināti %d draugi</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="zero">%s video</item>
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="zero">%s pievienotu video</item>
+        <item quantity="one">%s pievienots video</item>
+        <item quantity="other">%s pievienoti video</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="zero">%s publicēti video</item>
+        <item quantity="one">%s publicēts video</item>
+        <item quantity="other">%s publicēti video</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="zero">Pievienot video (%d)</item>
+        <item quantity="one">Pievienot video (%d)</item>
+        <item quantity="other">Pievienot video (%d)</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="zero">%d gadus vecs</item>
+        <item quantity="one">%d gadu vecs</item>
+        <item quantity="other">%d gadus vecs</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="zero">%d gadus vecs</item>
+        <item quantity="one">%d gadu vecs</item>
+        <item quantity="other">%d gadus vecs</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="zero">Vai tavs vecums ir %d gadi?\n\nJa tas nav pareizi, iespējams, nesaņemsi pareizo TikTok pieredzi. Iespējams, nevarēsi to uzreiz mainīt.</item>
+        <item quantity="one">Vai tavs vecums ir %d gads?\n\nJa tas nav pareizi, iespējams, nesaņemsi pareizo TikTok pieredzi. Iespējams, nevarēsi to uzreiz mainīt.</item>
+        <item quantity="other">Vai tavs vecums ir %d gadi?\n\nJa tas nav pareizi, iespējams, nesaņemsi pareizo TikTok pieredzi. Iespējams, nevarēsi to uzreiz mainīt.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="zero">Vai tavs vecums ir %d gadi?</item>
+        <item quantity="one">Vai tavs vecums ir %d gads?</item>
+        <item quantity="other">Vai tavs vecums ir %d gadi?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="zero">Tu ievadīji %d gadu vecumu. Ievadi īsto dzimšanas datumu.</item>
+        <item quantity="one">Tu ievadīji %d gada vecumu. Ievadi īsto dzimšanas datumu.</item>
+        <item quantity="other">Tu ievadīji %d gadu vecumu. Ievadi īsto dzimšanas datumu.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="zero">%d gadus vecs</item>
+        <item quantity="one">%d gadu vecs</item>
+        <item quantity="other">%d gadus vecs</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="zero">%d skaņu</item>
+        <item quantity="one">%d skaņa</item>
+        <item quantity="other">%d skaņas</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="zero">Sinhronizē skaņas...</item>
+        <item quantity="one">Sinhronizē skaņu...</item>
+        <item quantity="other">Sinhronizē skaņas...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="zero">%s dalījās</item>
+        <item quantity="one">%s dalījās</item>
+        <item quantity="other">%s dalījās</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="zero">%s skatījumu</item>
+        <item quantity="one">%s skatījums</item>
+        <item quantity="other">%s skatījumi</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="zero">Balss efekti var samazināt precizitāti</item>
+        <item quantity="one">Balss efekti var samazināt precizitāti</item>
+        <item quantity="other">Balss efekti var samazināt precizitāti</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="zero">Augšupielādē līdz %d failiem</item>
+        <item quantity="one">Augšupielādē līdz %d failam</item>
+        <item quantity="other">Augšupielādē līdz %d failiem</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="zero">[num] video</item>
+        <item quantity="one">[num] video</item>
+        <item quantity="other">[num] video</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="zero">Šī beta versija beigsies pēc %d dienām</item>
+        <item quantity="one">Šī beta versija beigsies pēc %d dienas</item>
+        <item quantity="other">Šī beta versija beigsies pēc %d dienām</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="zero">Beigsies pēc %d dienām</item>
+        <item quantity="one">Beigsies pēc %d dienas</item>
+        <item quantity="other">Beigsies pēc %d dienām</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="zero">Beigsies pēc %d dienām</item>
+        <item quantity="one">Beigsies pēc %d dienas</item>
+        <item quantity="other">Beigsies pēc %d dienām</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="zero">Beigsies pēc %d dienām</item>
+        <item quantity="one">Beigsies pēc %d dienas</item>
+        <item quantity="other">Beigsies pēc %d dienām</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="zero">Vari pievienot līdz par %d grāmatu</item>
+        <item quantity="one">Vari pievienot līdz par %d grāmatai</item>
+        <item quantity="other">Vari pievienot līdz par %d grāmatām</item>
+    </plurals>
+    <plurals name="bo">
+        <item quantity="zero">dalījās ar fotoattēliem</item>
+        <item quantity="one">dalījās ar fotoattēlu</item>
+        <item quantity="other">dalījās ar fotoattēliem</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="zero">%s klipi</item>
+        <item quantity="one">%s klips</item>
+        <item quantity="other">%s klipi</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="zero">Skatīt vēl %d</item>
+        <item quantity="one">Skatīt vēl %d</item>
+        <item quantity="other">Skatīt vēl %d</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="zero">Skati %d atbilžu</item>
+        <item quantity="one">Skati %d atbildi</item>
+        <item quantity="other">Skati %d atbildes</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="zero">%d mēneši</item>
+        <item quantity="one">%d mēnesis</item>
+        <item quantity="other">%d mēneši</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="zero">%d gadi</item>
+        <item quantity="one">%d gads</item>
+        <item quantity="other">%d gadi</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="zero">Bloķēt kontus</item>
+        <item quantity="one">Bloķēt kontu</item>
+        <item quantity="other">Bloķēt kontus</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="zero">%d atlasītu kontu.</item>
+        <item quantity="one">%d atlasīts konts.</item>
+        <item quantity="other">%d atlasīti konti.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="zero">Vienlaikus vari atlasīt maks. %d kontus.</item>
+        <item quantity="one">Vienlaikus vari atlasīt maks. %d kontu.</item>
+        <item quantity="other">Vienlaikus vari atlasīt maks. %d kontus.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="zero">Tu bloķēšanai atlasīji %d kontus. Bloķētie konti nevarēs skatīt tavu profilu vai saturu platformā TikTok.</item>
+        <item quantity="one">Tu bloķēšanai atlasīji %d kontu. Bloķētie konti nevarēs skatīt tavu profilu vai saturu platformā TikTok.</item>
+        <item quantity="other">Tu bloķēšanai atlasīji %d kontus. Bloķētie konti nevarēs skatīt tavu profilu vai saturu platformā TikTok.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="zero">Vai bloķēt %d kontus?</item>
+        <item quantity="one">Vai bloķēt %d kontu?</item>
+        <item quantity="other">Vai bloķēt %d kontus?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="zero">Dzēst komentārus</item>
+        <item quantity="one">Dzēst komentāru</item>
+        <item quantity="other">Dzēst komentārus</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="zero">Tu atlasīji %d komentārus.</item>
+        <item quantity="one">Tu atlasīji %d komentāru.</item>
+        <item quantity="other">Tu atlasīji %d komentārus.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="zero">Vai dzēst %d komentārus?</item>
+        <item quantity="one">Vai dzēst %d komentāru?</item>
+        <item quantity="other">Vai dzēst %d komentārus?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="zero">Komentāri izdzēsti</item>
+        <item quantity="one">Komentārs izdzēsts</item>
+        <item quantity="other">Komentāri izdzēsti</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="zero">%d atlasītu komentāru.</item>
+        <item quantity="one">%d atlasīts komentārs.</item>
+        <item quantity="other">%d atlasīti komentāri.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="zero">Vienlaikus vari atlasīt maks. %d komentāru.</item>
+        <item quantity="one">Vienlaikus vari atlasīt maks. %d komentāru.</item>
+        <item quantity="other">Vienlaikus vari atlasīt maks. %d komentārus.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="zero">Ziņot par komentāriem</item>
+        <item quantity="one">Ziņot par komentāru</item>
+        <item quantity="other">Ziņot par komentāriem</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="zero">Tu ziņo par %d komentāriem. Mēs pārskatīsim šos komentārus saistībā ar nepiemērotu saturu.</item>
+        <item quantity="one">Tu ziņo par %d komentāru. Mēs pārskatīsim šos komentārus saistībā ar nepiemērotu saturu.</item>
+        <item quantity="other">Tu ziņo par %d komentāriem. Mēs pārskatīsim šos komentārus saistībā ar nepiemērotu saturu.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="zero">Vai ziņot par %d komentāriem?</item>
+        <item quantity="one">Vai ziņot par %d komentāru?</item>
+        <item quantity="other">Vai ziņot par %d komentāriem?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="zero">Par komentāriem ir ziņots</item>
+        <item quantity="one">Par komentāriem ir ziņots</item>
+        <item quantity="other">Par komentāriem ir ziņots</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="zero">%s komentāri</item>
+        <item quantity="one">%s komentārs</item>
+        <item quantity="other">%s komentāri</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="zero">%s video</item>
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="zero">%s lietotāji iestatīja atgādinājumu</item>
+        <item quantity="one">%s lietotājs iestatīja atgādinājumu</item>
+        <item quantity="other">%s lietotāji iestatīja atgādinājumu</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="zero">%s efektu</item>
+        <item quantity="one">%s efekts</item>
+        <item quantity="other">%s efekti</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="zero">Video skatījumi</item>
+        <item quantity="one">Video skatījums</item>
+        <item quantity="other">Video skatījumi</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="zero">%d %%</item>
+        <item quantity="one">%d %%</item>
+        <item quantity="other">%d %%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="zero">Neto sekotāji</item>
+        <item quantity="one">Neto sekotājs</item>
+        <item quantity="other">Neto sekotāji</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="zero">%d %%</item>
+        <item quantity="one">%d %%</item>
+        <item quantity="other">%d %%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="zero">Atzīmju &quot;Patīk&quot;</item>
+        <item quantity="one">Atzīme &quot;Patīk&quot;</item>
+        <item quantity="other">Atzīmes &quot;Patīk&quot;</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="zero">%d %%</item>
+        <item quantity="one">%d %%</item>
+        <item quantity="other">%d %%</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="zero">%s lietotāji ir iestatījuši atgādinājumu</item>
+        <item quantity="one">%s lietotājs ir iestatījis atgādinājumu</item>
+        <item quantity="other">%s lietotāji ir iestatījuši atgādinājumu</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="zero">Vai dzēst melnrakstus?</item>
+        <item quantity="one">Vai dzēst melnrakstu?</item>
+        <item quantity="other">Vai dzēst melnrakstus?</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="zero">%s ieraksti</item>
+        <item quantity="one">%s ieraksts</item>
+        <item quantity="other">%s ieraksti</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="zero">Nepareiza parole. Atlikuši %d mēģinājumi.</item>
+        <item quantity="one">Nepareiza parole. Atlicis %d mēģinājums.</item>
+        <item quantity="other">Nepareiza parole. Atlikuši %d mēģinājumi.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="zero">Pārāk daudz mēģinājumu. Mēģini vēlreiz pēc %d minūtēm.</item>
+        <item quantity="one">Pārāk daudz mēģinājumu. Mēģini vēlreiz pēc %d minūtes.</item>
+        <item quantity="other">Pārāk daudz mēģinājumu. Mēģini vēlreiz pēc %d minūtēm.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="zero">%d melodijas</item>
+        <item quantity="one">%d melodija</item>
+        <item quantity="other">%d melodijas</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="zero">%d mūzikas</item>
+        <item quantity="one">%d mūzika</item>
+        <item quantity="other">%d mūzikas</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="zero">%d skaņdarbi</item>
+        <item quantity="one">%d skaņdarbs</item>
+        <item quantity="other">%d skaņdarbi</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="zero">%d dziesmas</item>
+        <item quantity="one">%d dziesma</item>
+        <item quantity="other">%d dziesmas</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="zero">%d skaņu</item>
+        <item quantity="one">%d skaņa</item>
+        <item quantity="other">%d skaņas</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="zero">%d toņi</item>
+        <item quantity="one">%d tonis</item>
+        <item quantity="other">%d toņi</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="zero">Nosūtīt (%d)</item>
+        <item quantity="one">Nosūtīt (%d)</item>
+        <item quantity="other">Nosūtīt (%d)</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="zero">%1$d seko · %2$d sekotāju</item>
+        <item quantity="one">%1$d seko · %2$d sekotājs</item>
+        <item quantity="other">%1$d seko · %2$d sekotāji</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="zero">@ jaunu pieminēšanas reižu</item>
+        <item quantity="one">@ jauna pieminēšanas reize</item>
+        <item quantity="other">@ jaunas pieminēšanas reizes</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="zero">nosūtīja jaunas ziņas.</item>
+        <item quantity="one">nosūtīja jaunas ziņas.</item>
+        <item quantity="other">nosūtīja jaunas ziņas.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="zero">nosūtīja tev jaunas ziņas.</item>
+        <item quantity="one">nosūtīja tev jaunas ziņas.</item>
+        <item quantity="other">nosūtīja tev jaunas ziņas.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="zero">Vari atlasīt līdz %d cilvēkiem</item>
+        <item quantity="one">Vari atlasīt līdz %d cilvēkam</item>
+        <item quantity="other">Vari atlasīt līdz %d cilvēkiem</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="zero">Vai atmest melnrakstus?</item>
+        <item quantity="one">Vai atmest melnrakstu?</item>
+        <item quantity="other">Vai atmest melnrakstus?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="zero">Vai dzēst melnrakstus?</item>
+        <item quantity="one">Vai dzēst melnrakstu?</item>
+        <item quantity="other">Vai dzēst melnrakstus?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="zero">Melnraksti {#} video</item>
+        <item quantity="one">Melnraksti {#} video</item>
+        <item quantity="other">Melnraksti {#} video</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="zero">%1$s un %2$s citi saņems paziņojumu par šī video publicēšanu.</item>
+        <item quantity="one">%1$s un %2$s cits saņems paziņojumu par šī video publicēšanu.</item>
+        <item quantity="other">%1$s un %2$s citi saņems paziņojumu par šī video publicēšanu.</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="zero">Izvēlies vismaz %d preču</item>
+        <item quantity="one">Izvēlies vismaz %d preci</item>
+        <item quantity="other">Izvēlies vismaz %d preces</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="zero">Kontroles atsauksme pēc %d dienām</item>
+        <item quantity="one">Kontroles atsauksme pēc %d dienas</item>
+        <item quantity="other">Kontroles atsauksme pēc %d dienām</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="zero">Beidzas pēc %s dienām</item>
+        <item quantity="one">Beidzas pēc %s dienas</item>
+        <item quantity="other">Beidzas pēc %s dienām</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="zero">%1$s preces, kopā %2$s</item>
+        <item quantity="one">%1$s prece, kopā %2$s</item>
+        <item quantity="other">%1$s preces, kopā %2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="zero">Kopā (%s preces)</item>
+        <item quantity="one">Kopā (%s prece)</item>
+        <item quantity="other">Kopā (%s preces)</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="zero">Tu vari rediģēt tikai maks. %d reizes</item>
+        <item quantity="one">Tu vari rediģēt tikai maks. %d reizi</item>
+        <item quantity="other">Tu vari rediģēt tikai maks. %d reizes</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="zero">Priekšskati efektu pēc %d s</item>
+        <item quantity="one">Priekšskati efektu pēc %d s</item>
+        <item quantity="other">Priekšskati efektu pēc %d s</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="zero">Atzīmēti</item>
+        <item quantity="one">Atzīmēts</item>
+        <item quantity="other">Atzīmēti</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="zero">Iespējams, pazīsti šos grupas dalībniekus.</item>
+        <item quantity="one">Iespējams, pazīsti šo grupas dalībnieku.</item>
+        <item quantity="other">Iespējams, pazīsti šos grupas dalībniekus.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="zero">%s video</item>
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="zero">%s pievienotu video</item>
+        <item quantity="one">%s pievienots video</item>
+        <item quantity="other">%s pievienoti video</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="zero">Noņemt %1$d video no kolekcijas %2$s</item>
+        <item quantity="one">Noņemt %1$d video no kolekcijas %2$s</item>
+        <item quantity="other">Noņemt %1$d video no kolekcijas %2$s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="zero">%1$d video pārvietoti uz kolekciju %2$s</item>
+        <item quantity="one">%1$d video pārvietots uz kolekciju %2$s</item>
+        <item quantity="other">%1$d video pārvietoti uz kolekciju %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="zero">%d video noņemti</item>
+        <item quantity="one">%d video noņemts</item>
+        <item quantity="other">%d video noņemti</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="zero">%d jaunu ieteikto kontu</item>
+        <item quantity="one">%d jauns ieteiktais konts</item>
+        <item quantity="other">%d jauni ieteiktie konti</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="zero">Viņam seko %s + vēl %d</item>
+        <item quantity="one">Viņam seko %s</item>
+        <item quantity="other">Viņam seko %s + vēl %d</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="zero">Seko %s + vēl %d</item>
+        <item quantity="one">Seko %s</item>
+        <item quantity="other">Seko %s + vēl %d</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="zero">Seko lietotājs {0}, {1} un {2} citi</item>
+        <item quantity="one">Seko lietotājs {0}, {1} un {2} cits</item>
+        <item quantity="other">Seko lietotājs {0}, {1} un {2} citi</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="zero">Seko lietotājs {0} un {2} citi</item>
+        <item quantity="one">Seko lietotājs {0} un {2} cits</item>
+        <item quantity="other">Seko lietotājs {0} un {2} citi</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="zero">Seko {0}, {1} un {2} citiem</item>
+        <item quantity="one">Seko {0}, {1} un {2} citam</item>
+        <item quantity="other">Seko {0}, {1} un {2} citiem</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="zero">Follows {0} un {2} citiem</item>
+        <item quantity="one">Follows {0} un {2} citam</item>
+        <item quantity="other">Follows {0} un {2} citiem</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="zero">Draugi ar {0}, {1} un {2} citiem</item>
+        <item quantity="one">Draugi ar {0}, {1} un {2} citu</item>
+        <item quantity="other">Draugi ar {0}, {1} un {2} citiem</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="zero">Draugi ar {0} un {2} citiem</item>
+        <item quantity="one">Draugi ar {0} un {2} citu</item>
+        <item quantity="other">Draugi ar {0} un {2} citiem</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="zero">{2} savstarpēju saistību</item>
+        <item quantity="one">{2} savstarpēja saistība</item>
+        <item quantity="other">{2} savstarpējas saistības</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="zero">Draugi ar %s + vēl %d</item>
+        <item quantity="one">Draugi ar %s</item>
+        <item quantity="other">Draugi ar %s + vēl %d</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="zero">%d jaunu ierakstu no draugiem</item>
+        <item quantity="one">%d jauns ieraksts no draugiem</item>
+        <item quantity="other">%d jauni ieraksti no draugiem</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="zero">Šobrīd ir aktīvi %d dalībnieki</item>
+        <item quantity="one">Šobrīd ir aktīvs %d dalībnieks</item>
+        <item quantity="other">Šobrīd ir aktīvi %d dalībnieki</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="zero">%1$d dalībnieki bija aktīvi pirms %2$d minūtēm</item>
+        <item quantity="one">%1$d dalībnieks bija aktīvs pirms %2$d minūtēm</item>
+        <item quantity="other">%1$d dalībnieki bija aktīvi pirms %2$d minūtēm</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="zero">Šodien aktīvi %d dalībnieki</item>
+        <item quantity="one">Šodien aktīvs %d dalībnieks</item>
+        <item quantity="other">Šodien aktīvi %d dalībnieki</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="zero">%d dalībnieki</item>
+        <item quantity="one">%d dalībnieks</item>
+        <item quantity="other">%d dalībnieki</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="zero">Jauni pieprasījumi</item>
+        <item quantity="one">Jauns pieprasījums</item>
+        <item quantity="other">Jauni pieprasījumi</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="zero">%s dalībnieku</item>
+        <item quantity="one">%s dalībnieks</item>
+        <item quantity="other">%s dalībnieki</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="zero">Skatīt vēl %d dalībniekus</item>
+        <item quantity="one">Skatīt vēl %d dalībnieku</item>
+        <item quantity="other">Skatīt vēl %d dalībniekus</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="zero">%s skatījumu</item>
+        <item quantity="one">%s skatījums</item>
+        <item quantity="other">%s skatījumi</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="zero">Sekotāji: %s</item>
+        <item quantity="one">Sekotājs: %s</item>
+        <item quantity="other">Sekotāji: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="zero">Video: %s</item>
+        <item quantity="one">Video: %s</item>
+        <item quantity="other">Video: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="zero">Nosūtīts lietotājam %s un vēl %d citiem</item>
+        <item quantity="one">Nosūtīts lietotājam %s un vēl %d citam</item>
+        <item quantity="other">Nosūtīts lietotājam %s un vēl %d citiem</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="zero">Nevarēja augšupielādēt %d stāstus. Stāsti tika saglabāti tavos melnrakstos.</item>
+        <item quantity="one">Nevarēja augšupielādēt %d stāstu. Stāsts tika saglabāts tavos melnrakstos.</item>
+        <item quantity="other">Nevarēja augšupielādēt %d stāstus. Stāsti tika saglabāti tavos melnrakstos.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="zero">Nevarēja augšupielādēt fotoattēlus. Fotoattēli tika saglabāti tavos melnrakstos.</item>
+        <item quantity="one">Nevarēja augšupielādēt fotoattēlu. Fotoattēls tika saglabāts tavos melnrakstos.</item>
+        <item quantity="other">Nevarēja augšupielādēt fotoattēlus. Fotoattēli tika saglabāti tavos melnrakstos.</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="zero">%d uzlīmes</item>
+        <item quantity="one">%d uzlīme</item>
+        <item quantity="other">%d uzlīmes</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="zero">pieminēja tevi fotoattēlos.</item>
+        <item quantity="one">pieminēja tevi fotoattēlā.</item>
+        <item quantity="other">pieminēja tevi fotoattēlos.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="zero">Jauni ieraksti: %s</item>
+        <item quantity="one">%s jauns ieraksts</item>
+        <item quantity="other">Jauni ieraksti: %s</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="zero">Aktivitāšu</item>
+        <item quantity="one">Aktivitāte</item>
+        <item quantity="other">Aktivitātes</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="zero">Seko %1$s, %2$s un %d citiem, kurus, iespējams, pazīsti, lai skatītos viņu video.</item>
+        <item quantity="one">Seko %1$s, %2$s un %d citam, kurus, iespējams, pazīsti, lai skatītos viņu video.</item>
+        <item quantity="other">Seko %1$s, %2$s un %d citiem, kurus, iespējams, pazīsti, lai skatītos viņu video.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="zero">%d citi</item>
+        <item quantity="one">%d cits</item>
+        <item quantity="other">%d citi</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="zero">Seko %1$s, %2$s un %3$d citiem, kurus, iespējams, pazīsti, lai skatītos viņu video.</item>
+        <item quantity="one">Seko %1$s, %2$s un %3$d citam, kurus, iespējams, pazīsti, lai skatītos viņu video.</item>
+        <item quantity="other">Seko %1$s, %2$s un %3$d citiem, kurus, iespējams, pazīsti, lai skatītos viņu video.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="zero">Ziņu</item>
+        <item quantity="one">Ziņa</item>
+        <item quantity="other">Ziņas</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="zero">Jaunu aktivitāšu</item>
+        <item quantity="one">Jauna aktivitāte</item>
+        <item quantity="other">Jaunas aktivitātes</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="zero">%s dalībnieku</item>
+        <item quantity="one">%s dalībnieks</item>
+        <item quantity="other">%s dalībnieki</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="zero">%s ieraksti</item>
+        <item quantity="one">%s ieraksts</item>
+        <item quantity="other">%s ieraksti</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="zero">%d atslēgvārdi</item>
+        <item quantity="one">%d atslēgvārds</item>
+        <item quantity="other">%d atslēgvārdi</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="zero">%d LIVE video</item>
+        <item quantity="one">%d LIVE video</item>
+        <item quantity="other">%d LIVES video</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="zero">Beidzas pēc %s dienām</item>
+        <item quantity="one">Beidzas pēc %s dienas</item>
+        <item quantity="other">Beidzas pēc %s dienām</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="zero">Maks. atlasāmais multivides failu skaits: %1$d</item>
+        <item quantity="one">Maks. atlasāmais multivides failu skaits: %1$d</item>
+        <item quantity="other">Maks. atlasāmais multivides failu skaits: %1$d</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="zero">%d pieprasījumu</item>
+        <item quantity="one">%d pieprasījums</item>
+        <item quantity="other">%d pieprasījumi</item>
+    </plurals>
+    <plurals name="j0">
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+        <item quantity="other">%d jauni paziņojumi</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="zero">Vai atcelt dziesmu atlasi kā jaunas?</item>
+        <item quantity="one">Vai atcelt dziesmas atlasi kā jaunu?</item>
+        <item quantity="other">Vai atcelt dziesmu atlasi kā jaunas?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="zero">%d dziesmas vairs nav atlasītas kā jaunas</item>
+        <item quantity="one">%d dziesma vairs nav atlasīta kā jauna</item>
+        <item quantity="other">%d dziesmas vairs nav atlasītas kā jaunas</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="zero">%d publikāciju</item>
+        <item quantity="one">%d publikācija</item>
+        <item quantity="other">%d publikācijas</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="zero">%d izpildītāji</item>
+        <item quantity="one">%d izpildītājs</item>
+        <item quantity="other">%d izpildītāji</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="zero">%d savstarpēju saistību</item>
+        <item quantity="one">%d savstarpēja saistība</item>
+        <item quantity="other">%d savstarpējas saistības</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="zero">%d savstarpēju saistību</item>
+        <item quantity="one">%d savstarpēja saistība</item>
+        <item quantity="other">%d savstarpējas saistības</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="zero">Tagad vari augšupielādēt līdz %d min garuma video!</item>
+        <item quantity="one">Tagad vari augšupielādēt līdz %d min garuma video!</item>
+        <item quantity="other">Tagad vari augšupielādēt līdz %d min garuma video!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="zero">Jaunie %d min video</item>
+        <item quantity="one">Jaunie %d min video</item>
+        <item quantity="other">Jaunie %d min video</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="zero">%d savstarpēju saistību</item>
+        <item quantity="one">%d savstarpēja saistība</item>
+        <item quantity="other">%d savstarpējas saistības</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="zero">%d komentāru</item>
+        <item quantity="one">%d komentārs</item>
+        <item quantity="other">%d komentāri</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="zero">Skatīt visus %d komentārus</item>
+        <item quantity="one">Skatīt %d komentāru</item>
+        <item quantity="other">Skatīt visus %d komentārus</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="zero">{nickname} un vēl {number_1}</item>
+        <item quantity="one">{nickname} un vēl {number_1}</item>
+        <item quantity="other">{nickname} un vēl {number_1}</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="zero">{number} draugu publicēja šodienas Now</item>
+        <item quantity="one">{number} draugs publicēja šodienas Now</item>
+        <item quantity="other">{number} draugi publicēja šodienas Now</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="zero">%1$s un %2$d citi publicēja savus Now</item>
+        <item quantity="one">%1$s un %2$d cits publicēja savus Now</item>
+        <item quantity="other">%1$s un %2$d citi publicēja savus Now</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="zero">{nickname} un vēl {number_1}</item>
+        <item quantity="one">{nickname} un vēl {number_1}</item>
+        <item quantity="other">{nickname} un vēl {number_1}</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="zero">Pievienojies {number} draugiem TikTok Now, lai dalītos ar nejaušiem mirkļiem</item>
+        <item quantity="one">Pievienojies {number} draugam TikTok Now, lai dalītos ar nejaušiem mirkļiem</item>
+        <item quantity="other">Pievienojies {number} draugiem TikTok Now, lai dalītos ar nejaušiem mirkļiem</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="zero">Publicē Now nākamo {number} minūšu laikā</item>
+        <item quantity="one">Publicē Now nākamās {number} minūtes laikā</item>
+        <item quantity="other">Publicē Now nākamo {number} minūšu laikā</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="zero">Atlikušas %d minūtes, lai publicētu Now.</item>
+        <item quantity="one">Atlikusi %d minūte, lai publicētu Now.</item>
+        <item quantity="other">Atlikušas %d minūtes, lai publicētu Now.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="zero">%d kopīgi draugi</item>
+        <item quantity="one">%d kopīgs draugs</item>
+        <item quantity="other">%d kopīgi draugi</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="zero">%d patīk</item>
+        <item quantity="one">%d patīk</item>
+        <item quantity="other">%d patīk</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="zero">{1}, {2}, {3} un {number} citi tikko publicēja Now.</item>
+        <item quantity="one">{1}, {2}, {3} un {number} cits tikko publicēja Now.</item>
+        <item quantity="other">{1}, {2}, {3} un {number} citi tikko publicēja Now.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="zero">%d reakcijas</item>
+        <item quantity="one">%d reakcija</item>
+        <item quantity="other">%d reakcijas</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="zero">%d skatījumi</item>
+        <item quantity="one">%d skatījums</item>
+        <item quantity="other">%d skatījumi</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="zero">%d skatījumi</item>
+        <item quantity="one">%d skatījums</item>
+        <item quantity="other">%d skatījumi</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="zero">%1$s un %2$s citi</item>
+        <item quantity="one">%1$s un %2$s cits</item>
+        <item quantity="other">%1$s un %2$s citi</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="zero">Taviem no Lemon8 sinhronizētajiem ierakstiem pagaidām nav skaņas. Pievieno skaņu, lai padarītu ierakstus saistošākus skatītājiem.</item>
+        <item quantity="one">Tavam no Lemon8 sinhronizētajam ierakstam pagaidām nav skaņas. Pievieno skaņu, lai padarītu ierakstu saistošāku skatītājiem.</item>
+        <item quantity="other">Taviem no Lemon8 sinhronizētajiem ierakstiem pagaidām nav skaņas. Pievieno skaņu, lai padarītu ierakstus saistošākus skatītājiem.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="zero">Pievieno skaņu, lai uzlabotu savus ierakstus</item>
+        <item quantity="one">Pievieno skaņu, lai uzlabotu savu ierakstu</item>
+        <item quantity="other">Pievieno skaņu, lai uzlabotu savus ierakstus</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="zero">atzīmēja ar Patīk tavus fotoattēlus.</item>
+        <item quantity="one">atzīmēja ar Patīk tavu fotoattēlu.</item>
+        <item quantity="other">atzīmēja ar Patīk tavus fotoattēlus.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="zero">balsoja par taviem fotoattēliem.</item>
+        <item quantity="one">balsoja par tavu fotoattēlu.</item>
+        <item quantity="other">balsoja par taviem fotoattēliem.</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="zero">%d sērijas</item>
+        <item quantity="one">%d sērija</item>
+        <item quantity="other">%d sērijas</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="zero">%d daļas</item>
+        <item quantity="one">%d daļa</item>
+        <item quantity="other">%d daļas</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="zero">Vari sūtīt to vēl %d reizes</item>
+        <item quantity="one">Vari sūtīt to vēl %d reizi</item>
+        <item quantity="other">Vari sūtīt to vēl %d reizes</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="zero">Pieprasīja %d skatītāji</item>
+        <item quantity="one">Pieprasīja %d skatītājs</item>
+        <item quantity="other">Pieprasīja %d skatītāji</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="zero">Piekļuve tiks atjaunota pēc %s dienām</item>
+        <item quantity="one">Piekļuve tiks atjaunota pēc %s dienas</item>
+        <item quantity="other">Piekļuve tiks atjaunota pēc %s dienām</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="zero">%s Monētu no top skatītāja numur 1</item>
+        <item quantity="one">%s Monēta no top skatītāja numur 1</item>
+        <item quantity="other">%s Monētas no top skatītāja numur 1</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="zero">%s Monētu no top skatītāja numur 2</item>
+        <item quantity="one">%s Monēta no top skatītāja numur 2</item>
+        <item quantity="other">%s Monētas no top skatītāja numur 2</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="zero">%s sekotāju</item>
+        <item quantity="one">%s sekotājs</item>
+        <item quantity="other">%s sekotāji</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="zero">Izvēlies no {number} pieejamo preču</item>
+        <item quantity="one">Izvēlies no %s pieejamās preces</item>
+        <item quantity="other">Izvēlies no {number} pieejamām precēm</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="zero">Izvēlies no {number} pieejamo preču</item>
+        <item quantity="one">Izvēlies no %s pieejamās preces</item>
+        <item quantity="other">Izvēlies no {number} pieejamām precēm</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="zero">LIVE veidotājam nodots %s Monētu</item>
+        <item quantity="one">LIVE veidotājam nodota %s Monēta</item>
+        <item quantity="other">LIVE veidotājam nodotas %s Monētas</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="zero">%s patīk</item>
+        <item quantity="one">%s patīk</item>
+        <item quantity="other">%s patīk</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="zero">%s skatītāju</item>
+        <item quantity="one">%s skatītājs</item>
+        <item quantity="other">%s skatītāji</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="zero">Dalīšanās reižu skaits: %s. Dalīties ar video</item>
+        <item quantity="one">Dalīšanās reižu skaits: %s. Dalīties ar video</item>
+        <item quantity="other">Dalīšanās reižu skaits: %s. Dalīties ar video</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="zero">%1$s balsoja %2$s</item>
+        <item quantity="one">%1$s balsoja %2$s</item>
+        <item quantity="other">%1$s balsoja %2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="zero">%1$s nobalsoja %2$s, %3$s nobalsoja %4$s</item>
+        <item quantity="one">%1$s nobalsoja %2$s, %3$s nobalsoja %4$s</item>
+        <item quantity="other">%1$s nobalsoja %2$s, %3$s nobalsoja %4$s</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="zero">Pēc %d minūtēm</item>
+        <item quantity="one">Pēc %d minūtes</item>
+        <item quantity="other">Pēc %d minūtēm</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="zero">Vēl %d pieredzes punktu līdz nākamajam līmenim</item>
+        <item quantity="one">Vēl %d pieredzes punkts līdz nākamajam līmenim</item>
+        <item quantity="other">Vēl %d pieredzes punkti līdz nākamajam līmenim</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="zero">Tavas atlīdzības pāries miega režīmā pēc %d dienām</item>
+        <item quantity="one">Tavas atlīdzības pāries miega režīmā pēc %d dienas</item>
+        <item quantity="other">Tavas atlīdzības pāries miega režīmā pēc %d dienām</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="zero">Vai beigt LIVE? To jau skatās %s skatītāju.</item>
+        <item quantity="one">Vai beigt LIVE? To jau skatās %s skatītājs.</item>
+        <item quantity="other">Vai beigt LIVE? To jau skatās %s skatītāji.</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="zero">Vai beigt LIVE? To jau skatās %s skatītāju.</item>
+        <item quantity="one">Vai beigt LIVE? To jau skatās %s skatītājs.</item>
+        <item quantity="other">Vai beigt LIVE? To jau skatās %s skatītāji.</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="zero">%s jaunu ziņu</item>
+        <item quantity="one">%s jauna ziņa</item>
+        <item quantity="other">%s jaunas ziņas</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="zero">Līdzrīkotāja režīmā {num} dienas pēc kārtas</item>
+        <item quantity="one">Līdzrīkotāja režīmā {num} dienu pēc kārtas</item>
+        <item quantity="other">Līdzrīkotāja režīmā {num} dienas pēc kārtas</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="zero">Trūkst {number} Monētas</item>
+        <item quantity="one">Trūkst {number} Monētas</item>
+        <item quantity="other">Trūkst {number} Monētu</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="zero">Augstākais sasniegums pēdējās {number} dienās: {amount} Monētas</item>
+        <item quantity="one">Augstākais sasniegums pēdējās {number} dienās: {amount} Monēta</item>
+        <item quantity="other">Augstākais sasniegums pēdējās {number} dienās: {amount} Monētas</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="zero">Ieteiktais: {amount} Monētas</item>
+        <item quantity="one">Ieteiktais: {amount} Monēta</item>
+        <item quantity="other">Ieteiktais: {amount} Monētas</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="zero">Tev tagad ir {number} Monētas. Lai iegūtu vairāk Monētu, vari papildināt.</item>
+        <item quantity="one">Tev tagad ir {number} Monēta. Lai iegūtu vairāk Monētu, vari papildināt.</item>
+        <item quantity="other">Tev tagad ir {number} Monētas. Lai iegūtu vairāk Monētu, vari papildināt.</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="zero">Pareizi minējumi (%d)</item>
+        <item quantity="one">Pareizi minējumi (%d)</item>
+        <item quantity="other">Pareizi minējumi (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="zero">%s pareizu minējumu</item>
+        <item quantity="one">%s pareizs minējums</item>
+        <item quantity="other">%s pareizi minējumi</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="zero">%s skatītāju to uzminēja ��</item>
+        <item quantity="one">%s skatītājs to uzminēja��</item>
+        <item quantity="other">%s skatītāji to uzminēja ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="zero">Lielākā daļa skatītāju uzminēja %s vārdus</item>
+        <item quantity="one">Lielākā daļa skatītāju uzminēja %s vārdu</item>
+        <item quantity="other">Lielākā daļa skatītāju uzminēja %s vārdus</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="zero">Neviens skatītājs neuzminēja vārdu</item>
+        <item quantity="one">Neviens skatītājs neuzminēja vārdu</item>
+        <item quantity="other">Neviens skatītājs neuzminēja vārdus</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="zero">%s minūšu, lai uzzīmētu vārdu</item>
+        <item quantity="one">%s minūte, lai uzzīmētu vārdu</item>
+        <item quantity="other">%s minūtes, lai uzzīmētu vārdu</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="zero">�� %d skatītāju uzminēja %s</item>
+        <item quantity="one">�� %d skatītājs uzminēja %s</item>
+        <item quantity="other">�� %d skatītāji uzminēja %s</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="zero">Es uzminēju %s vārdu!</item>
+        <item quantity="one">Es uzminēju %s vārdu!</item>
+        <item quantity="other">Es uzminēju %s vārdus!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="zero">Tu uzminēji %s vārdu</item>
+        <item quantity="one">Tu uzminēji %s vārdu</item>
+        <item quantity="other">Tu uzminēji %s vārdus</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="zero">{0:string} un {1:string} citi pircēji pērk</item>
+        <item quantity="one">{0:string} un {1:string} cits pircējs pērk</item>
+        <item quantity="other">{0:string} un {1:string} citi pircēji pērk</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="zero">%d attēli ir pārāk mazi. Attēliem ir jābūt vismaz 256 x 256 pikseļiem.</item>
+        <item quantity="one">%d attēls ir pārāk mazs. Attēliem ir jābūt vismaz 256 x 256 pikseļiem.</item>
+        <item quantity="other">%d attēli ir pārāk mazi. Attēliem ir jābūt vismaz 256 x 256 pikseļiem.</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="zero">%d skatītāju</item>
+        <item quantity="one">%d skatītājs</item>
+        <item quantity="other">%d skatītāji</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="zero">Tev ir %d Monētas.</item>
+        <item quantity="one">Tev ir %d Monēta.</item>
+        <item quantity="other">Tev ir %d Monētas.</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="zero">Lai nosūtītu šo Dāvanu, vari apmainīt %@ pret vēl %d Monētām.</item>
+        <item quantity="one">Lai nosūtītu šo Dāvanu, vari apmainīt %@ pret vēl %d Monētu.</item>
+        <item quantity="other">Lai nosūtītu šo Dāvanu, vari apmainīt %@ pret vēl %d Monētām.</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="zero">LIVE dāvanu bilance apmainīta pret {{num}} monētām</item>
+        <item quantity="one">LIVE dāvanu bilance apmainīta pret {{num}} monētu</item>
+        <item quantity="other">LIVE dāvanu bilance apmainīta pret {{num}} monētām</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="zero">Tev trūkst %1$d monētu. Vai apmainīt %2$s pret monētām un nosūtīt %3$s?</item>
+        <item quantity="one">Tev trūkst %1$d monētas. Vai apmainīt %2$s pret monētām un nosūtīt %3$s?</item>
+        <item quantity="other">Tev trūkst %1$d monētu. Vai apmainīt %2$s pret monētām un nosūtīt %3$s?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="zero">Tu apmainīji %d monētas un nosūtīji %s</item>
+        <item quantity="one">Tu apmainīji %d monētu un nosūtīji %s</item>
+        <item quantity="other">Tu apmainīji %d monētas un nosūtīji %s</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="zero">%s dalībnieki</item>
+        <item quantity="one">%s dalībnieks</item>
+        <item quantity="other">%s dalībnieki</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="zero">Ir kopā ar tevi {num} dienas</item>
+        <item quantity="one">Ir kopā ar tevi {num} dienu</item>
+        <item quantity="other">Ir kopā ar tevi {num} dienas</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="zero">Lai turpinātu būt aktīvs, iegūsti 1 dalībnieka punktu {num} stundu laikā</item>
+        <item quantity="one">Lai turpinātu būt aktīvs, iegūsti 1 dalībnieka punktu {num} stundas laikā</item>
+        <item quantity="other">Lai turpinātu būt aktīvs, iegūsti 1 dalībnieka punktu {num} stundu laikā</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="zero">To var nosūtīt par %1$d Monētu vēl %2$d reizes.</item>
+        <item quantity="one">To var nosūtīt par %1$d Monētu vēl %2$d reizi.</item>
+        <item quantity="other">To var nosūtīt par %1$d Monētu vēl %2$d reizes.</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="zero">%d sekotāji šobrīd ir aktīvi</item>
+        <item quantity="one">%d sekotājs šobrīd ir aktīvs</item>
+        <item quantity="other">%d sekotāji šobrīd ir aktīvi</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="zero">{number} no taviem draugiem ir LIVE. Uzaicini viņus pāriet LIVE kopā!</item>
+        <item quantity="one">{number} tavs draugs ir LIVE. Uzaicini viņu pāriet LIVE kopā!</item>
+        <item quantity="other">{number} no taviem draugiem ir LIVE. Uzaicini viņus pāriet LIVE kopā!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="zero">Atbloķē papildu {num} Monētas, veicot papildināšanu</item>
+        <item quantity="one">Atbloķē papildu {num} Monētu, veicot papildināšanu</item>
+        <item quantity="other">Atbloķē papildu {num} Monētas, veicot papildināšanu</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="zero">{num} dienas</item>
+        <item quantity="one">{num} diena</item>
+        <item quantity="other">{num} dienas</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="zero">Atbloķē {num} Monētas</item>
+        <item quantity="one">Atbloķē {num} Monētu</item>
+        <item quantity="other">Atbloķē {num} Monētas</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="zero">{num} Monētas</item>
+        <item quantity="one">{num} Monēta</item>
+        <item quantity="other">{num} Monētas</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="zero">Tiks atbloķētas papildu {num} Monētas.</item>
+        <item quantity="one">Tiks atbloķēta papildu {num} Monēta.</item>
+        <item quantity="other">Tiks atbloķētas papildu {num} Monētas.</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="zero">Papildini, lai iegūtu vēl {num_1} Monētas.</item>
+        <item quantity="one">Papildini, lai iegūtu vēl {num_1} Monētu.</item>
+        <item quantity="other">Papildini, lai iegūtu vēl {num_1} Monētas.</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="zero">Papildini, lai atbloķētu papildu {num} Monētas</item>
+        <item quantity="one">Papildini, lai atbloķētu papildu {num} Monētu</item>
+        <item quantity="other">Papildini, lai atbloķētu papildu {num} Monētas</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="zero">Pēdējās {number} dienas</item>
+        <item quantity="one">Pēdējā {number} diena</item>
+        <item quantity="other">Pēdējās {number} dienas</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="zero">Spēles {gameName} un vēl {number} citu spēļu cena ir mainīta. Vairāk skaties partnerības centrā.</item>
+        <item quantity="one">Spēles {gameName} un vēl {number} citas spēles cena ir mainīta. Vairāk skaties partnerības centrā.</item>
+        <item quantity="other">Spēles {gameName} un vēl {number} citu spēļu cena ir mainīta. Vairāk skaties partnerības centrā.</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="zero">Dāvināšana ir aizturēta uz %s dienu, jo tavs LIVE pārkāpj programmas noteikumus.</item>
+        <item quantity="one">Dāvināšana ir aizturēta uz %s dienu, jo tavs LIVE pārkāpj programmas noteikumus.</item>
+        <item quantity="other">Dāvināšana ir aizturēta uz %s dienām, jo tavs LIVE pārkāpj programmas noteikumus.</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="zero">Dāvināšana šajā LIVE ir aizturēta un tiks atjaunota pēc %s minūtēm.</item>
+        <item quantity="one">Dāvināšana šajā LIVE ir aizturēta un tiks atjaunota pēc %s minūtes.</item>
+        <item quantity="other">Dāvināšana šajā LIVE ir aizturēta un tiks atjaunota pēc %s minūtēm.</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="zero">Dāvināšana ir aizturēta uz {0} dienām.</item>
+        <item quantity="one">Dāvināšana ir aizturēta uz {0} dienu.</item>
+        <item quantity="other">Dāvināšana ir aizturēta uz {0} dienām.</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="zero">Dāvināšana ir aizturēta uz %s dienām</item>
+        <item quantity="one">Dāvināšana ir aizturēta uz %s dienu</item>
+        <item quantity="other">Dāvināšana ir aizturēta uz %s dienām</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="zero">Nosūtīt par %d Monētām</item>
+        <item quantity="one">Nosūtīt par %d Monētu</item>
+        <item quantity="other">Nosūtīt par %d Monētām</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="zero">Papildināšana ir pabeigta, un tagad tev ir %d Monētas. Nosūti šo Dāvanu, lai izrādītu atbalstu!</item>
+        <item quantity="one">Papildināšana ir pabeigta, un tagad tev ir %d Monēta. Nosūti šo Dāvanu, lai izrādītu atbalstu!</item>
+        <item quantity="other">Papildināšana ir pabeigta, un tagad tev ir %d Monētas. Nosūti šo Dāvanu, lai izrādītu atbalstu!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="zero">Apmaiņa ir pabeigta, un tagad tev ir %d Monētu. Nosūti šo Dāvanu, lai izrādītu atbalstu!</item>
+        <item quantity="one">Apmaiņa ir pabeigta, un tagad tev ir %d Monēta. Nosūti šo Dāvanu, lai izrādītu atbalstu!</item>
+        <item quantity="other">Apmaiņa ir pabeigta, un tagad tev ir %d Monētas. Nosūti šo Dāvanu, lai izrādītu atbalstu!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="zero">{0:user} nosūtīja {1:gift} ({2:string} punkti) {3:string}, un tā ir pirmā viņu nosūtītā Dāvana! Izsaki pateicību!</item>
+        <item quantity="one">{0:user} nosūtīja {1:gift} ({2:string} punkts) {3:string}, un tā ir pirmā viņu nosūtītā Dāvana! Izsaki pateicību!</item>
+        <item quantity="other">{0:user} nosūtīja {1:gift} ({2:string} punkti) {3:string}, un tā ir pirmā viņu nosūtītā Dāvana! Izsaki pateicību!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="zero">{0:user} nosūtīja {1:gift} ({2:string} punkti) {3:string}</item>
+        <item quantity="one">{0:user} nosūtīja {1:gift} ({2:string} punkts) {3:string}</item>
+        <item quantity="other">{0:user} nosūtīja {1:gift} ({2:string} punkti) {3:string}</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="zero">{0:user} nosūtīja {1:gift} ({2:string} punkti) {3:string}</item>
+        <item quantity="one">{0:user} nosūtīja {1:gift} ({2:string} punkts) {3:string}</item>
+        <item quantity="other">{0:user} nosūtīja {1:gift} ({2:string} punkti) {3:string}</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="zero">{0:user} nosūtīja {1:gift} ({2:string} punkti) {3:string} un kopā ar veidotāju devās uz {4:city} — pirmo reizi šajā ceļojumā!</item>
+        <item quantity="one">{0:user} nosūtīja {1:gift} ({2:string} punkts) {3:string} un kopā ar veidotāju devās uz {4:city} — pirmo reizi šajā ceļojumā!</item>
+        <item quantity="other">{0:user} nosūtīja {1:gift} ({2:string} punkti) {3:string} un kopā ar veidotāju devās uz {4:city} — pirmo reizi šajā ceļojumā!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="zero">Informācija par dāvanām (kopā ir {{num}} darījumu)</item>
+        <item quantity="one">Informācija par dāvanām (kopā ir {{num}} darījums)</item>
+        <item quantity="other">Informācija par dāvanām (kopā ir {{num}} darījumi)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="zero">{amount} Monētas</item>
+        <item quantity="one">{amount} Monēta</item>
+        <item quantity="other">{amount} Monētas</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="zero">Dāvanas</item>
+        <item quantity="one">Dāvana</item>
+        <item quantity="other">Dāvanas</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="zero">%d monētu</item>
+        <item quantity="one">%d monēta</item>
+        <item quantity="other">%d monētas</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="zero">Tu saņēmi %s dāvanas. Neaizmirsti pateikties.</item>
+        <item quantity="one">Tu saņēmi %s dāvanu. Neaizmirsti pateikties.</item>
+        <item quantity="other">Tu saņēmi %s dāvanas. Neaizmirsti pateikties.</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="zero">Tu saņēmi %s dāvanas</item>
+        <item quantity="one">Tu saņēmi %s dāvanu</item>
+        <item quantity="other">Tu saņēmi %s dāvanas</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="zero">Vai pabeigt apmaiņu pret %s monētām?</item>
+        <item quantity="one">Vai pabeigt apmaiņu pret %s monētu?</item>
+        <item quantity="other">Vai pabeigt apmaiņu pret %s monētām?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="zero">Pāriet LIVE (%d s)</item>
+        <item quantity="one">Pāriet LIVE (%d s)</item>
+        <item quantity="other">Pāriet LIVE (%d s)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="zero">%s viesa pieprasījumi</item>
+        <item quantity="one">%s viesa pieprasījums</item>
+        <item quantity="other">%s viesa pieprasījumi</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="zero">%s pieprasījumi</item>
+        <item quantity="one">%s pieprasījums</item>
+        <item quantity="other">%s pieprasījumi</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="zero">%s punkti</item>
+        <item quantity="one">%s punkts</item>
+        <item quantity="other">%s punkti</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="zero">Jāiegūst vēl %1$s punkti, lai sasniegtu top %2$s</item>
+        <item quantity="one">Jāiegūst vēl %1$s punkts, lai sasniegtu top %2$s</item>
+        <item quantity="other">Jāiegūst vēl %1$s punkti, lai sasniegtu top %2$s</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="zero">%d skatītāji pieprasa</item>
+        <item quantity="one">%d skatītājs pieprasa</item>
+        <item quantity="other">%d skatītāji pieprasa</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="zero">Tu esi aizturēts no pāriešanas LIVE kā viesis līdz %d dienas vēlāk</item>
+        <item quantity="one">Tu esi aizturēts no pāriešanas LIVE kā viesis līdz %d dienu vēlāk</item>
+        <item quantity="other">Tu esi aizturēts no pāriešanas LIVE kā viesis līdz %d dienas vēlāk</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="zero">Tu esi aizturēts no pāriešanas LIVE kā viesis līdz %d h vēlāk</item>
+        <item quantity="one">Tu esi aizturēts no pāriešanas LIVE kā viesis līdz %d h vēlāk</item>
+        <item quantity="other">Tu esi aizturēts no pāriešanas LIVE kā viesis līdz %d h vēlāk</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="zero">Tu esi aizturēts no pāriešanas LIVE kā viesis līdz %d min vēlāk</item>
+        <item quantity="one">Tu esi aizturēts no pāriešanas LIVE kā viesis līdz %d min vēlāk</item>
+        <item quantity="other">Tu esi aizturēts no pāriešanas LIVE kā viesis līdz %d min vēlāk</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="zero">Tu esi aizturēts no pāriešanas LIVE kā viesis līdz %d s vēlāk</item>
+        <item quantity="one">Tu esi aizturēts no pāriešanas LIVE kā viesis līdz %d s vēlāk</item>
+        <item quantity="other">Tu esi aizturēts no pāriešanas LIVE kā viesis līdz %d s vēlāk</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="zero">Rīku</item>
+        <item quantity="one">Rīks</item>
+        <item quantity="other">Rīki</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="zero">[username] un [number] citi sekotāji tevi iedunkāja, lai pārej LIVE</item>
+        <item quantity="one">[username] un [number] citi sekotāji tevi iedunkāja, lai pārej LIVE</item>
+        <item quantity="other">[username] un [number] citi sekotāji tevi iedunkāja, lai pārej LIVE</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="zero">[username] un [number] citi sekotāji nesen tevi iedunkāja, lai pārej LIVE</item>
+        <item quantity="one">[username] un [number] cits sekotājs nesen tevi iedunkāja, lai pārej LIVE</item>
+        <item quantity="other">[username] un [number] citi sekotāji nesen tevi iedunkāja, lai pārej LIVE</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="zero">Ja pieņemsi uzaicinājumu, šie LIVE veidotāji pievienosies tavam pašreizējam līdzrīkotājam.</item>
+        <item quantity="one">Ja pieņemsi uzaicinājumu, šis LIVE veidotājs pievienosies tavam pašreizējam līdzrīkotājam.</item>
+        <item quantity="other">Ja pieņemsi uzaicinājumu, šie LIVE veidotāji pievienosies tavam pašreizējam līdzrīkotājam.</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="zero">{number} dienas</item>
+        <item quantity="one">{number} diena</item>
+        <item quantity="other">{number} dienas</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="one">Nākamajā solī, kad iziesi no lapas, kuponu varēs izmantot tikai pēc {number} dienas.</item>
+        <item quantity="other">Nākamajā solī, kad iziesi no lapas, kuponu varēs izmantot tikai pēc {number} dienām.</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="one">Nākamajā solī, kad iziesi no lapas, kuponu varēs izmantot tikai pēc {number} stundas.</item>
+        <item quantity="other">Nākamajā solī, kad iziesi no lapas, kuponu varēs izmantot tikai pēc {number} stundām.</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="one">Nākamajā solī, kad iziesi no lapas, kuponu varēs izmantot tikai pēc {number} minūtes.</item>
+        <item quantity="other">Nākamajā solī, kad iziesi no lapas, kuponu varēs izmantot tikai pēc {number} minūtēm.</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="one">Kupons atkal būs pieejams pēc {number} dienas</item>
+        <item quantity="other">Kupons atkal būs pieejams pēc {number} dienām</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="one">Kupons atkal būs pieejams pēc {number} stundas</item>
+        <item quantity="other">Kupons atkal būs pieejams pēc {number} stundām</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="one">Kupons atkal būs pieejams pēc {number} minūtes</item>
+        <item quantity="other">Kupons atkal būs pieejams pēc {number} minūtēm</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="zero">%s patīk</item>
+        <item quantity="one">%s patīk</item>
+        <item quantity="other">%s patīk</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="zero">patīk</item>
+        <item quantity="one">patīk</item>
+        <item quantity="other">patīk</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="zero">%s patīk</item>
+        <item quantity="one">%s patīk</item>
+        <item quantity="other">%s patīk</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="zero">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="zero">LIVE pieteikums netika apstiprināts. Vari pieteikties atkārtoti pēc %d dienām.</item>
+        <item quantity="one">LIVE pieteikums netika apstiprināts. Vari pieteikties atkārtoti pēc %d dienas.</item>
+        <item quantity="other">LIVE pieteikums netika apstiprināts. Vari pieteikties atkārtoti pēc %d dienām.</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="zero">Tu pieteicies LIVE piekļuvei un nākamās 7 dienas vari pāriet LIVE. Atceries ievērot Kopienas vadlīnijas un pirmajā nedēļā pārej LIVE uz %d stundām, lai iegūtu pastāvīgu piekļuvi.</item>
+        <item quantity="one">Tu pieteicies LIVE piekļuvei un nākamās 7 dienas vari pāriet LIVE. Atceries ievērot Kopienas vadlīnijas un pirmajā nedēļā pārej LIVE uz %d stundu, lai iegūtu pastāvīgu piekļuvi.</item>
+        <item quantity="other">Tu pieteicies LIVE piekļuvei un nākamās 7 dienas vari pāriet LIVE. Atceries ievērot Kopienas vadlīnijas un pirmajā nedēļā pārej LIVE uz %d stundām, lai iegūtu pastāvīgu piekļuvi.</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="zero">Pārej LIVE vēl uz %d stundām līdz %s, lai iegūtu pastāvīgu piekļuvi LIVE</item>
+        <item quantity="one">Pārej LIVE vēl uz %d stundu līdz %s, lai iegūtu pastāvīgu piekļuvi LIVE</item>
+        <item quantity="other">Pārej LIVE vēl uz %d stundām līdz %s, lai iegūtu pastāvīgu piekļuvi LIVE</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="zero">Pārej LIVE vēl uz %1$s stundām līdz %2$s, lai iegūtu pastāvīgu piekļuvi LIVE</item>
+        <item quantity="one">Pārej LIVE vēl uz %1$s stundu līdz %2$s, lai iegūtu pastāvīgu piekļuvi LIVE</item>
+        <item quantity="other">Pārej LIVE vēl uz %1$s stundām līdz %2$s, lai iegūtu pastāvīgu piekļuvi LIVE</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="zero">%s p.</item>
+        <item quantity="one">%s p.</item>
+        <item quantity="other">%s p.</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="zero">Rīkotājam {%s host username} ir vajadzīgas {%d} Monētas, lai kļūtu par šīs nedēļas LIVE veidotāju Nr. {%n}!</item>
+        <item quantity="one">Rīkotājam {%s host username} ir vajadzīga {%d} Monēta, lai kļūtu par šīs nedēļas LIVE veidotāju Nr. {%n}!</item>
+        <item quantity="other">Rīkotājam {%s host username} ir vajadzīgas {%d} Monētas, lai kļūtu par šīs nedēļas LIVE veidotāju Nr. {%n}!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="zero">Atlikusi 1 diena. Iegūsti vēl {%d} Dimantus, lai kļūtu par LIVE veidotāju Nr. 3 un iegūtu ekskluzīvu nozīmīti savam video.</item>
+        <item quantity="one">Atlikusi 1 diena. Iegūsti vēl {%d} Dimantu, lai kļūtu par LIVE veidotāju Nr. 3 un iegūtu ekskluzīvu nozīmīti savam video.</item>
+        <item quantity="other">Atlikusi 1 diena. Iegūsti vēl {%d} Dimantus, lai kļūtu par LIVE veidotāju Nr. 3 un iegūtu ekskluzīvu nozīmīti savam video.</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="zero">Atlikusi 1 diena. Iegūsti vēl {%d} dimantus, lai tavs LIVE sasniegtu vairāk potenciālo skatītāju.</item>
+        <item quantity="one">Atlikusi 1 diena. Iegūsti vēl {%d} dimantu, lai tavs LIVE sasniegtu vairāk potenciālo skatītāju.</item>
+        <item quantity="other">Atlikusi 1 diena. Iegūsti vēl {%d} dimantus, lai tavs LIVE sasniegtu vairāk potenciālo skatītāju.</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="zero">Atlikusi 1 diena. Iegūsti vēl {%d} Dimantus, lai iegūtu unikālas LIVE veidotājiem paredzētas atlīdzības!</item>
+        <item quantity="one">Atlikusi 1 diena. Iegūsti vēl {%d} Dimantu, lai iegūtu unikālas LIVE veidotājiem paredzētas atlīdzības!</item>
+        <item quantity="other">Atlikusi 1 diena. Iegūsti vēl {%d} Dimantus, lai iegūtu unikālas LIVE veidotājiem paredzētas atlīdzības!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="zero">%s sekotāji šobrīd ir aktīvi</item>
+        <item quantity="one">1 sekotājs šobrīd ir aktīvs</item>
+        <item quantity="other">%s sekotāji šobrīd ir aktīvi</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="zero">Nepieciešamas %s monētas</item>
+        <item quantity="one">Nepieciešama %s monēta</item>
+        <item quantity="other">Nepieciešamas %s monētas</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="zero">Skatās %d abonenti</item>
+        <item quantity="one">Skatās %d abonents</item>
+        <item quantity="other">Skatās %d abonenti</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="zero">Atlikušas 3 minūtes. Iegūsti vēl {%d} Dimantus, lai kļūtu par LIVE veidotāju Nr. 3 un iegūtu ekskluzīvu nozīmīti.</item>
+        <item quantity="one">Atlikušas 3 minūtes. Iegūsti vēl {%d} Dimantu, lai kļūtu par LIVE veidotāju Nr. 3 un iegūtu ekskluzīvu nozīmīti.</item>
+        <item quantity="other">Atlikušas 3 minūtes. Iegūsti vēl {%d} Dimantus, lai kļūtu par LIVE veidotāju Nr. 3 un iegūtu ekskluzīvu nozīmīti.</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="zero">Atlikušas 3 minūtes. Iegūsti vēl {%d} dimantus, lai tavs LIVE sasniegtu vairāk potenciālo skatītāju.</item>
+        <item quantity="one">Atlikušas 3 minūtes. Iegūsti vēl {%d} dimantu, lai tavs LIVE sasniegtu vairāk potenciālo skatītāju.</item>
+        <item quantity="other">Atlikušas 3 minūtes. Iegūsti vēl {%d} dimantus, lai tavs LIVE sasniegtu vairāk potenciālo skatītāju.</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="zero">Atlikušas 3 minūtes. Iegūsti vēl {%d} dimantus, lai iegūtu unikālas atlīdzības populāriem rīkotājiem!</item>
+        <item quantity="one">Atlikušas 3 minūtes. Iegūsti vēl {%d} dimantu, lai iegūtu unikālas atlīdzības populāriem rīkotājiem!</item>
+        <item quantity="other">Atlikušas 3 minūtes. Iegūsti vēl {%d} dimantus, lai iegūtu unikālas atlīdzības populāriem rīkotājiem!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="zero">%s h %d min</item>
+        <item quantity="one">%s h %d min</item>
+        <item quantity="other">%s h %d min</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="zero">Dimanti</item>
+        <item quantity="one">Dimants</item>
+        <item quantity="other">Dimanti</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="zero">skatījumu</item>
+        <item quantity="one">skatījums</item>
+        <item quantity="other">skatījumi</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="zero">Jautājumus nevar atbildēt pēc %s minūtēm</item>
+        <item quantity="one">Jautājumus nevar atbildēt pēc %s minūtes</item>
+        <item quantity="other">Jautājumus nevar atbildēt pēc %s minūtēm</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="zero">Pirms %s h</item>
+        <item quantity="one">Pirms %s h</item>
+        <item quantity="other">Pirms %s h</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="zero">Pirms %s min</item>
+        <item quantity="one">Pirms %s min</item>
+        <item quantity="other">Pirms %s min</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="zero">%s sākums ir plānots pēc 10 minūtēm. Tavu pasākumu ir skatījuši %d lietotāji. Pārej LIVE, lai izbaudītu visas akcijas priekšrocības!</item>
+        <item quantity="one">%s sākums ir plānots pēc 10 minūtēm. Tavu pasākumu ir skatījis %d lietotājs. Pārej LIVE, lai izbaudītu visas akcijas priekšrocības!</item>
+        <item quantity="other">%s sākums ir plānots pēc 10 minūtēm. Tavu pasākumu ir skatījuši %d lietotāji. Pārej LIVE, lai izbaudītu visas akcijas priekšrocības!</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="zero">Skati %s pamācības uzdevumu</item>
+        <item quantity="one">Skati %s pamācības uzdevumu</item>
+        <item quantity="other">Skati %s pamācību uzdevumus</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="zero">%d prioritizēti pieprasījumi no dāvinātājiem</item>
+        <item quantity="one">%d prioritizēts pieprasījums no dāvinātājiem</item>
+        <item quantity="other">%d prioritizēti pieprasījumi no dāvinātājiem</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="zero">%d monētu</item>
+        <item quantity="one">%d monēta</item>
+        <item quantity="other">%d monētas</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="zero">Tas tev maksās %d Monētas.</item>
+        <item quantity="one">Tas tev maksās %d Monētu.</item>
+        <item quantity="other">Tas tev maksās %d Monētas.</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="zero">Tu nosūtīji %d Monētu. %s</item>
+        <item quantity="one">Tu nosūtīji %d Monētu. %s</item>
+        <item quantity="other">Tu nosūtīji %d Monētas. %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="zero">LIVE veidotājs var piešķirt prioritāti to lietotāju pieprasījumiem, kuri ir kopumā nosūtījuši vairāk par %d Monētām.</item>
+        <item quantity="one">LIVE veidotājs var piešķirt prioritāti to lietotāju pieprasījumiem, kuri ir kopumā nosūtījuši vairāk par %d Monētu.</item>
+        <item quantity="other">LIVE veidotājs var piešķirt prioritāti to lietotāju pieprasījumiem, kuri ir kopumā nosūtījuši vairāk par %d Monētām.</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="zero">LIVE veidotājs var piešķirt prioritāti taviem un to lietotāju pieprasījumiem, kuri ir kopumā nosūtījuši vairāk par %d Monētām.</item>
+        <item quantity="one">LIVE veidotājs var piešķirt prioritāti taviem un to lietotāju pieprasījumiem, kuri ir kopumā nosūtījuši vairāk par %d Monētu.</item>
+        <item quantity="other">LIVE veidotājs var piešķirt prioritāti taviem un to lietotāju pieprasījumiem, kuri ir kopumā nosūtījuši vairāk par %d Monētām.</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="zero">Tas tev maksās %d Monētas.</item>
+        <item quantity="one">Tas tev maksās %d Monētu.</item>
+        <item quantity="other">Tas tev maksās %d Monētas.</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="zero">Vari uzaicināt %1$s vēlreiz ieslēgt kameru pēc %2$s sekundēm</item>
+        <item quantity="one">Vari uzaicināt %1$s vēlreiz ieslēgt kameru pēc %2$s sekundes</item>
+        <item quantity="other">Vari uzaicināt %1$s vēlreiz ieslēgt kameru pēc %2$s sekundēm</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="zero">Vari uzaicināt %1$s vēlreiz ieslēgt mikrofonu pēc %2$s sekundēm</item>
+        <item quantity="one">Vari uzaicināt %1$s vēlreiz ieslēgt mikrofonu pēc %2$s sekundes</item>
+        <item quantity="other">Vari uzaicināt %1$s vēlreiz ieslēgt mikrofonu pēc %2$s sekundēm</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="zero">%d minūšu</item>
+        <item quantity="one">%d minūte</item>
+        <item quantity="other">%d minūtes</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="zero">%d sekunžu</item>
+        <item quantity="one">%d sekunde</item>
+        <item quantity="other">%d sekundes</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="zero">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="zero">%d sek.</item>
+        <item quantity="one">%d sek.</item>
+        <item quantity="other">%d sek.</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="zero">%s uzdevumi, lai pabeigtu 1. posmu</item>
+        <item quantity="one">%s uzdevums, lai pabeigtu 1. posmu</item>
+        <item quantity="other">%s uzdevumi, lai pabeigtu 1. posmu</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="zero">%s uzdevumi, lai pabeigtu 2. posmu</item>
+        <item quantity="one">%s uzdevums, lai pabeigtu 2. posmu</item>
+        <item quantity="other">%s uzdevumi, lai pabeigtu 2. posmu</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="zero">Tu vari izveidot ne vairāk kā %s pielāgotas privilēģijas. Izdzēs kādu pielāgoto privilēģiju, ja gribi izveidot jaunu.</item>
+        <item quantity="one">Tu vari izveidot ne vairāk kā %s pielāgotu privilēģiju. Izdzēs kādu pielāgoto privilēģiju, ja gribi izveidot jaunu.</item>
+        <item quantity="other">Tu vari izveidot ne vairāk kā %s pielāgotas privilēģijas. Izdzēs kādu pielāgoto privilēģiju, ja gribi izveidot jaunu.</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="zero">Aptauja beigsies pēc %s s</item>
+        <item quantity="one">Aptauja beigsies pēc %s s</item>
+        <item quantity="other">Aptauja beigsies pēc %s s</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="zero">Balsot tagad (%s s):</item>
+        <item quantity="one">Balsot tagad (%s s):</item>
+        <item quantity="other">Balsot tagad (%s s):</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="zero">Šodien iztērēji %d monētas.</item>
+        <item quantity="one">Šodien iztērēji %d monētu.</item>
+        <item quantity="other">Šodien iztērēji %d monētas.</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="zero">Dāvini lēnāk un mēģini vēlreiz pēc %d minūtēm.</item>
+        <item quantity="one">Dāvini lēnāk un mēģini vēlreiz pēc %d minūtes.</item>
+        <item quantity="other">Dāvini lēnāk un mēģini vēlreiz pēc %d minūtēm.</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="zero">Lietotāja {0:user} portāls ir aizvērts. Izmantojot portālu, pievienojušies {1:string} skatītāju.</item>
+        <item quantity="one">Lietotāja {0:user} portāls ir aizvērts. Izmantojot portālu, pievienojies {1:string} skatītājs.</item>
+        <item quantity="other">Lietotāja {0:user} portāls ir aizvērts. Izmantojot portālu, pievienojušies {1:string} skatītāji.</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="zero">Lietotāja {0:user} portāls ir aizvērts. Izmantojot portālu, pievienojušies {1:string} skatītāju. Labs rezultāts! ��</item>
+        <item quantity="one">Lietotāja {0:user} portāls ir aizvērts. Izmantojot portālu, pievienojies {1:string} skatītājs. Labs rezultāts! ��</item>
+        <item quantity="other">Lietotāja {0:user} portāls ir aizvērts. Izmantojot portālu, pievienojušies {1:string} skatītāji. Labs rezultāts! ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="zero">Lietotāja {0:user} portāls ir aizvērts. Izmantojot portālu, pievienojušies {1:string} skatītāju. Izcils rezultāts! ��</item>
+        <item quantity="one">Lietotāja {0:user} portāls ir aizvērts. Izmantojot portālu, pievienojies {1:string} skatītājs. Izcils rezultāts! ��</item>
+        <item quantity="other">Lietotāja {0:user} portāls ir aizvērts. Izmantojot portālu, pievienojušies {1:string} skatītāji. Izcils rezultāts! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="zero">%s skatījumu</item>
+        <item quantity="one">%s skatījums</item>
+        <item quantity="other">%s skatījumi</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="zero">Darbvirsmas tīmeklī iegādātas {{num}} monētas</item>
+        <item quantity="one">Darbvirsmas tīmeklī iegādāta {{num}} monēta</item>
+        <item quantity="other">Darbvirsmas tīmeklī iegādātas {{num}} monētas</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="zero">Lietotnē iegādātas {{num}} monētas</item>
+        <item quantity="one">Lietotnē iegādāta {{num}} monēta</item>
+        <item quantity="other">Lietotnē iegādātas {{num}} monētas</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="zero">Mobilajā tīmeklī iegādātas {{num}} monētas</item>
+        <item quantity="one">Mobilajā tīmeklī iegādāta {{num}} monēta</item>
+        <item quantity="other">Mobilajā tīmeklī iegādātas {{num}} monētas</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="zero">Mēs izskatījām tavu apelāciju un pielāgojām apturēšanas ilgumu. Tava piekļuve pāriešanai LIVE ar personālo vai Mac datoru tiks atjaunota pēc %s dienu.</item>
+        <item quantity="one">Mēs izskatījām tavu apelāciju un pielāgojām apturēšanas ilgumu. Tava piekļuve pāriešanai LIVE ar personālo vai Mac datoru tiks atjaunota pēc %s dienas.</item>
+        <item quantity="other">Mēs izskatījām tavu apelāciju un pielāgojām apturēšanas ilgumu. Tava piekļuve pāriešanai LIVE ar personālo vai Mac datoru tiks atjaunota pēc %s dienām.</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="zero">Tava piekļuve pāriešanai LIVE ar personālo vai Mac datoru ir aizturēta uz %s dienām vairāku mūsu Kopienas vadlīniju pārkāpumu dēļ.</item>
+        <item quantity="one">Tava piekļuve pāriešanai LIVE ar personālo vai Mac datoru ir aizturēta uz %s dienu vairāku mūsu Kopienas vadlīniju pārkāpumu dēļ.</item>
+        <item quantity="other">Tava piekļuve pāriešanai LIVE ar personālo vai Mac datoru ir aizturēta uz %s dienām vairāku mūsu Kopienas vadlīniju pārkāpumu dēļ.</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="zero">Mēs pārskatījām tavu apelāciju un pielāgojām Dārgumu lādes piekļuves atsaukšanas ilgumu uz %s dienām.</item>
+        <item quantity="one">Mēs pārskatījām tavu apelāciju un pielāgojām Dārgumu lādes piekļuves atsaukšanas ilgumu uz %s dienu.</item>
+        <item quantity="other">Mēs pārskatījām tavu apelāciju un pielāgojām Dārgumu lādes piekļuves atsaukšanas ilgumu uz %s dienām.</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="zero">Tava Dārgumu lādes piekļuve ir aizturēta uz %s dienām vairāku Kopienas vadlīniju pārkāpumu dēļ.</item>
+        <item quantity="one">Tava Dārgumu lādes piekļuve ir aizturēta uz %s dienu vairāku Kopienas vadlīniju pārkāpumu dēļ.</item>
+        <item quantity="other">Tava Dārgumu lādes piekļuve ir aizturēta uz %s dienām vairāku Kopienas vadlīniju pārkāpumu dēļ.</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="zero">Tu pēdējās 30 dienās saņēmi vairāk nekā %s Dimantus. Turpini tāpat, lai pievienotos nedēļas reitingam.</item>
+        <item quantity="one">Tu pēdējās 30 dienās saņēmi vairāk nekā %s Dimantu. Turpini tāpat, lai pievienotos nedēļas reitingam.</item>
+        <item quantity="other">Tu pēdējās 30 dienās saņēmi vairāk nekā %s Dimantus. Turpini tāpat, lai pievienotos nedēļas reitingam.</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="zero">Šajā reitingā tiek rādīti LIVE veidotāji, kas pēdējo 30 dienu laikā saņēmuši mazāk nekā {0:string} Dimantus.</item>
+        <item quantity="one">Šajā reitingā tiek rādīti LIVE veidotāji, kas pēdējo 30 dienu laikā saņēmuši mazāk nekā {0:string} Dimantu.</item>
+        <item quantity="other">Šajā reitingā tiek rādīti LIVE veidotāji, kas pēdējo 30 dienu laikā saņēmuši mazāk nekā {0:string} Dimantus.</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="zero">Dāvināšana ir aizturēta uz %s dienām</item>
+        <item quantity="one">Dāvināšana ir aizturēta uz %s dienu</item>
+        <item quantity="other">Dāvināšana ir aizturēta uz %s dienām</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="zero">Tev šobrīd ir {number_1} Monētas. Vari papildināt {number_2} Monētas ({amount}), lai nosūtītu vienumu.</item>
+        <item quantity="one">Tev šobrīd ir {number_1} Monēta. Vari papildināt {number_2} Monētas ({amount}), lai nosūtītu vienumu.</item>
+        <item quantity="other">Tev šobrīd ir {number_1} Monētas. Vari papildināt {number_2} Monētas ({amount}), lai nosūtītu vienumu.</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="zero">Trūkst %s Monētas</item>
+        <item quantity="one">Trūkst %s Monēta</item>
+        <item quantity="other">Trūkst %s Monētas</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="zero">Tu saņēmi {number} uzaicinājuma saišu</item>
+        <item quantity="one">Tu saņēmi {number} uzaicinājuma saiti</item>
+        <item quantity="other">Tu saņēmi {number} uzaicinājuma saites</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="zero">Pieprasīts: pirms %d minūtēm</item>
+        <item quantity="one">Pieprasīts: pirms %d minūtes</item>
+        <item quantity="other">Pieprasīts: pirms %d minūtēm</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="zero">Dāvināšana ir aizturēta uz %s dienām</item>
+        <item quantity="one">Dāvināšana ir aizturēta uz %s dienu</item>
+        <item quantity="other">Dāvināšana ir aizturēta uz %s dienām</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="zero">Piekļuve tiks atjaunota pēc %s dienām.</item>
+        <item quantity="one">Piekļuve tiks atjaunota pēc %s dienas.</item>
+        <item quantity="other">Piekļuve tiks atjaunota pēc %s dienām.</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="zero">Mēs izskatījām tavu apelāciju un pielāgojām apturēšanas ilgumu. Tava piekļuve LIVE Studio tiks atjaunota pēc %s dienām.</item>
+        <item quantity="one">Mēs izskatījām tavu apelāciju un pielāgojām apturēšanas ilgumu. Tava piekļuve LIVE Studio tiks atjaunota pēc %s dienas.</item>
+        <item quantity="other">Mēs izskatījām tavu apelāciju un pielāgojām apturēšanas ilgumu. Tava piekļuve LIVE Studio tiks atjaunota pēc %s dienām.</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="zero">Mēs izskatījām tavu apelāciju un pielāgojām apturēšanas ilgumu. Tava piekļuve mobilajām spēlēm tiks atjaunota pēc %s dienām.</item>
+        <item quantity="one">Mēs izskatījām tavu apelāciju un pielāgojām apturēšanas ilgumu. Tava piekļuve mobilajām spēlēm tiks atjaunota pēc %s dienas.</item>
+        <item quantity="other">Mēs izskatījām tavu apelāciju un pielāgojām apturēšanas ilgumu. Tava piekļuve mobilajām spēlēm tiks atjaunota pēc %s dienām.</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="zero">Mēs izskatījām tavu apelāciju un pielāgojām apturēšanas ilgumu. Tava piekļuve pāriešanai LIVE ar personālo vai Mac datoru tiks atjaunota pēc %s dienu.</item>
+        <item quantity="one">Mēs izskatījām tavu apelāciju un pielāgojām apturēšanas ilgumu. Tava piekļuve pāriešanai LIVE ar personālo vai Mac datoru tiks atjaunota pēc %s dienas.</item>
+        <item quantity="other">Mēs izskatījām tavu apelāciju un pielāgojām apturēšanas ilgumu. Tava piekļuve pāriešanai LIVE ar personālo vai Mac datoru tiks atjaunota pēc %s dienām.</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="zero">Tava piekļuve LIVE Studio ir aizturēta uz %s dienām, jo atkārtoti tika pārkāpti mūsu LIVE noteikumi vai Kopienas vadlīnijas.</item>
+        <item quantity="one">Tava piekļuve LIVE Studio ir aizturēta uz %s dienu, jo atkārtoti tika pārkāpti mūsu LIVE noteikumi vai Kopienas vadlīnijas.</item>
+        <item quantity="other">Tava piekļuve LIVE Studio ir aizturēta uz %s dienām, jo atkārtoti tika pārkāpti mūsu LIVE noteikumi vai Kopienas vadlīnijas.</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="zero">Tava piekļuve mobilajām spēlēm ir aizturēta uz %s dienām, jo atkārtoti tika pārkāpti mūsu LIVE noteikumi vai Kopienas vadlīnijas.</item>
+        <item quantity="one">Tava piekļuve mobilajām spēlēm ir aizturēta uz %s dienu, jo atkārtoti tika pārkāpti mūsu LIVE noteikumi vai Kopienas vadlīnijas.</item>
+        <item quantity="other">Tava piekļuve mobilajām spēlēm ir aizturēta uz %s dienām, jo atkārtoti tika pārkāpti mūsu LIVE noteikumi vai Kopienas vadlīnijas.</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="zero">Tava piekļuve pāriešanai LIVE no personālā vai Mac datora ir aizturēta uz %s dienām, jo atkārtoti tika pārkāpti mūsu LIVE noteikumi vai Kopienas vadlīnijas.</item>
+        <item quantity="one">Tava piekļuve pāriešanai LIVE no personālā vai Mac datora ir aizturēta uz %s dienu, jo atkārtoti tika pārkāpti mūsu LIVE noteikumi vai Kopienas vadlīnijas.</item>
+        <item quantity="other">Tava piekļuve pāriešanai LIVE no personālā vai Mac datora ir aizturēta uz %s dienām, jo atkārtoti tika pārkāpti mūsu LIVE noteikumi vai Kopienas vadlīnijas.</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="zero">Mērķis: {&lt;num&gt;} dāvinātāji</item>
+        <item quantity="one">Mērķis: {&lt;num&gt;} dāvinātājs</item>
+        <item quantity="other">Mērķis: {&lt;num&gt;} dāvinātāji</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="zero">Mērķis: {&lt;num&gt;} dāvinājuma punkti</item>
+        <item quantity="one">Mērķis: {&lt;num&gt;} dāvinājuma punkts</item>
+        <item quantity="other">Mērķis: {&lt;num&gt;} dāvinājuma punkti</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="zero">Mērķis: {&lt;num&gt;} komandas dāvinātāji</item>
+        <item quantity="one">Mērķis: {&lt;num&gt;} komandas dāvinātājs</item>
+        <item quantity="other">Mērķis: {&lt;num&gt;} komandas dāvinātāji</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="zero">Mērķis: {&lt;num&gt;} komandas dāvinājuma punkti</item>
+        <item quantity="one">Mērķis: {&lt;num&gt;} komandas dāvinājuma punkts</item>
+        <item quantity="other">Mērķis: {&lt;num&gt;} komandas dāvinājuma punkti</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="zero">+ &lt;num&gt; spēles punkti</item>
+        <item quantity="one">+ &lt;num&gt; spēles punkts</item>
+        <item quantity="other">+ &lt;num&gt; spēles punkti</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="zero">Tavs komentārs tiks rādīts %s skatītājiem kā populārākais</item>
+        <item quantity="one">Tavs komentārs tiks rādīts %s skatītājam kā populārākais</item>
+        <item quantity="other">Tavs komentārs tiks rādīts %s skatītājiem kā populārākais</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="zero">Tavs Komentārs ar zvaigznīti tika dzēsts LIVE laikā, un 24 stundu laikā tev tiks atmaksātas [0:string] Monētas par šo komentāru.</item>
+        <item quantity="one">Tavs Komentārs ar zvaigznīti tika dzēsts LIVE laikā, un 24 stundu laikā tev tiks atmaksāta [0:string] Monēta par šo komentāru.</item>
+        <item quantity="other">Tavs Komentārs ar zvaigznīti tika dzēsts LIVE laikā, un 24 stundu laikā tev tiks atmaksātas [0:string] Monētas par šo komentāru.</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="zero">Rindā %s komentāru ar zvaigznīti</item>
+        <item quantity="one">Rindā %s komentārs ar zvaigznīti</item>
+        <item quantity="other">Rindā %s komentāri ar zvaigznīti</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="zero">Tavi komentāri ar zvaigznīti nesen tika dzēsti. Mēģini vēlreiz pēc {num} stundu.</item>
+        <item quantity="one">Tavi komentāri ar zvaigznīti nesen tika dzēsti. Mēģini vēlreiz pēc {num} stundas.</item>
+        <item quantity="other">Tavi komentāri ar zvaigznīti nesen tika dzēsti. Mēģini vēlreiz pēc {num} stundām.</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="zero">Tavi komentāri ar zvaigznīti nesen tika dzēsti. Mēģini vēlreiz pēc {num} minūtēm.</item>
+        <item quantity="one">Tavi komentāri ar zvaigznīti nesen tika dzēsti. Mēģini vēlreiz pēc {num} minūtes.</item>
+        <item quantity="other">Tavi komentāri ar zvaigznīti nesen tika dzēsti. Mēģini vēlreiz pēc {num} minūtēm.</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="zero">Beigt pēc %s dienu</item>
+        <item quantity="one">Beigt pēc %s dienas</item>
+        <item quantity="other">Beigt pēc %s dienām</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="zero">Skatās %1$s skatītāju. Vari iegūt %2$s jaunu abonentu, ja tagad pāriesi uz tikai abonementiem paredzētu LIVE.</item>
+        <item quantity="one">Skatās %1$s skatītājs. Vari iegūt %2$s jaunu abonentu, ja tagad pāriesi uz tikai abonementiem paredzētu LIVE.</item>
+        <item quantity="other">Skatās %1$s skatītāji. Vari iegūt %2$s jaunus abonentus, ja tagad pāriesi uz tikai abonementiem paredzētu LIVE.</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="zero">Skatās %s abonentu. Šis ir piemērots brīdis, lai padziļinātu saikni ar savu kopienu, izmantojot tikai abonementiem paredzētu LIVE.</item>
+        <item quantity="one">Skatās %s abonents. Šis ir piemērots brīdis, lai padziļinātu saikni ar savu kopienu, izmantojot tikai abonementiem paredzētu LIVE.</item>
+        <item quantity="other">Skatās %s abonenti. Šis ir piemērots brīdis, lai padziļinātu saikni ar savu kopienu, izmantojot tikai abonementiem paredzētu LIVE.</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="zero">Vari iegūt %1$s jaunu abonentu, ik mēnesi pārejot uz %2$s minūšu ilgu tikai abonementiem paredzētu LIVE.</item>
+        <item quantity="one">Vari iegūt %1$s jaunu abonentu, ik mēnesi pārejot uz %2$s minūšu ilgu tikai abonementiem paredzētu LIVE.</item>
+        <item quantity="other">Vari iegūt %1$s jaunus abonentus, ik mēnesi pārejot uz %2$s minūšu ilgu tikai abonementiem paredzētu LIVE.</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="zero">Vienā komentārā vari ievadīt ne vairāk kā %s emocijas</item>
+        <item quantity="one">Vienā komentārā vari ievadīt ne vairāk kā %s emociju</item>
+        <item quantity="other">Vienā komentārā vari ievadīt ne vairāk kā %s emocijas</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="zero">Abonē, lai izmantotu lietotāja %1$s %2$s pielāgotās emocijas</item>
+        <item quantity="one">Abonē, lai izmantotu lietotāja %1$s %2$s pielāgoto emociju</item>
+        <item quantity="other">Abonē, lai izmantotu lietotāja %1$s %2$s pielāgotās emocijas</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="zero">Kuriem ir mazāk nekā {number} sekotāju</item>
+        <item quantity="one">Kuriem ir mazāk nekā {number} sekotājs</item>
+        <item quantity="other">Kuriem ir mazāk nekā {number} sekotāji</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="zero">Nevar uzaicināt rīkotājus, kuriem ir mazāk par {number} sekotājiem</item>
+        <item quantity="one">Nevar uzaicināt rīkotājus, kuriem ir mazāk par {number} sekotāju</item>
+        <item quantity="other">Nevar uzaicināt rīkotājus, kuriem ir mazāk par {number} sekotājiem</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="zero">Uzaicini vēl {number1} veidotājus, lai sasniegtu {number2}. vietu! Tā turpināt!</item>
+        <item quantity="one">Uzaicini vēl {number1} veidotāju, lai sasniegtu {number2}. vietu! Tā turpināt!</item>
+        <item quantity="other">Uzaicini vēl {number1} veidotājus, lai sasniegtu {number2}. vietu! Tā turpināt!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="zero">Uzaicini vēl {number} veidotājus, lai sasniegtu {rankminusone}. vietu! Tā turpināt!</item>
+        <item quantity="one">Uzaicini vēl {number} veidotāju, lai sasniegtu {rankminusone}. vietu! Tā turpināt!</item>
+        <item quantity="other">Uzaicini vēl {number} veidotājus, lai sasniegtu {rankminusone}. vietu! Tā turpināt!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="zero">Vari uzaicināt tikai tos veidotājus, kam ir vairāk kā {number} sekotāji.</item>
+        <item quantity="one">Vari uzaicināt tikai tos veidotājus, kam ir vairāk kā {number} sekotājs.</item>
+        <item quantity="other">Vari uzaicināt tikai tos veidotājus, kam ir vairāk kā {number} sekotāji.</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="zero">Tavas pašreizējās privilēģijas var piesaistīt par %d%% vairāk abonentu.</item>
+        <item quantity="one">Tava pašreizējā privilēģija var piesaistīt par %d%% vairāk abonentu.</item>
+        <item quantity="other">Tavas pašreizējās privilēģijas var piesaistīt par %d%% vairāk abonentu.</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="zero">%1$s tikko iegādājās %2$d mēnešu abonementu!</item>
+        <item quantity="one">%1$s tikko iegādājās %2$d mēneša abonementu!</item>
+        <item quantity="other">%1$s tikko iegādājās %2$d mēnešu abonementu!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="zero">To var ieslēgt vai izslēgt tikai vienu reizi %s minūtēs. Pamēģini vēlreiz vēlāk.</item>
+        <item quantity="one">To var ieslēgt vai izslēgt tikai vienu reizi %s minūtē. Pamēģini vēlreiz vēlāk.</item>
+        <item quantity="other">To var ieslēgt vai izslēgt tikai vienu reizi %s minūtēs. Pamēģini vēlreiz vēlāk.</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="zero">Tev ir {num} abonementu dāvanas. Nosūti tās citiem!</item>
+        <item quantity="one">Tev ir {num} abonementa dāvana. Nosūti tās citiem!</item>
+        <item quantity="other">Tev ir {num} abonementu dāvanas. Nosūti tās citiem!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="zero">Tev ir atlikušas %d abonementa dāvanas. Nosūti tās citiem!</item>
+        <item quantity="one">Tev ir atlikusi %d abonementa dāvana. Nosūti tās citiem!</item>
+        <item quantity="other">Tev ir atlikušas %d abonementa dāvanas. Nosūti tās citiem!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="zero">Apsveicam! Tu saņēmi [number] abonementu dāvanas kā balvu par aktivitāti.</item>
+        <item quantity="one">Apsveicam! Tu saņēmi [number] abonementu dāvanu kā balvu par aktivitāti.</item>
+        <item quantity="other">Apsveicam! Tu saņēmi [number] abonementus dāvanas kā balvu par aktivitāti.</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="zero">Rīkoja kopā pirms {num} dienām</item>
+        <item quantity="one">Rīkoja kopā pirms {num} dienas</item>
+        <item quantity="other">Rīkoja kopā pirms {num} dienām</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="zero">Pārgāja LIVE ar tevi pirms {number} dienām</item>
+        <item quantity="one">Pārgāja LIVE ar tevi pirms {number} dienas</item>
+        <item quantity="other">Pārgāja LIVE ar tevi pirms {number} dienām</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="zero">Rīkoja ar tevi pirms {num} dienām</item>
+        <item quantity="one">Rīkoja ar tevi pirms {num} dienas</item>
+        <item quantity="other">Rīkoja ar tevi pirms {num} dienām</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="zero">Tava Dārgumu lādes piekļuve ir aizturēta. Tā tiks atjaunota pēc %s dienām.</item>
+        <item quantity="one">Tava Dārgumu lādes piekļuve ir aizturēta. Tā tiks atjaunota pēc %s dienas.</item>
+        <item quantity="other">Tava Dārgumu lādes piekļuve ir aizturēta. Tā tiks atjaunota pēc %s dienām.</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="zero">top skatītāji</item>
+        <item quantity="one">top skatītājs</item>
+        <item quantity="other">top skatītāji</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="zero">Top skatītāji</item>
+        <item quantity="one">Top skatītājs</item>
+        <item quantity="other">Top skatītāji</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="zero">Fināls sākas pēc %s sekunžu</item>
+        <item quantity="one">Fināls sākas pēc %s sekundes</item>
+        <item quantity="other">Fināls sākas pēc %s sekundēm</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="zero">Fināls sākas pēc %s dienām</item>
+        <item quantity="one">Fināls sākas pēc %s dienas</item>
+        <item quantity="other">Fināls sākas pēc %s dienām</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="zero">Fināls sākas pēc %s stundu</item>
+        <item quantity="one">Fināls sākas pēc %s stundas</item>
+        <item quantity="other">Fināls sākas pēc %s stundām</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="zero">Fināls sākas pēc %s minūšu</item>
+        <item quantity="one">Fināls sākas pēc %s minūtes</item>
+        <item quantity="other">Fināls sākas pēc %s minūtēm</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="zero">Pusfināls sākas pēc %s dienām</item>
+        <item quantity="one">Pusfināls sākas pēc %s dienas</item>
+        <item quantity="other">Pusfināls sākas pēc %s dienām</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="zero">Pusfināls sākas pēc %s stundu</item>
+        <item quantity="one">Pusfināls sākas pēc %s stundas</item>
+        <item quantity="other">Pusfināls sākas pēc %s stundām</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="zero">Pusfināls sākas pēc %s minūšu</item>
+        <item quantity="one">Pusfināls sākas pēc %s minūtes</item>
+        <item quantity="other">Pusfināls sākas pēc %s minūtēm</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="zero">Pusfināls sākas pēc %s sekunžu</item>
+        <item quantity="one">Pusfināls sākas pēc %s sekundes</item>
+        <item quantity="other">Pusfināls sākas pēc %s sekundēm</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="zero">Jāiegūst vēl {0:string} Dimanti, lai kļūtu par Nr. {1:string}</item>
+        <item quantity="one">Jāiegūst vēl {0:string} Dimants, lai kļūtu par Nr. {1:string}</item>
+        <item quantity="other">Jāiegūst vēl {0:string} Dimanti, lai kļūtu par Nr. {1:string}</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="zero">Jāsasniedz vēl {0:string} dāvinātāji, lai kļūtu par Nr. {1:string}</item>
+        <item quantity="one">Jāsasniedz vēl {0:string} dāvinātājs, lai kļūtu par Nr. {1:string}</item>
+        <item quantity="other">Jāsasniedz vēl {0:string} dāvinātāji, lai kļūtu par Nr. {1:string}</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="zero">dienas</item>
+        <item quantity="one">diena</item>
+        <item quantity="other">dienas</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="zero">Tu apmainīji {amount} pret {num} monētām.</item>
+        <item quantity="one">Tu apmainīji {amount} pret {num} monētu.</item>
+        <item quantity="other">Tu apmainīji {amount} pret {num} monētām.</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="zero">Par {amount} tu iegādājies {num} monētas.</item>
+        <item quantity="one">Par {amount} tu iegādājies {num} monētu.</item>
+        <item quantity="other">Par {amount} tu iegādājies {num} monētas.</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="zero">Par {num} komandas punktiem vairāk nekā Nr. 2</item>
+        <item quantity="one">Par {num} komandas punktu vairāk nekā Nr. 2</item>
+        <item quantity="other">Par {num} komandas punktiem vairāk nekā Nr. 2</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="zero">+{num} komandas punktu (%1$s/%2$s komandas Dāvanas dienā)</item>
+        <item quantity="one">+{num} komandas punkts (%1$s/%2$s komandas Dāvanas dienā)</item>
+        <item quantity="other">+{num} komandas punkti (%1$s/%2$s komandas Dāvanas dienā)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="zero">%s skatītāji pievienojās no meklēšanas rezultātiem</item>
+        <item quantity="one">%s skatītājs pievienojās no meklēšanas rezultātiem</item>
+        <item quantity="other">%s skatītāji pievienojās no meklēšanas rezultātiem</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="zero">Jāiegūst vēl %1$s komandas punkti, lai sasniegtu Nr. %2$s</item>
+        <item quantity="one">Jāiegūst vēl %1$s komandas punkts, lai sasniegtu Nr. %2$s</item>
+        <item quantity="other">Jāiegūst vēl %1$s komandas punkti, lai sasniegtu Nr. %2$s</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="zero">Jāiegūst vēl %1$s komandas punktu, lai sasniegtu Nr. %2$s</item>
+        <item quantity="one">Jāiegūst vēl %1$s komandas punkts, lai sasniegtu Nr. %2$s</item>
+        <item quantity="other">Jāiegūst vēl %1$s komandas punkti, lai sasniegtu Nr. %2$s</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="zero">Radās kļūda. Pārbaudi pēc {number} stundām</item>
+        <item quantity="one">Radās kļūda. Pārbaudi pēc {number} stundas</item>
+        <item quantity="other">Radās kļūda. Pārbaudi pēc {number} stundām</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="zero">Radās kļūda. Pārbaudi pēc {number} minūtēm</item>
+        <item quantity="one">Radās kļūda. Pārbaudi pēc {number} minūtes</item>
+        <item quantity="other">Radās kļūda. Pārbaudi pēc {number} minūtēm</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="zero">Skatītāju</item>
+        <item quantity="one">Skatītājs</item>
+        <item quantity="other">Skatītāji</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="zero">%d skatītāju</item>
+        <item quantity="one">%d skatītājs</item>
+        <item quantity="other">%d skatītāji</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="zero">%s skatītāju</item>
+        <item quantity="one">%s skatītājs</item>
+        <item quantity="other">%s skatītāji</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="zero">%s skatītāji nosūtīja dāvanas</item>
+        <item quantity="one">%s skatītājs nosūtīja dāvanas</item>
+        <item quantity="other">%s skatītāji nosūtīja dāvanas</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="zero">Ieraksti (%s)</item>
+        <item quantity="one">Ieraksts (%s)</item>
+        <item quantity="other">Ieraksti (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="zero">(%s atsauksmju)</item>
+        <item quantity="one">(%s atsauksme)</item>
+        <item quantity="other">(%s atsauksmes)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="zero">%s fotoattēli nav augšupielādēti. Mēģini vēlreiz.</item>
+        <item quantity="one">%s fotoattēls nav augšupielādēts. Mēģini vēlreiz.</item>
+        <item quantity="other">%s fotoattēli nav augšupielādēti. Mēģini vēlreiz.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="zero">%d līdzīgas skaņas</item>
+        <item quantity="one">%d līdzīga skaņa</item>
+        <item quantity="other">%d līdzīgas skaņas</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="zero">%d profila skatījumi</item>
+        <item quantity="one">%d profila skatījums</item>
+        <item quantity="other">%d profila skatījumi</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="zero">Sekotāji</item>
+        <item quantity="one">Sekotājs</item>
+        <item quantity="other">Sekotāji</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="zero">%1$s par visiem video kopā saņēma %2$s atzīmes Patīk</item>
+        <item quantity="one">%1$s saņēma %2$s atzīmes Patīk</item>
+        <item quantity="other">%1$s par visiem video kopā saņēma %2$s atzīmes Patīk</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="zero">skatīja tavu profilu.</item>
+        <item quantity="one">skatīja tavu profilu.</item>
+        <item quantity="other">skatīja tavu profilu.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="zero">%1$s, %2$s un vēl %d citi</item>
+        <item quantity="one">%1$s, %2$s un vēl %d cits</item>
+        <item quantity="other">%1$s, %2$s un vēl %d citi</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="zero">%s personu skatīja tavu profilu.</item>
+        <item quantity="one">%s persona skatīja tavu profilu.</item>
+        <item quantity="other">%s personas skatīja tavu profilu.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="zero">{0}, {1} un {2} citu skatīja tavu profilu.</item>
+        <item quantity="one">{0}, {1} un {2} cits skatīja tavu profilu.</item>
+        <item quantity="other">{0}, {1} un {2} citi skatīja tavu profilu.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="zero">Mēs nosūtījām paziņojumu uz ierīci %1$s un %2$s citām ierīcēm. Pārliecinies, vai lietotne TikTok ir atvērta un paziņojumā pieskaries pie “Jā”, lai turpinātu pierakstīšanos.</item>
+        <item quantity="one">Mēs nosūtījām paziņojumu uz ierīci %1$s un %2$s citu ierīci. Pārliecinies, vai lietotne TikTok ir atvērta un paziņojumā pieskaries pie “Jā”, lai turpinātu pierakstīšanos.</item>
+        <item quantity="other">Mēs nosūtījām paziņojumu uz ierīci %1$s un %2$s citām ierīcēm. Pārliecinies, vai lietotne TikTok ir atvērta un paziņojumā pieskaries pie “Jā”, lai turpinātu pierakstīšanos.</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="zero">%s video</item>
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="zero">%d video</item>
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="zero">%s nepieejamie jautājumi tika noņemti no uzaicinājumiem</item>
+        <item quantity="one">%s nepieejamais jautājums tika noņemts no uzaicinājumiem</item>
+        <item quantity="other">%s nepieejamie jautājumi tika noņemti no uzaicinājumiem</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="zero">%s jaunas ziņas</item>
+        <item quantity="one">%s jauna ziņa</item>
+        <item quantity="other">%s jaunas ziņas</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="zero">%s jaunas reakcijas</item>
+        <item quantity="one">%s jauna reakcija</item>
+        <item quantity="other">%s jaunas reakcijas</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="zero">%d ieteica</item>
+        <item quantity="one">%d ieteica</item>
+        <item quantity="other">%d ieteica</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="zero">%d ieteica</item>
+        <item quantity="one">%d ieteica</item>
+        <item quantity="other">%d ieteica</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="zero">Skatīt vēl %d ieteikumus</item>
+        <item quantity="one">Skatīt vēl %d ieteikumu</item>
+        <item quantity="other">Skatīt vēl %d ieteikumus</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="zero">Ieraksti vismaz %d sekundes</item>
+        <item quantity="one">Ieraksti vismaz %d sekundi</item>
+        <item quantity="other">Ieraksti vismaz %d sekundes</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="zero">Ieraksti līdz %d sekunžu video, izmantojot skaņu no oriģinālā video</item>
+        <item quantity="one">Ieraksti līdz %d sekundes video, izmantojot skaņu no oriģinālā video</item>
+        <item quantity="other">Ieraksti līdz %d sekunžu video, izmantojot skaņu no oriģinālā video</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="zero">Melnraksti (%d)</item>
+        <item quantity="one">Melnraksts (%d)</item>
+        <item quantity="other">Melnraksti (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="zero">Ja izvēlēsies atjaunot šīs skaņas, tavs video tiks apklusināts.</item>
+        <item quantity="one">Ja izvēlēsies atjaunot šo skaņu, tavs video tiks apklusināts.</item>
+        <item quantity="other">Ja izvēlēsies atjaunot šīs skaņas, tavs video tiks apklusināts.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="zero">Vai atjaunot ar autortiesībām aizsargātās skaņas?</item>
+        <item quantity="one">Vai atjaunot ar autortiesībām aizsargāto skaņu?</item>
+        <item quantity="other">Vai atjaunot ar autortiesībām aizsargātās skaņas?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="zero">Ar autortiesībām aizsargātās skaņas noņemtas</item>
+        <item quantity="one">Ar autortiesībām aizsargātā skaņa noņemta</item>
+        <item quantity="other">Ar autortiesībām aizsargātās skaņas noņemtas</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="zero">Noņem skaņas</item>
+        <item quantity="one">Noņem skaņu</item>
+        <item quantity="other">Noņem skaņas</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="zero">Skaņas noņemtas</item>
+        <item quantity="one">Skaņa noņemta</item>
+        <item quantity="other">Skaņas noņemtas</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="zero">Aizvietot skaņas</item>
+        <item quantity="one">Aizvietot skaņu</item>
+        <item quantity="other">Aizvietot skaņas</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="zero">Noņem ar autortiesībām aizsargātās skaņas...</item>
+        <item quantity="one">Noņem ar autortiesībām aizsargāto skaņu...</item>
+        <item quantity="other">Noņem ar autortiesībām aizsargātās skaņas...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="zero">Mēs tavā video esam konstatējuši par 1 minūti garākas autortiesības pārkāpjošas skaņas, un, ja izvēlēsies turpināt, tavs video tiks apklusināts. Aizvieto skaņas vai saīsini video. %s</item>
+        <item quantity="one">Mēs tavā video esam konstatējuši par 1 minūti garāku autortiesības pārkāpjošu skaņu, un, ja izvēlēsies turpināt, tavs video tiks apklusināts. Aizvieto skaņu vai saīsini video. %s</item>
+        <item quantity="other">Mēs tavā video esam konstatējuši par 1 minūti garākas autortiesības pārkāpjošas skaņas, un, ja izvēlēsies turpināt, tavs video tiks apklusināts. Aizvieto skaņas vai saīsini video. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="zero">Aizvietot skaņas</item>
+        <item quantity="one">Aizvietot skaņu</item>
+        <item quantity="other">Aizvietot skaņas</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="zero">Noņem ar autortiesībām aizsargātās skaņas...</item>
+        <item quantity="one">Noņem ar autortiesībām aizsargāto skaņu...</item>
+        <item quantity="other">Noņem ar autortiesībām aizsargātās skaņas...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="zero">Mēs tavā video esam konstatējuši autortiesības pārkāpjošas skaņas. Ja izvēlēsies turpināt, video tiks apklusināts. Vari arī skaņas aizvietot. %s</item>
+        <item quantity="one">Mēs tavā video esam konstatējuši autortiesības pārkāpjošu skaņu. Ja izvēlēsies turpināt, video tiks apklusināts. Vari arī skaņu aizvietot. %s</item>
+        <item quantity="other">Mēs tavā video esam konstatējuši autortiesības pārkāpjošas skaņas. Ja izvēlēsies turpināt, video tiks apklusināts. Vari arī skaņas aizvietot. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="zero">Ar autortiesībām aizsargātas skaņas</item>
+        <item quantity="one">Ar autortiesībām aizsargāta skaņa</item>
+        <item quantity="other">Ar autortiesībām aizsargātas skaņas</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="zero">Autortiesību īpašnieki ir atļāvuši šīs skaņas lietot ne ilgāk par 1 minūti.</item>
+        <item quantity="one">Autortiesību īpašnieks ir atļāvis šo skaņu lietot ne ilgāk par 1 minūti.</item>
+        <item quantity="other">Autortiesību īpašnieki ir atļāvuši šīs skaņas lietot ne ilgāk par 1 minūti.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="zero">Autortiesību īpašnieki nav atļāvuši šo skaņu lietošanu.</item>
+        <item quantity="one">Autortiesību īpašnieks nav atļāvis šo skaņu lietošanu.</item>
+        <item quantity="other">Autortiesību īpašnieki nav atļāvuši šo skaņu lietošanu.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="zero">Aizvietot skaņas</item>
+        <item quantity="one">Aizvietot skaņu</item>
+        <item quantity="other">Aizvietot skaņas</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="zero">Mēs tavā video esam konstatējuši par 1 minūti garākas autortiesības pārkāpjošas skaņas, un, ja izvēlēsies turpināt, tavs video tiks apklusināts. Aizvieto skaņas vai saīsini video. %s</item>
+        <item quantity="one">Mēs tavā video esam konstatējuši par 1 minūti garāku autortiesības pārkāpjošu skaņu, un, ja izvēlēsies turpināt, tavs video tiks apklusināts. Aizvieto skaņu vai saīsini video. %s</item>
+        <item quantity="other">Mēs tavā video esam konstatējuši par 1 minūti garākas autortiesības pārkāpjošas skaņas, un, ja izvēlēsies turpināt, tavs video tiks apklusināts. Aizvieto skaņas vai saīsini video. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="zero">Aizvietot skaņas</item>
+        <item quantity="one">Aizvietot skaņu</item>
+        <item quantity="other">Aizvietot skaņas</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="zero">Mēs tavā video esam konstatējuši autortiesības pārkāpjošas skaņas. Ja izvēlēsies turpināt, video tiks apklusināts. Vari arī skaņas aizvietot. %s</item>
+        <item quantity="one">Mēs tavā video esam konstatējuši autortiesības pārkāpjošu skaņu. Ja izvēlēsies turpināt, video tiks apklusināts. Vari arī skaņu aizvietot. %s</item>
+        <item quantity="other">Mēs tavā video esam konstatējuši autortiesības pārkāpjošas skaņas. Ja izvēlēsies turpināt, video tiks apklusināts. Vari arī skaņas aizvietot. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="zero">Noņemt video (%d)</item>
+        <item quantity="one">Noņemt video (%d)</item>
+        <item quantity="other">Noņemt video (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="zero">%d pārpublikācijas</item>
+        <item quantity="one">%d pārpublikācija</item>
+        <item quantity="other">%d pārpublikācijas</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="zero">%d publicēja atkārtoti</item>
+        <item quantity="one">%d publicēja atkārtoti</item>
+        <item quantity="other">%d publicēja atkārtoti</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="zero">%d publicēja atkārtoti</item>
+        <item quantity="one">%d publicēja atkārtoti</item>
+        <item quantity="other">%d publicēja atkārtoti</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="zero">Skatīt vēl %d atkārtotus publicējumus</item>
+        <item quantity="one">Skatīt vēl %d atkārtotu publicējumu</item>
+        <item quantity="other">Skatīt vēl %d atkārtotus publicējumus</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="zero">%d dienas</item>
+        <item quantity="one">%d diena</item>
+        <item quantity="other">%d dienas</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="zero">Meklē vēl %1$d reizes, lai saņemtu %2$d punktus</item>
+        <item quantity="one">Meklē vēl %1$d reizi, lai saņemtu %2$d punktus</item>
+        <item quantity="other">Meklē vēl %1$d reizes, lai saņemtu %2$d punktus</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="zero">Pārlūko meklēšanas rezultātus %d sekunžu</item>
+        <item quantity="one">Pārlūko meklēšanas rezultātus %d sekundi</item>
+        <item quantity="other">Pārlūko meklēšanas rezultātus %d sekundes</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="zero">Meklē vēl %1$d reizes, lai saņemtu %2$d punktus!</item>
+        <item quantity="one">Meklē vēl %1$d reizi, lai saņemtu %2$d punktus!</item>
+        <item quantity="other">Meklē vēl %1$d reizes, lai saņemtu %2$d punktus!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="zero">Atbilstošas skaņas: %d</item>
+        <item quantity="one">Atbilstoša skaņa: %d</item>
+        <item quantity="other">Atbilstošas skaņas: %d</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="zero">Atjaunināts pirms %d dienām</item>
+        <item quantity="one">Atjaunināts pirms %d dienas</item>
+        <item quantity="other">Atjaunināts pirms %d dienām</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="zero">Atjaunināts pirms %d stundām</item>
+        <item quantity="one">Atjaunināts pirms %d stundas</item>
+        <item quantity="other">Atjaunināts pirms %d stundām</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="zero">Atjaunināts pirms %d min.</item>
+        <item quantity="one">Atjaunināts pirms %d min.</item>
+        <item quantity="other">Atjaunināts pirms %d min.</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="zero">Atjaunināts pirms %d sekundēm</item>
+        <item quantity="one">Atjaunināts pirms %d sekundes</item>
+        <item quantity="other">Atjaunināts pirms %d sekundēm</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="zero">Atjaunināts pirms %d nedēļām</item>
+        <item quantity="one">Atjaunināts pirms %d nedēļas</item>
+        <item quantity="other">Atjaunināts pirms %d nedēļām</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="zero">Tu dalījies ar fotoattēliem.</item>
+        <item quantity="one">Tu dalījies ar fotoattēlu.</item>
+        <item quantity="other">Tu dalījies ar fotoattēliem.</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="zero">Apsveicam! Vakar tu saņēmi par %d vairāk pirkumu. Turpini gūt panākumus un seko sava seriāla progresam sadaļā “Veidotāja rīki” &gt; “Seriāls”.</item>
+        <item quantity="one">Apsveicam! Vakar tu saņēmi par %d vairāk pirkumu. Turpini gūt panākumus un seko sava seriāla progresam sadaļā “Veidotāja rīki” &gt; “Seriāls”.</item>
+        <item quantity="other">Apsveicam! Vakar tu saņēmi par %d vairāk pirkumu. Turpini gūt panākumus un seko sava seriāla progresam sadaļā “Veidotāja rīki” &gt; “Seriāls”.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="zero">Pēdējo dienu laikā tava seriāla lapa ir apmeklēta %d reizes. Lai sekotu līdzi sava seriāla panākumiem un saņemtu noderīgus padomus, kā piesaistīt potenciālos pircējus, vari izmantot analīzes rīkus, kas pieejami sadaļā “Veidotāja rīki” &gt; “Seriāls”.</item>
+        <item quantity="one">Pēdējo dienu laikā tava seriāla lapa ir apmeklēta %d reizi. Lai sekotu līdzi sava seriāla panākumiem un saņemtu noderīgus padomus, kā piesaistīt potenciālos pircējus, vari izmantot analīzes rīkus, kas pieejami sadaļā “Veidotāja rīki” &gt; “Seriāls”.</item>
+        <item quantity="other">Pēdējo dienu laikā tava seriāla lapa ir apmeklēta %d reizes. Lai sekotu līdzi sava seriāla panākumiem un saņemtu noderīgus padomus, kā piesaistīt potenciālos pircējus, vari izmantot analīzes rīkus, kas pieejami sadaļā “Veidotāja rīki” &gt; “Seriāls”.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="zero">Apsveicam! Vakardien tavā LIVE vietnē %d skatītāji iegādājās piekļuvi tavam seriālam. Turpini gūt panākumus un seko sava seriāla progresam sadaļā “Veidotāja rīki” &gt; “Seriāls”.</item>
+        <item quantity="one">Apsveicam! Vakardien tavā LIVE vietnē %d skatītājs iegādājās piekļuvi tavam seriālam. Turpini gūt panākumus un seko sava seriāla progresam sadaļā “Veidotāja rīki” &gt; “Seriāls”.</item>
+        <item quantity="other">Apsveicam! Vakardien tavā LIVE vietnē %d skatītāji iegādājās piekļuvi tavam seriālam. Turpini gūt panākumus un seko sava seriāla progresam sadaļā “Veidotāja rīki” &gt; “Seriāls”.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="zero">Apsveicam! Vakardien %d skatītāji iegādājās piekļuvi tavam seriālam no video, kurā bija iekļauta saite uz tavu seriālu. Turpini gūt panākumus un seko sava seriāla progresam sadaļā “Veidotāja rīki” &gt; “Seriāls”.</item>
+        <item quantity="one">Apsveicam! Vakardien %d skatītājs iegādājās piekļuvi tavam seriālam no video, kurā bija iekļauta saite uz tavu seriālu. Turpini gūt panākumus un seko sava seriāla progresam sadaļā “Veidotāja rīki” &gt; “Seriāls”.</item>
+        <item quantity="other">Apsveicam! Vakardien %d skatītāji iegādājās piekļuvi tavam seriālam no video, kurā bija iekļauta saite uz tavu seriālu. Turpini gūt panākumus un seko sava seriāla progresam sadaļā “Veidotāja rīki” &gt; “Seriāls”.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="zero">Turpināt uz kameru (%d)</item>
+        <item quantity="one">Turpināt uz kameru (%d)</item>
+        <item quantity="other">Turpināt uz kameru (%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="zero" />
+        <item quantity="one">%.1f (%s atsauksme)</item>
+        <item quantity="other">%.1f (%s atsauksmes)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="zero">Tikai pirmie %d pircēji</item>
+        <item quantity="one">Tikai pirmais pircējs</item>
+        <item quantity="other">Tikai pirmie %d pircēji</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="zero">Atlicis tikai %d</item>
+        <item quantity="one">Atlicis tikai %d</item>
+        <item quantity="other">Atlicis tikai %d</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="zero">Beigsies pēc %d dienām</item>
+        <item quantity="one">Beigsies pēc %d dienas</item>
+        <item quantity="other">Beigsies pēc %d dienām</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="zero">%d video</item>
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="zero">%d video</item>
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="zero">%d video</item>
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="zero">%s video</item>
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="zero">%d skatījumi</item>
+        <item quantity="one">%d skatījums</item>
+        <item quantity="other">%d skatījumi</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="zero">Stāsti (%d)</item>
+        <item quantity="one">Stāsts (%d)</item>
+        <item quantity="other">Stāsti (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="zero">{Brand} vēlas pagarināt sākotnējo atļauju no {start_date} līdz {end_date} par {num} dienām.</item>
+        <item quantity="one">{Brand} vēlas pagarināt sākotnējo atļauju no {start_date} līdz {end_date} par {num} dienu.</item>
+        <item quantity="other">{Brand} vēlas pagarināt sākotnējo atļauju no {start_date} līdz {end_date} par {num} dienām.</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="zero">%d pievienotu video</item>
+        <item quantity="one">%d pievienots video</item>
+        <item quantity="other">%d pievienoti video</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="zero">Veidotāji ir lietojuši TikTok ilgāk par %d mēnešiem.</item>
+        <item quantity="one">Veidotāji ir lietojuši TikTok ilgāk par %d mēnesi.</item>
+        <item quantity="other">Veidotāji ir lietojuši TikTok ilgāk par %d mēnešiem.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="zero">Veidotājiem ir vismaz %d sekotāji.</item>
+        <item quantity="one">Veidotājiem ir vismaz %d sekotājs.</item>
+        <item quantity="other">Veidotājiem ir vismaz %d sekotāji.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="zero">%d mijiedarbības</item>
+        <item quantity="one">%d mijiedarbība</item>
+        <item quantity="other">%d mijiedarbības</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="zero">Dienas ierobežojums populāru tēmu pievienošanai: %d ierakstu</item>
+        <item quantity="one">Dienas ierobežojums populāru tēmu pievienošanai: %d ieraksts</item>
+        <item quantity="other">Dienas ierobežojums populāru tēmu pievienošanai: %d ieraksti</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="zero">Aptuvenais pārskatīšanas laiks: %d dienas</item>
+        <item quantity="one">Aptuvenais pārskatīšanas laiks: %d diena</item>
+        <item quantity="other">Aptuvenais pārskatīšanas laiks: %d dienas</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="zero">%@ video</item>
+        <item quantity="one">%@ video</item>
+        <item quantity="other">%@ video</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="zero">%@ skatījumu</item>
+        <item quantity="one">%@ skatījums</item>
+        <item quantity="other">%@ skatījumi</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="zero">Pirms %d dienām</item>
+        <item quantity="one">Pirms %d dienas</item>
+        <item quantity="other">Pirms %d dienām</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="zero">Stundas</item>
+        <item quantity="one">Stunda</item>
+        <item quantity="other">Stundas</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="zero">Pirms %1$d h</item>
+        <item quantity="one">Pirms %1$d h</item>
+        <item quantity="other">Pirms %1$d h</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="zero">minūšu</item>
+        <item quantity="one">minūte</item>
+        <item quantity="other">minūtes</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="zero">Pirms %1$d min</item>
+        <item quantity="one">Pirms %1$d min</item>
+        <item quantity="other">Pirms %1$d min</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="zero">Stundas</item>
+        <item quantity="one">Stunda</item>
+        <item quantity="other">Stundas</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="zero">minūšu</item>
+        <item quantity="one">minūte</item>
+        <item quantity="other">minūtes</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="zero">s</item>
+        <item quantity="one">s</item>
+        <item quantity="other">s</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="zero">Pirms %1$d gadiem</item>
+        <item quantity="one">Pirms %1$d gada</item>
+        <item quantity="other">Pirms %1$d gadiem</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="zero">Atvaino! Tev ir aizliegta dalība\n Varēsi atkal veikt tiešraides straumi pēc %1$d dienām</item>
+        <item quantity="one">Atvaino! Tev ir aizliegta dalība\n Varēsi atkal veikt tiešraides straumi pēc %1$d dienas</item>
+        <item quantity="other">Atvaino! Tev ir aizliegta dalība\n Varēsi atkal veikt tiešraides straumi pēc %1$d dienām</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="zero">Atvaino! Tev ir aizliegta dalība\n Varēsi atkal veikt tiešraides straumi pēc %1$d stundām</item>
+        <item quantity="one">Atvaino! Tev ir aizliegta dalība\n Varēsi atkal veikt tiešraides straumi pēc %1$d stundas</item>
+        <item quantity="other">Atvaino! Tev ir aizliegta dalība\n Varēsi atkal veikt tiešraides straumi pēc %1$d stundām</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="zero">Diemžēl tev šobrīd ir aizliegta dalība. \n Varēsi atkal veikt tiešraides straumi pēc %1$d minūtēm</item>
+        <item quantity="one">Diemžēl tev šobrīd ir aizliegta dalība. \n Varēsi atkal veikt tiešraides straumi pēc %1$d minūtes</item>
+        <item quantity="other">Diemžēl tev šobrīd ir aizliegta dalība. \n Varēsi atkal veikt tiešraides straumi pēc %1$d minūtēm</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="zero">Atvaino! Tev ir aizliegta dalība\n Varēsi atkal veikt tiešraides straumi pēc %1$d sekundēm</item>
+        <item quantity="one">Atvaino! Tev ir aizliegta dalība\n Varēsi atkal veikt tiešraides straumi pēc %1$d sekundes</item>
+        <item quantity="other">Atvaino! Tev ir aizliegta dalība\n Varēsi atkal veikt tiešraides straumi pēc %1$d sekundēm</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="zero">Tav apraidi skatās %d lietotāji, vai vēlies to slēgt?</item>
+        <item quantity="one">Tav apraidi skatās %d lietotājs, vai vēlies to slēgt?</item>
+        <item quantity="other">Tav apraidi skatās %d lietotāji, vai vēlies to slēgt?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="zero">Derīgums beidzas pēc %d dienām</item>
+        <item quantity="one">Derīgums beidzas pēc %d dienas</item>
+        <item quantity="other">Derīgums beidzas pēc %d dienām</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="zero">Derīgums beidzas pēc %d stundām</item>
+        <item quantity="one">Derīgums beidzas pēc %d stundas</item>
+        <item quantity="other">Derīgums beidzas pēc %d stundām</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="zero">Pirmo reizi papildinot %1$d dimantus, iegūsi vēl %2$d!</item>
+        <item quantity="one">Pirmo reizi papildinot %1$d dimantu, iegūsi vēl %2$d!</item>
+        <item quantity="other">Pirmo reizi papildinot %1$d dimantus, iegūsi vēl %2$d!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="zero">minūšu</item>
+        <item quantity="one">minūte</item>
+        <item quantity="other">minūtes</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="zero">Tava TikTok pieredze beigsies pēc: %d dienām</item>
+        <item quantity="one">Tava TikTok pieredze beigsies pēc: %d dienas</item>
+        <item quantity="other">Tava TikTok pieredze beigsies pēc: %d dienām</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="zero">%d dienas</item>
+        <item quantity="one">%d diena</item>
+        <item quantity="other">%d dienas</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="zero">Tev ir %d dienu laika, lai izmēģinātu šo funkciju lietotnē TikTok. Pēc tam, lai turpinātu, lejupielādē lietotni TikTok Now.</item>
+        <item quantity="one">Tev ir %d diena laika, lai izmēģinātu šo funkciju lietotnē TikTok. Pēc tam, lai turpinātu, lejupielādē lietotni TikTok Now.</item>
+        <item quantity="other">Tev ir %d dienas laika, lai izmēģinātu šo funkciju lietotnē TikTok. Pēc tam, lai turpinātu, lejupielādē lietotni TikTok Now.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="zero">Publicē, lai sāktu savu %d dienu TikTok Now pieredzi.</item>
+        <item quantity="one">Publicē, lai sāktu savu %d dienas TikTok Now pieredzi.</item>
+        <item quantity="other">Publicē, lai sāktu savu %d dienu TikTok Now pieredzi.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="zero">Atlasi vai ieraksti %d klipus</item>
+        <item quantity="one">Atlasi vai ieraksti %d klipu</item>
+        <item quantity="other">Atlasi vai ieraksti %d klipus</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="zero">Vai rediģēt nepabeigtos fotoattēlus?</item>
+        <item quantity="one">Vai rediģēt nepabeigto fotoattēlu?</item>
+        <item quantity="other">Vai rediģēt nepabeigtos fotoattēlus?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="zero">Jauni ieraksti: %s</item>
+        <item quantity="one">%s jauns ieraksts</item>
+        <item quantity="other">Jauni ieraksti: %s</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="zero">publicēja %d video</item>
+        <item quantity="one">publicēja %d video</item>
+        <item quantity="other">publicēja %d video</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="zero">Vai tavs vecums ir %d gadi?</item>
+        <item quantity="one">Vai tavs vecums ir %d gads?</item>
+        <item quantity="other">Vai tavs vecums ir %d gadi?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="zero">Lietot apgrieztu skaņu. Ieraksti līdz %d sek.</item>
+        <item quantity="one">Lietot apgrieztu skaņu. Ieraksti līdz %d sek.</item>
+        <item quantity="other">Lietot apgrieztu skaņu. Ieraksti līdz %d sek.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="zero">%s skatītāju</item>
+        <item quantity="one">%s skatītājs</item>
+        <item quantity="other">%s skatītāji</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="zero">%s patīk</item>
+        <item quantity="one">%s patīk</item>
+        <item quantity="other">%s patīk</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="zero">Kopīgo ar %1$s pēc %2$s</item>
+        <item quantity="one">Kopīgo ar %1$s pēc %2$s</item>
+        <item quantity="other">Kopīgo ar %1$s pēc %2$s</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="zero">%d produktu</item>
+        <item quantity="one">%d produkts</item>
+        <item quantity="other">%d produkti</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="zero">Ieraksti</item>
+        <item quantity="one">Ieraksts</item>
+        <item quantity="other">Ieraksti</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="zero">%1$s, %2$s un vēl %d citu</item>
+        <item quantity="one">%1$s, %2$s un vēl %d cits</item>
+        <item quantity="other">%1$s, %2$s un vēl %d citi</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="zero">skatīja tavu ierakstu.</item>
+        <item quantity="one">skatīja tavu ierakstu.</item>
+        <item quantity="other">skatīja tavu ierakstu.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="zero">%s dalījās</item>
+        <item quantity="one">%s dalījās</item>
+        <item quantity="other">%s dalījās</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="zero">%s skatījumu</item>
+        <item quantity="one">%s skatījums</item>
+        <item quantity="other">%s skatījumi</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="zero">{0}, {1} un {2} citi skatīja tavu ierakstu.</item>
+        <item quantity="one">{0}, {1} un {2} cits skatīja tavu ierakstu.</item>
+        <item quantity="other">{0}, {1} un {2} citi skatīja tavu ierakstu.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="zero">%d monētu</item>
+        <item quantity="one">%d monēta</item>
+        <item quantity="other">%d monētas</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="zero">nosūtīja: %s</item>
+        <item quantity="one">nosūtīja: %s</item>
+        <item quantity="other">nosūtīja: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="zero">Fotoattēli saglabāti</item>
+        <item quantity="one">Fotoattēls saglabāts</item>
+        <item quantity="other">Fotoattēli saglabāti</item>
+    </plurals>
+</resources>

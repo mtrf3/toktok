@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/eqp"
+    layout_width="60dp"
+    layout_height="60dp">
+    <X.C164106cI
+        layout_gravity="center"
+        id="@+id/kgl"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C72790ShW
+        layout_gravity="center"
+        id="@+id/ki1"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        scaleType="centerCrop"
+        layout_centerInParent="true"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/crp"
+        visibility="gone"
+        layout_width="22dp"
+        layout_height="22dp"
+        layout_centerInParent="true"
+        NOT_FOUND_0x7="@raw/icon_block"
+        NOT_FOUND_0x8="?attr/dj"/>
+</RelativeLayout>

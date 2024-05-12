@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.AKQ
+        id="@+id/bv7"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <View
+            id="@+id/liz"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+        <FrameLayout
+            layout_gravity="top|center_horizontal"
+            id="@+id/ard"
+            background="?attr/cl"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            NOT_FOUND_0x5="com.google.android.material.bottomsheet.BottomSheetBehavior">
+            <FrameLayout
+                id="@+id/b0v"
+                layout_width="match_parent"
+                layout_height="match_parent"/>
+        </FrameLayout>
+    </X.AKQ>
+</FrameLayout>

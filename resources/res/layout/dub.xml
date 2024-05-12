@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <RelativeLayout
+        id="@+id/n4q"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <X.C62846OlW
+            id="@+id/cover"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+    </RelativeLayout>
+    <X.C62846OlW
+        id="@+id/keb"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x4="2"/>
+</RelativeLayout>

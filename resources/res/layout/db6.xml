@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C47121t6
+        textColor="@color/ar"
+        id="@+id/ly8"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        textDirection="locale"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x9="0"
+        style="@style/a4b"/>
+    <X.C47121t6
+        textColor="@color/a8m"
+        id="@+id/ly9"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        textDirection="locale"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="@+id/ly8"
+        style="@style/a4c"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

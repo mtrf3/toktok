@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_horizontal"
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="541dp">
+    <View
+        background="?attr/cc"
+        layout_width="match_parent"
+        layout_height="8dp"/>
+    <ImageView
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="100dp"
+        src="@drawable/d95"/>
+    <X.C47121t6
+        textSize="17sp"
+        textColor="?attr/go"
+        gravity="center_horizontal"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="20dp"
+        text="@string/mcu"
+        layout_marginStart="32dp"
+        layout_marginEnd="32dp"
+        style="@style/a42"/>
+    <X.C47121t6
+        textColor="?attr/gu"
+        gravity="center_horizontal"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="12dp"
+        text="@string/mct"
+        layout_marginStart="32dp"
+        layout_marginEnd="32dp"
+        style="@style/a46"/>
+</LinearLayout>

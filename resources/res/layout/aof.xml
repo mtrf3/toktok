@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.SYL
+        id="@+id/ftw"
+        paddingTop="32dp"
+        paddingBottom="32dp"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        paddingStart="16dp"
+        paddingEnd="16dp"
+        NOT_FOUND_0x7="androidx.recyclerview.widget.GridLayoutManager"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

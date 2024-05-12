@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <size
+        height="40dp"
+        width="300dp"/>
+    <corners radius="2dp"/>
+    <stroke
+        width="2dp"
+        color="@color/c3"/>
+    <padding
+        top="15dp"
+        bottom="15dp"/>
+</shape>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C010302h
+    orientation="vertical"
+    id="@+id/nq"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <androidx.appcompat.widget.ViewStubCompat
+        id="@+id/oj"
+        layout="@layout/cx"
+        inflatedId="@+id/oi"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <include layout="@layout/dc"/>
+</X.C010302h>

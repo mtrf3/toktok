@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/evj"
+    background="@drawable/d7j"
+    layout_width="match_parent"
+    layout_height="60dp">
+    <X.C41081jM
+        id="@+id/eu5"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginTop="6dp"
+        layout_marginStart="47dp"
+        layout_marginEnd="6dp"/>
+    <X.C2A8
+        textColor="@color/abc"
+        ellipsize="end"
+        gravity="start"
+        id="@+id/ev9"
+        layout_width="65dp"
+        layout_height="13dp"
+        layout_marginTop="41dp"
+        layout_marginStart="6dp"
+        layout_marginEnd="6dp"
+        style="@style/a4j"/>
+</FrameLayout>

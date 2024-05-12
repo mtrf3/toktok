@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="wrap_content"
+    layout_height="match_parent">
+    <TextView
+        textColor="@color/ae6"
+        gravity="center"
+        id="@+id/mo5"
+        background="@drawable/dhr"
+        paddingLeft="@dimen/akq"
+        paddingTop="@dimen/akr"
+        paddingRight="@dimen/akq"
+        paddingBottom="@dimen/akr"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxWidth="200dp"
+        text="@string/fxr"/>
+    <ImageView
+        layout_gravity="center_horizontal"
+        layout_width="26dp"
+        layout_height="50dp"
+        src="@drawable/dhq"/>
+</LinearLayout>

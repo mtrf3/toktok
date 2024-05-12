@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_selected="true"
+        drawable="@drawable/dfo"/>
+    <item state_selected="false">
+        <shape shape="rectangle">
+            <solid color="@color/adm"/>
+            <corners radius="4dp"/>
+            <stroke
+                width="1dp"
+                color="@color/adp"/>
+        </shape>
+    </item>
+</selector>

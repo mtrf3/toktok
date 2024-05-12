@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.icon.TuxIconView
+    layout_width="40dp"
+    layout_height="40dp"
+    NOT_FOUND_0x2="@raw/icon_x_mark"
+    NOT_FOUND_0x3="24dp"
+    NOT_FOUND_0x4="24dp"
+    NOT_FOUND_0x5="?attr/dj"/>

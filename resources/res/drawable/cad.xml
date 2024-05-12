@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item gravity="center">
+        <shape shape="rectangle">
+            <stroke
+                width="2dp"
+                color="@color/c7"/>
+            <size
+                height="76dp"
+                width="76dp"/>
+            <corners
+                topLeftRadius="2dp"
+                topRightRadius="2dp"
+                bottomLeftRadius="2dp"
+                bottomRightRadius="2dp"/>
+        </shape>
+    </item>
+</layer-list>

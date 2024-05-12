@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C156086Aq
+        id="@+id/bm4"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="16dp"
+        layout_marginStart="16dp"/>
+    <X.C143905ko
+        id="@+id/ik3"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="16dp"
+        layout_marginStart="16dp"/>
+</FrameLayout>

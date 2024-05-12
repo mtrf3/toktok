@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_checked="true"
+        color="?attr/a4r"
+        alpha="0.08"/>
+    <item
+        color="?attr/a4q"
+        alpha="0.08"
+        NOT_FOUND_0x3="true"/>
+    <item
+        state_checked="false"
+        color="@android:color/transparent"
+        NOT_FOUND_0x3="false"/>
+</selector>

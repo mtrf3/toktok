@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C119404mO
+        id="@+id/cf_"
+        visibility="visible"
+        layout_width="8dp"
+        layout_height="8dp"
+        NOT_FOUND_0x4="0"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"/>
+    <X.C47061t0
+        id="@+id/el8"
+        visibility="gone"
+        layout_width="26dp"
+        layout_height="26dp"
+        NOT_FOUND_0x4="0"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"/>
+</merge>

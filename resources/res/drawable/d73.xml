@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape>
+            <size
+                height="@dimen/aga"
+                width="@dimen/agb"/>
+            <solid color="@color/a71"/>
+            <corners radius="@dimen/ag_"/>
+        </shape>
+    </item>
+    <item>
+        <bitmap
+            gravity="center"
+            src="@drawable/d6w"/>
+    </item>
+</layer-list>

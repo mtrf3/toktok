@@ -1,0 +1,2319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">យើងនឹងចាប់ផ្ដើមបង្កើត​អវតារ​របស់អ្នក​ក្នុងរយៈពេល %d នាទីទៀត។</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">បន្ត​ដោយប្រើរចនាប័ទ្ម %d</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">ជ្រើសរើសរូបថតយ៉ាងតិច %d ទៀត​ដែលមានផ្ទៃមុខមនុស្ស</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">អ្នកអាចបង្កើតអវតារ %d ដងក្នុងមួយថ្ងៃដោយប្រើ Sharp</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">អ្នកអាចបង្កើតអវតារ %d ដងក្នុងមួយសប្ដាហ៍ដោយប្រើ Sharp</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">អ្នកអាចបង្កើតអវតារ %d ដងក្នុងមួយថ្ងៃដោយប្រើ Speedy</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">អ្នកអាចបង្កើតអវតារ %d ដងក្នុងមួយសប្ដាហ៍ដោយប្រើ Speedy</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">អ្នកអាចបង្កើតអវតារ %d ដងក្នុងមួយថ្ងៃ</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">អ្នកអាចបង្កើតអវតារ %d ដងក្នុងមួយសប្ដាហ៍</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">យើងនឹងចាប់ផ្ដើមបង្កើត​អវតារ​របស់អ្នក​ក្នុងរយៈពេល %d នាទីទៀត។</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">បាន​យល់ព្រម (%d)</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">អ្នក​បាន​ទទួល​ការលើកឡើងថ្មី %d។</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">អ្នក​មាន​សំណើ %d</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">អ្នក​មាន​សំណើ %d</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%d សំណួរ</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">សម្រាប់ %d ថ្ងៃដំបូង អ្នកផ្សេង​ត្រូវតែបង្ហោះ ដើម្បីមើល​សារបង្ហោះ​របស់អ្នក។</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">បន្ទាប់ពី %d ថ្ងៃ ពួកគេ​អាចមើល​សារបង្ហោះ​របស់អ្នក​ដោយមិនចាំបាច់បង្ហោះ។</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">បន្ទាប់ពី %d ថ្ងៃ មានតែអ្នកប៉ុណ្ណោះ​ទើបអាចមើលឃើញ​សារបង្ហោះ​របស់អ្នក។</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">សម្រាប់ %d ថ្ងៃដំបូង អ្នកផ្សេង​ត្រូវតែបង្ហោះ ដើម្បីមើល​សារបង្ហោះ Now ​របស់អ្នក។</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%d ផលិតផល</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">កំពុង​ត្រួតពិនិត្យ (%d)</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">ព័ត៌មាន​ការចុះឈ្មោះ​មិន​អាច​ផ្លាស់ប្ដូរ​បាន​ទេ​ក្នុង​ពេល %d ខែ នៅពេល​ការចុះឈ្មោះ​របស់​អ្នក​បាន​ទទួល​ការយល់ព្រម។</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">អ្នក​អាច​ប្ដូរ​ព័ត៌មាន​ដែល​បាន​ចុះបញ្ជី %d ខែ បន្ទាប់​ពី​វា​បាន​ទទួល​ការយល់ព្រម​ប៉ុណ្ណោះ។</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">បញ្ជូន​ដល់​ទៅ %d រូប</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">{username} បាន​បើក​រូបថត</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">មនុស្ស {number} នាក់​បាន​ថែម​វីដេអូ​នេះ​ទៅ​ក្នុង​ &quot;សំណព្វ&quot; របស់​ពួកគេ។</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">%d ចូលចិត្ត</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="other">%@ billion</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="other">%@ million</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="other">%@ thousand</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">%d មើល</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">%s វីដេអូ​អនុញ្ញាត​មតិ</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">%s វីដេអូ​មិនអនុញ្ញាត​មតិ​ទេ</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">ខណៈពេល %d មិនអនុញ្ញាត​ឌ្យូអេត​ទេ</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">នរណាក៏អាចឌ្យូអេតជាមួយវីដេអូរបស់អ្នកបានដែរ។ វីដេអូរបស់អ្នកចំនួន %1$d អនុញ្ញាតឱ្យឌ្យូអេត %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">ខណៈពេល %d មិនអនុញ្ញាត​ឌ្យូអេត​ទេ</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">មិត្តភក្ដិ​​អាចឌ្យូអេត​ជាមួយ​វីដេអូ​របស់អ្នក។ វីដេអូរបស់អ្នក​ចំនួន %1$d អនុញ្ញាតឱ្យឌ្យូអេត %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">ខណៈពេល %d មិនអនុញ្ញាត​ឌ្យូអេត​ទេ</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="other">ពិនិត្យមើល​ថាតើនរណា​អាចឌ្យូអេតជាមួយវីដេអូរបស់អ្នក។ វីដេអូរបស់អ្នកចំនួន %1$d អនុញ្ញាតឱ្យឌ្យូអេត %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="other">ខណៈពេល %d មិនអនុញ្ញាតស្ទីច​ទេ</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="other">ពិនិត្យមើល​ថាតើនរណា​អាចកាត់បញ្ចូលគ្នាជាមួយវីដេអូរបស់អ្នក។ វីដេអូរបស់អ្នកចំនួន %1$d អនុញ្ញាតឱ្យកាត់បញ្ចូលគ្នា %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="other">ខណៈពេល %d មិនអនុញ្ញាតស្ទីច​ទេ</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="other">នរណាក៏អាចកាត់បញ្ចូលគ្នាជាមួយវីដេអូរបស់អ្នកបានដែរ។ វីដេអូរបស់អ្នកចំនួន %1$d អនុញ្ញាតឱ្យកាត់បញ្ចូលគ្នា %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="other">ខណៈពេល %d មិនអនុញ្ញាតស្ទីច​ទេ</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="other">មិត្តភក្ដិ​​អាចកាត់បញ្ចូលគ្នាជាមួយ​វីដេអូ​របស់អ្នក។ វីដេអូរបស់អ្នក​ចំនួន %1$d អនុញ្ញាតឱ្យកាត់បញ្ចូលគ្នា %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="other">%s វីដេអូ​អនុញ្ញាត​ឌ្យូអេត</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="other">%s វីដេអូ​មិនអនុញ្ញាត​ឌ្យូអេត​ទេ</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="other">%s វីដេអូ​អនុញ្ញាតស្ទីច​</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="other">%s វីដេអូ​មិនអនុញ្ញាតស្ទីច​​ទេ</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="other">សកម្ម %d ម៉ោង​មុន</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="other">សកម្ម %d នាទី​មុន</item>
+    </plurals>
+    <plurals name="ao">
+        <item quantity="other">ថ្ងៃ</item>
+    </plurals>
+    <plurals name="ap">
+        <item quantity="other">ម៉ោង</item>
+    </plurals>
+    <plurals name="aq">
+        <item quantity="other">នាទី</item>
+    </plurals>
+    <plurals name="ar">
+        <item quantity="other">វិនាទី</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="other">%d ផ្នែក</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="other">%1$s · ការបង្ហោះថ្មី %2$d</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="other">នាំចូលសំឡេង %d</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="other">វីដេអូ LIVE %2$d | %1$d Stories</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="other">វីដេអូ LIVE %2$d | %1$d Story</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="other">វីដេអូ LIVE %d | Story</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="other">វីដេអូ LIVE %2$d | %1$d Stories</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="other">%d Story</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="other">បានអញ្ជើញមិត្តភក្តិ %d នាក់</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="other">%s វីដេអូ</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="other">បាន​បញ្ចូល %s ​វីដេអូ</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="other">បានបង្ហោះវីដេអូ %s</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="other">បញ្ចូលវីដេអូ (%d)</item>
+    </plurals>
+    <plurals name="b5">
+        <item quantity="other">បាន​ថែម %s វីដេអូ។ ប៉ះ &quot;រួចរាល់&quot; ដើម្បី​បញ្ចប់​ការកែ។</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="other">%d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="other">%d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="other">តើ​អ្នក​មាន​អាយុ %d ឆ្នាំ?\n\n បើ​នេះ​មិន​ត្រឹមត្រូវ​ទេ អ្នក​ប្រហែល​ជា​មិន​បាន​ទទួល​បទពិសោធន៍ TikTok ត្រឹមត្រូវ​ឡើយ។ អ្នក​ប្រហែល​ជា​មិន​អាច​ប្ដូរ​វា​ភ្លាមៗ​ទេ។</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="other">តើ​អ្នក​មាន​អាយុ %d ឆ្នាំ?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="other">អ្នក​បាន​វាយបញ្ចូល​អាយុ %d ឆ្នាំ។ សូម​វាយបញ្ចូល​ថ្ងៃខែឆ្នាំ​កំណើត​ពិត​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="other">%d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="other">%d សំឡេង</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="other">កំពុង​ធ្វើសមកាលសំឡេង...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="other">%s ចែករំលែក</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="other">%s មើល</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="other">បែបផែនសំឡេងអាចកាត់បន្ថយ​ភាពត្រឹមត្រូវ</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="other">បញ្ជូនឯកសារ​រហូតដល់ %d</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="other">[num] វីដេអូផ្សេងទៀត</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="other">កំណែ​បែតានេះ ផុតកំណត់ %d ថ្ងៃទៀត</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="other">ផុតកំណត់ %d ថ្ងៃ​ទៀត</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="other">ផុតកំណត់ %d ថ្ងៃ​ទៀត</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="other">ផុតកំណត់ %d ថ្ងៃ​ទៀត</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="other">អ្នកអាចថែម​សៀវភៅដល់ទៅ %d ក្បាល</item>
+    </plurals>
+    <plurals name="bn">
+        <item quantity="other">បាន​អញ្ជើញ​មិត្តភក្ដិ %1$d នាក់។ អ្នក​អាច​ទទួល %2$s%3$d សម្រាប់​ការអញ្ជើញ​បន្ទាប់​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="bo">
+        <item quantity="other">បានចែករំលែករូបថត</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="other">%s ឃ្លីប</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="other">មើល %d ទៀត</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="other">មើល​ការឆ្លើយតប %d</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="other">%d ខែ</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="other">%d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="other">ខ្ទប់​គណនី</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="other">បាន​ជ្រើស​គណនី %d</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="other">អ្នក​អាច​ជ្រើស​ត្រឹម %d គណនី​ប៉ុណ្ណោះ ក្នុង​ពេល​មួយ។</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="other">អ្នក​បាន​ជ្រើស​គណនី %d ដើម្បី​ទប់ស្កាត់។ គណនី​ដែល​បាន​ទប់ស្កាត់​នឹង​មិន​អាច​មើល​ប្រវត្តិរូប​ឬ​មាតិកា​របស់អ្នកក្នុង TikTok ឡើយ។</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="other">ខ្ទប់ %d គណនី?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="other">លុប​មតិ</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="other">អ្នក​បាន​ជ្រើស %d មតិ។</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="other">លុប %d មតិ?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="other">បាន​លុប​មតិ</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="other">បាន​ជ្រើស %d មតិ។</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="other">អ្នក​អាច​ជ្រើស​ដល់ទៅ %d មតិ ក្នុង​ពេល​មួយ។</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="other">រាយការណ៍​មតិ</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="other">អ្នក​កំពុង​រាយការណ៍ %d មតិ។ យើង​នឹង​ត្រួតពិនិត្យ​មតិ​នេះ​សម្រាប់​ខ្លឹមសារ​មិន​សមរម្យ។</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="other">រាយការណ៍ %d មតិ?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="other">បាន​រាយការណ៍​មតិ</item>
+    </plurals>
+    <plurals name="c9">
+        <item quantity="other">បាន​ជ្រើស %d មតិ</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="other">មតិ %s</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="other">%s វីដេអូ</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="other">អ្នកប្រើប្រាស់ %s នាក់បាន​កំណត់ការរំលឹក</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="other">%s បែបផែន</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="other">ចំនួនមើលវីដេអូ</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="other">អ្នកតាមសុទ្ធ</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="other">ចូលចិត្ត</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cp">
+        <item quantity="other">10 នាទីទៀតទម្រាំដល់ LIVE របស់អ្នក៖ &quot;{0}&quot;។ អ្នកប្រើប្រាស់ {0} នាក់បានកំណត់​ការរំលឹក។</item>
+    </plurals>
+    <plurals name="cq">
+        <item quantity="other">ដល់ពេល LIVE ហើយ! អ្នកប្រើប្រាស់ {0} នាក់​បានកំណត់​ការរំលឹកសម្រាប់ &quot;{0}&quot;។</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="other">អ្នកប្រើប្រាស់ %s នាក់​បានកំណត់ការរំលឹក</item>
+    </plurals>
+    <plurals name="cs">
+        <item quantity="other">មាន​អ្នក​តាម​​យ៉ាង​តិច %d នាក់</item>
+    </plurals>
+    <plurals name="ct">
+        <item quantity="other">បង្ហោះ​យ៉ាងតិច %1$d វីដេអូ ក្នុង​ពេល %2$d ថ្ងៃ​ចុងក្រោយ</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="other">លុប​ការព្រាង?</item>
+    </plurals>
+    <plurals name="cv">
+        <item quantity="other">វីដេអូ​រួម​គ្នា​និង​វីដេអូកាត់បញ្ចូលគ្នា %d ត្រូវ​បាន​បង្កើត​ដោយ​ប្រើវីដេអូ​ដើម​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="cw">
+        <item quantity="other">អ្នក​អាច​ជ្រើសរើស​លុប​វីដេអូ​ទាំងនេះ​បន្ទាប់​ពី %d ថ្ងៃ។</item>
+    </plurals>
+    <plurals name="cx">
+        <item quantity="other">បើ​អ្នក​សង្គ្រោះ​គណនី​របស់​អ្នក​ក្នុង​ពេល %d ថ្ងៃ​បន្ទាប់ វីដេអូ​ទាំងនេះ​នឹង​ត្រូវ​បាន​ស្ដារ​មក​វិញ។</item>
+    </plurals>
+    <plurals name="cy">
+        <item quantity="other">គណនី​របស់​អ្នក​នឹង​ត្រូវ​បាន​បិទដំណើរការ​ក្នុង​ពេល %d ថ្ងៃ ហើយ​នឹង​មិន​អាច​ឲ្យ​សាធារណៈ​ឃើញ​ឡើយ។ ក្នុង​ពេល​បិទដំណើរការ អ្នក​អាច​បើកដំណើរការ​គណនី TikTok របស់​អ្នក​ឡើងវិញ នៅ​គ្រប់​ពេល។</item>
+    </plurals>
+    <plurals name="cz">
+        <item quantity="other">បន្ទាប់​ពី %d ថ្ងៃ គណនី​និង​ទិន្នន័យ​របស់​អ្នក​នឹង​ត្រូវ​បាន​លុប​ជា​រៀងរហូត។</item>
+    </plurals>
+    <plurals name="d0">
+        <item quantity="other">ត្រួតពិនិត្យ​កិច្ចការ​ទាំង %d នេះ មុនពេល​លុប​គណនី​របស់​អ្នក</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="other">%s បង្ហោះ</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="other">កូដ​សម្ងាត់មិនត្រឹមត្រូវ។ នៅសល់ការព្យាយាម %d ដងទៀត។</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="other">ការព្យាយាមច្រើនដងពេក​។​ ព្យាយាមម្ដងទៀតក្នុងពេល %d នាទី។</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="other">ទំនុកភ្លេង %d</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="other">តន្ត្រី %d</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="other">%d បទ</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="other">ចម្រៀង %d បទ</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="other">%d សំឡេង</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="other">ភ្លេង %d</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="other">ផ្ញើ (%d)</item>
+    </plurals>
+    <plurals name="db">
+        <item quantity="other">អ្នក​ទាំងពីរ​តាម %s និង %d ទៀត</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="other">%1$d កំពុងតាម · %2$d អ្នកតាម</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="other">ការលើកឡើងថ្មី @</item>
+    </plurals>
+    <plurals name="de">
+        <item quantity="other">%s វីដេអូ</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="other">បានផ្ញើសារថ្មី។</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="other">បានផ្ញើសារថ្មីមកអ្នក។</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="other">អ្នក​អាច​ជ្រើសរើសមនុស្សបានរហូតដល់ %d នាក់</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="other">ចោល​សេចក្ដីព្រាងឬ?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="other">លុប​សេចក្ដី​ព្រាង?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="other">ព្រាងវីដេអូ {#}</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="other">%1$s និង %2$s ទៀត​នឹង​ទទួល​ដំណឹង នៅពេល​វីដេអូ​នេះ​ត្រូវ​បាន​បង្ហោះ។</item>
+    </plurals>
+    <plurals name="dm">
+        <item quantity="other">%ss</item>
+    </plurals>
+    <plurals name="dn">
+        <item quantity="other">%d ទំនិញ</item>
+    </plurals>
+    <plurals name="do">
+        <item quantity="other">ចុះ {value}% លើ {number} ទំនិញ</item>
+    </plurals>
+    <plurals name="dp">
+        <item quantity="other">ចុះ {value}% លើ {number} ទំនិញ, ថែម {gapvalue} ទៀត ដើម្បី​រីករាយ​នឹង​ការបញ្ចុះថ្លៃ!</item>
+    </plurals>
+    <plurals name="dq">
+        <item quantity="other">ដោយ​ចុះ {value}% លើ {number} ទំនិញ អ្នក​បាន​សំចៃ {currency_mark}{savevalue}</item>
+    </plurals>
+    <plurals name="dr">
+        <item quantity="other">រីករាយ​នឹង​ការចុះ {value}% នៅពេល​អ្នក​ទិញ​លើសពី {number} ទំនិញ</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="other">ជ្រើស​យ៉ាងតិច %d ទំនិញ</item>
+    </plurals>
+    <plurals name="dt">
+        <item quantity="other">ទំនិញ {{required_quantity}}+</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="other">ការត្រួតពិនិត្យតាមដាន %d ថ្ងៃក្រោយមក</item>
+    </plurals>
+    <plurals name="dv">
+        <item quantity="other">ទំនិញមិនមាន​សិទ្ធិទេ</item>
+    </plurals>
+    <plurals name="dw">
+        <item quantity="other">អាច​ប្រើ​បាន​ក្នុង​ពេល {{num}} ថ្ងៃ</item>
+    </plurals>
+    <plurals name="dx">
+        <item quantity="other">{count} ពិន្ទុទៀត ដើម្បីរំកិលឡើងលំដាប់ថ្នាក់មួយ</item>
+    </plurals>
+    <plurals name="dy">
+        <item quantity="other">{count} ពិន្ទុទៀត ដើម្បីក្លាយជា Creator កំពូល</item>
+    </plurals>
+    <plurals name="dz">
+        <item quantity="other">ការលក់ធូរថ្លៃ​ពេលខ្លី​នឹង​ចាប់ផ្ដើម {{num}} នាទី​ទៀត</item>
+    </plurals>
+    <plurals name="e0">
+        <item quantity="other">ការលក់ធូរថ្លៃ​ពេលខ្លី​នឹង​ចាប់ផ្ដើម {num} នាទី​ទៀត</item>
+    </plurals>
+    <plurals name="e1">
+        <item quantity="other">ការលក់ធូរថ្លៃ​ពេលខ្លី​នឹង​ចាប់ផ្ដើម {{num}} នាទី​ទៀត</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="other">នឹង​ចប់ %s ថ្ងៃ​ទៀត</item>
+    </plurals>
+    <plurals name="e3">
+        <item quantity="other">យើង​នឹង​ផ្ញើ​ឲ្យ​អ្នក​នូវ​ការលោត​ជូន​ដំណឹង %s នាទី មុន​ពេល​ព្រឹត្តិការណ៍​នេះ​ចាប់ផ្ដើម។</item>
+    </plurals>
+    <plurals name="e4">
+        <item quantity="other">យើង​នឹង​ផ្ញើ​ឲ្យ​អ្នក​នូវ​ការលោត​ជូន​ដំណឹង %s នាទី មុន​ពេល​ព្រឹត្តិការណ៍​នេះ​ចាប់ផ្ដើម។</item>
+    </plurals>
+    <plurals name="e5">
+        <item quantity="other">យើង​នឹង​ផ្ញើ​ឲ្យ​អ្នក​នូវ​ការលោត​ជូន​ដំណឹង %s នាទី មុន​ពេល​ព្រឹត្តិការណ៍​នេះ​ចាប់ផ្ដើម</item>
+    </plurals>
+    <plurals name="e6">
+        <item quantity="other">សល់ {{count}} ថ្ងៃ</item>
+    </plurals>
+    <plurals name="e7">
+        <item quantity="other">អ្នក​ត្រូវ​បាន​អញ្ជើញ​ឲ្យ​លក់ {{count}} ផលិតផល​ខាងក្រោម ដែល​ផ្ដល់​គំរូ​ឥតគិតថ្លៃ។ ទទួលយក​ការអញ្ជើញ ដើម្បី​ទទួល​ពួកវា។</item>
+    </plurals>
+    <plurals name="e8">
+        <item quantity="other">ផលិតផល​នេះ​មិនមាន​ទេ។ ទាក់ទង​ក្រុមការងារ​គាំទ្រ​របស់​យើង ហើយ​សាកល្បង​ម្ដងទៀត។</item>
+    </plurals>
+    <plurals name="e9">
+        <item quantity="other">អ្វី​មួយ​ខុស​ប្រក្រតី​ជាមួយ​គំរូ​ឥតគិតថ្លៃ។ ទាក់ទង​ក្រុមការងារ​គាំទ្រ​របស់​យើង ហើយ​សាកល្បង​ម្ដងទៀត។</item>
+    </plurals>
+    <plurals name="e_">
+        <item quantity="other">នឹង​ចប់ {count} ថ្ងៃ​ទៀត</item>
+    </plurals>
+    <plurals name="ea">
+        <item quantity="other">នឹង​ចប់ {count} ម៉ោង​ទៀត</item>
+    </plurals>
+    <plurals name="eb">
+        <item quantity="other">នឹង​ចប់ {count} នាទី​ទៀត</item>
+    </plurals>
+    <plurals name="ec">
+        <item quantity="other">សល់ {count}</item>
+    </plurals>
+    <plurals name="ed">
+        <item quantity="other">{count} អ្នកស្នើ</item>
+    </plurals>
+    <plurals name="ee">
+        <item quantity="other">សំណងប្រាក់វិញ​របស់​អ្នក​ត្រូវ​បាន​ផ្ញើ​ទៅ {payment_method} និង​គិត​ថា​ដល់​ក្នុង​ពេល​ប្រហែល {count} ថ្ងៃ។</item>
+    </plurals>
+    <plurals name="ef">
+        <item quantity="other">បង់ប្រាក់ក្នុងការបង់រំលស់ %s</item>
+    </plurals>
+    <plurals name="eg">
+        <item quantity="other">ទំនិញមិនត្រឹមត្រូវ</item>
+    </plurals>
+    <plurals name="eh">
+        <item quantity="other">មិនអាចដឹកទំនិញនេះទៅកាន់អាសយដ្ឋានបានទេ។</item>
+    </plurals>
+    <plurals name="ei">
+        <item quantity="other">មិនអាចដឹកផលិតផលនេះទៅកាន់អាសយដ្ឋានបានទេ។</item>
+    </plurals>
+    <plurals name="ej">
+        <item quantity="other">អ្នក​បាន​ដាក់​ការបញ្ជាទិញ​ស្រដៀង​នេះ %s ម៉ោង​​មុន។ ការបញ្ជាទិញ​ពីមុន​កំពុង​រង់ចាំ​ការបង់ប្រាក់។</item>
+    </plurals>
+    <plurals name="ek">
+        <item quantity="other">អ្នក​បាន​ដាក់​ការបញ្ជាទិញ​ស្រដៀង​នេះ %s នាទី​​មុន។ ការបញ្ជាទិញ​ពីមុន​កំពុង​រង់ចាំ​ការបង់ប្រាក់។</item>
+    </plurals>
+    <plurals name="el">
+        <item quantity="other">អ្នកតាម</item>
+    </plurals>
+    <plurals name="em">
+        <item quantity="other">មើល</item>
+    </plurals>
+    <plurals name="en">
+        <item quantity="other">ច្បាប់</item>
+    </plurals>
+    <plurals name="eo">
+        <item quantity="other">សំណើ</item>
+    </plurals>
+    <plurals name="ep">
+        <item quantity="other">ជាមួយ {count}+ ទំនិញ</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="other">%1$s ទំនិញ, សុរប %2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="other">សរុប (%s ទំនិញ)</item>
+    </plurals>
+    <plurals name="es">
+        <item quantity="other">%d ផលិតផល​ខាងក្រោម​ត្រូវ​បាន​លុប។</item>
+    </plurals>
+    <plurals name="et">
+        <item quantity="other">%d ផលិតផល​ត្រូវ​បាន​លុប</item>
+    </plurals>
+    <plurals name="eu">
+        <item quantity="other">%d ផលិតផល​ខាងក្រោម​ត្រូវ​បាន​លុប។</item>
+    </plurals>
+    <plurals name="ev">
+        <item quantity="other">ផលិតផល​ត្រូវ​បាន​លុប (%d)</item>
+    </plurals>
+    <plurals name="ew">
+        <item quantity="other">%d ផលិតផល​ត្រូវ​បាន​លុប</item>
+    </plurals>
+    <plurals name="ex">
+        <item quantity="other">បាន​លុប %d ផលិតផល</item>
+    </plurals>
+    <plurals name="ey">
+        <item quantity="other">%d ផលិតផល​ខាងក្រោម​នឹង​ត្រូវ​បាន​លុប។ បញ្ជាក់​ការលុប ពុំនោះសោត វា​នឹង​មាន​ប្រសិទ្ធភាព​ដោយ​ស្វ័យប្រវត្តិ​នៅ {date}។</item>
+    </plurals>
+    <plurals name="ez">
+        <item quantity="other">%d ផលិតផល​នឹង​ត្រូវ​បាន​លុប</item>
+    </plurals>
+    <plurals name="f0">
+        <item quantity="other">%d ផលិតផល​នឹង​ត្រូវ​បាន​លុប​នៅ {date}</item>
+    </plurals>
+    <plurals name="f1">
+        <item quantity="other">%d ផលិតផល​នឹង​ត្រូវ​បាន​លុប</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="other">អ្នក​អាចកែត្រឹម %d ដង​ប៉ុណ្ណោះ</item>
+    </plurals>
+    <plurals name="f3">
+        <item quantity="other">បាន​ប្រើ​ចំពោះ​ស្ទីកឃ័រអត្ថបទ​ទាំងអស់</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="other">មើលបែបផែន​មួយជាមុន​ក្នុង​ពេល %ds</item>
+    </plurals>
+    <plurals name="f6">
+        <item quantity="other">%1$s៖ %2$s, %3$s, %4$s និង​អ្នកដទៃ​បាន​បង្ហោះ​វីដេអូ​ថ្មី %5$d។</item>
+    </plurals>
+    <plurals name="f7">
+        <item quantity="other">%1$s៖ %2$s បានបង្ហោះវីដេអូថ្មី %3$d។</item>
+    </plurals>
+    <plurals name="f8">
+        <item quantity="other">%1$s៖ %2$s, %3$s និង %4$s បាន​បង្ហោះ​វីដេអូ​ថ្មី %5$d។</item>
+    </plurals>
+    <plurals name="f9">
+        <item quantity="other">%1$s៖ %2$s និង %3$s បាន​បង្ហោះ​វីដេអូ​ថ្មី %4$d។</item>
+    </plurals>
+    <plurals name="f_">
+        <item quantity="other">អ្នកមានអ្នក​តាមថ្មី %d នាក់។</item>
+    </plurals>
+    <plurals name="fa">
+        <item quantity="other">អ្នកបាន​ទទួល​ការចូលចិត្តថ្មី %d។</item>
+    </plurals>
+    <plurals name="fb">
+        <item quantity="other">អ្នក​មាន​ការជូនដំណឹង​ថ្មី %d កំពុង​រង់ចាំ​អ្នក។</item>
+    </plurals>
+    <plurals name="fc">
+        <item quantity="other">យើងបានរកឃើញ %d វីដេអូ ដែល​យើង​គិត​ថា​អ្នក​អាច​​ចូលចិត្ត។</item>
+    </plurals>
+    <plurals name="fd">
+        <item quantity="other">%1$s៖ %2$d វីដេអូ ដែល​អ្នក​អាច​ចូលចិត្ត។</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="other">បាន​ដាក់​ស្លាក</item>
+    </plurals>
+    <plurals name="ff">
+        <item quantity="other">%d បាន​ចុះឈ្មោះ</item>
+    </plurals>
+    <plurals name="fg">
+        <item quantity="other">%d បាន​ចុះឈ្មោះ</item>
+    </plurals>
+    <plurals name="fh">
+        <item quantity="other">បាន​ចុះឈ្មោះ​សម្រាប់​ព្រឹត្តិការណ៍​នេះ</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="other">អ្នក​អាច​ស្គាល់​សមាជិក​ក្រុម​ទាំងនេះ។</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="other">%s វីដេអូ</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="other">បាន​បញ្ចូល %s ​វីដេអូ</item>
+    </plurals>
+    <plurals name="fl">
+        <item quantity="other">លុប %d វីដេអូ​ពី %s</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="other">លុបវីដេអូ %1$d ពី %2$s</item>
+    </plurals>
+    <plurals name="fn">
+        <item quantity="other">បាន​ផ្លាស់ទី %d ​វីដេអូ​ទៅ %s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="other">បាន​ផ្លាស់ទីវីដេអូ %1$d ​ទៅ %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="other">បាន​លុបវីដេអូ %d</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="other">គណនីដែលបានណែនាំថ្មី %d</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="other">តាមដោយ %s + %d ទៀត</item>
+    </plurals>
+    <plurals name="fs">
+        <item quantity="other">អ្នកតាម</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="other">តាម %s + %d ទៀត</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="other">តាម​ដោយ {0}, {1} និង {2} ទៀត</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="other">តាម​ដោយ {0} និង {2} ទៀត</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="other">តាម {0}, {1} និង {2} ទៀត</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="other">តាម {0} និង {2} ទៀត</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="other">មិត្តភក្ដិ​ជាមួយ {0}, {1} និង {2} ទៀត</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="other">មិត្តភក្ដិ​ជាមួយ {0} និង {2} ទៀត</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="other">ការភ្ជាប់​ទៅវិញ​ទៅមក {2}</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="other">មិត្តភក្ដិជាមួយ %s + %d ទៀត</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="other">%d ការបង្ហោះ​ថ្មី​ពី​មិត្តភក្ដិ​</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="other">សមាជិក %d នាក់កំពុងសកម្មឥឡូវ</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="other">សមាជិក %1$d នាក់សកម្ម %2$d នាទីមុន</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="other">សមាជិក %d នាក់កំពុងសកម្មនៅថ្ងៃនេះ</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="other">សមាជិក %d នាក់</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="other">សំណើថ្មី</item>
+    </plurals>
+    <plurals name="g8">
+        <item quantity="other">សមាជិក</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="other">សមាជិក %s នាក់</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="other">មើលសមាជិក %d នាក់ទៀត</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="other">%s មើល</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="other">អ្នកតាម៖ %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="other">វីដេអូ៖ %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="other">បាន​ផ្ញើ​ឱ្យ %s និង %d នាក់​ទៀត</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="other">មិន​អា​ច​បញ្ជូន Stories %d បានទេ។ Stories ត្រូវ​បាន​រក្សាទុកក្នុង​សេចក្ដី​ព្រាង​របស់​អ្នក។​</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="other">មិនអាចបញ្ជូនរូបថតបានទេ។ រូបថត​ត្រូវបានរក្សាទុក​ទៅ​សេចក្ដីព្រាងរបស់អ្នក។</item>
+    </plurals>
+    <plurals name="gg">
+        <item quantity="other">អ្នកតាម %s នាក់</item>
+    </plurals>
+    <plurals name="gh">
+        <item quantity="other">%d វីដេអូ</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="other">ស្ទីកឃ័រ %d</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="other">បាន​លើក​ឡើង​ពី​អ្នក​ក្នុងរូបថត។</item>
+    </plurals>
+    <plurals name="gk">
+        <item quantity="other">%1$s តាម %2$s និង %3$d ទៀត។ មើល​ប្រវត្តិរូប​របស់​ពួកគេ។</item>
+    </plurals>
+    <plurals name="gl">
+        <item quantity="other">%2$s និង %3$d ទៀត​បាន​តាម %1$s។ មើល​ប្រវត្តិរូប​របស់​ពួកគេ។</item>
+    </plurals>
+    <plurals name="gm">
+        <item quantity="other">%1$s គឺ​ជា​មិត្តភក្ដិ​ជាមួយ %2$s និង %3$d ទៀត។ មើល​ប្រវត្តិរូប​របស់​ពួកគេ។</item>
+    </plurals>
+    <plurals name="gn">
+        <item quantity="other">%2$s, %3$s និង %4$d នាក់​ទៀត​បាន​តាម %1$s។ មើល​ប្រវត្តិរូប​របស់​ពួកគេ។</item>
+    </plurals>
+    <plurals name="go">
+        <item quantity="other">%1$s តាម %2$s, %3$s និង %4$d នាក់​ទៀត។ មើល​ប្រវត្តិរូប​របស់​ពួកគេ។</item>
+    </plurals>
+    <plurals name="gp">
+        <item quantity="other">%1$s គឺ​ជា​មិត្តភក្ដិ​ជាមួយ %2$s, %3$s និង %4$d នាក់​ទៀត។ មើល​ប្រវត្តិរូប​របស់​ពួកគេ។</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="other">សារបង្ហោះ​ថ្មី %s</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="other">សកម្មភាព</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="other">តាម %1$s, %2$s និង %d ផ្សេងទៀត ដែល​អ្នក​អាច​ស្គាល់ ដើម្បី​មើល​វីដេអូ​របស់​ពួកគេ។</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="other">%d ទៀត</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="other">តាម %1$s, %2$s និង %3$d ផ្សេងទៀត ដែល​អ្នក​អាច​ស្គាល់ ដើម្បី​មើល​វីដេអូ​របស់​ពួកគេ។</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="other">សារ</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="other">សកម្មភាព​ថ្មី</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="other">សមាជិក %s នាក់</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="other">%s បង្ហោះ</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="other">ពាក្យ​គន្លឹះ %d</item>
+    </plurals>
+    <plurals name="h1">
+        <item quantity="other">{0} ({1}) បាន​ចាប់ផ្ដើម​តាម​អ្នក។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="h2">
+        <item quantity="other">{0} ({1}) បាន​ចាប់ផ្ដើម​តាម​អ្នក។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="h3">
+        <item quantity="other">{0} ({1}) បាន​ចាប់ផ្ដើម​តាម​អ្នក។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="h4">
+        <item quantity="other">{0} ({1}) បាន​ចាប់ផ្ដើម​តាម​អ្នក។ អ្នក​ទាំងពីរ​តាម ​{2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="h5">
+        <item quantity="other">បាន​បញ្ចេញ​មតិ​លើ​វីដេអូ​របស់​អ្នក។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="h6">
+        <item quantity="other">បាន​បញ្ចេញ​មតិ​លើ​វីដេអូ​របស់​អ្នក។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="h7">
+        <item quantity="other">បាន​បញ្ចេញ​មតិ​លើ​វីដេអូ​របស់​អ្នក។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="h8">
+        <item quantity="other">បាន​បញ្ចេញ​មតិ​លើ​វីដេអូ​របស់​អ្នក។ អ្នក​ទាំងពីរ​តាម {2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="h9">
+        <item quantity="other">បាន​បង្កើត​ឌ្យូអេត​មួយ​ជាមួយ​អ្នក។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="h_">
+        <item quantity="other">បាន​បង្កើត​ឌ្យូអេត​មួយ​ជាមួយ​អ្នក។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="ha">
+        <item quantity="other">បាន​បង្កើត​ឌ្យូអេត​មួយ​ជាមួយ​អ្នក។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="hb">
+        <item quantity="other">បាន​បង្កើត​ឌ្យូអេត​មួយ​ជាមួយ​អ្នក។ អ្នក​ទាំងពីរ​តាម {2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="hc">
+        <item quantity="other">បាន​ចូលចិត្ត​វីដេអូ​របស់​អ្នក។ អ្នក​ទាំងពីរ​តាម {2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="hd">
+        <item quantity="other">បាន​ចូលចិត្ត​វីដេអូ​របស់​អ្នក។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="he">
+        <item quantity="other">បាន​ចូលចិត្ត​វីដេអូ​របស់​អ្នក។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="hf">
+        <item quantity="other">បាន​ចូលចិត្ត​វីដេអូ​របស់​អ្នក។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="hg">
+        <item quantity="other">បាន​លើកឡើង​ពី​អ្នក​ក្នុង​មតិ​មួយ។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="hh">
+        <item quantity="other">បាន​លើកឡើង​ពី​អ្នក​ក្នុងមតិមួយ។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="hi">
+        <item quantity="other">បាន​លើកឡើង​ពី​អ្នក​ក្នុងមតិមួយ។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="hj">
+        <item quantity="other">បាន​លើកឡើង​ពី​អ្នក​ក្នុងមតិមួយ។ អ្នក​ទាំងពីរ​តាម {2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="hk">
+        <item quantity="other">[ការភ្ជាប់ទៅវិញ​ទៅមក {3}]</item>
+    </plurals>
+    <plurals name="hl">
+        <item quantity="other">[ទាំងពីរ​នាក់​តាម​ដោយ {2} និង {3} ទៀត]</item>
+    </plurals>
+    <plurals name="hm">
+        <item quantity="other">[ទាំងពីរ​នាក់​តាម {2} និង {3} ទៀត]</item>
+    </plurals>
+    <plurals name="hn">
+        <item quantity="other">{0} បាន​ចាប់ផ្ដើម​តាម​អ្នក។ អ្នក​ទាំងពីរ​តាម ​{2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="ho">
+        <item quantity="other">{0} បាន​ចាប់ផ្ដើម​តាម​អ្នក។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="hp">
+        <item quantity="other">{0} បាន​ចាប់ផ្ដើម​តាម​អ្នក។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="hq">
+        <item quantity="other">{0} បាន​ចាប់ផ្ដើម​តាម​អ្នក។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="hr">
+        <item quantity="other">[ទាំងពីរ​នាក់​គឺ​ជា​មិត្តភក្ដិ​ជាមួយ {2} និង {3} ទៀត]</item>
+    </plurals>
+    <plurals name="hs">
+        <item quantity="other">{0} ({1}) បាន​ផ្ញើឲ្យ​អ្នក​នូវ​សំណើ​តាម​មួយ។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="ht">
+        <item quantity="other">{0} ({1}) បាន​ផ្ញើឲ្យ​អ្នក​នូវ​សំណើ​តាម​មួយ។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="hu">
+        <item quantity="other">{0} ({1}) បាន​ផ្ញើឲ្យ​អ្នក​នូវ​សំណើ​តាម​មួយ។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="hv">
+        <item quantity="other">{0} ({1}) បាន​ផ្ញើឲ្យ​អ្នក​នូវ​សំណើ​តាម​មួយ។ អ្នក​ទាំងពីរ​តាម ​{2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="hw">
+        <item quantity="other">{0} ({1}) បាន​ចាប់ផ្ដើម​តាម​អ្នក។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="hx">
+        <item quantity="other">{0} ({1}) បាន​ចាប់ផ្ដើម​តាម​អ្នក។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="hy">
+        <item quantity="other">{0} ({1}) បាន​ចាប់ផ្ដើម​តាម​អ្នក។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="hz">
+        <item quantity="other">{0} ({1}) បាន​ចាប់ផ្ដើម​តាម​អ្នក។ អ្នក​ទាំងពីរ​តាម ​{2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="i0">
+        <item quantity="other">{0} បាន​ទទួលយក​សំណើ​តាម​របស់​អ្នក។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="i1">
+        <item quantity="other">{0} បាន​ទទួលយក​សំណើ​តាម​របស់​អ្នក។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="i2">
+        <item quantity="other">{0} បាន​ទទួលយក​សំណើ​តាម​របស់​អ្នក។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="i3">
+        <item quantity="other">{0} បាន​ទទួលយក​សំណើ​តាម​របស់​អ្នក។ អ្នក​ទាំងពីរ​តាម ​{2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="i4">
+        <item quantity="other">{0} បាន​ផ្ញើឲ្យ​អ្នក​នូវ​សំណើ​តាម​មួយ។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="i5">
+        <item quantity="other">{0} បាន​ផ្ញើឲ្យ​អ្នក​នូវ​សំណើ​តាម​មួយ។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="i6">
+        <item quantity="other">{0} បាន​ផ្ញើឲ្យ​អ្នក​នូវ​សំណើ​តាម​មួយ។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="i7">
+        <item quantity="other">{0} បាន​ផ្ញើឲ្យ​អ្នក​នូវ​សំណើ​តាម​មួយ។ អ្នក​ទាំងពីរ​តាម ​{2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="i8">
+        <item quantity="other">បាន​ឆ្លើយតប​នឹង​មតិ​របស់​អ្នក។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="i9">
+        <item quantity="other">បាន​ឆ្លើយតប​នឹង​មតិ​របស់​អ្នក។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="i_">
+        <item quantity="other">បាន​ឆ្លើយតប​នឹង​មតិ​របស់​អ្នក។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="ia">
+        <item quantity="other">បាន​ឆ្លើយតប​នឹង​មតិ​របស់​អ្នក។ អ្នក​ទាំងពីរ​តាម {2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="ib">
+        <item quantity="other">បាន​ឆ្លើយតប​នឹង​មតិ​របស់​អ្នក​ជា​វីដេអូ​មួយ។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="ic">
+        <item quantity="other">បាន​ឆ្លើយតប​នឹង​មតិ​របស់​អ្នក​ជា​វីដេអូ​មួយ។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="id">
+        <item quantity="other">បាន​ឆ្លើយតប​នឹង​មតិ​របស់​អ្នក​ជា​វីដេអូ​មួយ។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="ie">
+        <item quantity="other">បាន​ឆ្លើយតប​នឹង​មតិ​របស់​អ្នក​ជា​វីដេអូ​មួយ។ អ្នក​ទាំងពីរ​តាម {2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="if">
+        <item quantity="other">បាន​លើកឡើង​ពី​អ្នក​ក្នុង​វីដេអូ​មួយ។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="ig">
+        <item quantity="other">បាន​លើកឡើង​ពី​អ្នក​ក្នុង​វីដេអូ​មួយ។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="ih">
+        <item quantity="other">បាន​លើកឡើង​ពី​អ្នក​ក្នុង​វីដេអូ​មួយ។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="ii">
+        <item quantity="other">បាន​លើកឡើង​ពី​អ្នក​ក្នុង​វីដេអូ​មួយ។ អ្នក​ទាំងពីរ​តាម {2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="ij">
+        <item quantity="other">បាន​បោះឆ្នោត​សម្រាប់​​វីដេអូ​របស់​អ្នក។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="ik">
+        <item quantity="other">បាន​ឆ្លើយតប​ជា​វីដេអូ​មួយ​ចំពោះ​​មតិ​​ដែល​អ្នក​បាន​ឆ្លើយតប​ផងដែរ។ អ្នក​មាន​ការភ្ជាប់​ទៅវិញទៅមក {3}។</item>
+    </plurals>
+    <plurals name="il">
+        <item quantity="other">បាន​ឆ្លើយតប​ជា​វីដេអូ​មួយ​ចំពោះ​​មតិ​​ដែល​អ្នក​បាន​ឆ្លើយតប​ផងដែរ។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="im">
+        <item quantity="other">បាន​ឆ្លើយតប​ជា​វីដេអូ​មួយ​ចំពោះ​​មតិ​​ដែល​អ្នក​បាន​ឆ្លើយតប​ផងដែរ។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="in">
+        <item quantity="other">បាន​ឆ្លើយតប​ជា​វីដេអូ​មួយ​ចំពោះ​​មតិ​​ដែល​អ្នក​បាន​ឆ្លើយតប​ផងដែរ។ អ្នក​ទាំងពីរ​តាម {2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="io">
+        <item quantity="other">បាន​បោះឆ្នោត​សម្រាប់​​វីដេអូ​របស់​អ្នក។ {2} និង {3} ទៀត កំពុង​តាម​ពួកគេ។</item>
+    </plurals>
+    <plurals name="ip">
+        <item quantity="other">បាន​បោះឆ្នោត​សម្រាប់​​វីដេអូ​របស់​អ្នក។ {2} និង {3} ទៀត គឺជា​មិត្តភក្ដិ​ជាមួយ​ពួកគេ។</item>
+    </plurals>
+    <plurals name="iq">
+        <item quantity="other">បាន​បោះឆ្នោត​សម្រាប់​​វីដេអូ​របស់​អ្នក។ អ្នក​ទាំងពីរ​តាម {2} និង {3} ទៀត។</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="other">វីដេអូ LIVE %d</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="other">នឹង​ចប់ %s ថ្ងៃ​ទៀត</item>
+    </plurals>
+    <plurals name="it">
+        <item quantity="other">%d ទំនិញ</item>
+    </plurals>
+    <plurals name="iu">
+        <item quantity="other">កំពុង​​ផ្ញើ​ឲ្យ %s និង %d នាក់​ទៀត...</item>
+    </plurals>
+    <plurals name="iv">
+        <item quantity="other">បាន​ផ្ញើ​ឲ្យ %s និង %d នាក់​ទៀត</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="other">អ្នក​អាច​ជ្រើសរើស​ឯកសារ​មេឌៀ​បាន​ត្រឹម​តែ %1$d ប៉ុណ្ណោះ</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="other">%d សំណើ</item>
+    </plurals>
+    <plurals name="iz">
+        <item quantity="other">អ្នក​អាច​ប្រគល់ %d វីដេអូ​ទៀត</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="other">ដកការជ្រើសរើសចម្រៀងថាថ្មីឬ?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="other">បានដកការជ្រើសរើសចម្រៀង %d បទថាថ្មី</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="other">ការចេញផ្សាយ %d</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="other">%d សិល្បករ</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="other">ការភ្ជាប់​ទៅវិញ​ទៅមក %d</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="other">ការភ្ជាប់​ទៅវិញ​ទៅមក %d</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="other">ឥឡូវ អ្នក​អាច​បញ្ជូនវីដេអូប្រវែងរហូតដល់ %d នាទី!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="other">សូម​ណែនាំ​វីដេអូ %d នាទី</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="other">ការភ្ជាប់​ទៅវិញ​ទៅមក %d</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="other">%d មតិ</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="other">បង្ហាញមតិទាំងអស់ %d</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="other">{nickname} និង {number_1} ទៀត</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="other">មិត្តភក្ដិ {number} នាក់​​បាន​បង្ហោះ Now នៃ​ថ្ងៃនេះ</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="other">%1$s និង %2$d ទៀត ​បាន​បង្ហោះ Now របស់​ពួកគេ</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="other">{nickname} និង {number_1} ទៀត</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="other">ចូលរួម​ជាមួយ​មិត្តភក្ដិ {number} នាក់​លើ TikTok Now ដើម្បី​ចែករំលែកខណៈ​ចៃដន្យ</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="other">បង្ហោះ Now របស់​អ្នក​ក្នុង​ពេល {number}​នាទី​បន្ទាប់</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="other">សល់ %dនាទី ដើម្បីបង្ហោះ Now មួយ។</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="other">%d មិត្តភក្ដិទៅវិញទៅមក</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="other">%d ចូលចិត្ត</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="other">{1}, {2}, {3} និង {number} ទៀត ទើប​បាន​បង្ហោះ Now មួយ។</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="other">%d ប្រតិកម្ម</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="other">%d មើល</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="other">%d មើល</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="other">%1$s និង %2$s ទៀត</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="other">ការបង្ហោះរបស់អ្នកដែលបានធ្វើសមកាលកម្មពី Lemon8 មិនមានសំឡេងនៅឡើយទេ។ បញ្ចូលសំឡេង ដើម្បីធ្វើឱ្យ​ការបង្ហោះរបស់អ្នក​កាន់តែទាក់ទាញ​សម្រាប់អ្នកមើល។</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="other">បញ្ចូលសំឡេង ដើម្បីកែលម្អការបង្ហោះរបស់អ្នក</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="other">បាន​ចូលចិត្ត​រូបថត​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="other">បាន​បោះឆ្នោត​សម្រាប់រូបថតរបស់​អ្នក។</item>
+    </plurals>
+    <plurals name="jt">
+        <item quantity="other">ថែម​វីដេអូ (%s)</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="other">%d ភាគ</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="other">%d ផ្នែក</item>
+    </plurals>
+    <plurals name="jw">
+        <item quantity="other">លុប​វីដេអូ (%s)</item>
+    </plurals>
+    <plurals name="jx">
+        <item quantity="other">%s មើល</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="other">អ្នកអាចផ្ញើវា %d ដងទៀត</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="other">អ្នកមើល %d នាក់បានស្នើ</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="other">សិទ្ធិចូលប្រើនឹងត្រូវបានស្ដារក្នុងរយៈពេល %s ថ្ងៃ</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="other">%s កាក់ពីអ្នកមើលកំពូលលេខ 1</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="other">%s កាក់ពីអ្នកមើលកំពូលលេខ 2</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="other">អ្នកតាម %s នាក់</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="other">ទិញទំនិញ {number} ដែលមាន</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="other">ទិញទំនិញ {number} ដែលមាន</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="other">កាក់ %s ត្រូវបានផ្តល់ទៅឱ្យ LIVE creator</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="other">ការចូលចិត្ត %s</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="other">អ្នកមើលចំនួន %s នាក់</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="other">ការចែករំលែក %s។ ចែករំលែកវីដេអូ</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="other">%1$s បានបោះឆ្នោតឱ្យ %2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="other">%1$s បានបោះឆ្នោតឱ្យ %2$s, %3$s បានបោះឆ្នោតឱ្យ %4$s</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="other">ក្នុងរយៈពេល %d នាទី</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="other">ពិន្ទុបទពិសោធន៍ %d ទៀត ដើម្បីឡើងកម្រិត</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="other">រង្វាន់របស់អ្នកនឹងអសកម្មក្នុងរយៈពេល %d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="other">បញ្ចប់ LIVE ឬ? អ្នកមើល %s នាក់កំពុងមើល។</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="other">បញ្ចប់ LIVE ឬ? អ្នកមើល %s នាក់កំពុងមើល។</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="other">សារ​ថ្មី %s</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="other">បានផ្សាយរួម {num} ថ្ងៃជាប់ៗគ្នា</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="other">នៅខ្វះ {number} កាក់</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="other">ចំនួនខ្ពស់បំផុតរបស់អ្នកក្នុងរយៈពេល {number} ថ្ងៃចុងក្រោយនេះ៖ {amount} កាក់</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="other">បានណែនាំ៖ {amount} កាក់</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="other">អ្នកមានកាក់ចំនួន {number} ឥឡូវនេះ។ អ្នកអាចបញ្ចូលទឹកប្រាក់ ដើម្បីទទួលបានកាក់បន្ថែមទៀត។</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="other">ការទាយត្រឹមត្រូវ (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="other">ការទាយត្រឹមត្រូវចំនួន %s</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="other">អ្នកមើល %s នាក់បានទាយវា ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="other">អ្នកមើលភាគច្រើនបានទាយ %s ពាក្យ</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="other">មិនមានអ្នកមើលណាម្នាក់បានទាយពាក្យនោះទេ</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="other">%s នាទីដើម្បីគូរពាក្យមួយ</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="other">�� អ្នកមើល %d នាក់បានទាយ %s</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="other">ខ្ញុំបានទាយ %s ពាក្យ!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="other">អ្នកបានទាយ %s ពាក្យ</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="other">អ្នកទិញ {0:string} នាក់ និង {1:string} នាក់ផ្សេងទៀតកំពុងទិញ</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="other">រូបភាព %d មានទំហំតូចពេក។ រូបភាព ត្រូវតែមានទំហំយ៉ាងហោចណាស់ 256 x 256 ភីកសែល។</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="other">អ្នកមើល %d</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="other">អ្នកមាន %d កាក់។</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="other">អ្នកអាចប្តូរ %@ យក %d កាក់បន្ថែមទៀត ដើម្បីផ្ញើកាដូនេះ។</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="other">សមតុល្យកាដូពី LIVE ត្រូវបានប្តូរយកកាក់ {{num}}</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="other">អ្នកនៅខ្វះកាក់ %1$d ទៀត។ ប្ដូរ %2$s យកកាក់ ហើយផ្ញើ %3$s មែនទេ？</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="other">អ្នកបានប្តូរយក %d កាក់ ហើយផ្ញើ %s</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="other">សមាជិក %s នាក់</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="other">បានស្ថិតនៅជាមួយអ្នកអស់រយៈពេល {num} ថ្ងៃហើយ</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="other">ទទួលបានពិន្ទុសមាជិក 1 ពិន្ទុក្នុងរយៈពេល {num} ម៉ោង ដើម្បីបន្តសកម្មភាព</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="other">អាចផ្ញើវាបានដោយប្រើ %1$d កាក់ចំនួន %2$d ដងទៀត។</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="other">អ្នកតាម %d នាក់កំពុងសកម្មឥឡូវ</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="other">មិត្តភក្តិ {number} នាក់របស់អ្នកកំពុង LIVE។ អញ្ជើញពួកគេឱ្យចូល LIVE រួមគ្នា!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="other">ដោះសោ {num} កាក់បន្ថែមតាមរយៈការបញ្ចូលប្រាក់</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="other">{num} ថ្ងៃ</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="other">ដោះសោ {num} កាក់</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="other">{num} កាក់</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="other">អ្នកនឹងដោះសោ {num} កាក់បន្ថែម។</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="other">បញ្ចូល {num_1} កាក់បន្ថែម។</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="other">បញ្ចូលទឹកប្រាក់ ដើម្បីដោះសោ {num} កាក់បន្ថែម</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="other">{number} ថ្ងៃចុងក្រោយ</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="other">តម្លៃ {gameName} និង {number} ផ្សេងទៀតបានផ្លាស់ប្តូរហើយ។ មើលច្រើនទៀតនៅក្នុងមជ្ឈមណ្ឌលភាពជាដៃគូ។</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="other">ការឱ្យកាដូត្រូវបានព្យួររយៈពេល %s ថ្ងៃនៅក្នុង LIVE របស់អ្នកសម្រាប់ការបំពានលក្ខខណ្ឌកម្មវិធី។</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="other">ការឱ្យកាដូត្រូវបានព្យួរនៅក្នុង LIVE នេះ ហើយនឹងត្រូវបានស្ដារឡើងវិញក្នុងរយៈពេល %s នាទី។</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="other">ការឱ្យកាដូត្រូវបានព្យួររយៈពេល {0} ថ្ងៃ។</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="other">ការឱ្យកាដូត្រូវបានព្យួររយៈពេល %s ថ្ងៃ</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="other">ផ្ញើដោយប្រើ %d កាក់</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="other">ការបញ្ចូលប្រាក់បានបញ្ចប់ ហើយអ្នកមាន %d កាក់ឥឡូវនេះ។ ផ្ញើកាដូនេះ ដើម្បីបង្ហាញការគាំទ្ររបស់អ្នក!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="other">ការប្ដូរប្រាក់បានបញ្ចប់ ហើយអ្នកមាន %d កាក់ឥឡូវនេះ។ ផ្ញើកាដូនេះ ដើម្បីបង្ហាញការគាំទ្ររបស់អ្នក!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="other">{0:user} បានផ្ញើ {1:gift} ({2:string} ពិន្ទុ) {3:string} ដែលជាកាដូទីមួយ ដែលពួកគេបានផ្ញើ។ សូមបង្ហាញពីការថ្លែងអំណរគុណរបស់អ្នក!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="other">{0:user} បានផ្ញើ {1:gift} ({2:string} ពិន្ទុ) {3:string}</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="other">{0:user} បានផ្ញើ {1:gift} ({2:string} ពិន្ទុ) {3:string}</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="other">{0:user} បានផ្ញើ {1:gift} ({2:string} ពិន្ទុ) {3:string} និងបានធ្វើដំណើរទៅ {4:city} ជាមួយ creator ជាលើកដំបូងនៅក្នុងដំណើរកម្សាន្តនេះ!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="other">ពត៌មានលំអិតអំពីកាដូ ({{num}} ប្រតិបត្តិការសរុប)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="other">{amount} កាក់</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="other">កាដូ</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="other">%d កាក់</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="other">អ្នកបានទទួលកាដូ %s។ កុំភ្លេចនិយាយអរគុណ។</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="other">អ្នកបានទទួលកាដូ %s</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="other">បញ្ចប់​ការប្ដូរយក %s កាក់ឬ?</item>
+    </plurals>
+    <plurals name="lz">
+        <item quantity="other">បញ្ចប់ការប្ដូរយក %d កាក់ឬ?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="other">ចូល LIVE (%ds)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="other">សំណើពីភ្ញៀវ %s នាក់</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="other">សំណើចំនួន %s</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="other">%s ពិន្ទុ</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="other">%1$s ពិន្ទុដើម្បីឈានដល់ %2$s</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="other">អ្នកមើល %d នាក់កំពុងស្នើសុំ</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="other">អ្នកត្រូវបាន​ផ្អាកពី​ការផ្សាយ LIVE ជាភ្ញៀវ រហូតដល់ %d ថ្ងៃក្រោយ</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="other">អ្នកត្រូវបាន​ផ្អាកពី​ការផ្សាយ LIVE ជាភ្ញៀវ រហូតដល់ %d ម៉ោងក្រោយ</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="other">អ្នកត្រូវបាន​ផ្អាកពី​ការផ្សាយ LIVE ជាភ្ញៀវ រហូតដល់ %d នាទីក្រោយ</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="other">អ្នកត្រូវបាន​ផ្អាកពី​ការផ្សាយ LIVE ជាភ្ញៀវ រហូតដល់ %d វិនាទីក្រោយ</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="other">ឧបករណ៍</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="other">[username] និងអ្នកតាម [number] បានជំរុញអ្នកឱ្យចូល LIVE</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="other">[username] និងអ្នកតាម [number] នាក់ថ្មីៗនេះបានជំរុញអ្នកឱ្យចូល LIVE</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="other">ប្រសិនបើអ្នកទទួលយកការអញ្ជើញ នោះ LIVE Creator ទាំងនេះចូលរួមជាមួយការផ្សាយរួមបច្ចុប្បន្នរបស់អ្នក។</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="other">{number} ថ្ងៃ</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="other">នៅជំហានបន្ទាប់ នៅពេលដែលអ្នកចាកចេញពីទំព័រ គូប៉ុងរបស់អ្នកនឹងអាចប្រើបានម្តងទៀតក្នុងរយៈពេល {number} ថ្ងៃ។</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="other">នៅជំហានបន្ទាប់ នៅពេលដែលអ្នកចាកចេញពីទំព័រ គូប៉ុងរបស់អ្នកនឹងអាចប្រើបានម្តងទៀតក្នុងរយៈពេល {number} ម៉ោង។</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="other">នៅជំហានបន្ទាប់ នៅពេលដែលអ្នកចាកចេញពីទំព័រ គូប៉ុងរបស់អ្នកនឹងអាចប្រើបានម្តងទៀតក្នុងរយៈពេល {number} នាទី។</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="other">គូប៉ុងនេះនឹងអាចប្រើបានម្តងទៀតក្នុងរយៈពេល {number} ថ្ងៃ</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="other">គូប៉ុងនេះនឹងអាចប្រើបានម្តងទៀតក្នុងរយៈពេល {number} ម៉ោង</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="other">គូប៉ុងនេះនឹងអាចប្រើបានម្តងទៀតក្នុងរយៈពេល {number} នាទី</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="other">ការចូលចិត្ត %s</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="other">ការចូលចិត្ត</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="other">ការចូលចិត្ត %s</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="other">%d វិ</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="other">ពាក្យសុំ LIVE របស់អ្នក មិនបានទទួលការយល់ព្រមទេ។ អ្នកអាចស្នើសុំម្ដងទៀត %d ថ្ងៃទៀត។</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="other">អ្នក​បាន​ស្នើសុំ​​ការចូលប្រើ LIVE និង​អាច​ចូល LIVE 7 ថ្ងៃ​បន្ទាប់។ សូម​ចងចាំ​ថា​ត្រូវ​គោរព​តាម​គោលការណ៍​ណែនាំ​សហគមន៍ និង​ចូល LIVE លើសពី %d ម៉ោង នៅ​សប្ដាហ៍​ដំបូង​របស់​អ្នក ដើម្បី​អាច​ចូលប្រើ​ជា​បន្តបន្ទាប់។</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="other">ចាប់ផ្ដើម LIVE រយៈពេល %d ម៉ោងថែមទៀតដោយ %s ដើម្បីទទួលបានសិទ្ធិចូលប្រើ LIVE ជាបន្តបន្ទាប់</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="other">ចូល LIVE រយៈពេល %1$s ម៉ោងបន្ថែម ត្រឹម %2$s ដើម្បីទទួលបានសិទ្ធិចូលប្រើប្រាស់ LIVE</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="other">%s ពិន្ទុ</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="other">{%s host username} ត្រូវការ {%d} កាក់ដើម្បីក្លាយជា LIVE creator លេខ {%n} នៅសប្ដាហ៍នេះ!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="other">នៅសល់ 1 ថ្ងៃទៀត។ ទទួលបានពេជ្រ {%d} គ្រាប់បន្ថែមទៀត ដើម្បីក្លាយជា LIVE creator ​​លេខ 3 និងឈ្នះគ្រឿងសម្គាល់ផ្តាច់មុខនៅលើវីដេអូរបស់អ្នក។</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="other">នៅសល់ 1 ថ្ងៃទៀត។ ទទួលបានពេជ្រ {%d} គ្រាប់បន្ថែមទៀត ដើម្បីឱ្យ LIVE របស់​អ្នកផ្សាយ​ទៅដល់អ្នកមើលសក្តានុពលកាន់តែច្រើន។</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="other">នៅសល់ 1 ថ្ងៃទៀត។ ទទួលបានពេជ្រ {%d} គ្រាប់បន្ថែមទៀត ដើម្បីឈ្នះរង្វាន់ពិសេសសម្រាប់ LIVE creator!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="other">អ្នកតាម %s នាក់សកម្មឥឡូវនេះ</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="other">ត្រូវការ %s កាក់</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="other">អ្នកជាវ %d នាក់កំពុងមើល</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="other">នៅសល់ 3 នាទីទៀត។ ទទួលបានពេជ្រ {%d} គ្រាប់បន្ថែមទៀត ដើម្បីក្លាយជា LIVE creator ​​លេខ 3 និងឈ្នះគ្រឿងសម្គាល់ផ្តាច់មុខ។</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="other">នៅសល់ 3 នាទីទៀត។ ទទួលបានពេជ្រ {%d} គ្រាប់បន្ថែមទៀត ដើម្បីឱ្យ LIVE របស់អ្នកផ្សាយទៅដល់អ្នកមើលសក្តានុពលកាន់តែច្រើន។</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="other">នៅសល់ 3 នាទីទៀត។ ទទួលបានពេជ្រ {%d} គ្រាប់បន្ថែមទៀត ដើម្បីឈ្នះរង្វាន់ពិសេសសម្រាប់ LIVE creator ពេញនិយម!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="other">%s ម៉ោង %d នាទី</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="other">ពេជ្រ</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="other">ចំនួនមើល</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="other">មិនអាចឆ្លើយសំណួរបានទៀតទេ បន្ទាប់ពីរយៈពេល %s នាទី</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="other">%s ម៉ោងមុន</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="other">%s នាទីមុន</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="other">%s ត្រូវ​បាន​រៀបកាលវិភាគ​ឱ្យ​ចាប់ផ្ដើម 10 នាទី​ទៀត។ អ្នកមើល %d នាក់​បាន​ឃើញ​ព្រឹត្តិការណ៍​របស់​អ្នក។ ចូល LIVE ឥឡូវ ដើម្បី​ទទួល​ច្រើនបំផុត​ពី​ប្រូម៉ូសិន​របស់​អ្នក!</item>
+    </plurals>
+    <plurals name="nh">
+        <item quantity="other">អ្នកប្រើប្រាស់ %d នាក់​បាន​មើល​ព្រឹត្តិការណ៍​របស់​អ្នក។ ត្រៀម​ជាស្រេច​ដើម្បី​ចូល LIVE!</item>
+    </plurals>
+    <plurals name="ni">
+        <item quantity="other">អ្នកប្រើប្រាស់ {numberofviews} នាក់​បាន​មើល​ព្រឹត្តិការណ៍​របស់​អ្នក។ ត្រៀម​ជាស្រេច​ដើម្បី​ចូល LIVE!</item>
+    </plurals>
+    <plurals name="nj">
+        <item quantity="other">អ្នកប្រើប្រាស់ %d នាក់​បាន​មើល​ព្រឹត្តិការណ៍​របស់​អ្នក! សូម​ចងចាំ​ថា​ត្រូវ​ចូល LIVE ឲ្យ​ទាន់​ពេល។</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="other">មើល​កិច្ចការ​នៃ​ការបង្រៀន %s</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="other">សំណើអាទិភាពចំនួន %d ពីអ្នកឱ្យកាដូ</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="other">%d កាក់</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="other">វានឹងធ្វើឱ្យអ្នកចំណាយ %d កាក់។</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="other">អ្នកបានផ្ញើ %d កាក់។ %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="other">LIVE creator អាចនឹងផ្ដល់អាទិភាពដល់សំណើពីអ្នកដែលផ្ញើកាក់សរុបច្រើនជាង %d។</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="other">LIVE creator អាចនឹងផ្ដល់អាទិភាពដល់សំណើពីអ្នក និងអ្នកផ្សេងដែលផ្ញើកាក់សរុបច្រើនជាង %d។</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="other">វានឹងធ្វើឱ្យអ្នកចំណាយ %d កាក់។</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="other">អ្នកអាចអញ្ជើញ %1$s ឱ្យបើកកាមេរ៉ារបស់គាត់ម្តងទៀតក្នុងរយៈពេល %2$s វិនាទី</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="other">អ្នកអាចអញ្ជើញ %1$s ឱ្យបើកមីក្រូហ្វូនរបស់គាត់ម្តងទៀតក្នុងរយៈពេល %2$s វិនាទី</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="other">%d នាទី</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="other">%d វិនាទី</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="other">%d នាទី</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="other">%d វិនាទី</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="other">កិច្ចការ %s ដែលត្រូវបញ្ចប់ក្នុងដំណាក់កាលទី 1</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="other">កិច្ចការ %s ដែលត្រូវបញ្ចប់ក្នុងដំណាក់កាលទី 2</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="other">អ្នកអាចបង្កើតអត្ថប្រយោជន៍តាមបំណងបានយ៉ាងច្រើន %s។ លុបអត្ថប្រយោជន៍តាមបំណងមួយ ដើម្បីបង្កើតអត្ថប្រយោជន៍ថ្មី។</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="other">ការស្ទង់មតិបញ្ចប់ក្នុងរយៈពេល %s វិ</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="other">បោះឆ្នោតឥឡូវនេះ (%ss)៖</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="other">អ្នក​បាន​ចំណាយ %d កាក់​ក្នុង​ថ្ងៃនេះ។</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="other">កាដូស្ថិតលើល្បឿនយឺត ហើយព្យាយាមម្ដងទៀតក្នុងរយៈពេល %d នាទី។</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="other">Portal របស់ {0:user} ត្រូវបានបិទ។ អ្នកមើល {1:string} នាក់បានចូលរួមតាមរយៈ Portal។</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="other">Portal របស់ {0:user} ត្រូវបានបិទ។ អ្នកមើល {1:string} នាក់បានចូលរួមតាមរយៈ Portal។ ល្អ​ណាស់! ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="other">Portal របស់ {0:user} ត្រូវបានបិទ។ អ្នកមើល {1:string} នាក់បានចូលរួមតាមរយៈ Portal។ អស្ចារ្យណាស់! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="other">ចំនួនមើល %s</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="other">បានទិញកាក់ {{num}} នៅលើវិបលើកុំព្យូទ័រ</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="other">បានទិញកាក់ {{num}} នៅក្នុងកម្មវិធី</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="other">បានទិញកាក់ {{num}} នៅលើវិបលើឧបករណ៍ចល័ត</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="other">យើងបានពិនិត្យមើលបណ្ដឹងតវ៉ារបស់អ្នក ហើយបានកែសម្រួលរយៈពេលដកហូតរបស់អ្នក។ សិទ្ធិចូល LIVE របស់អ្នកដោយប្រើ PC ឬ Mac នឹងត្រូវបានស្ដារក្នុងរយៈពេល %s ថ្ងៃ។</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="other">សិទ្ធិចូល LIVE របស់អ្នកដោយប្រើ PC ឬ Mac ត្រូវបានព្យួររយៈពេល %s ថ្ងៃ ដោយសារតែការបំពានគោលការណ៍ណែនាំ​សហគមន៍ជាច្រើនដង។</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="other">យើងបានពិនិត្យមើលបណ្តឹងតវ៉ា និងបានកែសម្រួលរយៈពេលនៃការដកហូតសិទ្ធិចូលប្រើ Treasure Box របស់អ្នកទៅ %s ថ្ងៃ។</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="other">សិទ្ធិចូលប្រើ Treasure Box របស់អ្នកត្រូវបានព្យួររយៈពេល %s ថ្ងៃ ដោយសារតែការបំពានគោលការណ៍ណែនាំ​សហគមន៍ជាច្រើនដង។</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="other">អ្នកបានទទួលពេជ្រលើសពី %s គ្រាប់ក្នុងរយៈពេល 30 ថ្ងៃចុងក្រោយ។ បន្តធ្វើការងារឱ្យបានល្អ ដើម្បីចូលរួមក្នុងលំដាប់ថ្នាក់ប្រចាំសប្តាហ៍។</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="other">លំដាប់ថ្នាក់នេះបង្ហាញពី LIVE creator ដែលបានទទួលពេជ្រតិចជាង {0:string} គ្រាប់ ក្នុងរយៈពេល 30 ថ្ងៃចុងក្រោយ។</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="other">ការឱ្យកាដូត្រូវបានព្យួររយៈពេល %s ថ្ងៃ</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="other">អ្នកមានកាក់ចំនួន {number_1} ឥឡូវនេះ។ អ្នកអាចបញ្ចូល {number_2} កាក់ ({amount}) ដើម្បីផ្ញើវត្ថុ។</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="other">នៅខ្វះ %s កាក់</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="other">អ្នកបានទទួលតំណការអញ្ជើញ {number}</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="other">បើកការអញ្ជើញការជាវរបស់អ្នកពី %s</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="other">បានស្នើសុំ៖ %d នាទីមុន</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="other">ការឱ្យកាដូត្រូវបានព្យួររយៈពេល %s ថ្ងៃ</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="other">សិទ្ធិចូលប្រើនឹងត្រូវបានស្ដារក្នុងរយៈពេល %s ថ្ងៃ។</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="other">យើងបានពិនិត្យមើលបណ្ដឹងតវ៉ារបស់អ្នក ហើយបានកែសម្រួលរយៈពេលដកហូតរបស់អ្នក។ សិទ្ធិចូលស្ទូឌីយ៉ូ LIVE របស់អ្នកនឹងត្រូវបានស្ដារក្នុងរយៈពេល %s ថ្ងៃ។</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="other">យើងបានពិនិត្យមើលបណ្ដឹងតវ៉ារបស់អ្នក ហើយបានកែសម្រួលរយៈពេលដកហូតរបស់អ្នក។ សិទ្ធិចូលលេងហ្គេមលើឧបករណ៍ចល័តរបស់អ្នកនឹងត្រូវបានស្ដារក្នុងរយៈពេល %s ថ្ងៃ។</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="other">យើងបានពិនិត្យមើលបណ្ដឹងតវ៉ារបស់អ្នក ហើយបានកែសម្រួលរយៈពេលដកហូតរបស់អ្នក។ សិទ្ធិចូល LIVE របស់អ្នកដោយប្រើ PC ឬ Mac នឹងត្រូវបានស្ដារក្នុងរយៈពេល %s ថ្ងៃ។</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="other">សិទ្ធិចូលប្រើស្ទូឌីយ៉ូ LIVE របស់អ្នកត្រូវបានព្យួររយៈពេល %s ថ្ងៃ ដោយសារតែការបំពានវិធាន LIVE ឬគោលការណ៍ណែនាំ​សហគមន៍របស់យើងម្ដងហើយម្ដងទៀត។</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="other">សិទ្ធិចូលលេងហ្គេមលើឧបករណ៍ចល័តរបស់អ្នកត្រូវបានព្យួររយៈពេល %s ថ្ងៃ ដោយសារតែការបំពានវិធាន LIVE ឬគោលការណ៍ណែនាំ​សហគមន៍របស់យើងម្ដងហើយម្ដងទៀត។</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="other">សិទ្ធិចូល LIVE របស់អ្នកដោយប្រើ PC ឬ Mac ត្រូវបានព្យួររយៈពេល %s ថ្ងៃ ដោយសារតែការបំពានវិធាន LIVE ឬគោលការណ៍ណែនាំ​សហគមន៍របស់យើងម្ដងហើយម្ដងទៀត។</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="other">គោលដៅ៖ អ្នកឱ្យកាដូ {&lt;num&gt;}</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="other">គោលដៅ៖ ពិន្ទុកាដូ {&lt;num&gt;}</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="other">គោលដៅ៖ អ្នកឱ្យកាដូជាក្រុម {&lt;num&gt;}</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="other">គោលដៅ៖ ពិន្ទុកាដូជាក្រុម {&lt;num&gt;}</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="other">ពិន្ទុការប្រកួត + &lt;num&gt;</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="other">អ្នកមើល %s នាក់នឹងមើលឃើញមតិរបស់អ្នកនៅផ្នែកខាងលើបំផុត</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="other">មតិផ្កាយរបស់អ្នកត្រូវបានលុបក្នុងអំឡុងពេល LIVE ហើយអ្នកនឹងទទួលបានការបង្វិលសងចំនួន [0:string] កាក់សម្រាប់មតិនេះក្នុងរយៈពេល 24 ម៉ោង។</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="other">មតិផ្កាយ %s នៅក្នុងជួរ</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="other">មតិផ្កាយរបស់អ្នកត្រូវបានលុបថ្មីៗនេះ។ សូមព្យាយាមម្តងទៀតក្នុងរយៈពេល {num} ម៉ោង។</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="other">មតិផ្កាយរបស់អ្នកត្រូវបានលុបថ្មីៗនេះ។ សូមព្យាយាមម្តងទៀតក្នុងរយៈពេល {num} នាទី។</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="other">ចប់ក្នុងរយៈពេល %s ថ្ងៃ</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="other">អ្នកមើល %1$s នាក់កំពុងមើល។ អ្នកអាចទទួលបានអ្នកជាវថ្មី %2$s នាក់ ប្រសិនបើអ្នកចាប់ផ្តើម LIVE សម្រាប់តែអ្នកជាវឥឡូវនេះ។</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="other">អ្នកជាវ %s នាក់កំពុងមើល។ នេះ​ជា​ពេល​វេលា​ដ៏​ល្អ​មួយ​ក្នុង​ការ​ពង្រឹង​ទំនាក់ទំនង​របស់​អ្នក​ជាមួយ​សហគមន៍​របស់​អ្នក​ដោយ​ប្រើ​​ LIVE សម្រាប់តែអ្នកជាវ។</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="other">អ្នកអាចទទួលបានអ្នកជាវថ្មី %1$s នាក់តាមរយៈ LIVE សម្រាប់តែអ្នកជាវរយៈពេល %2$s នាទីជារៀងរាល់ខែ។</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="other">អ្នកអាចបញ្ចូលសញ្ញាអារម្មណ៍បានរហូតដល់ %s នៅក្នុងមតិ</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="other">ជាវដើម្បីប្រើសញ្ញាអារម្មណ៍ %2$s របស់ %1$s</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="other">មានអ្នកតាមតិចជាង {number} នាក់</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="other">មិនអាចអញ្ជើញ creator ដែលមានអ្នកតាមតិចជាង {number} នាក់បានទេ</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="other">អញ្ជើញ creator {number1} នាក់ទៀត ដើម្បីឈានដល់លេខ {number2}! សូមបន្តធ្វើឱ្យបានល្អ!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="other">អញ្ជើញ creator {number} នាក់ទៀត ដើម្បីឈានដល់លេខ {rankminusone}! សូមបន្តធ្វើឱ្យបានល្អ!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="other">អ្នកអាចអញ្ជើញតែ creator ដែលមានអ្នកតាមលើសពី {number} នាក់ប៉ុណ្ណោះ។</item>
+    </plurals>
+    <plurals name="po">
+        <item quantity="other">សញ្ញារម្មណ៍ {num} មិនទទួលការយល់ព្រមទេ</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="other">ប្រយោជន៍បច្ចុប្បន្នរបស់អ្នកអាចនាំអ្នកជាវមក %d%% នាក់ទៀត។</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="other">%1$s ទើបតែទិញការចុះឈ្មោះរយៈពេល %2$d ខែ!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="other">អ្នកអាចបើក ឬបិទវាបានតែម្តងគត់ក្នុងរយៈពេល %s នាទី។ សូមព្យាយាម​ម្តង​ទៀត​នៅ​ពេលក្រោយ។</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="other">អ្នក​មាន​កាដូសម្រាប់ការ​ជាវចំនួន {num}។ ផ្ញើឱ្យអ្នកផ្សេងទៀតឥឡូវនេះ!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="other">អ្នក​នៅ​សល់​កាដូសម្រាប់ការ​ជាវចំនួន %d។ ផ្ញើជូនអ្នកផ្សេងទៀតឥឡូវនេះ!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="other">អបអរសាទរ! អ្នកបានទទួលកាដូសម្រាប់ការជាវចំនួន [number] ជារង្វាន់សម្រាប់សកម្មភាព។</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="other">បានផ្សាយរួមគ្នា {num} ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="other">បានចូល LIVE ជាមួយអ្នក {number} ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="other">បានផ្សាយជាមួយអ្នក {num} ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="other">សិទ្ធិចូលប្រើ Treasure Box របស់អ្នកត្រូវបានព្យួរ។ សិទ្ធិចូលប្រើនឹងត្រូវបានស្ដារក្នុងរយៈពេល %s ថ្ងៃ។</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="other">អ្នកមើលសកម្មខ្លាំង</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="other">អ្នកមើលកំពូល</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="other">វគ្គផ្តាច់ព្រ័ត្រចាប់ផ្តើមក្នុងរយៈពេល %s វិនាទី</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="other">វគ្គផ្តាច់ព្រ័ត្រចាប់ផ្តើមក្នុងរយៈពេល %s ថ្ងៃ</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="other">វគ្គផ្តាច់ព្រ័ត្រចាប់ផ្តើមក្នុងរយៈពេល %s ម៉ោង</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="other">វគ្គផ្តាច់ព្រ័ត្រចាប់ផ្តើមក្នុងរយៈពេល %s នាទី</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="other">វគ្គពាក់កណ្តាលផ្តាច់ព្រ័ត្រចាប់ផ្តើមក្នុងរយៈពេល %s ថ្ងៃ</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="other">វគ្គពាក់កណ្តាលផ្តាច់ព្រ័ត្រចាប់ផ្តើមក្នុងរយៈពេល %s ម៉ោង</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="other">វគ្គពាក់កណ្តាលផ្តាច់ព្រ័ត្រចាប់ផ្តើមក្នុងរយៈពេល %s នាទី</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="other">វគ្គពាក់កណ្តាលផ្តាច់ព្រ័ត្រចាប់ផ្តើមក្នុងរយៈពេល %s វិនាទី</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="other">ពេជ្រ {0:string} គ្រាប់ទៀត ដើម្បីឈានដល់លេខ {1:string}</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="other">អ្នកឱ្យកាដូ {0:string} នាក់ទៀត ដើម្បីឈានដល់លេខ {1:string}</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="other">ថ្ងៃ</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="other">អ្នកបានប្ដូរ {amount} យកកាក់ {num}។</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="other">អ្នកបានទិញកាក់ {num} ក្នុងតម្លៃ {amount}។</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="other">ពិន្ទុក្រុម {num} មុនឈានដល់លេខ 2</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="other">ពិន្ទុក្រុម +{num} (កាដូក្រុម %1$s/%2$s ប្រចាំថ្ងៃ)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="other">អ្នកមើល %s នាក់បានចូលរួមពីការស្វែងរក</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="other">ពិន្ទុក្រុម %1$s ពិន្ទុ ដើម្បីឈានដល់ លេខ %2$s</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="other">ពិន្ទុក្រុម %1$s ពិន្ទុ ដើម្បីឈានដល់លេខ %2$s</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="other">មានអ្វីមួយខុសប្រក្រតី។ ព្យាយាមម្ដងទៀតក្នុងរយៈពេល {number} ម៉ោង</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="other">មានអ្វីមួយខុសប្រក្រតី។ ត្រឡប់មកវិញក្នុងរយៈពេល {number} នាទី</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="other">អ្នកមើល</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="other">អ្នកមើល %d</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="other">អ្នកមើលចំនួន %s នាក់</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="other">អ្នកមើល %s នាក់បានផ្ញើកាដូ</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="other">ការបង្ហោះ (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="other">(ការត្រួតពិនិត្យ %s)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="other">មិនបានបញ្ជូនរូបថត %s។ សូមព្យាយាមម្ដងទៀត។</item>
+    </plurals>
+    <plurals name="qr">
+        <item quantity="other">%1$d កាក់ = %2$s%3$.2f</item>
+    </plurals>
+    <plurals name="qs">
+        <item quantity="other">%s បាន​អាប់ដេត​តម្លៃ​នៃ​វីដេអូ TikTok Shoutouts របស់​ពួកគេ ទៅ %s កាក់។</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="other">សំឡេង​ស្រដៀងគ្នា %d</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="other">%d មើល​ប្រវត្តិរូប</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="other">អ្នកតាម</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="other">%1$s ទទួលបានការចូលចិត្តសរុប %2$s នៅលើវីដេអូទាំងអស់</item>
+    </plurals>
+    <plurals name="qx">
+        <item quantity="other">គណនី %d ត្រូវ​បាន​លាក់ ដោយសារ​ការកំណត់​ឯកជនភាព​របស់​អ្នកប្រើប្រាស់​នេះ</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="other">បាន​មើល​ប្រវត្តិរូប​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="other">%1$s, %2$s និង %d ទៀត</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="other">%s នាក់​​បាន​មើល​ប្រវត្តិ​រូប​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="other">{0}, {1} និង {2} ទៀត បាន​មើល​ប្រវត្តិរូប​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="other">យើង​បាន​ផ្ញើ​ការជូន​ដំណឹង​មួយ​ទៅ %1$s របស់​អ្នក និង​ឧបករណ៍ %2$s ទៀត។ ត្រូវ​ប្រាកដ​ថា អ្នក​បាន​បើក TikTok ហើយ​ប៉ះ &quot;បាទ/ចាស&quot; ក្នុង​ការជូនដំណឹង ដើម្បី​បន្ត​ការចុះឈ្មោះចូល។</item>
+    </plurals>
+    <plurals name="r3">
+        <item quantity="other">បានសួរ %d សំណួរ</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="other">វីដេអូ %s</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="other">%d វីដេអូ</item>
+    </plurals>
+    <plurals name="r6">
+        <item quantity="other">ចម្លើយ {number}</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="other">បាន​លុប​សំណួរ​មិន​អាច​មើល​បាន %s ពី​ការអញ្ជើញ​របស់​អ្នក</item>
+    </plurals>
+    <plurals name="r8">
+        <item quantity="other">%$s សំណួរ​មិន​អាច​ប្រើ​បាន​ទេ ហើយ​ត្រូវ​បាន​លុប​ពី​សំណព្វ​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="r9">
+        <item quantity="other">%s សំណួរ​មិន​អាច​ប្រើ​បាន​ទេ ហើយ​ត្រូវ​បាន​លុប​ពី​សំណព្វ​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="other">សារ​ថ្មី %s</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="other">ប្រតិកម្ម​ថ្មី %s</item>
+    </plurals>
+    <plurals name="rb">
+        <item quantity="other">បានឲ្យយោបល់ {number}</item>
+    </plurals>
+    <plurals name="rc">
+        <item quantity="other">%s បានឲ្យយោបល់</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="other">%d បានឱ្យយោបល់</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="other">%d បានឱ្យយោបល់</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="other">បង្ហាញ​ការឱ្យយោបល់ %d ទៀត</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="other">ថត​ដល់​ទៅ %d វិនាទី</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="other">ថត​ដល់​ទៅ %d វិនាទី ដោយ​ប្រើ​សំឡេង​ពី​វីដេអូ​ដើម</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="other">ព្រាង (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="other">វីដេអូរបស់អ្នក​នឹង​ត្រូវបាន​បិទសំឡេង ប្រសិនបើ​អ្នកជ្រើសរើស​ស្ដារសំឡេង​ទាំងនេះឡើងវិញ។</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="other">ស្ដារសំឡេង​ដែលមានការរក្សាសិទ្ធិឡើងវិញឬ?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="other">បានលុបសំឡេង​ដែលមានការរក្សាសិទ្ធិ</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="other">កំពុងលុបសំឡេង</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="other">បាន​លុប​សំឡេង</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="other">ជំនួស​សំឡេង</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="other">កំពុងលុបសំឡេងដែលមានការរក្សាសិទ្ធិ...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="other">យើងបានរកឃើញសំឡេងដែលបំពាន​សិទ្ធិអ្នកនិពន្ធ​ដែលវែងជាង 1 នាទី​នៅក្នុងវីដេអូរបស់អ្នក ហើយវានឹង​ត្រូវបានបិទសំឡេង ប្រសិនបើ​អ្នកជ្រើសរើស​បន្ត។ ជំនួសសំឡេង ឬកាត់វីដេអូឱ្យខ្លី។ %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="other">ជំនួស​សំឡេង</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="other">កំពុងលុបសំឡេងដែលមានការរក្សាសិទ្ធិ...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="other">យើងបាន​រកឃើញ​សំឡេង​ដែលបំពានសិទ្ធិអ្នកនិពន្ធនៅក្នុង​វីដេអូ​របស់អ្នក។ វីដេអូរបស់អ្នក​នឹង​ត្រូវបាន​បិទសំឡេង ប្រសិនបើ​អ្នកជ្រើសរើសបន្ត ឬអ្នកអាចជំនួស​សំឡេង។ %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="other">សំឡេង​ដែលមានការរក្សាសិទ្ធិ</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="other">ម្ចាស់សិទ្ធិអ្នកនិពន្ធ​បានផ្ដល់ការអនុញ្ញាត​ឱ្យប្រើ​សំឡេង​ទាំងនេះ​រយៈពេលតែ 1 នាទីប៉ុណ្ណោះ។</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="other">ម្ចាស់សិទ្ធិអ្នកនិពន្ធ​មិនអនុញ្ញាតឱ្យប្រើ​សំឡេង​ទាំងនេះទេ។</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="other">ជំនួស​សំឡេង</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="other">យើងបានរកឃើញសំឡេងដែលបំពាន​សិទ្ធិអ្នកនិពន្ធ​ដែលវែងជាង 1 នាទី​នៅក្នុងវីដេអូរបស់អ្នក ហើយវានឹង​ត្រូវបានបិទសំឡេង ប្រសិនបើ​អ្នកជ្រើសរើស​បន្ត។ ជំនួសសំឡេង ឬកាត់វីដេអូឱ្យខ្លី។ %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="other">ជំនួស​សំឡេង</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="other">យើងបាន​រកឃើញ​សំឡេង​ដែលបំពានសិទ្ធិអ្នកនិពន្ធនៅក្នុង​វីដេអូ​របស់អ្នក។ វីដេអូរបស់អ្នក​នឹង​ត្រូវបាន​បិទសំឡេង ប្រសិនបើ​អ្នកជ្រើសរើសបន្ត ឬអ្នកអាចជំនួស​សំឡេង។ %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="other">ដកវីដេអូ (%d) ចេញ</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="other">ចំនួនបង្ហោះ​ឡើងវិញ %d</item>
+    </plurals>
+    <plurals name="s3">
+        <item quantity="other">បាន​បង្ហោះ​ឡើងវិញ {number}</item>
+    </plurals>
+    <plurals name="s4">
+        <item quantity="other">%s បាន​បង្ហោះ​ឡើងវិញ</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="other">%d បាន​បង្ហោះ​ឡើងវិញ</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="other">%d បាន​បង្ហោះ​ឡើងវិញ</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="other">មើលការបង្ហោះ​ឡើងវិញ %d ទៀត</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="other">%d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="s9">
+        <item quantity="other">បាន​ចំណាយ {number} ម៉ោង {number} នាទី</item>
+    </plurals>
+    <plurals name="s_">
+        <item quantity="other">{number} ដង</item>
+    </plurals>
+    <plurals name="sa">
+        <item quantity="other">បាន​បើក {number} ដង</item>
+    </plurals>
+    <plurals name="sb">
+        <item quantity="other">អ្នក​បាន​ចំណាយ {number} ម៉ោង លើ TikTok នៅ​សប្ដាហ៍​មុន​នេះ ({percent} តិចជាង​សប្ដាហ៍​ពីមុន)។</item>
+    </plurals>
+    <plurals name="sc">
+        <item quantity="other">អ្នក​បាន​ចំណាយ {number} ម៉ោង លើ TikTok នៅ​សប្ដាហ៍​មុន​នេះ ({percent} ច្រើនជាង​សប្ដាហ៍​ពីមុន)។</item>
+    </plurals>
+    <plurals name="sd">
+        <item quantity="other">អ្នក​បាន​ចំណាយ {number} ម៉ោង លើ TikTok នៅ​សប្ដាហ៍​មុន​នេះ ({percent} តិច​ជាង​សប្ដាហ៍​ពីមុន)</item>
+    </plurals>
+    <plurals name="se">
+        <item quantity="other">អ្នក​បាន​ចំណាយ {number} ម៉ោង លើ TikTok នៅ​សប្ដាហ៍​មុន​នេះ ({percent} ច្រើនជាង​សប្ដាហ៍​ពីមុន)</item>
+    </plurals>
+    <plurals name="sf">
+        <item quantity="other">អ្នក​បាន​ចំណាយ {number} ម៉ោង លើ TikTok នៅ​សប្ដាហ៍​មុន​នេះ ({percent} តិច​ជាង​សប្ដាហ៍​ពីមុន)</item>
+    </plurals>
+    <plurals name="sg">
+        <item quantity="other">អ្នក​បាន​ចំណាយ {number} ម៉ោង លើ TikTok នៅ​សប្ដាហ៍​មុន​នេះ ({percent} ច្រើនជាង​សប្ដាហ៍​ពីមុន)</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="other">ធ្វើការស្វែងរក %1$d ដងទៀត ដើម្បីទទួលបាន %2$d ពិន្ទុ</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="other">រុករក​លទ្ធផលស្វែងរក %d វិនាទី</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="other">ធ្វើការស្វែងរក %1$d ដងទៀត ដើម្បីទទួលបាន %2$d ពិន្ទុ!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="other">%d សំឡេង​ត្រូវគ្នា</item>
+    </plurals>
+    <plurals name="sl">
+        <item quantity="other">អ្នកតាមដាន %s នាក់</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="other">បាន​អាប់ដេត %dថ្ងៃ​មុន</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="other">បាន​អាប់ដេត %dម៉ោង​មុន</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="other">បាន​អាប់ដេត %dនាទីមុន</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="other">បាន​អាប់ដេត %dវិនាទី​មុន</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="other">បាន​អាប់ដេត %dសប្ដាហ៍​មុន</item>
+    </plurals>
+    <plurals name="sr">
+        <item quantity="other">%s វីដេអូ</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="other">អ្នកបានចែករំលែករូបថត។</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="other">អបអរសាទរ! អ្នកបានទទួល​ការទិញ %d ទៀតកាលពីម្សិលមិញ។ ចូរបន្តធ្វើបានល្អបែបនេះទៀត និងតាមដានប្រតិបត្តិការ Series របស់អ្នក​ពី “ឧបករណ៍ Creator” &gt; “Series”។</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="other">Series របស់អ្នក​បានទទួលការចូលមើលទំព័រចំនួន %d ដងក្នុងរយៈពេលប៉ុន្មានថ្ងៃចុងក្រោយនេះ។ ដើម្បីតាមដាន​ប្រតិបត្តិការ Series របស់អ្នក និងទទួលបានគន្លឹះមានប្រយោជន៍ ដើម្បីទាក់ទាញអ្នកទិញសក្ដានុពល អ្នកអាចចូលប្រើឧបករណ៍វិភាគពី &quot;ឧបករណ៍ Creator&quot; &gt; &quot;Series&quot;។</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="other">អបអរសាទរ! អ្នកមើល %d នាក់នៅក្នុង LIVE របស់អ្នកបានទិញសិទ្ធិចូលប្រើ Series របស់អ្នកកាលពីម្សិលមិញ។ ចូរបន្តធ្វើបានល្អបែបនេះទៀត និងតាមដានប្រតិបត្តិការ Series របស់អ្នក​ពី “ឧបករណ៍ Creator” &gt; “Series”។</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="other">អបអរសាទរ! អ្នកមើល %d នាក់បានទិញសិទ្ធិចូលប្រើ Series របស់អ្នកកាលពីម្សិលមិញពីវីដេអូដែលមានតំណ Series។ ចូរបន្តធ្វើបានល្អបែបនេះទៀត និងតាមដានប្រតិបត្តិការ Series របស់អ្នក​ពី “ឧបករណ៍ Creator” &gt; “Series”។</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="other">បន្តទៅកាមេរ៉ា (%d)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="other">អ្នកទិញ %d នាក់ដំបូងតែប៉ុណ្ណោះ</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="other">នៅសល់តែ %d ប៉ុណ្ណោះ</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="other">ផុតកំណត់ %d ថ្ងៃ​ទៀត</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="other">%d វីដេអូ</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="other">%d វីដេអូ</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="other">%d វីដេអូ</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="other">%s វីដេអូ</item>
+    </plurals>
+    <plurals name="t7">
+        <item quantity="other">{0}, {1} និង {2} ទៀត បានថែមការបង្ហោះរបស់អ្នកទៅ Story ពួកគេ។</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="other">%d មើល</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="other">Stories (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="other">{Brand} ចង់ពន្យារពេលការអនុញ្ញាតដើមពី {start_date} - {end_date} ត្រឹម {num} ថ្ងៃ។</item>
+    </plurals>
+    <plurals name="tg">
+        <item quantity="other">សូមអរគុណចំពោះការគាំទ្រអ្នកបង្កើតនេះ ដូច្នេះពួកគេអាចបន្តបង្កើតខ្លឹមព័ត៌មានដែលអ្នកស្រឡាញ់។ ពួកគេនឹងទទួលប្រាក់ទឹកតែរបស់អ្នកក្នុងពេល %d ម៉ោង។</item>
+    </plurals>
+    <plurals name="th">
+        <item quantity="other">បាន​ផ្ញើ​ប្រាក់ទឹកតែ %d</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="other">បាន​ថែម %d វីដេអូ</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="other">Creator មានវត្តមាននៅលើ TikTok រយៈពេលជាង %d ខែ។</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="other">Creator មានអ្នកតាមយ៉ាងតិច %d នាក់។</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="other">%d អន្តរកម្ម</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="other">ដែនកំណត់ប្រចាំថ្ងៃសម្រាប់ការបញ្ចូលប្រធានបទពេញនិយម៖ សារបង្ហោះ %d</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="other">រយៈពេលពិនិត្យមើលដែលបានប៉ាន់ស្មាន៖ %d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="other">វីដេអូ %@</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="other">ចំនួនមើល %@</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="other">%d ថ្ងៃកន្លងទៅ</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="other">ម៉ោង</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="other">%1$d ម៉ោង​កន្លងទៅ</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="other">នាទី</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="other">%1$d នាទី​កន្លងទៅ​</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="other">ម៉ោង</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="other">នាទី</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="other">វិនាទី</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="other">%1$d ឆ្នាំកន្លងទៅ</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="other">សូមអភ័យទោស! អ្នកត្រូវបានហាមប្រាម\n អ្នកអាច​ស្ទ្រីមបន្តផ្ទាល់ម្ដងទៀតក្នុងពេល %1$d ថ្ងៃទៀត</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="other">សូមអភ័យទោស! អ្នកត្រូវបានហាមប្រាម\n អ្នកអាច​ស្ទ្រីមបន្តផ្ទាល់ម្ដងទៀតក្នុងពេល %1$d ម៉ោងទៀត</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="other">សូមអភ័យទោស បច្ចុប្បន្ននេះ​អ្នកត្រូវបានហាមប្រាម​។​ \n អ្នកអាច​ស្ទ្រីមបន្តផ្ទាល់​ម្តងទៀត​ក្នុងរយៈពេល៖​ %1$d នាទី</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="other">សូមអភ័យទោស! អ្នកត្រូវបានហាមប្រាម\n អ្នកអាច​ស្ទ្រីមបន្តផ្ទាល់ម្ដងទៀតក្នុងពេល %1$d វិនាទីទៀត</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="other">អ្នកប្រើ %d នាក់កំពុងមើល​ការផ្សាយរបស់អ្នក តើអ្នកចង់​បិទវាឬ?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="other">ផុតកំណត់ក្នុងរយៈពេល %d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="other">ផុតកំណត់ក្នុងរយៈពេល %d ម៉ោង</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="other">បញ្ចូលពេជ្រ​ %1$d គ្រាប់លើកដំបូង ​ដើម្បីទទួលបាន %2$d ថែមទៀត​!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="other">នាទី</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="other">បទពិសោធន៍របស់អ្នកនៅលើ TikTok នឹងបញ្ចប់ក្នុងរយៈពេល៖ %d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="other">%d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="other">អ្នកមានពេល %d ថ្ងៃ ដើម្បីទទួល​បទពិសោធន៍​ប្រើប្រាស់​មុខងារនេះ​នៅលើ TikTok។ បន្ទាប់ពីនោះ ទាញយក​កម្មវិធី TikTok Now ដើម្បីបន្ត។</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="other">បង្ហោះ ដើម្បីចាប់ផ្ដើមបទពិសោធន៍​ប្រើប្រាស់ TikTok Now រយៈពេល %d ថ្ងៃ​របស់អ្នក។</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="other">ជ្រើស​ ឬថត %d ឃ្លីប</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="other">កែរូបថតដែលមិនបានបញ្ចប់ឬ?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="other">សារបង្ហោះ​ថ្មី %s</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="other">បានបង្ហោះវីដេអូ %d</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="other">តើ​អ្នក​មាន​អាយុ %d ឆ្នាំ?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="other">ប្រើ​សំឡេង​ដែល​បាន​តម្រឹម។ ថត​ដល់ទៅ %d វិនាទី។</item>
+    </plurals>
+    <plurals name="uh">
+        <item quantity="other">%1$s មិន​អាច​បង្កើត​វីដេអូ TikTok Shoutouts របស់​អ្នក​ទាន់​ពេលវេលា​ទេ។ %2$d កាក់ នឹង​បង្វិល​ចូល​គណនី​របស់​អ្នក​វិញ ក្នុង​ពេល 24 ម៉ោង។</item>
+    </plurals>
+    <plurals name="ui">
+        <item quantity="other">%d កាក់ នឹង​បង្វិល​ចូល​គណនី​របស់​អ្នក​វិញ ក្នុង​ពេល 24 ម៉ោង។</item>
+    </plurals>
+    <plurals name="uj">
+        <item quantity="other">ការបញ្ជា​នេះ​ត្រូវ​បាន​បោះបង់ ដោយសារ​វា​អស់​ពេល។ %s កាក់​នឹង​បង្វិល​ចូល​គណនី​របស់​អ្នក​វិញ។</item>
+    </plurals>
+    <plurals name="uk">
+        <item quantity="other">សំណើ​របស់​អ្នក​ត្រូវ​បាន​បោះបង់។ %d កាក់ នឹង​បង្វិល​ចូល​គណនី​របស់​អ្នក​វិញ ក្នុង​ពេល 24 ម៉ោង។</item>
+    </plurals>
+    <plurals name="ul">
+        <item quantity="other">កាក់</item>
+    </plurals>
+    <plurals name="um">
+        <item quantity="other">%1$s បាន​បដិសេធ​សំណើ​របស់​អ្នក។ %2$s កាក់ នឹង​សង​ចូល​គណនី​របស់​អ្នក​វិញ ក្នុង​ពេល 24 ម៉ោង។</item>
+    </plurals>
+    <plurals name="un">
+        <item quantity="other">%1$s មិន​អាច​បង្កើត​វីដេអូ TikTok Shoutouts របស់​អ្នក​ទាន់​ពេលវេលា​​ទេ។ សំណើ​របស់​អ្នក​បាន​ផុតកំណត់ ហើយ %2$s កាក់ នឹង​សង​ចូល​គណនី​របស់​អ្នក​វិញ ក្នុងពេល 24 ម៉ោង។</item>
+    </plurals>
+    <plurals name="uo">
+        <item quantity="other">បើ %1$s មិន​ទទួលយក​សំណើ​របស់​អ្នក​ក្នុង​ពេល 2 ថ្ងៃ​ទេ យើង​នឹង​បោះបង់​សំណើ​របស់​អ្នក​ដោយ​ស្វ័យប្រវត្តិ ហើយ​សង %2$s កាក់​ចូល​គណនី​របស់​អ្នក​វិញ ក្នុង​ពេល 24 ម៉ោង។</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="other">%s អ្នក​មើល</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="other">%s ចូលចិត្ត</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="other">នឹង​ចែករំលែក​លើ %1$s %2$ss ទៀត</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="other">%d ផលិតផល</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="other">ការបង្ហោះ</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="other">%1$s, %2$s និង %d ទៀត</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="other">បាន​មើលការបង្ហោះ​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="other">%s ចែករំលែក</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="other">%s មើល</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="other">{0} {1} និង {2} ទៀត បាន​មើល​ការបង្ហោះ​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="other">%d កាក់</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="other">បាន​ផ្ញើ៖ %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="other">បាន​រក្សាទុក​រូបថត</item>
+    </plurals>
+    <plurals name="v2">
+        <item quantity="other">{number} នាក់​បាន​ទាមទារ​អំណោយ ប៉ុន្តែ​មិន​បាន​ថែម​ទិន្នន័យ​ទៅ​គណនី​ពួកគេ​ទេ។ អំណោយ​ទិន្នន័យ​អាច​មាន​សម្រាប់​អ្នក​ក្នុងពេល​ឆាប់ៗ​នេះ។</item>
+    </plurals>
+    <plurals name="v3">
+        <item quantity="other">សកម្មភាព​បញ្ចប់ {countdown} ថ្ងៃ​ទៀត។ បរិមាណ​មាន​កម្រិត។ មកមុន ទទួល​មុន!</item>
+    </plurals>
+    <plurals name="v4">
+        <item quantity="other">សល់ {countdown} អំណោយ</item>
+    </plurals>
+</resources>

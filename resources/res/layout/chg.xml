@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        ellipsize="end"
+        gravity="center"
+        id="@+id/kzo"
+        background="@drawable/c23"
+        paddingTop="9dp"
+        paddingBottom="9dp"
+        layout_width="wrap_content"
+        layout_height="36dp"
+        maxLines="1"
+        paddingStart="16dp"
+        paddingEnd="16dp"
+        NOT_FOUND_0xc="41"/>
+</FrameLayout>

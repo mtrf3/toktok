@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    gravity="center"
+    layout_width="48dp"
+    layout_height="wrap_content">
+    <FrameLayout
+        id="@+id/l73"
+        layout_width="48dp"
+        layout_height="48dp">
+        <X.C173656rh
+            id="@+id/l6z"
+            layout_width="48dp"
+            layout_height="48dp"
+            src="@color/ac7"
+            scaleType="centerCrop"
+            NOT_FOUND_0x11="2dp"/>
+        <TextView
+            textSize="12dp"
+            textStyle="bold"
+            textColor="#e6ffffff"
+            layout_gravity="center"
+            id="@+id/cje"
+            background="@null"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            shadowColor="#4c000000"
+            shadowDy="1"
+            shadowRadius="1"/>
+    </FrameLayout>
+    <View
+        id="@+id/hvl"
+        layout_width="10dp"
+        layout_height="2dp"
+        layout_marginTop="4dp"
+        layout_below="@+id/l73"
+        layout_centerHorizontal="true"/>
+</RelativeLayout>

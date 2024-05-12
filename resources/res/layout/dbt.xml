@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <X.C29701Eo
+        id="@+id/k4l"
+        layout_width="wrap_content"
+        layout_height="190dp"
+        NOT_FOUND_0xa="@+id/k4o"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="2"
+        NOT_FOUND_0x10="false"/>
+    <X.C47121t6
+        textSize="24sp"
+        textColor="@color/bc"
+        gravity="center"
+        id="@+id/k4o"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_marginTop="37dp"
+        text="@string/ojx"
+        NOT_FOUND_0x8="7"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="@+id/k4l"
+        NOT_FOUND_0xf="2"/>
+</merge>

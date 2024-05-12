@@ -1,0 +1,2259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">Ще започнем да създаваме вашите аватари след %d минута.</item>
+        <item quantity="other">Ще започнем да създаваме вашите аватари след %d минути.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">Продължете със стил %d</item>
+        <item quantity="other">Продължете със стилове %d</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">Изберете поне още %d снимка с човешко лице.</item>
+        <item quantity="other">Изберете поне още %d снимки с човешко лице.</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">Можете да създавате аватари %d път на ден с Sharp</item>
+        <item quantity="other">Можете да създавате аватари %d пъти на ден с Sharp</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">Можете да създавате аватари %d път седмично с Sharp</item>
+        <item quantity="other">Можете да създавате аватари %d пъти седмично с Sharp</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">Можете да създавате аватари %d път на ден със Speedy</item>
+        <item quantity="other">Можете да създавате аватари %d пъти на ден със Speedy</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="one">Можете да създавате аватари %d път седмично със Speedy</item>
+        <item quantity="other">Можете да създавате аватари %d пъти седмично със Speedy</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="one">Можете да създавате аватари %d път на ден</item>
+        <item quantity="other">Можете да създавате аватари %d пъти на ден</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="one">Можете да създавате аватари %d път седмично</item>
+        <item quantity="other">Можете да създавате аватари %d пъти седмично</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="one">Ще започнем да създаваме вашите аватари след %d минута.</item>
+        <item quantity="other">Ще започнем да създаваме вашите аватари след %d минути.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="one">Имате %d заявка</item>
+        <item quantity="other">Имате %d заявки</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="one">Имате %d заявка</item>
+        <item quantity="other">Имате %d заявки</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="one">%d въпрос</item>
+        <item quantity="other">%d въпроса</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="one">През първите %d дни, другите трябва да публикуват, за да видят вашите публикации.</item>
+        <item quantity="other">През първите %d дни, другите трябва да публикуват, за да видят вашите публикации в Now.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="one">След %d ден те могат да преглеждат публикациите ви, без да публикуват.</item>
+        <item quantity="other">След %d дни те могат да преглеждат публикациите ви, без да публикуват.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="one">След %d ден само вие можете да виждате публикациите си.</item>
+        <item quantity="other">След %d дни само вие можете да виждате публикациите си.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="one">През първите %d дни, другите трябва да публикуват, за да видят вашите публикации в Now.</item>
+        <item quantity="other">През първите %d дни другите трябва да публикуват, за да видят вашите публикации в Now.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="one">%d продукт</item>
+        <item quantity="other">%d продукта</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="one">Отваряне на снимка от {username}</item>
+        <item quantity="other">Отваряне на снимки от {username}</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="one">{number} човек добави това видео към „Любими“</item>
+        <item quantity="other">{number} души са добавили това видео към „Любими“</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="one">%d харесване</item>
+        <item quantity="other">%d харесвания</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ милиард</item>
+        <item quantity="other">%@ милиарда</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ милион</item>
+        <item quantity="other">%@ милиона</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ 000</item>
+        <item quantity="other">%@ хиляди</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="one">%d гледане</item>
+        <item quantity="other">%d гледания</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="one">%s видео позволява коментари</item>
+        <item quantity="other">%s видеа позволяват коментари</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="one">%s видео не позволява коментари</item>
+        <item quantity="other">%s видеа не позволяват коментари</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="one">докато %d не позволява дует</item>
+        <item quantity="other">докато %d не позволяват дует</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="one">Всеки може да създава дует с вашите видеа. %1$d от вашите видеа позволява създаването на дует, %2$s</item>
+        <item quantity="other">Всеки може да създава дует с вашите видеа. %1$d от вашите видеа позволяват създаването на дует, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="one">докато %d не позволява дует</item>
+        <item quantity="other">докато %d не позволяват дует</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="one">Приятелите могат да създават дует с вашите видеа. %1$d от вашите видеа позволява създаването на дует, %2$s</item>
+        <item quantity="other">Приятелите могат да създават дует с вашите видеа. %1$d от вашите видеа позволяват създаването на дует, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="one">докато %d не позволява дует</item>
+        <item quantity="other">докато %d не позволяват дует</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="one">Прегледайте кой може да създава дует с вашите видеа. %1$d от вашите видеа позволява създаването на дует, %2$s</item>
+        <item quantity="other">Прегледайте кой може да създава дует с вашите видеа. %1$d от вашите видеа позволяват създаването на дует, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="one">докато %d не позволява слепване</item>
+        <item quantity="other">докато %d не позволяват слепване</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="one">Прегледайте кой може да създава слепване с вашите видеа. %1$d от вашите видеа позволява създаването на слепване, %2$s</item>
+        <item quantity="other">Прегледайте кой може да създава слепване с вашите видеа. %1$d от вашите видеа позволяват създаването на слепване, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="one">докато %d не позволява слепване</item>
+        <item quantity="other">докато %d не позволяват слепване</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="one">Всеки може да създава слепване с вашите видеа. %1$d от вашите видеа позволява създаването на слепване, %2$s</item>
+        <item quantity="other">Всеки може да създава слепване с вашите видеа. %1$d от вашите видеа позволяват създаването на слепване, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="one">докато %d не позволява слепване</item>
+        <item quantity="other">докато %d не позволяват слепване</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="one">Приятелите могат да създават слепване с вашите видеа. %1$d от вашите видеа позволява създаването на слепване, %2$s</item>
+        <item quantity="other">Приятелите могат да създават слепване с вашите видеа. %1$d от вашите видеа позволяват създаването на слепване, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="one">%s видео позволява дует</item>
+        <item quantity="other">%s видеа позволяват дует</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="one">%s видео не позволява дует</item>
+        <item quantity="other">%s видеа не позволяват дует</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="one">%s видео позволява слепване</item>
+        <item quantity="other">%s видеа позволяват слепване</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="one">%s видео не позволява слепване</item>
+        <item quantity="other">%s видеа не позволяват слепване</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="one">Активност преди %d час</item>
+        <item quantity="other">Активност преди %d часа</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="one">Активност преди %d минута</item>
+        <item quantity="other">Активност преди %d минути</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="one">%d част</item>
+        <item quantity="other">%d части</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="one">%1$s · %2$d нова публикация</item>
+        <item quantity="other">%1$s · %2$d нови публикации</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="one">Импортиране на %d звук</item>
+        <item quantity="other">Импортиране на %d звуци</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="one">%2$d LIVE видеа | %1$d История</item>
+        <item quantity="other">%2$d LIVE видеа | %1$d Истории</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="one">%2$d LIVE видео | %1$d История</item>
+        <item quantity="other">%2$d LIVE видеа | %1$d История</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="one">%d LIVE видео | История</item>
+        <item quantity="other">%d LIVE видеа | История</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="one">%2$d LIVE видео | %1$d История</item>
+        <item quantity="other">%2$d LIVE видео | %1$d Истории</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="one">%d История</item>
+        <item quantity="other">%d Истории</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="one">Поканен е %d приятел</item>
+        <item quantity="other">Поканени са %d приятели</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="one">%s видео</item>
+        <item quantity="other">%s видеа</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="one">%s видео е добавено</item>
+        <item quantity="other">%s видеа са добавени</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="one">%s публикувано видео</item>
+        <item quantity="other">%s публикувани видеа</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="one">Добавяне на видео (%d)</item>
+        <item quantity="other">Добавяне на видеа (%d)</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="one">%d-годишна възраст</item>
+        <item quantity="other">%d-годишна възраст</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="one">%d-годишна възраст</item>
+        <item quantity="other">%d-годишна възраст</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="one">Наистина ли вашата възраст е %d година?\n\n Ако информацията е неправилна, е възможно да не може да се възползвате от подходящата за вас функционалност на TikTok. Възможно е да не можете да редактирате тази информация веднага.</item>
+        <item quantity="other">Наистина ли вашата възраст е %d години?\n\n Ако информацията е неправилна, е възможно да не може да се възползвате от подходящата за вас функционалност на TikTok. Възможно е да не можете да редактирате тази информация веднага.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="one">Наистина ли ваша възраст е %d година?</item>
+        <item quantity="other">Наистина ли ваша възраст е %d години?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="one">Зададохте възрастта си на %d година. Въведете действителната си дата на раждане.</item>
+        <item quantity="other">Зададохте възрастта си на %d години. Въведете действителната си дата на раждане.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="one">%d-годишна възраст</item>
+        <item quantity="other">%d-годишна възраст</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="one">%d звук</item>
+        <item quantity="other">%d звуци</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="one">Синхронизиране на звук...</item>
+        <item quantity="other">Синхронизиране на звуци...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="one">%s споделяне</item>
+        <item quantity="other">%s споделяния</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="one">%s гледане</item>
+        <item quantity="other">%s гледания</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="one">Гласовите ефекти може да намалят точността</item>
+        <item quantity="other">Гласовите ефекти може да намалят точността</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="one">Качете до %d файл</item>
+        <item quantity="other">Качете до %d файла</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="one">[num] видеоклип</item>
+        <item quantity="other">[num] видеоклипа</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="one">Тази бета-версия изтича след %d ден</item>
+        <item quantity="other">Тази бета-версия изтича след %d дни</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="one">Изтича след %d ден</item>
+        <item quantity="other">Изтича след %d дни</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="one">Изтича след %d ден</item>
+        <item quantity="other">Изтича след %d дни</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="one">Изтича след %d ден</item>
+        <item quantity="other">Изтича след %d дни</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="one">Можете да добавите до %d книга</item>
+        <item quantity="other">Можете да добавите до %d книги</item>
+    </plurals>
+    <plurals name="bo">
+        <item quantity="one">сподели снимка</item>
+        <item quantity="other">сподели снимки</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="one">%s клип</item>
+        <item quantity="other">%s клипа</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="one">Вижте още %d</item>
+        <item quantity="other">Вижте още %d</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="one">Вижте %d отговор</item>
+        <item quantity="other">Вижте %d отговора</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="one">%d месец</item>
+        <item quantity="other">%d месеца</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="one">%d година</item>
+        <item quantity="other">%d години</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="one">Блокиране на акаунта</item>
+        <item quantity="other">Блокиране на акаунтите</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="one">%d акаунт е избран.</item>
+        <item quantity="other">%d акаунта са избрани.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="one">Можете да изберете до %d акаунт в даден момент.</item>
+        <item quantity="other">Можете да изберете до %d акаунта едновременно в даден момент.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="one">Избрали сте %d акаунт за блокиране. Блокираните акаунти няма да могат да виждат профила и съдържанието ви в TikTok.</item>
+        <item quantity="other">Избрали сте %d акаунта за блокиране. Блокираните акаунти няма да могат да виждат профила и съдържанието ви в TikTok.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="one">Блокиране на %d акаунт?</item>
+        <item quantity="other">Блокиране на %d акаунта?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="one">Изтриване на коментара</item>
+        <item quantity="other">Изтриване на коментарите</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="one">Избрали сте %d коментар.</item>
+        <item quantity="other">Избрали сте %d коментара.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="one">Изтриване на %d коментар?</item>
+        <item quantity="other">Изтриване на %d коментара?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="one">Коментарът е изтрит</item>
+        <item quantity="other">Коментарите са изтрити</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="one">%d коментар е изтрит.</item>
+        <item quantity="other">%d коментара са изтрити.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="one">Можете да изберете до %d коментар в даден момент.</item>
+        <item quantity="other">Можете да изберете до %d коментара едновременно в даден момент.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="one">Докладване на коментара</item>
+        <item quantity="other">Докладване на коментарите</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="one">Докладвате %d коментар. Ще прегледаме този коментар за неподходящо съдържание.</item>
+        <item quantity="other">Докладвате %d коментара. Ще прегледаме тези коментари за неподходящо съдържание.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="one">Докладване на %d коментар?</item>
+        <item quantity="other">Докладване на %d коментара?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="one">Коментарът е докладван</item>
+        <item quantity="other">Коментарите са докладвани</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="one">%s коментар</item>
+        <item quantity="other">%s коментара</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="one">%s видео</item>
+        <item quantity="other">%s видеа</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="one">%s потребител зададе напомняне</item>
+        <item quantity="other">%s потребители зададоха напомняния</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="one">%s ефект</item>
+        <item quantity="other">%s ефекта</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="one">Гледане на видеото</item>
+        <item quantity="other">Гледания на видеото</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="one">Нетен последовател</item>
+        <item quantity="other">Нетни последователи</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="one">Харесване</item>
+        <item quantity="other">Харесвания</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="one">%s потребител е задал напомняне</item>
+        <item quantity="other">%s потребители са задали напомняния</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="one">Изтриване на черновата?</item>
+        <item quantity="other">Изтриване на черновите?</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="one">%s публикация</item>
+        <item quantity="other">%s публикации</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="one">Неправилна парола. Остава %d опит.</item>
+        <item quantity="other">Неправилна парола. Остават %d опита.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="one">Прекалено много опити. Опитайте отново след %d минута.</item>
+        <item quantity="other">Прекалено много опити. Опитайте отново след %d минути.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="one">%d мелодия</item>
+        <item quantity="other">%d мелодии</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="one">%d музика</item>
+        <item quantity="other">%d музики</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="one">%d парче</item>
+        <item quantity="other">%d парчета</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="one">%d песен</item>
+        <item quantity="other">%d песни</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="one">%d звук</item>
+        <item quantity="other">%d звуци</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="one">%d музикален мотив</item>
+        <item quantity="other">%d музикални мотива</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="one">Изпращане (%d)</item>
+        <item quantity="other">Изпращане (%d)</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="one">%1$d следвани · %2$d последовател</item>
+        <item quantity="other">%1$d следвани · %2$d последователи</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="one">@ ново споменаване</item>
+        <item quantity="other">@ нови споменавания</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="one">изпрати нови съобщения.</item>
+        <item quantity="other">изпрати нови съобщения.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="one">ви изпрати нови съобщения.</item>
+        <item quantity="other">ви изпрати нови съобщения.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="one">Можете да изберете до %d човек</item>
+        <item quantity="other">Можете да изберете до %d души</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="one">Отхвърляне на черновата?</item>
+        <item quantity="other">Отхвърляне на черновите?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="one">Изтриване на черновата?</item>
+        <item quantity="other">Изтриване на черновите?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="one">Чернови {#} видео</item>
+        <item quantity="other">Чернови {#} видеа</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="one">%1$s и още %2$s потребител ще получат известие, когато видеото бъде публикувано.</item>
+        <item quantity="other">%1$s и още %2$s потребители ще получат известие, когато видеото бъде публикувано.</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="one">Изберете поне %d артикул</item>
+        <item quantity="other">Изберете поне %d артикула</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="one">Последваща рецензия след %d ден</item>
+        <item quantity="other">Последваща рецензия след %d дни</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="one">Приключва след %s ден</item>
+        <item quantity="other">Приключва след %s дни</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="one">%1$s артикул, общо %2$s</item>
+        <item quantity="other">%1$s артикула, общо %2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="one">Общо (%s артикул)</item>
+        <item quantity="other">Общо (%s артикула)</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="one">Можете да редактирате само до %d път</item>
+        <item quantity="other">Можете да редактирате само до %d пъти</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="one">Визуализация на ефекта след %d сек</item>
+        <item quantity="other">Визуализация на ефекта след %d сек</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="one">Отбелязан/а</item>
+        <item quantity="other">Отбелязани</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="one">Може да познавате този член на групата.</item>
+        <item quantity="other">Може да познавате тези членове на групата.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="one">%s видео</item>
+        <item quantity="other">%s видеа</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="one">%s видео е добавено</item>
+        <item quantity="other">%s видеа са добавени</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="one">Премахване на %1$d видео от %2$s</item>
+        <item quantity="other">Премахване на %1$d видеа от %2$s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="one">%1$d видео е преместено към %2$s</item>
+        <item quantity="other">%1$d видеа са преместени към %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="one">%d видео е премахнато</item>
+        <item quantity="other">%d видеа са премахнати</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="one">%d нови предложени акаунта</item>
+        <item quantity="other">%d нови предложени акаунта</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="one">Следва се от %s</item>
+        <item quantity="other">Следва се от %s + още %d</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="one">Следва %s</item>
+        <item quantity="other">Следва %s + още %d</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="one">Следва се от {0}, {1} и още {2} друг потребител</item>
+        <item quantity="other">Следва се от {0}, {1} и още {2} други потребители</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="one">Следва се от {0} и още {2} друг потребител</item>
+        <item quantity="other">Следва се от {0} и още {2} други потребители</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="one">Следва {0}, {1} и още {2} друг потребител</item>
+        <item quantity="other">Следва {0}, {1} и още {2} други потребители</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="one">Следва {0} и още {2} друг потребител</item>
+        <item quantity="other">Следва {0} и още {2} други потребители</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="one">Приятели с {0}, {1} и още {2} друг потребител</item>
+        <item quantity="other">Приятели с {0}, {1} и още {2} други потребители</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="one">Приятели с {0} и още {2} друг потребител</item>
+        <item quantity="other">Приятели с {0} и още {2} други потребители</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="one">{2} обща връзка</item>
+        <item quantity="other">{2} общи връзки</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="one">Приятели с %s</item>
+        <item quantity="other">Приятели с %s + още %d</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="one">%d нова публикация от приятели</item>
+        <item quantity="other">%d нови публикации от приятели</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="one">%d член е активен сега</item>
+        <item quantity="other">%d членове са активни сега</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="one">%1$d член беше активен преди %2$d минути</item>
+        <item quantity="other">%1$d членове бяха активни преди %2$d минути</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="one">%d член е активен днес</item>
+        <item quantity="other">%d членове са активни днес</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="one">%d член</item>
+        <item quantity="other">%d членове</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="one">Нова заявка</item>
+        <item quantity="other">Нови заявки</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="one">%s член</item>
+        <item quantity="other">%s членове</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="one">Вижте още %d член</item>
+        <item quantity="other">Вижте още %d члена</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="one">%s гледане</item>
+        <item quantity="other">%s гледания</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="one">Последовател: %s</item>
+        <item quantity="other">Последователи: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="one">Видео: %s</item>
+        <item quantity="other">Видеа: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="one">Изпратено на %s и %d друг потребител</item>
+        <item quantity="other">Изпратено на %s и %d други потребители</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="one">Неуспешно качване на %d история. Историята е записана в черновите.</item>
+        <item quantity="other">Неуспешно качване на %d истории. Историите са записани в черновите.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="one">Неуспешно качване на снимка. Снимката е записана в черновите.</item>
+        <item quantity="other">Неуспешно качване на снимките. Снимките са записани в черновите.</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="one">%d стикер</item>
+        <item quantity="other">%d стикера</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="one">ви спомена в снимка.</item>
+        <item quantity="other">ви спомена в снимки.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="one">%s нова публикация</item>
+        <item quantity="other">%s нови публикации</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="one">Дейност</item>
+        <item quantity="other">Дейности</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="one">Последвайте %1$s, %2$s и още %d потребител, който може би познавате, за да гледате техните видеа.</item>
+        <item quantity="other">Последвайте %1$s, %2$s и още %d потребители, които може би познавате, за да гледате техните видеа.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="one">%d друг</item>
+        <item quantity="other">%d други</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="one">Последвайте %1$s, %2$s и още %3$d потребител, който може би познавате, за да гледате техните видеа.</item>
+        <item quantity="other">Последвайте %1$s, %2$s и още %3$d потребители, които може би познавате, за да гледате техните видеа.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="one">Съобщение</item>
+        <item quantity="other">Съобщения</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="one">Нова дейност</item>
+        <item quantity="other">Нови дейности</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="one">%s член</item>
+        <item quantity="other">%s членове</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="one">%s публикация</item>
+        <item quantity="other">%s публикации</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="one">%d ключова дума</item>
+        <item quantity="other">%d ключови думи</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="one">%d LIVE видео</item>
+        <item quantity="other">%d LIVE видеа</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="one">Приключва след %s ден</item>
+        <item quantity="other">Приключва след %s дни</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="one">Можете да изберете до %1$d мултимедиен файл</item>
+        <item quantity="other">Можете да изберете до %1$d мултимедийни файла</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="one">%d заявка</item>
+        <item quantity="other">%d заявки</item>
+    </plurals>
+    <plurals name="j0">
+        <item quantity="one">%d ново известие</item>
+        <item quantity="other">%d нови известия</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="one">Премахване на песен от нови?</item>
+        <item quantity="other">Премахване на песни от нови?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="one">%d песен е премахната от нови</item>
+        <item quantity="other">%d песни са премахнати от нови</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="one">%d издание</item>
+        <item quantity="other">%d издания</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="one">%d артист</item>
+        <item quantity="other">%d артисти</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="one">%d обща връзка</item>
+        <item quantity="other">%d общи връзки</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="one">%d обща връзка</item>
+        <item quantity="other">%d общи връзки</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="one">Вече можете да качвате видеа с дължина до %d минута!</item>
+        <item quantity="other">Вече можете да качвате видеа с дължина до %d минути!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="one">Представяме ви %d-минутното видео</item>
+        <item quantity="other">Представяме ви %d-минутното видео</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="one">%d обща връзка</item>
+        <item quantity="other">%d общи връзки</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="one">%d коментар</item>
+        <item quantity="other">%d коментара</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="one">Преглед на %d коментар</item>
+        <item quantity="other">Преглед на всичките %d коментара</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="one">{nickname} и {number_1} друг потребител</item>
+        <item quantity="other">{nickname} и {number_1} други потребители</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="one">{number} приятел публикува днешното Now</item>
+        <item quantity="other">{number} приятели публикуваха днешното Now</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="one">%1$s и %2$d друг потребител публикуваха своето Now</item>
+        <item quantity="other">%1$s и %2$d други потребители публикуваха своето Now</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="one">{nickname} и {number_1} друг потребител</item>
+        <item quantity="other">{nickname} и {number_1} други потребители</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="one">Присъединете се към {number} приятел в TikTok Now, за да споделяте случайни моменти</item>
+        <item quantity="other">Присъединете се към {number} приятели в TikTok Now, за да споделяте случайни моменти</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="one">Публикувайте вашето Now през следващата {number} минута</item>
+        <item quantity="other">Публикувайте вашето Now през следващите {number} минути</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="one">Остава %d минута за публикуване на Now.</item>
+        <item quantity="other">Остават %d минути за публикуване на Now.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="one">%d общ приятел</item>
+        <item quantity="other">%d общи приятели</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="one">%d харесване</item>
+        <item quantity="other">%d харесвания</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="one">{1}, {2}, {3} и още {number} потребител току-що публикуваха Now.</item>
+        <item quantity="other">{1}, {2}, {3} и още {number} потребители току-що публикуваха Now.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="one">%d реакция</item>
+        <item quantity="other">%d реакции</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="one">%d гледане</item>
+        <item quantity="other">%d гледания</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="one">%d гледане</item>
+        <item quantity="other">%d гледания</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="one">%1$s и още %2$s друг потребител</item>
+        <item quantity="other">%1$s и още %2$s други потребители</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="one">Вашата публикация, синхронизирана от Lemon8, все още няма звук. Добавете звук, за да направите публикацията си по-ангажираща за зрителите.</item>
+        <item quantity="other">Вашите публикации, синхронизирани от Lemon8, все още нямат звук. Добавете звук, за да направите публикациите си по-ангажиращи за зрителите.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="one">Добавете звук, за да подобрите публикацията си</item>
+        <item quantity="other">Добавете звук, за да подобрите публикациите си</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="one">хареса вашата снимка.</item>
+        <item quantity="other">хареса вашите снимки.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="one">гласува за вашата снимка.</item>
+        <item quantity="other">гласува за вашите снимки.</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="one">%d епизод</item>
+        <item quantity="other">%d епизода</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="one">%d част</item>
+        <item quantity="other">%d части</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="one">Можете да изпратите още %d път</item>
+        <item quantity="other">Можете да изпратите още %d пъти</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="one">%d зрителя заяви</item>
+        <item quantity="other">%d зрителите заявиха</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="one">Достъпът ще бъде възстановен след %s ден</item>
+        <item quantity="other">Достъпът ще бъде възстановен след %s дни</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="one">%s Монета от най-добрия зрител номер 1</item>
+        <item quantity="other">%s Монети от най-добрия зрител номер 1</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="one">%s Монета от най-добрия зрител номер 2</item>
+        <item quantity="other">%s Монети от най-добрия зрител номер 2</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="one">%s последовател</item>
+        <item quantity="other">%s последователи</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="one">Пазарувайте %s наличен артикул</item>
+        <item quantity="other">Пазарувайте {number} налични артикула</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="one">Пазарувайте %s наличен артикул</item>
+        <item quantity="other">Пазарувайте {number} налични артикула</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="one">дадена %s Монета на създател на LIVE</item>
+        <item quantity="other">дадени %s Монети на създател на LIVE</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="one">%s харесване</item>
+        <item quantity="other">%s харесвания</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="one">%s зрител</item>
+        <item quantity="other">%s зрители</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="one">%s споделяне. Споделяне на видео</item>
+        <item quantity="other">%s споделяния. Споделяне на видео</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="one">%1$s гласува %2$s</item>
+        <item quantity="other">%1$s гласуваха %2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="one">%1$s гласува %2$s, %3$s гласува %4$s</item>
+        <item quantity="other">%1$s гласуваха %2$s, %3$s гласуваха %4$s</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="one">След %d минута</item>
+        <item quantity="other">След %d минути</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="one">Още %d точка опит за повишаване на нивото</item>
+        <item quantity="other">Още %d точки опит за повишаване на нивото</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="one">Вашите награди ще влязат в режим на сън след %d ден</item>
+        <item quantity="other">Вашите награди ще влязат в режим на сън след %d дни</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="one">Да се прекрати ли този LIVE? %s зрител гледа в момента.</item>
+        <item quantity="other">Да се прекрати ли този LIVE? %s зрители гледат в момента.</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="one">Да се прекрати ли този LIVE? %s зрител гледа в момента.</item>
+        <item quantity="other">Да се прекрати ли този LIVE? %s зрители гледат в момента.</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="one">%s ново съобщение</item>
+        <item quantity="other">%s нови съобщения</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="one">Съдомакинствано {num} ден поред</item>
+        <item quantity="other">Съдомакинствано {num} дни поред</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="one">Не ви достига {number} Монета</item>
+        <item quantity="other">Не ви достигат {number} Монети</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="one">Най-високата стойност през последните {number} дни: {amount} Монета</item>
+        <item quantity="other">Най-високата стойност през последните {number} дни: {amount} Монети</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="one">Предложени: {amount} Монета</item>
+        <item quantity="other">Предложени: {amount} Монети</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="one">Сега имате {number} Монета. Можете да презаредите, за да получите повече Монети.</item>
+        <item quantity="other">Сега имате {number} Монети. Можете да презаредите, за да получите повече Монети.</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="one">Правилно отгатване (%d)</item>
+        <item quantity="other">Правилни отгатвания (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="one">%s правилно отгатнал</item>
+        <item quantity="other">%s правилно отгатнали</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="one">%s зрител отгатна думата��</item>
+        <item quantity="other">%s зрители отгатнаха думата ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="one">Повечето зрители отгатнаха %s дума</item>
+        <item quantity="other">Повечето зрители отгатнаха %s думи</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="one">Нито един потребител не позна думата</item>
+        <item quantity="other">Нито един потребител не позна думите</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="one">%s минута за рисуване на дума</item>
+        <item quantity="other">%s минути за рисуване на дума</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="one">�� %d зрител отгатна думата %s</item>
+        <item quantity="other">�� %d зрители отгатнаха думата %s</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="one">Отгатнах %s дума!</item>
+        <item quantity="other">Отгатнах %s думи!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="one">Отгатнахте %s дума</item>
+        <item quantity="other">Отгатнахте %s думи</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="one">{0:string} и {1:string} друг купувач купуват</item>
+        <item quantity="other">{0:string} и {1:string} други купувачи купуват</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="one">%d изображение е твърде малко. Изображенията трябва да са най-малко 256 x 256 пиксела.</item>
+        <item quantity="other">%d изображения са твърде малки. Изображенията трябва да са най-малко 256 x 256 пиксела.</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="one">%d зрител</item>
+        <item quantity="other">%d зрители</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="one">Имате %d Монета.</item>
+        <item quantity="other">Имате %d Монети.</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="one">Можете да обмените %@ за още %d Монета, за да изпратите този Подарък.</item>
+        <item quantity="other">Можете да обмените %@ за още %d Монети, за да изпратите този Подарък.</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="one">Балансът на Подаръци в LIVE е обменен за {{num}} Монета</item>
+        <item quantity="other">Балансът на Подаръци в LIVE е обменен за {{num}} Монети</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="one">Не ви достига %1$d монета. Обмяна на %2$s за монети и изпращане на %3$s?</item>
+        <item quantity="other">Не ви достигат %1$d монети. Обмяна на %2$s за монети и изпращане на %3$s?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="one">Вие обменихте за %d монета и изпратихте %s</item>
+        <item quantity="other">Вие обменихте за %d монети и изпратихте %s</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="one">%s член</item>
+        <item quantity="other">%s членове</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="one">Е с вас от {num} ден</item>
+        <item quantity="other">Е с вас от {num} дни</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="one">Вземете 1 членска точка за {num} час, за да останете активни</item>
+        <item quantity="other">Вземете 1 членска точка за {num} часа, за да останете активни</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="one">Може да се изпрати за %1$d Монета още %2$d път.</item>
+        <item quantity="other">Може да се изпрати за %1$d Монета още %2$d пъти.</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="one">%d последовател е активен в момента</item>
+        <item quantity="other">%d последователи са активни в момента</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="one">{number} от вашите приятели е LIVE. Поканете го да се включите в Съвместен LIVE!</item>
+        <item quantity="other">{number} от вашите приятели са LIVE. Поканете ги да се включите в Съвместен LIVE!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="one">Отключете допълнително {num} Монета чрез презареждане</item>
+        <item quantity="other">Отключете допълнително {num} Монети чрез презареждане</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="one">{num} ден</item>
+        <item quantity="other">{num} дни</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="one">Отключване на {num} Монета</item>
+        <item quantity="other">Отключване на {num} Монети</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="one">{num} Монета</item>
+        <item quantity="other">{num} Монети</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="one">Ще отключите допълнителни {num} Монета.</item>
+        <item quantity="other">Ще отключите допълнителни {num} Монети.</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="one">Презареждане на още {num_1} Монета.</item>
+        <item quantity="other">Презареждане на още {num_1} Монети.</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="one">Презаредете, за да отключите допълнително {num} Монета</item>
+        <item quantity="other">Презаредете, за да отключите допълнително {num} Монети</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="one">Последният {number} ден</item>
+        <item quantity="other">Последните {number} дни</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="one">Цената на {gameName} и на {number} друга е променена. Вижте повече в центъра за партньорство.</item>
+        <item quantity="other">Цената на {gameName} и на {number} други е променена. Вижте повече в центъра за партньорство.</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="one">Подаряването е временно ограничено за %s ден във вашия LIVE поради нарушаване на Условията на програмата.</item>
+        <item quantity="other">Подаряването е временно ограничено за %s дни във вашия LIVE поради нарушаване на Условията на програмата.</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="one">Подаряването е временно ограничено в този LIVE и ще бъде възстановено след %s минута.</item>
+        <item quantity="other">Подаряването е временно ограничено в този LIVE и ще бъде възстановено след %s минути.</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="one">Подаряването е временно ограничено за {0} ден.</item>
+        <item quantity="other">Подаряването е временно ограничено за {0} дни.</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="one">Подаряването е временно ограничено за %s ден</item>
+        <item quantity="other">Подаряването е временно ограничено за %s дни</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="one">Изпращане за %d Монета</item>
+        <item quantity="other">Изпращане за %d Монети</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="one">Презареждането приключи и вече имате %d Монета. Изпратете този Подарък, за да покажете подкрепата си!</item>
+        <item quantity="other">Презареждането приключи и вече имате %d Монети. Изпратете този Подарък, за да покажете подкрепата си!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="one">Обмяната приключи и вече имате %d Монета. Изпратете този Подарък, за да покажете подкрепата си!</item>
+        <item quantity="other">Обмяната приключи и вече имате %d Монети. Изпратете този Подарък, за да покажете подкрепата си!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="one">{0:user} изпрати {1:gift} ({2:string} точка) {3:string}, това е първият Подарък, който изпраща изобщо! Изразете своята признателност!</item>
+        <item quantity="other">{0:user} изпрати {1:gift} ({2:string} точки) {3:string}, това е първият Подарък, който изпраща изобщо! Изразете своята признателност!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="one">{0:user} изпрати {1:gift} ({2:string} точка) {3:string}</item>
+        <item quantity="other">{0:user} изпрати {1:gift} ({2:string} точки) {3:string}</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="one">{0:user} изпрати {1:gift} ({2:string} точка) {3:string}</item>
+        <item quantity="other">{0:user} изпрати {1:gift} ({2:string} точки) {3:string}</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="one">{0:user} изпрати {1:gift} ({2:string} точка) {3:string} и отиде в {4:city} със създателя за първи път в това турне!</item>
+        <item quantity="other">{0:user} изпрати {1:gift} ({2:string} точки) {3:string} и отиде в {4:city} със създателя за първи път в това турне!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="one">Подробности за Подарък (общо {{num}} трансакция)</item>
+        <item quantity="other">Подробности за Подарък (общо {{num}} трансакции)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="one">{amount} Монета</item>
+        <item quantity="other">{amount} Монети</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="one">Подарък</item>
+        <item quantity="other">Подаръци</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="one">%d Монета</item>
+        <item quantity="other">%d Монети</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="one">Получихте %s Подарък. Не забравяйте да благодарите.</item>
+        <item quantity="other">Получихте %s Подаръка. Не забравяйте да благодарите.</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="one">Получихте %s Подарък</item>
+        <item quantity="other">Получихте %s Подаръка</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="one">Завършване на обмяна за %s Монета?</item>
+        <item quantity="other">Завършване на обмяна за %s Монети?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="one">Начало на LIVE (%ds)</item>
+        <item quantity="other">Начало на LIVE (%ds)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="one">%s заявка от гост</item>
+        <item quantity="other">%s заявки от гости</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="one">%s заявка</item>
+        <item quantity="other">%s заявки</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="one">%s точка</item>
+        <item quantity="other">%s точки</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="one">%1$s точка за достигане на %2$s</item>
+        <item quantity="other">%1$s точки за достигане на %2$s</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="one">%d зрител подава заявка</item>
+        <item quantity="other">%d зрители подават заявка</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="one">Получихте временно ограничение за преминаване в LIVE като гост до %d ден по-късно</item>
+        <item quantity="other">Получихте временно ограничение за преминаване в LIVE като гост до %d дни по-късно</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="one">Получихте временно ограничение за преминаване в LIVE като гост до %d час по-късно</item>
+        <item quantity="other">Получихте временно ограничение за преминаване в LIVE като гост до %d часа по-късно</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="one">Получихте временно ограничение за преминаване в LIVE като гост до %d минута по-късно</item>
+        <item quantity="other">Получихте временно ограничение за преминаване в LIVE като гост до %d минути по-късно</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="one">Получихте временно ограничение за преминаване в LIVE като гост до %d секунда по-късно</item>
+        <item quantity="other">Получихте временно ограничение за преминаване в LIVE като гост до %d секунди по-късно</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="one">Инструмент</item>
+        <item quantity="other">Инструменти</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="one">[username] и [number] последовател ви сбутаха да се включите LIVE</item>
+        <item quantity="other">[username] и [number] последователи ви сбутаха да се включите LIVE</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="one">[username] и [number] последовател наскоро ви сбутаха да се включите LIVE</item>
+        <item quantity="other">[username] и [number] последователи наскоро ви сбутаха да се включите LIVE</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="one">Ако приемете поканата, този създател на LIVE ще се присъедини към текущото ви съдомакинство.</item>
+        <item quantity="other">Ако приемете поканата, тези създатели на LIVE ще се присъединят към текущото ви съдомакинство.</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="one">{number} ден</item>
+        <item quantity="other">{number} дни</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="one">В следващата стъпка, след като напуснете страницата, вашият купон ще бъде достъпен за използване отново след {number} ден.</item>
+        <item quantity="other">В следващата стъпка, след като напуснете страницата, вашият купон ще бъде достъпен за използване отново след {number} дни.</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="one">В следващата стъпка, след като напуснете страницата, вашият купон ще бъде достъпен за използване отново след {number} час.</item>
+        <item quantity="other">В следващата стъпка, след като напуснете страницата, вашият купон ще бъде достъпен за използване отново след {number} часа.</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="one">В следващата стъпка, след като напуснете страницата, вашият купон ще бъде достъпен за използване отново след {number} минута.</item>
+        <item quantity="other">В следващата стъпка, след като напуснете страницата, вашият купон ще бъде достъпен за използване отново след {number} минути.</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="one">Купонът ще бъде достъпен за използване отново след {number} ден</item>
+        <item quantity="other">Купонът ще бъде достъпен за използване отново след {number} дни</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="one">Купонът ще бъде достъпен за използване отново след {number} час</item>
+        <item quantity="other">Купонът ще бъде достъпен за използване отново след {number} часа</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="one">Купонът ще бъде достъпен за използване отново след {number} минута</item>
+        <item quantity="other">Купонът ще бъде достъпен за използване отново след {number} минути</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="one">%s харесване</item>
+        <item quantity="other">%s харесвания</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="one">харесване</item>
+        <item quantity="other">харесвания</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="one">%s харесване</item>
+        <item quantity="other">%s харесвания</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="one">%d сек</item>
+        <item quantity="other">%d сек</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="one">Вашата кандидатура за LIVE не е одобрена. Можете да кандидатствате отново след %d ден.</item>
+        <item quantity="other">Вашата кандидатура за LIVE не е одобрена. Можете да кандидатствате отново след %d дни.</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="one">Кандидатствали сте за достъп за LIVE и можете да се включите LIVE през следващите 7 дни. Не забравяйте да спазвате Насоките на общността и да се включите LIVE за %d час през първата седмица, за да получите постоянен достъп.</item>
+        <item quantity="other">Кандидатствали сте за достъп за LIVE и можете да се включите LIVE през следващите 7 дни. Не забравяйте да спазвате Насоките на общността и да се включите LIVE за %d часа през първата седмица, за да получите постоянен достъп.</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="one">Включете се LIVE за още %d час до %s, за да получите постоянен достъп за LIVE</item>
+        <item quantity="other">Включете се LIVE за още %d часа до %s, за да получите постоянен достъп за LIVE</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="one">Включете се LIVE за още %1$s час до %2$s, за да получите постоянен достъп за LIVE</item>
+        <item quantity="other">Включете се LIVE за още %1$s часа до %2$s, за да получите постоянен достъп за LIVE</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="one">%s точка</item>
+        <item quantity="other">%s точки</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="one">{%s host username} се нуждае от {%d} Монета, за да стане създател на LIVE № {%n} за тази седмица!</item>
+        <item quantity="other">{%s host username} се нуждае от {%d} Монети, за да стане създател на LIVE № {%n} за тази седмица!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="one">Остава 1 ден. Вземете още {%d} Диамант, за да станете № 3 създател на LIVE и да спечелите ексклузивна значка за вашето видео.</item>
+        <item quantity="other">Остава 1 ден. Вземете още {%d} Диаманта, за да станете № 3 създател на LIVE и да спечелите ексклузивна значка за вашето видео.</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="one">Остава 1 ден. Вземете още {%d} Диамант, за да може вашият LIVE да достигне повече потенциални зрители.</item>
+        <item quantity="other">Остава 1 ден. Вземете още {%d} Диаманта, за да може вашият LIVE да достигне повече потенциални зрители.</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="one">Остава 1 ден. Вземете още {%d} Диамант, за да спечелите уникални награди за създатели на LIVE!</item>
+        <item quantity="other">Остава 1 ден. Вземете още {%d} Диаманта, за да спечелите уникални награди за създатели на LIVE!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="one">1 последовател е активен в момента</item>
+        <item quantity="other">%s последователи са активни в момента</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="one">%s Монета е необходима</item>
+        <item quantity="other">%s Монети са необходими</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="one">%d абонат гледа</item>
+        <item quantity="other">%d абонати гледат</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="one">Остават 3 минути. Вземете още {%d} Диамант, за да станете № 3 създател на LIVE и да спечелите ексклузивна значка.</item>
+        <item quantity="other">Остават 3 минути. Вземете още {%d} Диаманта, за да станете № 3 създател на LIVE и да спечелите ексклузивна значка.</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="one">Остават 3 минути. Вземете още {%d} Диамант, за да може вашият LIVE да достигне повече потенциални зрители.</item>
+        <item quantity="other">Остават 3 минути. Вземете още {%d} Диаманта, за да може вашият LIVE да достигне повече потенциални зрители.</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="one">Остават 3 минути. Вземете още {%d} Диамант, за да спечелите уникални награди за създатели на LIVE!</item>
+        <item quantity="other">Остават 3 минути. Вземете още {%d} Диаманта, за да спечелите уникални награди за създатели на LIVE!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="one">%s час %d мин</item>
+        <item quantity="other">%s часа %d мин</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="one">диамант</item>
+        <item quantity="other">диаманти</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="one">гледане</item>
+        <item quantity="other">гледания</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="one">На въпросите няма да може да се отговори след %s минута</item>
+        <item quantity="other">На въпросите няма да може да се отговори след %s минути</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="one">Преди %s ч</item>
+        <item quantity="other">Преди %s ч</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="one">Преди %s мин</item>
+        <item quantity="other">Преди %s мин</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="one">Събитието %s е насрочено да започне след 10 минути. %d потребител е видял вашето събитие. Включете се LIVE сега, за да се възползвате максимално от промоцията си!</item>
+        <item quantity="other">Събитието %s е насрочено да започне след 10 минути. %d потребители са видели вашето събитие. Включете се LIVE сега, за да се възползвате максимално от промоцията си!</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="one">Преглед на %s задача за урок</item>
+        <item quantity="other">Преглед на %s задачи за урок</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="one">%d приоритетна заявка от подаряващи</item>
+        <item quantity="other">%d приоритетни заявки от подаряващи</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="one">%d Монета</item>
+        <item quantity="other">%d Монети</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="one">Това ще ви струва %d Монета.</item>
+        <item quantity="other">Това ще ви струва %d Монети.</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="one">Вие изпратихте %d Монета. %s</item>
+        <item quantity="other">Вие изпратихте %d Монети. %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="one">Създателят на LIVE може да приоритизира заявки от тези, които изпращат общо повече от %d Монета.</item>
+        <item quantity="other">Създателят на LIVE може да приоритизира заявки от тези, които изпращат общо повече от %d Монети.</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="one">Създателят на LIVE може да приоритизира заявки от вас и останалите, които изпращат общо повече от %d Монета.</item>
+        <item quantity="other">Създателят на LIVE може да приоритизира заявки от вас и останалите, които изпращат общо повече от %d Монети.</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="one">Това ще ви струва %d Монета.</item>
+        <item quantity="other">Това ще ви струва %d Монети.</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="one">Можете да поканите %1$s да включат камерата си отново след %2$s секунда</item>
+        <item quantity="other">Можете да поканите %1$s да включат камерата си отново след %2$s секунди</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="one">Можете да поканите %1$s да включат микрофона си отново след %2$s секунда</item>
+        <item quantity="other">Можете да поканите %1$s да включат микрофона си отново след %2$s секунди</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="one">%d минута</item>
+        <item quantity="other">%d минути</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="one">%d секунда</item>
+        <item quantity="other">%d секунди</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="one">%d мин</item>
+        <item quantity="other">%d мин</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="one">%d сек</item>
+        <item quantity="other">%d сек</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="one">%s задача за изпълнение в етап 1</item>
+        <item quantity="other">%s задачи за изпълнение в етап 1</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="one">%s задача за изпълнение в етап 2</item>
+        <item quantity="other">%s задачи за изпълнение в етап 2</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="one">Можете да създадете най-много %s персонализирана привилегия. Изтрийте някоя персонализирана привилегия, за да създадете нова.</item>
+        <item quantity="other">Можете да създадете най-много %s персонализирани привилегии. Изтрийте някоя персонализирана привилегия, за да създадете нова.</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="one">Анкетата приключва след %s сек</item>
+        <item quantity="other">Анкетата приключва след %s сек</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="one">Гласуване сега (%s сек):</item>
+        <item quantity="other">Гласуване сега (%s сек):</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="one">Днес сте похарчили %d Монета.</item>
+        <item quantity="other">Днес сте похарчили %d Монети.</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="one">Давайте Подаръци с по-бавно темпо и опитайте отново след %d минута.</item>
+        <item quantity="other">Давайте Подаръци с по-бавно темпо и опитайте отново след %d минути.</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="one">Порталът на {0:user} е затворен. {1:string} зрител се присъедини през портала.</item>
+        <item quantity="other">Порталът на {0:user} е затворен. {1:string} зрители се присъединиха през портала.</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="one">Порталът на {0:user} е затворен. {1:string} зрител се присъедини през портала! Браво! ��</item>
+        <item quantity="other">Порталът на {0:user} е затворен. {1:string} зрители се присъединиха през портала! Браво! ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="one">Порталът на {0:user} е затворен. {1:string} зрител се присъедини през портала! Отлично! ��</item>
+        <item quantity="other">Порталът на {0:user} е затворен. {1:string} зрители се присъединиха през портала! Отлично! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="one">%s гледане</item>
+        <item quantity="other">%s гледания</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="one">Закупена {{num}} Монета в уеб от настолен компютър</item>
+        <item quantity="other">Закупени {{num}} Монети в уеб от настолен компютър</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="one">Закупена {{num}} Монета в приложението</item>
+        <item quantity="other">Закупени {{num}} Монети в приложението</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="one">Закупена {{num}} Монета в уеб от мобилно устройство</item>
+        <item quantity="other">Закупени {{num}} Монети в уеб от мобилно устройство</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="one">Преразгледахме вашето възражение и коригирахме продължителността на забраната за достъп. Достъпът ви за LIVE включване от PC или Mac ще бъде възстановен след %s ден.</item>
+        <item quantity="other">Преразгледахме вашето възражение и коригирахме продължителността на забраната за достъп. Достъпът ви за LIVE включване от PC или Mac ще бъде възстановен след %s дни.</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="one">Вашият достъп за включване LIVE от PC или Mac е временно ограничен за %s ден поради многократни нарушения на нашите Насоки на общността.</item>
+        <item quantity="other">Вашият достъп за включване LIVE от PC или Mac е временно ограничен за %s дни поради многократни нарушения на нашите Насоки на общността.</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="one">Преразгледахме вашето възражение и коригирахме продължителността на забраната на достъпа ви до „Кутия със съкровище“ на %s ден.</item>
+        <item quantity="other">Преразгледахме вашето възражение и коригирахме продължителността на забраната на достъпа ви до „Кутия със съкровище“ на %s дни.</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="one">Вашият достъп до „Кутия със съкровище“ е временно ограничен за %s ден поради многократни нарушения на нашите Насоки на общността.</item>
+        <item quantity="other">Вашият достъп до „Кутия със съкровище“ е временно ограничен за %s дни поради многократни нарушения на нашите Насоки на общността.</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="one">Получихте повече от %s Диамант през последните 30 дни. Продължавайте с добрата работа, за да бъдете включени в седмичната класация.</item>
+        <item quantity="other">Получихте повече от %s Диаманта през последните 30 дни. Продължавайте с добрата работа, за да бъдете включени в седмичната класация.</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="one">Тази класация показва създателите на LIVE, които са получили по-малко от {0:string} Диамант през последните 30 дни.</item>
+        <item quantity="other">Тази класация показва създателите на LIVE, които са получили по-малко от {0:string} Диаманта през последните 30 дни.</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="one">Подаряването е временно ограничено за %s ден</item>
+        <item quantity="other">Подаряването е временно ограничено за %s дни</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="one">Сега имате {number_1} Монета. Можете да презаредите {number_2} Монети ({amount}), за да изпратите артикула.</item>
+        <item quantity="other">Сега имате {number_1} Монети. Можете да презаредите {number_2} Монети ({amount}), за да изпратите артикула.</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="one">Не ви достига %s Монета</item>
+        <item quantity="other">Не ви достигат %s Монети</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="one">Получихте {number} връзка за покана</item>
+        <item quantity="other">Получихте {number} връзки за покана</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="one">Отворете поканата си за абониране от %s</item>
+        <item quantity="other">Отворете поканата си за абониране от %s и други</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="one">Изпратена заявка: преди %d мин</item>
+        <item quantity="other">Изпратена заявка: преди %d мин</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="one">Подаряването е временно ограничено за %s ден</item>
+        <item quantity="other">Подаряването е временно ограничено за %s дни</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="one">Достъпът ще бъде възстановен след %s ден.</item>
+        <item quantity="other">Достъпът ще бъде възстановен след %s дни.</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="one">Разгледахме вашето възражение и коригирахме продължителността на забраната за достъп. Достъпът ви до LIVE Studio ще бъде възстановен след %s ден.</item>
+        <item quantity="other">Разгледахме вашето възражение и коригирахме продължителността на забраната за достъп. Достъпът ви до LIVE Studio ще бъде възстановен след %s дни.</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="one">Разгледахме вашето възражение и коригирахме продължителността на забраната за достъп. Достъпът ви до функцията за мобилни игри ще бъде възстановен след %s ден.</item>
+        <item quantity="other">Разгледахме вашето възражение и коригирахме продължителността на забраната за достъп. Достъпът ви до функцията за мобилни игри ще бъде възстановен след %s дни.</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="one">Преразгледахме вашето възражение и коригирахме продължителността на забраната за достъп. Достъпът ви за LIVE включване от PC или Mac ще бъде възстановен след %s ден.</item>
+        <item quantity="other">Преразгледахме вашето възражение и коригирахме продължителността на забраната за достъп. Достъпът ви за LIVE включване от PC или Mac ще бъде възстановен след %s дни.</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="one">Достъпът ви до LIVE Studio е временно ограничен за %s ден поради редица нарушения на нашите правила за LIVE или на Насоките на общността.</item>
+        <item quantity="other">Достъпът ви до LIVE Studio е временно ограничен за %s дни поради редица нарушения на нашите правила за LIVE или на Насоките на общността.</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="one">Достъпът ви до функцията за мобилни игри е временно ограничен за %s ден поради редица нарушения на нашите правила за LIVE или на Насоките на общността.</item>
+        <item quantity="other">Достъпът ви до функцията за мобилни игри е временно ограничен за %s дни поради редица нарушения на нашите правила за LIVE или на Насоките на общността.</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="one">Достъпът ви за включване LIVE от PC или Mac е временно ограничен за %s ден поради редица нарушения на нашите правила за LIVE или на Насоките на общността.</item>
+        <item quantity="other">Достъпът ви за включване LIVE от PC или Mac е временно ограничен за %s дни поради редица нарушения на нашите правила за LIVE или на Насоките на общността.</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="one">Цел: {&lt;num&gt;} подаряващ</item>
+        <item quantity="other">Цел: {&lt;num&gt;} подаряващи</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="one">Цел: {&lt;num&gt;} точка за подаряване</item>
+        <item quantity="other">Цел: {&lt;num&gt;} точки за подаряване</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="one">Цел: {&lt;num&gt;} екип подаряващ</item>
+        <item quantity="other">Цел: {&lt;num&gt;} екип подаряващи</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="one">Цел: {&lt;num&gt;} екипна точка за подаряване</item>
+        <item quantity="other">Цел: {&lt;num&gt;} екипни точки за подаряване</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="one">+ &lt;num&gt; точка за двубой</item>
+        <item quantity="other">+ &lt;num&gt; точки за двубой</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="one">%s зрител ще видят вашия коментар най-отгоре</item>
+        <item quantity="other">%s зрители ще видят вашия коментар най-отгоре</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="one">Вашият коментар със звезда беше изтрит по време на LIVE и ще получите възстановяване на [0:string] Монета за този коментар в рамките на 24 часа.</item>
+        <item quantity="other">Вашият коментар със звезда беше изтрит по време на LIVE и ще получите възстановяване на [0:string] Монети за този коментар в рамките на 24 часа.</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="one">%s Коментар със Звезда в опашката</item>
+        <item quantity="other">%s Коментара със Звезда в опашката</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="one">Вашите коментари със звезди бяха изтрити наскоро. Опитайте отново след {num} час.</item>
+        <item quantity="other">Вашите коментари със звезди бяха изтрити наскоро. Опитайте отново след {num} часа.</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="one">Вашите коментари със звезди бяха изтрити наскоро. Опитайте отново след {num} минута.</item>
+        <item quantity="other">Вашите коментари със звезди бяха изтрити наскоро. Опитайте отново след {num} минути.</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="one">Приключва след %s ден</item>
+        <item quantity="other">Приключва след %s дни</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="one">%1$s зрители гледат. Може да получите %2$s нов абонат, ако стартирате LIVE само за абонати сега.</item>
+        <item quantity="other">%1$s зрители гледат. Може да получите %2$s нов абонати, ако стартирате LIVE само за абонати сега.</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="one">%s абонат гледа. Това е добър момент да задълбочите връзката си с вашата общност, като използвате LIVE само за абонати.</item>
+        <item quantity="other">%s абонати гледат. Това е добър момент да задълбочите връзката си с вашата общност, като използвате LIVE само за абонати.</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="one">Може да получите %1$s нов абонат с %2$s минути LIVE само за абонати всеки месец.</item>
+        <item quantity="other">Може да получите %1$s нов абонати с %2$s минути LIVE само за абонати всеки месец.</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="one">Можете да въведете до %s емоджи в коментар</item>
+        <item quantity="other">Можете да въведете до %s емоджита в коментар</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="one">Абонирайте се, за да използвате %2$s персонализирано емоджи на %1$s</item>
+        <item quantity="other">Абонирайте се, за да използвате %2$s персонализирани емоджита на %1$s</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="one">Имат по-малко от {number} последовател</item>
+        <item quantity="other">Имат по-малко от {number} последователи</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="one">Не може да каните създатели с по-малко от {number} последовател</item>
+        <item quantity="other">Не може да каните създатели с по-малко от {number} последовател</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="one">Поканете още {number1} създател, за да достигнете № {number2}! Не се отказвайте!</item>
+        <item quantity="other">Поканете още {number1} създатели, за да достигнете № {number2}! Не се отказвайте!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="one">Поканете още {number} създател, за да достигнете № {rankminusone}! Не се отказвайте!</item>
+        <item quantity="other">Поканете още {number} създатели, за да достигнете № {rankminusone}! Не се отказвайте!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="one">Можете да каните само създатели с повече от {number} последовател.</item>
+        <item quantity="other">Можете да каните само създатели с повече от {number} последователи.</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="one">С текущата си привилегия можете да привлечете %d%% повече абонати.</item>
+        <item quantity="other">С текущите си привилегии можете да привлечете %d%% повече абонати.</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="one">%1$s току-що закупи %2$d-месечен абонамент!</item>
+        <item quantity="other">%1$s току-що закупи %2$d-месечен абонамент!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="one">Можете да включите или изключите тази опция само веднъж на %s минута. Опитайте отново по-късно.</item>
+        <item quantity="other">Можете да включите или изключите тази опция само веднъж на %s минути. Опитайте отново по-късно.</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="one">Разполагате с {num} подарък при абониране. Изпратете на други потребители сега!</item>
+        <item quantity="other">Разполагате с {num} подаръка при абониране. Изпратете на други потребители сега!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="one">Разполагате с %d останал подарък при абониране. Изпратете на други потребители сега!</item>
+        <item quantity="other">Разполагате с %d останали подаръка при абониране. Изпратете на други потребители сега!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="one">Поздравления! Получихте [number] подарък при абониране като награди за дейност.</item>
+        <item quantity="other">Поздравления! Получихте [number] подаръка при абониране като награди за дейност.</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="one">Съдомакинствано преди {num} ден</item>
+        <item quantity="other">Съдомакинствано преди {num} дни</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="one">Включи се LIVE с вас преди {number} ден</item>
+        <item quantity="other">Включи се LIVE с вас преди {number} дни</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="one">Домакинства с вас преди {num} ден</item>
+        <item quantity="other">Домакинства с вас преди {num} дни</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="one">Вашият достъп до „Кутия със съкровище“ е временно ограничен. Достъпът ще бъде възстановен след %s ден.</item>
+        <item quantity="other">Вашият достъп до „Кутия със съкровище“ е временно ограничен. Достъпът ще бъде възстановен след %s дни.</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="one">топ зрител</item>
+        <item quantity="other">топ зрители</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="one">Топ зрител</item>
+        <item quantity="other">Топ зрители</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="one">Финалът започва след %s секунда</item>
+        <item quantity="other">Финалът започва след %s секунди</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="one">Финалът започва след %s ден</item>
+        <item quantity="other">Финалът започва след %s дни</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="one">Финалът започва след %s час</item>
+        <item quantity="other">Финалът започва след %s часа</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="one">Финалът започва след %s минута</item>
+        <item quantity="other">Финалът започва след %s минути</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="one">Полуфиналът започва след %s ден</item>
+        <item quantity="other">Полуфиналът започва след %s дни</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="one">Полуфиналът започва след %s час</item>
+        <item quantity="other">Полуфиналът започва след %s часа</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="one">Полуфиналът започва след %s минута</item>
+        <item quantity="other">Полуфиналът започва след %s минути</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="one">Полуфиналът започва след %s секунда</item>
+        <item quantity="other">Полуфиналът започва след %s секунди</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="one">Още {0:string} Диамант за достигане на № {1:string}</item>
+        <item quantity="other">Още {0:string} Диаманта за достигане на № {1:string}</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="one">Още {0:string} подаряващ за достигане на № {1:string}</item>
+        <item quantity="other">Още {0:string} подаряващи за достигане на № {1:string}</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="one">ден</item>
+        <item quantity="other">дни</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="one">Обменихте {amount} за {num} Монета.</item>
+        <item quantity="other">Обменихте {amount} за {num} Монети.</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="one">Закупихте {num} Монета за {amount}.</item>
+        <item quantity="other">Закупихте {num} Монети за {amount}.</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="one">{num} екипна точка пред № 2</item>
+        <item quantity="other">{num} екипни точки пред № 2</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="one">+{num} екипна точка (%1$s/%2$s отборни Подаръци дневно)</item>
+        <item quantity="other">+{num} екипни точки (%1$s/%2$s отборни Подаръци дневно)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="one">%s зрител се присъедини от търсене</item>
+        <item quantity="other">%s зрители се присъединиха от търсене</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="one">%1$s екипна точка за достигане на №%2$s</item>
+        <item quantity="other">%1$s екипни точки за достигане на №%2$s</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="one">%1$s екипна точка за достигане на №%2$s</item>
+        <item quantity="other">%1$s екипни точки за достигане на №%2$s</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="one">Нещо се обърка. Опитайте отново след {number} час</item>
+        <item quantity="other">Нещо се обърка. Опитайте отново след {number} часа</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="one">Нещо се обърка. Върнете се след {number} минута</item>
+        <item quantity="other">Нещо се обърка. Върнете се след {number} минути</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="one">Зрител</item>
+        <item quantity="other">Зрители</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="one">%d зрител</item>
+        <item quantity="other">%d зрители</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="one">%s зрител</item>
+        <item quantity="other">%s зрители</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="one">%s зрител изпрати Подаръци</item>
+        <item quantity="other">%s зрители изпратиха Подаръци</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="one">Публикация (%s)</item>
+        <item quantity="other">Публикации (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="one">(%s рецензия)</item>
+        <item quantity="other">(%s рецензии)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="one">%s снимка не е качена. Опитайте отново.</item>
+        <item quantity="other">%s снимки не са качени. Опитайте отново.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="one">%d подобен звук</item>
+        <item quantity="other">%d подобни звуци</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="one">%d преглеждане на профила</item>
+        <item quantity="other">%d преглеждания на профила</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="one">Последовател</item>
+        <item quantity="other">Последователи</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="one">%1$s получи %2$s харесване</item>
+        <item quantity="other">%1$s получи общо %2$s харесвания за всички видеа</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="one">прегледа профила ви.</item>
+        <item quantity="other">прегледаха профила ви.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="one">%1$s, %2$s и %d друг</item>
+        <item quantity="other">%1$s, %2$s и %d други</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="one">%s човек прегледа вашия профил.</item>
+        <item quantity="other">%s човека прегледаха вашия профил.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="one">{0}, {1} и още {2} потребител прегледаха профила ви.</item>
+        <item quantity="other">{0}, {1} и още {2} потребители прегледаха профила ви.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="one">Изпратихме ви известие на %1$s и още %2$s друго устройство. За да продължите с влизането, трябва да сте отворили TikTok и да докоснете „Да“ в известията.</item>
+        <item quantity="other">Изпратихме ви известие на %1$s и още %2$s други устройства. За да продължите с влизането, трябва да сте отворили TikTok и да докоснете „Да“ в известията.</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="one">%s видео</item>
+        <item quantity="other">%s видеа</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="one">%d видео</item>
+        <item quantity="other">%d видеа</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="one">%s недостъпен въпрос беше премахнат от вашите покани</item>
+        <item quantity="other">%s недостъпни въпроса бяха премахнати от вашите покани</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="one">%s ново съобщение</item>
+        <item quantity="other">%s нови съобщения</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="one">%s нова реакция</item>
+        <item quantity="other">%s нови реакции</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="one">%d препоръча</item>
+        <item quantity="other">%d препоръчаха</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="one">%d препоръча</item>
+        <item quantity="other">%d препоръчаха</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="one">Вижте още %d препоръка</item>
+        <item quantity="other">Вижте още %d препоръки</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="one">Запишете до %d секунда</item>
+        <item quantity="other">Запишете до %d секунди</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="one">Запишете до %d секунда със звука от оригиналното видео</item>
+        <item quantity="other">Запишете до %d секунди със звука от оригиналното видео</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="one">Чернова (%d)</item>
+        <item quantity="other">Чернови (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="one">Вашето видео ще бъде заглушено, ако изберете да възстановите този звук.</item>
+        <item quantity="other">Вашето видео ще бъде заглушено, ако изберете да възстановите тези звуци.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="one">Възстановяване на защитен с авторски права звук?</item>
+        <item quantity="other">Възстановяване на защитени с авторски права звуци?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="one">Защитеният с авторски права звук е премахнат</item>
+        <item quantity="other">Защитените с авторски права звуци са премахнати</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="one">Премахване на звук</item>
+        <item quantity="other">Премахване на звуци</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="one">Звукът е премахнат</item>
+        <item quantity="other">Звуците са премахнати</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="one">Заместване на звук</item>
+        <item quantity="other">Заместване на звуци</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="one">Премахване на защитен с авторски права звук...</item>
+        <item quantity="other">Премахване на защитени с авторски права звуци...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="one">Открихме нарушаващ авторските права звук по-дълъг от 1 минута във видеото ви, и той ще бъде заглушен, ако решите да продължите. Заменете звука или съкратете видеото. %s</item>
+        <item quantity="other">Открихме нарушаващи авторските права звуци по-дълги от 1 минута във видеото ви, и те ще бъдат заглушени, ако решите да продължите. Заменете звуците или съкратете видеото. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="one">Заместване на звук</item>
+        <item quantity="other">Заместване на звуци</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="one">Премахване на защитен с авторски права звук...</item>
+        <item quantity="other">Премахване на защитени с авторски права звуци...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="one">Открихме нарушаващ авторските права звук във вашето видео. Вашето видео ще бъде заглушено, ако решите да продължите, или можете да смените звука. %s</item>
+        <item quantity="other">Открихме нарушаващи авторските права звуци във вашето видео. Вашето видео ще бъде заглушено, ако решите да продължите, или можете да смените звуците. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="one">Звук, защитен с авторски права</item>
+        <item quantity="other">Звуци, защитени с авторски права</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="one">Притежателят на авторските права е разрешил използването на този звук само за 1 минута.</item>
+        <item quantity="other">Притежателят на авторските права е разрешил използването на този звук само за 1 минута.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="one">Притежателят на авторските права не разрешава използването на този звук.</item>
+        <item quantity="other">Притежателят на авторските права не разрешава използването на тези звуци.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="one">Заместване на звук</item>
+        <item quantity="other">Заместване на звуци</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="one">Открихме нарушаващ авторските права звук по-дълъг от 1 минута във видеото ви, и той ще бъде заглушен, ако решите да продължите. Заменете звука или съкратете видеото. %s</item>
+        <item quantity="other">Открихме нарушаващи авторските права звуци по-дълги от 1 минута във видеото ви, и те ще бъдат заглушени, ако решите да продължите. Заменете звуците или съкратете видеото. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="one">Заместване на звук</item>
+        <item quantity="other">Заместване на звуци</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="one">Открихме нарушаващ авторските права звук във вашето видео. Вашето видео ще бъде заглушено, ако решите да продължите, или можете да смените звука. %s</item>
+        <item quantity="other">Открихме нарушаващи авторските права звуци във вашето видео. Вашето видео ще бъде заглушено, ако решите да продължите, или можете да смените звуците. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="one">Премахване на видео (%d)</item>
+        <item quantity="other">Премахване на видеа (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="one">%d препубликуване</item>
+        <item quantity="other">%d препубликувания</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="one">Препубликувано от %d</item>
+        <item quantity="other">Препубликувано от %d</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="one">Препубликувано от %d</item>
+        <item quantity="other">Препубликувано от %d</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="one">Вижте още %d повторна публикация</item>
+        <item quantity="other">Вижте още %d повторни публикации</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="one">%d ден</item>
+        <item quantity="other">%d дни</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="one">Направете още %1$d търсене, за да получите %2$d точки</item>
+        <item quantity="other">Направете още %1$d търсения, за да получите %2$d точки</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="one">Разгледайте резултатите от търсенето за %d секунда</item>
+        <item quantity="other">Разгледайте резултатите от търсенето за %d секунди</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="one">Направете още %1$d търсене, за да получите %2$d точки!</item>
+        <item quantity="other">Направете още %1$d търсения, за да получите %2$d точки!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="one">%d съвпадащ звук</item>
+        <item quantity="other">%d съвпадащи звука</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="one">Актуализирано преди %d ден</item>
+        <item quantity="other">Актуализирано преди %d дни</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="one">Актуализирано преди %d час</item>
+        <item quantity="other">Актуализирано преди %d часа</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="one">Актуализирано преди %d минута</item>
+        <item quantity="other">Актуализирано преди %d минути</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="one">Актуализирано преди %d секунда</item>
+        <item quantity="other">Актуализирано преди %d секунди</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="one">Актуализирано преди %d седмица</item>
+        <item quantity="other">Актуализирано преди %d седмици</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="one">Споделихте снимка.</item>
+        <item quantity="other">Споделихте снимки.</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="one">Поздравления! Вчера получихте още %d покупка. Продължавайте в същия дух и проследявайте ефективността на поредицата си от „Инструменти за създатели“ &gt; „Поредица“.</item>
+        <item quantity="other">Поздравления! Вчера получихте още %d покупки. Продължавайте в същия дух и проследявайте ефективността на поредицата си от „Инструменти за създатели“ &gt; „Поредица“.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="one">Поредицата ви получи %d посещение на страница през последните няколко дни. За да проследите ефективността на поредицата си и да получите полезни съвети за привличане на потенциални купувачи, можете да получите достъп до инструментите за анализ от „Инструменти на създателя“ &gt; „Поредица“.</item>
+        <item quantity="other">Поредицата ви получи %d посещения на страница през последните няколко дни. За да проследите ефективността на поредицата си и да получите полезни съвети за привличане на потенциални купувачи, можете да получите достъп до инструментите за анализ от „Инструменти на създателя“ &gt; „Поредица“.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="one">Поздравления! %d зрител във вашия LIVE закупи достъп до вашата поредица вчера. Продължавайте в същия дух и проследявайте ефективността на поредицата си от „Инструменти на създателя“ &gt; „Поредица“.</item>
+        <item quantity="other">Поздравления! %d зрители във вашия LIVE закупиха достъп до вашата поредица вчера. Продължавайте в същия дух и проследявайте ефективността на поредицата си от „Инструменти на създателя“ &gt; „Поредица“.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="one">Поздравления! %d зрител закупи достъп до поредицата ви вчера от видео с връзка към поредица. Продължавайте в същия дух и проследявайте ефективността на поредицата си от „Инструменти на създателя“ &gt; „Поредица“.</item>
+        <item quantity="other">Поздравления! %d зрители закупиха достъп до поредицата ви вчера от видео с връзка към поредица. Продължавайте в същия дух и проследявайте ефективността на поредицата си от „Инструменти на създателя“ &gt; „Поредица“.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="one">Продължете към камерата (%d)</item>
+        <item quantity="other">Продължете към камерата (%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="one">%.1f (%s отзив)</item>
+        <item quantity="other">%.1f (%s отзиви)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="one">Само за първия купувач</item>
+        <item quantity="other">Само за първите %d купувача</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="one">Остава само %d</item>
+        <item quantity="other">Остават само %d</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="one">Изтича след %d ден</item>
+        <item quantity="other">Изтича след %d дни</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="one">%d видео</item>
+        <item quantity="other">%d видеа</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="one">%d видео</item>
+        <item quantity="other">%d видеа</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="one">%d видео</item>
+        <item quantity="other">%d видеа</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="one">%s видео</item>
+        <item quantity="other">%s видеа</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="one">%d гледане</item>
+        <item quantity="other">%d гледания</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="one">История (%d)</item>
+        <item quantity="other">Истории (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="one">{Brand} иска да удължи своето оригинално разрешение от {start_date} - {end_date} by {num} day.</item>
+        <item quantity="other">{Brand} иска да удължи своето оригинално разрешение от {start_date} - {end_date} by {num} days.</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="one">%d видео е добавено</item>
+        <item quantity="other">%d видеа са добавени</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="one">Създателите са в TikTok повече от %d месец.</item>
+        <item quantity="other">Създателите са в TikTok повече от %d месеца.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="one">Създателите имат поне %d последовател.</item>
+        <item quantity="other">Създателите имат поне %d последователи.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="one">%d взаимодействие</item>
+        <item quantity="other">%d взаимодействия</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="one">Дневен лимит за добавяне на трендинг теми: %d публикация</item>
+        <item quantity="other">Дневен лимит за добавяне на трендинг теми: %d публикации</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="one">Очаквано време за преглед: %d ден</item>
+        <item quantity="other">Очаквано време за преглед: %d дни</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="one">%@ видео</item>
+        <item quantity="other">%@ видеа</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="one">%@ гледане</item>
+        <item quantity="other">%@ гледания</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="one">Преди %d ден</item>
+        <item quantity="other">Преди %d дни</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="one">Час</item>
+        <item quantity="other">Часа</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="one">Преди %1$d час</item>
+        <item quantity="other">Преди %1$d часа</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="one">минута</item>
+        <item quantity="other">минути</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="one">Преди %1$d минута</item>
+        <item quantity="other">Преди %1$d минути</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="one">Час</item>
+        <item quantity="other">Часа</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="one">минута</item>
+        <item quantity="other">минути</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="one">сек</item>
+        <item quantity="other">сек</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="one">Преди %1$d година</item>
+        <item quantity="other">Преди %1$d години</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="one">Съжаляваме! Получихте забрана\n Можете да предавате отново на живо след %1$d ден</item>
+        <item quantity="other">Съжаляваме! Получихте забрана\n Можете да предавате отново на живо след %1$d дни</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="one">Съжаляваме! Получихте забрана\n Можете да предавате отново на живо след %1$d час</item>
+        <item quantity="other">Съжаляваме! Получихте забрана\n Можете да предавате отново на живо след %1$d часа</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="one">Съжаляваме, но в момента сте със забрана\n Можете да предавате отново на живо след: %1$d минута</item>
+        <item quantity="other">Съжаляваме, но в момента сте със забрана\n Можете да предавате отново на живо след: %1$d минути</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="one">Съжаляваме! Получихте забрана\n Можете да предавате отново на живо след %1$d секунда</item>
+        <item quantity="other">Съжаляваме! Получихте забрана\n Можете да предавате отново на живо след %1$d секунди</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="one">%d потребител гледа вашето излъчване, искате ли да го затворите?</item>
+        <item quantity="other">%d потребители гледат вашето излъчване, искате ли да го затворите?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="one">Изтича след %d ден</item>
+        <item quantity="other">Изтича след %d дни</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="one">Изтича след %d час</item>
+        <item quantity="other">Изтича след %d часа</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="one">Заредете за първи път %1$d Диамант, за да получите още %2$d!</item>
+        <item quantity="other">Заредете за първи път %1$d Диаманта, за да получите още %2$d!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="one">минута</item>
+        <item quantity="other">минути</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="one">Вашето преживяване в TikTok ще приключи след: %d ден</item>
+        <item quantity="other">Вашето преживяване в TikTok ще приключи след: %d дни</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="one">%d ден</item>
+        <item quantity="other">%d дни</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="one">Имате %d ден, за да изпробвате тази функция в TikTok. След това изтеглете приложението TikTok Now, за да продължите.</item>
+        <item quantity="other">Имате %d дни, за да изпробвате тази функция в TikTok. След това изтеглете приложението TikTok Now, за да продължите.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="one">Публикувайте, за да започнете своето %d-дневно преживяване с TikTok Now.</item>
+        <item quantity="other">Публикувайте, за да започнете своето %d-дневно преживяване с TikTok Now.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="one">Изберете или запишете %d клип</item>
+        <item quantity="other">Изберете или запишете %d клипове</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="one">Редактиране на незавършена снимка?</item>
+        <item quantity="other">Редактиране на незавършени снимки?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="one">%s нова публикация</item>
+        <item quantity="other">%s нови публикации</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="one">публикува %d видео</item>
+        <item quantity="other">публикува %d видеа</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="one">Наистина ли ваша възраст е %d година?</item>
+        <item quantity="other">Наистина ли ваша възраст е %d години?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="one">Използвайте изрязан звук. Запишете до %d секунда.</item>
+        <item quantity="other">Използвайте изрязан звук. Запишете до %d секунди.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="one">%s зрител</item>
+        <item quantity="other">%s зрители</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="one">%s харесване</item>
+        <item quantity="other">%s харесвания</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="one">Споделяне в %1$s след %2$s секунда</item>
+        <item quantity="other">Споделяне в %1$s след %2$s секунди</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="one">%d продукт</item>
+        <item quantity="other">%d продукта</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="one">Публикация</item>
+        <item quantity="other">Публикации</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="one">%1$s, %2$s и %d друг</item>
+        <item quantity="other">%1$s, %2$s и %d други</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="one">прегледа вашата публикация.</item>
+        <item quantity="other">прегледаха вашата публикация.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="one">%s споделяне</item>
+        <item quantity="other">%s споделяния</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="one">%s гледане</item>
+        <item quantity="other">%s гледания</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="one">{0} {1} и още {2} друг потребител прегледаха вашата публикация.</item>
+        <item quantity="other">{0} {1} и още {2} други потребители прегледаха вашата публикация.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="one">%d Монета</item>
+        <item quantity="other">%d Монети</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="one">изпрати: %s</item>
+        <item quantity="other">изпратиха: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="one">Снимката е записана</item>
+        <item quantity="other">Снимките са записани</item>
+    </plurals>
+</resources>

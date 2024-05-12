@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <ImageView
+        id="@+id/a7n"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginRight="2dp"
+        src="@drawable/ih"
+        scaleType="centerInside"
+        layout_alignParentTop="true"
+        layout_alignParentRight="true"/>
+    <GridLayout
+        orientation="horizontal"
+        id="@+id/hv"
+        background="@drawable/hu"
+        paddingLeft="6dp"
+        paddingTop="12dp"
+        paddingRight="12dp"
+        paddingBottom="6dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_below="@+id/a7n"
+        columnCount="7"/>
+</merge>

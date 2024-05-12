@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    textStyle="bold"
+    textColor="@color/adt"
+    id="@+id/np3"
+    background="@drawable/dhp"
+    paddingLeft="8dp"
+    paddingTop="4dp"
+    paddingRight="8dp"
+    paddingBottom="4dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    text="GIF"/>

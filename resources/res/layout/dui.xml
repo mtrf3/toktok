@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.LinearLayout
+    gravity="top"
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <TextView
+        id="@+id/nle"
+        padding="24dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        text="@string/tyv"/>
+    <LinearLayout
+        gravity="end"
+        orientation="horizontal"
+        padding="4dp"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <Button
+            id="@+id/nlc"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/tyt"
+            style="@android:style/Widget.Material.Light.Button.Borderless.Colored"/>
+        <Button
+            id="@+id/nld"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/tyu"
+            style="@android:style/Widget.Material.Light.Button.Borderless.Colored"/>
+    </LinearLayout>
+</android.widget.LinearLayout>

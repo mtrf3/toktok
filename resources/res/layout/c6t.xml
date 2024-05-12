@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C79902VXm
+        id="@+id/i7o"
+        background="@color/r2"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x13="false"/>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        id="@+id/i7l"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <com.bytedance.lighten.loader.SmartImageView
+            id="@+id/i7k"
+            layout_width="0dp"
+            layout_height="0dp"
+            NOT_FOUND_0x8="@+id/i7m"
+            NOT_FOUND_0x9="0"
+            NOT_FOUND_0xa="346dp"
+            NOT_FOUND_0xb="0"
+            NOT_FOUND_0xc="0"
+            NOT_FOUND_0xe="295dp"/>
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/i7j"
+            layout_width="24dp"
+            layout_height="24dp"
+            layout_marginTop="39dp"
+            layout_marginStart="16dp"
+            NOT_FOUND_0xb="0"
+            NOT_FOUND_0xc="0"
+            NOT_FOUND_0xd="1"
+            NOT_FOUND_0xf="@raw/icon_arrow_left_ltr"
+            NOT_FOUND_0x10="24dp"
+            NOT_FOUND_0x11="24dp"
+            NOT_FOUND_0x12="?attr/cu"/>
+        <X.ViewOnTouchListenerC82377WUr
+            id="@+id/i7m"
+            layout_width="100dp"
+            layout_height="100dp"
+            layout_marginBottom="47dp"
+            NOT_FOUND_0x7="0"
+            NOT_FOUND_0x9="0"
+            NOT_FOUND_0xb="0"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

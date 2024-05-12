@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_checked="true"
+        drawable="@drawable/bim"/>
+    <item
+        state_selected="true"
+        drawable="@drawable/bim"/>
+    <item drawable="@drawable/bin"/>
+</selector>

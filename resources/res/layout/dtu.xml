@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/dj"
+    gravity="center"
+    id="@+id/mo8"
+    visibility="gone"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_marginLeft="32dp"
+    layout_marginRight="32dp"
+    text="@string/tc2"
+    layout_centerInParent="true"
+    NOT_FOUND_0xa="22"/>

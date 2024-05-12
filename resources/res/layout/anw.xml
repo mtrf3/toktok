@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    id="@+id/l63"
+    background="@drawable/ao9"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        gravity="start"
+        id="@+id/biw"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        textAlignment="viewStart"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="92"/>
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/e_q"
+        visibility="gone"
+        layout_width="12dp"
+        layout_height="12dp"
+        layout_marginStart="4dp"
+        NOT_FOUND_0x9="@+id/biw"
+        NOT_FOUND_0xa="@+id/biw"
+        NOT_FOUND_0xc="@+id/biw"/>
+</merge>

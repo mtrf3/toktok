@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <CheckedTextView
+        textAppearance="@style/m2"
+        gravity="start|center_vertical"
+        id="@+id/c8q"
+        layout_width="0dp"
+        layout_height="match_parent"
+        maxLines="1"
+        drawablePadding="@dimen/me"
+        layout_weight="1"/>
+    <ViewStub
+        id="@+id/c8p"
+        layout="@layout/ak9"
+        inflatedId="@+id/c8o"
+        layout_width="wrap_content"
+        layout_height="match_parent"/>
+</merge>

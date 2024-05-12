@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/j83"
+    background="@color/ar"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/d3r"
+        layout_width="match_parent"
+        layout_height="0dp"/>
+    <include
+        id="@+id/l_2"
+        layout="@layout/cv9"/>
+    <X.C62142OaA
+        id="@+id/kwn"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <FrameLayout
+            id="@+id/at6"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            layout_below="@+id/l_2"/>
+    </X.C62142OaA>
+</LinearLayout>

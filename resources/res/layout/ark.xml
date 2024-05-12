@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    clipChildren="false"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    splitMotionEvents="false">
+    <androidx.recyclerview.widget.RecyclerView
+        layout_gravity="center_horizontal"
+        id="@+id/isv"
+        clipChildren="false"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="12dp"
+        overScrollMode="never"
+        splitMotionEvents="false"/>
+    <X.C73305Spp
+        layout_gravity="center_vertical"
+        id="@+id/hfk"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

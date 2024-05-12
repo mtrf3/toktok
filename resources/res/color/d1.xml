@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        color="@color/ec"
+        state_accelerated="false"/>
+    <item color="@android:color/transparent"/>
+</selector>

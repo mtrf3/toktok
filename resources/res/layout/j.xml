@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    textAppearance="?attr/as"
+    gravity="start"
+    id="@+id/ah"
+    paddingLeft="16dp"
+    paddingTop="24dp"
+    paddingRight="16dp"
+    layout_width="match_parent"
+    layout_height="@dimen/am"
+    textAlignment="viewStart"/>

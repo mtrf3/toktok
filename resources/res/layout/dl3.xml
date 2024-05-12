@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C47121t6
+        layout_gravity="center"
+        id="@+id/mna"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <X.C47121t6
+        layout_gravity="center"
+        id="@+id/mn_"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="50dp"/>
+    <FrameLayout
+        id="@+id/ndg"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

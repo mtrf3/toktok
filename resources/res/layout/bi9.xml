@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/d55"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C73305Spp
+        id="@+id/kf_"
+        background="?attr/cl"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/d54"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</LinearLayout>

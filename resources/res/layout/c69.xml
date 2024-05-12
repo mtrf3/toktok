@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.icon.TuxIconView
+    id="@+id/gqv"
+    layout_width="24dp"
+    layout_height="24dp"
+    layout_marginTop="4dp"
+    layout_marginEnd="16dp"
+    NOT_FOUND_0x5="@raw/icon_lines_horizontal_decrease_alt"
+    NOT_FOUND_0x6="20dp"
+    NOT_FOUND_0x7="20dp"
+    NOT_FOUND_0x8="?attr/go"/>

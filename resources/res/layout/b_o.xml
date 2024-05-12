@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_gravity="bottom"
+    id="@+id/jij"
+    layout_width="match_parent"
+    layout_height="@dimen/v8">
+    <View
+        id="@+id/efn"
+        background="@drawable/bhf"
+        paddingTop="@dimen/va"
+        paddingBottom="@dimen/va"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        paddingStart="@dimen/v_"
+        paddingEnd="@dimen/v_"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="start|center_vertical"
+        layout_width="20dp"
+        layout_height="20dp"
+        layout_marginStart="6dp"
+        NOT_FOUND_0x17="@raw/icon_magnifying_glass"
+        NOT_FOUND_0x18="?attr/go"/>
+    <X.T5T
+        enabled="false"
+        textColor="?attr/go"
+        textColorHint="?attr/gx"
+        ellipsize="end"
+        gravity="start|center_vertical"
+        layout_gravity="start|center_vertical"
+        focusable="true"
+        focusableInTouchMode="false"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        hint="@string/hf4"
+        lines="1"
+        inputType="textNoSuggestions"
+        imeOptions="actionSearch"
+        textAlignment="viewStart"
+        layout_marginStart="32dp"
+        NOT_FOUND_0x16="41"/>
+    <View
+        id="@+id/bew"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</merge>

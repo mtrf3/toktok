@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_pressed="true"
+        color="@color/de"/>
+    <item
+        state_selected="true"
+        color="@color/df"/>
+    <item color="@color/dd"/>
+</selector>

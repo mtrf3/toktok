@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/j7e"
+    padding="4dp"
+    visibility="gone"
+    layout_width="44dp"
+    layout_height="44dp">
+    <RelativeLayout
+        background="@drawable/ah5"
+        layout_width="36dp"
+        layout_height="36dp">
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/e9f"
+            layout_width="20dp"
+            layout_height="20dp"
+            layout_centerInParent="true"
+            NOT_FOUND_0x7="@raw/icon_slash_rectangle_x_mark"
+            NOT_FOUND_0x8="?attr/dk"/>
+    </RelativeLayout>
+</RelativeLayout>

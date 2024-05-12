@@ -1,0 +1,13 @@
+package tikcast.api.anchor;
+
+import X.InterfaceC65349Pkn;
+
+/* loaded from: classes17.dex */
+public final class CreatorHubAnchorArticleDetail {
+
+    @InterfaceC65349Pkn("article_id")
+    public String articleId = "";
+
+    @InterfaceC65349Pkn("is_read")
+    public boolean isRead;
+}

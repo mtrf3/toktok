@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    background="@drawable/acs"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <ListView
+        id="@+id/gaq"
+        paddingTop="8dp"
+        paddingBottom="8dp"
+        scrollbars="none"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        divider="?attr/dz"
+        dividerHeight="0.5dp"
+        layout_marginStart="12dp"
+        layout_marginEnd="12dp"/>
+</LinearLayout>

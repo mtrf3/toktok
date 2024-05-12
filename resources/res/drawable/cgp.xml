@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_enabled="false">
+        <shape shape="rectangle">
+            <solid color="@color/a7l"/>
+        </shape>
+    </item>
+    <item state_pressed="true">
+        <shape shape="rectangle">
+            <solid color="@color/a7m"/>
+        </shape>
+    </item>
+    <item>
+        <shape shape="rectangle">
+            <solid color="@color/a7k"/>
+        </shape>
+    </item>
+</selector>

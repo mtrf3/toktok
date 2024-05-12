@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item>
+        <shape>
+            <solid color="#26000000"/>
+            <corners radius="12dp"/>
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/ebn"
+    layout_width="@dimen/a5h"
+    layout_height="@dimen/a5g">
+    <ImageView
+        id="@+id/e_q"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginTop="@dimen/a5e"
+        layout_marginBottom="@dimen/a5e"
+        scaleType="centerInside"
+        layout_marginStart="@dimen/a5e"
+        layout_marginEnd="@dimen/a5e"/>
+    <ImageView
+        layout_gravity="end|bottom"
+        id="@+id/j2g"
+        visibility="gone"
+        layout_width="@dimen/a5k"
+        layout_height="@dimen/a5k"
+        layout_marginBottom="8dp"
+        scaleType="centerInside"
+        layout_marginEnd="8dp"/>
+</FrameLayout>

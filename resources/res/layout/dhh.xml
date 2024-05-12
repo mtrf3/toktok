@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <LinearLayout
+        orientation="horizontal"
+        id="@+id/j83"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x15="0"
+        NOT_FOUND_0x16="0"
+        NOT_FOUND_0x17="0"
+        NOT_FOUND_0x18="0">
+        <X.CL0
+            textColor="@color/bc"
+            ellipsize="marquee"
+            gravity="center_vertical"
+            layout_gravity="center_vertical"
+            id="@+id/title"
+            focusable="true"
+            focusableInTouchMode="true"
+            fadingEdge="horizontal"
+            fadingEdgeLength="30dp"
+            layout_width="0dp"
+            layout_height="wrap_content"
+            singleLine="true"
+            includeFontPadding="false"
+            layout_weight="1"
+            marqueeRepeatLimit="2"
+            requiresFadingEdge="horizontal"
+            textAlignment="viewStart"
+            NOT_FOUND_0x19="true"
+            style="@style/a42"/>
+        <com.bytedance.android.live.design.view.icon.LiveIconView
+            id="@+id/ghc"
+            layout_width="18dp"
+            layout_height="18dp"
+            layout_marginTop="2dp"
+            layout_marginStart="4dp"
+            NOT_FOUND_0x14="@drawable/d_7"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

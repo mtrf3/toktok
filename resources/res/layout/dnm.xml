@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <FrameLayout
+        id="@+id/k98"
+        layout_width="match_parent"
+        layout_height="54dp"/>
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        layout_gravity="end|top"
+        id="@+id/age"
+        visibility="gone"
+        layout_width="16dp"
+        layout_height="16dp"
+        NOT_FOUND_0x5="?attr/aw3"
+        NOT_FOUND_0x6="@color/abi"/>
+</FrameLayout>

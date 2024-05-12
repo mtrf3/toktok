@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_marginTop="62dp">
+    <com.bytedance.tux.input.TuxTextView
+        gravity="center"
+        paddingLeft="16dp"
+        paddingRight="16dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginBottom="12dp"
+        text="@string/iia"
+        NOT_FOUND_0xb="13"/>
+    <com.bytedance.tux.input.TuxTextView
+        gravity="center"
+        id="@+id/krn"
+        paddingLeft="16dp"
+        paddingRight="16dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        text="@string/igh"
+        NOT_FOUND_0xb="41"/>
+    <View
+        id="@+id/iqh"
+        background="?attr/dz"
+        paddingLeft="16dp"
+        paddingRight="16dp"
+        layout_width="match_parent"
+        layout_height="0.5dp"
+        layout_marginTop="20dp"
+        layout_marginBottom="16dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        paddingLeft="16dp"
+        paddingRight="16dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        text="@string/ij2"
+        NOT_FOUND_0xb="33"/>
+</LinearLayout>

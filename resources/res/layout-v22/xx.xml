@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    background="@drawable/ab4"
+    paddingLeft="16dp"
+    paddingRight="16dp"
+    layout_width="match_parent"
+    layout_height="68dp"
+    paddingHorizontal="16dp">
+    <View
+        gravity="center"
+        id="@+id/foo"
+        background="@drawable/ach"
+        layout_width="0dp"
+        layout_height="match_parent"
+        layout_marginTop="12dp"
+        layout_marginBottom="12dp"
+        layout_weight="1"
+        NOT_FOUND_0xd="@+id/j27"/>
+    <View
+        gravity="center"
+        id="@+id/j27"
+        background="@drawable/acg"
+        layout_width="0dp"
+        layout_height="match_parent"
+        layout_marginTop="12dp"
+        layout_marginBottom="12dp"
+        layout_weight="1"
+        layout_marginStart="8dp"
+        NOT_FOUND_0xc="0"/>
+</LinearLayout>

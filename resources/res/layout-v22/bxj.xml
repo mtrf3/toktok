@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    theme="@style/vp"
+    orientation="vertical"
+    background="?attr/d4"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <FrameLayout
+            id="@+id/c92"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            layout_marginLeft="16dp"
+            layout_marginRight="16dp"
+            layout_marginHorizontal="16dp"/>
+        <ViewStub
+            layout_gravity="bottom"
+            id="@+id/h88"
+            layout="@layout/bxd"
+            layout_width="match_parent"
+            layout_height="wrap_content"/>
+        <X.C73305Spp
+            id="@+id/kf_"
+            visibility="gone"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+    </FrameLayout>
+    <include layout="@layout/azi"/>
+    <X.C252709vu
+        id="@+id/gwg"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0xd="?attr/d4"/>
+</FrameLayout>

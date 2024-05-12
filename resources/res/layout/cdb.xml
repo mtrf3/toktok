@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/ehd"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/kur"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <SurfaceView
+        id="@+id/kuj"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <androidx.appcompat.widget.AppCompatImageView
+        id="@+id/f6l"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        scaleType="fitCenter"/>
+    <FrameLayout
+        id="@+id/etx"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ViewStub
+        id="@+id/nc2"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C57592Nv
+        id="@+id/cor"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C151085wO
+        id="@+id/cp2"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/bzu"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <View
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</FrameLayout>

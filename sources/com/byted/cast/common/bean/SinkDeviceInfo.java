@@ -1,0 +1,103 @@
+package com.byted.cast.common.bean;
+
+import X.X1D;
+import java.util.Arrays;
+
+/* loaded from: classes29.dex */
+public class SinkDeviceInfo extends DeviceInfo {
+    public String castId;
+    public String cpu;
+    public String[] formats;
+    public int fps;
+    public String googleSinkInfo;
+    public int height;
+    public String ip;
+    public boolean isSupportPlayList;
+    public int port;
+    public int portMirror;
+    public int width;
+
+    @Override // com.byted.cast.common.bean.DeviceInfo
+    public String toString() {
+        StringBuilder LIZ = X1D.LIZ();
+        LIZ.append("SinkDeviceInfo{ip='");
+        LIZ.append(this.ip);
+        LIZ.append('\'');
+        LIZ.append(", port=");
+        LIZ.append(this.port);
+        LIZ.append(", googleSinkInfo='");
+        LIZ.append(this.googleSinkInfo);
+        LIZ.append('\'');
+        LIZ.append(", portMirror=");
+        LIZ.append(this.portMirror);
+        LIZ.append(", formats=");
+        LIZ.append(Arrays.toString(this.formats));
+        LIZ.append(", cpu='");
+        LIZ.append(this.cpu);
+        LIZ.append('\'');
+        LIZ.append(", width=");
+        LIZ.append(this.width);
+        LIZ.append(", height=");
+        LIZ.append(this.height);
+        LIZ.append(", fps=");
+        LIZ.append(this.fps);
+        LIZ.append(", castId='");
+        LIZ.append(this.castId);
+        LIZ.append('\'');
+        LIZ.append(", isSupportPlayList=");
+        LIZ.append(this.isSupportPlayList);
+        LIZ.append(", name='");
+        LIZ.append(this.name);
+        LIZ.append('\'');
+        LIZ.append(", privateChannel='");
+        LIZ.append(this.privateChannel);
+        LIZ.append('\'');
+        LIZ.append(", version='");
+        LIZ.append(this.version);
+        LIZ.append('\'');
+        LIZ.append(", data='");
+        LIZ.append(this.data);
+        LIZ.append('\'');
+        LIZ.append(", platform='");
+        LIZ.append(this.platform);
+        LIZ.append('\'');
+        LIZ.append(", ping=");
+        LIZ.append(this.ping);
+        LIZ.append(", supportGetDeviceInfo=");
+        LIZ.append(this.supportGetDeviceInfo);
+        LIZ.append(", appName='");
+        LIZ.append(this.appName);
+        LIZ.append('\'');
+        LIZ.append(", deviceModel='");
+        LIZ.append(this.deviceModel);
+        LIZ.append('\'');
+        LIZ.append(", deviceBrand='");
+        LIZ.append(this.deviceBrand);
+        LIZ.append('\'');
+        LIZ.append(", appId='");
+        LIZ.append(this.appId);
+        LIZ.append('\'');
+        LIZ.append(", userId='");
+        LIZ.append(this.userId);
+        LIZ.append('\'');
+        LIZ.append(", deviceId='");
+        LIZ.append(this.deviceId);
+        LIZ.append('\'');
+        LIZ.append(", sessionId='");
+        LIZ.append(this.sessionId);
+        LIZ.append('\'');
+        LIZ.append(", connectId='");
+        LIZ.append(this.connectId);
+        LIZ.append('\'');
+        LIZ.append(", osVersion='");
+        LIZ.append(this.osVersion);
+        LIZ.append('\'');
+        LIZ.append(", appVersion='");
+        LIZ.append(this.appVersion);
+        LIZ.append('\'');
+        LIZ.append(", bdlinkCmdVersion=");
+        LIZ.append(this.bdlinkCmdVersion);
+        LIZ.append('}');
+        return X1D.LIZIZ(LIZ);
+    }
+}

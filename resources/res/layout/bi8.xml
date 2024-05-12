@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <X.SJQ
+        id="@+id/abh"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_margin="2dp"/>
+    <FrameLayout
+        layout_gravity="end|bottom"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <View
+            layout_gravity="center"
+            id="@+id/eas"
+            visibility="gone"
+            layout_width="18dp"
+            layout_height="18dp"/>
+        <com.bytedance.tux.icon.TuxIconView
+            layout_gravity="center"
+            id="@+id/e_q"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            NOT_FOUND_0x6="18dp"
+            NOT_FOUND_0x7="18dp"/>
+    </FrameLayout>
+</merge>

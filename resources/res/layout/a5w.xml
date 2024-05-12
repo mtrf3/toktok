@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <FrameLayout
+        id="@+id/hab"
+        layout_width="67dp"
+        layout_height="67dp">
+        <com.bytedance.lighten.loader.SmartImageView
+            id="@+id/hac"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            NOT_FOUND_0xc="8dp"/>
+    </FrameLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        id="@+id/hak"
+        layout_width="77dp"
+        layout_height="76dp">
+        <com.bytedance.lighten.loader.SmartImageView
+            id="@+id/cfm"
+            layout_width="51dp"
+            layout_height="51dp"
+            NOT_FOUND_0xa="0"
+            NOT_FOUND_0xb="0"
+            NOT_FOUND_0xc="8dp"/>
+        <com.bytedance.lighten.loader.SmartImageView
+            id="@+id/muc"
+            background="@drawable/ac0"
+            paddingTop="3dp"
+            layout_width="54dp"
+            layout_height="54dp"
+            paddingStart="3dp"
+            NOT_FOUND_0x8="0"
+            NOT_FOUND_0x9="0"
+            NOT_FOUND_0xc="8dp"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            gravity="center"
+            id="@+id/hal"
+            background="@drawable/acb"
+            layout_width="51dp"
+            layout_height="51dp"
+            NOT_FOUND_0x8="@+id/muc"
+            NOT_FOUND_0x9="@+id/muc"
+            NOT_FOUND_0xd="33"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    descendantFocusability="blocksDescendants"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/g4_"
+        clickable="true"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <LinearLayout
+        orientation="vertical"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <include
+            visibility="gone"
+            layout="@layout/bgf"/>
+        <androidx.recyclerview.widget.RecyclerView
+            id="@+id/ftt"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+    </LinearLayout>
+    <X.C73305Spp
+        id="@+id/kf_"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0xa="0"/>
+    <com.bytedance.tux.input.TuxTextView
+        background="?attr/cl"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/iqj"
+        NOT_FOUND_0x9="51"/>
+</FrameLayout>

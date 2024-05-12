@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    visibility="invisible"
+    layout_width="wrap_content"
+    layout_height="185dp"
+    NOT_FOUND_0x6="0dp">
+    <FrameLayout
+        id="@+id/dmu"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <com.bytedance.tux.icon.TuxIconView
+            layout_gravity="end"
+            id="@+id/bf7"
+            padding="6dp"
+            layout_width="28dp"
+            layout_height="28dp"
+            NOT_FOUND_0x7="@raw/icon_x_mark"
+            NOT_FOUND_0x8="?attr/dj"/>
+        <com.bytedance.tux.icon.TuxIconView
+            layout_gravity="end|bottom"
+            id="@+id/guh"
+            padding="6dp"
+            layout_width="26dp"
+            layout_height="26dp"
+            NOT_FOUND_0x7="@raw/icon_speaker_2_ltr"
+            NOT_FOUND_0x8="?attr/dj"/>
+    </FrameLayout>
+</androidx.cardview.widget.CardView>

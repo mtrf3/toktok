@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.badge.TuxAlertBadgeLayout
+    layout_gravity="center"
+    id="@+id/e29"
+    layout_width="40dp"
+    layout_height="40dp"
+    NOT_FOUND_0x5="0">
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center"
+        id="@+id/e28"
+        visibility="visible"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x6="@raw/icon_3_lines_horizontal_2"
+        NOT_FOUND_0x7="24dp"
+        NOT_FOUND_0x8="24dp"
+        NOT_FOUND_0x9="?attr/go"/>
+</com.bytedance.tux.badge.TuxAlertBadgeLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    textSize="@dimen/ak9"
+    textStyle="normal"
+    textColor="@color/ae6"
+    ellipsize="end"
+    gravity="center_horizontal"
+    paddingTop="8dp"
+    paddingBottom="8dp"
+    layout_width="0dp"
+    layout_height="wrap_content"
+    layout_marginLeft="4dp"
+    layout_marginRight="4dp"
+    text="@string/fvi"
+    maxLines="1"
+    drawablePadding="0dp"
+    layout_weight="1"
+    layout_marginHorizontal="4dp"
+    paddingVertical="8dp"/>

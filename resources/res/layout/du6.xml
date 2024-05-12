@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    paddingLeft="0dp"
+    paddingRight="44dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    paddingStart="0dp"
+    paddingEnd="44dp">
+    <include layout="@layout/bij"/>
+    <include layout="@layout/bii"/>
+</LinearLayout>

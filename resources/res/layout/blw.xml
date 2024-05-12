@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    background="@color/v8"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <RelativeLayout
+        id="@+id/la4"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="6dp">
+        <TextView
+            textSize="17sp"
+            textColor="@color/hp"
+            gravity="center"
+            id="@+id/kug"
+            layout_width="wrap_content"
+            layout_height="32dp"
+            layout_marginTop="22dp"
+            layout_marginRight="16dp"
+            layout_alignParentRight="true"
+            fontFamily="PingFang SC"
+            layout_marginEnd="16dp"
+            layout_alignParentEnd="true"
+            style="@style/hu"/>
+    </RelativeLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        textColor="#ffffff"
+        layout_gravity="bottom"
+        id="@+id/e2k"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginLeft="12dp"
+        layout_marginBottom="60dp"
+        layout_marginStart="12dp"/>
+    <EditText
+        textSize="14sp"
+        textColor="#ffffff"
+        textColorHint="#80ffffff"
+        layout_gravity="bottom"
+        id="@+id/cqw"
+        background="@drawable/a74"
+        paddingLeft="10dp"
+        paddingTop="8dp"
+        paddingRight="10dp"
+        paddingBottom="8dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_margin="12dp"
+        maxLines="1"
+        singleLine="true"
+        imeOptions="actionDone"/>
+</FrameLayout>

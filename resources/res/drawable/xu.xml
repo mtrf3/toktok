@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item>
+        <shape>
+            <corners
+                topLeftRadius="0dp"
+                topRightRadius="16dp"
+                bottomLeftRadius="0dp"
+                bottomRightRadius="16dp"/>
+            <gradient
+                startColor="#00f8dbf3"
+                endColor="#ffff96b8"
+                angle="0"
+                type="linear"/>
+        </shape>
+    </item>
+</selector>

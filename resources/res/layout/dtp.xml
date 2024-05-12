@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C1539662m
+        id="@+id/l5f"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

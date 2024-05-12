@@ -1,0 +1,2347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d분 후에 아바타 만들기가 시작됩니다.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">%d개의 스타일로 계속 진행</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">사람 얼굴이 있는 사진을 %d개 이상 더 선택하세요</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">Sharp를 사용하면 하루에 %d번 아바타를 만들 수 있습니다</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">Sharp를 사용하면 일주일에 %d번 아바타를 만들 수 있습니다</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">Speedy를 사용하면 하루에 %d번 아바타를 만들 수 있습니다</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">Speedy를 사용하면 일주일에 %d번 아바타를 만들 수 있습니다</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">아바타는 하루에 %d번 만들 수 있습니다</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">아바타는 일주일에 %d번 만들 수 있습니다</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">%d분 후에 아바타 만들기가 시작됩니다.</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">승인됨 (%d)</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">새 멘션을 %d개 받았습니다.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">새 요청 %d개가 있습니다</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">새 요청 %d개가 있습니다</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">질문 %d개</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">처음 %d일 동안 다른 사용자는 게시해야만 회원님의 게시물을 볼 수 있습니다.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">%d일 후에는 게시하지 않아도 회원님의 게시물을 볼 수 있습니다.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">%d일 후에는 회원님만 자신의 게시물을 볼 수 있습니다.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">처음 %d일 동안 다른 사용자는 게시해야만 회원님의 Now 게시물을 볼 수 있습니다.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%d개 제품</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">검토 중 (%d)</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">등록이 승인되면 %d개월 이내에 등록 정보를 변경할 수 없습니다.</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">등록된 정보는 승인 %d개월 이후 변경할 수 있습니다.</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">최대 %d개 이미지 업로드</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">{username} 님의 사진 열기</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">{number}명이 이 동영상을 즐겨찾기에 추가했습니다</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">좋아요 %d개</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@0억</item>
+        <item quantity="other">%@0억</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@00만</item>
+        <item quantity="other">%@00만</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@천</item>
+        <item quantity="other">%@천</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">조회수 %d회</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">댓글을 허용하는 동영상 %s개</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">댓글을 허용하지 않는 동영상 %s개</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">%d개의 동영상은 듀엣을 허용하지 않습니다</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">누구나 회원님의 동영상과 듀엣할 수 있습니다. 회원님의 동영상 중 %1$d개는 듀엣을 허용하며, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">%d개의 동영상은 듀엣을 허용하지 않습니다</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">친구가 회원님의 동영상과 듀엣할 수 있습니다. 회원님의 동영상 중 %1$d개는 듀엣을 허용하며, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">%d개의 동영상은 듀엣을 허용하지 않습니다</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="other">회원님의 동영상과 듀엣할 수 있는 사람을 검토하세요. 회원님의 동영상 중 %1$d개는 듀엣을 허용하며, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="other">%d개의 동영상은 이어붙이기를 허용하지 않습니다</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="other">회원님의 동영상과 이어붙이기할 수 있는 사람을 검토하세요. 회원님의 동영상 중 %1$d개는 이어붙이기를 허용하며, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="other">%d개의 동영상은 이어붙이기를 허용하지 않습니다</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="other">누구나 회원님의 동영상과 이어붙이기할 수 있습니다. 회원님의 동영상 중 %1$d개는 이어붙이기를 허용하며, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="other">%d개의 동영상은 이어붙이기를 허용하지 않습니다</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="other">친구가 회원님의 동영상과 이어붙이기할 수 있습니다. 회원님의 동영상 중 %1$d개는 이어붙이기를 허용하며, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="other">듀엣을 허용하는 동영상 %s개</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="other">듀엣을 허용하지 않는 동영상 %s개</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="other">이어붙이기를 허용하는 동영상 %s개</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="other">이어붙이기를 허용하지 않는 동영상 %s개</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="other">%d시간 전 접속</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="other">%d분 전 접속</item>
+    </plurals>
+    <plurals name="ao">
+        <item quantity="other">일</item>
+    </plurals>
+    <plurals name="ap">
+        <item quantity="other">시간</item>
+    </plurals>
+    <plurals name="aq">
+        <item quantity="other">분</item>
+    </plurals>
+    <plurals name="ar">
+        <item quantity="other">초</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="other">파트 %d개</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="other">%1$s · 새 게시물 %2$d개</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="other">사운드 %d개 가져오기</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="other">라이브 영상 %2$d개 | 스토리 %1$d개</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="other">라이브 영상 %2$d개 | 스토리 %1$d개</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="other">라이브 영상 %d개 | 스토리</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="other">라이브 영상 %2$d개 | 스토리 %1$d개</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="other">스토리 %d개</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="other">친구 %d명 초대됨</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="other">%s개 동영상</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="other">%s개 동영상 추가됨</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="other">동영상 %s개 게시됨</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="other">동영상 추가(%d)</item>
+    </plurals>
+    <plurals name="b5">
+        <item quantity="other">동영상 %s개가 추가되었습니다. 편집을 마치려면 &quot;완료&quot;를 탭하세요.</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="other">%d세</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="other">%d세</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="other">%d살이 맞으신가요?\n\n 아니라면 적절한 TikTok 환경을 즐길 수 없습니다. 나이를 즉시 변경하지 못할 수 있습니다.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="other">만 %d세인가요?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="other">나이를 %d세로 입력하셨습니다. 실제 생년월일을 입력하세요.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="other">%d세</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="other">사운드 %d개</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="other">사운드 동기화 중...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="other">%s 공유</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="other">조회수 %s회</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="other">음성 효과로 인해 정확도가 떨어질 수 있습니다</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="other">파일 최대 %d개 업로드</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="one">[num]개 동영상</item>
+        <item quantity="other">[num]개 동영상</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="other">이 베타 버전은 %d일 후에 만료됩니다</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="other">%d일 후 만료</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="other">%d일 후 만료</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="other">%d일 후 만료</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="other">최대 %d권까지 추가할 수 있습니다</item>
+    </plurals>
+    <plurals name="bn">
+        <item quantity="other">%1$d명의 친구를 초대했습니다. 다음 초대 시 %2$s%3$d을(를) 받을 수 있습니다.</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="other">%s 클립</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="other">%d개 더 보기</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="other">답변 %d개 보기</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="other">%d개월</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="other">%d년</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="other">계정 차단</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="other">%d개 계정이 선택되었습니다.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="other">한 번에 최대 %d개 계정만 선택할 수 있습니다.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="other">차단할 계정을 %d개 선택했습니다. 차단된 계정은 TikTok에서 회원님의 프로필이나 콘텐츠를 볼 수 없습니다.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="other">%d개 계정을 차단할까요?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="other">댓글 삭제</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="other">%d개 댓글을 선택하셨습니다.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="other">%d개 댓글을 삭제할까요?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="other">댓글 삭제됨</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="other">%d개 댓글이 선택되었습니다.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="other">한 번에 최대 %d개 댓글만 선택할 수 있습니다.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="other">댓글 신고</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="other">%d개 댓글을 신고하시려고 합니다. 이 댓글에 부적합한 콘텐츠가 있는지 검토하겠습니다.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="other">%d개 댓글을 신고할까요?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="other">댓글 신고됨</item>
+    </plurals>
+    <plurals name="c9">
+        <item quantity="other">%d개 댓글이 선택되었습니다.</item>
+    </plurals>
+    <plurals name="c_">
+        <item quantity="other">이렇게 수다스러운 분은 또 없을거에요. 당신은 {comment_cnt}번 댓글을 남겼습니다.</item>
+    </plurals>
+    <plurals name="ca">
+        <item quantity="other">당신의 베스트 댓글은 {comment_like_cnt}개의 좋아요를 얻었습니다.</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="other">댓글 %s개</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="other">%s개 동영상</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="other">사용자 %s명이 알림을 설정했습니다</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="other">%s 효과</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="other">동영상 조회수</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="other">순팔로워</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="other">좋아요</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cp">
+        <item quantity="other">&quot;{0}&quot; 라이브까지 10분 남았어요. {0}명의 사용자가 알림을 설정했어요.</item>
+    </plurals>
+    <plurals name="cq">
+        <item quantity="other">라이브를 시작할 시간이에요! {0}명의 사용자가 &quot;{0}&quot;에 대한 알림을 설정했어요.</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="other">사용자 %s명이 알림을 설정했습니다</item>
+    </plurals>
+    <plurals name="cs">
+        <item quantity="other">%d명 이상의 팔로워 보유</item>
+    </plurals>
+    <plurals name="ct">
+        <item quantity="other">지난 %2$d일 동안 %1$d개 이상의 동영상 게시</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="other">임시 저장 동영상을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="cv">
+        <item quantity="other">원본 동영상을 사용하여 %d개의 듀엣 및 이어 찍기 동영상이 생성되었습니다.</item>
+    </plurals>
+    <plurals name="cw">
+        <item quantity="other">%d일 후 이 동영상을 제거할 수 있습니다.</item>
+    </plurals>
+    <plurals name="cx">
+        <item quantity="other">앞으로 %d일 이내에 계정을 복구하면 이 동영상이 복원됩니다.</item>
+    </plurals>
+    <plurals name="cy">
+        <item quantity="other">회원님의 계정은 %d일 동안 비활성화되며 공개되지 않습니다. 비활성화 기간 중 언제든 TikTok 계정을 다시 활성화할 수 있습니다.</item>
+    </plurals>
+    <plurals name="cz">
+        <item quantity="other">%d일 후 계정과 데이터가 영구적으로 삭제됩니다.</item>
+    </plurals>
+    <plurals name="d0">
+        <item quantity="other">계정을 삭제하기 전에 이 %d개 과제를 검토하세요.</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="other">게시물 %s개</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="other">잘못된 비밀번호입니다. %d번 더 시도할 수 있습니다.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="other">너무 많이 시도했습니다. %d분 후에 다시 시도하세요.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="other">멜로디 %d개</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="other">음악 %d개</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="other">작품 %d개</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="other">노래 %d곡</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="other">사운드 %d개</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="other">선율 %d개</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="other">보내기(%d)</item>
+    </plurals>
+    <plurals name="db">
+        <item quantity="other">두 사람 모두 %s 및 %d명을 팔로우합니다.</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="other">팔로잉 %1$d명 · 팔로워 %2$d명</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="other">@ 새 멘션</item>
+    </plurals>
+    <plurals name="de">
+        <item quantity="other">%s개 동영상</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="other">님이 새 메시지를 보냈습니다.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="other">님이 새 메시지를 보냈습니다.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="other">사람은 최대 %d명까지 선택할 수 있습니다</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="other">임시 저장본을 삭제할까요?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="other">임시 저장 동영상을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="other">임시 저장 동영상 {#}개</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="other">이 동영상이 게시되면 %1$s 님 외 %2$s명이 알림을 받습니다.</item>
+    </plurals>
+    <plurals name="dm">
+        <item quantity="other">%s</item>
+    </plurals>
+    <plurals name="dn">
+        <item quantity="other">물품 %d개</item>
+    </plurals>
+    <plurals name="do">
+        <item quantity="other">{number}개 구매 시 {value}% 할인 {number}개 구매 시 {value}% 할인</item>
+    </plurals>
+    <plurals name="dp">
+        <item quantity="other">{number}개 구매 시 {value}% 할인됩니다. {gapvalue}개 더 추가하고 할인을 받으세요! {number}개 구매 시 {value}% 할인됩니다. {gapvalue}개 더 추가하고 할인을 받으세요!</item>
+    </plurals>
+    <plurals name="dq">
+        <item quantity="other">{number}개 물품에 {value}% 할인이 적용되어 {currency_mark}{savevalue}을(를) 절약했습니다 {number}개 물품에 {value}% 할인이 적용되어 {currency_mark}{savevalue}을(를) 절약했습니다</item>
+    </plurals>
+    <plurals name="dr">
+        <item quantity="other">{number}개 이상 구매 시 {value}% 할인 {number}개 이상 구매 시 {value}% 할인</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="other">최소 %d개 항목을 선택하세요</item>
+    </plurals>
+    <plurals name="dt">
+        <item quantity="other">{{required_quantity}}+ 항목</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="other">%d일 후 후속 리뷰</item>
+    </plurals>
+    <plurals name="dv">
+        <item quantity="other">부적격 상품</item>
+    </plurals>
+    <plurals name="dw">
+        <item quantity="other">{{num}}일 후 사용 가능</item>
+    </plurals>
+    <plurals name="dx">
+        <item quantity="other">{count} 포인트 추가 획득 시 순위 향상</item>
+    </plurals>
+    <plurals name="dy">
+        <item quantity="other">{count} 포인트 추가 획득 시 Top 크리에이터가 될 수 있음</item>
+    </plurals>
+    <plurals name="dz">
+        <item quantity="other">{{num}}분 후 깜짝 세일이 시작됩니다.</item>
+    </plurals>
+    <plurals name="e0">
+        <item quantity="other">{num}분 후 깜짝 세일이 시작됩니다.</item>
+    </plurals>
+    <plurals name="e1">
+        <item quantity="other">{{num}}분 후 깜짝 세일이 시작됩니다.</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="other">%s일 후 종료</item>
+    </plurals>
+    <plurals name="e3">
+        <item quantity="other">이벤트가 시작되기 %s분 전에 푸시 알림을 보내겠습니다.</item>
+    </plurals>
+    <plurals name="e4">
+        <item quantity="other">이벤트가 시작되기 %s분 전에 푸시 알림을 보내겠습니다.</item>
+    </plurals>
+    <plurals name="e5">
+        <item quantity="other">이벤트가 시작되기 %s분 전에 푸시 알림을 보내겠습니다.</item>
+    </plurals>
+    <plurals name="e6">
+        <item quantity="other">{{count}}일 남음</item>
+    </plurals>
+    <plurals name="e7">
+        <item quantity="other">무료 샘플을 제공하는 다음 {{count}}개의 제품을 판매하도록 초대받았습니다. 초대를 수락하여 받을 수 있습니다.</item>
+    </plurals>
+    <plurals name="e8">
+        <item quantity="other">이 제품은 사용할 수 없습니다. TikTok 지원 팀에 문의하고 다시 시도하세요.</item>
+    </plurals>
+    <plurals name="e9">
+        <item quantity="other">무료 샘플과 관련되어 무언가 오류가 발생했습니다. TikTok 지원 팀에 문의하고 다시 시도하세요.</item>
+    </plurals>
+    <plurals name="e_">
+        <item quantity="other">{count} 일 후 종료</item>
+    </plurals>
+    <plurals name="ea">
+        <item quantity="other">{count}시간 후 종료</item>
+    </plurals>
+    <plurals name="eb">
+        <item quantity="other">{count}분 후 종료</item>
+    </plurals>
+    <plurals name="ec">
+        <item quantity="other">{count}개 남음</item>
+    </plurals>
+    <plurals name="ed">
+        <item quantity="other">{count}명의 요청자</item>
+    </plurals>
+    <plurals name="ee">
+        <item quantity="other">환불금은 {payment_method}(으)로 전송되었으며 약 {count}일 후 도착할 예정입니다.</item>
+    </plurals>
+    <plurals name="ef">
+        <item quantity="other">%s 할부로 지불</item>
+    </plurals>
+    <plurals name="eg">
+        <item quantity="other">잘못된 상품</item>
+    </plurals>
+    <plurals name="eh">
+        <item quantity="other">이 아이템은 해당 주소로 배송할 수 없습니다.</item>
+    </plurals>
+    <plurals name="ei">
+        <item quantity="other">이 제품은 해당 주소로 배송할 수 없습니다.</item>
+    </plurals>
+    <plurals name="ej">
+        <item quantity="other">비슷한 주문을 %s시간 전에 했습니다. 이전 주문이 결제 대기 중입니다.</item>
+    </plurals>
+    <plurals name="ek">
+        <item quantity="other">비슷한 주문을 %s분 전에 했습니다. 이전 주문이 결제 대기 중입니다.</item>
+    </plurals>
+    <plurals name="el">
+        <item quantity="other">팔로워</item>
+    </plurals>
+    <plurals name="em">
+        <item quantity="other">보기</item>
+    </plurals>
+    <plurals name="en">
+        <item quantity="other">법무</item>
+    </plurals>
+    <plurals name="eo">
+        <item quantity="other">추천</item>
+    </plurals>
+    <plurals name="ep">
+        <item quantity="other">{count}개 이상의 항목 {count}개 이상의 항목</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="other">%1$s 개 물품, 합계 %2$s 개</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="other">합계(%s개 항목)</item>
+    </plurals>
+    <plurals name="es">
+        <item quantity="other">다음 %d개의 제품은 제거되었습니다.</item>
+    </plurals>
+    <plurals name="et">
+        <item quantity="other">%d개의 제품 제거됨</item>
+    </plurals>
+    <plurals name="eu">
+        <item quantity="other">다음 %d개의 제품은 제거되었습니다.</item>
+    </plurals>
+    <plurals name="ev">
+        <item quantity="other">제품이 제거됨(%d개)</item>
+    </plurals>
+    <plurals name="ew">
+        <item quantity="other">%d개의 제품 제거됨</item>
+    </plurals>
+    <plurals name="ex">
+        <item quantity="other">%d개의 제품 제거됨</item>
+    </plurals>
+    <plurals name="ey">
+        <item quantity="other">다음 %d개의 제품이 제거될 예정입니다. 제거를 확인하세요. 그렇지 않으면 {date}에 자동으로 제거됩니다.</item>
+    </plurals>
+    <plurals name="ez">
+        <item quantity="other">%d개의 상품이 제거될 예정임</item>
+    </plurals>
+    <plurals name="f0">
+        <item quantity="other">%d개의 제품이 {date}에 제거될 예정임</item>
+    </plurals>
+    <plurals name="f1">
+        <item quantity="other">%d개의 상품이 제거될 예정임</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="other">최대 %d번 편집할 수 있습니다</item>
+    </plurals>
+    <plurals name="f3">
+        <item quantity="other">텍스트 스티커에 적용됨 모든 텍스트 스티커에 적용됨</item>
+    </plurals>
+    <plurals name="f4">
+        <item quantity="other">당신은 이 스티커가 사용된 {effect_video_cnt}개의 영상에 좋아요를 눌렀습니다.</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="other">%d초 뒤 편집효과 미리 보기</item>
+    </plurals>
+    <plurals name="f6">
+        <item quantity="other">%1$s: %2$s, %3$s, %4$s 님 외 이용자가 %5$d개의 새 동영상을 게시하였습니다. %1$s: %2$s, %3$s, %4$s 님 외 이용자가 %5$d개의 새 동영상을 게시하였습니다.</item>
+    </plurals>
+    <plurals name="f7">
+        <item quantity="other">%1$s: %2$s 님이 %3$d개의 새 동영상을 게시했습니다. %1$s: %2$s 님이 %3$d개의 새 동영상을 게시했습니다.</item>
+    </plurals>
+    <plurals name="f8">
+        <item quantity="other">%1$s: %2$s, %3$s, %4$s 님이 %5$d개의 새 동영상을 게시했습니다. %1$s: %2$s, %3$s, %4$s 님이 %5$d개의 새 동영상을 게시했습니다.</item>
+    </plurals>
+    <plurals name="f9">
+        <item quantity="other">%1$s: %2$s 및 %3$s님이 %4$d개의 새 동영상을 게시했습니다. %1$s: %2$s 및 %3$s님이 %4$d개의 새 동영상을 게시했습니다.</item>
+    </plurals>
+    <plurals name="f_">
+        <item quantity="other">새 팔로워가 %d명 생겼습니다.</item>
+    </plurals>
+    <plurals name="fa">
+        <item quantity="other">새 &quot;좋아요&quot;를 %d개 받았습니다.</item>
+    </plurals>
+    <plurals name="fb">
+        <item quantity="other">%d개의 새 알림이 있습니다. %d개의 새 알림이 있습니다.</item>
+    </plurals>
+    <plurals name="fc">
+        <item quantity="other">마음에 들 수 있는 동영상을 %d개 찾았습니다. 마음에 들 수 있는 동영상을 %d개 찾았습니다.</item>
+    </plurals>
+    <plurals name="fd">
+        <item quantity="other">%1$s: 마음에 드실 수 있는 동영상 %2$d개 %1$s: 마음에 드실 수 있는 동영상 %2$d개</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="other">태그됨</item>
+    </plurals>
+    <plurals name="ff">
+        <item quantity="other">%d명 등록됨</item>
+    </plurals>
+    <plurals name="fg">
+        <item quantity="other">%d명 등록</item>
+    </plurals>
+    <plurals name="fh">
+        <item quantity="other">이 이벤트에 등록됨</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="other">이 그룹 멤버를 알 수도 있습니다.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="other">%s개 동영상</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="other">%s개 동영상 추가됨</item>
+    </plurals>
+    <plurals name="fl">
+        <item quantity="other">%s에서 %d 동영상 제거</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="other">%2$s에서 동영상 %1$d개 삭제</item>
+    </plurals>
+    <plurals name="fn">
+        <item quantity="other">%d개 동영상이 %s(으)로 이동됨</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="other">동영상 %1$d개를 %2$s(으)로 이동했습니다</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="other">동영상 %d개가 삭제되었습니다</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="other">새 추천 계정 %d개</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="other">%s 님 + %d명이 팔로우</item>
+    </plurals>
+    <plurals name="fs">
+        <item quantity="other">팔로워</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="other">%s 님 + %d명 팔로우</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="other">{0}, {1} 님 외 {2}명이 팔로우</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="other">{0} 님 외 {2}명이 팔로우</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="other">{0}, {1} 님 외 {2}명을 팔로우</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="other">{0} 님 외 {2}명을 팔로우</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="other">{0}, {1} 님 외 {2}명과 친구</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="other">{0} 님 외 {2}명과 친구</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="other">함께 아는 사람 {2}명</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="other">%s 님 + %d명과 친구</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="other">친구들의 새 게시물 %d개</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="other">구성원 %d명이 지금 접속 중</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="other">구성원 %1$d명이 %2$d분 전에 접속함</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="other">구성원 %d명이 오늘 접속함</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="other">구성원 %d명</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="other">새 요청</item>
+    </plurals>
+    <plurals name="g8">
+        <item quantity="other">구성원</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="other">구성원 %s명</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="other">구성원 %d명 더 보기</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="other">조회수 %s회</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="other">팔로워: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="other">동영상: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="other">%s 외 %d명에게 보냄</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="other">스토리 %d개를 업로드하지 못했습니다. 해당 스토리는 임시 저장되었습니다.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="other">사진을 업로드하지 못했습니다. 사진이 임시 저장되었습니다.</item>
+    </plurals>
+    <plurals name="gg">
+        <item quantity="other">팔로워 %s명</item>
+    </plurals>
+    <plurals name="gh">
+        <item quantity="other">동영상 %d개</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="other">스티커 %d개</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="other">님이 사진에서 회원님을 멘션했습니다.</item>
+    </plurals>
+    <plurals name="gk">
+        <item quantity="other">%1$s 님이 %2$s, 그리고 %3$d명을 팔로우합니다. 프로필을 확인하세요.</item>
+    </plurals>
+    <plurals name="gl">
+        <item quantity="other">%1$s 님을 %2$s, 그리고 %3$d명이 팔로우합니다. 프로필을 확인하세요.</item>
+    </plurals>
+    <plurals name="gm">
+        <item quantity="other">%1$s 님은 %2$s 님, 그리고 %3$d명과 친구입니다. 프로필을 확인하세요.</item>
+    </plurals>
+    <plurals name="gn">
+        <item quantity="other">%1$s 님을 %2$s, %3$s 님, 그리고 %4$d명이 팔로우합니다. %1$s 님의 프로필을 확인하세요.</item>
+    </plurals>
+    <plurals name="go">
+        <item quantity="other">%1$s 님이 %2$s, %3$s 님, 그리고 %4$d명을 팔로우합니다. %1$s 님의 프로필을 확인하세요.</item>
+    </plurals>
+    <plurals name="gp">
+        <item quantity="other">%1$s 님은 %2$s, %3$s 님, 그리고 %4$d명과 친구입니다. %1$s 님의 프로필을 확인하세요.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="other">새 게시물 %s개</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="other">활동</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="other">알 수도 있는 %1$s, %2$s 님과 %d명의 동영상을 시청하려면 팔로우하세요.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="other">그 외 %d명</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="other">알 수도 있는 %1$s, %2$s 님과 %3$d명의 동영상을 시청하려면 팔로우하세요.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="other">메시지</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="other">새 활동</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="other">구성원 %s명</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="other">게시물 %s개</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="other">키워드 %d개</item>
+    </plurals>
+    <plurals name="h1">
+        <item quantity="other">{0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. 회원님과 함께 아는 사람은 {3}명입니다. {0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="h2">
+        <item quantity="other">{0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. {2}, {3} 님 등이 팔로잉합니다. {0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. {2}, {3} 님 등이 팔로잉합니다.</item>
+    </plurals>
+    <plurals name="h3">
+        <item quantity="other">{0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. 친구인 회원은 {2}, {3} 님 등입니다. {0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="h4">
+        <item quantity="other">{0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. {2}, {3} 님 등을 함께 팔로우합니다. {0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="h5">
+        <item quantity="other">님이 회원님의 동영상에 댓글을 남겼습니다. 회원님과 함께 아는 사람은 {3}명입니다. 님이 회원님의 동영상에 댓글을 남겼습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="h6">
+        <item quantity="other">님이 회원님의 동영상에 댓글을 남겼습니다. {2}, {3} 님 등이 팔로잉합니다. 님이 회원님의 동영상에 댓글을 남겼습니다. {2}, {3} 님 등이 팔로잉합니다.</item>
+    </plurals>
+    <plurals name="h7">
+        <item quantity="other">님이 회원님의 동영상에 댓글을 남겼습니다. 친구인 회원은 {2}, {3} 님 등입니다. 님이 회원님의 동영상에 댓글을 남겼습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="h8">
+        <item quantity="other">님이 회원님의 동영상에 댓글을 남겼습니다. {2}, {3} 님 등을 함께 팔로우합니다. 님이 회원님의 동영상에 댓글을 남겼습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="h9">
+        <item quantity="other">님이 회원님과 듀엣을 만들었습니다. 회원님과 함께 아는 사람은 {3}명입니다. 님이 회원님과 듀엣을 만들었습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="h_">
+        <item quantity="other">님이 회원님과 듀엣을 만들었습니다. {2}, {3} 님 등이 팔로잉합니다. 님이 회원님과 듀엣을 만들었습니다. {2}, {3} 님 등이 팔로잉합니다.</item>
+    </plurals>
+    <plurals name="ha">
+        <item quantity="other">님이 회원님과 듀엣을 만들었습니다. 친구인 회원은 {2}, {3} 님 등입니다. 님이 회원님과 듀엣을 만들었습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="hb">
+        <item quantity="other">님이 회원님과 듀엣을 만들었습니다. {2}, {3} 님 등을 함께 팔로우합니다. 님이 회원님과 듀엣을 만들었습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="hc">
+        <item quantity="other">님이 회원님의 동영상에 좋아요를 남겼습니다. {2}, {3} 님 등을 함께 팔로우합니다. 님이 회원님의 동영상에 좋아요를 남겼습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="hd">
+        <item quantity="other">님이 회원님의 동영상에 좋아요를 남겼습니다. 회원님과 함께 아는 사람은 {3}명입니다. 님이 회원님의 동영상에 좋아요를 남겼습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="he">
+        <item quantity="other">님이 회원님의 동영상에 좋아요를 남겼습니다. {2}, {3} 님 등이 팔로잉합니다. 님이 회원님의 동영상에 좋아요를 남겼습니다. {2}, {3} 님 등이 팔로잉합니다.</item>
+    </plurals>
+    <plurals name="hf">
+        <item quantity="other">님이 회원님의 동영상에 좋아요를 남겼습니다. 친구인 회원은 {2}, {3} 님 등입니다. 님이 회원님의 동영상에 좋아요를 남겼습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="hg">
+        <item quantity="other">님이 댓글에서 회원님을 멘션했습니다. 회원님과 함께 아는 사람은 {3}명입니다. 님이 댓글에서 회원님을 멘션했습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="hh">
+        <item quantity="other">님이 댓글에서 회원님을 멘션했습니다. {2}, {3} 님 등이 팔로잉합니다. 님이 댓글에서 회원님을 멘션했습니다. {2}, {3} 님 등이 팔로잉합니다.</item>
+    </plurals>
+    <plurals name="hi">
+        <item quantity="other">님이 댓글에서 회원님을 멘션했습니다. 친구인 회원은 {2}, {3} 님 등입니다. 님이 댓글에서 회원님을 멘션했습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="hj">
+        <item quantity="other">님이 댓글에서 회원님을 멘션했습니다. {2}, {3} 님 등을 함께 팔로우합니다. 님이 댓글에서 회원님을 멘션했습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="hk">
+        <item quantity="other">[함께 아는 사람 {3}명] [함께 아는 사람 {3}명]</item>
+    </plurals>
+    <plurals name="hl">
+        <item quantity="other">[두 사람 모두를 {2} 님 외 {3}명이 팔로우합니다]</item>
+    </plurals>
+    <plurals name="hm">
+        <item quantity="other">[두 사람 모두 {2} 및 {3}명을 팔로우합니다]</item>
+    </plurals>
+    <plurals name="hn">
+        <item quantity="other">{0} 님이 회원님을 팔로잉하기 시작했습니다. {2}, {3} 님 등을 함께 팔로우합니다. {0} 님이 회원님을 팔로잉하기 시작했습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="ho">
+        <item quantity="other">{0} 님이 회원님을 팔로잉하기 시작했습니다. 회원님과 함께 아는 사람은 {3}명입니다. {0} 님이 회원님을 팔로잉하기 시작했습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="hp">
+        <item quantity="other">{0} 님이 회원님을 팔로잉하기 시작했습니다. {2}, {3} 님 등이 팔로잉합니다. {0} 님이 회원님을 팔로잉하기 시작했습니다. {2}, {3} 님 등이 팔로잉합니다.</item>
+    </plurals>
+    <plurals name="hq">
+        <item quantity="other">{0} 님이 회원님을 팔로잉하기 시작했습니다. 친구인 회원은 {2}, {3} 님 등입니다. {0} 님이 회원님을 팔로잉하기 시작했습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="hr">
+        <item quantity="other">[두 사람 모두 {2} 님 외 {3}명의 친구입니다]</item>
+    </plurals>
+    <plurals name="hs">
+        <item quantity="other">{0} ({1}) 님이 회원님께 팔로우 요청을 전송하였습니다. 회원님과 함께 아는 사람은 {3}명입니다. {0} ({1}) 님이 회원님께 팔로우 요청을 전송하였습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="ht">
+        <item quantity="other">{0} ({1}) 님이 회원님께 팔로우 요청을 전송하였습니다. {2}, {3} 님 등이 팔로우합니다. {0} ({1}) 님이 회원님께 팔로우 요청을 전송하였습니다. {2}, {3} 님 등이 팔로우합니다.</item>
+    </plurals>
+    <plurals name="hu">
+        <item quantity="other">{0} ({1}) 님이 회원님께 팔로우 요청을 전송하였습니다. 친구인 회원은 {2}, {3} 님 등입니다. {0} ({1}) 님이 회원님께 팔로우 요청을 전송하였습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="hv">
+        <item quantity="other">{0} ({1}) 님이 회원님께 팔로우 요청을 전송하였습니다. {2}, {3} 님 등을 함께 팔로우합니다. {0} ({1}) 님이 회원님께 팔로우 요청을 전송하였습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="hw">
+        <item quantity="other">{0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. 회원님과 함께 아는 사람은 {3}명입니다. {0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="hx">
+        <item quantity="other">{0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. {2}, {3} 님 등이 팔로잉합니다. {0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. {2}, {3} 님 등이 팔로잉합니다.</item>
+    </plurals>
+    <plurals name="hy">
+        <item quantity="other">{0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. 친구인 회원은 {2}, {3} 님 등입니다. {0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="hz">
+        <item quantity="other">{0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. {2}, {3} 님 등을 함께 팔로우합니다. {0} ({1}) 님이 회원님을 팔로잉하기 시작했습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="i0">
+        <item quantity="other">{0} 님이 회원님의 팔로우 요청을 수락하였습니다. 회원님과 함께 아는 사람은 {3}명입니다. {0} 님이 회원님의 팔로우 요청을 수락하였습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="i1">
+        <item quantity="other">{0} 님이 회원님의 팔로우 요청을 수락하였습니다. {2}, {3} 님 등이 팔로우합니다. {0} 님이 회원님의 팔로우 요청을 수락하였습니다. {2}, {3} 님 등이 팔로우합니다.</item>
+    </plurals>
+    <plurals name="i2">
+        <item quantity="other">{0} 님이 회원님의 팔로우 요청을 수락하였습니다. 친구인 회원은 {2}, {3} 님 등입니다. {0} 님이 회원님의 팔로우 요청을 수락하였습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="i3">
+        <item quantity="other">{0} 님이 회원님의 팔로우 요청을 수락하였습니다. {2}, {3} 님 등을 함께 팔로우합니다. {0} 님이 회원님의 팔로우 요청을 수락하였습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="i4">
+        <item quantity="other">{0} 님이 회원님께 팔로우 요청을 전송하였습니다. 회원님과 함께 아는 사람은 {3}명입니다. {0} 님이 회원님께 팔로우 요청을 전송하였습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="i5">
+        <item quantity="other">{0} 님이 회원님께 팔로우 요청을 전송하였습니다. {2}, {3} 님 등이 팔로우합니다. {0} 님이 회원님께 팔로우 요청을 전송하였습니다. {2}, {3} 님 등이 팔로우합니다.</item>
+    </plurals>
+    <plurals name="i6">
+        <item quantity="other">{0} 님이 회원님께 팔로우 요청을 전송하였습니다. 친구인 회원은 {2}, {3} 님 등입니다. {0} 님이 회원님께 팔로우 요청을 전송하였습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="i7">
+        <item quantity="other">{0} 님이 회원님께 팔로우 요청을 전송하였습니다. {2}, {3} 님 등을 함께 팔로우합니다. {0} 님이 회원님께 팔로우 요청을 전송하였습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="i8">
+        <item quantity="other">님이 회원님의 댓글에 회신했습니다. 회원님과 함께 아는 사람은 {3}명입니다. 님이 회원님의 댓글에 회신했습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="i9">
+        <item quantity="other">님이 회원님의 댓글에 회신했습니다. {2}, {3} 님 등이 팔로잉합니다. 님이 회원님의 댓글에 회신했습니다. {2}, {3} 님 등이 팔로잉합니다.</item>
+    </plurals>
+    <plurals name="i_">
+        <item quantity="other">님이 회원님의 댓글에 회신했습니다. 친구인 회원은 {2}, {3} 님 등입니다. 님이 회원님의 댓글에 회신했습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="ia">
+        <item quantity="other">님이 회원님의 댓글에 회신했습니다. {2}, {3} 님 등을 함께 팔로우합니다. 님이 회원님의 댓글에 회신했습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="ib">
+        <item quantity="other">님이 회원님의 댓글에 동영상으로 회신했습니다. 회원님과 함께 아는 사람은 {3}명입니다. 님이 회원님의 댓글에 동영상으로 회신했습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="ic">
+        <item quantity="other">님이 회원님의 댓글에 동영상으로 회신했습니다. {2}, {3} 님 등이 팔로잉합니다. 님이 회원님의 댓글에 동영상으로 회신했습니다. {2}, {3} 님 등이 팔로잉합니다.</item>
+    </plurals>
+    <plurals name="id">
+        <item quantity="other">님이 회원님의 댓글에 동영상으로 회신했습니다. 친구인 회원은 {2}, {3} 님 등입니다. 님이 회원님의 댓글에 동영상으로 회신했습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="ie">
+        <item quantity="other">님이 회원님의 댓글에 동영상으로 회신했습니다. {2}, {3} 님 등을 함께 팔로우합니다. 님이 회원님의 댓글에 동영상으로 회신했습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="if">
+        <item quantity="other">님이 동영상에서 회원님을 멘션했습니다. 회원님과 함께 아는 사람은 {3}명입니다. 님이 동영상에서 회원님을 멘션했습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="ig">
+        <item quantity="other">님이 동영상에서 회원님을 멘션했습니다. {2}, {3} 님 등이 팔로잉합니다. 님이 동영상에서 회원님을 멘션했습니다. {2}, {3} 님 등이 팔로잉합니다.</item>
+    </plurals>
+    <plurals name="ih">
+        <item quantity="other">님이 동영상에서 회원님을 멘션했습니다. 친구인 회원은 {2}, {3} 님 등입니다. 님이 동영상에서 회원님을 멘션했습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="ii">
+        <item quantity="other">님이 동영상에서 회원님을 멘션했습니다. {2}, {3} 님 등을 함께 팔로우합니다. 님이 동영상에서 회원님을 멘션했습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="ij">
+        <item quantity="other">님이 회원님의 동영상에 투표했습니다. 회원님과 함께 아는 사람은 {3}명입니다. 님이 회원님의 동영상에 투표했습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="ik">
+        <item quantity="other">님이 회원님도 회신한 댓글에 동영상으로 회신했습니다. 회원님과 함께 아는 사람은 {3}명입니다. 님이 회원님도 회신한 댓글에 동영상으로 회신했습니다. 회원님과 함께 아는 사람은 {3}명입니다.</item>
+    </plurals>
+    <plurals name="il">
+        <item quantity="other">님이 회원님도 회신한 댓글에 동영상으로 회신했습니다. {2}, {3} 님 등이 팔로잉합니다. 님이 회원님도 회신한 댓글에 동영상으로 회신했습니다. {2}, {3} 님 등이 팔로잉합니다.</item>
+    </plurals>
+    <plurals name="im">
+        <item quantity="other">님이 회원님도 회신한 댓글에 동영상으로 회신했습니다. 친구인 회원은 {2}, {3} 님 등입니다. 님이 회원님도 회신한 댓글에 동영상으로 회신했습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="in">
+        <item quantity="other">님이 회원님도 회신한 댓글에 동영상으로 회신했습니다. {2}, {3} 님 등을 함께 팔로우합니다. 님이 회원님도 회신한 댓글에 동영상으로 회신했습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="io">
+        <item quantity="other">님이 회원님의 동영상에 투표했습니다. {2}, {3} 님 등이 팔로잉합니다. 님이 회원님의 동영상에 투표했습니다. {2}, {3} 님 등이 팔로잉합니다.</item>
+    </plurals>
+    <plurals name="ip">
+        <item quantity="other">님이 회원님의 동영상에 투표했습니다. 친구인 회원은 {2}, {3} 님 등입니다. 님이 회원님의 동영상에 투표했습니다. 친구인 회원은 {2}, {3} 님 등입니다.</item>
+    </plurals>
+    <plurals name="iq">
+        <item quantity="other">님이 회원님의 동영상에 투표했습니다. {2}, {3} 님 등을 함께 팔로우합니다. 님이 회원님의 동영상에 투표했습니다. {2}, {3} 님 등을 함께 팔로우합니다.</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="other">라이브 동영상 %d개</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="other">%s일 이내에 종료</item>
+    </plurals>
+    <plurals name="it">
+        <item quantity="other">상품 %d개</item>
+    </plurals>
+    <plurals name="iu">
+        <item quantity="other">%s 외 %d명에게 보냄...</item>
+    </plurals>
+    <plurals name="iv">
+        <item quantity="other">%s 외 %d명에게 보냄</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="other">최대 %1$d개의 미디어 파일만 선택할 수 있습니다</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="other">%d개의 요청</item>
+    </plurals>
+    <plurals name="iz">
+        <item quantity="other">%d개 동영상을 더 제출할 수 있습니다.</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="other">노래를 새 노래에서 선택 취소할까요?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="other">노래 %d곡이 새 노래에서 선택 취소되었습니다</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="other">출시곡 %d개</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="other">아티스트 %d명</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="other">공동 팔로워: %d명</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="other">함께 아는 사람 %d명</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="other">이제 최대 %d분 길이의 동영상을 업로드할 수 있습니다!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="other">%d분 길이 동영상 소개</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="other">공동 팔로워: %d명</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="other">댓글 %d개</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="other">%d개 댓글 모두 보기</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="other">{nickname} 님 외 {number_1}명</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="other">{number}명의 친구가 오늘의 Now를 게시했습니다</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="other">%1$s 님 외 %2$d명이 Now를 게시했습니다</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="other">{nickname} 님 외 {number_1}명</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="other">TikTok에서 {number}명의 친구와 함께 랜덤한 순간을 공유하세요</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="other">앞으로 {number}분 후에 Now를 게시하세요</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="other">Now를 게시할 수 있는 시간이 %d분 남았습니다.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="other">함께 아는 친구 %d명</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="other">좋아요 %d개</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="other">{1}, {2}, {3} 님 외 {number}명이 방금 Now를 게시했습니다.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="other">리액션 %d개</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="other">조회수 %d회</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="other">조회수 %d회</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="other">%1$s 님 외 %2$s명</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="other">Lemon8에서 동기화된 사운드에는 아직 사운드가 없습니다. 사운드를 추가하여 시청자의 게시물 참여를 늘리세요.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="other">사운드를 추가하여 게시물에 가치 더하기</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="other">님이 회원님의 사진을 좋아합니다.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="other">님이 회원님의 사진에 투표했습니다.</item>
+    </plurals>
+    <plurals name="jt">
+        <item quantity="other">동영상 추가(%s개)</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="other">%d개 에피소드</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="other">파트 %d개</item>
+    </plurals>
+    <plurals name="jw">
+        <item quantity="other">동영상 제거(%s개)</item>
+    </plurals>
+    <plurals name="jx">
+        <item quantity="other">조회수 %s회</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="other">%d회 더 보낼 수 있습니다</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="other">시청자 %d명이 신청함</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="other">액세스가 %s일 후에 복원됩니다</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="other">1위 시청자의 코인 %s개</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="other">2위 시청자의 코인 %s개</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="other">팔로워 %s명</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="other">사용 가능한 아이템 {number}개 쇼핑</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="other">사용 가능한 아이템 {number}개 쇼핑</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="other">라이브 크리에이터에게 코인 %s개 제공함</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="other">%s개 좋아요</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="other">%s명의 시청자</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="other">%s회 공유되었습니다. 동영상 공유</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="other">%1$s 님이 %2$s 님에게 투표했습니다</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="other">%1$s 님은 %2$s 님에게, %3$s 님은 %4$s 님에게 투표했습니다</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="other">%d분 후</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="other">%d 경험 포인트가 더 있으면 레벨 업됩니다</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="other">리워드는 %d일 후 비활성화됩니다</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="other">라이브를 종료하시겠습니까? 시청자 %s명이 현재 시청하고 있습니다.</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="other">라이브를 종료하시겠습니까? 시청자 %s명이 현재 시청하고 있습니다.</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="other">새 메시지 %s개</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="other">{num}일 연속으로 합방 호스트를 진행했습니다</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="other">{number}개 코인이 부족합니다</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="other">지난 {number}일 동안 가장 높은 금액: 코인 {amount}개</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="other">추천 금액: 코인 {amount}개</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="other">지금 {number}개의 코인이 있습니다. 충전하여 더 많은 코인을 얻을 수 있습니다.</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="other">정답(%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="other">%s개의 정확한 추측</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="other">%s명의 시청자가 맞췄습니다 ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="other">대부분의 시청자는 %s개 단어를 맞췄습니다</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="other">단어를 맞춘 시청자가 없음</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="other">%s분에 단어 그리기</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="other">�� %d명의 시청자가 %s을(를) 맞췄습니다</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="other">%s개 단어를 맞췄습니다!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="other">%s개 단어를 맞추셨습니다</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="other">{0:string} 님과 {1:string}명의 기타 쇼핑객이 구매 중입니다</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="other">%d개 이미지가 너무 작습니다. 이미지는 256 x 256픽셀 이상이어야 합니다.</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="other">시청자 %d명</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="other">%d개의 코인이 있습니다.</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="other">%@을(를) %d개의 추가 코인으로 교환하여 이 선물을 보낼 수 있습니다.</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="other">라이브 선물 잔액을 {{num}}개 코인으로 교환했습니다</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="other">코인 %1$d개가 부족합니다. %2$s을(를) 코인으로 교환하고 %3$s을(를) 보낼까요?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="other">코인 %d개로 교환하여 %s을(를) 보냈습니다</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="other">멤버 %s명</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="other">님은 {num}일 동안 회원님과 함께 보냈습니다</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="other">활성 상태를 유지하려면 {num}시간 이내에 1 멤버 포인트를 획득하세요</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="other">코인 %1$d개로 %2$d회 더 보낼 수 있습니다.</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="other">현재 팔로워 %d명 활동 중</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="other">귀하의 친구 {number}명이 라이브 중입니다. 합방 라이브에 초대하세요!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="other">충전하여 코인 {num}개 더 획득하기</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="other">{num}일</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="other">코인 {num}개 획득하기</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="other">코인 {num}개</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="other">코인 {num}개를 더 획득합니다.</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="other">코인 {num_1}개를 더 충전하세요.</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="other">충전하여 코인 {num}개 더 획득하기</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="other">지난 {number}일</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="other">{gameName} 및 기타 {number}개 항목의 가격이 변경되었습니다. 파트너십 센터에서 추가 정보를 확인하세요.</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="other">프로그램 약관을 위반하여 라이브에서 선물 기능이 %s일 동안 일시 정지되었습니다.</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="other">이 라이브에서 선물 기능이 일시 정지되었으며 %s분 후에 복원됩니다.</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="other">선물 기능이 {0}일 동안 일시 정지되었습니다.</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="other">선물 기능이 %s일 동안 일시 정지되었습니다</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="other">코인 %d개로 보내기</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="other">충전이 완료되었으며 이제 코인 %d개가 있습니다. 이 선물을 보내 응원하세요!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="other">교환이 완료되었으며 이제 코인 %d개가 있습니다. 이 선물을 보내 응원하세요!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="other">{0:user} 님이 {1:gift}({2:string}포인트) {3:string}을(를) 보냈습니다. 이 시청자가 처음으로 보낸 선물입니다! 감사의 마음을 전하세요!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="other">{0:user} 님이 {1:gift}({2:string}포인트) {3:string}을(를) 보냈습니다</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="other">{0:user} 님이 {1:gift}({2:string}포인트) {3:string}을(를) 보냈습니다</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="other">{0:user} 님이 {1:gift}({2:string}포인트) {3:string}을(를) 보냈으며 이번 여행에서 크리에이터와 함께 처음으로 {4:city}에 도착했습니다!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="other">선물 세부 정보(총 {{num}}회 거래)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="other">코인 {amount}개</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="other">개 선물</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="other">코인 %d개</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="other">%s개의 선물을 받았습니다. 잊지 말고 감사의 인사를 전하세요.</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="other">%s개의 선물을 받았습니다</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="other">%s개 코인으로의 교환을 완료하시겠습니까?</item>
+    </plurals>
+    <plurals name="lz">
+        <item quantity="other">%d개 코인으로의 교환을 완료하시겠습니까?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="other">라이브 시작(%d초)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="other">%s개 게스트 요청</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="other">%s개 요청</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="other">%s 포인트</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="other">%1$s 포인트가 있으면 %2$s에 도달합니다</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="other">%d명의 시청자가 요청 중</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="other">%d일 동안 게스트로 LIVE에 입장하지 못하도록 일시 중지되었습니다.</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="other">%d시간 동안 게스트로 LIVE에 입장하지 못하도록 일시 중지되었습니다.</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="other">%d분 동안 게스트로 LIVE에 입장하지 못하도록 일시 중지되었습니다.</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="other">%d초 동안 게스트로 LIVE에 입장하지 못하도록 일시 중지되었습니다.</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="other">도구</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="other">[username] 님과 [number]명의 팔로워가 라이브를 시작하도록 귀하를 흔들었습니다</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="other">[username] 님과 [number]명의 팔로워가 최근에 라이브를 시작하도록 귀하를 흔들었습니다</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="other">초대를 수락하면 이 라이브 크리에이터가 현재 합방 호스트에 참여합니다.</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="other">{number}일</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="other">다음 단계에서는 페이지에서 나간 경우 {number}일이 지나야 쿠폰을 다시 사용할 수 있습니다.</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="other">다음 단계에서는 페이지에서 나간 경우 {number}일이 지나야 쿠폰을 다시 사용할 수 있습니다.</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="other">다음 단계에서는 페이지에서 나간 경우 {number}일이 지나야 쿠폰을 다시 사용할 수 있습니다.</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="other">쿠폰은 {number}일 후에 다시 사용할 수 있습니다</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="other">쿠폰은 {number}시간 후에 다시 사용할 수 있습니다</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="other">쿠폰은 {number}분 후에 다시 사용할 수 있습니다</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="other">%s개 좋아요</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="other">개 좋아요</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="other">%s개 좋아요</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="other">%d초</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="other">라이브 권한 신청이 승인되지 않았습니다. %d일 후 다시 신청할 수 있습니다.</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="other">라이브 권한을 신청하셨으며, 앞으로 7일 동안 라이브를 진행해볼 수 있습니다. 커뮤니티 가이드라인을 준수하고 첫 주에 %d시간 동안 라이브를 진행하면 권한이 유지됩니다.</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="other">%s까지 라이브를 %d시간 더 진행하여 라이브 권한을 유지하세요</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="other">%2$s까지 라이브를 %1$s시간 더 진행하여 라이브 권한을 유지하세요</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="other">%s포인트</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="other">{%s host username} 님이 이번 주 {%n}위 라이브 크리에이터가 되려면 코인 {%d}개가 필요합니다!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="other">1일 남았습니다. 3위 라이브 크리에이터가 되고 동영상에서 전용 배지를 받으려면 다이아몬드를 {%d}개 더 모으세요.</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="other">1일 남았습니다. 더 많은 잠재 시청자들에게 라이브를 보여주려면 다이아몬드를 {%d}개 더 모으세요.</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="other">1일 남았습니다. 라이브 크리에이터를 위한 특별 리워드를 받으려면 다이아몬드를 {%d}개 더 모으세요!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="other">현재 %s명의 팔로워가 활성화 상태</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="other">%s개 코인 필요</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="other">%d명의 구독자가 시청하고 있습니다</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="other">3분 남았습니다. 3위 라이브 크리에이터가 되고 전용 배지를 받으려면 다이아몬드를 {%d}개 더 모으세요.</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="other">3분 남았습니다. 더 많은 잠재 시청자들에게 라이브를 보여주려면 다이아몬드를 {%d}개 더 모으세요.</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="other">3분 남았습니다. 라이브 크리에이터를 위한 특별한 리워드를 받으려면 다이아몬드를 {%d}개 더 모으세요!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="other">%s시간 %d분</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="other">다이아몬드</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="other">조회수</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="other">%s분이 지나면 질문에 답할 수 없습니다</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="other">%s시간 전</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="other">%s분 전</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="other">10분 후 %s 이벤트가 예정되어 있습니다. %d명이 회원님의 이벤트를 확인했습니다. 지금 라이브를 시작하여 더 큰 홍보 효과를 누리세요!</item>
+    </plurals>
+    <plurals name="nh">
+        <item quantity="other">%d명의 사용자가 회원님의 이벤트를 보았습니다. 라이브를 준비하세요!</item>
+    </plurals>
+    <plurals name="ni">
+        <item quantity="other">{numberofviews}명이 회원님의 이벤트를 확인했습니다. 라이브를 준비하세요!</item>
+    </plurals>
+    <plurals name="nj">
+        <item quantity="other">%d명이 회원님의 이벤트를 확인했습니다! 정시에 라이브를 시작해 주세요.</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="other">튜토리얼 영상 미션 %s개 보기</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="other">선물 후원자의 우선 표시 요청 %d개</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="other">코인 %d개</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="other">코인 %d개를 사용합니다.</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="other">코인 %d개를 보냈습니다. %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="other">라이브 크리에이터는 코인을 총 %d개 넘게 보낸 사용자의 요청을 우선 수락할 수도 있습니다.</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="other">라이브 크리에이터는 코인을 총 %d개 넘게 보낸 다른 사용자와 회원님의 요청을 우선 수락할 수도 있습니다.</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="other">코인 %d개가 사용됩니다.</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="other">%2$s초 후에 카메라를 다시 켜도록 %1$s 님을 초대할 수 있습니다</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="other">%2$s초 후에 마이크를 다시 켜도록 %1$s 님을 초대할 수 있습니다</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="other">%d분</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="other">%d초</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="other">%d분</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="other">%d초</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="other">레벨1에서 완료해야 할 작업 %s개</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="other">레벨2에서 완료해야 할 작업 %s개</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="other">최대 %s개의 맞춤형 혜택을 생성할 수 있습니다. 맞춤형 혜택을 삭제하여 새 맞춤형 혜택을 생성하세요.</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="other">투표가 %s초 후 종료됩니다</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="other">지금 투표하기 (%s초):</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="other">오늘 %d개 코인을 사용했습니다.</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="other">좀 더 천천히 선물을 보내고 %d분 후에 다시 시도하세요.</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="other">{0:user} 님의 포털이 닫혔습니다. 시청자 {1:string}명이 포털을 통해 참여했습니다.</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="other">{0:user} 님의 포털이 닫혔습니다. 시청자 {1:string}명이 포털을 통해 참여했습니다! 잘하셨습니다! ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="other">{0:user} 님의 포털이 닫혔습니다. 시청자 {1:string}명이 포털을 통해 참여했습니다! 훌륭하십니다! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="other">조회수 %s회</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="other">데스크톱 웹에서 {{num}}개 코인 구매함</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="other">앱에서 {{num}}개 코인 구매함</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="other">모바일 웹에서 {{num}}개 코인 구매함</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="other">귀하의 이의 제기를 검토하고 취소 기간을 조정했습니다. PC 또는 Mac을 통한 라이브 시작 액세스가 %s일 후에 복원됩니다.</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="other">커뮤니티 가이드라인을 여러 번 위반하여 PC 또는 Mac을 통한 라이브 시작 액세스가 %s일 동안 일시 정지되었습니다.</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="other">귀하의 이의 제기를 검토하고 보물상자 액세스 취소 기간을 %s일로 조정했습니다.</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="other">커뮤니티 가이드라인을 여러 번 위반하여 보물상자 액세스가 %s일 동안 일시 정지되었습니다</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="other">지난 30일 동안 %s개 이상의 다이아몬드를 받았습니다. 주간 랭킹에 오르려면 계속 유지하세요.</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="other">이 랭킹은 지난 30일 동안 받은 다이아몬드가 {0:string}개 보다 적은 라이브 크리에이터를 표시합니다.</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="other">선물 기능이 %s일 동안 일시 정지되었습니다</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="other">지금 {number_1}개의 코인이 있습니다. {number_2}개의 코인({amount})을 충전하여 아이템을 보낼 수 있습니다.</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="other">%s개 코인이 부족합니다</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="other">{number}개의 초대 링크를 받았습니다</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="other">%s 님이 보낸 구독 초대를 여세요 %s 님 외 다른 사용자가 보낸 구독 초대를 여세요</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="other">요청됨: %d분 전</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="other">선물 기능이 %s일 동안 일시 정지되었습니다</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="other">액세스가 %s일 후에 복원됩니다.</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="other">회원님의 이의 제기를 검토하고 취소 기간을 조정했습니다. 라이브 스튜디오 액세스 권한이 %s일 후에 복원됩니다.</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="other">귀하의 이의 제기를 검토하고 취소 기간을 조정했습니다. 모바일 게임에 대한 액세스 권한이 %s일 후에 복원됩니다.</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="other">귀하의 이의 제기를 검토하고 취소 기간을 조정했습니다. PC 또는 Mac을 통한 라이브 시작 액세스가 %s일 후에 복원됩니다.</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="other">라이브 규칙 또는 커뮤니티 가이드라인을 여러 번 위반하여 라이브 스튜디오에 대한 액세스 권한이 %s일 동안 일시 정지되었습니다.</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="other">라이브 규칙 또는 커뮤니티 가이드라인을 여러 번 위반하여 모바일 게임에 대한 액세스 권한이 %s일 동안 일시 정지되었습니다.</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="other">라이브 규칙 또는 커뮤니티 가이드라인을 여러 번 위반하여 PC 또는 Mac을 통한 라이브 시작에 대한 액세스 권한이 %s일 동안 일시 정지되었습니다.</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="other">목표: 선물 후원자 {&lt;num&gt;}명</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="other">목표: {&lt;num&gt;} 선물 포인트</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="other">목표: 팀 선물 후원자 {&lt;num&gt;}명</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="other">목표: {&lt;num&gt;} 팀 선물 포인트</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="other">+ &lt;num&gt; 매치 포인트</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="other">회원님의 댓글은 시청자 %s명의 화면 상단에 표시됩니다</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="other">회원님의 프리미엄 댓글은 라이브 중에 삭제되었으며, 24시간 이내에 이 댓글에 대한 코인 [0:string]개가 환불됩니다.</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="other">프리미엄 댓글 %s개 대기 중</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="other">최근에 프리미엄 댓글이 삭제되었습니다. {num}시간 후에 다시 시도하세요.</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="other">최근에 프리미엄 댓글이 삭제되었습니다. {num}분 후에 다시 시도하세요.</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="other">%s일 후 종료</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="other">현재 시청자는 %1$s명입니다. 지금 구독자 전용 라이브를 시작하면 %2$s명의 새 구독자를 확보할 수 있습니다.</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="other">구독자 %s명이 시청하고 있습니다. 구독자 전용 라이브를 사용하여 커뮤니티와의 유대감을 키우기 좋은 타이밍입니다.</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="other">매달 %2$s분 동안 구독자 전용 라이브를 진행하면 %1$s명의 새 구독자를 확보할 수 있습니다.</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="other">댓글에 최대 %s개의 이모티콘을 입력할 수 있습니다</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="other">%1$s 님을 구독하고 맞춤형 이모티콘 %2$s개를 사용해보세요</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="other">팔로워 {number}명 미만</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="other">팔로워가 {number}명 미만인 크리에이터는 초대할 수 없습니다</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="other">크리에이터를 {number1}명 더 초대하여 {number2}위에 들어보세요! 화이팅!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="other">크리에이터를 {number}명 더 초대하여 {rankminusone}위에 들어보세요! 화이팅!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="other">팔로워가 {number}명을 넘는 크리에이터만 초대할 수 있습니다.</item>
+    </plurals>
+    <plurals name="po">
+        <item quantity="other">{num}개 이모티콘이 승인되지 않았습니다</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="other">현재 혜택을 사용하면 구독자를 %d%% 늘릴 수 있습니다.</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="other">%1$s 님은 방금 %2$d개월 구독을 구매했습니다!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="other">%s분 후에 한 번만 켜거나 끌 수 있습니다. 나중에 다시 시도하세요.</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="other">{num}개의 구독 선물이 있습니다. 지금 다른 사용자에게 보내세요!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="other">%d개의 구독 선물이 남아 있습니다. 지금 다른 사용자에게 보내세요!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="other">축하합니다! 활동 리워드로 [number]개의 구독 선물을 받았습니다.</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="other">{num}일 전에 합방 호스트를 진행했습니다</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="other">{number}일 전에 회원님과 함께 라이브를 진행했습니다</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="other">{num}일 전에 회원님과 호스팅했습니다</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="other">보물상자 액세스가 일시 정지되었습니다. 액세스가 %s일 후에 복원됩니다.</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="other">상위 시청자</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="other">상위 시청자</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="other">%s초 후 결승전 시작</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="other">%s일 후 결승전 시작</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="other">%s시간 후 결승전 시작</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="other">%s분 후 결승전 시작</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="other">%s일 후 준결승전 시작</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="other">%s시간 후 준결승전 시작</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="other">%s분 후 준결승전 시작</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="other">%s초 후 준결승전 시작</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="other">다이아몬드 {0:string}개가 더 있으면 {1:string}위에 도달</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="other">선물 후원자 {0:string}명이 더 있으면 {1:string}위에 도달</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="other">일</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="other">{amount}을(를) {num}개 코인으로 교환했습니다.</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="other">{num}개 코인을 {amount}(으)로 구매했습니다.</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="other">2위보다 {num} 팀 포인트 많습니다</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="other">+{num} 팀 포인트(일일 팀 선물 %1$s/%2$s개)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="other">시청자 %s명이 검색을 통해 참여했습니다</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="other">%1$s 팀 포인트가 있으면 %2$s위에 오릅니다</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="other">%1$s 팀 포인트가 있으면 %2$s위에 도달합니다</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="other">문제가 발생했습니다. {number}시간 후 다시 시도하세요</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="other">문제가 발생했습니다. {number}분 뒤에 다시 확인하세요</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="other">시청자</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="other">시청자 %d명</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="other">%s명의 시청자</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="other">시청자 %s명이 선물을 보냈습니다</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="other">게시물(%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="other">(리뷰 %s개)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="other">사진 %s장이 업로드되지 않았습니다. 다시 시도하세요.</item>
+    </plurals>
+    <plurals name="qr">
+        <item quantity="other">%1$d 코인 = %2$s%3$.2f</item>
+    </plurals>
+    <plurals name="qs">
+        <item quantity="other">%s 님이 TikTok 샷아웃 동영상의 가격을 %s 코인으로 업데이트했습니다.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="other">비슷한 사운드 %d개</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="other">프로필 조회수 %d회</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="other">팔로워</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="other">%1$s 님은 모든 동영상에서 총 %2$s개의 &quot;좋아요&quot;를 받았습니다</item>
+    </plurals>
+    <plurals name="qx">
+        <item quantity="other">이 사용자의 개인 정보 보호 설정으로 인해 %d {accounts are} 숨겨졌습니다.</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="other">님이 회원님의 프로필을 조회했습니다.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="other">%1$s, %2$s 및 %d명</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="other">%s명이 회원님의 프로필을 조회했습니다.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="other">{0}, {1} 및 {2}명이 회원님의 프로필을 조회했습니다.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="other">회원님의 %1$s 및 %2$s개의 기타 디바이스로 알림을 보냈습니다. TikTok을 열고 알림에서 &quot;예&quot;를 탭하여 로그인을 계속하세요.</item>
+    </plurals>
+    <plurals name="r3">
+        <item quantity="other">질문 %d개</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="other">%s개 동영상</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="other">동영상 %d개</item>
+    </plurals>
+    <plurals name="r6">
+        <item quantity="other">답변 {number}</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="other">사용할 수 없는 %s개의 질문이 초대에서 삭제되었습니다.</item>
+    </plurals>
+    <plurals name="r8">
+        <item quantity="other">%$s개의 질문을 사용할 수 없으며 즐겨찾기에서 제거되었습니다.</item>
+    </plurals>
+    <plurals name="r9">
+        <item quantity="other">%s개의 질문을 사용할 수 없으며 즐겨찾기에서 제거되었습니다.</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="other">새 메시지 %s개</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="other">새 리액션 %s개</item>
+    </plurals>
+    <plurals name="rb">
+        <item quantity="other">{number}회 추천됨</item>
+    </plurals>
+    <plurals name="rc">
+        <item quantity="other">%s회 추천됨</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="other">%d의 친구에게 추천</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="other">%d의 친구에게 추천</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="other">추천 %d개 더 보기</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="other">%d초까지 녹화</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="other">원본 동영상의 사운드를 사용하여 %d초까지 녹화</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="other">임시 저장(%d개)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="other">이 사운드를 복원하면 동영상이 음소거됩니다.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="other">저작권이 있는 사운드를 복원할까요?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="other">저작권이 있는 사운드가 삭제되었습니다</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="other">사운드 삭제</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="other">사운드 삭제됨</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="other">사운드 교체</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="other">저작권이 있는 사운드 삭제 중...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="other">동영상에서 저작권을 침해하는 1분이 넘는 사운드가 감지되었습니다. 계속하면 동영상이 음소거됩니다. 사운드를 교체하거나 동영상 길이를 줄이세요. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="other">사운드 교체</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="other">저작권이 있는 사운드 삭제 중...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="other">동영상에서 저작권을 침해하는 사운드가 감지되었습니다. 계속하면 동영상이 음소거됩니다. 또는 사운드를 교체할 수 있습니다. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="other">저작권이 있는 사운드</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="other">저작권 소유자가 해당 사운드를 1분 동안만 사용하도록 허용했습니다.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="other">저작권 소유자가 해당 사운드의 사용을 허용하지 않습니다.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="other">사운드 교체</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="other">동영상에서 저작권을 침해하는 1분이 넘는 사운드가 감지되었습니다. 계속하면 동영상이 음소거됩니다. 사운드를 교체하거나 동영상 길이를 줄이세요. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="other">사운드 교체</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="other">동영상에서 저작권을 침해하는 사운드가 감지되었습니다. 계속하면 동영상이 음소거됩니다. 또는 사운드를 교체할 수 있습니다. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="other">동영상 제거(%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="other">재업로드 %d회</item>
+    </plurals>
+    <plurals name="s3">
+        <item quantity="other">{number} 재업로드됨</item>
+    </plurals>
+    <plurals name="s4">
+        <item quantity="other">%s회 재업로드됨</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="other">%d의 한줄평</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="other">%d의 리포스트</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="other">%d개 리포스트 더 보기</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="other">%d일</item>
+    </plurals>
+    <plurals name="s9">
+        <item quantity="other">{number}시간 {number}분 사용 {number}시간 {number}분 사용</item>
+    </plurals>
+    <plurals name="s_">
+        <item quantity="other">{number}번 {number}번</item>
+    </plurals>
+    <plurals name="sa">
+        <item quantity="other">{number}번 열림 {number}번 열림</item>
+    </plurals>
+    <plurals name="sb">
+        <item quantity="other">지난 주 TikTok을 사용한 시간은 {number}시간입니다(이전 주보다 {percent} 적음). 지난 주 TikTok을 사용한 시간은 {number}시간입니다(이전 주보다 {percent} 적음).</item>
+    </plurals>
+    <plurals name="sc">
+        <item quantity="other">지난 주 TikTok을 사용한 시간은 {number}시간입니다(이전 주보다 {percent} 많음). 지난 주 TikTok을 사용한 시간은 {number}시간입니다(이전 주보다 {percent} 많음).</item>
+    </plurals>
+    <plurals name="sd">
+        <item quantity="other">지난 주 TikTok을 사용한 시간은 {number}시간입니다(이전 주보다 {percent} 적음) 지난 주 TikTok을 사용한 시간은 {number}시간입니다(이전 주보다 {percent} 적음)</item>
+    </plurals>
+    <plurals name="se">
+        <item quantity="other">지난 주 TikTok을 사용한 시간은 {number}시간입니다(이전 주보다 {percent} 많음) 지난 주 TikTok을 사용한 시간은 {number}시간입니다(이전 주보다 {percent} 많음)</item>
+    </plurals>
+    <plurals name="sf">
+        <item quantity="other">지난 주 TikTok을 사용한 시간은 {number}시간입니다(이전 주보다 {percent} 적음) 지난 주 TikTok을 사용한 시간은 {number}시간입니다(이전 주보다 {percent} 적음)</item>
+    </plurals>
+    <plurals name="sg">
+        <item quantity="other">지난 주 TikTok을 사용한 시간은 {number}시간입니다(이전 주보다 {percent} 많음) 지난 주 TikTok을 사용한 시간은 {number}시간입니다(이전 주보다 {percent} 많음)</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="other">%1$d회 더 검색하고 %2$d포인트 받기</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="other">%d초 동안 검색 결과를 둘러보세요</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="other">%1$d회 더 검색하고 %2$d포인트를 받으세요!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="other">%d개의 일치 사운드</item>
+    </plurals>
+    <plurals name="sl">
+        <item quantity="other">팔로워 %s명</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="other">%d일 전에 업데이트됨</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="other">%d시간 전에 업데이트됨</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="other">%d분 전에 업데이트됨</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="other">%d초 전에 업데이트됨</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="other">%d주 전에 업데이트됨</item>
+    </plurals>
+    <plurals name="sr">
+        <item quantity="other">%s개 동영상</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="other">사진을 공유했습니다.</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="other">축하합니다! 어제 시리즈가 %d회 더 판매되었습니다. 멋진 작품 계속 만들어 주시기 바라며, 시리즈 퍼포먼스는 &quot;크리에이터 툴&quot; &gt; &quot;시리즈&quot;에서 추적할 수 있습니다.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="other">지난 며칠 동안 시리즈가 페이지 방문 수 %d회를 달성했습니다. &quot;크리에이터 툴&quot; &gt; &quot;시리즈&quot;의 분석 툴에 액세스하여 시리즈 퍼포먼스를 추적하고 잠재적 구매자를 유치하는 유용한 팁을 확인할 수 있습니다.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="other">축하합니다! 어제 라이브의 시청자 %d명이 시리즈 액세스 권한을 구매했습니다. 멋진 작품 계속 만들어 주시기 바라며, 시리즈 퍼포먼스는 &quot;크리에이터 툴&quot; &gt; &quot;시리즈&quot;에서 추적할 수 있습니다.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="other">축하합니다! 어제 시청자 %d명이 시리즈 링크가 연결된 동영상에서 시리즈 액세스 권한을 구매했습니다. 멋진 작품 계속 만들어 주시기 바라며, 시리즈 퍼포먼스는 &quot;크리에이터 툴&quot; &gt; &quot;시리즈&quot;에서 추적할 수 있습니다.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="other">카메라로 계속하기(%d개)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="other">첫 구매자 %d명 한정</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="other">단 %d명 남음</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="other">%d일 후 만료</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="other">동영상 %d개</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="other">동영상 %d개</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="other">동영상 %d개</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="other">%s개 동영상</item>
+    </plurals>
+    <plurals name="t6">
+        <item quantity="other">올해 {share_number}번의 공유를 했습니다.</item>
+    </plurals>
+    <plurals name="t7">
+        <item quantity="other">{0}, {1} 님 및 다른 {2}명이 회원님의 게시물을 자신들의 스토리에 추가했습니다.</item>
+    </plurals>
+    <plurals name="t8">
+        <item quantity="other">2020년, 당신의 음원은 {sound_use_cnt}개의 비디오에서 사용되었어요.</item>
+    </plurals>
+    <plurals name="t9">
+        <item quantity="other">그리고 총 {sound_views}뷰를 얻었습니다.</item>
+    </plurals>
+    <plurals name="t_">
+        <item quantity="other">2020년에 {music_name} 음원이 사용된 영상을 {watch_video_cnt}개나 보셨네요. 하지만 좋아했던 음원은 이것 뿐만이 아니라는 사실!</item>
+    </plurals>
+    <plurals name="ta">
+        <item quantity="other">당신은 올 해 {genre_cnt}개 장르의 음악을 즐기셨네요. :</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="other">조회수 %d회</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="other">스토리(%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="other">{Brand}에서{start_date}~{end_date}의 원래 승인 기간을 {num}일 연장하고자 합니다.</item>
+    </plurals>
+    <plurals name="tf">
+        <item quantity="other">당신의 인기 영상은 {video_view_cnt}뷰를 얻었습니다.</item>
+    </plurals>
+    <plurals name="tg">
+        <item quantity="other">이 크리에이터가 계속 콘텐츠를 제작할 수 있도록 지원해주셔서 감사합니다. %d시간 이내에 팁을 받게 될 것입니다.</item>
+    </plurals>
+    <plurals name="th">
+        <item quantity="other">%d개의 팀 전송함</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="other">%d개 동영상 추가됨</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="other">크리에이터가 TikTok에 가입한 지 %d달이 넘었습니다.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="other">크리에이터의 팔로워가 %d명 이상이어야 합니다.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="other">상호 작용 %d회</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="other">인기 주제를 추가할 수 있는 일일 한도: 게시물 %d개</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="other">예상 검토 시간: %d일</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="other">동영상 %@개</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="other">조회수 %@회</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="other">%d일 전</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="other">시간</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="other">%1$d시간 전</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="other">분</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="other">%1$d분 전</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="other">시간</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="other">분</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="other">초</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="other">%1$d년 전</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="other">죄송합니다! 금지되셨습니다.\n %1$d일 후에 다시 라이브 스트림할 수 있습니다.</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="other">죄송합니다! 금지되셨습니다.\n %1$d시간 후에 다시 라이브 스트림할 수 있습니다.</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="other">죄송합니다! 현재 차단되어 있습니다. \n %1$d분 후에 다시 라이브 방송할 수 있습니다.</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="other">죄송합니다! 금지되셨습니다.\n %1$d초 후에 다시 라이브 스트림할 수 있습니다.</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="other">%d명의 사용자가 회원님의 방송을 보고 있습니다. 종료하시겠습니까?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="other">%d일 후 만료</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="other">%d시간 후 만료</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="other">처음 충전 시 %1$d개 다이아몬드를 충전하면 %2$d개 더 제공됩니다!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="other">분</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="other">TikTok 체험이 %d일 후에 종료됩니다</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="other">%d일</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="other">TikTok에서 %d일 동안 이 기능을 체험할 수 있습니다. 그 후에도 계속 사용하려면 TikTok Now 앱을 다운로드하세요.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="other">게시물을 게시해 TikTok Now %d일 체험을 시작하세요.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="other">%d개의 클립 선택 또는 녹화</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="other">완성하지 않은 사진을 편집할까요?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="other">새 게시물 %s개</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="other">동영상 %d개를 게시했습니다</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="other">만 %d세인가요?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="other">다듬은 사운드 사용. 최대 %d초 녹화</item>
+    </plurals>
+    <plurals name="uh">
+        <item quantity="other">%1$s이(가) 기한 내에 TikTok 샷아웃 동영상을 제작하지 못했습니다. 24시간 이내에 %2$d 코인이 계정으로 반환됩니다.</item>
+    </plurals>
+    <plurals name="ui">
+        <item quantity="other">24시간 이내에 %d 코인이 계정으로 반환됩니다.</item>
+    </plurals>
+    <plurals name="uj">
+        <item quantity="other">이 주문은 시간 초과로 취소되었습니다. %s 코인이 계정으로 반환됩니다.</item>
+    </plurals>
+    <plurals name="uk">
+        <item quantity="other">요청이 취소되었습니다. 24시간 내에 %d 코인이 계정으로 반환됩니다.</item>
+    </plurals>
+    <plurals name="ul">
+        <item quantity="other">코인</item>
+    </plurals>
+    <plurals name="um">
+        <item quantity="other">%1$s이(가) 귀하의 요청을 거부했습니다. 24시간 이내에 %2$s 코인이 계정으로 반환됩니다.</item>
+    </plurals>
+    <plurals name="un">
+        <item quantity="other">%1$s이(가) 기한 내에 TikTok 샷아웃 동영상을 제작하지 못했습니다. 귀하의 요청이 만료되었으며 24시간 이내에 %2$s 코인이 계정으로 반환됩니다.</item>
+    </plurals>
+    <plurals name="uo">
+        <item quantity="other">%1$s이(가) 2일 이내에 회원님의 요청을 수락하지 않을 경우, 회원님의 요청을 자동으로 취소하고 24시간 이내에 계정으로 %2$s 코인을 환불해 드립니다.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="other">시청자 %s명</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="other">좋아요 %s개</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="other">%2$s 내에 %1$s에 공유</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="other">%d개 제품</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="other">게시물</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="other">%1$s, %2$s 및 %d명</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="other">님이 회원님의 게시물을 조회했습니다.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="other">%s 공유</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="other">조회수 %s회</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="other">{0}, {1} 님 및 {2}명이 회원님의 게시물을 조회했습니다.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="other">코인 %d개</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="other">보냄: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="other">사진 저장됨</item>
+    </plurals>
+    <plurals name="v2">
+        <item quantity="other">{number} 명이 선물을 받았지만 계정에 데이터를 추가하지 않았습니다. 곧 데이터 선물을 사용하실 수 있습니다. {number} 명이 선물을 받았지만 계정에 데이터를 추가하지 않았습니다. 곧 데이터 선물을 사용하실 수 있습니다.</item>
+    </plurals>
+    <plurals name="v3">
+        <item quantity="other">활동이 {countdown}일 후에 종료됩니다. 한정 수량으로 선착순 제공됩니다! 활동이 {countdown}일 후에 종료됩니다. 한정 수량으로 선착순 제공됩니다!</item>
+    </plurals>
+    <plurals name="v4">
+        <item quantity="other">선물 {countdown}개 남음 선물 {countdown}개 남음</item>
+    </plurals>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/lhl"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C62846OlW
+        layout_gravity="center_horizontal"
+        id="@+id/eni"
+        visibility="visible"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        scaleType="fitCenter"/>
+</FrameLayout>

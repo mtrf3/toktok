@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set interpolator="@android:anim/accelerate_interpolator">
+    <translate
+        duration="50"
+        fromYDelta="0%"
+        toYDelta="-100%"/>
+</set>

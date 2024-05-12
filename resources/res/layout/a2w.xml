@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="?attr/c9"
+    layout_width="wrap_content"
+    layout_height="match_parent">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/a7n"
+        layout_width="21dp"
+        layout_height="21dp"
+        layout_marginBottom="@dimen/nr"
+        NOT_FOUND_0xa="@+id/l8x"
+        NOT_FOUND_0xb="@+id/l8x"
+        NOT_FOUND_0xc="@+id/l8x"
+        NOT_FOUND_0xf="@raw/icon_arrow_left_circle_ltr"
+        NOT_FOUND_0x10="?attr/dt"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gu"
+        id="@+id/l8x"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxWidth="90dp"
+        text="Release into the store"
+        layout_marginStart="@dimen/nr"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="@+id/l8x"
+        NOT_FOUND_0xe="61"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

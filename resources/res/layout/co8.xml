@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C74291TDr
+    id="@+id/ilw"
+    layout_width="65dp"
+    layout_height="120dp"
+    layout_margin="4dp"
+    NOT_FOUND_0x4="4dp"
+    NOT_FOUND_0x5="?attr/e7"
+    NOT_FOUND_0x6="2dp">
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/bxv"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</X.C74291TDr>

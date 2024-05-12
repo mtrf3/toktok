@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView
+    textAppearance="?android:attr/textAppearanceMedium"
+    textColor="?attr/bib"
+    ellipsize="marquee"
+    gravity="center_vertical"
+    id="@android:id/text1"
+    paddingLeft="@dimen/cu"
+    paddingRight="?attr/a9z"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    minHeight="?attr/ap3"
+    drawableLeft="?android:attr/listChoiceIndicatorSingle"
+    drawablePadding="20dp"
+    drawableStart="?android:attr/listChoiceIndicatorSingle"
+    paddingStart="@dimen/cu"
+    paddingEnd="?attr/a9z"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape shape="rectangle">
+            <solid color="#1fffffff"/>
+            <corners radius="11.5dp"/>
+        </shape>
+    </item>
+</layer-list>

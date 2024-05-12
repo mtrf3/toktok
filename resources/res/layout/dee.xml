@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.android.live.common.keyboard.MeasureLinearLayout
+    orientation="vertical"
+    id="@+id/ggi"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/jr6"
+        layout_width="match_parent"
+        layout_height="0dp"
+        layout_weight="1"/>
+    <FrameLayout
+        id="@+id/dtj"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</com.bytedance.android.live.common.keyboard.MeasureLinearLayout>

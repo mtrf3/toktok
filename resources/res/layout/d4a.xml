@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    background="@drawable/ccq"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        orientation="horizontal"
+        layout_width="match_parent"
+        layout_height="51dp">
+        <X.C47121t6
+            textSize="17sp"
+            textColor="?attr/bns"
+            layout_gravity="center"
+            id="@+id/title"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/mnp"
+            style="@style/a41"/>
+    </FrameLayout>
+    <View
+        background="@color/bu"
+        layout_width="match_parent"
+        layout_height="0.5dp"/>
+    <X.C0K5
+        id="@+id/e31"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x9="@layout/d1l"
+        NOT_FOUND_0xa="@+id/cyl"
+        NOT_FOUND_0xb="@layout/d1k"
+        NOT_FOUND_0xc="@layout/d1m"
+        NOT_FOUND_0xd="@+id/h_s"
+        NOT_FOUND_0xe="@layout/d1n"/>
+</LinearLayout>

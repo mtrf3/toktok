@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/frb"
+    focusable="false"
+    focusableInTouchMode="false"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layoutDirection="ltr">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/fr9"
+        layout_width="36dp"
+        layout_height="36dp"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0x10="@raw/icon_heart_fill"
+        NOT_FOUND_0x11="?attr/dj"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        id="@+id/fr4"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="4dp"
+        text=""
+        NOT_FOUND_0xa="@+id/fr9"
+        NOT_FOUND_0xb="@+id/fr9"
+        NOT_FOUND_0xd="@+id/fr9"
+        NOT_FOUND_0xf="62"
+        style="@style/a6b"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

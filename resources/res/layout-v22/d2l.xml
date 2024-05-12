@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    background="@drawable/crx"
+    paddingLeft="8dp"
+    paddingTop="20dp"
+    paddingRight="8dp"
+    paddingBottom="58dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    paddingHorizontal="8dp">
+    <FrameLayout
+        background="@drawable/cry"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginBottom="16dp">
+        <include
+            id="@+id/d5b"
+            layout="@layout/d2k"/>
+    </FrameLayout>
+    <LinearLayout
+        orientation="vertical"
+        background="@drawable/cry"
+        layout_width="match_parent"
+        layout_height="wrap_content">
+        <include
+            id="@+id/iwx"
+            layout="@layout/d2k"/>
+        <include
+            id="@+id/ivj"
+            layout="@layout/d2k"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    padding="12dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    maxWidth="240dp">
+    <androidx.appcompat.widget.AppCompatImageView
+        layout_width="17dp"
+        layout_height="17dp"
+        src="@drawable/b8y"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        gravity="center"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/j6a"
+        layout_marginStart="2dp"
+        NOT_FOUND_0x9="62"/>
+</LinearLayout>

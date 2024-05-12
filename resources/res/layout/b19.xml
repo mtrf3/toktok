@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C4IY
+    id="@+id/kge"
+    paddingTop="4dp"
+    paddingBottom="4dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    minWidth="60dp"
+    hint="Add keyword..."
+    maxLines="1"
+    maxLength="45"
+    inputType="text"
+    imeOptions="actionDone"
+    NOT_FOUND_0xb="52"/>

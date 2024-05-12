@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_checked="true"
+        state_pressed="true"
+        color="@color/ar"/>
+    <item
+        state_checked="true"
+        color="@color/ar"/>
+    <item
+        state_selected="true"
+        color="@color/ar"/>
+    <item color="?attr/dl"/>
+</selector>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    orientation="horizontal"
+    id="@+id/hw6"
+    layout_width="wrap_content"
+    layout_height="match_parent"
+    layout_marginStart="8dp"
+    layout_marginEnd="8dp">
+    <X.C47061t0
+        id="@+id/duf"
+        layout_width="20dp"
+        layout_height="20dp"/>
+    <X.C47121t6
+        textSize="12sp"
+        textColor="#bfffffff"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/dug"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="4dp"
+        singleLine="true"
+        style="@style/a4a"/>
+</LinearLayout>

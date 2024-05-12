@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/ep2"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <FrameLayout
+        orientation="vertical"
+        background="@drawable/cd4"
+        layout_width="108dp"
+        layout_height="108dp">
+        <X.C47061t0
+            layout_gravity="center"
+            id="@+id/f59"
+            layout_width="94dp"
+            layout_height="94dp"
+            scaleType="fitXY"
+            NOT_FOUND_0x9="4dp"/>
+    </FrameLayout>
+    <ImageView
+        id="@+id/fbt"
+        layout_width="16dp"
+        layout_height="10dp"
+        layout_marginTop="-1.5dp"
+        src="@drawable/cut"/>
+</LinearLayout>

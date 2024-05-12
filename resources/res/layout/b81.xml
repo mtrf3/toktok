@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ss.android.ugc.aweme.im.sdk.chat.feature.input.view.FunRootLinearLayout
+    layout_gravity="bottom"
+    orientation="vertical"
+    id="@+id/ep2"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <ViewStub
+        id="@+id/kmj"
+        layout="@layout/b82"
+        inflatedId="@+id/cow"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <X.C4BT
+        id="@+id/hho"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</com.ss.android.ugc.aweme.im.sdk.chat.feature.input.view.FunRootLinearLayout>

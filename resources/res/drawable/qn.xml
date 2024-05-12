@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_selected="true">
+        <layer-list>
+            <item>
+                <shape shape="rectangle">
+                    <corners radius="40dp"/>
+                    <solid color="@color/wj"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

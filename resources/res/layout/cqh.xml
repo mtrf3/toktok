@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/dj"
+    layout_gravity="center_vertical"
+    id="@+id/ghs"
+    paddingTop="12dp"
+    paddingBottom="12dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    maxWidth="208dp"
+    minWidth="12dp"
+    paddingStart="12dp"
+    paddingEnd="8dp"
+    NOT_FOUND_0xb="62"/>

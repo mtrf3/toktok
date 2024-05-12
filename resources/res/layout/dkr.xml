@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    id="@+id/af5"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layoutDirection="ltr">
+    <ImageView
+        id="@+id/f51"
+        layout_width="24dp"
+        layout_height="24dp"
+        src="@drawable/cwo"/>
+    <X.C31597Caf
+        layout_gravity="center_vertical"
+        id="@+id/e35"
+        background="@drawable/cbj"
+        layout_width="24dp"
+        layout_height="24dp"
+        scaleType="fitXY"/>
+</LinearLayout>

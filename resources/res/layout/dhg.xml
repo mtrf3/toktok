@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="22dp">
+    <X.C2A8
+        textColor="?attr/bmv"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/hau"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginStart="8dp"
+        layout_marginEnd="8dp"
+        style="@style/a4d"/>
+</FrameLayout>

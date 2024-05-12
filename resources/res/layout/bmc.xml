@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <FrameLayout
+        layout_gravity="center_horizontal"
+        layout_width="260dp"
+        layout_height="260dp">
+        <com.bytedance.lighten.loader.SmartImageView
+            layout_gravity="center"
+            id="@+id/ezt"
+            layout_width="260dp"
+            layout_height="260dp"
+            NOT_FOUND_0x8="16dp"
+            NOT_FOUND_0x9="?attr/f0"
+            NOT_FOUND_0xa="1dp"/>
+        <com.bytedance.lighten.loader.SmartImageView
+            layout_gravity="start|bottom"
+            id="@+id/fck"
+            layout_width="125dp"
+            layout_height="125dp"
+            layout_marginBottom="20dp"
+            layout_marginStart="20dp"
+            NOT_FOUND_0x8="12dp"/>
+        <com.bytedance.lighten.loader.SmartImageView
+            layout_gravity="center"
+            id="@+id/fcl"
+            layout_width="125dp"
+            layout_height="125dp"
+            layout_marginTop="20dp"
+            NOT_FOUND_0x8="12dp"/>
+        <com.bytedance.lighten.loader.SmartImageView
+            layout_gravity="end|bottom"
+            id="@+id/fcm"
+            layout_width="125dp"
+            layout_height="125dp"
+            layout_marginBottom="20dp"
+            layout_marginEnd="20dp"
+            NOT_FOUND_0x8="12dp"/>
+    </FrameLayout>
+</FrameLayout>

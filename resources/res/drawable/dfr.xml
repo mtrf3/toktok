@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_selected="true">
+        <shape shape="rectangle">
+            <solid color="@color/adv"/>
+            <corners radius="8dp"/>
+            <stroke
+                width="1dp"
+                color="@color/ady"/>
+        </shape>
+    </item>
+    <item state_selected="false">
+        <shape shape="rectangle">
+            <solid color="@color/adv"/>
+            <corners radius="8dp"/>
+        </shape>
+    </item>
+</selector>

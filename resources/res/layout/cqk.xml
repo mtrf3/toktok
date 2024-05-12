@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/fk6"
+    paddingLeft="32dp"
+    paddingRight="32dp"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C8H9
+        textSize="14dp"
+        textColor="@color/cu"
+        gravity="center"
+        layout_gravity="center_horizontal"
+        id="@+id/m4n"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        lineSpacingExtra="2dp"/>
+</LinearLayout>

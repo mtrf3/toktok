@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    id="@+id/hzp"
+    paddingLeft="16dp"
+    paddingTop="16dp"
+    paddingRight="16dp"
+    visibility="gone"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    textDirection="locale"
+    NOT_FOUND_0x8="23"/>

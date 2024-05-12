@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    paddingTop="6dp"
+    paddingBottom="6dp"
+    layout_width="wrap_content"
+    layout_height="32dp">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dk"
+        id="@+id/mj8"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="Search:"
+        layout_marginStart="@dimen/nt"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xe="@+id/miy"
+        NOT_FOUND_0x10="2"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x14="41"
+        NOT_FOUND_0x16="?attr/go"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        ellipsize="end"
+        id="@+id/miy"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxLines="1"
+        layout_marginStart="@dimen/nz"
+        NOT_FOUND_0xb="true"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xe="@+id/ece"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x11="@+id/mj8"
+        NOT_FOUND_0x14="42"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/ece"
+        layout_width="10dp"
+        layout_height="10dp"
+        layout_marginEnd="@dimen/nt"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0x11="@+id/miy"
+        NOT_FOUND_0x13="0"
+        NOT_FOUND_0x15="@raw/icon_magnifying_glass_fill"
+        NOT_FOUND_0x16="?attr/dj"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

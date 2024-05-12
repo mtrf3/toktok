@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C05320Iu
+    layout_width="28dp"
+    layout_height="28dp">
+    <View
+        id="@+id/f3k"
+        background="@drawable/ch9"
+        visibility="gone"
+        layout_width="28dp"
+        layout_height="28dp"/>
+    <View
+        id="@+id/f3l"
+        background="@drawable/ch_"
+        visibility="gone"
+        layout_width="28dp"
+        layout_height="28dp"/>
+</X.C05320Iu>

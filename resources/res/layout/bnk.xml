@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <RelativeLayout
+        layout_width="match_parent"
+        layout_height="52dp"
+        layout_weight="0">
+        <TextView
+            gravity="center"
+            id="@+id/b3r"
+            padding="16dp"
+            layout_width="wrap_content"
+            layout_height="52dp"
+            text="@string/e7y"/>
+        <TextView
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/e7x"
+            layout_centerInParent="true"/>
+        <TextView
+            gravity="center"
+            id="@+id/jam"
+            padding="16dp"
+            layout_width="wrap_content"
+            layout_height="52dp"
+            text="@string/e80"
+            layout_alignParentRight="true"
+            layout_alignParentEnd="true"/>
+    </RelativeLayout>
+    <FrameLayout
+        paddingLeft="16dp"
+        paddingRight="16dp"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_weight="1"
+        paddingStart="16dp"
+        paddingEnd="16dp">
+        <androidx.recyclerview.widget.RecyclerView
+            id="@+id/l50"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+    </FrameLayout>
+</LinearLayout>

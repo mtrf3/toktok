@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.MKI
+        id="@+id/h3s"
+        layout_width="95dp"
+        layout_height="95dp"
+        layout_marginRight="21dp"
+        layout_alignParentRight="true"
+        layout_alignParentBottom="true"
+        layout_marginEnd="21dp"
+        layout_alignParentEnd="true"/>
+    <FrameLayout
+        id="@+id/grk"
+        layout_width="48dp"
+        layout_height="48dp"
+        layout_alignParentRight="true"
+        layout_alignParentBottom="true"
+        layout_alignParentEnd="true">
+        <ImageView
+            layout_width="match_parent"
+            layout_height="match_parent"
+            src="@drawable/bmi"/>
+        <X.C72434Sbm
+            layout_gravity="center"
+            id="@+id/grh"
+            layout_width="28dp"
+            layout_height="28dp"/>
+    </FrameLayout>
+</RelativeLayout>

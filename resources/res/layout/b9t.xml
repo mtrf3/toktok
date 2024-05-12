@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    background="?attr/cv"
+    paddingLeft="16dp"
+    paddingTop="12dp"
+    paddingRight="16dp"
+    paddingBottom="12dp"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        id="@+id/title"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        text="@string/es1"
+        layout_weight="1"
+        NOT_FOUND_0x10="42"/>
+    <android.widget.Space
+        layout_width="12dp"
+        layout_height="0dp"/>
+    <X.SY4
+        textColor="?attr/dk"
+        gravity="center"
+        id="@+id/ltv"
+        background="@drawable/bh9"
+        paddingLeft="25dp"
+        paddingTop="5.5dp"
+        paddingRight="25dp"
+        paddingBottom="5.5dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/es4"/>
+    <android.widget.Space
+        layout_width="15.33dp"
+        layout_height="0dp"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/e98"
+        layout_width="16dp"
+        layout_height="16dp"
+        scaleType="fitCenter"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="@+id/m8u"
+        NOT_FOUND_0x11="@raw/icon_x_mark"
+        NOT_FOUND_0x12="?attr/gv"/>
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C80401Vgz
+    orientation="vertical"
+    id="@+id/gfw"
+    background="?attr/a4y"
+    visibility="gone"
+    layout_width="@dimen/ym"
+    layout_height="@dimen/yk"
+    contentDescription="@string/i0a"
+    layout_marginStart="@dimen/yl"
+    NOT_FOUND_0xb="@+id/gfu"
+    NOT_FOUND_0xc="@+id/gfr"
+    NOT_FOUND_0xd="0"
+    NOT_FOUND_0xe="true"
+    NOT_FOUND_0x10="true">
+    <X.C80400Vgy
+        id="@+id/gfu"
+        layout_width="wrap_content"
+        text="@string/i0i"
+        insetTop="8dp"
+        NOT_FOUND_0xf="?attr/ba7"
+        style="?attr/azk"/>
+    <X.C80400Vgy
+        id="@+id/gfv"
+        layout_width="wrap_content"
+        text="@string/i0m"
+        insetBottom="8dp"
+        NOT_FOUND_0xf="?attr/ba7"
+        style="?attr/azk"/>
+</X.C80401Vgz>

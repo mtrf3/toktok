@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C201607vg xmlns:android="http://schemas.android.com/apk/res/android"
+        id="@+id/c1p"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <X.C84I
+            id="@+id/nb6"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+    </X.C201607vg>
+</FrameLayout>

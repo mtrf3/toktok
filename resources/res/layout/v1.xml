@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/h5u"
+    layout_width="58dp"
+    layout_height="58dp">
+    <X.AP9
+        layout_gravity="center"
+        id="@+id/eye"
+        layout_width="56dp"
+        layout_height="56dp"
+        NOT_FOUND_0x5="?attr/ef"
+        NOT_FOUND_0x6="6"
+        NOT_FOUND_0x7="true"/>
+    <X.C119884nA
+        layout_gravity="center"
+        id="@+id/nco"
+        visibility="gone"
+        layout_width="56dp"
+        layout_height="56dp"
+        NOT_FOUND_0x8="2dp"/>
+</FrameLayout>

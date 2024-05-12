@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+    <gradient
+        startColor="@color/cz"
+        endColor="@color/c_"
+        angle="90"/>
+</shape>

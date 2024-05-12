@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/gu"
+    id="@+id/lao"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginTop="10dp"
+    layout_marginBottom="10dp"
+    paddingStart="12dp"
+    paddingEnd="12dp"
+    NOT_FOUND_0x8="61"/>

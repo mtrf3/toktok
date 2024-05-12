@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape>
+            <corners radius="@dimen/b4"/>
+            <solid color="@color/cz"/>
+        </shape>
+    </item>
+    <item
+        left="0.5dp"
+        top="0.5dp"
+        right="0.5dp"
+        bottom="0.5dp">
+        <shape>
+            <corners radius="@dimen/b4"/>
+            <stroke
+                width="1dp"
+                color="#d8d8d8"/>
+        </shape>
+    </item>
+</layer-list>

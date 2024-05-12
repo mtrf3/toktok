@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    gravity="center"
+    layout_width="60dp"
+    layout_height="52dp">
+    <FrameLayout
+        gravity="center"
+        layout_gravity="center"
+        background="@drawable/vz"
+        layout_width="44dp"
+        layout_height="44dp">
+        <com.bytedance.tux.icon.TuxIconView
+            layout_gravity="center"
+            id="@+id/n2w"
+            layout_width="20dp"
+            layout_height="20dp"
+            NOT_FOUND_0x6="@raw/icon_block"
+            NOT_FOUND_0x7="?attr/dj"/>
+    </FrameLayout>
+</FrameLayout>

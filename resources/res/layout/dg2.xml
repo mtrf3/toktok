@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    background="@color/abc"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C0CM
+        orientation="horizontal"
+        id="@+id/nb6"
+        layout_width="match_parent"
+        layout_height="0dp"
+        layout_weight="1"/>
+</LinearLayout>

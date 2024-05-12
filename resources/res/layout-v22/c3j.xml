@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C119644mm
+        layout_gravity="center"
+        id="@+id/e44"
+        layout_width="128dp"
+        layout_height="128dp"
+        scaleType="centerInside"
+        defaultFocusHighlightEnabled="false"/>
+    <FrameLayout
+        layout_gravity="end|bottom"
+        layout_width="30dp"
+        layout_height="30dp">
+        <X.C74291TDr
+            layout_gravity="center"
+            id="@+id/nir"
+            background="@android:color/white"
+            layout_width="30dp"
+            layout_height="30dp"
+            NOT_FOUND_0x7="20dp"/>
+        <X.C74291TDr
+            layout_gravity="center"
+            id="@+id/als"
+            background="@android:color/black"
+            layout_width="24dp"
+            layout_height="24dp"
+            NOT_FOUND_0x7="20dp"/>
+        <com.bytedance.tux.icon.TuxIconView
+            layout_gravity="center"
+            id="@+id/i75"
+            layout_width="14dp"
+            layout_height="14dp"
+            NOT_FOUND_0x8="@raw/icon_pen_fill"
+            NOT_FOUND_0x9="?attr/cl"/>
+    </FrameLayout>
+</FrameLayout>

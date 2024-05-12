@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item
+        left="@dimen/ah7"
+        top="@dimen/ah9"
+        right="@dimen/ah8"
+        bottom="@dimen/ah6">
+        <shape>
+            <corners radius="@dimen/ah4"/>
+            <solid color="@color/b5"/>
+        </shape>
+    </item>
+</layer-list>

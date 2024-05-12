@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C119254m9
+    id="@+id/cba"
+    paddingBottom="@dimen/o7"
+    layout_width="match_parent"
+    layout_height="match_parent"
+    NOT_FOUND_0x7="true">
+    <RelativeLayout
+        id="@+id/k2_"
+        background="?attr/cl"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <X.C71895SJn
+            id="@+id/k1y"
+            layout_width="match_parent"
+            layout_height="173dp"
+            NOT_FOUND_0x6="-1"
+            NOT_FOUND_0x7="true"
+            NOT_FOUND_0xb="-1"/>
+        <X.C119254m9
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            layout_below="@+id/k1y"
+            NOT_FOUND_0x7="true"
+            NOT_FOUND_0x8="@layout/an1"
+            NOT_FOUND_0x9="0"
+            NOT_FOUND_0xa="1"/>
+    </RelativeLayout>
+</X.C119254m9>

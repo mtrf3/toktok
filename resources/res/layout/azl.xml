@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    gravity="start"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    minWidth="178dp"
+    layout_alignParentBottom="true"
+    layout_centerHorizontal="true">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        gravity="center"
+        id="@+id/bx3"
+        background="@drawable/avg"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        paddingStart="10dp"
+        paddingEnd="0dp"
+        NOT_FOUND_0xb="42"/>
+</RelativeLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    orientation="horizontal"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <ProgressBar
+        layout_width="16dp"
+        layout_height="16dp"
+        indeterminateOnly="true"
+        indeterminateDrawable="@drawable/asp"
+        indeterminateBehavior="repeat"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gv"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="8dp"
+        text="@string/g2k"
+        layout_marginStart="8dp"
+        NOT_FOUND_0xb="61"/>
+</LinearLayout>

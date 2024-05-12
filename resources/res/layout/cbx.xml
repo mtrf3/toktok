@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_gravity="top"
+    layout_width="match_parent"
+    layout_height="52dp">
+    <X.C170736mz
+        id="@+id/evx"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginTop="24dp"
+        src="@drawable/axq"
+        layout_centerVertical="true"
+        layout_marginStart="16dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        gravity="center"
+        id="@+id/lwv"
+        background="@drawable/rq"
+        paddingLeft="12dp"
+        paddingRight="12dp"
+        layout_width="wrap_content"
+        layout_height="32dp"
+        layout_marginTop="20dp"
+        minWidth="72dp"
+        text="@string/ipo"
+        layout_centerVertical="true"
+        layout_marginEnd="16dp"
+        layout_alignParentEnd="true"
+        NOT_FOUND_0x11="42"/>
+</RelativeLayout>

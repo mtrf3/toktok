@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C30875C9v
+    id="@+id/hif"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <SurfaceView
+        id="@+id/kuq"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/btg"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <LinearLayout
+        gravity="center_horizontal"
+        orientation="horizontal"
+        id="@+id/d_b"
+        visibility="invisible"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <X.C47121t6
+            textSize="@dimen/ac6"
+            textColor="@color/a1l"
+            gravity="center"
+            layout_gravity="center"
+            id="@+id/d_d"
+            layout_width="192dp"
+            layout_height="32dp"
+            layout_marginLeft="@dimen/ac5"
+            layout_marginRight="@dimen/ac5"
+            text="@string/t19"
+            shadowColor="@color/a47"
+            shadowDx="1"
+            shadowDy="1"
+            lineSpacingExtra="8sp"
+            layout_marginStart="@dimen/ac5"
+            layout_marginEnd="@dimen/ac5"/>
+    </LinearLayout>
+    <X.CVT
+        layout_gravity="center"
+        id="@+id/g7r"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</X.C30875C9v>

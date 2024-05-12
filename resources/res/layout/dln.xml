@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    visibility="gone"
+    layout_width="match_parent"
+    layout_height="@dimen/agh">
+    <HorizontalScrollView
+        scrollbars="none"
+        layout_width="match_parent"
+        layout_height="@dimen/agh"
+        overScrollMode="never">
+        <FrameLayout
+            layout_width="wrap_content"
+            layout_height="match_parent">
+            <X.C47121t6
+                textColor="#ffffff"
+                layout_gravity="start|center_vertical"
+                id="@+id/jly"
+                layout_width="wrap_content"
+                layout_height="wrap_content"
+                style="@style/a4a"/>
+            <LinearLayout
+                gravity="center"
+                layout_gravity="center_vertical"
+                orientation="horizontal"
+                id="@+id/jlz"
+                layout_width="wrap_content"
+                layout_height="wrap_content"
+                layoutDirection="ltr"/>
+        </FrameLayout>
+    </HorizontalScrollView>
+</FrameLayout>

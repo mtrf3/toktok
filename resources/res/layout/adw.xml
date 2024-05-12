@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    gravity="center_vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.SY4
+        textSize="12sp"
+        layout_gravity="end|center_vertical"
+        id="@+id/b1h"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="24dp"
+        maxWidth="130dp"
+        minWidth="75dp"
+        text="@string/jto"
+        NOT_FOUND_0xa="true"
+        NOT_FOUND_0xb="2"
+        NOT_FOUND_0xc="72"
+        NOT_FOUND_0xe="10dp"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="end|center_vertical"
+        id="@+id/cw9"
+        layout_width="16dp"
+        layout_height="16dp"
+        NOT_FOUND_0xd="@raw/icon_chevron_right_ltr"
+        NOT_FOUND_0xf="?attr/dj"/>
+</FrameLayout>

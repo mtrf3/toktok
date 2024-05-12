@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/c_x"
+    focusable="true"
+    focusableInTouchMode="true"
+    clipChildren="false"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    importantForAccessibility="yes">
+    <FrameLayout
+        layout_gravity="end"
+        id="@+id/c_t"
+        focusable="false"
+        focusableInTouchMode="false"
+        clipChildren="false"
+        layout_width="44dp"
+        layout_height="44dp"
+        importantForAccessibility="noHideDescendants"
+        style="@style/a69">
+        <X.C202597xH
+            layout_gravity="center"
+            id="@+id/c_r"
+            focusable="false"
+            focusableInTouchMode="false"
+            layout_width="32dp"
+            layout_height="32dp"
+            scaleType="centerInside"
+            contentDescription="@string/a63"/>
+    </FrameLayout>
+</LinearLayout>

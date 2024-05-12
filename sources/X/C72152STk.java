@@ -1,0 +1,34 @@
+package X;
+
+import Y.AfS7S0100100_12;
+import android.os.SystemClock;
+import com.ss.android.ugc.aweme.aigc.AIGCApi;
+import kotlin.jvm.internal.o;
+
+/* renamed from: X.STk, reason: case insensitive filesystem */
+/* loaded from: classes13.dex */
+public final class C72152STk extends STQ {
+    public final AIGCApi LJLILLLLZI;
+    public final String LJLJI;
+
+    @Override // X.STQ, X.InterfaceC72136SSu
+    public void start() {
+        long elapsedRealtime = SystemClock.elapsedRealtime();
+        C72164STw.LIZ(EnumC72154STm.AIGC_NET_GEN_MORE, EnumC72156STo.START, null, null, null, null, 60);
+        AIGCApi aIGCApi = this.LJLILLLLZI;
+        String taskId = this.LJLJI;
+        aIGCApi.getClass();
+        o.LJIIIZ(taskId, "taskId");
+        C72160STs.LIZ().generateMore(taskId).LJJL(T16.LIZ()).LJJJ(C73969T1h.LIZIZ()).LJJJLIIL(new AfS7S0100100_12(elapsedRealtime, this, 3), new AfS7S0100100_12(elapsedRealtime, this, 4));
+        ((InterfaceC79150V4o) this.LJLIL.getValue()).LJIILL();
+    }
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public C72152STk(AIGCApi api, String taskId) {
+        super(api);
+        o.LJIIIZ(api, "api");
+        o.LJIIIZ(taskId, "taskId");
+        this.LJLILLLLZI = api;
+        this.LJLJI = taskId;
+    }
+}

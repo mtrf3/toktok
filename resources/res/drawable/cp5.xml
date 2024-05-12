@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_enabled="false">
+        <shape/>
+    </item>
+    <item state_pressed="true">
+        <shape/>
+    </item>
+    <item>
+        <shape/>
+    </item>
+</selector>

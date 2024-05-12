@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.ss.android.ugc.aweme.relation.follow.ui.RelationButton
+        textColor="?attr/eb"
+        ellipsize="end"
+        id="@+id/dk2"
+        background="?attr/ct"
+        visibility="visible"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        singleLine="true"
+        NOT_FOUND_0xc="3"
+        NOT_FOUND_0xd="42"
+        NOT_FOUND_0xf="12dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/eb"
+        id="@+id/djn"
+        background="?attr/ct"
+        paddingLeft="0px"
+        paddingRight="0px"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/a9g"
+        singleLine="true"
+        paddingHorizontal="0px"
+        NOT_FOUND_0xd="42"
+        NOT_FOUND_0xf="12dp"/>
+    <X.C116414hZ
+        id="@+id/dkk"
+        visibility="gone"
+        layout_width="24dp"
+        layout_height="24dp"
+        NOT_FOUND_0xe="@raw/icon_spinner_normal"
+        NOT_FOUND_0x10="?attr/gp"/>
+</FrameLayout>

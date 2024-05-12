@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C019005q
+        orientation="horizontal"
+        id="@+id/e1w"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x4="10dp"/>
+    <X.C019005q
+        orientation="horizontal"
+        id="@+id/e1v"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x5="10dp"/>
+</merge>

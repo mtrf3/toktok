@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout
+    background="@drawable/bw6"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_margin="1dp"
+    NOT_FOUND_0xb="1"
+    NOT_FOUND_0x12="1">
+    <X.C72559Sdn
+        background="?attr/cm"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_margin="2dp"
+        NOT_FOUND_0xd="19dp">
+        <com.bytedance.lighten.loader.SmartImageView
+            id="@+id/egd"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            layout_margin="3dp"
+            scaleType="fitCenter"
+            NOT_FOUND_0xa="2"
+            NOT_FOUND_0xc="16dp"/>
+        <X.C71897SJp
+            layout_gravity="end|top"
+            id="@+id/b_d"
+            background="?attr/cm"
+            visibility="gone"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginTop="12dp"
+            layout_marginEnd="12dp"
+            NOT_FOUND_0xe="?attr/cm"
+            NOT_FOUND_0xf="0"
+            NOT_FOUND_0x10="1"
+            NOT_FOUND_0x11="?attr/cm"/>
+    </X.C72559Sdn>
+</com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout>

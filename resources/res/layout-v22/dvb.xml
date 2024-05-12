@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <TextView
+        textSize="@dimen/akb"
+        textStyle="bold"
+        textColor="@color/ae6"
+        id="@+id/mby"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginLeft="24dp"
+        layout_marginRight="24dp"
+        layout_marginHorizontal="24dp"/>
+    <androidx.recyclerview.widget.RecyclerView
+        id="@+id/nov"
+        paddingLeft="18dp"
+        paddingRight="18dp"
+        clipChildren="false"
+        clipToPadding="false"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="16dp"
+        overScrollMode="never"
+        paddingHorizontal="18dp"/>
+</merge>

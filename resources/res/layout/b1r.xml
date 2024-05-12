@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="?attr/d4"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/kkm"
+        layout_width="match_parent"
+        layout_height="0dp"
+        layout_marginTop="75dp"
+        layout_marginBottom="24dp"
+        layout_marginStart="32dp"
+        layout_marginEnd="32dp"
+        NOT_FOUND_0x9="@+id/byp"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"/>
+    <include layout="@layout/b_h"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

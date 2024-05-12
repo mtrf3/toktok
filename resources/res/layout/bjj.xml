@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.OA5
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.W5G
+        id="@+id/s6"
+        layout_width="200dp"
+        layout_height="200dp"/>
+    <X.KMH
+        id="@+id/s5"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C49609JdV
+        id="@+id/s4"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</X.OA5>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    orientation="vertical"
+    paddingTop="16dp"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <ViewStub
+        id="@+id/e4j"
+        inflatedId="@+id/e4j"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginLeft="16dp"
+        layout_marginRight="16dp"
+        layout_marginStart="16dp"
+        layout_marginEnd="16dp"/>
+    <FrameLayout
+        id="@+id/je8"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="5dp"
+        layout_below="@+id/e4j"/>
+</RelativeLayout>

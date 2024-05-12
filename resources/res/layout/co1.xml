@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="match_parent"
+    layout_height="match_parent"
+    alpha="0">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        layout_gravity="center"
+        id="@+id/bdu"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <X.C77869UhF
+            id="@+id/fav"
+            layout_width="122dp"
+            layout_height="122dp"
+            NOT_FOUND_0xa="@+id/bdu"
+            NOT_FOUND_0xb="@+id/bdu"
+            NOT_FOUND_0xd="@+id/bdu"
+            NOT_FOUND_0xe="true"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            id="@+id/mm9"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginTop="4dp"
+            text="@string/rse"
+            NOT_FOUND_0xa="@+id/bdu"
+            NOT_FOUND_0xb="@+id/bdu"
+            NOT_FOUND_0xc="@+id/fav"
+            NOT_FOUND_0xf="13"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            gravity="center"
+            id="@+id/mm8"
+            layout_width="255dp"
+            layout_height="wrap_content"
+            text="@string/rsd"
+            textAlignment="center"
+            NOT_FOUND_0xa="@+id/bdu"
+            NOT_FOUND_0xb="@+id/bdu"
+            NOT_FOUND_0xc="@+id/mm9"
+            NOT_FOUND_0xf="21"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</merge>

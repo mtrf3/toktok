@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape shape="oval">
+            <solid color="@color/ce"/>
+        </shape>
+    </item>
+    <item
+        left="0.5dp"
+        top="0.5dp"
+        right="0.5dp"
+        bottom="0.5dp">
+        <shape shape="oval">
+            <solid color="@color/ar"/>
+        </shape>
+    </item>
+</layer-list>

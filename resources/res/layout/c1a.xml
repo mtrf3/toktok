@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/hw0"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C72108SRs
+        id="@+id/hvx"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</LinearLayout>

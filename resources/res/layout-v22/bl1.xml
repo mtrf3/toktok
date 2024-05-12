@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/gx"
+    gravity="center"
+    id="@+id/mck"
+    background="@drawable/a4c"
+    paddingLeft="4dp"
+    paddingRight="4dp"
+    layout_width="wrap_content"
+    layout_height="24dp"
+    minWidth="24dp"
+    lines="1"
+    textAlignment="center"
+    paddingHorizontal="4dp"
+    NOT_FOUND_0xc="32"/>

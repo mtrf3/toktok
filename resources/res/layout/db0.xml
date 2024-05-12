@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C31597Caf
+        id="@+id/fcd"
+        background="@drawable/cfz"
+        layout_width="29dp"
+        layout_height="29dp"
+        scaleType="fitXY"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <scale
+        interpolator="@anim/by"
+        duration="180"
+        pivotX="0%"
+        pivotY="0%"
+        fromXScale="1"
+        toXScale="0.5"
+        fromYScale="1"
+        toYScale="0.5"/>
+    <alpha
+        duration="180"
+        fromAlpha="1"
+        toAlpha="0"/>
+</set>

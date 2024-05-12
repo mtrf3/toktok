@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/g_3"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginLeft="6dp"
+    layout_marginRight="6dp">
+    <View
+        layout_gravity="center"
+        id="@+id/g_2"
+        layout_width="48dp"
+        layout_height="48dp"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center"
+        id="@+id/g_4"
+        layout_width="28dp"
+        layout_height="28dp"/>
+</FrameLayout>

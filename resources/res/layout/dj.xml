@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <TextView
+        textAppearance="@style/ms"
+        textColor="?attr/bk7"
+        ellipsize="end"
+        id="@+id/ghd"
+        background="?attr/bk8"
+        paddingLeft="@dimen/a8y"
+        paddingTop="@dimen/a92"
+        paddingRight="@dimen/a8y"
+        paddingBottom="@dimen/a92"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_margin="@dimen/a8z"
+        maxWidth="256dp"
+        maxLines="3"
+        paddingStart="@dimen/a8y"
+        paddingEnd="@dimen/a8y"/>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape>
+            <size
+                height="375dp"
+                width="375dp"/>
+            <solid color="?attr/d3"/>
+            <corners radius="2dp"/>
+            <stroke
+                width="0.5dp"
+                color="?attr/dz"/>
+        </shape>
+    </item>
+    <item
+        gravity="center"
+        height="72dp"
+        width="72dp"
+        drawable="@drawable/adp"/>
+</layer-list>

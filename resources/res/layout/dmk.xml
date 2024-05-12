@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/ldd"
+    clipChildren="false"
+    layout_width="36dp"
+    layout_height="36dp"
+    layout_marginStart="0dp"
+    layout_marginEnd="0dp">
+    <ImageView
+        id="@+id/ldg"
+        layout_width="36dp"
+        layout_height="36dp"
+        src="@drawable/das"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

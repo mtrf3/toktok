@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    background="?attr/ca"
+    layout_width="match_parent"
+    layout_height="83dp">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        id="@+id/m7d"
+        layout_width="38dp"
+        layout_height="wrap_content"
+        layout_centerVertical="true"
+        layout_marginStart="16dp"
+        layout_alignParentStart="true"
+        NOT_FOUND_0x13="72"/>
+    <SeekBar
+        id="@+id/jko"
+        background="@null"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        maxHeight="3dp"
+        progressDrawable="@drawable/aqt"
+        minHeight="3dp"
+        thumb="@drawable/aqw"
+        layout_centerHorizontal="true"
+        paddingStart="8dp"
+        paddingEnd="8dp"
+        layout_toStartOf="@+id/m7e"
+        layout_toEndOf="@+id/m7d"
+        splitTrack="false"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        id="@+id/m7e"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_centerVertical="true"
+        paddingEnd="16dp"
+        layout_alignParentEnd="true"
+        NOT_FOUND_0x13="72"/>
+</RelativeLayout>

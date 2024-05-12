@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.android.live.design.widget.LiveEditText
+    textSize="17dp"
+    textColor="@color/bc"
+    textColorHint="@color/be"
+    ellipsize="end"
+    gravity="start|top"
+    background="@color/yi"
+    paddingTop="8dp"
+    paddingBottom="8dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    maxLines="3"
+    imeOptions="actionDone"
+    textCursorDrawable="@drawable/cqw"
+    textAlignment="viewStart"
+    NOT_FOUND_0xe="7"/>

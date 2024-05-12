@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C45631qh
+    id="@+id/bst"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <LinearLayout
+        orientation="vertical"
+        padding="@dimen/xi"
+        layout_width="match_parent"
+        layout_height="wrap_content">
+        <FrameLayout
+            layout_width="match_parent"
+            layout_height="48dp">
+            <LinearLayout
+                orientation="horizontal"
+                layout_width="match_parent"
+                layout_height="match_parent">
+                <com.bytedance.android.live.design.widget.LiveEditText
+                    textSize="15sp"
+                    textColor="?attr/bns"
+                    textColorHint="?attr/bnt"
+                    gravity="start|center_vertical"
+                    layout_gravity="center_vertical"
+                    background="@null"
+                    layout_width="0dp"
+                    layout_height="match_parent"
+                    hint="Testing edit text"
+                    singleLine="true"
+                    layout_weight="1"
+                    imeOptions="flagNoExtractUi|actionSend"
+                    textCursorDrawable="@drawable/cqv"
+                    textAlignment="viewStart"
+                    style="@style/a43"/>
+                <com.bytedance.android.live.design.view.icon.LiveIconView
+                    layout_gravity="center_vertical"
+                    visibility="gone"
+                    layout_width="16dp"
+                    layout_height="16dp"
+                    layout_marginStart="9dp"
+                    NOT_FOUND_0x13="?attr/aw1"
+                    NOT_FOUND_0x14="?attr/bnt"/>
+            </LinearLayout>
+            <View
+                layout_gravity="bottom"
+                background="?attr/bmz"
+                layout_width="match_parent"
+                layout_height="0.5dp"/>
+        </FrameLayout>
+        <X.C47121t6
+            textColor="?attr/bns"
+            id="@+id/g_t"
+            layout_width="match_parent"
+            layout_height="wrap_content"/>
+    </LinearLayout>
+</X.C45631qh>

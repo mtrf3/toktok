@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    background="@drawable/as5"
+    paddingTop="10dp"
+    paddingBottom="10dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C170736mz
+        id="@+id/f_n"
+        layout_width="20dp"
+        layout_height="20dp"
+        src="@drawable/azh"
+        layout_marginStart="13dp"/>
+    <X.C8HN
+        textStyle="bold"
+        textColor="@color/ud"
+        ellipsize="end"
+        gravity="center_vertical"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/g0s"
+        maxLines="1"
+        layout_marginStart="12dp"
+        layout_marginEnd="12dp"
+        NOT_FOUND_0x10="false"
+        NOT_FOUND_0x11="2"
+        style="@style/aab"/>
+</LinearLayout>

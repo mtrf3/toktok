@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/hej"
+        layout_width="match_parent"
+        layout_height="0dp"
+        layout_marginBottom="4dp"
+        layout_alignBottom="@+id/e5_"
+        layout_alignParentTop="true"/>
+    <include
+        id="@+id/e5_"
+        layout_width="wrap_content"
+        layout_height="30dp"
+        layout_marginBottom="8dp"
+        layout_above="@+id/c3c"
+        layout_marginStart="8dp"
+        layout="@layout/aju"/>
+    <FrameLayout
+        id="@+id/c3c"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_above="@+id/c37"/>
+    <FrameLayout
+        id="@+id/c37"
+        background="?attr/cr"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_alignParentBottom="true"/>
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/g94"
+        layout_width="14dp"
+        layout_height="14dp"
+        layout_marginEnd="3dp"
+        NOT_FOUND_0x7="@raw/icon_spinner_normal"
+        NOT_FOUND_0x8="?attr/gu"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gx"
+        id="@+id/g92"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x6="62"/>
+</LinearLayout>

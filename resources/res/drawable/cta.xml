@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="oval">
+    <gradient
+        startColor="#40000000"
+        endColor="@color/yi"
+        angle="0"
+        type="radial"
+        gradientRadius="50%"/>
+</shape>

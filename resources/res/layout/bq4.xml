@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    visibility="gone"
+    layout_width="0dp"
+    layout_height="wrap_content">
+    <include
+        id="@+id/fyo"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="@dimen/k5"
+        layout="@layout/acu"/>
+</FrameLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item>
+        <bitmap
+            src="@drawable/bz"
+            alpha="0.87"/>
+    </item>
+</selector>

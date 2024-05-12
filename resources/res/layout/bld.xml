@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C8HR
+    visibility="gone"
+    layout_width="match_parent"
+    layout_height="64dp"
+    layout_marginLeft="8dp"
+    layout_marginRight="8dp"
+    layout_marginStart="8dp"
+    layout_marginEnd="8dp"
+    NOT_FOUND_0x14="7dp">
+    <X.C8HN
+        textColor="@color/so"
+        gravity="center"
+        id="@+id/b93"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        layout_marginRight="16dp"
+        text="@string/e4m"
+        layout_alignParentRight="true"
+        layout_marginEnd="16dp"
+        layout_alignParentEnd="true"
+        style="@style/aab"/>
+    <View
+        id="@+id/b94"
+        background="@color/s7"
+        layout_width="0.5dp"
+        layout_height="36dp"
+        layout_marginRight="16dp"
+        layout_toLeftOf="@+id/b93"
+        layout_centerVertical="true"
+        layout_marginEnd="16dp"
+        layout_toStartOf="@+id/b93"/>
+    <X.C73124Smu
+        id="@+id/hmh"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginLeft="6dp"
+        layout_marginRight="6dp"
+        layout_toLeftOf="@+id/b94"
+        layout_centerInParent="true"
+        layout_toStartOf="@+id/b94"
+        NOT_FOUND_0x12="6dp"
+        NOT_FOUND_0x13="false"/>
+</X.C8HR>

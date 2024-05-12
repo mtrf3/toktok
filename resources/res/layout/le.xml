@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/k4t"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <LinearLayout
+        orientation="vertical"
+        id="@+id/kgm"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginBottom="230dp"
+        NOT_FOUND_0x6="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

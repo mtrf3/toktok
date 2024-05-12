@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    clipChildren="false"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <LinearLayout
+        gravity="center"
+        orientation="horizontal"
+        id="@+id/od"
+        paddingLeft="4dp"
+        clipChildren="false"
+        clipToPadding="false"
+        layout_width="wrap_content"
+        layout_height="60dp"
+        layoutDirection="ltr"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xd="0"/>
+    <X.C30232Btk
+        id="@+id/lcs"
+        layout_width="0dp"
+        layout_height="1dp"
+        layout_weight="1"/>
+    <LinearLayout
+        gravity="center"
+        orientation="horizontal"
+        id="@+id/o4"
+        paddingRight="12dp"
+        clipChildren="false"
+        clipToPadding="false"
+        layout_width="wrap_content"
+        layout_height="60dp"
+        layoutDirection="ltr"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"/>
+</LinearLayout>

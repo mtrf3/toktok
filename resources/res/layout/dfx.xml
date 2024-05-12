@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    id="@+id/j7n"
+    background="@drawable/cmi"
+    layout_width="match_parent"
+    layout_height="66dp">
+    <LinearLayout
+        gravity="center"
+        layout_gravity="center_vertical"
+        orientation="vertical"
+        id="@+id/hta"
+        layout_width="48dp"
+        layout_height="48dp"
+        layout_marginLeft="6.5dp"
+        layout_marginStart="6.5dp">
+        <ImageView
+            layout_width="15dp"
+            layout_height="15dp"
+            src="@drawable/dac"
+            scaleType="fitCenter"
+            contentDescription="@null"/>
+        <X.C47121t6
+            textColor="@color/bc"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginTop="3dp"
+            text="@string/kd2"
+            style="@style/a4d"/>
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        layout_gravity="center_vertical"
+        id="@+id/isf"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</LinearLayout>

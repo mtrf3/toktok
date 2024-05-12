@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    padding="12dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <ImageView
+        layout_gravity="center_vertical"
+        id="@+id/egd"
+        visibility="gone"
+        layout_width="32dp"
+        layout_height="32dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textSize="13dp"
+        textColor="#ffffff"
+        layout_gravity="center_vertical"
+        id="@+id/ghd"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxWidth="234dp"
+        minWidth="12dp"/>
+</LinearLayout>

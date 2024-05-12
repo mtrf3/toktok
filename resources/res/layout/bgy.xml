@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    gravity="center_vertical"
+    id="@+id/k_9"
+    visibility="invisible"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <androidx.recyclerview.widget.RecyclerView
+        layout_gravity="center_vertical"
+        id="@+id/k_7"
+        background="@drawable/bn8"
+        layout_width="72dp"
+        layout_height="wrap_content"
+        layout_marginStart="54dp"
+        layout_alignParentEnd="true"/>
+</RelativeLayout>

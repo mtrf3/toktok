@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/nli"
+    background="@drawable/dgx"
+    layout_width="78dp"
+    layout_height="78dp">
+    <View
+        id="@+id/nlh"
+        background="@drawable/dgy"
+        layout_width="28dp"
+        layout_height="28dp"
+        backgroundTint="@color/adf"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"/>
+    <TextView
+        id="@+id/nlk"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x5="@+id/nlh"
+        NOT_FOUND_0x7="@+id/nlh"
+        NOT_FOUND_0x9="@+id/nlh"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

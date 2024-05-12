@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/kld"
+        layout_width="32dp"
+        layout_height="32dp"
+        NOT_FOUND_0x3="@raw/icon_color_like_shadow_alt_3"
+        NOT_FOUND_0x4="32dp"
+        NOT_FOUND_0x5="32dp"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/klc"
+        layout_width="32dp"
+        layout_height="32dp"
+        NOT_FOUND_0x3="@raw/icon_color_like_red_shadow"
+        NOT_FOUND_0x4="32dp"
+        NOT_FOUND_0x5="32dp"/>
+</FrameLayout>

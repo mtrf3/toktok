@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    orientation="horizontal"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <RelativeLayout
+        id="@+id/h_4"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dl"
+            ellipsize="end"
+            id="@+id/h_5"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            text="All offline videos watched"
+            lines="1"
+            layout_centerVertical="true"
+            layout_marginStart="16dp"
+            layout_marginEnd="16dp"
+            layout_toStartOf="@+id/h_2"
+            layout_alignParentStart="true"
+            NOT_FOUND_0x13="41"/>
+        <FrameLayout
+            gravity="center"
+            orientation="horizontal"
+            id="@+id/h_2"
+            background="@drawable/bum"
+            layout_width="76dp"
+            layout_height="33dp"
+            maxWidth="150dp"
+            minWidth="70dp"
+            layout_centerVertical="true"
+            layout_marginEnd="12dp"
+            layout_alignParentEnd="true">
+            <com.bytedance.tux.input.TuxTextView
+                textColor="?attr/dj"
+                ellipsize="end"
+                layout_gravity="center"
+                id="@+id/h_3"
+                layout_width="wrap_content"
+                layout_height="wrap_content"
+                text="Settings1"
+                lines="1"
+                NOT_FOUND_0x13="52"/>
+        </FrameLayout>
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    layout_width="match_parent"
+    layout_height="36dp">
+    <X.SY4
+        textColor="?attr/dj"
+        id="@+id/atv"
+        background="@drawable/a0m"
+        visibility="gone"
+        layout_width="0dp"
+        layout_height="match_parent"
+        layout_weight="1"
+        NOT_FOUND_0x9="true"
+        NOT_FOUND_0xa="2"
+        NOT_FOUND_0xb="3"/>
+    <X.SY4
+        textColor="?attr/dj"
+        id="@+id/au3"
+        background="@drawable/a0n"
+        visibility="gone"
+        layout_width="0dp"
+        layout_height="match_parent"
+        layout_weight="1"
+        layout_marginStart="8dp"
+        NOT_FOUND_0x9="true"
+        NOT_FOUND_0xa="2"
+        NOT_FOUND_0xb="3"/>
+</LinearLayout>

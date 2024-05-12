@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape shape="rectangle">
+            <padding
+                left="2dp"
+                top="2dp"
+                right="2dp"
+                bottom="2dp"/>
+            <solid color="#0dcccccc"/>
+            <corners radius="8dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape shape="rectangle">
+            <padding
+                left="2dp"
+                top="2dp"
+                right="2dp"
+                bottom="2dp"/>
+            <solid color="#10cccccc"/>
+            <corners radius="8dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape shape="rectangle">
+            <padding
+                left="2dp"
+                top="2dp"
+                right="2dp"
+                bottom="2dp"/>
+            <solid color="#15cccccc"/>
+            <corners radius="8dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape shape="rectangle">
+            <padding
+                left="2dp"
+                top="2dp"
+                right="2dp"
+                bottom="2dp"/>
+            <solid color="#20cccccc"/>
+            <corners radius="8dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape shape="rectangle">
+            <padding
+                left="2dp"
+                top="2dp"
+                right="2dp"
+                bottom="2dp"/>
+            <solid color="#25cccccc"/>
+            <corners radius="8dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid color="?attr/cu"/>
+            <corners radius="5dp"/>
+        </shape>
+    </item>
+</layer-list>

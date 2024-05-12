@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_checkable="true"
+        color="@color/cs"/>
+    <item
+        state_checkable="false"
+        color="#57161823"/>
+</selector>

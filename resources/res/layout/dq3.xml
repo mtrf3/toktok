@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="@drawable/dan"
+    padding="8dp"
+    focusable="true"
+    clickable="true"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <ImageView
+        id="@+id/f6g"
+        background="@drawable/cou"
+        layout_width="68dp"
+        layout_height="16dp"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xe="0"/>
+    <X.C47121t6
+        textSize="12dp"
+        textColor="#ffffff"
+        id="@+id/mag"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/mur"
+        layout_marginStart="6dp"
+        NOT_FOUND_0xb="@+id/f6g"
+        NOT_FOUND_0xc="@+id/f6g"
+        NOT_FOUND_0xe="@+id/f6g"
+        NOT_FOUND_0xf="true"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <X.C59W
+            layout_gravity="bottom"
+            id="@+id/lj3"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            layout_marginBottom="0.6dp"/>
+        <X.C1299958h
+            id="@+id/chn"
+            layout_width="match_parent"
+            layout_height="wrap_content"/>
+    </FrameLayout>
+</merge>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    background="@drawable/a1z"
+    layout_width="wrap_content"
+    layout_height="match_parent"
+    layout_marginBottom="@dimen/o2">
+    <X.SY4
+        id="@+id/jbv"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxWidth="300dp"
+        NOT_FOUND_0x7="false"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="2"
+        NOT_FOUND_0xa="@raw/icon_info_circle_fill"/>
+</LinearLayout>

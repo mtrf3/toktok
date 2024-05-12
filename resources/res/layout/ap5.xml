@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/bs_"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <LinearLayout
+        orientation="vertical"
+        id="@+id/g9w"
+        background="@color/cz"
+        fitsSystemWindows="true"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <FrameLayout
+            id="@+id/jea"
+            layout_width="match_parent"
+            layout_height="wrap_content"/>
+        <X.C51355KDn
+            id="@+id/kp0"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            layout_below="@+id/jea">
+            <FrameLayout
+                id="@+id/izj"
+                layout_width="match_parent"
+                layout_height="match_parent"/>
+            <FrameLayout
+                id="@+id/ksi"
+                layout_width="match_parent"
+                layout_height="match_parent"/>
+            <FrameLayout
+                id="@+id/ksf"
+                layout_width="match_parent"
+                layout_height="match_parent"/>
+        </X.C51355KDn>
+    </LinearLayout>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/eb"
+        id="@+id/c42"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="Refactor page"/>
+</FrameLayout>

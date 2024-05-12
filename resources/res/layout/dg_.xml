@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="192px"
+    layout_height="48px">
+    <X.C31597Caf
+        layout_gravity="center"
+        id="@+id/hy6"
+        layout_width="48px"
+        layout_height="48px"
+        layout_marginStart="12px"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xd="@+id/hy7"
+        NOT_FOUND_0xe="2"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x13="true"/>
+    <X.C47121t6
+        textSize="12sp"
+        textColor="#bfffffff"
+        ellipsize="end"
+        id="@+id/hy7"
+        layout_width="wrap_content"
+        layout_height="48px"
+        maxWidth="108px"
+        maxLines="1"
+        layout_marginStart="12px"
+        layout_marginEnd="12px"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xf="@+id/hy6"
+        NOT_FOUND_0x11="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

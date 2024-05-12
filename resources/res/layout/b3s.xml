@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <X.C74291TDr
+        id="@+id/fkl"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <View
+            id="@+id/d4a"
+            background="?attr/cj"
+            visibility="gone"
+            layout_width="wrap_content"
+            layout_height="wrap_content"/>
+    </X.C74291TDr>
+</merge>

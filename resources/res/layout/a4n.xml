@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="match_parent">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gu"
+        gravity="center_vertical"
+        id="@+id/n2r"
+        background="@drawable/ab3"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        paddingStart="6dp"
+        paddingEnd="6dp"
+        NOT_FOUND_0x8="61"/>
+</FrameLayout>

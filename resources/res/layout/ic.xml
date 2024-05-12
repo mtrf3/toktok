@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="38dp"
+    layout_height="50dp">
+    <com.bytedance.lighten.loader.SmartImageView
+        layout_gravity="center"
+        id="@+id/ei9"
+        padding="2dp"
+        layout_width="38dp"
+        layout_height="50dp"
+        scaleType="centerCrop"/>
+    <View
+        layout_gravity="center"
+        id="@+id/jm_"
+        background="@drawable/sl"
+        layout_width="38dp"
+        layout_height="50dp"/>
+</FrameLayout>

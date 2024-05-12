@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    background="@drawable/vo"
+    layout_width="50dp"
+    layout_height="50dp">
+    <X.W5G
+        id="@+id/khy"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x4="12dp"/>
+</FrameLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/am3"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C94421agj
+        id="@+id/nlr"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C019005q
+        orientation="horizontal"
+        id="@+id/e1u"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x4="0dp"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

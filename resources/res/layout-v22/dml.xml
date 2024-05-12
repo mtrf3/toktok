@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    gravity="center_vertical"
+    paddingLeft="16dp"
+    paddingRight="16dp"
+    layout_width="match_parent"
+    layout_height="48dp">
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        id="@+id/ld4"
+        layout_width="24dp"
+        layout_height="24dp"
+        NOT_FOUND_0xc="true"
+        NOT_FOUND_0xd="?attr/auk"
+        NOT_FOUND_0xe="0.75"
+        NOT_FOUND_0xf="0.75"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x13="0"
+        NOT_FOUND_0x14="0"/>
+    <X.C47121t6
+        textSize="16dp"
+        textColor="?attr/go"
+        gravity="center_vertical"
+        id="@+id/ldn"
+        paddingLeft="8dp"
+        paddingRight="8dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/mmv"
+        layout_marginStart="8dp"
+        paddingHorizontal="8dp"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x12="@+id/ld4"
+        NOT_FOUND_0x14="0"
+        style="Widget.TTLive.TextView.H4"/>
+    <X.C41071jL
+        id="@+id/gus"
+        clickable="false"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x14="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

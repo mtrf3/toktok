@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/iyg"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginRight="14dp"
+    layout_marginEnd="14dp">
+    <FrameLayout
+        gravity="center"
+        id="@+id/de_"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</FrameLayout>

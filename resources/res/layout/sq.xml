@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/h55"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    minHeight="188dp">
+    <X.SYL
+        id="@+id/kq5"
+        paddingTop="8dp"
+        paddingBottom="8dp"
+        clipToPadding="false"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginTop="4dp"
+        layout_marginBottom="9dp"/>
+</LinearLayout>

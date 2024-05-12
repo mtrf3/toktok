@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C31072CHk
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <HorizontalScrollView
+        id="@+id/jcz"
+        scrollbars="none"
+        fadingEdge="horizontal"
+        fadingEdgeLength="15dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        requiresFadingEdge="horizontal"
+        NOT_FOUND_0x9="true"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0">
+        <LinearLayout
+            orientation="horizontal"
+            id="@+id/bs8"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            animateLayoutChanges="true"/>
+    </HorizontalScrollView>
+</X.C31072CHk>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/ba7"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        gravity="center"
+        padding="10dp"
+        layout_width="match_parent"
+        layout_height="52dp"
+        text="@string/hz7"
+        NOT_FOUND_0x7="33"/>
+</FrameLayout>

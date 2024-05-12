@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    id="@+id/gnu"
+    clickable="false"
+    longClickable="false"
+    NOT_FOUND_0x3="13"
+    style="@style/a89"/>

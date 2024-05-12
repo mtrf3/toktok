@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chronometer
+    textAppearance="@style/nh"
+    id="@+id/bbd"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    singleLine="true"/>

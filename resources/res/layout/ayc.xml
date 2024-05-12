@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/hx4"
+    layout_width="match_parent"
+    layout_height="match_parent"
+    animateLayoutChanges="true">
+    <LinearLayout
+        gravity="center_horizontal"
+        orientation="vertical"
+        id="@+id/gen"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="20dp"
+        layout_marginStart="40dp"
+        layout_marginEnd="40dp">
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            ellipsize="end"
+            gravity="center_horizontal"
+            id="@+id/gew"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            text="@string/ggr"
+            maxLines="1"
+            NOT_FOUND_0xd="17sp"
+            NOT_FOUND_0xe="23"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            ellipsize="end"
+            gravity="center_horizontal"
+            id="@+id/geo"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            layout_marginTop="6dp"
+            text="@string/duy"
+            maxLines="5"
+            NOT_FOUND_0xd="12sp"
+            NOT_FOUND_0xe="41"/>
+    </LinearLayout>
+</LinearLayout>

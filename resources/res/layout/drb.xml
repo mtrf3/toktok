@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C224748ru
+        id="@+id/gie"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <X.C7JQ
+        layout_gravity="start|center_vertical"
+        id="@+id/nhj"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C183907Jq
+        layout_gravity="start|center_vertical"
+        id="@+id/nhk"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C7JP
+        layout_gravity="start|center_vertical"
+        id="@+id/nhi"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

@@ -1,0 +1,77 @@
+package com.ss.android.ugc.aweme.bnpl.biz.credit.phone;
+
+import X.ActivityC45651qj;
+import X.C10A;
+import X.C141335gf;
+import X.C16880lQ;
+import X.C29S;
+import X.C3C5;
+import X.C76800UCe;
+import X.C90903hW;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import androidx.fragment.app.Fragment;
+import androidx.lifecycle.ViewModelProvider;
+import androidx.lifecycle.ViewTreeLifecycleOwner;
+import androidx.lifecycle.ViewTreeViewModelStoreOwner;
+import com.bytedance.tux.input.TuxTextView;
+import com.zhiliaoapp.musically.R;
+import java.util.LinkedHashMap;
+import java.util.Map;
+import kotlin.jvm.internal.o;
+
+/* loaded from: classes20.dex */
+public final class PhoneNumberDisplayFragment extends Fragment {
+    public final Map<Integer, View> LJLIL = new LinkedHashMap();
+
+    @Override // androidx.fragment.app.Fragment
+    public final void onCreate(Bundle bundle) {
+        super.onCreate(bundle);
+        new ViewModelProvider(this).get(PhoneNumberVM.class);
+    }
+
+    @Override // androidx.fragment.app.Fragment
+    public final void onViewCreated(View view, Bundle bundle) {
+        o.LJIIIZ(view, "view");
+        super.onViewCreated(view, bundle);
+        LinkedHashMap linkedHashMap = (LinkedHashMap) this.LJLIL;
+        View view2 = (View) linkedHashMap.get(Integer.valueOf(R.id.fc));
+        if (view2 == null) {
+            View view3 = getView();
+            if (view3 != null && (view2 = view3.findViewById(R.id.fc)) != null) {
+                linkedHashMap.put(Integer.valueOf(R.id.fc), view2);
+            } else {
+                view2 = null;
+            }
+        }
+        ((TuxTextView) view2).LJJJ(40.0f);
+    }
+
+    @Override // androidx.fragment.app.Fragment
+    public final View onCreateView(LayoutInflater inflater, ViewGroup viewGroup, Bundle bundle) {
+        o.LJIIIZ(inflater, "inflater");
+        View LLLLIILL = C16880lQ.LLLLIILL(inflater, R.layout.aa, viewGroup, false);
+        C29S c29s = null;
+        if (!(LLLLIILL instanceof View)) {
+            LLLLIILL = null;
+        }
+        if (LLLLIILL != null) {
+            try {
+                ViewTreeLifecycleOwner.set(LLLLIILL, getViewLifecycleOwner());
+                ViewTreeViewModelStoreOwner.set(LLLLIILL, this);
+                C10A.LIZIZ(LLLLIILL, this);
+                ActivityC45651qj mo49getActivity = mo49getActivity();
+                if (mo49getActivity instanceof C29S) {
+                    c29s = (C29S) mo49getActivity;
+                }
+                C90903hW.LIZ(c29s);
+            } catch (Throwable th) {
+                C3C5.m7constructorimpl(C141335gf.LIZ(th));
+            }
+        }
+        C3C5.m7constructorimpl(C76800UCe.LIZ);
+        return LLLLIILL;
+    }
+}

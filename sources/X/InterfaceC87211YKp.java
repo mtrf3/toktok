@@ -1,0 +1,13 @@
+package X;
+
+/* renamed from: X.YKp, reason: case insensitive filesystem */
+/* loaded from: classes16.dex */
+public interface InterfaceC87211YKp {
+    void LIZ();
+
+    void LIZIZ();
+
+    void LIZJ();
+
+    void LIZLLL();
+}

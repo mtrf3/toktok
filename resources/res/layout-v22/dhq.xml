@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/hbc"
+    paddingLeft="32dp"
+    paddingTop="48dp"
+    paddingRight="32dp"
+    layout_width="match_parent"
+    layout_height="170dp"
+    paddingHorizontal="32dp">
+    <X.C47121t6
+        textColor="?attr/bns"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/title"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/ms7"
+        style="@style/a42"/>
+    <X.C47121t6
+        textColor="?attr/bns"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/bst"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="12dp"
+        text="@string/ms6"
+        style="@style/a46"/>
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_selected="true"
+        drawable="@drawable/brh"/>
+    <item
+        state_selected="false"
+        drawable="@drawable/bri"/>
+    <item
+        state_checked="true"
+        drawable="@drawable/brh"/>
+    <item
+        state_checked="false"
+        drawable="@drawable/bri"/>
+    <item drawable="@drawable/bri"/>
+</selector>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/gb4"
+    visibility="gone"
+    layout_width="match_parent"
+    layout_height="240dp"
+    layout_marginTop="82dp"
+    layout_centerHorizontal="true">
+    <ImageView
+        layout_gravity="center_horizontal"
+        layout_width="70dp"
+        layout_height="70dp"
+        src="@drawable/ub"/>
+    <TextView
+        textSize="14dp"
+        textColor="#bf161823"
+        gravity="center"
+        layout_gravity="center_horizontal"
+        layout_width="wrap_content"
+        layout_height="18dp"
+        layout_marginTop="21dp"
+        text="@string/pg7"/>
+    <TextView
+        textSize="14dp"
+        textColor="#ffffff"
+        gravity="center"
+        layout_gravity="center_horizontal"
+        id="@+id/k0f"
+        background="@drawable/ru"
+        layout_width="144dp"
+        layout_height="35dp"
+        layout_marginTop="29dp"
+        text="@string/rct"/>
+</LinearLayout>

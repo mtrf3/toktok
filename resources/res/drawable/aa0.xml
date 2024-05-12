@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_focused="false"
+        state_enabled="false">
+        <shape shape="rectangle">
+            <corners radius="@dimen/j4"/>
+            <solid color="@color/gl"/>
+        </shape>
+    </item>
+    <item state_pressed="true">
+        <shape shape="rectangle">
+            <corners radius="@dimen/j4"/>
+            <solid color="@color/go"/>
+        </shape>
+    </item>
+    <item>
+        <shape shape="rectangle">
+            <corners radius="@dimen/j4"/>
+            <solid color="@color/gk"/>
+        </shape>
+    </item>
+</selector>

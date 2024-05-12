@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    paddingTop="12dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_marginStart="16dp">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gv"
+        ellipsize="end"
+        id="@+id/mbv"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/ils"
+        maxLines="1"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x10="62"/>
+    <LinearLayout
+        gravity="center"
+        orientation="horizontal"
+        id="@+id/g2n"
+        layout_width="wrap_content"
+        layout_height="36dp"
+        layout_marginTop="12dp"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xe="@+id/mbv">
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/f9q"
+            layout_width="20dp"
+            layout_height="20dp"
+            layout_marginStart="12dp"
+            NOT_FOUND_0x11="@raw/icon_map_pin_fill"
+            NOT_FOUND_0x12="?attr/go"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/go"
+            ellipsize="end"
+            id="@+id/mbx"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            maxLines="1"
+            layout_marginStart="6dp"
+            layout_marginEnd="9.5dp"
+            NOT_FOUND_0x10="52"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

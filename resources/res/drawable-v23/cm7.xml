@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item width="3dp">
+        <shape>
+            <solid color="#f2eafd"/>
+        </shape>
+    </item>
+    <item start="3dp">
+        <shape>
+            <gradient
+                startColor="#14f2eafd"
+                endColor="#00f2eafd"
+                angle="180"/>
+        </shape>
+    </item>
+</layer-list>

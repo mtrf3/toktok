@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="false"
+        color="?attr/a4m"/>
+    <item color="?attr/a4k"/>
+</selector>

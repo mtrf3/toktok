@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set duration="@integer/bi">
+    <scale
+        interpolator="@android:interpolator/decelerate_cubic"
+        pivotX="50%"
+        pivotY="50%"
+        fromXScale="119.9982%"
+        toXScale="100%"
+        fromYScale="119.9982%"
+        toYScale="100%"/>
+    <alpha
+        interpolator="@android:interpolator/linear"
+        fromAlpha="0"
+        toAlpha="1"/>
+</set>

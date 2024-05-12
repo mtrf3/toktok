@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <LinearLayout
+        gravity="center_vertical"
+        orientation="horizontal"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <X.C2A3
+            textAppearance="@style/os"
+            textColor="?attr/bmu"
+            gravity="center"
+            id="@+id/av6"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            minWidth="10dp"
+            minHeight="@dimen/aa1"
+            text="@string/ml8"
+            autoSizeMaxTextSize="@dimen/aig"/>
+        <ImageView
+            background="#80ffffff"
+            layout_width="0.5dp"
+            layout_height="12dp"
+            layout_marginLeft="8dp"
+            layout_marginRight="8dp"
+            layout_marginHorizontal="8dp"/>
+        <X.C2A3
+            textAppearance="@style/os"
+            textColor="?attr/bmu"
+            gravity="center"
+            id="@+id/av1"
+            layout_width="16dp"
+            layout_height="wrap_content"
+            minWidth="10dp"
+            minHeight="@dimen/aa1"
+            text="@string/spy"
+            autoSizeMaxTextSize="@dimen/aig"/>
+    </LinearLayout>
+    <X.C41081jM
+        id="@+id/av5"
+        layout_width="23dp"
+        layout_height="28dp"
+        src="@drawable/ca8"
+        layout_marginStart="0dp"/>
+</merge>

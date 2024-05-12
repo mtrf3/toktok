@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_centerHorizontal="true">
+    <X.L69
+        id="@+id/ach"
+        layout_width="128dp"
+        layout_height="112dp"
+        NOT_FOUND_0x7="96">
+        <FrameLayout
+            layout_gravity="center"
+            id="@+id/acu"
+            visibility="gone"
+            layout_width="96dp"
+            layout_height="96dp"/>
+        <FrameLayout
+            layout_gravity="center"
+            id="@+id/act"
+            visibility="gone"
+            clipChildren="true"
+            layout_width="96dp"
+            layout_height="96dp">
+            <com.bytedance.lighten.loader.SmartImageView
+                layout_gravity="center"
+                id="@+id/acs"
+                visibility="gone"
+                layout_width="96dp"
+                layout_height="124dp"/>
+        </FrameLayout>
+    </X.L69>
+</FrameLayout>

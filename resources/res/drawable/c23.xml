@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_selected="true">
+        <shape shape="rectangle">
+            <solid color="?attr/cv"/>
+            <stroke
+                width="1dp"
+                color="?attr/go"/>
+            <corners radius="6px"/>
+        </shape>
+    </item>
+    <item>
+        <shape shape="rectangle">
+            <solid color="?attr/cv"/>
+            <corners radius="6px"/>
+        </shape>
+    </item>
+</selector>

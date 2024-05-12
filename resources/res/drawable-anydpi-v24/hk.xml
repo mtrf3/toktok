@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gradient
+    angle="0"
+    type="linear"
+    startX="55.65"
+    startY="20"
+    endX="0"
+    endY="20">
+    <item
+        color="#ffffffff"
+        offset="0"/>
+    <item
+        color="#00ffffff"
+        offset="1"/>
+</gradient>

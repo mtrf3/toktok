@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        id="@+id/iuc"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x7="0">
+        <X.C71898SJq
+            layout_width="match_parent"
+            layout_height="0dp"
+            NOT_FOUND_0x7="0"
+            NOT_FOUND_0xb="0"
+            NOT_FOUND_0xc="0"
+            NOT_FOUND_0xd="0.6"
+            NOT_FOUND_0xe="?attr/d4"
+            NOT_FOUND_0xf="0"/>
+        <com.ss.android.ugc.aweme.relation.follow.ui.RelationButton
+            id="@+id/h7s"
+            layout_width="match_parent"
+            layout_height="40dp"
+            layout_marginBottom="22dp"
+            layout_marginStart="16dp"
+            layout_marginEnd="115dp"
+            NOT_FOUND_0x7="0"/>
+        <X.C199947t0
+            id="@+id/h7t"
+            layout_width="0dp"
+            layout_height="wrap_content"
+            layout_marginTop="22dp"
+            layout_marginBottom="10dp"
+            NOT_FOUND_0x8="@+id/h7s"
+            NOT_FOUND_0x9="@+id/h7s"
+            NOT_FOUND_0xa="@+id/h7s"
+            NOT_FOUND_0xb="0"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

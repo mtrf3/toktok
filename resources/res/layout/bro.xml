@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    textAppearance="?attr/bht"
+    textSize="56dp"
+    textColor="?attr/a4q"
+    gravity="center"
+    layout_width="@dimen/ye"
+    layout_height="wrap_content"
+    layout_marginTop="4dp"
+    text="@string/i0_"
+    maxEms="1"
+    includeFontPadding="false"
+    lineSpacingExtra="0dp"
+    importantForAccessibility="no"/>

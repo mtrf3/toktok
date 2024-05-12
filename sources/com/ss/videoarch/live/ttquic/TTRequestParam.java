@@ -1,0 +1,94 @@
+package com.ss.videoarch.live.ttquic;
+
+import X.Q89;
+import X.X1D;
+import com.bytedance.android.livesdk.livesetting.broadcast.LiveMaxRetainAlogMessageSizeSetting;
+import com.bytedance.android.livesdk.livesetting.pullstream.LiveNetAdaptiveHurryTimeSetting;
+import defpackage.b0;
+
+/* loaded from: classes15.dex */
+public class TTRequestParam {
+    public int cmafPreloadParallel;
+    public int optCancelTask;
+    public String url = "";
+    public int httpVersion = 2;
+    public int lowProtocol = 2;
+    public int quicVersion = 43;
+    public int cryptoProtocol = 1;
+    public int enableCertVerify = 1;
+    public int httpCacheMaxAgeSec = 600;
+    public int openTimeoutMs = 5000;
+    public int readTimeoutMs = 5000;
+    public int preloadMode = 10;
+    public int cmafEnableFastOpen = 1;
+    public int cmafSkipInitSection = 1;
+    public int cmafStartSegOffset = 1;
+    public int cmafPreloadNum = 1;
+    public int cmafPreloadMPDUpdateMs = LiveNetAdaptiveHurryTimeSetting.DEFAULT;
+    public int cmafPreloadMPDExpMs = 5000;
+    public String quicSCFGAddr = "";
+    public String host = "";
+    public String ipaddr = "";
+    public String format = "";
+    public String protocol = "";
+    public int cacheMode = 1;
+    public int cacheFrameCount = 100;
+    public int cacheDuration = LiveNetAdaptiveHurryTimeSetting.DEFAULT;
+    public int cacheGopCount = 1;
+    public int cacheSize = 800000;
+    public int minCacheDuration = LiveMaxRetainAlogMessageSizeSetting.DEFAULT;
+    public String quicParams = "";
+    public String httpxParams = "";
+
+    public String toString() {
+        StringBuilder LIZ = X1D.LIZ();
+        LIZ.append("TTRequestParam{url='");
+        Q89.LIZIZ(LIZ, this.url, '\'', ", httpVersion=");
+        LIZ.append(this.httpVersion);
+        LIZ.append(", lowProtocol=");
+        LIZ.append(this.lowProtocol);
+        LIZ.append(", quicVersion=");
+        LIZ.append(this.quicVersion);
+        LIZ.append(", cryptoProtocol=");
+        LIZ.append(this.cryptoProtocol);
+        LIZ.append(", enableCertVerify=");
+        LIZ.append(this.enableCertVerify);
+        LIZ.append(", httpCacheMaxAgeSec=");
+        LIZ.append(this.httpCacheMaxAgeSec);
+        LIZ.append(", openTimeoutMs=");
+        LIZ.append(this.openTimeoutMs);
+        LIZ.append(", readTimeoutMs=");
+        LIZ.append(this.readTimeoutMs);
+        LIZ.append(", preloadMode=");
+        LIZ.append(this.preloadMode);
+        LIZ.append(", cmafEnableFastOpen=");
+        LIZ.append(this.cmafEnableFastOpen);
+        LIZ.append(", cmafSkipInitSection=");
+        LIZ.append(this.cmafSkipInitSection);
+        LIZ.append(", cmafStartSegOffset=");
+        LIZ.append(this.cmafStartSegOffset);
+        LIZ.append(", cmafPreloadNum=");
+        LIZ.append(this.cmafPreloadNum);
+        LIZ.append(", cmafPreloadParallel=");
+        LIZ.append(this.cmafPreloadParallel);
+        LIZ.append(", cmafPreloadMPDInterval=");
+        LIZ.append(this.cmafPreloadMPDUpdateMs);
+        LIZ.append(", cmafPreloadMPDExpTime=");
+        LIZ.append(this.cmafPreloadMPDExpMs);
+        LIZ.append(", quicSCFGAddr='");
+        Q89.LIZIZ(LIZ, this.quicSCFGAddr, '\'', ", host='");
+        Q89.LIZIZ(LIZ, this.host, '\'', ", ipaddr='");
+        Q89.LIZIZ(LIZ, this.ipaddr, '\'', ", format='");
+        Q89.LIZIZ(LIZ, this.format, '\'', ", protocol='");
+        Q89.LIZIZ(LIZ, this.protocol, '\'', ", cacheMode=");
+        LIZ.append(this.cacheMode);
+        LIZ.append(", cacheFrameCount=");
+        LIZ.append(this.cacheFrameCount);
+        LIZ.append(", cacheDuration=");
+        LIZ.append(this.cacheDuration);
+        LIZ.append(", minCacheDuration=");
+        LIZ.append(this.minCacheDuration);
+        LIZ.append(", optCancelTask=");
+        return b0.LIZJ(LIZ, this.optCancelTask, '}', LIZ);
+    }
+}

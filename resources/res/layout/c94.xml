@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/dk"
+    ellipsize="end"
+    layout_gravity="end|top"
+    id="@+id/l03"
+    background="@drawable/bxf"
+    paddingTop="1dp"
+    paddingBottom="1dp"
+    visibility="gone"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginTop="6dp"
+    maxLines="1"
+    paddingStart="4dp"
+    paddingEnd="4dp"
+    layout_marginEnd="6dp"
+    NOT_FOUND_0xf="71"/>

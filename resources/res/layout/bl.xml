@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="58dp"
+    paddingStart="8dp"
+    paddingEnd="8dp">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/cl"
+        gravity="center"
+        layout_gravity="center"
+        id="@android:id/text1"
+        visibility="visible"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        text="@string/ii0"
+        lines="1"
+        alpha="0.6"
+        NOT_FOUND_0xd="32"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center_vertical"
+        id="@+id/e6d"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        alpha="0.6"
+        NOT_FOUND_0xe="@raw/icon_chevron_down_fill"
+        NOT_FOUND_0xf="12dp"
+        NOT_FOUND_0x10="0dp"
+        NOT_FOUND_0x11="?attr/cl"/>
+</LinearLayout>

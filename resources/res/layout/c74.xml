@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    id="@+id/i83"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center_vertical"
+        id="@+id/i7v"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginEnd="52dp"
+        NOT_FOUND_0xc="@raw/icon_x_mark"
+        NOT_FOUND_0xd="?attr/cu"/>
+    <View
+        gravity="center"
+        layout_width="0dp"
+        layout_height="35dp"
+        layout_weight="1"
+        elevation="10dp"/>
+    <X.SY4
+        textColor="?attr/cl"
+        gravity="center"
+        id="@+id/gxb"
+        layout_width="76dp"
+        layout_height="35dp"
+        text="@string/c1o"
+        NOT_FOUND_0xb="63"/>
+</LinearLayout>

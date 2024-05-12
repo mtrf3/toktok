@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape>
+            <size
+                height="@dimen/aga"
+                width="@dimen/agb"/>
+            <solid color="@color/a2y"/>
+            <corners radius="@dimen/ag_"/>
+        </shape>
+    </item>
+    <item>
+        <bitmap
+            gravity="center"
+            src="@drawable/cpj"
+            antialias="true"/>
+    </item>
+</layer-list>

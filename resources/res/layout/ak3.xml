@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <ImageView
+        layout_gravity="center_horizontal"
+        id="@+id/e_q"
+        duplicateParentState="true"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginTop="@dimen/m1"
+        layout_marginBottom="@dimen/m1"
+        contentDescription="@null"/>
+    <X.C80137Vcj
+        layout_gravity="bottom|center_horizontal"
+        id="@+id/ff4"
+        paddingBottom="@dimen/m0"
+        duplicateParentState="true"
+        clipChildren="false"
+        clipToPadding="false"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <TextView
+            textSize="@dimen/m3"
+            ellipsize="end"
+            id="@+id/k5f"
+            duplicateParentState="true"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            maxLines="1"/>
+        <TextView
+            textSize="@dimen/lu"
+            ellipsize="end"
+            id="@+id/ffq"
+            visibility="invisible"
+            duplicateParentState="true"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            maxLines="1"/>
+    </X.C80137Vcj>
+</merge>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/bsd"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C74084T5s
+        id="@+id/btf"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</FrameLayout>

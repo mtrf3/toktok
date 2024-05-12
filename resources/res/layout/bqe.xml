@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    id="@+id/i_y"
+    visibility="gone"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        id="@+id/msc"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        NOT_FOUND_0x11="51"/>
+    <View
+        id="@+id/ka5"
+        background="?attr/dj"
+        layout_width="1dp"
+        layout_height="10dp"
+        layout_marginTop="3dp"
+        layout_marginBottom="3dp"
+        alpha="0.75"
+        layout_marginStart="8dp"
+        layout_marginEnd="8dp"/>
+    <RelativeLayout
+        id="@+id/ia4"
+        clipChildren="false"
+        layout_width="0dp"
+        layout_height="match_parent"
+        layout_weight="1">
+        <HorizontalScrollView
+            scrollbars="none"
+            layout_width="wrap_content"
+            layout_height="match_parent"
+            layout_centerVertical="true"
+            layout_alignParentStart="true">
+            <X.C86369Xv3
+                orientation="horizontal"
+                id="@+id/ia3"
+                layout_width="wrap_content"
+                layout_height="match_parent"/>
+        </HorizontalScrollView>
+    </RelativeLayout>
+</LinearLayout>

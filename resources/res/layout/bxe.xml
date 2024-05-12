@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/h6b"
+    background="?attr/d4"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.SYL
+        id="@+id/h6f"
+        layout_width="0dp"
+        layout_height="0dp"
+        layout_marginTop="15dp"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xe="@+id/h6e"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/h6h"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginTop="54dp"
+        layout_marginStart="16dp"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x11="@raw/icon_x_mark"
+        NOT_FOUND_0x12="?attr/dj"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        id="@+id/h6e"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="56dp"
+        text="@string/iz9"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x10="33"/>
+    <ViewStub
+        id="@+id/h88"
+        layout="@layout/bxd"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0xb="0"/>
+    <X.C73305Spp
+        theme="@style/uw"
+        id="@+id/a73"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="0dp"
+        layout_marginTop="10dp"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xe="@+id/h6h"/>
+    <include layout="@layout/azi"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

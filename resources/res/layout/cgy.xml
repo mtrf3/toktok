@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="34dp">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="8dp"
+        text="@string/rxl"
+        layout_marginStart="16dp"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="33"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

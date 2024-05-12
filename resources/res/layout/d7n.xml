@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    layout_gravity="center_vertical"
+    orientation="horizontal"
+    clipChildren="false"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginEnd="16dp">
+    <X.C47121t6
+        textSize="13dp"
+        id="@+id/kz_"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        style="@style/a48"/>
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        layout_gravity="center"
+        id="@+id/dv5"
+        visibility="visible"
+        layout_width="12dp"
+        layout_height="12dp"
+        src="@drawable/d35"
+        layout_marginStart="2dp"/>
+    <X.C41081jM
+        layout_gravity="center_vertical"
+        id="@+id/kyl"
+        padding="@dimen/o2"
+        visibility="gone"
+        layout_width="32dp"
+        layout_height="32dp"
+        alpha="0.9"
+        layout_marginStart="-8dp"/>
+    <View
+        id="@+id/kz4"
+        background="@drawable/cky"
+        visibility="gone"
+        layout_width="6dp"
+        layout_height="6dp"/>
+</LinearLayout>

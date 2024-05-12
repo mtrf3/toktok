@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+    <size
+        height="@dimen/aga"
+        width="@dimen/agb"/>
+    <solid color="@color/cz"/>
+    <corners radius="@dimen/ag_"/>
+    <stroke
+        width="@dimen/aad"
+        color="#ffffff"/>
+</shape>

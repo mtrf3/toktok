@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item id="@android:id/background">
+        <shape>
+            <corners radius="5dp"/>
+            <solid color="@color/v5"/>
+        </shape>
+    </item>
+    <item id="@android:id/secondaryProgress">
+        <clip>
+            <shape shape="line">
+                <solid color="@color/v5"/>
+                <corners radius="5dp"/>
+            </shape>
+        </clip>
+    </item>
+    <item id="@android:id/progress">
+        <clip>
+            <shape>
+                <corners radius="5dp"/>
+                <solid color="@color/x5"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

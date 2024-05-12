@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    id="@+id/c8i"
+    paddingLeft="16dp"
+    paddingRight="16dp"
+    visibility="gone"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gu"
+        id="@+id/c84"
+        paddingTop="12dp"
+        paddingBottom="12dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x9="41"/>
+</LinearLayout>

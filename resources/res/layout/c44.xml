@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C59556NYy
+    id="@+id/d44"
+    layout_width="match_parent"
+    layout_height="40dp">
+    <LinearLayout
+        orientation="horizontal"
+        id="@+id/d49"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <View
+        id="@+id/d41"
+        background="?attr/go"
+        layout_width="40dp"
+        layout_height="2dp"
+        layout_marginLeft="200dp"
+        layout_marginBottom="0.5dp"
+        layout_alignParentBottom="true"
+        layout_marginStart="200dp"/>
+    <View
+        background="?attr/dz"
+        layout_width="match_parent"
+        layout_height="0.5dp"/>
+    <View
+        background="?attr/dz"
+        layout_width="match_parent"
+        layout_height="0.5dp"
+        layout_alignParentBottom="true"/>
+</X.C59556NYy>

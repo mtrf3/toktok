@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C80539VjD
+    gravity="center"
+    id="@+id/glv"
+    addStatesFromChildren="false"
+    descendantFocusability="afterDescendants"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    listSelector="@android:color/transparent"
+    horizontalSpacing="@dimen/a17"
+    verticalSpacing="@dimen/a18"/>

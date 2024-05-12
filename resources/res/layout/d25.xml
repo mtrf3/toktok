@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    background="?attr/ef"
+    layout_width="wrap_content"
+    layout_height="match_parent">
+    <X.C47121t6
+        textColor="?attr/dl"
+        layout_gravity="center"
+        id="@android:id/text1"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxLines="1"
+        style="@style/a45"/>
+</FrameLayout>

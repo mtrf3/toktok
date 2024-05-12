@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C7TT
+    orientation="vertical"
+    background="?attr/cl"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/ekk"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_weight="1"/>
+    <Space
+        id="@+id/arj"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</X.C7TT>

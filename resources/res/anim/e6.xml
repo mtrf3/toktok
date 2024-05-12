@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <alpha
+        duration="@integer/bl"
+        fromAlpha="0"
+        toAlpha="1"/>
+    <scale
+        duration="@integer/bl"
+        pivotX="50%"
+        pivotY="50%"
+        fromXScale="0"
+        toXScale="1"
+        fromYScale="0"
+        toYScale="1"/>
+</set>

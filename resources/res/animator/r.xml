@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <objectAnimator
+        interpolator="@interpolator/l"
+        duration="15"
+        startOffset="30"
+        propertyName="opacity"/>
+    <objectAnimator
+        interpolator="@interpolator/m"
+        duration="330"
+        startOffset="0"
+        propertyName="scale"/>
+    <objectAnimator
+        interpolator="@interpolator/m"
+        duration="240"
+        startOffset="90"
+        propertyName="iconScale"/>
+</set>

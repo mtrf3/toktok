@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="oval">
+    <size
+        height="@dimen/cp"
+        width="@dimen/cp"/>
+    <solid color="@android:color/white"/>
+</shape>

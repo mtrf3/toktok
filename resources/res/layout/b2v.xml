@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_horizontal"
+    orientation="vertical"
+    descendantFocusability="blocksDescendants"
+    layout_width="64dp"
+    layout_height="wrap_content">
+    <View
+        id="@+id/bbv"
+        background="@drawable/bj7"
+        layout_width="@dimen/t3"
+        layout_height="@dimen/t3"/>
+    <Space
+        layout_width="match_parent"
+        layout_height="6dp"/>
+    <FrameLayout
+        background="@drawable/bj8"
+        layout_width="48dp"
+        layout_height="18dp"/>
+</LinearLayout>

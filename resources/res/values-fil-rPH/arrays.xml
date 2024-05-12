@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Online na sound library</item>
+        <item>Aking Tunog</item>
+    </array>
+    <array name="q">
+        <item>Burahin</item>
+        <item>Kanselahin</item>
+    </array>
+    <array name="r">
+        <item>Nagte-trending</item>
+        <item>Pinakabago</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>Linggo</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miyerkules</item>
+        <item>Huwebes</item>
+        <item>Biyernes</item>
+        <item>Sabado</item>
+    </array>
+    <array name="a5">
+        <item>Pinadaling maintindihang Tsino</item>
+        <item>Tradisyonal na Chinese</item>
+        <item>Ingles</item>
+        <item>Hapones</item>
+        <item>Korean</item>
+        <item>Ruso</item>
+        <item>Indonesian</item>
+        <item>Malay</item>
+        <item>Portuguese</item>
+        <item>Thai</item>
+        <item>Vietnamese</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Normal</item>
+        <item>Itim/Puti</item>
+        <item>Sining</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Saturated</item>
+        <item>Chrome</item>
+    </array>
+    <array name="aa">
+        <item>Enero</item>
+        <item>Peb</item>
+        <item>Marso</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Hunyo</item>
+        <item>Hulyo</item>
+        <item>Agosto</item>
+        <item>Set</item>
+        <item>Okt</item>
+        <item>Nob</item>
+        <item>Dis</item>
+    </array>
+    <array name="ad">
+        <item>Unahin ang data-saving</item>
+        <item>Unahin ang high-resolution</item>
+    </array>
+    <array name="ae">
+        <item>Bawat isa</item>
+        <item>Mga Kaibigan Lamang</item>
+    </array>
+    <array name="bi">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miyerkules</item>
+        <item>Huwebes</item>
+        <item>Biyernes</item>
+        <item>Sabado</item>
+        <item>Linggo</item>
+    </array>
+</resources>

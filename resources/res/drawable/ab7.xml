@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <stroke
+        width="0.5dp"
+        color="?attr/eh"/>
+    <corners radius="2dp"/>
+    <solid color="@color/yi"/>
+</shape>

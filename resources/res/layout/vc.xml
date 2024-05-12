@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/dfo"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_above="@+id/buq"
+    layout_below="@+id/csx">
+    <ImageView
+        layout_gravity="center"
+        id="@+id/f8p"
+        padding="10dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        src="@drawable/ua"
+        layout_below="@+id/csx"/>
+</FrameLayout>

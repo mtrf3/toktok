@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.tag.TuxTag
+    id="@+id/i3s"
+    layout_width="wrap_content"
+    layout_height="22dp"
+    text="@string/sa6"
+    NOT_FOUND_0x4="?attr/dj"
+    NOT_FOUND_0x5="3"
+    NOT_FOUND_0x6="?attr/d4"/>

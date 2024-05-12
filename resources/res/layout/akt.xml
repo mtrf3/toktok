@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    paddingTop="8dp"
+    paddingBottom="8dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    baselineAligned="false"
+    paddingStart="10dp"
+    paddingEnd="10dp">
+    <FrameLayout
+        id="@+id/cover"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginStart="6dp"
+        layout_marginEnd="6dp"/>
+    <FrameLayout
+        layout_gravity="center_vertical"
+        id="@+id/desc"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_weight="1"
+        layout_marginStart="6dp"
+        layout_marginEnd="6dp"/>
+</LinearLayout>

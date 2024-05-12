@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="p_" parent="@style/p8">
+    </style>
+    <style name="pa" parent="@style/p8">
+    </style>
+    <style name="pb" parent="@style/pg">
+    </style>
+    <style name="pc" parent="@style/ph">
+    </style>
+    <style name="pd" parent="@style/pi">
+    </style>
+    <style name="pe" parent="@style/pj">
+    </style>
+    <style name="pf" parent="@style/ps">
+    </style>
+    <style name="qf" parent="@style/qb">
+    </style>
+    <style name="qg" parent="@style/qc">
+    </style>
+    <style name="qh" parent="@style/qd">
+    </style>
+    <style name="qi" parent="@style/qb">
+    </style>
+    <style name="qj" parent="@style/qd">
+    </style>
+    <style name="qk" parent="@style/qv">
+    </style>
+    <style name="ql" parent="@style/qw">
+    </style>
+    <style name="qm" parent="@style/qx">
+    </style>
+    <style name="qn" parent="@style/qy">
+    </style>
+    <style name="qo" parent="@style/qz">
+    </style>
+    <style name="qp" parent="@style/r0">
+    </style>
+    <style name="qq" parent="@style/r1">
+    </style>
+    <style name="qr" parent="@style/r2">
+    </style>
+    <style name="qs" parent="@style/r3">
+    </style>
+    <style name="qt" parent="@style/rl">
+    </style>
+    <style name="qu" parent="@style/rm">
+    </style>
+    <style name="s2" parent="@style/s0">
+    </style>
+    <style name="sq" parent="@style/sn">
+    </style>
+    <style name="zd" parent="@style/zf">
+    </style>
+    <style name="zh" parent="@style/zi">
+    </style>
+    <style name="zq" parent="@style/zo">
+    </style>
+    <style name="zt" parent="@style/zr">
+    </style>
+    <style name="a1q" parent="@style/a1o">
+    </style>
+    <style name="a2c" parent="@style/a2d">
+    </style>
+</resources>

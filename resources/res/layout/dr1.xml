@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    theme="@style/ul"
+    id="@+id/mtb"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/mtc"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

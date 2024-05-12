@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="@color/r2"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/i86"
+        visibility="invisible"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <androidx.cardview.widget.CardView
+        id="@+id/i91"
+        visibility="gone"
+        layout_width="80dp"
+        layout_height="80dp"
+        backgroundTint="?attr/d6"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0">
+        <X.C223338pd
+            layout_gravity="center"
+            id="@+id/i90"
+            layout_width="32dp"
+            layout_height="32dp"/>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

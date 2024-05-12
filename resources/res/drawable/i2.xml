@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    shape="rectangle"
+    useLevel="false">
+    <solid color="#20d5ec"/>
+    <size
+        height="160dp"
+        width="16dp"/>
+    <corners
+        topLeftRadius="0dp"
+        topRightRadius="0dp"
+        bottomLeftRadius="6dp"
+        bottomRightRadius="6dp"/>
+</shape>

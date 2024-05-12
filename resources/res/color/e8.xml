@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="true"
+        color="?attr/eb"/>
+    <item
+        state_enabled="true"
+        color="?attr/eb"/>
+    <item
+        state_enabled="false"
+        color="?attr/gp"/>
+    <item color="?attr/gp"/>
+</selector>

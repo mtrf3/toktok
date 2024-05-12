@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+    <solid color="@color/abo"/>
+    <corners
+        topLeftRadius="@dimen/ajb"
+        topRightRadius="@dimen/ajb"
+        bottomLeftRadius="@dimen/ajb"
+        bottomRightRadius="@dimen/ajb"/>
+    <size height="@dimen/aj_"/>
+</shape>

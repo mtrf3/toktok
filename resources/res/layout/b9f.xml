@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        id="@+id/mgt"
+        background="@color/t9"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</FrameLayout>

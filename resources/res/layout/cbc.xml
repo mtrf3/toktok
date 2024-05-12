@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    orientation="vertical"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C019005q
+        orientation="vertical"
+        id="@+id/e1y"
+        visibility="visible"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x14="12dp"/>
+    <X.C019005q
+        orientation="vertical"
+        id="@+id/e25"
+        visibility="visible"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x13="0dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dk"
+        layout_gravity="end"
+        id="@+id/mbf"
+        background="@drawable/a0g"
+        paddingTop="12dp"
+        paddingBottom="12dp"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        text="Hi, I want a funny video."
+        textIsSelectable="true"
+        paddingStart="16dp"
+        paddingEnd="16dp"
+        layout_marginStart="48dp"
+        NOT_FOUND_0x10="true"
+        NOT_FOUND_0x12="@+id/e1y"
+        NOT_FOUND_0x15="1"
+        NOT_FOUND_0x16="@+id/e25"
+        NOT_FOUND_0x17="0"
+        NOT_FOUND_0x18="-2"
+        NOT_FOUND_0x1a="41"/>
+    <androidx.appcompat.widget.AppCompatImageView
+        layout_gravity="start|bottom"
+        id="@+id/gnq"
+        visibility="visible"
+        layout_width="4dp"
+        layout_height="wrap_content"
+        NOT_FOUND_0x11="@+id/mbf"
+        NOT_FOUND_0x16="@+id/e1y"
+        NOT_FOUND_0x19="@drawable/pp"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C58049MqL
+        textColor="?attr/gu"
+        gravity="center"
+        layout_gravity="center_horizontal"
+        id="@+id/mq2"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        minHeight="32dp"
+        maxLines="2"
+        NOT_FOUND_0xa="61"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center_horizontal"
+        id="@+id/fcg"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="12dp"/>
+</LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <objectAnimator
+        duration="150"
+        startOffset="0"
+        propertyName="elevation"/>
+    <objectAnimator
+        duration="345"
+        startOffset="0"
+        propertyName="translationXLinear"/>
+    <objectAnimator
+        duration="150"
+        startOffset="0"
+        propertyName="translationXCurveUpwards"/>
+    <objectAnimator
+        duration="345"
+        startOffset="0"
+        propertyName="translationXCurveDownwards"/>
+    <objectAnimator
+        duration="345"
+        startOffset="0"
+        propertyName="translationYLinear"/>
+    <objectAnimator
+        duration="345"
+        startOffset="0"
+        propertyName="translationYCurveUpwards"/>
+    <objectAnimator
+        duration="150"
+        startOffset="0"
+        propertyName="translationYCurveDownwards"/>
+    <objectAnimator
+        duration="120"
+        startOffset="0"
+        propertyName="iconFade"/>
+    <objectAnimator
+        duration="255"
+        startOffset="45"
+        propertyName="expansion"/>
+    <objectAnimator
+        duration="75"
+        startOffset="75"
+        propertyName="color"/>
+    <objectAnimator
+        duration="150"
+        startOffset="150"
+        propertyName="contentFade"/>
+</set>

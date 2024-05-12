@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    padding="16dp"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <FrameLayout
+        id="@+id/cw4"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_alignParentRight="true"
+        layout_centerVertical="true"
+        layout_alignParentEnd="true">
+        <RadioButton
+            layout_gravity="center"
+            id="@+id/iln"
+            background="@drawable/abx"
+            visibility="gone"
+            clickable="false"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            checked="true"
+            button="@null"/>
+        <com.bytedance.tux.icon.TuxIconView
+            layout_gravity="end|center_vertical"
+            id="@+id/dlv"
+            layout_width="16dp"
+            layout_height="16dp"
+            NOT_FOUND_0x17="@raw/icon_chevron_right_offset_ltr"
+            NOT_FOUND_0x18="?attr/gv"/>
+    </FrameLayout>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        ellipsize="end"
+        gravity="start|center_vertical"
+        id="@+id/ff3"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginRight="12dp"
+        maxLines="1"
+        layout_toLeftOf="@+id/cw4"
+        layout_centerVertical="true"
+        textAlignment="viewStart"
+        layout_marginEnd="12dp"
+        layout_toStartOf="@+id/cw4"
+        NOT_FOUND_0x16="41"/>
+</RelativeLayout>

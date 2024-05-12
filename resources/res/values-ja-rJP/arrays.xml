@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>サウンドライブラリー</item>
+        <item>マイサウンド</item>
+    </array>
+    <array name="l">
+        <item>削除</item>
+    </array>
+    <array name="q">
+        <item>削除</item>
+        <item>キャンセル</item>
+    </array>
+    <array name="r">
+        <item>人気上昇中</item>
+        <item>最新</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="v">
+        <item>アルバムから選ぶ</item>
+    </array>
+    <array name="a3">
+        <item>日曜日</item>
+        <item>月曜日</item>
+        <item>火曜日</item>
+        <item>水曜日</item>
+        <item>木曜日</item>
+        <item>金曜日</item>
+        <item>土曜日</item>
+    </array>
+    <array name="a5">
+        <item>中国語 (簡体字)</item>
+        <item>中国語 (繁体字)</item>
+        <item>英語</item>
+        <item>日本語</item>
+        <item>韓国語</item>
+        <item>ロシア語</item>
+        <item>インドネシア語</item>
+        <item>マレー語</item>
+        <item>ポルトガル語</item>
+        <item>タイ語</item>
+        <item>ベトナム語</item>
+        <item>ヒンディー語</item>
+    </array>
+    <array name="a7">
+        <item>普通</item>
+        <item>白黒</item>
+        <item>アート</item>
+        <item>ビンテージ</item>
+        <item>レトロラックス</item>
+        <item>高彩度</item>
+        <item>クローム</item>
+    </array>
+    <array name="aa">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </array>
+    <array name="ad">
+        <item>データ通信量節約優先</item>
+        <item>高画質優先</item>
+    </array>
+    <array name="ae">
+        <item>誰でも</item>
+        <item>友達のみ</item>
+    </array>
+    <array name="bi">
+        <item>月曜日</item>
+        <item>火曜日</item>
+        <item>水曜日</item>
+        <item>木曜日</item>
+        <item>金曜日</item>
+        <item>土曜日</item>
+        <item>日曜日</item>
+    </array>
+</resources>

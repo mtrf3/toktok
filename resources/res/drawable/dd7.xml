@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_focused="true"
+        state_pressed="true"
+        drawable="@drawable/dd_"/>
+    <item
+        state_focused="false"
+        state_pressed="true"
+        drawable="@drawable/dd_"/>
+    <item
+        state_focused="true"
+        drawable="@drawable/dd_"/>
+    <item
+        state_enabled="false"
+        drawable="@drawable/dd9"/>
+    <item drawable="@drawable/dd8"/>
+</selector>

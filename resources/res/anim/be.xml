@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <scale
+        interpolator="@android:anim/accelerate_decelerate_interpolator"
+        duration="200"
+        pivotX="100%"
+        pivotY="0%"
+        fromXScale="0"
+        toXScale="1"
+        fromYScale="0"
+        toYScale="1"/>
+</set>

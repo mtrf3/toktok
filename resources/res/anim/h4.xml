@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <scale
+        pivotX="50%"
+        pivotY="50%"
+        fromXScale="1"
+        toXScale="1.19"
+        fromYScale="1"
+        toYScale="1.19"/>
+    <alpha
+        fromAlpha="0.6"
+        toAlpha="0"/>
+</set>

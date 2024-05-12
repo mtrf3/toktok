@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <translate
+        interpolator="@anim/by"
+        duration="180"
+        fromYDelta="50%p"
+        toYDelta="100%p"/>
+    <alpha
+        duration="180"
+        fromAlpha="1"
+        toAlpha="0"/>
+</set>

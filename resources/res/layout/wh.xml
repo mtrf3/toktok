@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C45631qh
+        id="@+id/gym"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <LinearLayout
+            orientation="vertical"
+            id="@+id/h37"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+    </X.C45631qh>
+    <FrameLayout
+        id="@+id/h2r"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <include layout="@layout/wg"/>
+    </FrameLayout>
+    <FrameLayout
+        id="@+id/gyv"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/g8s"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <include layout="@layout/wf"/>
+    </FrameLayout>
+    <View
+        layout_gravity="top"
+        id="@+id/bm0"
+        background="@drawable/aan"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="8dp"/>
+</FrameLayout>

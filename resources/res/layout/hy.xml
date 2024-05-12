@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="match_parent"
+    layout_height="28dp">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/h0"
+        gravity="center"
+        layout_gravity="center_horizontal"
+        id="@+id/klv"
+        background="@drawable/c7f"
+        paddingLeft="12dp"
+        paddingRight="12dp"
+        layout_width="wrap_content"
+        layout_height="28dp"
+        NOT_FOUND_0xd="52"/>
+    <X.C131865Fm
+        gravity="center"
+        layout_width="match_parent"
+        layout_height="28dp"
+        layout_marginLeft="10dp"
+        layout_marginRight="10dp"
+        NOT_FOUND_0xb="0xc"
+        NOT_FOUND_0xc="76dp">
+        <androidx.recyclerview.widget.RecyclerView
+            id="@+id/klx"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+    </X.C131865Fm>
+</merge>

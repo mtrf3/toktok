@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_marginTop="8dp">
+    <include layout="@layout/a5q"/>
+    <ViewStub
+        id="@+id/j0d"
+        layout="@layout/a5q"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/ffb"
+        visibility="gone"
+        layout_width="119dp"
+        layout_height="40dp"/>
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/ffd"
+        visibility="gone"
+        layout_width="119dp"
+        layout_height="40dp"/>
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/ff_"
+        visibility="gone"
+        layout_width="119dp"
+        layout_height="40dp"/>
+</FrameLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/gv"
+    gravity="center"
+    layout_width="@dimen/o6"
+    layout_height="@dimen/o5"
+    text="@string/hjo"
+    NOT_FOUND_0x5="61"/>

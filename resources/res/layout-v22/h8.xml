@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <TextView
+        textSize="12sp"
+        textColor="@color/bc"
+        ellipsize="end"
+        id="@+id/gw7"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxLines="1"
+        lineHeight="17sp"
+        textFontWeight="700"/>
+    <TextView
+        textSize="9sp"
+        textColor="@color/bd"
+        id="@+id/l8f"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        lineHeight="13sp"
+        textFontWeight="400"/>
+    <ImageView
+        id="@+id/ad2"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="44dp">
+    <ImageView
+        id="@+id/nmc"
+        padding="12dp"
+        layout_width="43dp"
+        layout_height="44dp"/>
+    <TextView
+        textColor="@color/ae6"
+        gravity="center"
+        id="@+id/nmd"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        paddingEnd="7dp"/>
+    <View
+        id="@+id/nmb"
+        background="@color/adp"
+        layout_width="0.5dp"
+        layout_height="match_parent"/>
+</LinearLayout>

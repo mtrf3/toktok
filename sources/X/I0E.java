@@ -1,0 +1,23 @@
+package X;
+
+/* loaded from: classes8.dex */
+public enum I0E {
+    NOW_PHOTO_PUBLISH_PAGE,
+    RECORD_LOCAL_MEDIA_SCENE,
+    CHOOSE_MUSIC_SCENE,
+    LIBRARY_MATERIAL_SCENE,
+    EFFECT_DISCOVER_SCENE,
+    EXTERIOR_PREVIEW_SCENE,
+    UGC_TEMPLATE_RECORD_PREVIEW_VIDEO_SCENE,
+    ALBUM_TAB_CONTENT_SCENE,
+    RECORD_DUET_MODE,
+    RECORD_LIVE_SCENE,
+    RECORD_MV_SCENE,
+    TEXT_SCENE,
+    EXTEND_ALBUM_SCENE,
+    NON_COVER_SCENE;
+
+    public static I0E valueOf(String str) {
+        return (I0E) V0N.LJJJ(I0E.class, str);
+    }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C53691L5j
+        id="@+id/dfe"
+        layout_width="58dp"
+        layout_height="58dp">
+        <X.SJO
+            layout_gravity="center"
+            id="@+id/ad0"
+            layout_width="56dp"
+            layout_height="56dp"
+            NOT_FOUND_0x4="?attr/cf"
+            NOT_FOUND_0x5="1dp"/>
+    </X.C53691L5j>
+</FrameLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    orientation="vertical"
+    background="@color/lk"
+    layout_width="match_parent"
+    layout_height="41dp">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="@color/bd"
+        id="@+id/fub"
+        layout_width="wrap_content"
+        layout_height="17dp"
+        text="@string/l9y"
+        layout_marginStart="14dp"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="62"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="?attr/ca"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.SYL
+        id="@+id/dq2"
+        layout_width="match_parent"
+        layout_height="150dp"
+        NOT_FOUND_0x8="0"/>
+    <X.C08X
+        name="com.ss.android.ugc.aweme.story.feed.immersive.gallery.StoryViewerListFragment"
+        id="@+id/dmb"
+        layout_width="match_parent"
+        layout_height="0dp"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="@+id/dq2"
+        NOT_FOUND_0x9="1"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

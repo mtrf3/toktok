@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    padding="16dp"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <View
+        id="@+id/cdm"
+        background="@color/bx"
+        layout_width="35dp"
+        layout_height="0.5dp"/>
+    <X.C47121t6
+        textColor="@color/cu"
+        gravity="center"
+        id="@+id/iqo"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_marginLeft="8dp"
+        layout_marginRight="8dp"
+        layout_weight="1"
+        style="@style/a49"/>
+    <View
+        id="@+id/cdr"
+        background="@color/bx"
+        layout_width="35dp"
+        layout_height="0.5dp"/>
+</LinearLayout>

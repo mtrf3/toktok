@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <gradient
+        startColor="?attr/ed"
+        endColor="@color/yi"
+        angle="90"
+        centerY="0.1"/>
+    <corners
+        radius="10dp"
+        topLeftRadius="0dp"
+        topRightRadius="0dp"
+        bottomLeftRadius="10dp"
+        bottomRightRadius="10dp"/>
+    <stroke
+        width="4dp"
+        color="@color/yi"/>
+</shape>

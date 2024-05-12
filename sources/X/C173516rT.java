@@ -1,0 +1,123 @@
+package X;
+
+import Y.ARunnableS38S0100000_2;
+import android.animation.ObjectAnimator;
+import android.widget.FrameLayout;
+import android.widget.ImageView;
+import androidx.recyclerview.widget.RecyclerView;
+import com.ss.android.ugc.aweme.views.IDlS62S0100000_2;
+import com.zhiliaoapp.musically.R;
+
+/* renamed from: X.6rT, reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes3.dex */
+public final class C173516rT extends RecyclerView.ViewHolder {
+    public final FrameLayout LJLIL;
+    public final InterfaceC173506rS LJLILLLLZI;
+    public final ImageView LJLJI;
+    public final C81232VuO LJLJJI;
+    public ObjectAnimator LJLJJL;
+    public int LJLJJLL;
+    public long LJLJL;
+
+    public final void L() {
+        ObjectAnimator objectAnimator;
+        ObjectAnimator objectAnimator2 = this.LJLJJL;
+        if (objectAnimator2 != null && objectAnimator2.isRunning() && (objectAnimator = this.LJLJJL) != null) {
+            objectAnimator.cancel();
+        }
+        ImageView imageView = this.LJLJI;
+        if (imageView == null) {
+            return;
+        }
+        imageView.setRotation(0.0f);
+    }
+
+    public final void M(int i) {
+        int i2;
+        if (getAdapterPosition() == 0 || i == (i2 = this.LJLJJLL)) {
+            return;
+        }
+        this.LJLJJLL = i;
+        if (i != 0) {
+            if (i != 1) {
+                if (i != 2) {
+                    if (i != 3) {
+                        return;
+                    }
+                } else {
+                    this.LJLJL = System.currentTimeMillis();
+                    ImageView imageView = this.LJLJI;
+                    if (imageView != null) {
+                        imageView.setVisibility(0);
+                    }
+                    ImageView imageView2 = this.LJLJI;
+                    if (imageView2 != null) {
+                        imageView2.setImageResource(R.drawable.th);
+                    }
+                    ImageView imageView3 = this.LJLJI;
+                    if (imageView3 == null) {
+                        return;
+                    }
+                    ObjectAnimator ofFloat = ObjectAnimator.ofFloat(imageView3, "rotation", 0.0f, 360.0f);
+                    this.LJLJJL = ofFloat;
+                    if (ofFloat != null) {
+                        ofFloat.setDuration(800L);
+                    }
+                    ObjectAnimator objectAnimator = this.LJLJJL;
+                    if (objectAnimator != null) {
+                        objectAnimator.setRepeatMode(1);
+                    }
+                    ObjectAnimator objectAnimator2 = this.LJLJJL;
+                    if (objectAnimator2 != null) {
+                        objectAnimator2.setRepeatCount(-1);
+                    }
+                    ObjectAnimator objectAnimator3 = this.LJLJJL;
+                    if (objectAnimator3 == null) {
+                        return;
+                    }
+                    objectAnimator3.start();
+                    return;
+                }
+            } else {
+                if (2 == i2 && this.LJLJL > 0) {
+                    long currentTimeMillis = System.currentTimeMillis() - this.LJLJL;
+                    if (currentTimeMillis >= 100) {
+                        ImageView imageView4 = this.LJLJI;
+                        if (imageView4 != null) {
+                            imageView4.setVisibility(8);
+                        }
+                        L();
+                        return;
+                    }
+                    this.itemView.postDelayed(new ARunnableS38S0100000_2(this, 143), 100 - currentTimeMillis);
+                    return;
+                }
+                ImageView imageView5 = this.LJLJI;
+                if (imageView5 != null) {
+                    imageView5.setVisibility(8);
+                }
+                L();
+                return;
+            }
+        }
+        ImageView imageView6 = this.LJLJI;
+        if (imageView6 != null) {
+            imageView6.setImageResource(R.drawable.b5f);
+        }
+        ImageView imageView7 = this.LJLJI;
+        if (imageView7 != null) {
+            imageView7.setVisibility(0);
+        }
+        L();
+    }
+
+    public C173516rT(FrameLayout frameLayout, InterfaceC173506rS interfaceC173506rS) {
+        super(frameLayout);
+        this.LJLIL = frameLayout;
+        this.LJLILLLLZI = interfaceC173506rS;
+        this.LJLJJLL = -1;
+        this.LJLJI = (ImageView) this.itemView.findViewById(R.id.eyc);
+        this.LJLJJI = (C81232VuO) this.itemView.findViewById(R.id.ek5);
+        C16880lQ.LJIIJ(new IDlS62S0100000_2(this, (AbstractC156316Bn<Object>) 46), this.itemView);
+    }
+}

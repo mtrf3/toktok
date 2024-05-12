@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_pressed="true"
+        drawable="@color/aae"/>
+    <item drawable="@android:color/transparent"/>
+</selector>

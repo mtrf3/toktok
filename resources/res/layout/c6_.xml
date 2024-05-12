@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="24dp"
+    layout_height="24dp"
+    layout_marginTop="4dp"
+    layout_marginEnd="16dp">
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="end|bottom"
+        id="@+id/gqw"
+        layout_width="20dp"
+        layout_height="20dp"
+        layout_marginBottom="1dp"
+        layout_marginEnd="1dp"
+        NOT_FOUND_0x7="@raw/icon_featured_video"
+        NOT_FOUND_0x8="20dp"
+        NOT_FOUND_0x9="20dp"
+        NOT_FOUND_0xa="?attr/go"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/gr7"
+        layout_width="24dp"
+        layout_height="24dp"
+        NOT_FOUND_0x7="@raw/icon_color_right_bottom_plus"
+        NOT_FOUND_0x8="24dp"
+        NOT_FOUND_0x9="24dp"/>
+</FrameLayout>

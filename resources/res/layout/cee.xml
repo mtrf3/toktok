@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        layout_width="match_parent"
+        layout_height="52dp">
+        <X.C170466mY
+            textStyle="bold"
+            textColor="@color/ck"
+            gravity="center_vertical"
+            id="@+id/lya"
+            layout_width="wrap_content"
+            layout_height="match_parent"
+            layout_marginLeft="16dp"
+            shadowColor="?attr/ei"
+            shadowRadius="2"
+            layout_marginStart="16dp"
+            NOT_FOUND_0xa="7"
+            style="@style/a78"/>
+    </FrameLayout>
+</FrameLayout>

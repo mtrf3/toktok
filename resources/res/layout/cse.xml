@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="75dp"
+    layout_height="120dp">
+    <com.bytedance.lighten.loader.SmartImageView
+        layout_gravity="bottom"
+        id="@+id/abh"
+        layout_width="80dp"
+        layout_height="80dp"
+        NOT_FOUND_0x4="2"
+        NOT_FOUND_0x5="@drawable/amr"
+        NOT_FOUND_0x6="2dp"/>
+</FrameLayout>

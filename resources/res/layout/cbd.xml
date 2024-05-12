@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    fitsSystemWindows="true"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        ellipsize="end"
+        id="@+id/mbf"
+        background="@drawable/a0h"
+        paddingTop="12dp"
+        paddingBottom="12dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxWidth="200dp"
+        text="Hi, I want a funny video. And please show me how to improve it"
+        maxLines="6"
+        paddingStart="16dp"
+        paddingEnd="16dp"
+        NOT_FOUND_0xe="51"/>
+</FrameLayout>

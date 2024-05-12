@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/fmm"
+    background="?attr/d4"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C162656Zx
+        id="@+id/i1m"
+        visibility="invisible"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ImageView
+        layout_gravity="center"
+        id="@+id/ewm"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <View
+        layout_gravity="bottom"
+        id="@+id/jku"
+        background="@color/cz"
+        layout_width="match_parent"
+        layout_height="40dp"/>
+</FrameLayout>

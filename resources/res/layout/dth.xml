@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.ies.ugc.aweme.commercialize.splash.topview.mask.TopViewSkipButton
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/n2l"
+        focusable="true"
+        visibility="gone"
+        clickable="true"
+        layout_width="0dp"
+        layout_height="38dp"
+        NOT_FOUND_0x11="@+id/mkf"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x14="0"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/ct"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/mkf"
+        background="@drawable/c6d"
+        paddingLeft="10dp"
+        paddingRight="10dp"
+        layout_width="wrap_content"
+        layout_height="24dp"
+        layout_marginTop="14dp"
+        layout_marginRight="10dp"
+        text="@string/rio"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x14="0"
+        NOT_FOUND_0x15="71"/>
+    <View
+        id="@+id/adz"
+        focusable="true"
+        clickable="true"
+        layout_width="0dp"
+        layout_height="0dp"
+        NOT_FOUND_0xf="@+id/mkf"
+        NOT_FOUND_0x10="@+id/mkf"
+        NOT_FOUND_0x13="@+id/mkf"
+        NOT_FOUND_0x14="@+id/mkf"/>
+</com.bytedance.ies.ugc.aweme.commercialize.splash.topview.mask.TopViewSkipButton>

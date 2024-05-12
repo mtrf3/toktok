@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/lut"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="80dp"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xf="@raw/icon_large_person"
+        NOT_FOUND_0x10="70dp"
+        NOT_FOUND_0x11="70dp"
+        NOT_FOUND_0x12="?attr/gv"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        id="@+id/lv_"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="21dp"
+        text="@string/hdf"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="@+id/lut"
+        NOT_FOUND_0xe="32"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        gravity="center"
+        id="@+id/lub"
+        paddingBottom="101dp"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_marginLeft="32dp"
+        layout_marginTop="12dp"
+        layout_marginRight="32dp"
+        text="@string/hdg"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="@+id/lv_"
+        NOT_FOUND_0xe="51"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

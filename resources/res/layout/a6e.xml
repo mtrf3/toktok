@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.ss.android.ugc.aweme.base.ui.SmartAvatarImageView
+        id="@+id/abh"
+        layout_width="22dp"
+        layout_height="22dp"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x11="0"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        gravity="center_vertical"
+        id="@+id/n1a"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        minHeight="17dp"
+        layout_marginStart="5dp"
+        NOT_FOUND_0xc="@+id/abh"
+        NOT_FOUND_0xe="@+id/abh"
+        NOT_FOUND_0x11="@+id/abh"
+        NOT_FOUND_0x12="62"/>
+    <X.LTF
+        id="@+id/kbs"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="@dimen/o2"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x10="@+id/abh"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gv"
+        ellipsize="end"
+        gravity="start"
+        id="@+id/k2o"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="8dp"
+        maxLines="1"
+        textAlignment="viewStart"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x10="@+id/kbs"
+        NOT_FOUND_0x12="61"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

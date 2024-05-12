@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/i3s"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginEnd="@dimen/o2">
+    <com.bytedance.tux.tag.TuxTag
+        gravity="center"
+        id="@+id/l0f"
+        layout_width="wrap_content"
+        layout_height="22dp"
+        layout_marginTop="0.5dp"
+        text="@string/sa6"
+        NOT_FOUND_0x7="?attr/dj"
+        NOT_FOUND_0x8="3"
+        NOT_FOUND_0x9="?attr/d4"/>
+</FrameLayout>

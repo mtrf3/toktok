@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    layout_width="wrap_content"
+    layout_height="match_parent"
+    layout_centerVertical="true">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/j9"
+        gravity="center"
+        layout_gravity="center_vertical"
+        id="@+id/dit"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <X.C26773Af3
+        textColor="?attr/j9"
+        gravity="start|center_vertical"
+        layout_gravity="center_vertical"
+        id="@+id/ckc"
+        layout_width="50dp"
+        layout_height="wrap_content"
+        layout_marginStart="2dp"/>
+</LinearLayout>

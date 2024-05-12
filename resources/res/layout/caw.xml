@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/j1s"
+    background="@drawable/c0p"
+    layout_width="wrap_content"
+    layout_height="16dp"
+    paddingStart="5dp"
+    paddingEnd="5dp">
+    <com.bytedance.tux.input.TuxTextView
+        textSize="10sp"
+        textColor="#ffffffff"
+        id="@+id/j1q"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_toRightOf="@+id/j1r"
+        layout_centerVertical="true"
+        fontFamily="Proxima Nova"
+        NOT_FOUND_0xc="@integer/a8"/>
+    <ImageView
+        id="@+id/j1r"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</RelativeLayout>

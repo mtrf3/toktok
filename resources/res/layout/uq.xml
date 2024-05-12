@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/bs8"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C45621qg
+        id="@+id/bv5"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_alignParentBottom="true">
+        <View
+            id="@+id/liz"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            soundEffectsEnabled="false"
+            importantForAccessibility="no"/>
+        <X.C74084T5s
+            layout_gravity="top|center_horizontal"
+            id="@+id/bn4"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            NOT_FOUND_0x7="com.bytedance.ies.bullet.service.popup.anim.BottomSheetBehavior"
+            style="?attr/ze"/>
+    </X.C45621qg>
+</RelativeLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/bdn"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/dhi"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/dfm"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <View
+        id="@+id/gradual_top"
+        background="@drawable/ah9"
+        layout_width="match_parent"
+        layout_height="108dp"
+        NOT_FOUND_0x5="0"/>
+    <X.C94F
+        id="@+id/def"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/dh0"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <View
+        id="@+id/gradual_bottom"
+        background="@drawable/ah8"
+        layout_width="match_parent"
+        layout_height="90dp"
+        NOT_FOUND_0x4="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    shape="ring"
+    useLevel="false"
+    innerRadius="31dp"
+    thickness="2dp">
+    <gradient
+        startColor="#ff1764"
+        endColor="#ed3495"
+        angle="270"
+        type="linear"/>
+</shape>

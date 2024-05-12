@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="a">
+        <item>@id/p</item>
+        <item>@id/x</item>
+        <item>@id/w</item>
+        <item>@id/t</item>
+    </array>
+    <array name="b">
+        <item>@id/r</item>
+        <item>@id/r</item>
+        <item>@id/u</item>
+    </array>
+    <array name="c">
+        <item>@string/ddf</item>
+    </array>
+    <array name="d">
+        <item>@string/b4d</item>
+        <item>@string/b4e</item>
+        <item>@string/cg_</item>
+    </array>
+    <array name="e">
+        <item>@string/b4d</item>
+        <item>@string/b4e</item>
+        <item>@string/cg_</item>
+    </array>
+    <array name="f">
+        <item>Afrikaans</item>
+        <item>Bahasa Indonesia</item>
+        <item>Bahasa Malaysia</item>
+        <item>Basa Jawa</item>
+        <item>Cebuano</item>
+        <item>Čeština</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Español</item>
+        <item>Filipino</item>
+        <item>Français</item>
+        <item>IsiZulu</item>
+        <item>Italiano</item>
+        <item>Magyar</item>
+        <item>Nederlands</item>
+        <item>Polski</item>
+        <item>Português (Brasil)</item>
+        <item>Română</item>
+        <item>Sesotho sa Leboa</item>
+        <item>Svenska</item>
+        <item>Tiếng Việt</item>
+        <item>Türkçe</item>
+        <item>Ελληνικά</item>
+        <item>Русский</item>
+        <item>Українська</item>
+        <item>لغة عربية</item>
+        <item>मराठी</item>
+        <item>हिन्दी</item>
+        <item>বাংলা</item>
+        <item>ਪੰਜਾਬੀ</item>
+        <item>ગુજરાતી</item>
+        <item>ଓଡ଼ିଆ</item>
+        <item>தமிழ்</item>
+        <item>తెలుగు</item>
+        <item>ಕನ್ನಡ</item>
+        <item>മലയാളം</item>
+        <item>ภาษาไทย</item>
+        <item>မြန်မာဘာသာ</item>
+        <item>ភាសាខ្មែរ</item>
+        <item>한국어</item>
+        <item>日本語</item>
+        <item>繁體中文</item>
+        <item>العربية</item>
+    </array>
+    <array name="g">
+        <item>/api/ad/v2/ack/splash/</item>
+        <item>/service/1/update_token/</item>
+        <item>/service/1/z_app_stats/</item>
+        <item>/service/2/device_register/</item>
+        <item>/service/2/log_settings/</item>
+        <item>/aweme/v1/aweme/detail/</item>
+        <item>/cloudpush/update_sender/</item>
+        <item>/api/plugin/config/v1/</item>
+        <item>/ies/network/aweme/</item>
+        <item>/cloudpush/callback/android_red_badge/</item>
+        <item>/aweme/v1/check/in/</item>
+        <item>/aweme/v1/user/</item>
+        <item>/2/user/info/</item>
+        <item>/api/ad/splash/aweme/v14/</item>
+        <item>/api/apps/device/blacklist</item>
+        <item>/api/plugin/config/v1</item>
+        <item>/aweme/v1/abtest/param/</item>
+        <item>/aweme/v1/aweme/stats/</item>
+        <item>/aweme/v1/commerce/settings</item>
+        <item>/aweme/v1/feed/</item>
+        <item>/aweme/v1/im/reboot/misc/</item>
+        <item>/aweme/v1/im/resources/sticker/list/</item>
+        <item>/aweme/v1/im/unreaditems</item>
+        <item>/aweme/v1/notice/count/</item>
+        <item>/aweme/v1/room/recommended/avatars/</item>
+        <item>/aweme/v1/settings/</item>
+        <item>/aweme/v1/spotlight/relation/</item>
+        <item>/aweme/v1/story/</item>
+        <item>/aweme/v1/user/settings/</item>
+        <item>/aweme/v2/game/entry/</item>
+        <item>/aweme/v2/platform/share/settings/</item>
+        <item>/check_version/v6/</item>
+        <item>/common</item>
+        <item>/config</item>
+        <item>/gecko/server/package</item>
+        <item>/get_domains/v4/</item>
+        <item>/location/sulite</item>
+        <item>/log/collect</item>
+        <item>/monitor/appmonitor/v2/settings</item>
+        <item>/passport/token/beat/</item>
+        <item>/service/2/app_alert/</item>
+        <item>/service/2/app_log/</item>
+        <item>/service/settings/v2/</item>
+        <item>/v.s</item>
+        <item>/webcast/assets/effects/</item>
+        <item>/webcast/gift/list/</item>
+        <item>/webcast/qos/node_sort/</item>
+        <item>/webcast/setting/</item>
+        <item>/webcast/setting/i18n/package/</item>
+        <item>/webcast/tab/</item>
+        <item>/weasel/wukong/</item>
+        <item>/location/sulite/</item>
+        <item>/aweme/v1/im/cloud/token/</item>
+        <item>/service/1/app_notice_status/</item>
+        <item>/aweme/v1/upload/contacts/</item>
+        <item>/et_api/logview/verify</item>
+        <item>/v2/s</item>
+        <item>bytecdn</item>
+        <item>:10304</item>
+        <item>/v/</item>
+        <item>/push/get_service_addrs/</item>
+        <item>/aweme/v1/aweme/post</item>
+        <item>/service/2/app_notify/</item>
+        <item>/service/2/device_register/</item>
+        <item>update_sender</item>
+        <item>/passport/mobile/send_code/v1/</item>
+        <item>/passport/mobile/login/</item>
+        <item>/passport/mobile/sms_login/</item>
+        <item>/aweme/v1/follow/feed</item>
+        <item>/passport/open/check_login/</item>
+        <item>api/v1/be/user</item>
+        <item>/cloudpush/local_push/v1/report_launch/</item>
+        <item>/aweme/v1/sticker/detail/</item>
+        <item>/oauth/auth_info/</item>
+        <item>/oauth/auth_info/</item>
+        <item>/ucenter/idmpn/lscfg</item>
+        <item>/service/2/app_alert_check/</item>
+        <item>/weasel/v1/info/</item>
+    </array>
+    <array name="h">
+        <item>create</item>
+        <item>creating</item>
+        <item>shoot</item>
+        <item>shooting</item>
+    </array>
+    <array name="i">
+        <item>@string/clz</item>
+        <item>@string/cm0</item>
+        <item>@string/cm1</item>
+        <item>@string/cm2</item>
+        <item>@string/cm3</item>
+    </array>
+    <array name="j">
+        <item>account_and_safety</item>
+        <item>common_protocol</item>
+        <item>digital_wellbeing</item>
+        <item>feedback_and_help</item>
+        <item>helper_center</item>
+        <item>safety_center</item>
+        <item>terms_of_use</item>
+        <item>community_guidelines</item>
+        <item>privacy_policy</item>
+        <item>copyright_policy</item>
+        <item>open_debug_test</item>
+        <item>clear_cache</item>
+        <item>logout</item>
+        <item>data_saver</item>
+        <item>security_center</item>
+    </array>
+    <array name="k">
+        <item>Online sound library</item>
+        <item>My Sound</item>
+    </array>
+    <array name="l">
+        <item>Clean</item>
+    </array>
+    <array name="m">
+        <item>Primary</item>
+        <item>Primary2</item>
+        <item>Secondary</item>
+        <item>Secondary2</item>
+        <item>Link</item>
+        <item>Link2</item>
+        <item>Link3</item>
+        <item>Positive</item>
+        <item>Negative</item>
+        <item>ToastDefault</item>
+        <item>ToastNegative</item>
+        <item>TextPrimary</item>
+        <item>TextSecondary</item>
+        <item>TextTertiary</item>
+        <item>TextTertiary2</item>
+        <item>TextQuaternary</item>
+        <item>TextQuaternary2</item>
+        <item>TextReverse</item>
+        <item>TextReverse2</item>
+        <item>TextReverse3</item>
+        <item>TextReverse4</item>
+        <item>ConstTextInverse</item>
+        <item>ConstTextInverse2</item>
+        <item>ConstTextInverse3</item>
+        <item>ConstTextInverse4</item>
+        <item>ConstTextInverse5</item>
+        <item>BGPrimary</item>
+        <item>BGPrimary2</item>
+        <item>BGSecondary2</item>
+        <item>BGSecondary</item>
+        <item>BGTertiary</item>
+        <item>BGTertiary2</item>
+        <item>BGQuaternary</item>
+        <item>BGInput</item>
+        <item>BGInput2</item>
+        <item>BGPlaceholderDefault</item>
+        <item>BGPlaceholderOpaque</item>
+        <item>BGView</item>
+        <item>BGView2</item>
+        <item>BGCreation</item>
+        <item>BGCreation2</item>
+        <item>ConstBGInverse</item>
+        <item>ConstBGInverse2</item>
+        <item>BGInverse3</item>
+        <item>ConstBGContainer</item>
+        <item>ConstBGContainer2</item>
+        <item>ConstBGContainer3</item>
+        <item>BGReverse</item>
+        <item>BGReverse2</item>
+        <item>SDPrimary</item>
+        <item>SDSecondary</item>
+        <item>SDTertiary</item>
+        <item>ShadowPrimary</item>
+        <item>ShadowSecondary</item>
+        <item>LineInput</item>
+        <item>LinePrimary</item>
+        <item>LinePrimary2</item>
+        <item>LineSecondary</item>
+        <item>LineSecondary2</item>
+        <item>LineTertiary</item>
+        <item>LineReverse2</item>
+        <item>LineReverse3</item>
+        <item>LineInverse</item>
+        <item>ConstLineInverse</item>
+        <item>ConstLineInverse2</item>
+        <item>TagGreenText</item>
+        <item>TagGreenBG</item>
+        <item>TagPurpleText</item>
+        <item>TagPurpleBG</item>
+        <item>TagBrownText</item>
+        <item>TagBrownBG</item>
+    </array>
+    <array name="n">
+        <item>@array/o</item>
+        <item>@array/p</item>
+    </array>
+    <array name="o">
+        <item>MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=</item>
+    </array>
+    <array name="p">
+        <item>MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK</item>
+    </array>
+    <array name="q">
+        <item>Delete</item>
+        <item>Cancel</item>
+    </array>
+    <array name="r">
+        <item>Trending</item>
+        <item>Latest</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="s">
+        <item>@string/hkv</item>
+        <item>@string/tdc</item>
+        <item>@string/gt0</item>
+        <item>@string/evl</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="u">
+        <item>@color/qq</item>
+        <item>@color/fo</item>
+        <item>@color/jb</item>
+        <item>@color/l0</item>
+        <item>@color/kw</item>
+        <item>@color/rw</item>
+        <item>@color/m5</item>
+        <item>@color/t3</item>
+        <item>@color/f2</item>
+        <item>@color/sr</item>
+        <item>@color/m6</item>
+        <item>@color/rg</item>
+        <item>@color/ts</item>
+        <item>@color/sp</item>
+        <item>@color/l7</item>
+        <item>@color/l9</item>
+        <item>@color/dt</item>
+        <item>@color/ack</item>
+        <item>@color/l3</item>
+    </array>
+    <array name="v">
+        <item>Select from Gallery</item>
+    </array>
+    <array name="w">
+        <item>following feed</item>
+        <item>my following feed</item>
+        <item>following page</item>
+        <item>my following page</item>
+        <item>following videos</item>
+        <item>my following videos</item>
+        <item>following tab</item>
+        <item>my following tab</item>
+    </array>
+    <array name="x">
+        <item>for you feed</item>
+        <item>for you page</item>
+        <item>my for you feed</item>
+        <item>my for you page</item>
+        <item>for you tab</item>
+        <item>my for you tab</item>
+        <item>my feed</item>
+        <item>my feed page</item>
+        <item>my videos</item>
+        <item>best videos</item>
+        <item>new videos</item>
+        <item>hot videos</item>
+        <item>recommendations</item>
+        <item>my recommendations</item>
+        <item>recommended videos</item>
+    </array>
+    <array name="y">
+        <item>@string/sfq</item>
+        <item>@string/sft</item>
+        <item>@string/sfs</item>
+    </array>
+    <array name="z">
+        <item>@string/sfq</item>
+        <item>@string/gl6</item>
+        <item>@string/sfs</item>
+    </array>
+    <array name="a0">
+        <item>@string/sfq</item>
+        <item>@string/sft</item>
+        <item>@string/sfr</item>
+    </array>
+    <array name="a1">
+        <item>@string/sfq</item>
+        <item>@string/gl6</item>
+        <item>@string/sfr</item>
+    </array>
+    <array name="a2">
+        <item>Afrikaans</item>
+        <item>Bahasa Indonesia</item>
+        <item>Bahasa Malaysia</item>
+        <item>Basa Jawa</item>
+        <item>Cebuano</item>
+        <item>Čeština</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Español</item>
+        <item>Filipino</item>
+        <item>Français</item>
+        <item>IsiZulu</item>
+        <item>Italiano</item>
+        <item>Magyar</item>
+        <item>Nederlands</item>
+        <item>Polski</item>
+        <item>Português (Brasil)</item>
+        <item>Română</item>
+        <item>Sesotho sa Leboa</item>
+        <item>Svenska</item>
+        <item>Tiếng Việt</item>
+        <item>Türkçe</item>
+        <item>Ελληνικά</item>
+        <item>Русский</item>
+        <item>Українська</item>
+        <item>لغة عربية</item>
+        <item>मराठी</item>
+        <item>हिन्दी</item>
+        <item>বাংলা</item>
+        <item>ਪੰਜਾਬੀ</item>
+        <item>ગુજરાતી</item>
+        <item>ଓଡ଼ିଆ</item>
+        <item>தமிழ்</item>
+        <item>తెలుగు</item>
+        <item>ಕನ್ನಡ</item>
+        <item>മലയാളം</item>
+        <item>ภาษาไทย</item>
+        <item>မြန်မာဘာသာ</item>
+        <item>ភាសាខ្មែរ</item>
+        <item>한국어</item>
+        <item>日本語</item>
+        <item>繁體中文</item>
+        <item>العربية</item>
+    </array>
+    <array name="a3">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </array>
+    <array name="a4">
+        <item>video_play</item>
+        <item>video_play_finish</item>
+        <item>homepage_slide_up</item>
+        <item>homepage_slide_down</item>
+        <item>play_time</item>
+        <item>like</item>
+        <item>dislike</item>
+        <item>click_soundtrack</item>
+        <item>click_profile_icon</item>
+        <item>shoot</item>
+        <item>click_menu</item>
+        <item>click_report</item>
+        <item>choose_report_reason</item>
+        <item>submit_report</item>
+        <item>discover_preview_enter</item>
+        <item>click_manage_my_account</item>
+        <item>enter_password_settings</item>
+        <item>delete_account</item>
+        <item>select_language</item>
+        <item>log_out</item>
+        <item>click_drafts</item>
+        <item>click_delete</item>
+        <item>complete_delete</item>
+        <item>record_video</item>
+        <item>video_duration_select</item>
+        <item>flip_camera</item>
+        <item>choose_speed_mode</item>
+        <item>click_beauty</item>
+        <item>click_filter</item>
+        <item>click_timer</item>
+        <item>select_flash</item>
+        <item>click_effect</item>
+        <item>add_effect_favourite</item>
+        <item>remove_effect</item>
+        <item>click_upload_entrance</item>
+        <item>choose_upload_content</item>
+        <item>upload_content_next</item>
+        <item>click_video_trim</item>
+        <item>video_trim_next</item>
+        <item>video_trim_back</item>
+        <item>click_rotate</item>
+        <item>select_volume</item>
+        <item>banner_show</item>
+        <item>show_music</item>
+        <item>play_music</item>
+        <item>add_music</item>
+        <item>favorite_song</item>
+        <item>cancel_favorite_song</item>
+        <item>enter_song_category</item>
+        <item>select_voice_effect</item>
+        <item>enter_text</item>
+        <item>close_text</item>
+        <item>edit_text</item>
+        <item>complete_text</item>
+        <item>adjust_clip</item>
+        <item>click_next</item>
+        <item>select_cover</item>
+        <item>describe_video</item>
+        <item>click_save</item>
+        <item>click_back</item>
+        <item>app_launch</item>
+        <item>show_relaunch_app_popup</item>
+        <item>confirm_relaunch_app_popup</item>
+        <item>pns_popup_shown</item>
+        <item>pns_popup_approve</item>
+        <item>kids_show_screentime_setup_info</item>
+        <item>kids_show_screentime_setup_math</item>
+        <item>kids_respond_screentime_setup_math</item>
+        <item>kids_show_screentime_setup_code</item>
+        <item>kids_respond_screentime_setup_code</item>
+        <item>kids_show_screentime_setup_confirm_code</item>
+        <item>kids_respond_screentime_setup_confirm_code</item>
+        <item>kids_show_enter_screentime_code</item>
+        <item>kids_respond_enter_screentime_code</item>
+        <item>state_machine_user_load</item>
+        <item>state_machine_user_update</item>
+        <item>state_machine_user_add</item>
+        <item>state_machine_user_remove</item>
+        <item>state_machine_user_activate</item>
+        <item>state_machine_user_deactivate</item>
+    </array>
+    <array name="a5">
+        <item>Simplified Chinese</item>
+        <item>Traditional Chinese</item>
+        <item>English</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Russian</item>
+        <item>Indonesian</item>
+        <item>Malay</item>
+        <item>Portuguese</item>
+        <item>Thai</item>
+        <item>Vietnamese</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a6">
+        <item>/aweme/v1/feed/</item>
+        <item>/aweme/v1/commit/item/digg/</item>
+        <item>/aweme/v1/commit/follow/user/</item>
+        <item>/aweme/v1/aweme/post/</item>
+        <item>/aweme/v1/aweme/favorite/</item>
+        <item>/aweme/v1/general/search/</item>
+        <item>/aweme/v1/search/item/</item>
+        <item>/aweme/v2/shop/search/vertical/</item>
+        <item>/aweme/v2/follow/feed/</item>
+        <item>/aweme/v1/follow/feed/</item>
+        <item>/aweme/v1/follow/feed/recommend/</item>
+        <item>/aweme/v1/friend/feed/</item>
+    </array>
+    <array name="a7">
+        <item>Normal</item>
+        <item>Black/White</item>
+        <item>Arts</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Saturated</item>
+        <item>Chrome</item>
+    </array>
+    <array name="a8">
+        <item>#00ff748d</item>
+        <item>#11ff748d</item>
+        <item>#1eab84ff</item>
+        <item>#116b95ff</item>
+        <item>#006b95ff</item>
+    </array>
+    <array name="a9">
+        <item>0</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>0.9</item>
+        <item>1</item>
+    </array>
+    <array name="a_">
+    </array>
+    <array name="aa">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </array>
+    <array name="ab">
+        <item>@string/ia9</item>
+        <item>@string/ia_</item>
+        <item>@string/iaa</item>
+    </array>
+    <array name="ac">
+        <item>account_and_safety</item>
+        <item>common_protocol</item>
+        <item>digital_wellbeing</item>
+        <item>feedback_and_help</item>
+        <item>helper_center</item>
+        <item>safety_center</item>
+        <item>terms_of_use</item>
+        <item>community_guidelines</item>
+        <item>privacy_policy</item>
+        <item>copyright_policy</item>
+        <item>open_debug_test</item>
+        <item>clear_cache</item>
+        <item>logout</item>
+        <item>data_saver</item>
+    </array>
+    <array name="ad">
+        <item>Data-saving first</item>
+        <item>High-resolution first</item>
+    </array>
+    <array name="ae">
+        <item>Everyone</item>
+        <item>Friends only</item>
+    </array>
+    <array name="af">
+        <item>@string/clz</item>
+        <item>@string/cm0</item>
+        <item>@string/cm1</item>
+        <item>@string/cm2</item>
+        <item>@string/cm3</item>
+        <item>@string/g4v</item>
+    </array>
+    <array name="ag">
+        <item>@string/ia9</item>
+        <item>@string/cg_</item>
+    </array>
+    <array name="ah">
+        <item>@string/g4v</item>
+        <item>@string/cg_</item>
+    </array>
+    <array name="ai">
+        <item>@string/ia9</item>
+        <item>@string/ia_</item>
+        <item>@string/iaa</item>
+    </array>
+    <array name="aj">
+        <item>#e6000000</item>
+        <item>#00000000</item>
+    </array>
+    <array name="ak">
+        <item>0.8232</item>
+        <item>1</item>
+    </array>
+    <array name="al">
+        <item>#00000000</item>
+        <item>#4d000000</item>
+        <item>#80000000</item>
+    </array>
+    <array name="am">
+        <item>#00000000</item>
+        <item>#4d000000</item>
+    </array>
+    <array name="an">
+        <item>0</item>
+        <item>0.5</item>
+        <item>1</item>
+    </array>
+    <array name="ao">
+        <item>0</item>
+        <item>1</item>
+    </array>
+    <array name="ap">
+        <item>@drawable/bl4</item>
+    </array>
+    <array name="aq">
+        <item>@drawable/bl5</item>
+    </array>
+    <array name="ar">
+        <item>Normal</item>
+        <item>F1</item>
+        <item>F2</item>
+        <item>F3</item>
+        <item>F4</item>
+    </array>
+    <array name="as">
+        <item>normal</item>
+    </array>
+    <array name="at">
+        <item>Normal</item>
+    </array>
+    <array name="au">
+        <item>@drawable/au_</item>
+    </array>
+    <array name="av">
+        <item>#f1f1f1</item>
+        <item>#f5f5f5</item>
+        <item>#ffffff</item>
+    </array>
+    <array name="aw">
+        <item>0.557</item>
+        <item>0.8121</item>
+        <item>1</item>
+    </array>
+    <array name="ax">
+        <item>#eaf8f1</item>
+        <item>#f4f4f5</item>
+    </array>
+    <array name="ay">
+        <item>0</item>
+        <item>0.3772</item>
+    </array>
+    <array name="az">
+        <item>#16ff6b00</item>
+        <item>#14fff849</item>
+    </array>
+    <array name="b0">
+        <item>0.0153</item>
+        <item>0.999</item>
+    </array>
+    <array name="b1">
+        <item>#ffffff</item>
+        <item>#00ffffff</item>
+    </array>
+    <array name="b2">
+        <item>0</item>
+        <item>0.2593</item>
+    </array>
+    <array name="b3">
+        <item>#ffe89e</item>
+        <item>#fff1c3</item>
+    </array>
+    <array name="b4">
+        <item>0</item>
+        <item>1</item>
+    </array>
+    <array name="b5">
+        <item>@drawable/w2</item>
+    </array>
+    <array name="b6">
+        <item>@string/sfq</item>
+        <item>@string/gl6</item>
+    </array>
+    <array name="b7">
+        <item>@string/sfq</item>
+        <item>@string/sft</item>
+    </array>
+    <array name="b8">
+        <item>@string/sfq</item>
+        <item>@string/sft</item>
+        <item>@string/sfs</item>
+    </array>
+    <array name="b9">
+        <item>@string/sfq</item>
+        <item>@string/gl6</item>
+        <item>@string/sfs</item>
+    </array>
+    <array name="b_">
+        <item>@string/sfq</item>
+        <item>@string/sft</item>
+        <item>@string/sfr</item>
+    </array>
+    <array name="ba">
+        <item>@string/sfq</item>
+        <item>@string/gl6</item>
+        <item>@string/sfr</item>
+    </array>
+    <array name="bb">
+        <item>@drawable/d3d</item>
+    </array>
+    <array name="bc">
+        <item>#3b5876</item>
+        <item>#3d1d49</item>
+    </array>
+    <array name="bd">
+        <item>0</item>
+        <item>1</item>
+    </array>
+    <array name="be">
+        <item>@string/swr</item>
+        <item>@string/swu</item>
+        <item>@string/swn</item>
+        <item>@string/swx</item>
+        <item>@string/swo</item>
+    </array>
+    <array name="bf">
+    </array>
+    <array name="bg">
+        <item>@drawable/c85</item>
+    </array>
+    <array name="bh">
+        <item>AT701</item>
+        <item>F-03H</item>
+        <item>SO-02J</item>
+        <item>SM-G955W</item>
+        <item>Xperiaxe2x84xa2 M4 Aqua Dual</item>
+        <item>F05J</item>
+        <item>F-05J</item>
+    </array>
+    <array name="bi">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </array>
+    <array name="bj">
+        <item>#00fffaea</item>
+        <item>#00fffaea</item>
+    </array>
+    <array name="bk">
+        <item>#fffffaea</item>
+        <item>#00fffaea</item>
+    </array>
+    <array name="bl">
+        <item>#ffeff3fb</item>
+        <item>#00eff3fb</item>
+    </array>
+    <array name="bm">
+        <item>#fffdf3ee</item>
+        <item>#00fdf3ee</item>
+    </array>
+    <array name="bn">
+        <item>0</item>
+        <item>1</item>
+    </array>
+    <array name="bo">
+        <item>#ffffff</item>
+        <item>#ffffff</item>
+    </array>
+    <array name="bp">
+        <item>#14ef2114</item>
+        <item>#00ef4914</item>
+    </array>
+    <array name="bq">
+        <item>#14ff730e</item>
+        <item>#00ff650e</item>
+    </array>
+    <array name="br">
+        <item>#14ffc22a</item>
+        <item>#00ffc22a</item>
+    </array>
+    <array name="bs">
+        <item>0x26f13a62</item>
+        <item>0x26f98362</item>
+        <item>0x26fec56f</item>
+    </array>
+    <array name="bt">
+        <item>0</item>
+        <item>0.5</item>
+        <item>1</item>
+    </array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C47061t0
+        id="@+id/dsg"
+        background="@drawable/cex"
+        layout_width="28dp"
+        layout_height="28dp"/>
+    <X.C47121t6
+        textSize="13dp"
+        textColor="@color/bc"
+        ellipsize="end"
+        layout_gravity="center_vertical"
+        id="@+id/dsh"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxLines="5"
+        layout_marginStart="6dp"
+        style="@style/ov"/>
+</LinearLayout>

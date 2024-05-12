@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_focused="true"
+        state_enabled="false"
+        state_pressed="true"
+        drawable="@drawable/mo"/>
+    <item
+        state_focused="true"
+        state_enabled="false"
+        drawable="@drawable/mo"/>
+    <item
+        state_focused="true"
+        state_pressed="true"
+        drawable="@drawable/mm"/>
+    <item
+        state_focused="false"
+        state_pressed="true"
+        drawable="@drawable/mm"/>
+    <item
+        state_focused="true"
+        drawable="@drawable/mi"/>
+    <item drawable="@android:color/transparent"/>
+</selector>

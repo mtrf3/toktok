@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_pressed="true">
+        <shape>
+            <solid color="@color/am"/>
+            <stroke
+                width="3px"
+                color="@color/al"/>
+            <corners radius="6dp"/>
+            <padding
+                left="0dp"
+                top="0dp"
+                right="0dp"
+                bottom="0dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid color="@color/cz"/>
+            <stroke
+                width="3px"
+                color="@color/am"/>
+            <corners radius="6dp"/>
+            <padding
+                left="0dp"
+                top="0dp"
+                right="0dp"
+                bottom="0dp"/>
+        </shape>
+    </item>
+</selector>

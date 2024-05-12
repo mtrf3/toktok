@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/dce"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginRight="14dp"
+    layout_marginEnd="14dp">
+    <FrameLayout
+        layout_gravity="center_horizontal"
+        id="@+id/de_"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        minWidth="60dp">
+        <View
+            layout_gravity="end"
+            id="@+id/evo"
+            background="@drawable/a01"
+            visibility="gone"
+            layout_width="8dp"
+            layout_height="8dp"/>
+        <ImageView
+            layout_gravity="center_horizontal"
+            id="@+id/ez8"
+            visibility="gone"
+            layout_width="16dp"
+            layout_height="16dp"
+            layout_marginLeft="18dp"
+            layout_marginTop="38dp"
+            src="@drawable/tf"
+            scaleType="fitXY"
+            layout_marginStart="18dp"/>
+    </FrameLayout>
+</FrameLayout>

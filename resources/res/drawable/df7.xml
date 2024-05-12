@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="true"
+        state_pressed="true">
+        <shape shape="rectangle">
+            <corners radius="8dp"/>
+            <solid color="@color/aer"/>
+        </shape>
+    </item>
+    <item state_enabled="false">
+        <shape shape="rectangle">
+            <corners radius="8dp"/>
+            <solid color="@color/aer"/>
+        </shape>
+    </item>
+    <item>
+        <shape shape="rectangle">
+            <corners radius="8dp"/>
+            <solid color="@color/aeo"/>
+        </shape>
+    </item>
+</selector>

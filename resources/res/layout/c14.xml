@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        id="@+id/huy"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x5="52"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        id="@+id/hux"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginStart="2dp"
+        NOT_FOUND_0x5="51"/>
+</LinearLayout>

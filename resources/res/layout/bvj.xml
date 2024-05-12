@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/dbq"
+    visibility="invisible"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        layout_gravity="top|center_horizontal"
+        id="@+id/dby"
+        background="@drawable/bsn"
+        layout_width="match_parent"
+        layout_height="152dp"
+        translationY="-152dp">
+        <include layout="@layout/bvi"/>
+    </FrameLayout>
+    <FrameLayout
+        layout_gravity="top|center_horizontal"
+        id="@+id/dbu"
+        background="?attr/d4"
+        layout_width="match_parent"
+        layout_height="152dp"
+        translationY="-152dp"/>
+</RelativeLayout>

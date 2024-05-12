@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.ss.android.ugc.aweme.relation.follow.ui.RelationButton
+        layout_gravity="center_vertical"
+        id="@+id/iu_"
+        layout_width="88dp"
+        layout_height="28dp"
+        NOT_FOUND_0x6="1"
+        NOT_FOUND_0x7="0"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center_vertical"
+        id="@+id/c66"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginStart="12dp"
+        NOT_FOUND_0x8="@raw/icon_x_mark_small"
+        NOT_FOUND_0x9="24dp"
+        NOT_FOUND_0xa="24dp"
+        NOT_FOUND_0xb="?attr/gp"/>
+</merge>

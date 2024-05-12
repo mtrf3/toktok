@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_horizontal"
+    orientation="vertical"
+    id="@+id/g_e"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.icon.TuxIconView
+        gravity="center"
+        id="@+id/e43"
+        layout_width="32dp"
+        layout_height="32dp"
+        layout_marginTop="46dp"
+        scaleType="centerInside"
+        NOT_FOUND_0xa="@raw/icon_color_tiktok_logo_dark"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        gravity="center"
+        id="@+id/e4k"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="12dp"
+        layout_marginBottom="12dp"
+        NOT_FOUND_0x9="13"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gv"
+        gravity="center"
+        id="@+id/jiz"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginBottom="28dp"
+        NOT_FOUND_0x9="41"/>
+</LinearLayout>

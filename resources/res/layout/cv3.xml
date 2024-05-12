@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    layout_gravity="center_horizontal"
+    orientation="vertical"
+    layout_width="wrap_content"
+    layout_height="47dp"
+    minWidth="86dp"
+    paddingStart="4dp"
+    paddingEnd="4dp">
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        layout_gravity="center_horizontal"
+        id="@+id/ebc"
+        layout_width="32dp"
+        layout_height="32dp"/>
+    <X.C47121t6
+        textSize="9dp"
+        textColor="?attr/dj"
+        layout_gravity="center_horizontal"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/mwn"/>
+</LinearLayout>

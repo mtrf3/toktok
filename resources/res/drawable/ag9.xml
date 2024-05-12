@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape>
+            <size
+                height="96dp"
+                width="96dp"/>
+            <solid color="?attr/cv"/>
+            <corners radius="2dp"/>
+            <stroke
+                width="0.5dp"
+                color="?attr/dz"/>
+        </shape>
+    </item>
+    <item
+        gravity="center"
+        height="48dp"
+        width="48dp"
+        drawable="@drawable/adu"/>
+</layer-list>

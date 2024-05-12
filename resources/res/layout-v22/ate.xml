@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/dm"
+    gravity="center"
+    layout_gravity="center"
+    id="@+id/cvu"
+    paddingLeft="16dp"
+    paddingTop="5dp"
+    paddingRight="16dp"
+    paddingBottom="7dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    text="@string/fzy"
+    maxLines="2"
+    paddingHorizontal="16dp"
+    NOT_FOUND_0xd="62"/>

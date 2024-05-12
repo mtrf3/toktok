@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/bs8"
+    focusable="true"
+    focusableInTouchMode="true"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <androidx.recyclerview.widget.RecyclerView
+        id="@+id/mwb"
+        layout_width="match_parent"
+        layout_height="0dp"
+        NOT_FOUND_0x7="androidx.recyclerview.widget.LinearLayoutManager"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xc="0"/>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        id="@+id/mw8"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="20dp"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="@+id/mwb">
+        <X.C27117Akb
+            textColor="?attr/go"
+            id="@+id/mw9"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginTop="16dp"
+            NOT_FOUND_0xa="0"
+            NOT_FOUND_0xd="41"/>
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/mx6"
+            layout_width="20dp"
+            layout_height="20dp"
+            NOT_FOUND_0x8="@+id/mw9"
+            NOT_FOUND_0x9="0"
+            NOT_FOUND_0xc="@+id/mw9"
+            NOT_FOUND_0xe="@raw/icon_chevron_right_ltr"
+            NOT_FOUND_0xf="?attr/gx"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

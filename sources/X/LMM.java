@@ -1,0 +1,17 @@
+package X;
+
+import com.bytedance.keva.Keva;
+
+/* loaded from: classes10.dex */
+public final class LMM extends AbstractC65781Prl implements InterfaceC65784Pro<Keva> {
+    public static final LMM LJLIL = new LMM();
+
+    public LMM() {
+        super(0);
+    }
+
+    @Override // X.InterfaceC65784Pro
+    public final Keva invoke() {
+        return Keva.getRepo("TabApplogHelper");
+    }
+}

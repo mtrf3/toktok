@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    clipChildren="false"
+    clipToPadding="false"
+    layout_width="36dp"
+    layout_height="36dp"
+    layout_marginLeft="8dp"
+    layout_marginStart="8dp">
+    <X.C29888BoC
+        layout_gravity="center"
+        layout_width="36dp"
+        layout_height="36dp"/>
+</FrameLayout>

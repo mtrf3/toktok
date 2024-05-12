@@ -1,0 +1,2356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">Chúng tôi sẽ bắt đầu tạo ảnh đại diện của bạn sau %d phút.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">Tiếp tục với %d phong cách</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">Chọn thêm ít nhất %d ảnh nữa có mặt người</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">Bạn có thể tạo ảnh đại diện %d lần một ngày với Sharp</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">Bạn có thể tạo ảnh đại diện %d lần một tuần với Sharp</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">Bạn có thể tạo ảnh đại diện %d lần một ngày với Speedy</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">Bạn có thể tạo ảnh đại diện %d lần một tuần với Speedy</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">Bạn có thể tạo ảnh đại diện %d lần một ngày</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">Bạn có thể tạo ảnh đại diện %d lần một tuần</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">Chúng tôi sẽ bắt đầu tạo ảnh đại diện của bạn sau %d phút.</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">Đã phê duyệt (%d)</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">Bạn đã có %d lượt nhắc đến mới.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">Bạn nhận được %d yêu cầu</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">Bạn nhận được %d yêu cầu</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%d câu hỏi</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">Trong %d ngày đầu tiên, người khác phải đăng để xem bài đăng của bạn.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">Sau %d ngày, họ có thể xem bài đăng của bạn mà không cần đăng.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">Sau %d ngày, chỉ bạn mới có thể nhìn thấy bài đăng của mình.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">Trong %d ngày đầu tiên, người khác phải đăng để xem bài đăng Now của bạn.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%d sản phẩm</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">Đang xem xét (%d)</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">Không thể thay đổi thông tin đăng ký trong vòng %d tháng sau khi việc đăng ký của bạn đã được phê duyệt.</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">Bạn chỉ có thể thay đổi thông tin đã đăng ký sau %d tháng kể từ khi thông tin được phê duyệt.</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">Tải lên tối đa %d ảnh</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">Mở ảnh của {username}</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">{number} người đã thêm video này vào mục Yêu thích của họ</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">%d lượt thích</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ tỷ</item>
+        <item quantity="other">%@ tỷ</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ triệu</item>
+        <item quantity="other">%@ triệu</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ nghìn</item>
+        <item quantity="other">%@ nghìn</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">%d lượt xem</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">%s video cho phép bình luận</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">%s video không cho phép bình luận</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">trong khi %d video lại không cho phép Duet</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">Bất cứ ai cũng có thể Duet với video của bạn. %1$d trong số các video của bạn cho phép Duet, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">trong khi %d video lại không cho phép Duet</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">Bạn bè có thể Duet với video của bạn. %1$d trong số các video của bạn cho phép Duet, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">trong khi %d video lại không cho phép Duet</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="other">Xem lại những người có thể Duet với video của bạn. %1$d trong số các video của bạn cho phép Duet, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="other">trong khi %d video lại không cho phép Ghép nối</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="other">Xem lại những người có thể Ghép nối với video của bạn. %1$d trong số các video của bạn cho phép Ghép nối, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="other">trong khi %d video lại không cho phép Ghép nối</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="other">Bất cứ ai cũng có thể Ghép nối với video của bạn. %1$d trong số các video của bạn cho phép Ghép nối, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="other">trong khi %d video lại không cho phép Ghép nối</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="other">Bạn bè có thể Ghép nối với video của bạn. %1$d trong số các video của bạn cho phép Ghép nối, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="other">%s video cho phép Duet</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="other">%s video không cho phép Duet</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="other">%s video cho phép Ghép nối</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="other">%s video không cho phép Ghép nối</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="other">Hoạt động %d giờ trước</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="other">Hoạt động %d phút trước</item>
+    </plurals>
+    <plurals name="ao">
+        <item quantity="other">NGÀY</item>
+    </plurals>
+    <plurals name="ap">
+        <item quantity="other">GIỜ</item>
+    </plurals>
+    <plurals name="aq">
+        <item quantity="other">PHÚT</item>
+    </plurals>
+    <plurals name="ar">
+        <item quantity="other">GIÂY</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="other">%d phần</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="other">%1$s · %2$d bài đăng mới</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="other">Nhập %d âm thanh</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="other">%2$d Video LIVE | %1$d Nhật ký</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="other">%2$d Video LIVE | %1$d Nhật ký</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="other">%d Video LIVE | Nhật ký</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="other">%2$d Video LIVE | %1$d Nhật ký</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="other">%d Nhật ký</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="other">Đã mời %d người bạn</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="other">Đã thêm %s video</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="other">Đã đăng %s video</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="other">Thêm video (%d)</item>
+    </plurals>
+    <plurals name="b5">
+        <item quantity="other">Đã thêm %s video. Nhấn vào &quot;Xong&quot; để hoàn tất việc chỉnh sửa.</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="other">%d tuổi</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="other">%d tuổi</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="other">Có phải bạn %d tuổi?\n\n Nếu điều này không chính xác, bạn có thể không nhận được trải nghiệm phù hợp trên TikTok. Có khả năng bạn sẽ không thể thay đổi thông tin này ngay lập tức.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="other">Có phải bạn hiện %d tuổi?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="other">Bạn đã nhập số tuổi là %d. Hãy nhập ngày sinh thật của bạn.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="other">%d tuổi</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="other">%d âm thanh</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="other">Đang đồng bộ âm thanh...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="other">%s lượt chia sẻ</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="other">%s lượt xem</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="other">Hiệu ứng giọng nói có thể làm giảm độ chính xác</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="other">Tải lên tối đa %d tập tin</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="other">[num] video</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="other">Phiên bản beta này sẽ hết hạn sau %d ngày</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="other">Hết hạn sau %d ngày</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="other">Hết hạn sau %d ngày</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="other">Hết hạn sau %d ngày</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="other">Bạn có thể thêm tối đa %d cuốn sách</item>
+    </plurals>
+    <plurals name="bn">
+        <item quantity="other">Đã mời được %1$d người bạn. Bạn có thể kiếm được %3$d%2$s cho lời mời tiếp theo.</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="other">%s đoạn video</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="other">Xem thêm %d</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="other">Xem %d câu trả lời</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="other">%d tháng</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="other">%d năm</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="other">Chặn tài khoản</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="other">Đã chọn %d tài khoản.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="other">Bạn có thể chọn tối đa %d tài khoản cùng lúc.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="other">Bạn đã chọn chặn %d tài khoản. Các tài khoản bị chặn sẽ không thể xem hồ sơ hay nội dung của bạn trên TikTok.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="other">Chặn %d tài khoản?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="other">Xóa bình luận</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="other">Bạn vừa chọn %d bình luận.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="other">Xóa %d bình luận?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="other">Đã xóa bình luận</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="other">Đã chọn %d bình luận.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="other">Bạn có thể chọn tối đa %d bình luận cùng lúc.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="other">Báo cáo bình luận</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="other">Bạn đang báo cáo %d bình luận. Chúng tôi sẽ xem xét bình luận này nếu có bất kỳ nội dung không phù hợp.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="other">Báo cáo %d bình luận?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="other">Bình luận đã được báo cáo</item>
+    </plurals>
+    <plurals name="c9">
+        <item quantity="other">Đã chọn %d bình luận</item>
+    </plurals>
+    <plurals name="c_">
+        <item quantity="other">Cách bạn giao lưu trên TikTok thật đặc biệt. Bạn đã bình luận {comment_cnt} lần.</item>
+    </plurals>
+    <plurals name="ca">
+        <item quantity="other">Bình luận sôi nổi nhất của bạn nhận được {comment_like_cnt} lượt thích.</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="other">%s bình luận</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="other">%s người dùng đã đặt thông báo nhắc</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="other">%s hiệu ứng</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="other">Lượt xem video</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="other">Số follower ròng</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="other">Lượt thích</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cp">
+        <item quantity="other">10 phút trước khi bạn phát LIVE: &quot;{0}&quot;. {0} người dùng đã đặt thông báo nhắc.</item>
+    </plurals>
+    <plurals name="cq">
+        <item quantity="other">Đã đến lúc phát LIVE! {0} người dùng đã đặt thông báo nhắc cho &quot;{0}&quot;.</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="other">%s người dùng đã đặt thông báo nhắc</item>
+    </plurals>
+    <plurals name="cs">
+        <item quantity="other">Có ít nhất %d follower</item>
+    </plurals>
+    <plurals name="ct">
+        <item quantity="other">Đăng ít nhất %1$d video trong %2$d ngày qua</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="other">Xóa bản nháp?</item>
+    </plurals>
+    <plurals name="cv">
+        <item quantity="other">%d video Duet và Stitch đã được tạo từ các video gốc của bạn.</item>
+    </plurals>
+    <plurals name="cw">
+        <item quantity="other">Bạn có thể lựa chọn xóa các video này sau %d ngày.</item>
+    </plurals>
+    <plurals name="cx">
+        <item quantity="other">Nếu bạn khôi phục tài khoản của mình trong vòng %d ngày tới, các video này cũng sẽ được khôi phục.</item>
+    </plurals>
+    <plurals name="cy">
+        <item quantity="other">Tài khoản của bạn sẽ bị hủy kích hoạt trong vòng %d ngày và không thể hiển thị công khai. Trong thời gian hủy kích hoạt, bạn có thể kích hoạt lại tài khoản TikTok của mình bất kỳ lúc nào.</item>
+    </plurals>
+    <plurals name="cz">
+        <item quantity="other">Sau %d ngày, tài khoản và dữ liệu của bạn sẽ bị xóa vĩnh viễn.</item>
+    </plurals>
+    <plurals name="d0">
+        <item quantity="other">Xem xét %d tác vụ này trước khi xóa tài khoản của bạn</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="other">Bài đăng của %s</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="other">Sai mật mã. Còn %d lần thử.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="other">Bạn đã thử quá nhiều lần. Vui lòng thử lại sau %d phút.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="other">%d giai điệu</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="other">%d nhạc</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="other">%d đoạn</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="other">%d bài hát</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="other">%d âm thanh</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="other">%d âm điệu</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="other">Gửi (%d)</item>
+    </plurals>
+    <plurals name="db">
+        <item quantity="other">Cả hai bạn đều follow %s và %d người khác</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="other">%1$d đang follow · %2$d follower</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="other">@ lượt nhắc mới</item>
+    </plurals>
+    <plurals name="de">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="other">đã gửi tin nhắn mới.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="other">đã gửi cho bạn tin nhắn mới.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="other">Bạn có thể chọn tối đa %d người</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="other">Hủy bỏ bản nháp?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="other">Xóa bản nháp?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="other">Lưu {#} video làm bản nháp</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="other">%1$s và %2$s người khác sẽ được thông báo khi video này được đăng.</item>
+    </plurals>
+    <plurals name="dm">
+        <item quantity="other">%s giây</item>
+    </plurals>
+    <plurals name="dn">
+        <item quantity="other">%d mặt hàng</item>
+    </plurals>
+    <plurals name="do">
+        <item quantity="other">Giảm {value}% cho {number} mặt hàng</item>
+    </plurals>
+    <plurals name="dp">
+        <item quantity="other">Giảm {value}% cho {number} mặt hàng, hãy thêm {gapvalue} mặt hàng nữa để được hưởng giảm giá!</item>
+    </plurals>
+    <plurals name="dq">
+        <item quantity="other">Nhờ được giảm {value}% cho {number} mặt hàng, bạn đã tiết kiệm được {savevalue}{currency_mark}</item>
+    </plurals>
+    <plurals name="dr">
+        <item quantity="other">Được giảm {value}% khi bạn mua thêm {number} mặt hàng</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="other">Chọn ít nhất %d mặt hàng</item>
+    </plurals>
+    <plurals name="dt">
+        <item quantity="other">{{required_quantity}}+ mặt hàng</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="other">Đánh giá bổ sung %d ngày sau</item>
+    </plurals>
+    <plurals name="dv">
+        <item quantity="other">Mặt hàng không đủ điều kiện</item>
+    </plurals>
+    <plurals name="dw">
+        <item quantity="other">Có sẵn sau {{num}} ngày</item>
+    </plurals>
+    <plurals name="dx">
+        <item quantity="other">Cần thêm {count} điểm để thăng hạng</item>
+    </plurals>
+    <plurals name="dy">
+        <item quantity="other">Cần thêm {count} điểm để trở thành nhà sáng tạo hàng đầu</item>
+    </plurals>
+    <plurals name="dz">
+        <item quantity="other">Ưu đãi giờ vàng sẽ bắt đầu sau {{num}} phút nữa</item>
+    </plurals>
+    <plurals name="e0">
+        <item quantity="other">Ưu đãi giờ vàng sẽ bắt đầu sau {num} phút nữa</item>
+    </plurals>
+    <plurals name="e1">
+        <item quantity="other">Ưu đãi giờ vàng sẽ bắt đầu sau {{num}} phút nữa</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="other">Kết thúc sau %s ngày</item>
+    </plurals>
+    <plurals name="e3">
+        <item quantity="other">Chúng tôi sẽ gửi cho bạn thông báo đẩy %s phút trước khi sự kiện bắt đầu.</item>
+    </plurals>
+    <plurals name="e4">
+        <item quantity="other">Chúng tôi sẽ gửi cho bạn thông báo đẩy %s phút trước khi sự kiện bắt đầu.</item>
+    </plurals>
+    <plurals name="e5">
+        <item quantity="other">Chúng tôi sẽ gửi cho bạn thông báo đẩy %s phút trước khi sự kiện bắt đầu</item>
+    </plurals>
+    <plurals name="e6">
+        <item quantity="other">Còn {{count}} ngày</item>
+    </plurals>
+    <plurals name="e7">
+        <item quantity="other">Bạn được mời bán {{count}} mặt hàng có cung cấp sản phẩm mẫu miễn phí sau đây. Hãy chấp nhận lời mời để nhận sản phẩm mẫu miễn phí.</item>
+    </plurals>
+    <plurals name="e8">
+        <item quantity="other">Sản phẩm không có sẵn. Hãy liên hệ với Nhóm hỗ trợ TikTok của chúng tôi và thử lại.</item>
+    </plurals>
+    <plurals name="e9">
+        <item quantity="other">Đã có sự cố với sản phẩm mẫu miễn phí. Hãy liên hệ với Nhóm hỗ trợ TikTok của chúng tôi và thử lại.</item>
+    </plurals>
+    <plurals name="e_">
+        <item quantity="other">Kết thúc sau {count} ngày</item>
+    </plurals>
+    <plurals name="ea">
+        <item quantity="other">Kết thúc sau {count} giờ</item>
+    </plurals>
+    <plurals name="eb">
+        <item quantity="other">Kết thúc sau {count} phút</item>
+    </plurals>
+    <plurals name="ec">
+        <item quantity="other">Còn lại {count}</item>
+    </plurals>
+    <plurals name="ed">
+        <item quantity="other">{count} người yêu cầu</item>
+    </plurals>
+    <plurals name="ee">
+        <item quantity="other">Số tiền hoàn lại của bạn đã được gửi tới {payment_method} và dự kiến sẽ đến sau khoảng {count} ngày.</item>
+    </plurals>
+    <plurals name="ef">
+        <item quantity="other">Trả góp% s</item>
+    </plurals>
+    <plurals name="eg">
+        <item quantity="other">Mặt hàng không hợp lệ</item>
+    </plurals>
+    <plurals name="eh">
+        <item quantity="other">Không vận chuyển được (những) mặt hàng này đến địa chỉ đã chọn.</item>
+    </plurals>
+    <plurals name="ei">
+        <item quantity="other">Không vận chuyển được (những) sản phẩm này đến địa chỉ đã chọn.</item>
+    </plurals>
+    <plurals name="ej">
+        <item quantity="other">Bạn đã đặt một đơn hàng tương tự vào %s giờ trước. Đơn hàng trước đó đang chờ thanh toán.</item>
+    </plurals>
+    <plurals name="ek">
+        <item quantity="other">Bạn đã đặt một đơn hàng tương tự vào %s phút trước. Đơn hàng trước đó đang chờ thanh toán.</item>
+    </plurals>
+    <plurals name="el">
+        <item quantity="other">follower</item>
+    </plurals>
+    <plurals name="em">
+        <item quantity="other">lượt xem</item>
+    </plurals>
+    <plurals name="en">
+        <item quantity="other">Vấn đề pháp lý</item>
+    </plurals>
+    <plurals name="eo">
+        <item quantity="other">Đề xuất</item>
+    </plurals>
+    <plurals name="ep">
+        <item quantity="other">khi mua {count} mặt hàng trở lên</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="other">%1$s mặt hàng, tổng cộng %2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="other">Tổng (%s mặt hàng)</item>
+    </plurals>
+    <plurals name="es">
+        <item quantity="other">%d sản phẩm sau đây đã bị xóa.</item>
+    </plurals>
+    <plurals name="et">
+        <item quantity="other">%d sản phẩm đã bị xóa</item>
+    </plurals>
+    <plurals name="eu">
+        <item quantity="other">%d sản phẩm sau đây đã bị xóa.</item>
+    </plurals>
+    <plurals name="ev">
+        <item quantity="other">Các sản phẩm đã bị xóa (%d)</item>
+    </plurals>
+    <plurals name="ew">
+        <item quantity="other">%d sản phẩm đã bị xóa</item>
+    </plurals>
+    <plurals name="ex">
+        <item quantity="other">%d sản phẩm đã bị xóa</item>
+    </plurals>
+    <plurals name="ey">
+        <item quantity="other">%d sản phẩm sau đây sẽ bị xóa. Hãy xác nhận việc xóa, nếu không, mục này sẽ tự động có hiệu lực vào {date}.</item>
+    </plurals>
+    <plurals name="ez">
+        <item quantity="other">%d sản phẩm sẽ bị xóa</item>
+    </plurals>
+    <plurals name="f0">
+        <item quantity="other">%d sản phẩm sẽ bị xóa vào {date}</item>
+    </plurals>
+    <plurals name="f1">
+        <item quantity="other">%d sản phẩm sẽ bị xóa</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="other">Bạn chỉ có thể chỉnh sửa tối đa %d lần</item>
+    </plurals>
+    <plurals name="f3">
+        <item quantity="other">Đã áp dụng với tất cả nhãn dán văn bản</item>
+    </plurals>
+    <plurals name="f4">
+        <item quantity="other">Bạn đã thích {effect_video_cnt} video đã sử dụng nó.</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="other">Xem trước hiệu ứng trong %d giây</item>
+    </plurals>
+    <plurals name="f6">
+        <item quantity="other">%1$s: %2$s, %3$s, %4$s và những người khác đã đăng %5$d video mới.</item>
+    </plurals>
+    <plurals name="f7">
+        <item quantity="other">%1$s: %2$s đã đăng %3$d video mới.</item>
+    </plurals>
+    <plurals name="f8">
+        <item quantity="other">%1$s: %2$s, %3$s và %4$s đã đăng %5$d video mới.</item>
+    </plurals>
+    <plurals name="f9">
+        <item quantity="other">%1$s: %2$s và %3$s đã đăng %4$d video mới.</item>
+    </plurals>
+    <plurals name="f_">
+        <item quantity="other">Bạn đã có %d follower mới.</item>
+    </plurals>
+    <plurals name="fa">
+        <item quantity="other">Bạn đã có %d lượt thích mới.</item>
+    </plurals>
+    <plurals name="fb">
+        <item quantity="other">Có %d thông báo mới đang đợi bạn.</item>
+    </plurals>
+    <plurals name="fc">
+        <item quantity="other">Chúng tôi đã tìm thấy %d video mà bạn có thể sẽ thích.</item>
+    </plurals>
+    <plurals name="fd">
+        <item quantity="other">%1$s: %2$d video mà có thể bạn sẽ thích.</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="other">Đã gắn thẻ</item>
+    </plurals>
+    <plurals name="ff">
+        <item quantity="other">%d đã đăng ký</item>
+    </plurals>
+    <plurals name="fg">
+        <item quantity="other">%d đã đăng ký</item>
+    </plurals>
+    <plurals name="fh">
+        <item quantity="other">Đã đăng ký sự kiện này</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="other">Bạn có thể biết những thành viên trong nhóm này.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="other">Đã thêm %s video</item>
+    </plurals>
+    <plurals name="fl">
+        <item quantity="other">Xóa %d video khỏi %s</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="other">Xóa %1$d video khỏi %2$s</item>
+    </plurals>
+    <plurals name="fn">
+        <item quantity="other">%d video đã được chuyển tới %s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="other">Đã chuyển %1$d video tới %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="other">Đã xóa %d video</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="other">%d tài khoản mới được đề xuất</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="other">Được %s + %d người khác follow</item>
+    </plurals>
+    <plurals name="fs">
+        <item quantity="other">Follower</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="other">Follow %s + %d người khác</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="other">Được {0} và {1} và {2} người khác follow</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="other">Được {0} và {2} người khác follow</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="other">Follow {0}, {1} và {2} người khác</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="other">Follow {0} và {2} người khác</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="other">Bạn bè với {0}, {1} và {2} người khác</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="other">Bạn bè với {0} và {2} người khác</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="other">{2} liên kết chung</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="other">Bạn bè với %s + %d người khác</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="other">%d bài đăng mới từ bạn bè</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="other">%d thành viên đang hoạt động</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="other">%1$d thành viên hoạt động %2$d phút trước</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="other">%d thành viên hoạt động hôm nay</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="other">%d thành viên</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="other">Yêu cầu mới</item>
+    </plurals>
+    <plurals name="g8">
+        <item quantity="other">thành viên</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="other">%s thành viên</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="other">Xem thêm %d thành viên</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="other">%s lượt xem</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="other">Follower: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="other">Video: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="other">Đã gửi đến %s và %d người khác</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="other">Không thể tải %d Nhật ký lên. Nhật ký đã được lưu vào bản nháp của bạn.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="other">Không thể tải ảnh lên. Ảnh đã được lưu vào bản nháp của bạn.</item>
+    </plurals>
+    <plurals name="gg">
+        <item quantity="other">%s follower</item>
+    </plurals>
+    <plurals name="gh">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="other">%d nhãn dán</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="other">đã nhắc đến bạn trong một ảnh.</item>
+    </plurals>
+    <plurals name="gk">
+        <item quantity="other">%1$s follow %2$s và %3$d người khác. Hãy xem hồ sơ của họ.</item>
+    </plurals>
+    <plurals name="gl">
+        <item quantity="other">%1$s đã được %2$s và %3$d người khác follow. Hãy xem hồ sơ của họ.</item>
+    </plurals>
+    <plurals name="gm">
+        <item quantity="other">%1$s là bạn của %2$s và %3$d người khác. Hãy xem hồ sơ của họ.</item>
+    </plurals>
+    <plurals name="gn">
+        <item quantity="other">%1$s đã được %2$s, %3$s và %4$d người khác follow. Hãy xem hồ sơ của họ.</item>
+    </plurals>
+    <plurals name="go">
+        <item quantity="other">%1$s đã follow %2$s, %3$s và %4$d người khác. Hãy xem hồ sơ của họ.</item>
+    </plurals>
+    <plurals name="gp">
+        <item quantity="other">%1$s là bạn của %2$s, %3$s và %4$d người khác. Hãy xem hồ sơ của họ.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="other">%s bài đăng mới</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="other">Hoạt động</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="other">Hãy follow %1$s, %2$s và %d người khác mà bạn có thể biết để xem video của họ.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="other">%d người khác</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="other">Hãy follow %1$s, %2$s và %3$d người khác mà bạn có thể biết để xem video của họ.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="other">Tin nhắn</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="other">Hoạt động mới</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="other">%s thành viên</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="other">Bài đăng của %s</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="other">%d từ khóa</item>
+    </plurals>
+    <plurals name="h1">
+        <item quantity="other">{0} ({1}) đã bắt đầu follow bạn. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="h2">
+        <item quantity="other">{0} ({1}) đã bắt đầu follow bạn. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="h3">
+        <item quantity="other">{0} ({1}) đã bắt đầu follow bạn. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="h4">
+        <item quantity="other">{0} ({1}) đã bắt đầu follow bạn. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="h5">
+        <item quantity="other">đã bình luận trên video của bạn. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="h6">
+        <item quantity="other">đã bình luận trên video của bạn. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="h7">
+        <item quantity="other">đã bình luận trên video của bạn. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="h8">
+        <item quantity="other">đã bình luận trên video của bạn. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="h9">
+        <item quantity="other">đã tạo một bản Duet với bạn. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="h_">
+        <item quantity="other">đã tạo một bản Duet với bạn. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="ha">
+        <item quantity="other">đã tạo một bản Duet với bạn. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="hb">
+        <item quantity="other">đã tạo một bản Duet với bạn. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="hc">
+        <item quantity="other">đã thích video của bạn. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="hd">
+        <item quantity="other">đã thích video của bạn. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="he">
+        <item quantity="other">đã thích video của bạn. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="hf">
+        <item quantity="other">đã thích video của bạn. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="hg">
+        <item quantity="other">đã nhắc đến bạn trong một bình luận. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="hh">
+        <item quantity="other">đã nhắc đến bạn trong một bình luận. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="hi">
+        <item quantity="other">đã nhắc đến bạn trong một bình luận. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="hj">
+        <item quantity="other">đã nhắc đến bạn trong một bình luận. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="hk">
+        <item quantity="other">[{3} kết nối chung]</item>
+    </plurals>
+    <plurals name="hl">
+        <item quantity="other">[các bạn đều được follow bởi {2} và {3} người khác]</item>
+    </plurals>
+    <plurals name="hm">
+        <item quantity="other">[các bạn đều follow {2} và {3} người khác]</item>
+    </plurals>
+    <plurals name="hn">
+        <item quantity="other">{0} đã bắt đầu follow bạn. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="ho">
+        <item quantity="other">{0} đã bắt đầu follow bạn. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="hp">
+        <item quantity="other">{0} đã bắt đầu follow bạn. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="hq">
+        <item quantity="other">{0} đã bắt đầu follow bạn. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="hr">
+        <item quantity="other">[các bạn đều là bạn của {2} và {3} người khác]</item>
+    </plurals>
+    <plurals name="hs">
+        <item quantity="other">{0} ({1}) đã gửi cho bạn yêu cầu follow. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="ht">
+        <item quantity="other">{0} ({1}) đã gửi cho bạn yêu cầu follow. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="hu">
+        <item quantity="other">{0} ({1}) đã gửi cho bạn yêu cầu follow. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="hv">
+        <item quantity="other">{0} ({1}) đã gửi cho bạn yêu cầu follow. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="hw">
+        <item quantity="other">{0} ({1}) đã bắt đầu follow bạn. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="hx">
+        <item quantity="other">{0} ({1}) đã bắt đầu follow bạn. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="hy">
+        <item quantity="other">{0} ({1}) đã bắt đầu follow bạn. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="hz">
+        <item quantity="other">{0} ({1}) đã bắt đầu follow bạn. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="i0">
+        <item quantity="other">{0} đã chấp nhận yêu cầu follow của bạn. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="i1">
+        <item quantity="other">{0} đã chấp nhận yêu cầu follow của bạn. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="i2">
+        <item quantity="other">{0} đã chấp nhận yêu cầu follow của bạn. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="i3">
+        <item quantity="other">{0} đã chấp nhận yêu cầu follow của bạn. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="i4">
+        <item quantity="other">{0} đã gửi cho bạn yêu cầu follow. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="i5">
+        <item quantity="other">{0} đã gửi cho bạn yêu cầu follow. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="i6">
+        <item quantity="other">{0} đã gửi cho bạn yêu cầu follow. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="i7">
+        <item quantity="other">{0} đã gửi cho bạn yêu cầu follow. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="i8">
+        <item quantity="other">đã trả lời bình luận của bạn. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="i9">
+        <item quantity="other">đã trả lời bình luận của bạn. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="i_">
+        <item quantity="other">đã trả lời bình luận của bạn. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="ia">
+        <item quantity="other">đã trả lời bình luận của bạn. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="ib">
+        <item quantity="other">đã trả lời bình luận của bạn bằng một video. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="ic">
+        <item quantity="other">đã trả lời bình luận của bạn bằng một video. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="id">
+        <item quantity="other">đã trả lời bình luận của bạn bằng một video. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="ie">
+        <item quantity="other">đã trả lời bình luận của bạn bằng một video. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="if">
+        <item quantity="other">đã nhắc đến bạn trong một video. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="ig">
+        <item quantity="other">đã nhắc đến bạn trong một video. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="ih">
+        <item quantity="other">đã nhắc đến bạn trong một video. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="ii">
+        <item quantity="other">đã nhắc đến bạn trong một video. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="ij">
+        <item quantity="other">đã bình chọn cho video của bạn. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="ik">
+        <item quantity="other">đã trả lời bằng video trong một bình luận mà bạn cũng tham gia trả lời. Các bạn có {3} kết nối chung.</item>
+    </plurals>
+    <plurals name="il">
+        <item quantity="other">đã trả lời bằng video trong một bình luận mà bạn cũng tham gia trả lời. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="im">
+        <item quantity="other">đã trả lời bằng video trong một bình luận mà bạn cũng tham gia trả lời. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="in">
+        <item quantity="other">đã trả lời bằng video trong một bình luận mà bạn cũng tham gia trả lời. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="io">
+        <item quantity="other">đã bình chọn cho video của bạn. {2} và {3} người khác đang follow họ.</item>
+    </plurals>
+    <plurals name="ip">
+        <item quantity="other">đã bình chọn cho video của bạn. {2} và {3} người khác là bạn bè của họ.</item>
+    </plurals>
+    <plurals name="iq">
+        <item quantity="other">đã bình chọn cho video của bạn. Các bạn đều follow {2} và {3} người khác.</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="other">%d video LIVE</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="other">Kết thúc sau %s ngày</item>
+    </plurals>
+    <plurals name="it">
+        <item quantity="other">%d mặt hàng</item>
+    </plurals>
+    <plurals name="iu">
+        <item quantity="other">Đang gửi đến %s và %d người khác...</item>
+    </plurals>
+    <plurals name="iv">
+        <item quantity="other">Đã gửi đến %s và %d người khác</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="other">Bạn chỉ có thể chọn tối đa %1$d tập tin phương tiện</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="other">%d yêu cầu</item>
+    </plurals>
+    <plurals name="iz">
+        <item quantity="other">Bạn có thể gửi thêm %d video</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="other">Bỏ chọn làm bài hát mới?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="other">Đã bỏ chọn %d bài hát mới</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="other">%d bản phát hành</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="other">%d nghệ sỹ</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="other">%d kết nối chung</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="other">%d kết nối chung</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="other">Bây giờ, bạn có thể tải lên các video dài tối đa %d phút!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="other">Giới thiệu video dài %d phút</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="other">%d kết nối chung</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="other">%d bình luận</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="other">Xem toàn bộ %d bình luận</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="other">{nickname} và {number_1} người khác</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="other">{number} bạn bè đã đăng bài đăng Now của ngày hôm nay</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="other">%1$s và %2$d người khác đã đăng bài Now của họ</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="other">{nickname} và {number_1} người khác</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="other">Tham gia cùng {number} bạn bè trên TikTok Now để chia sẻ những khoảnh khắc ngẫu nhiên</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="other">Đăng bài Now của bạn sau {number} phút nữa</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="other">Còn %d phút để đăng bài đăng Now.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="other">%d bạn bè chung</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="other">%d lượt thích</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="other">{1}, {2}, {3} và {number} người khác vừa đăng một bài đăng Now.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="other">%d tương tác</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="other">%d lượt xem</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="other">%d lượt xem</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="other">%1$s và %2$s người khác</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="other">Bài đăng được đồng bộ từ Lemon8 chưa có âm thanh. Hãy thêm âm thanh để bài đăng của bạn thu hút người xem hơn.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="other">Thêm âm thanh để cải thiện bài đăng của bạn</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="other">đã thích ảnh của bạn.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="other">đã bình chọn cho ảnh của bạn.</item>
+    </plurals>
+    <plurals name="jt">
+        <item quantity="other">Thêm video (%s)</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="other">%d tập</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="other">%d phần</item>
+    </plurals>
+    <plurals name="jw">
+        <item quantity="other">Xóa video (%s)</item>
+    </plurals>
+    <plurals name="jx">
+        <item quantity="other">%s lượt xem</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="other">Bạn có thể gửi Quà tặng này thêm %d lần nữa</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="other">%d người xem đã yêu cầu bài hát</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="other">Quyền truy cập sẽ được khôi phục sau %s ngày</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="other">%s Xu từ người xem top 1</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="other">%s Xu từ người xem top 2</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="other">%s follower</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="other">Mua {number} mặt hàng có sẵn</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="other">Mua {number} mặt hàng có sẵn</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="other">Đã gửi %s Xu cho nhà sáng tạo LIVE</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="other">%s thích</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="other">%s người xem</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="other">%s lượt chia sẻ. Chia sẻ video</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="other">%1$s đã bình chọn %2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="other">%1$s đã bình chọn %2$s, %3$s đã bình chọn %4$s</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="other">Sau %d phút</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="other">Cần thêm %d điểm kinh nghiệm để thăng cấp</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="other">Phần thưởng của bạn sẽ tạm ngừng hiệu lực trong %d ngày</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="other">Kết thúc phiên LIVE? Hiện có %s người đang xem.</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="other">Kết thúc phiên LIVE? Hiện có %s người đang xem.</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="other">%s tin nhắn mới</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="other">Đã đồng chủ trì {num} ngày liên tiếp</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="other">Thiếu {number} Xu</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="other">Số lượng lớn nhất bạn đạt được trong {number} ngày qua: {amount}Xu</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="other">Đề xuất: {amount}Xu</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="other">Bạn hiện có {number} Xu. Bạn có thể nạp để nhận thêm Xu.</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="other">Lượt đoán đúng (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="other">%s lượt đoán đúng</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="other">%s người xem đã đoán đúng ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="other">Đa số người xem đã đoán đúng %s chữ</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="other">Không có người xem nào đoán đúng chữ này</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="other">%s phút để vẽ một chữ</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="other">�� %d người xem đã đoán %s</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="other">Tôi đã đoán đúng %s chữ!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="other">Bạn đã đoán đúng %s chữ</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="other">{0:string} và {1:string} người khác đang mua</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="other">Ảnh của %d quá nhỏ. Ảnh phải có kích thước tối thiểu 256 x 256 pixel.</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="other">%d người xem</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="other">Bạn có %d Xu.</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="other">Bạn có thể quy đổi %@ để lấy thêm %d Xu rồi gửi Quà tặng này.</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="other">Đã quy đổi số dư Quà tặng LIVE thành {{num}} Xu</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="other">Bạn thiếu %1$d Xu. Quy đổi %2$s thành Xu và gửi %3$s?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="other">Bạn đã quy đổi thành %d Xu và gửi %s</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="other">%s thành viên</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="other">Đã đồng hành cùng bạn trong {num} ngày</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="other">Kiếm 1 điểm thành viên trong vòng {num} giờ để duy trì trạng thái hoạt động</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="other">Có thể gửi với giá %1$d Xu thêm %2$d lần nữa.</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="other">%d người theo dõi đang hoạt động</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="other">{number} người bạn của bạn đang phát LIVE. Hãy mời họ cùng nhau LIVE!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="other">Nạp để mở khóa {num} Xu thưởng thêm</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="other">{num} ngày</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="other">Mở khóa {num} Xu</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="other">{num} Xu</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="other">Bạn sẽ mở khóa {num} Xu thưởng thêm.</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="other">Nạp thêm {num_1} Xu.</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="other">Nạp để mở khóa {num} Xu thưởng thêm</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="other">{number} ngày qua</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="other">Mức giá của {gameName} và {number} trò chơi khác đã thay đổi. Xem thêm tại trung tâm chương trình đối tác.</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="other">Chức năng tặng quà đã bị đình chỉ %s ngày trong phiên LIVE của bạn do vi phạm Điều khoản chương trình.</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="other">Chức năng tặng quà đã bị đình chỉ trong phiên LIVE này và sẽ được khôi phục sau %s phút.</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="other">Chức năng tặng quà bị đình chỉ trong {0} ngày.</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="other">Chức năng tặng quà bị đình chỉ trong %s ngày</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="other">Gửi với giá %d Xu</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="other">Quá trình nạp tiền hoàn tất và bạn hiện có %d Xu. Gửi Quà tặng này để thể hiện sự ủng hộ của bạn!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="other">Quá trình quy đổi hoàn tất và bạn hiện có %d Xu. Gửi Quà tặng này để thể hiện sự ủng hộ của bạn!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="other">{0:user} đã gửi {1:gift} ({2:string} điểm) {3:string}, đây là Quà tặng đầu tiên họ gửi. Hãy thể hiện sự cảm kích đối với họ!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="other">{0:user} đã gửi {1:gift} ({2:string} điểm) {3:string}</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="other">{0:user} đã gửi {1:gift} ({2:string} điểm) {3:string}</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="other">{0:user} đã gửi {1:gift} ({2:string} điểm) {3:string} và cùng nhà sáng tạo đến {4:city} lần đầu tiên trong chuyến du lịch này!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="other">Chi tiết quà tặng (tổng cộng {{num}} giao dịch)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="other">{amount}Xu</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="other">Quà tặng</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="other">%d Xu</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="other">Bạn đã nhận được %s Quà tặng. Đừng quên gửi lời cảm ơn bạn nhé.</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="other">Bạn đã nhận được %s Quà tặng</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="other">Hoàn tất quy đổi thành %s Xu?</item>
+    </plurals>
+    <plurals name="lz">
+        <item quantity="other">Hoàn tất quy đổi thành %d Xu?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="other">Phát LIVE (%ds)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="other">%s yêu cầu của khách</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="other">%s yêu cầu</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="other">%s điểm</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="other">%1$s điểm để đạt %2$s</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="other">%d người xem đang yêu cầu</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="one">Umiswe okwesikhashana ukungena BUKHOMA njengesimenywa kuze kudlule usuku olu %d</item>
+        <item quantity="other">Bạn bị đình chỉ phát LIVE với tư cách là khách đến %d ngày sau</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="one">Umiswe okwesikhashana ukungena BUKHOMA njengesimenywa kuze kudlule ihora eli %d</item>
+        <item quantity="other">Bạn bị đình chỉ phát LIVE với tư cách là khách đến %d giờ sau</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="one">Umiswe okwesikhashana ukungena BUKHOMA njengesimenywa kuze kudlule umzuzu o %d</item>
+        <item quantity="other">Bạn bị đình chỉ phát LIVE với tư cách là khách đến %d phút sau</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="one">Umiswe okwesikhashana ukungena BUKHOMA njengesimenywa kuze kudlule umzuzwana o %d</item>
+        <item quantity="other">Bạn bị đình chỉ phát LIVE với tư cách là khách đến %d giây sau</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="other">Công cụ</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="other">[username] và [number] follower đã khích lệ bạn phát LIVE</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="other">[username] và [number] follower gần đây đã khích lệ bạn phát LIVE</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="other">Nếu bạn chấp nhận lời mời, (những) nhà sáng tạo này sẽ tham gia phiên đồng chủ trì hiện tại.</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="other">{number} ngày</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="other">Trong bước tiếp theo, sau bạn khi rời trang, phiếu giảm giá của bạn sẽ chỉ khả dụng trở lại sau {number} ngày.</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="other">Trong bước tiếp theo, sau bạn khi rời trang, phiếu giảm giá của bạn sẽ chỉ khả dụng trở lại sau {number} giờ.</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="other">Trong bước tiếp theo, sau bạn khi rời trang, phiếu giảm giá của bạn sẽ chỉ khả dụng trở lại sau {number} phút.</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="other">Phiếu giảm giá sẽ khả dụng trở lại sau {number} ngày</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="other">Phiếu giảm giá sẽ khả dụng trở lại sau {number} giờ</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="other">Phiếu giảm giá sẽ khả dụng trở lại sau {number} phút</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="other">%s thích</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="one">othandile</item>
+        <item quantity="other">lượt thích</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="one">%s othandile %s abathandile</item>
+        <item quantity="other">%s thích</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="other">%d giây</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="other">Ứng dụng LIVE của bạn chưa được duyệt. Bạn có thể đăng ký lại sau %d ngày.</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="other">Bạn đã đăng ký quyền truy cập LIVE và có thể phát LIVE trong 7 ngày tới. Hãy nhớ làm theo Nguyên tắc Cộng đồng và phát LIVE trong %d giờ ở tuần đầu tiên để tiếp tục được phép truy cập.</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="other">Phát LIVE thêm %d tiếng trước %s để có thể sử dụng tính năng LIVE liên tục</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="other">Phát LIVE thêm %1$s tiếng trước %2$s để có thể sử dụng tính năng LIVE liên tục</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="other">%s điểm</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="other">{%s host username} cần {%d} Xu để trở thành nhà sáng tạo LIVE hạng {%n} trong tuần này!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="other">Còn 1 ngày. Hãy kiếm thêm {%d} Kim cương để trở thành nhà sáng tạo LIVE hạng 3 và giành huy hiệu độc quyền trên video của bạn.</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="other">Còn 1 ngày. Kiếm thêm {%d} Kim cương để phiên LIVE của bạn tiếp cận được nhiều người xem tiềm năng hơn.</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="other">Còn 1 ngày. Hãy kiếm thêm {%d} Kim cương để giành phần thưởng độc đáo dành cho nhà sáng tạo LIVE!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="other">%s Follower đang hoạt động</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="other">Cần có %s Xu</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="other">%d người đăng ký đang xem</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="other">Còn 3 phút. Hãy kiếm thêm {%d} Kim cương để trở thành nhà sáng tạo LIVE hạng 3 và giành huy hiệu độc quyền.</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="other">Còn 3 phút. Kiếm thêm {%d} Kim cương để phiên LIVE của bạn tiếp cận được nhiều người xem tiềm năng hơn.</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="other">Còn 3 phút. Hãy kiếm thêm {%d} Kim cương để giành phần thưởng độc đáo dành cho nhà sáng tạo LIVE nổi tiếng!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="other">%s giờ %d phút</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="other">kim cương</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="other">lượt xem</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="other">Không thể trả lời câu hỏi sau %s phút</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="other">%s giờ trước</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="other">%s phút trước</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="other">%s đã được lên lịch để bắt đầu sau 10 phút nữa. %d người xem đã xem sự kiện. Hãy phát LIVE ngay để tận dụng tối đa quảng cáo của bạn!</item>
+    </plurals>
+    <plurals name="nh">
+        <item quantity="other">%d người dùng đã xem sự kiện của bạn. Hãy sẵn sàng phát LIVE!</item>
+    </plurals>
+    <plurals name="ni">
+        <item quantity="other">{numberofviews} người dùng đã xem sự kiện của bạn. Hãy sẵn sàng phát LIVE!</item>
+    </plurals>
+    <plurals name="nj">
+        <item quantity="other">%d người dùng đã xem sự kiện của bạn! Hãy nhớ phát LIVE đúng giờ.</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="other">Xem %s hướng dẫn nhiệm vụ</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="other">%d yêu cầu ưu tiên từ người tặng quà</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="other">%d Xu</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="other">Bạn sẽ tốn %d Xu cho Quà tặng này.</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="other">Bạn đã gửi %d Xu. %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="other">Nhà sáng tạo LIVE có thể ưu tiên các yêu cầu từ những người gửi tổng cộng trên %d Xu.</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="other">Nhà sáng tạo LIVE có thể ưu tiên các yêu cầu từ bạn và người khác, những người gửi tổng cộng trên %d Xu.</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="other">Bạn sẽ tốn %d Xu cho Quà tặng này.</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="other">Bạn có thể mời %1$s bật lại camera của họ sau %2$s giây</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="other">Bạn có thể mời %1$s bật lại micrô của họ sau %2$s giây</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="other">%d giây</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="other">%d giây</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="other">%s nhiệm vụ chờ hoàn thành trong giai đoạn 1</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="other">%s nhiệm vụ chờ hoàn thành trong giai đoạn 2</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="other">Bạn có thể tạo tối đa %s đặc quyền tùy chỉnh. Hãy xóa một đặc quyền tùy chỉnh cũ để tạo đặc quyền mới.</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="other">Cuộc bình chọn sẽ kết thúc sau %s giây</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="other">Bình chọn ngay (%s giây):</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="other">Hôm nay, bạn đã tiêu %d Xu.</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="other">Tặng quà với tốc độ chậm hơn và thử lại sau %d phút.</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="other">Cổng dịch chuyển của {0:user} đã đóng. {1:string} người xem đã tham gia thông qua Cổng dịch chuyển này.</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="other">Cổng dịch chuyển của {0:user} đã đóng. {1:string} người xem đã tham gia thông qua Cổng dịch chuyển này. Bạn làm tốt lắm! ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="other">Cổng dịch chuyển của {0:user} đã đóng. {1:string} người xem đã tham gia thông qua Cổng dịch chuyển này. Thật tuyệt vời! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="other">%s lượt xem</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="other">Đã mua {{num}} Xu trên phiên bản web cho máy tính</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="other">Đã mua {{num}} Xu trong ứng dụng</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="other">Đã mua {{num}} Xu trên phiên bản web cho thiết bị di động</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="other">Chúng tôi đã xem xét khiếu nại của bạn và điều chỉnh khoảng thời gian thu hồi. Quyền truy cập tính năng Phát LIVE trên PC hoặc Mac của bạn sẽ được khôi phục sau %s ngày.</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="other">Quyền truy cập tính năng Phát LIVE trên PC hoặc Mac của bạn bị đình chỉ trong %s ngày do nhiều lần vi phạm Nguyên tắc Cộng đồng.</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="other">Chúng tôi đã xem xét khiếu nại của bạn và điều chỉnh khoảng thời gian thu hồi quyền truy cập Treasure Box của bạn xuống còn %s ngày.</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="other">Quyền truy cập Treasure Box của bạn bị đình chỉ trong %s ngày do nhiều lần vi phạm Nguyên tắc Cộng đồng.</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="other">Bạn đã nhận được hơn %s Kim cương trong 30 ngày vừa qua. Hãy tiếp tục phát huy để tham gia Bảng xếp hạng hằng tuần.</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="other">Bảng xếp hạng này hiển thị những nhà sáng tạo LIVE đã nhận được dưới {0:string} Kim cương trong 30 ngày qua.</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="other">Chức năng tặng quà bị đình chỉ trong %s ngày</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="other">Bạn hiện có {number_1} Xu. Bạn có thể nạp thêm {number_2} Xu ({amount}) để gửi vật phẩm này.</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="other">Thiếu %s Xu</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="other">Bạn đã nhận được {number} liên kết mời</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="other">Mở lời mời đăng ký từ %s và người khác</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="other">Đã yêu cầu: %d phút trước</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="other">Chức năng tặng quà bị đình chỉ trong %s ngày</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="other">Quyền truy cập sẽ được khôi phục sau %s ngày.</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="other">Chúng tôi đã xem xét kháng nghị của bạn và điều chỉnh khoảng thời gian thu hồi. Quyền truy cập LIVE Studio của bạn sẽ được khôi phục sau %s ngày.</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="other">Chúng tôi đã xem xét kháng nghị của bạn và điều chỉnh khoảng thời gian thu hồi. Quyền truy cập tính năng chơi game di động của bạn sẽ được khôi phục sau %s ngày.</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="other">Chúng tôi đã xem xét khiếu nại của bạn và điều chỉnh khoảng thời gian thu hồi. Quyền truy cập tính năng Phát LIVE trên PC hoặc Mac của bạn sẽ được khôi phục sau %s ngày.</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="other">Quyền truy cập LIVE Studio của bạn đã bị đình chỉ trong %s ngày do nhiều lần vi phạm quy định phát LIVE hoặc Nguyên tắc Cộng đồng của chúng tôi.</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="other">Quyền truy cập tính năng chơi game trên thiết bị di động của bạn đã bị đình chỉ trong %s ngày do nhiều lần vi phạm quy định phát LIVE hoặc Nguyên tắc Cộng đồng của chúng tôi.</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="other">Quyền truy cập tính năng PHÁT LIVE trên PC hoặc Mac của bạn đã bị đình chỉ trong %s ngày do nhiều lần vi phạm quy định phát LIVE hoặc Nguyên tắc Cộng đồng của chúng tôi.</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="other">Mục tiêu: {&lt;num&gt;} người tặng quà</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="other">Mục tiêu: {&lt;num&gt;} điểm quà tặng</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="other">Mục tiêu: {&lt;num&gt;} người tặng quà đội</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="other">Mục tiêu: {&lt;num&gt;} điểm quà tặng đội</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="other">+ &lt;num&gt; điểm thi đấu</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="other">%s người xem sẽ nhìn thấy bình luận của bạn ở phần đầu</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="other">Bình luận gắn dấu sao của bạn trong phiên LIVE đã bị xóa và bạn sẽ nhận được [0:string] Xu hoàn lại cho bình luận này trong vòng 24 giờ.</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="other">%s Bình luận gắn dấu sao trong hàng chờ</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="other">Bình luận gắn dấu sao của bạn đã bị xóa gần đây. Hãy thử lại sau {num} giờ.</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="other">Bình luận gắn dấu sao của bạn đã bị xóa gần đây. Hãy thử lại sau {num} phút.</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="other">Kết thúc sau %s ngày</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="other">%1$s người đang xem. Bạn có thể thu nạp được %2$s người đăng ký mới nếu bạn bắt đầu phiên LIVE dành riêng cho người đăng ký ngay bây giờ.</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="other">%s người đăng ký đang xem. Đây là thời điểm tốt để thắt chặt kết nối với cộng đồng của bạn bằng phiên LIVE dành riêng cho người đăng ký.</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="other">Bạn có thể thu nạp được %1$s người đăng ký mới bằng cách phát LIVE dành riêng cho người đăng ký %2$s phút mỗi tháng.</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="other">Bạn có thể nhập tối đa %s biểu tượng cảm xúc trong một bình luận</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="other">Đăng ký để sử dụng %2$s biểu tượng cảm xúc tùy chỉnh của %1$s</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="other">Có dưới {number} follower</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="other">Không thể mời những nhà sáng tạo có dưới {number} follower</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="other">Mời thêm {number1} nhà sáng tạo để đạt hạng {number2}! Đừng bỏ cuộc!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="other">Mời thêm {number} nhà sáng tạo để đạt hạng {rankminusone}! Đừng bỏ cuộc!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="other">Bạn chỉ có thể mời những nhà sáng tạo có trên {number} follower.</item>
+    </plurals>
+    <plurals name="po">
+        <item quantity="other">{num} biểu tượng cảm xúc không được phê duyệt</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="other">Đặc quyền hiện tại có thể giúp bạn thu hút thêm %d%% người đăng ký.</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="other">%1$s vừa mua gói đăng ký %2$d tháng!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="other">Bạn chỉ có thể bật hoặc tắt tính năng này một lần trong vòng %s phút. Hãy thử lại sau.</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="other">Bạn hiện có {num} quà tặng gói đăng ký. Hãy gửi cho người khác ngay!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="other">Bạn còn lại %d quà tặng gói đăng ký. Hãy gửi cho người khác ngay!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="other">Chúc mừng! Bạn đã nhận được phần thưởng của hoạt động là [number] quà tặng gói đăng ký.</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="other">Đã đồng chủ trì {num} ngày trước</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="other">Đã phát LIVE cùng bạn {number} ngày trước</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="other">Đã chủ trì cùng bạn {num} ngày trước</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="other">Quyền truy cập Treasure Box của bạn đã bị đình chỉ và sẽ được khôi phục sau %s ngày.</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="one">isibukeli esiphambili</item>
+        <item quantity="other">người xem hàng đầu</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="other">Người xem hàng đầu</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="other">Vòng chung kết sẽ bắt đầu sau %s giây</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="other">Vòng chung kết sẽ bắt đầu sau %s ngày</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="other">Vòng chung kết sẽ bắt đầu sau %s giờ</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="other">Vòng chung kết sẽ bắt đầu sau %s phút</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="other">Vòng bán kết sẽ bắt đầu sau %s ngày</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="other">Vòng bán kết sẽ bắt đầu sau %s giờ</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="other">Vòng bán kết sẽ bắt đầu sau %s phút</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="other">Vòng bán kết sẽ bắt đầu sau %s giây</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="other">Cần thêm {0:string} Kim cương để đạt hạng {1:string}</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="other">Cần thêm {0:string} người tặng quà để đạt hạng {1:string}</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="other">ngày</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="other">Bạn đã quy đổi {amount} thành {num} Xu.</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="other">Bạn đã mua {num} Xu bằng {amount}.</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="other">Nhiều hơn {num} điểm đội so với hạng 2</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="other">+{num} điểm đội (%1$s/%2$s Quà tặng đội hằng ngày)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="other">%s người xem đã tham gia từ chức năng tìm kiếm</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="other">Cần %1$s điểm đội để đạt hạng %2$s</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="other">Cần %1$s điểm đội để đạt hạng %2$s</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="other">Đã xảy ra lỗi. Hãy thử lại sau {number} giờ nữa</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="other">Đã xảy ra lỗi. Hãy quay lại sau {number} phút nữa</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="one">isibukeli</item>
+        <item quantity="other">Người xem</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="other">%d người xem</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="other">%s người xem</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="other">%s người xem đã gửi Quà tặng</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="other">Bài đăng (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="other">(%s bài đánh giá)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="other">%s ảnh chưa được tải lên. Hãy thử lại.</item>
+    </plurals>
+    <plurals name="qr">
+        <item quantity="other">%1$d xu = %2$s%3$.2f</item>
+    </plurals>
+    <plurals name="qs">
+        <item quantity="other">%s đã cập nhật mức giá của video TikTok Shoutout của họ thành %s điểm.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="other">%d âm thanh tương tự</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="other">%d lượt xem hồ sơ</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="other">Follower</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="other">%1$s đã nhận tổng cộng %2$s lượt thích cho tất cả video</item>
+    </plurals>
+    <plurals name="qx">
+        <item quantity="other">%d tài khoản bị ẩn do cài đặt quyền riêng tư của họ</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="other">đã xem hồ sơ của bạn.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="other">%1$s, %2$s và %d người khác</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="other">%s người đã xem hồ sơ của bạn.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="other">{0}, {1} và {2} người khác đã xem hồ sơ của bạn.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="other">Chúng tôi đã gửi một thông báo đến %1$s của bạn và %2$s thiết bị khác. Hãy đảm bảo rằng bạn đã mở TikTok và nhấn vào &quot;Có&quot; trong thông báo để tiếp tục đăng nhập.</item>
+    </plurals>
+    <plurals name="r3">
+        <item quantity="other">%d câu hỏi đã được đặt</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="r6">
+        <item quantity="other">Câu trả lời {number}</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="other">Đã xóa %s câu hỏi không có sẵn khỏi lời mời của bạn</item>
+    </plurals>
+    <plurals name="r8">
+        <item quantity="other">%$s câu hỏi không có sẵn và đã được xóa khỏi mục Yêu thích của bạn.</item>
+    </plurals>
+    <plurals name="r9">
+        <item quantity="other">%s câu hỏi không có sẵn và đã được xóa khỏi mục Yêu thích của bạn.</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="other">%s tin nhắn mới</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="other">%s tương tác mới</item>
+    </plurals>
+    <plurals name="rb">
+        <item quantity="other">Đã đề xuất {number}</item>
+    </plurals>
+    <plurals name="rc">
+        <item quantity="other">%s đã đề xuất</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="other">Số người đã đề xuất: %d</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="other">Số người đã gợi ý: %d</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="other">Xem thêm %d gợi ý</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="other">Quay tối đa %d giây</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="other">Quay tối đa %d giây bằng cách sử dụng âm thanh từ video gốc</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="other">Bản nháp (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="other">Video sẽ bị tắt tiếng nếu bạn chọn khôi phục các âm thanh này.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="other">Khôi phục âm thanh có bản quyền?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="other">Đã xóa âm thanh có bản quyền</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="other">Đang xóa âm thanh</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="other">Đã xóa âm thanh</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="other">Đổi âm thanh</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="other">Đang xóa âm thanh có bản quyền...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="other">Chúng tôi đã phát hiện âm thanh vi phạm bản quyền dài hơn 1 phút trong video của bạn. Video sẽ bị tắt tiếng nếu bạn chọn tiếp tục. Hãy đổi âm thanh hoặc cắt ngắn video. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="other">Đổi âm thanh</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="other">Đang xóa âm thanh có bản quyền...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="other">Chúng tôi đã phát hiện âm thanh vi phạm bản quyền trong video của bạn. Video sẽ bị tắt tiếng nếu bạn chọn tiếp tục, hoặc bạn có thể đổi âm thanh. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="other">Âm thanh có bản quyền</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="other">Chủ sở hữu bản quyền chỉ ủy quyền sử dụng các âm thanh này trong 1 phút.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="other">Chủ sở hữu bản quyền không ủy quyền sử dụng các âm thanh này.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="other">Đổi âm thanh</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="other">Chúng tôi đã phát hiện âm thanh vi phạm bản quyền dài hơn 1 phút trong video của bạn. Video sẽ bị tắt tiếng nếu bạn chọn tiếp tục. Hãy đổi âm thanh hoặc cắt ngắn video. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="other">Đổi âm thanh</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="other">Chúng tôi đã phát hiện âm thanh vi phạm bản quyền trong video của bạn. Video sẽ bị tắt tiếng nếu bạn chọn tiếp tục, hoặc bạn có thể đổi âm thanh. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="other">Loại bỏ video (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="other">%d lượt đăng lại</item>
+    </plurals>
+    <plurals name="s3">
+        <item quantity="other">Đã đăng lại {number}</item>
+    </plurals>
+    <plurals name="s4">
+        <item quantity="other">%s đã đăng lại</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="other">%d đã đăng lại</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="other">%d đã đăng lại</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="other">Xem thêm %d bài đăng lại</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="other">%d ngày</item>
+    </plurals>
+    <plurals name="s9">
+        <item quantity="other">Đã dành {number} giờ {number} phút</item>
+    </plurals>
+    <plurals name="s_">
+        <item quantity="other">{number} lần</item>
+    </plurals>
+    <plurals name="sa">
+        <item quantity="other">Đã mở {number} lần</item>
+    </plurals>
+    <plurals name="sb">
+        <item quantity="other">Bạn đã dành {number} giờ để sử dụng TikTok trong tuần vừa qua (ít hơn {percent} so với tuần trước).</item>
+    </plurals>
+    <plurals name="sc">
+        <item quantity="other">Bạn đã dành {number} giờ để sử dụng TikTok trong tuần vừa qua (nhiều hơn {percent} so với tuần trước).</item>
+    </plurals>
+    <plurals name="sd">
+        <item quantity="other">Bạn đã dành {number} giờ để sử dụng TikTok trong tuần vừa qua (ít hơn {percent} so với tuần trước)</item>
+    </plurals>
+    <plurals name="se">
+        <item quantity="other">Bạn đã dành {number} giờ để sử dụng TikTok trong tuần vừa qua (nhiều hơn {percent} so với tuần trước)</item>
+    </plurals>
+    <plurals name="sf">
+        <item quantity="other">Bạn đã dành {number} giờ để sử dụng TikTok trong tuần vừa qua (ít hơn {percent} so với tuần trước)</item>
+    </plurals>
+    <plurals name="sg">
+        <item quantity="other">Bạn đã dành {number} giờ để sử dụng TikTok trong tuần vừa qua (nhiều hơn {percent} so với tuần trước)</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="other">Tìm kiếm thêm %1$d lượt để nhận %2$d điểm</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="other">Duyệt xem kết quả tìm kiếm trong %d giây</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="other">Tìm kiếm thêm %1$d lượt để nhận %2$d điểm!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="other">%d âm thanh trùng khớp</item>
+    </plurals>
+    <plurals name="sl">
+        <item quantity="other">%s follower</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="other">Đã cập nhật %d ngày trước</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="other">Đã cập nhật %d giờ trước</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="other">Đã cập nhật %d phút trước</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="other">Đã cập nhật %d giây trước</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="other">Đã cập nhật %d tuần trước</item>
+    </plurals>
+    <plurals name="sr">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="other">Bạn đã chia sẻ ảnh.</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="other">Chúc mừng! Bạn đã nhận được thêm %d lượt mua trong ngày hôm qua. Hãy tiếp tục phát huy thành tích tuyệt vời này và theo dõi hiệu suất Tuyển tập của bạn tại mục “Công cụ dành cho nhà sáng tạo” &gt; “Tuyển tập”.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="other">Tuyển tập của bạn đã nhận được %d lượt truy cập trang trong vài ngày qua. Để theo dõi hiệu suất Tuyển tập cũng như nhận những mẹo hữu ích giúp thu hút người mua tiềm năng, bạn có thể truy cập công cụ phân tích tại mục “Công cụ dành cho nhà sáng tạo” &gt; “Tuyển tập”.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="other">Chúc mừng! %d người xem phiên LIVE đã mua quyền truy cập Tuyển tập của bạn trong ngày hôm qua. Hãy tiếp tục phát huy thành tích tuyệt vời này và theo dõi hiệu suất Tuyển tập của bạn tại mục “Công cụ dành cho nhà sáng tạo” &gt; “Tuyển tập”.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="other">Chúc mừng! %d người xem đã mua quyền truy cập Tuyển tập của bạn trong ngày hôm qua từ video chứa liên kết Tuyển tập. Hãy tiếp tục phát huy thành tích tuyệt vời này và theo dõi hiệu suất Tuyển tập tại mục “Công cụ dành cho nhà sáng tạo” &gt; “Tuyển tập”.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="other">Tiếp tục sử dụng máy ảnh (%d)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="other">Chỉ dành cho %d người mua đầu tiên</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="other">Chỉ còn lại %d</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="other">Hết hạn sau %d ngày</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="t6">
+        <item quantity="other">Bạn đã chia sẻ {share_number} lần trong năm nay.</item>
+    </plurals>
+    <plurals name="t7">
+        <item quantity="other">{0}, {1} và {2} người khác đã thêm bài đăng của bạn vào Nhật ký của họ.</item>
+    </plurals>
+    <plurals name="t8">
+        <item quantity="other">Năm 2020, âm thanh của bạn đã được {sound_use_cnt} video sử dụng.</item>
+    </plurals>
+    <plurals name="t9">
+        <item quantity="other">Và có tổng {sound_views} lượt xem.</item>
+    </plurals>
+    <plurals name="t_">
+        <item quantity="other">Bạn đã xem {watch_video_cnt} video sử dụng {music_name} năm 2020. Nhưng đó không phải là trào lưu duy nhất bạn bắt gặp.</item>
+    </plurals>
+    <plurals name="ta">
+        <item quantity="other">Bạn thích {genre_cnt} thể loại nhạc trong năm nay, bao gồm:</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="other">%d lượt xem</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="other">Nhật ký (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="other">{Brand} muốn gia hạn ủy quyền ban đầu từ {start_date} đến {end_date} thêm {num} ngày.</item>
+    </plurals>
+    <plurals name="tf">
+        <item quantity="other">Video phổ biến nhất của bạn nhận được {video_view_cnt} lượt xem.</item>
+    </plurals>
+    <plurals name="tg">
+        <item quantity="other">Cảm ơn bạn đã ủng hộ nhà sáng tạo này để họ có thể tiếp tục sáng tạo nội dung mà bạn yêu thích. Họ sẽ nhận được tiền boa của bạn trong vòng %d giờ.</item>
+    </plurals>
+    <plurals name="th">
+        <item quantity="other">đã gửi %d tiền boa</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="other">Đã thêm %d video</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="other">Nhà sáng tạo đã sử dụng TikTok được hơn %d tháng.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="other">Nhà sáng tạo có ít nhất %d follower.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="other">%d tương tác</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="other">Giới hạn hằng ngày khi thêm chủ đề thịnh hành: %d bài đăng</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="other">Thời gian xét duyệt ước tính: %d ngày</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="other">%@ video</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="other">%@ lượt xem</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="other">%d ngày trước</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="other">Giờ</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="other">%1$d giờ trước</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="other">phút</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="other">%1$d phút trước</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="other">Giờ</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="other">phút</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="other">giây</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="other">%1$d năm trước</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="other">Rất tiếc! Bạn đã bị cấm\n Bạn có thể phát live lại sau %1$d ngày</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="other">Rất tiếc! Bạn đã bị cấm\n Bạn có thể phát live lại sau %1$d giờ</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="other">Rất tiếc, bạn đang bị cấm. \n Bạn có thể phát live lại sau: %1$d phút</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="other">Rất tiếc! Bạn đã bị cấm\n Bạn có thể phát live lại sau %1$d giây</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="other">%d người dùng đang xem buổi phát sóng của bạn, bạn có muốn đóng không?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="one">Kuphelelwa isikhathi osukwini olu- %d</item>
+        <item quantity="other">Hết hạn trong %d ngày</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="one">Kuphelelwa isikhathi ehoreni eli- %d</item>
+        <item quantity="other">Hết hạn trong %d giờ</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="other">Nạp lần đầu %1$d Kim cương để nhận thêm %2$d!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="other">phút</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="other">Trải nghiệm dùng thử trên TikTok sẽ kết thúc sau: %d ngày</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="other">%d ngày</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="other">Bạn có %d ngày để trải nghiệm tính năng này trên TikTok. Sau đó, hãy tải xuống ứng dụng TikTok Now để tiếp tục.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="other">Đăng để bắt đầu trải nghiệm TikTok Now trong %d ngày.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="other">Chọn hoặc quay %d đoạn video</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="other">Chỉnh sửa ảnh chưa hoàn tất?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="other">%s bài đăng mới</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="other">đã đăng %d video</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="other">Có phải bạn hiện %d tuổi?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="other">Sử dụng âm thanh được cắt. Quay tối đa %d giây.</item>
+    </plurals>
+    <plurals name="uh">
+        <item quantity="other">%1$s không thể tạo video TikTok Shoutout của bạn đúng thời hạn. Chúng tôi sẽ hoàn lại %2$d xu vào tài khoản của bạn trong vòng 24 giờ.</item>
+    </plurals>
+    <plurals name="ui">
+        <item quantity="other">Chúng tôi sẽ hoàn lại %d xu vào tài khoản của bạn trong vòng 24 giờ.</item>
+    </plurals>
+    <plurals name="uj">
+        <item quantity="other">Đơn hàng này đã bị hủy do đã hết thời gian chờ. Chúng tôi sẽ hoàn lại %s xu vào tài khoản của bạn.</item>
+    </plurals>
+    <plurals name="uk">
+        <item quantity="other">Yêu cầu của bạn đã bị hủy. Chúng tôi sẽ hoàn lại %d xu vào tài khoản của bạn trong vòng 24 giờ.</item>
+    </plurals>
+    <plurals name="ul">
+        <item quantity="other">Xu</item>
+    </plurals>
+    <plurals name="um">
+        <item quantity="other">%1$s đã từ chối yêu cầu của bạn. Chúng tôi sẽ hoàn lại %2$s xu vào tài khoản của bạn trong vòng 24 giờ.</item>
+    </plurals>
+    <plurals name="un">
+        <item quantity="other">%1$s không thể tạo video TikTok Shoutout của bạn đúng thời hạn. Yêu cầu của bạn đã hết hạn và chúng tôi sẽ hoàn lại %2$s xu vào tài khoản của bạn trong vòng 24 giờ.</item>
+    </plurals>
+    <plurals name="uo">
+        <item quantity="other">Nếu %1$s không chấp nhận yêu cầu của bạn trong vòng 2 ngày, chúng tôi sẽ tự động hủy yêu cầu đó và hoàn lại %2$s xu vào tài khoản của bạn trong vòng 24 giờ.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="other">%s người xem</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="other">%s lượt thích</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="other">Đang chia sẻ sang %1$s trong %2$s giây</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="other">%d sản phẩm</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="other">Bài đăng</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="other">%1$s, %2$s và %d người khác</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="other">đã xem bài đăng của bạn.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="other">%s lượt chia sẻ</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="other">%s lượt xem</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="other">{0}, {1} và {2} người khác đã xem bài đăng của bạn.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="other">%d Xu</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="other">đã gửi: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="other">Các ảnh đã lưu</item>
+    </plurals>
+    <plurals name="v2">
+        <item quantity="other">{number} người đã nhận quà tặng nhưng chưa thêm dữ liệu vào tài khoản của họ. Quà tặng dữ liệu sẽ sớm được cung cấp cho bạn.</item>
+    </plurals>
+    <plurals name="v3">
+        <item quantity="other">Hoạt động này sẽ kết thúc sau {countdown} ngày. Số lượng có hạn. Hãy nhanh tay nào, ai đến trước, được nhận trước!</item>
+    </plurals>
+    <plurals name="v4">
+        <item quantity="other">Còn lại {countdown} quà tặng</item>
+    </plurals>
+</resources>

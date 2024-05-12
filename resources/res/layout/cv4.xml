@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    orientation="horizontal"
+    background="@drawable/cp4"
+    layout_width="match_parent"
+    layout_height="48dp">
+    <ImageView
+        id="@+id/eb9"
+        layout_width="20dp"
+        layout_height="20dp"
+        src="@drawable/cu1"/>
+    <X.C47121t6
+        textSize="14dp"
+        textColor="?attr/dj"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/k10"
+        layout_marginStart="4dp"
+        style="@style/a45"/>
+</LinearLayout>

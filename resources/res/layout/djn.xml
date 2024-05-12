@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/c3f"
+    layout_width="48dp"
+    layout_height="26dp">
+    <View
+        id="@+id/c3g"
+        background="@drawable/cca"
+        layout_width="48dp"
+        layout_height="26dp"/>
+    <View
+        id="@+id/c3e"
+        background="@drawable/ccb"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginLeft="1dp"
+        layout_marginTop="1dp"/>
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C786836y
+    background="?attr/ed"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.SharedPreferencesOnSharedPreferenceChangeListenerC60790NtS
+        layout_gravity="center_vertical"
+        id="@+id/spark_center_view_container"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginStart="32dp"
+        layout_marginEnd="33dp"/>
+</X.C786836y>

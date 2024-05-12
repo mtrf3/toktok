@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/dgu"
+    background="@color/cz"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        layout_gravity="end"
+        id="@+id/m_o"
+        padding="16dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/gi1"
+        NOT_FOUND_0x8="42"/>
+</FrameLayout>

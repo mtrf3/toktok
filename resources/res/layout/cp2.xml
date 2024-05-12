@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.icon.TuxIconView
+    layout_width="44dp"
+    layout_height="44dp"
+    NOT_FOUND_0x2="@raw/icon_arrow_turn_up_right"
+    NOT_FOUND_0x3="30dp"
+    NOT_FOUND_0x4="30dp"
+    NOT_FOUND_0x5="?attr/dj"/>

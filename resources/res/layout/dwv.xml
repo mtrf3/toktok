@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_horizontal"
+    orientation="vertical"
+    layout_width="wrap_content"
+    layout_height="match_parent">
+    <ImageView
+        layout_width="120dp"
+        layout_height="80dp"
+        src="@drawable/dht"/>
+    <TextView
+        textSize="15sp"
+        textColor="@color/adn"
+        gravity="center"
+        layout_width="335dp"
+        layout_height="wrap_content"
+        layout_marginTop="20dp"
+        text="@string/fwd"/>
+    <TextView
+        textSize="@dimen/ak_"
+        textColor="@color/adn"
+        ellipsize="end"
+        gravity="center"
+        id="@+id/npk"
+        background="@drawable/dhs"
+        paddingLeft="@dimen/ako"
+        paddingTop="@dimen/akp"
+        paddingRight="@dimen/ako"
+        paddingBottom="@dimen/akp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="30dp"
+        maxWidth="230dp"
+        text="@string/fw9"
+        singleLine="true"/>
+</LinearLayout>

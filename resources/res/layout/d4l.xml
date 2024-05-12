@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    focusable="true"
+    focusableInTouchMode="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/le6"
+        background="@drawable/cov"
+        layout_width="match_parent"
+        layout_height="0dp"
+        NOT_FOUND_0xa="0.25"
+        NOT_FOUND_0xd="0"/>
+    <View
+        id="@+id/aor"
+        background="@drawable/cos"
+        layout_width="match_parent"
+        layout_height="0dp"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0xa="0.25"/>
+    <View
+        id="@+id/dx2"
+        layout_width="wrap_content"
+        layout_height="1dp"
+        layout_marginBottom="112dp"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xb="0"/>
+    <X.C31809Ce5
+        id="@+id/fxe"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="18dp"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="@+id/dx2"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

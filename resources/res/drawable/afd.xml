@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape
+            shape="oval"
+            useLevel="true">
+            <size
+                height="24dp"
+                width="24dp"/>
+            <stroke
+                width="2dp"
+                color="?attr/eb"/>
+        </shape>
+    </item>
+    <item
+        left="4dp"
+        top="4dp"
+        right="4dp"
+        bottom="4dp">
+        <shape
+            shape="oval"
+            useLevel="true">
+            <size
+                height="16dp"
+                width="16dp"/>
+            <solid color="?attr/eb"/>
+        </shape>
+    </item>
+</layer-list>

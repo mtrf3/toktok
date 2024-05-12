@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        gravity="center_vertical"
+        layout_gravity="bottom"
+        id="@+id/lg0"
+        background="@drawable/apz"
+        focusable="true"
+        focusableInTouchMode="true"
+        layout_width="wrap_content"
+        layout_height="16dp"
+        layout_marginBottom="@dimen/p9"
+        scrollHorizontally="true"
+        singleLine="true"
+        shadowColor="?attr/ei"
+        shadowDx="0"
+        shadowDy="1"
+        shadowRadius="1"
+        paddingStart="@dimen/oq"
+        paddingEnd="@dimen/p9"
+        layout_marginStart="@dimen/on"
+        NOT_FOUND_0x13="63"
+        NOT_FOUND_0x14="9dp"/>
+    <androidx.appcompat.widget.AppCompatImageView
+        id="@+id/lfz"
+        layout_width="22dp"
+        layout_height="22dp"/>
+</FrameLayout>

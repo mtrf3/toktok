@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <corners radius="23dp"/>
+    <solid color="#cd161823"/>
+    <stroke
+        width="1dp"
+        color="#57ffffff"/>
+    <size height="46dp"/>
+</shape>

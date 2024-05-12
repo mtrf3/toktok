@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="52dp">
+    <X.C223338pd
+        layout_gravity="center"
+        id="@+id/chz"
+        layout_width="36dp"
+        layout_height="36dp"/>
+</FrameLayout>

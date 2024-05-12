@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="wrap_content"
+    layout_height="28dp"
+    NOT_FOUND_0xa="true">
+    <X.C47121t6
+        textColor="#ffffff"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/jm0"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="16dp"
+        layout_marginRight="16dp"
+        singleLine="true"
+        layout_marginHorizontal="16dp"
+        style="@style/a4a"/>
+</merge>

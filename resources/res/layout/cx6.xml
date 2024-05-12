@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_marginStart="15dp"
+    layout_marginEnd="15dp">
+    <X.C47121t6
+        textSize="15dp"
+        textColor="?attr/gu"
+        gravity="center_horizontal"
+        id="@+id/c4i"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        text="@string/n_8"/>
+    <X.C41051jJ
+        textAppearance="@style/on"
+        textSize="14dp"
+        textColor="?attr/gx"
+        gravity="center"
+        id="@+id/b7u"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="16dp"
+        text="@string/osv"
+        layout_below="@+id/c4i"
+        layout_centerHorizontal="true"
+        style="@style/a3m"/>
+</RelativeLayout>

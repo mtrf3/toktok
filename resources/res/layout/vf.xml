@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/lk5"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.SYL
+        id="@+id/i04"
+        paddingTop="8dp"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</LinearLayout>

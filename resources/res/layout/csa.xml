@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <LinearLayout
+        orientation="horizontal"
+        id="@+id/lgn"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginBottom="8dp"
+        layout_marginStart="8dp">
+        <X.C59948Nfs
+            layout_gravity="center_vertical"
+            id="@+id/lgr"
+            visibility="gone"
+            layout_width="wrap_content"
+            layout_height="wrap_content"/>
+    </LinearLayout>
+</RelativeLayout>

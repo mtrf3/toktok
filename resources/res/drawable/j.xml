@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector constantSize="true">
+    <item
+        state_enabled="false"
+        state_pressed="true"
+        drawable="@android:color/transparent"/>
+    <item
+        state_enabled="false"
+        drawable="@android:color/transparent"/>
+    <item state_pressed="true">
+        <bitmap
+            gravity="center"
+            src="@drawable/c"/>
+    </item>
+    <item>
+        <bitmap
+            gravity="center"
+            src="@drawable/b"/>
+    </item>
+</selector>

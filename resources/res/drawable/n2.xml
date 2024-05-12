@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector constantSize="true">
+    <item
+        state_enabled="false"
+        state_pressed="true">
+        <bitmap
+            gravity="center"
+            src="@drawable/mx"/>
+    </item>
+    <item state_enabled="false">
+        <bitmap
+            gravity="center"
+            src="@drawable/mx"/>
+    </item>
+    <item state_pressed="true">
+        <bitmap
+            gravity="center"
+            src="@drawable/mz"/>
+    </item>
+    <item>
+        <bitmap
+            gravity="center"
+            src="@drawable/my"/>
+    </item>
+</selector>

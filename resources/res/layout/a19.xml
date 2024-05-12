@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/hvu"
+    background="?attr/c9"
+    paddingLeft="@dimen/nt"
+    paddingRight="@dimen/nt"
+    layout_width="match_parent"
+    layout_height="wrap_content"/>

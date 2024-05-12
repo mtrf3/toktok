@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/gv"
+    ellipsize="end"
+    paddingTop="21dp"
+    paddingBottom="12dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    text="@string/ozo"
+    singleLine="true"
+    paddingStart="16dp"
+    paddingEnd="16dp"
+    NOT_FOUND_0xa="62"/>

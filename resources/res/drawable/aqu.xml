@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item gravity="center">
+        <shape shape="oval">
+            <solid color="?attr/dj"/>
+            <size
+                height="7dp"
+                width="7dp"/>
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.GestureDetectorOnGestureListenerC85223Wc
+    background="?attr/d6"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <LinearLayout
+        orientation="vertical"
+        background="?attr/d6"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        weightSum="10">
+        <X.C09F
+            layout_width="wrap_content"
+            layout_height="0dp"
+            layout_weight="4"/>
+        <X.C77869UhF
+            layout_gravity="center_horizontal"
+            id="@+id/f41"
+            layout_width="190dp"
+            layout_height="70dp"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            layout_gravity="center_horizontal"
+            id="@+id/e5v"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginTop="28dp"
+            text="@string/h26"
+            shadowColor="#26000000"
+            shadowDy="2"
+            shadowRadius="2"
+            NOT_FOUND_0xe="23"/>
+        <X.C09F
+            layout_width="wrap_content"
+            layout_height="0dp"
+            layout_weight="5"/>
+    </LinearLayout>
+</X.GestureDetectorOnGestureListenerC85223Wc>

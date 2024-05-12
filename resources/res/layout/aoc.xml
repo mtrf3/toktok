@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/lc4"
+    layout_width="74dp"
+    layout_height="69dp">
+    <com.bytedance.tux.badge.TuxAlertBadgeLayout
+        id="@+id/lca"
+        layout_width="40dp"
+        layout_height="40dp"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xd="0">
+        <com.bytedance.lighten.loader.SmartImageView
+            layout_gravity="center"
+            id="@+id/fbj"
+            layout_width="24dp"
+            layout_height="24dp"
+            scaleType="centerInside"
+            NOT_FOUND_0xc="@drawable/aem"/>
+    </com.bytedance.tux.badge.TuxAlertBadgeLayout>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        id="@+id/moh"
+        layout_width="74dp"
+        layout_height="wrap_content"
+        maxLines="2"
+        textAlignment="center"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="@+id/lca"
+        NOT_FOUND_0xe="71"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

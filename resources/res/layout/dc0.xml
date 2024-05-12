@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.YKA
+        id="@+id/jn6"
+        visibility="gone"
+        layout_width="@dimen/a_d"
+        layout_height="272dp"/>
+</FrameLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <ImageView
+        id="@+id/ehp"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ViewStub
+        layout_gravity="center"
+        id="@+id/kko"
+        layout="@layout/kc"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

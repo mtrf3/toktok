@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_checked="true"
+        color="?attr/go"/>
+    <item
+        state_focused="true"
+        color="?attr/go"/>
+    <item
+        state_selected="true"
+        color="?attr/go"/>
+    <item color="?attr/gv"/>
+</selector>

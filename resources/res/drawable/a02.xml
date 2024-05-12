@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_checked="true">
+        <shape shape="oval">
+            <solid color="#fff"/>
+        </shape>
+    </item>
+    <item>
+        <shape shape="oval">
+            <solid color="#bfffffff"/>
+        </shape>
+    </item>
+</selector>

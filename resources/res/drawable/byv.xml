@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape shape="rectangle">
+            <gradient
+                startColor="@color/r8"
+                endColor="@color/r7"
+                angle="0"
+                type="linear"/>
+        </shape>
+    </item>
+</layer-list>

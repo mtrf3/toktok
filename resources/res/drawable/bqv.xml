@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_pressed="true">
+        <shape>
+            <corners radius="2dp"/>
+            <solid color="?attr/dx"/>
+            <stroke
+                width="1dp"
+                color="?attr/dx"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <corners radius="2dp"/>
+            <solid color="?attr/dj"/>
+            <stroke
+                width="1dp"
+                color="?attr/dx"/>
+        </shape>
+    </item>
+</selector>

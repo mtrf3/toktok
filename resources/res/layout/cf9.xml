@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/del"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C48936JIm
+        id="@+id/jge"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C71898SJq
+        layout_gravity="bottom"
+        layout_width="match_parent"
+        layout_height="45dp"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0.3"
+        NOT_FOUND_0x7="#000000"
+        NOT_FOUND_0x8="0"/>
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/cover"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x4="7"/>
+</FrameLayout>

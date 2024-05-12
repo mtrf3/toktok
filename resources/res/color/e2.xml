@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_selected="false"
+        color="@color/wj"/>
+    <item
+        state_selected="true"
+        color="?attr/do"/>
+    <item color="@color/wj"/>
+</selector>

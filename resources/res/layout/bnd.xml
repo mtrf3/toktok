@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/j88"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C6C1
+        id="@+id/khw"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <FrameLayout
+        id="@+id/btt"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <X.C143905ko
+            id="@+id/buj"
+            paddingLeft="14dp"
+            paddingTop="10dp"
+            paddingRight="14dp"
+            paddingBottom="10dp"
+            layout_width="wrap_content"
+            layout_height="wrap_content"/>
+    </FrameLayout>
+</FrameLayout>

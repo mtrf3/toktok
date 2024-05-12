@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item left="-1dp">
+        <shape>
+            <stroke
+                width="0.5dp"
+                color="?attr/dz"/>
+            <corners
+                topRightRadius="2dp"
+                bottomRightRadius="2dp"/>
+        </shape>
+    </item>
+</layer-list>

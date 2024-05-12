@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    paddingTop="6dp"
+    paddingBottom="12dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    paddingStart="60dp">
+    <com.ss.android.ugc.aweme.base.ui.SmartAvatarImageView
+        id="@+id/abh"
+        layout_width="24dp"
+        layout_height="24dp"
+        NOT_FOUND_0xd="@color/al"
+        NOT_FOUND_0xe="6"
+        NOT_FOUND_0xf="true"
+        NOT_FOUND_0x10="?attr/dz"
+        NOT_FOUND_0x11="0.5dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gx"
+        ellipsize="end"
+        id="@+id/e5i"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        singleLine="true"
+        layout_marginStart="8dp"
+        layout_marginEnd="52dp"
+        NOT_FOUND_0x12="51"/>
+</LinearLayout>

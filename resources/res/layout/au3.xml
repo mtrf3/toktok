@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        layout_gravity="start|center_vertical"
+        id="@+id/bia"
+        layout_width="30dp"
+        layout_height="30dp"
+        layout_marginStart="12dp">
+        <X.C1556168v
+            layout_gravity="center"
+            id="@+id/bid"
+            visibility="gone"
+            layout_width="28dp"
+            layout_height="28dp"/>
+        <com.bytedance.tux.icon.TuxIconView
+            layout_gravity="center"
+            id="@+id/bib"
+            visibility="gone"
+            layout_width="18dp"
+            layout_height="18dp"
+            NOT_FOUND_0x8="@raw/icon_straw"
+            NOT_FOUND_0x9="?attr/go"/>
+    </FrameLayout>
+    <X.C131885Fo
+        id="@+id/cn6"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x7="0dp">
+        <X.C1555268m
+            id="@+id/jcz"
+            layout_width="match_parent"
+            layout_height="match_parent">
+            <LinearLayout
+                orientation="horizontal"
+                id="@+id/bi7"
+                layout_width="match_parent"
+                layout_height="match_parent"/>
+        </X.C1555268m>
+    </X.C131885Fo>
+</merge>

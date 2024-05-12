@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent"
+    paddingStart="32dp"
+    paddingEnd="32dp">
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        id="@+id/f2m"
+        padding="@dimen/abi"
+        layout_width="@dimen/abj"
+        layout_height="@dimen/abg"
+        NOT_FOUND_0xa="?attr/au4"
+        NOT_FOUND_0xb="?attr/bnt"
+        NOT_FOUND_0xd="@+id/m68"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x12="@dimen/abm"
+        NOT_FOUND_0x13="2"/>
+    <X.C47121t6
+        textColor="@color/ck"
+        id="@+id/m68"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="@dimen/abl"
+        text="@string/nqi"
+        NOT_FOUND_0xd="@+id/m67"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x10="@+id/f2m"
+        style="@style/a42"/>
+    <X.C47121t6
+        textColor="@color/cs"
+        gravity="center"
+        id="@+id/m67"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="@dimen/abk"
+        text="@string/kab"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x10="@+id/m68"
+        style="@style/a46"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

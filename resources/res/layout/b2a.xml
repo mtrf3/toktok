@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C119254m9
+    id="@+id/jve"
+    layout_width="match_parent"
+    layout_height="match_parent"
+    NOT_FOUND_0x4="?attr/cv"
+    NOT_FOUND_0x5="#1a161823"
+    NOT_FOUND_0x6="5"
+    NOT_FOUND_0x7="1">
+    <X.C45631qh
+        layout_width="match_parent"
+        layout_height="wrap_content">
+        <androidx.recyclerview.widget.RecyclerView
+            id="@+id/jvd"
+            layout_width="match_parent"
+            layout_height="wrap_content"/>
+    </X.C45631qh>
+    <X.C73305Spp
+        id="@+id/jvf"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x3="0"/>
+</X.C119254m9>

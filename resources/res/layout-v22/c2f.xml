@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/ho4"
+        layout_width="108dp"
+        layout_height="144dp"
+        layout_marginLeft="4dp"
+        layout_marginRight="4dp"
+        layout_marginHorizontal="4dp"
+        NOT_FOUND_0xb="4dp"/>
+    <X.C71897SJp
+        theme="@style/vo"
+        layout_gravity="end|top"
+        id="@+id/ho2"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginTop="8dp"
+        checked="false"
+        layout_marginEnd="8dp"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="1"/>
+</FrameLayout>

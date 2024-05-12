@@ -1,0 +1,2817 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">Započet ćemo stvarati tvoje avatare za %d minutu.</item>
+        <item quantity="few">Započet ćemo stvarati tvoje avatare za %d minute.</item>
+        <item quantity="other">Započet ćemo stvarati tvoje avatare za %d minuta.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">Nastavi s %d stilom</item>
+        <item quantity="few">Nastavi s %d stila</item>
+        <item quantity="other">Nastavi s %d stilova</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">Odaberi najmanje još %d fotografiju s ljudskim licem</item>
+        <item quantity="few">Odaberi najmanje još %d fotografije s ljudskim licem</item>
+        <item quantity="other">Odaberi najmanje još %d fotografija s ljudskim licem</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">Možeš izraditi avatare %d put dnevno uz Sharp</item>
+        <item quantity="few">Možeš izraditi avatare %d puta dnevno uz Sharp</item>
+        <item quantity="other">Možeš izraditi avatare %d puta dnevno uz Sharp</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">Možeš izraditi avatare %d put tjedno uz Sharp</item>
+        <item quantity="few">Možeš izraditi avatare %d puta tjedno uz Sharp</item>
+        <item quantity="other">Možeš izraditi avatare %d puta tjedno uz Sharp</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">Možeš izraditi avatare %d put dnevno uz Speedy</item>
+        <item quantity="few">Možeš izraditi avatare %d puta dnevno uz Speedy</item>
+        <item quantity="other">Možeš izraditi avatare %d puta dnevno uz Speedy</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="one">Možeš izraditi avatare %d put tjedno uz Speedy</item>
+        <item quantity="few">Možeš izraditi avatare %d puta tjedno uz Speedy</item>
+        <item quantity="other">Možeš izraditi avatare %d puta tjedno uz Speedy</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="one">Možeš izraditi avatare %d put dnevno</item>
+        <item quantity="few">Možeš izraditi avatare %d puta dnevno</item>
+        <item quantity="other">Možeš izraditi avatare %d puta dnevno</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="one">Možeš izraditi avatare %d put dnevno</item>
+        <item quantity="few">Možeš izraditi avatare %d puta dnevno</item>
+        <item quantity="other">Možeš izraditi avatare %d puta dnevno</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="one">Započet ćemo stvarati tvoje avatare za %d minutu.</item>
+        <item quantity="few">Započet ćemo stvarati tvoje avatare za %d minute.</item>
+        <item quantity="other">Započet ćemo stvarati tvoje avatare za %d minuta.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="one">Imaš %d zahtjev</item>
+        <item quantity="few">Imaš %d zahtjeva</item>
+        <item quantity="other">Imaš %d zahtjeva</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="one">Imaš %d zahtjev</item>
+        <item quantity="few">Imaš %d zahtjeva</item>
+        <item quantity="other">Imaš %d zahtjeva</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="one">%d pitanje</item>
+        <item quantity="few">%d pitanja</item>
+        <item quantity="other">%d pitanja</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="one">Drugi moraju objaviti da bi vidjeli tvoje objave tijekom prva %d dana.</item>
+        <item quantity="few">Drugi moraju objaviti da bi vidjeli tvoje objave tijekom prva %d dana.</item>
+        <item quantity="other">Drugi moraju objaviti da bi vidjeli tvoje objave tijekom prvih %d dana.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="one">Nakon %d dana mogu vidjeti tvoje objave bez objavljivanja.</item>
+        <item quantity="few">Nakon %d dana mogu vidjeti tvoje objave bez objavljivanja.</item>
+        <item quantity="other">Nakon %d dana mogu vidjeti tvoje objave bez objavljivanja.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="one">Nakon %d dana samo ti možeš vidjeti svoje objave.</item>
+        <item quantity="few">Nakon %d dana samo ti možeš vidjeti svoje objave.</item>
+        <item quantity="other">Nakon %d dana samo ti možeš vidjeti svoje objave.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="one">Drugi moraju objaviti da bi vidjeli tvoje Now objave tijekom prva %d dana.</item>
+        <item quantity="few">Drugi moraju objaviti da bi vidjeli tvoje Now objave tijekom prva %d dana.</item>
+        <item quantity="other">Drugi moraju objaviti da bi vidjeli tvoje Now objave tijekom prvih %d dana.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="one">%d proizvod</item>
+        <item quantity="few">%d proizvoda</item>
+        <item quantity="other">%d proizvoda</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="one">Otvori fotografiju korisnika {username}</item>
+        <item quantity="few">Otvori fotografije korisnika {username}</item>
+        <item quantity="other">Otvori fotografije korisnika {username}</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="one">{number} osoba dodala je ovo mjesto u svoje Favorite</item>
+        <item quantity="few">{number} osobe dodale su ovo mjesto u svoje Favorite</item>
+        <item quantity="other">{number} osoba dodalo je ovo mjesto u svoje Favorite</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="one">%d oznaka „sviđa mi se”</item>
+        <item quantity="few">%d oznake „sviđa mi se”</item>
+        <item quantity="other">%d oznaka „sviđa mi se”</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ milijarda</item>
+        <item quantity="few">%@ milijarde</item>
+        <item quantity="other">%@ milijardi</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ milijun</item>
+        <item quantity="few">%@ milijuna</item>
+        <item quantity="other">%@ milijuna</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ tisuća</item>
+        <item quantity="few">%@ tisuće</item>
+        <item quantity="other">%@ tisuća</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="one">%d pregled</item>
+        <item quantity="few">%d pregleda</item>
+        <item quantity="other">%d pregleda</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="one">%s videozapis dopušta komentare</item>
+        <item quantity="few">%s videozapisa dopuštaju komentare</item>
+        <item quantity="other">%s videozapisa dopušta komentare</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="one">%s videozapis ne dopušta komentare</item>
+        <item quantity="few">%s videozapisa ne dopuštaju komentare</item>
+        <item quantity="other">%s videozapisa ne dopušta komentare</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="one">dok %d ne dopušta Duet</item>
+        <item quantity="few">dok %d ne dopuštaju Duet</item>
+        <item quantity="other">dok %d ne dopušta Duet</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="one">Bilo tko može napraviti Duet s tvojim videozapisima. %1$d od tvojih videozapisa dopušta Duet, %2$s</item>
+        <item quantity="few">Bilo tko može napraviti Duet s tvojim videozapisima. %1$d tvoja videozapisa dopuštaju Duet, %2$s</item>
+        <item quantity="other">Bilo tko može napraviti Duet s tvojim videozapisima. %1$d tvojih videozapisa dopušta Duet, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="one">dok %d ne dopušta Duet</item>
+        <item quantity="few">dok %d ne dopuštaju Duet</item>
+        <item quantity="other">dok %d ne dopušta Duet</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="one">Prijatelji mogu napraviti Duet s tvojim videozapisima. %1$d od tvojih videozapisa dopušta Duet, %2$s</item>
+        <item quantity="few">Prijatelji mogu napraviti Duet s tvojim videozapisima. %1$d tvoja videozapisa dopuštaju Duet, %2$s</item>
+        <item quantity="other">Prijatelji mogu napraviti Duet s tvojim videozapisima. %1$d tvojih videozapisa dopušta Duet, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="one">dok %d ne dopušta Duet</item>
+        <item quantity="few">dok %d ne dopuštaju Duet</item>
+        <item quantity="other">dok %d ne dopušta Duet</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="one">Pregledaj tko može napraviti Duet s tvojim videozapisima. %1$d od tvojih videozapisa dopušta Duet, %2$s</item>
+        <item quantity="few">Pregledaj tko može napraviti Duet s tvojim videozapisima. %1$d tvoja videozapisa dopuštaju Duet, %2$s</item>
+        <item quantity="other">Pregledaj tko može napraviti Duet s tvojim videozapisima. %1$d tvojih videozapisa dopušta Duet, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="one">dok %d ne dopušta Stitch</item>
+        <item quantity="few">dok %d ne dopuštaju Stitch</item>
+        <item quantity="other">dok %d ne dopušta Stitch</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="one">Pregledaj tko može napraviti Stitch s tvojim videozapisima. %1$d od tvojih videozapisa dopušta Stitch, %2$s</item>
+        <item quantity="few">Pregledaj tko može napraviti Stitch s tvojim videozapisima. %1$d tvoja videozapisa dopuštaju Stitch, %2$s</item>
+        <item quantity="other">Pregledaj tko može napraviti Stitch s tvojim videozapisima. %1$d tvojih videozapisa dopušta Stitch, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="one">dok %d ne dopušta Stitch</item>
+        <item quantity="few">dok %d ne dopuštaju Stitch</item>
+        <item quantity="other">dok %d ne dopušta Stitch</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="one">Bilo tko može napraviti Stitch s tvojim videozapisima. %1$d od tvojih videozapisa dopušta Stitch, %2$s</item>
+        <item quantity="few">Bilo tko može napraviti Stitch s tvojim videozapisima. %1$d tvoja videozapisa dopuštaju Stitch, %2$s</item>
+        <item quantity="other">Bilo tko može napraviti Stitch s tvojim videozapisima. %1$d tvojih videozapisa dopušta Stitch, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="one">dok %d ne dopušta Stitch</item>
+        <item quantity="few">dok %d ne dopuštaju Stitch</item>
+        <item quantity="other">dok %d ne dopušta Stitch</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="one">Prijatelji mogu napraviti Stitch s tvojim videozapisima. %1$d od tvojih videozapisa dopušta Stitch, %2$s</item>
+        <item quantity="few">Prijatelji mogu napraviti Stitch s tvojim videozapisima. %1$d tvoja videozapisa dopuštaju Stitch, %2$s</item>
+        <item quantity="other">Prijatelji mogu napraviti Stitch s tvojim videozapisima. %1$d tvojih videozapisa dopušta Stitch, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="one">%s videozapis dopušta Duet</item>
+        <item quantity="few">%s videozapisa dopuštaju Duet</item>
+        <item quantity="other">%s videozapisa dopušta Duet</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="one">%s videozapis ne dopušta Duet</item>
+        <item quantity="few">%s videozapisa ne dopuštaju Duet</item>
+        <item quantity="other">%s videozapisa ne dopušta Duet</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="one">%s videozapis dopušta Stitch</item>
+        <item quantity="few">%s videozapisa dopuštaju Stitch</item>
+        <item quantity="other">%s videozapisa dopušta Stitch</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="one">%s videozapis ne dopušta Stitch</item>
+        <item quantity="few">%s videozapisa ne dopuštaju Stitch</item>
+        <item quantity="other">%s videozapisa ne dopušta Stitch</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="one">Aktivan/na prije %d sat</item>
+        <item quantity="few">Aktivan/na prije %d sata</item>
+        <item quantity="other">Aktivan/na prije %d sati</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="one">Aktivan/na prije %d minutu</item>
+        <item quantity="few">Aktivan/na prije %d minute</item>
+        <item quantity="other">Aktivan/na prije %d minuta</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="one">%d dio</item>
+        <item quantity="few">%d dijela</item>
+        <item quantity="other">%d dijelova</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="one">%1$s · %2$d nova objava</item>
+        <item quantity="few">%1$s · %2$d nove objave</item>
+        <item quantity="other">%1$s · %2$d novih objava</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="one">Uvezi %d zvuk</item>
+        <item quantity="few">Uvezi %d zvuka</item>
+        <item quantity="other">Uvezi %d zvukova</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="one">%2$d videozapis UŽIVO | %1$d Priča</item>
+        <item quantity="few">%2$d videozapisa UŽIVO | %1$d Priče</item>
+        <item quantity="other">%2$d videozapisa UŽIVO | %1$d Priča</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="one">%2$d videozapis UŽIVO | %1$d Priča</item>
+        <item quantity="few">%2$d videozapisa UŽIVO | %1$d Priča</item>
+        <item quantity="other">%2$d videozapisa UŽIVO | %1$d Priča</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="one">%d videozapis UŽIVO | Priča</item>
+        <item quantity="few">%d videozapisa UŽIVO | Priča</item>
+        <item quantity="other">%d videozapisa UŽIVO | Priča</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="one">%2$d videozapis UŽIVO | %1$d Priča</item>
+        <item quantity="few">%2$d videozapisa UŽIVO | %1$d Priče</item>
+        <item quantity="other">%2$d videozapisa UŽIVO | %1$d Priča</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="one">%d Priča</item>
+        <item quantity="few">%d Priče</item>
+        <item quantity="other">%d Priča</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="one">Pozvan/a %d prijatelj/ica</item>
+        <item quantity="few">Pozvana/e %d prijatelja/ice</item>
+        <item quantity="other">Pozvano %d prijatelja/ica</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="one">%s videozapis</item>
+        <item quantity="few">%s videozapisa</item>
+        <item quantity="other">%s videozapisa</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="one">%s dodani videozapis</item>
+        <item quantity="few">%s dodana videozapisa</item>
+        <item quantity="other">%s dodanih videozapisa</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="one">%s objavljen videozapis</item>
+        <item quantity="few">%s objavljena videozapisa</item>
+        <item quantity="other">%s objavljenih videozapisa</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="one">Dodaj videozapis (%d)</item>
+        <item quantity="few">Dodaj videozapise (%d)</item>
+        <item quantity="other">Dodaj videozapise (%d)</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="one">%d godina</item>
+        <item quantity="few">%d godine</item>
+        <item quantity="other">%d godina</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="one">%d godina</item>
+        <item quantity="few">%d godine</item>
+        <item quantity="other">%d godina</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="one">Imaš li %d godinu?\n\n Ako datum rođenja nije točan, možda nećeš doživjeti TikTok na pravi način. Možda ga nećeš moći odmah promijeniti.</item>
+        <item quantity="few">Imaš li %d godine?\n\n Ako datum rođenja nije točan, možda nećeš doživjeti TikTok na pravi način. Možda ga nećeš moći odmah promijeniti.</item>
+        <item quantity="other">Imaš li %d godina?\n\n Ako datum rođenja nije točan, možda nećeš doživjeti TikTok na pravi način. Možda ga nećeš moći odmah promijeniti.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="one">Imaš li %d godinu?</item>
+        <item quantity="few">Imaš li %d godine?</item>
+        <item quantity="other">Imaš li %d godina?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="one">Unesena je starosna dob od %d godine. Unesi pravi datum rođenja.</item>
+        <item quantity="few">Unesena je starosna dob od %d godine. Unesi pravi datum rođenja.</item>
+        <item quantity="other">Unesena je starosna dob od %d godina. Unesi pravi datum rođenja.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="one">%d godina</item>
+        <item quantity="few">%d godine</item>
+        <item quantity="other">%d godina</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="one">%d zvuk</item>
+        <item quantity="few">%d zvuka</item>
+        <item quantity="other">%d zvukova</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="one">Sinkroniziranje zvuka...</item>
+        <item quantity="few">Sinkroniziranje zvuka...</item>
+        <item quantity="other">Sinkroniziranje zvukova...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="one">%s dijeljenje</item>
+        <item quantity="few">%s dijeljenja</item>
+        <item quantity="other">%s dijeljenja</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="one">%s pregled</item>
+        <item quantity="few">%s pregleda</item>
+        <item quantity="other">%s pregleda</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="one">Glasovni efekti mogu smanjiti točnost</item>
+        <item quantity="few">Glasovni efekti mogu smanjiti točnost</item>
+        <item quantity="other">Glasovni efekti mogu smanjiti točnost</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="one">Učitaj najviše %d datoteku</item>
+        <item quantity="few">Učitaj najviše %d datoteke</item>
+        <item quantity="other">Učitaj najviše %d datoteka</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="one">[num] videoprijenos</item>
+        <item quantity="few">[num] videozapisi</item>
+        <item quantity="other">[num] videozapisi</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="one">Ova beta verzija istječe za %d dan</item>
+        <item quantity="few">Ova beta verzija istječe za %d dana</item>
+        <item quantity="other">Ova beta verzija istječe za %d dana</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="one">Istječe za %d dan</item>
+        <item quantity="few">Istječe za %d dana</item>
+        <item quantity="other">Istječe za %d dana</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="one">Istječe za %d dan</item>
+        <item quantity="few">Istječe za %d dana</item>
+        <item quantity="other">Istječe za %d dana</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="one">Istječe za %d dan</item>
+        <item quantity="few">Istječe za %d dana</item>
+        <item quantity="other">Istječe za %d dana</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="one">Možeš dodati najviše %d knjigu</item>
+        <item quantity="few">Možeš dodati do %d knjige</item>
+        <item quantity="other">Možeš dodati do %d knjiga</item>
+    </plurals>
+    <plurals name="bo">
+        <item quantity="one">je podijelio/la fotografiju</item>
+        <item quantity="few">je podijelio/la fotografije</item>
+        <item quantity="other">je podijelio/la fotografije</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="one">%s izrezak videozapisa</item>
+        <item quantity="few">%s izrezak videozapisa</item>
+        <item quantity="other">%s izrezaka videozapisa</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="one">Pogledaj još %d</item>
+        <item quantity="few">Pogledaj još %d</item>
+        <item quantity="other">Pogledaj još %d</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="one">Pogledaj %d odgovor</item>
+        <item quantity="few">Pogledaj %d odgovora</item>
+        <item quantity="other">Pogledaj %d odgovora</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="one">%d mjesec</item>
+        <item quantity="few">%d mjeseca</item>
+        <item quantity="other">%d mjeseci</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="one">%d godina</item>
+        <item quantity="few">%d godine</item>
+        <item quantity="other">%d godina</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="one">Blokiraj račun</item>
+        <item quantity="few">Blokiraj račune</item>
+        <item quantity="other">Blokiraj račune</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="one">%d odabran račun.</item>
+        <item quantity="few">%d odabrana računa.</item>
+        <item quantity="other">%d odabranih računa.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="one">Možeš istovremeno odabrati do %d videozapis.</item>
+        <item quantity="few">Možeš istovremeno odabrati do %d videozapisa.</item>
+        <item quantity="other">Možeš istovremeno odabrati do %d videozapisa.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="one">Odabran je %d račun za blokiranje. Blokirani računi ne mogu vidjeti tvoj profil ili sadržaj na TikToku.</item>
+        <item quantity="few">Odabrana su %d računa za blokiranje. Blokirani računi ne mogu vidjeti tvoj profil ili sadržaj na TikToku.</item>
+        <item quantity="other">Odabrano je %d računa za blokiranje. Blokirani računi ne mogu vidjeti tvoj profil ili sadržaj na TikToku.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="one">Blokiraj %d račun?</item>
+        <item quantity="few">Blokiraj %d računa?</item>
+        <item quantity="other">Blokiraj %d računa?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="one">Izbriši komentar</item>
+        <item quantity="few">Izbriši komentare</item>
+        <item quantity="other">Izbriši komentare</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="one">Odabran je %d komentar.</item>
+        <item quantity="few">Odabrana su %d komentara.</item>
+        <item quantity="other">Odabrano je %d komentara.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="one">Izbriši %d komentar?</item>
+        <item quantity="few">Izbriši %d komentara?</item>
+        <item quantity="other">Izbriši %d komentara?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="one">Komentar izbrisan</item>
+        <item quantity="few">Komentari izbrisani</item>
+        <item quantity="other">Komentari izbrisani</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="one">%d odabran komentar.</item>
+        <item quantity="few">%d odabrana komentara.</item>
+        <item quantity="other">%d odabranih komentara.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="one">Možeš istovremeno odabrati do %d komentar.</item>
+        <item quantity="few">Možeš istovremeno odabrati do %d komentara.</item>
+        <item quantity="other">Možeš istovremeno odabrati do %d komentara.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="one">Prijavi komentar</item>
+        <item quantity="few">Prijavi komentare</item>
+        <item quantity="other">Prijavi komentare</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="one">Prijavljen je %d komentar. Pregledat ćemo ovaj komentar zbog neprimjerenog sadržaja.</item>
+        <item quantity="few">Prijavljena su %d komentara. Pregledat ćemo ove komentare zbog neprimjerenog sadržaja.</item>
+        <item quantity="other">Prijavljeno je %d komentara. Pregledat ćemo ove komentare zbog neprimjerenog sadržaja.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="one">Prijavi %d komentar?</item>
+        <item quantity="few">Prijavi %d komentara?</item>
+        <item quantity="other">Prijavi %d komentara?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="one">Komentar prijavljen</item>
+        <item quantity="few">Komentari prijavljeni</item>
+        <item quantity="other">Komentari prijavljeni</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="one">%s komentar</item>
+        <item quantity="few">%s komentara</item>
+        <item quantity="other">%s komentara</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="one">%s videozapis</item>
+        <item quantity="few">%s videozapisa</item>
+        <item quantity="other">%s videozapisa</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="one">%s korisnik je postavio podsjetnik</item>
+        <item quantity="few">%s korisnika su postavila podsjetnike</item>
+        <item quantity="other">%s korisnika je postavilo podsjetnike</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="one">%s efekt</item>
+        <item quantity="few">%s efekta</item>
+        <item quantity="other">%s efekata</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="one">Pregled videozapisa</item>
+        <item quantity="few">Pregleda videozapisa</item>
+        <item quantity="other">Pregleda videozapisa</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="one">%d%%</item>
+        <item quantity="few">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="one">Stvarni pratitelj</item>
+        <item quantity="few">Stvarna pratitelja</item>
+        <item quantity="other">Stvarnih pratitelja</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="one">%d%%</item>
+        <item quantity="few">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="one">Sviđa mi se</item>
+        <item quantity="few">Sviđa mi se</item>
+        <item quantity="other">Sviđa mi se</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="one">%d%%</item>
+        <item quantity="few">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="one">%s korisnik je postavio podsjetnik</item>
+        <item quantity="few">%s korisnika su postavila podsjetnike</item>
+        <item quantity="other">%s korisnika je postavilo podsjetnike</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="one">Izbriši probnu verziju?</item>
+        <item quantity="few">Izbriši probne verzije?</item>
+        <item quantity="other">Izbriši probne verzije?</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="one">%s objava</item>
+        <item quantity="few">%s objave</item>
+        <item quantity="other">%s objava</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="one">Neispravan pristupni PIN. Preostao je %d pokušaj.</item>
+        <item quantity="few">Neispravan pristupni PIN. Preostala su %d pokušaja.</item>
+        <item quantity="other">Neispravan pristupni PIN. Preostalo je %d pokušaja.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="one">Previše pokušaja. Pokušaj ponovno za %d minutu.</item>
+        <item quantity="few">Previše pokušaja. Pokušaj ponovno za %d minute.</item>
+        <item quantity="other">Previše pokušaja. Pokušaj ponovno za %d minuta.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="one">%d melodija</item>
+        <item quantity="few">%d melodije</item>
+        <item quantity="other">%d melodija</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="one">%d glazba</item>
+        <item quantity="few">%d glazbe</item>
+        <item quantity="other">%d glazba</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="one">%d dio</item>
+        <item quantity="few">%d dijela</item>
+        <item quantity="other">%d dijelova</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="one">%d pjesma</item>
+        <item quantity="few">%d pjesme</item>
+        <item quantity="other">%d pjesama</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="one">%d zvuk</item>
+        <item quantity="few">%d zvuka</item>
+        <item quantity="other">%d zvukova</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="one">%d melodija</item>
+        <item quantity="few">%d melodije</item>
+        <item quantity="other">%d melodija</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="one">Pošalji (%d)</item>
+        <item quantity="few">Pošalji (%d)</item>
+        <item quantity="other">Pošalji (%d)</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="one">%1$d prati · %2$d pratitelj</item>
+        <item quantity="few">%1$d prati · %2$d pratitelja</item>
+        <item quantity="other">%1$d prati · %2$d pratitelja</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="one">@ novo spominjanje</item>
+        <item quantity="few">@ nova spominjanja</item>
+        <item quantity="other">@ novih spominjanja</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="one">poslao/la je nove poruke.</item>
+        <item quantity="few">poslali/le su nove poruke.</item>
+        <item quantity="other">poslali/le su nove poruke.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="one">poslao/la ti je nove poruke.</item>
+        <item quantity="few">poslali/le su ti nove poruke.</item>
+        <item quantity="other">poslali/le su ti nove poruke.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="one">Možeš odabrati do %d osobu</item>
+        <item quantity="few">Možeš odabrati do %d osobe</item>
+        <item quantity="other">Možeš odabrati do %d osoba</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="one">Odbaci probnu verziju?</item>
+        <item quantity="few">Odbaci probne verzije?</item>
+        <item quantity="other">Odbaci probne verzije?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="one">Izbriši probnu verziju?</item>
+        <item quantity="few">Izbriši probne verzije?</item>
+        <item quantity="other">Izbriši probne verzije?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="one">Probne verzije {#} videozapisa</item>
+        <item quantity="few">Probne verzije {#} videozapisa</item>
+        <item quantity="other">Probne verzije {#} videozapisa</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="one">%1$s i %2$s drugi bit će obaviješteni o objavljivanju ovog videozapisa.</item>
+        <item quantity="few">%1$s i %2$s druga bit će obaviješteni o objavljivanju ovog videozapisa.</item>
+        <item quantity="other">%1$s i %2$s drugih bit će obaviješteno o objavljivanju ovog videozapisa.</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="one">Odaberi barem %d proizvod</item>
+        <item quantity="few">Odaberi barem %d proizvoda</item>
+        <item quantity="other">Odaberi barem %d proizvoda</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="one">Naknadna recenzija %d dan kasnije</item>
+        <item quantity="few">Naknadna recenzija %d dana kasnije</item>
+        <item quantity="other">Naknadna recenzija %d dana kasnije</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="one">Završava za %s dan</item>
+        <item quantity="few">Završava za %s dana</item>
+        <item quantity="other">Završava za %s dana</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="one">%1$s artikl, ukupno %2$s</item>
+        <item quantity="few">%1$s artikla, ukupno %2$s</item>
+        <item quantity="other">%1$s artikala, ukupno %2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="one">Ukupno (%s artikl)</item>
+        <item quantity="few">Ukupno (%s artikla)</item>
+        <item quantity="other">Ukupno (%s artikala)</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="one">Možeš urediti najviše %d put</item>
+        <item quantity="few">Možeš urediti najviše %d puta</item>
+        <item quantity="other">Možeš urediti najviše %d puta</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="one">Pretpregledaj efekt u %d s</item>
+        <item quantity="few">Pretpregledaj efekt u %d s</item>
+        <item quantity="other">Pretpregledaj efekt u %d s</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="one">Označen</item>
+        <item quantity="few">Označeni</item>
+        <item quantity="other">Označeni</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="one">Možda znaš ovog/ovu člana/icu grupe.</item>
+        <item quantity="few">Možda znaš ove članove/ice grupe.</item>
+        <item quantity="other">Možda znaš ove članove/ice grupe.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="one">%s videozapis</item>
+        <item quantity="few">%s videozapisa</item>
+        <item quantity="other">%s videozapisa</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="one">%s dodani videozapis</item>
+        <item quantity="few">%s dodana videozapisa</item>
+        <item quantity="other">%s dodanih videozapisa</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="one">Ukloni %1$d videozapis iz %2$s</item>
+        <item quantity="few">Ukloni %1$d videozapisa iz %2$s</item>
+        <item quantity="other">Ukloni %1$d videozapisa iz %2$s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="one">%1$d videozapis premješten u %2$s</item>
+        <item quantity="few">%1$d videozapisa premještena u %2$s</item>
+        <item quantity="other">%1$d videozapisa premještenih u %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="one">%d uklonjeni videozapis</item>
+        <item quantity="few">%d uklonjena videozapisa</item>
+        <item quantity="other">%d uklonjenih videozapisa</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="one">%d novi predloženi račun</item>
+        <item quantity="few">%d nova predložena računa</item>
+        <item quantity="other">%d novih predloženih računa</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="one">Prati ga /ju %s</item>
+        <item quantity="few">Prate ga/ju %s + još %d osobe</item>
+        <item quantity="other">Prate ga/ju %s + još %d osoba</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="one">Prati %s</item>
+        <item quantity="few">Prati %s + još %d osobe</item>
+        <item quantity="other">Prati %s + još %d osoba</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="one">Prate {0}, {1} i još {2} osoba</item>
+        <item quantity="few">Prate {0}, {1} i još {2} osobe</item>
+        <item quantity="other">Prate {0}, {1} i još {2} osoba</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="one">Prate {0} i još {2} osoba</item>
+        <item quantity="few">Prate {0} i još {2} osobe</item>
+        <item quantity="other">Prate {0} i još {2} osoba</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="one">Prati {0}, {1} i još {2} osobu</item>
+        <item quantity="few">Prati {0}, {1} i još {2} osobe</item>
+        <item quantity="other">Prati {0}, {1} i još {2} osoba</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="one">Prati {0} i još {2} osobu</item>
+        <item quantity="few">Prati {0} i još {2} osobe</item>
+        <item quantity="other">Prati {0} i još {2} osoba</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="one">Prijatelj s {0}, {1} i još {2} osobom</item>
+        <item quantity="few">Prijatelj s {0}, {1} i još {2} osobe</item>
+        <item quantity="other">Prijatelj s {0}, {1} i još {2} osoba</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="one">Prijatelj s {0} i još {2} osobom</item>
+        <item quantity="few">Prijatelj s {0} i još {2} osobe</item>
+        <item quantity="other">Prijatelj s {0} i još {2} osoba</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="one">{2} zajednički poznanik</item>
+        <item quantity="few">{2} zajednička poznanika</item>
+        <item quantity="other">{2} zajedničkih poznanika</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="one">Prijatelj s %s</item>
+        <item quantity="few">Prijatelj s %s + još %d osobe</item>
+        <item quantity="other">Prijatelj s %s + još %d osoba</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="one">%d nova objava prijatelja</item>
+        <item quantity="few">%d nove objave prijatelja</item>
+        <item quantity="other">%d novih objava prijatelja</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="one">%d član je aktivan sada</item>
+        <item quantity="few">%d člana su aktivni sada</item>
+        <item quantity="other">%d članova je aktivno sada</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="one">%1$d član aktivan pred %2$d minuta</item>
+        <item quantity="few">%1$d člana su bila aktivna pred %2$d minuta</item>
+        <item quantity="other">%1$d članova je bilo aktivno pred %2$d minuta</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="one">%d član je aktivan danas</item>
+        <item quantity="few">%d člana su aktivna danas</item>
+        <item quantity="other">%d članova je aktivno danas</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="one">%d član</item>
+        <item quantity="few">%d člana</item>
+        <item quantity="other">%d članova</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="one">Novi zahtjev</item>
+        <item quantity="few">Novi zahtjevi</item>
+        <item quantity="other">Novi zahtjevi</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="one">%s član</item>
+        <item quantity="few">%s člana</item>
+        <item quantity="other">%s članova</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="one">Vidi još %d člana</item>
+        <item quantity="few">Vidi još %d člana</item>
+        <item quantity="other">Vidi još %d članova</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="one">%s pregled</item>
+        <item quantity="few">%s pregleda</item>
+        <item quantity="other">%s pregleda</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="one">Pratitelj: %s</item>
+        <item quantity="few">Pratitelji: %s</item>
+        <item quantity="other">Pratitelji: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="one">Videozapis: %s</item>
+        <item quantity="few">Videozapisi: %s</item>
+        <item quantity="other">Videozapisi: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="one">Pošalji %s i još %d osobi</item>
+        <item quantity="few">Pošalji %s i još %d osobama</item>
+        <item quantity="other">Pošalji %s i još %d osoba</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="one">%d Priča se ne može učitati. Priča je spremljena u tvoje probne verzije.</item>
+        <item quantity="few">%d Priče se ne mogu učitati. Priče su spremljene u tvoje probne verzije.</item>
+        <item quantity="other">%d Priča se ne može učitati. Priče su spremljene u tvoje probne verzije.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="one">Fotografija se ne može učitati. Fotografija je spremljena u tvoje probne verzije.</item>
+        <item quantity="few">Fotografije se ne mogu učitati. Fotografije su spremljene u tvoje probne verzije.</item>
+        <item quantity="other">Fotografije se ne mogu učitati. Fotografije su spremljene u tvoje probne verzije.</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="one">%d naljepnica</item>
+        <item quantity="few">%d naljepnice</item>
+        <item quantity="other">%d naljepnica</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="one">te spomenuo/la na fotografiji.</item>
+        <item quantity="few">te spomenuo/la na fotografijama.</item>
+        <item quantity="other">te spomenuo/la na fotografijama.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="one">%s nova objava</item>
+        <item quantity="few">%s nove objave</item>
+        <item quantity="other">%s novih objava</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="one">Aktivnost</item>
+        <item quantity="few">Aktivnosti</item>
+        <item quantity="other">Aktivnosti</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="one">Prati %1$s, %2$s i još %d osobu koju možda poznaješ da bi gledao/la njihove videozapise.</item>
+        <item quantity="few">Prati %1$s, %2$s i još %d osobe koje možda poznaješ da bi gledao/la njihove videozapise.</item>
+        <item quantity="other">Prati %1$s, %2$s i još %d osoba koje možda poznaješ da bi gledao/la njihove videozapise.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="one">Još %d osoba</item>
+        <item quantity="few">Još %d osobe</item>
+        <item quantity="other">Još %d osoba</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="one">Prati %1$s, %2$s i još %3$d osobu koju možda poznaješ da bi gledao/la njihove videozapise.</item>
+        <item quantity="few">Prati %1$s, %2$s i još %3$d osobe koju možda poznaješ da bi gledao/la njihove videozapise.</item>
+        <item quantity="other">Prati %1$s, %2$s i još %3$d osoba koje možda poznaješ da bi gledao/la njihove videozapise.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="one">Poruka</item>
+        <item quantity="few">Poruke</item>
+        <item quantity="other">Poruke</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="one">Nova aktivnost</item>
+        <item quantity="few">Nove aktivnosti</item>
+        <item quantity="other">Nove aktivnosti</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="one">%s član</item>
+        <item quantity="few">%s člana</item>
+        <item quantity="other">%s članova</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="one">%s objava</item>
+        <item quantity="few">%s objave</item>
+        <item quantity="other">%s objava</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="one">%d ključna riječ</item>
+        <item quantity="few">%d ključne riječi</item>
+        <item quantity="other">%d ključnih riječi</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="one">%d videozapis UŽIVO</item>
+        <item quantity="few">%d videozapisa UŽIVO</item>
+        <item quantity="other">%d videozapisa UŽIVO</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="one">Završava za %s dan</item>
+        <item quantity="few">Završava za %s dana</item>
+        <item quantity="other">Završava za %s dana</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="one">Možeš odabrati najviše %1$d medijsku datoteku</item>
+        <item quantity="few">Možeš odabrati najviše %1$d medijske datoteke</item>
+        <item quantity="other">Možeš odabrati najviše %1$d medijskih datoteka</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="one">%d zahtjev</item>
+        <item quantity="few">%d zahtjeva</item>
+        <item quantity="other">%d zahtjeva</item>
+    </plurals>
+    <plurals name="j0">
+        <item quantity="one">%d nova obavijest</item>
+        <item quantity="few">%d nove obavijesti</item>
+        <item quantity="other">%d novih obavijesti</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="one">Poništi odabir pjesme kao nove?</item>
+        <item quantity="few">Poništi odabir pjesama kao novih?</item>
+        <item quantity="other">Poništi odabir pjesama kao novih?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="one">Poništen odabir %d pjesme kao nove</item>
+        <item quantity="few">Poništen odabir %d pjesme kao nove</item>
+        <item quantity="other">Poništen odabir %d pjesama kao novih</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="one">%d izdanje</item>
+        <item quantity="few">%d izdanja</item>
+        <item quantity="other">%d izdanja</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="one">%d izvođač</item>
+        <item quantity="few">%d izvođača</item>
+        <item quantity="other">%d izvođača</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="one">%d zajednički poznanik</item>
+        <item quantity="few">%d zajednička poznanika</item>
+        <item quantity="other">%d zajedničkih poznanika</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="one">%d zajednički poznanik</item>
+        <item quantity="few">%d zajednička poznanika</item>
+        <item quantity="other">%d zajedničkih poznanika</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="one">Sada možeš učitati videozapise koji traju do %d minutu!</item>
+        <item quantity="few">Sada možeš učitati videozapise koji traju do %d minute!</item>
+        <item quantity="other">Sada možeš učitati videozapise koji traju do %d minuta!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="one">Predstavljamo %d-minutni videozapis</item>
+        <item quantity="few">Predstavljamo %d-minutni videozapis</item>
+        <item quantity="other">Predstavljamo %d-minutni videozapis</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="one">%d zajednički poznanik</item>
+        <item quantity="few">%d zajednička poznanika</item>
+        <item quantity="other">%d zajedničkih poznanika</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="one">%d komentar</item>
+        <item quantity="few">%d komentara</item>
+        <item quantity="other">%d komentara</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="one">Pogledaj %d komentar</item>
+        <item quantity="few">Pogledaj sva %d komentara</item>
+        <item quantity="other">Pogledaj svih %d komentara</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="one">{nickname} i još {number_1} osoba</item>
+        <item quantity="few">{nickname} i još {number_1} osobe</item>
+        <item quantity="other">{nickname} i još {number_1} osoba</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="one">{number} prijatelj je objavio današnji Now</item>
+        <item quantity="few">{number} prijatelja su objavila današnji Now</item>
+        <item quantity="other">{number} prijatelja je objavilo današnji Now</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="one">%1$s i još %2$d osoba objavili su svoj Now</item>
+        <item quantity="few">%1$s i još %2$d osobe objavili su svoj Now</item>
+        <item quantity="other">%1$s i još %2$d osoba objavili su svoj Now</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="one">{nickname} i još {number_1} osoba</item>
+        <item quantity="few">{nickname} i još {number_1} osobe</item>
+        <item quantity="other">{nickname} i još {number_1} osoba</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="one">Pridruži se {number} prijatelju na TikTok Now u dijeljenju nasumičnih trenutaka</item>
+        <item quantity="few">Pridruži se {number} prijateljima na TikTok Now u dijeljenju nasumičnih trenutaka</item>
+        <item quantity="other">Pridruži se {number} prijatelja na TikTok Now u dijeljenju nasumičnih trenutaka</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="one">Objavi svoj Now tijekom sljedeće {number} minute</item>
+        <item quantity="few">Objavi svoj Now tijekom sljedeće {number} minute</item>
+        <item quantity="other">Objavi svoj Now tijekom sljedećih {number} minuta</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="one">%d minuta preostala za objaviti Now.</item>
+        <item quantity="few">%d minute preostale za objaviti Now.</item>
+        <item quantity="other">%d minuta preostalo za objaviti Now.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="one">%d zajednički prijatelj</item>
+        <item quantity="few">%d zajednička prijatelja</item>
+        <item quantity="other">%d zajedničkih prijatelja</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="one">%d oznaka „sviđa mi se”</item>
+        <item quantity="few">%d oznake „sviđa mi se”</item>
+        <item quantity="other">%d oznaka „sviđa mi se”</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="one">{1}, {2}, {3} i još {number} osoba upravo su objavili Now.</item>
+        <item quantity="few">{1}, {2}, {3} i još {number} osobe upravo su objavili Now.</item>
+        <item quantity="other">{1}, {2}, {3} i još {number} osoba upravo su objavili Now.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="one">%d reakcija</item>
+        <item quantity="few">%d reakcije</item>
+        <item quantity="other">%d reakcija</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="one">%d pregled</item>
+        <item quantity="few">%d pregleda</item>
+        <item quantity="other">%d pregleda</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="one">%d pregled</item>
+        <item quantity="few">%d pregleda</item>
+        <item quantity="other">%d pregleda</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="one">%1$s i još %2$s</item>
+        <item quantity="few">%1$s i još %2$s</item>
+        <item quantity="other">%1$s i još %2$s</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="one">Tvoja objava sinkronizirana s Lemon8 još nema zvuk. Dodaj zvuk da bi tvoja objava bila privlačnija gledateljima.</item>
+        <item quantity="few">Tvoje objave sinkronizirane s Lemon8 još nemaju zvuk. Dodaj zvuk da bi tvoje objave bile privlačnije gledateljima.</item>
+        <item quantity="other">Tvoje objave sinkronizirane s Lemon8 još nemaju zvuk. Dodaj zvuk da bi tvoje objave bile privlačnije gledateljima.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="one">Dodaj zvuk da poboljšaš svoju objavu</item>
+        <item quantity="few">Dodaj zvuk da poboljšaš svoje objave</item>
+        <item quantity="other">Dodaj zvuk da poboljšaš svoje objave</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="one">se sviđa tvoja fotografija.</item>
+        <item quantity="few">se sviđaju tvoje fotografije.</item>
+        <item quantity="other">se sviđaju tvoje fotografije.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="one">je glasao/la za tvoju fotografiju.</item>
+        <item quantity="few">je glasao/la za tvoje fotografije.</item>
+        <item quantity="other">je glasao/la za tvoje fotografije.</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="one">%d epizoda</item>
+        <item quantity="few">%d epizode</item>
+        <item quantity="other">%d epizoda</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="one">%d dio</item>
+        <item quantity="few">%d dijela</item>
+        <item quantity="other">%d dijelova</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="one">Možeš ga poslati još %d put</item>
+        <item quantity="few">Možeš ga poslati još %d puta</item>
+        <item quantity="other">Možeš ga poslati još %d puta</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="one">%d gledatelj je zatražio</item>
+        <item quantity="few">%d gledatelja su zatražila</item>
+        <item quantity="other">%d gledatelja je zatražilo</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="one">Pristup će biti vraćen za %s dan</item>
+        <item quantity="few">Pristup će biti vraćen za %s dana</item>
+        <item quantity="other">Pristup će biti vraćen za %s dana</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="one">%s Novčić od prvog najboljeg gledatelja</item>
+        <item quantity="few">%s Novčića od prvog najboljeg gledatelja</item>
+        <item quantity="other">%s Novčića od prvog najboljeg gledatelja</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="one">%s Novčić od drugog najboljeg gledatelja</item>
+        <item quantity="few">%s Novčića od drugog najboljeg gledatelja</item>
+        <item quantity="other">%s Novčića od drugog najboljeg gledatelja</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="one">%s pratitelj</item>
+        <item quantity="few">%s pratitelja</item>
+        <item quantity="other">%s pratitelja</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="one">Kupi %s dostupni artikl</item>
+        <item quantity="few">Kupi {number} dostupna artikla</item>
+        <item quantity="other">Kupi {number} dostupnih artikala</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="one">Kupi %s dostupni artikl</item>
+        <item quantity="few">Kupi {number} dostupna artikla</item>
+        <item quantity="other">Kupi {number} dostupnih artikala</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="one">%s Novčić dodijeljen je kreatoru prijenosa UŽIVO</item>
+        <item quantity="few">%s Novčića dodijeljena su kreatoru prijenosa UŽIVO</item>
+        <item quantity="other">%s Novčića dodijeljeno je kreatoru prijenosa UŽIVO</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="one">%s oznaka „Sviđa mi se”</item>
+        <item quantity="few">%s oznake „Sviđa mi se”</item>
+        <item quantity="other">%s oznaka „Sviđa mi se”</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="one">%s gledatelj</item>
+        <item quantity="few">%s gledatelja</item>
+        <item quantity="other">%s gledatelja</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="one">%s dijeljenje. Dijeljenje videozapisa</item>
+        <item quantity="few">%s dijeljenja. Dijeljenje videozapisa</item>
+        <item quantity="other">%s dijeljenja. Dijeljenje videozapisa</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="one">%1$s je glasao/la: %2$s”</item>
+        <item quantity="few">%1$s su glasali: %2$s</item>
+        <item quantity="other">%1$s je glasalo: %2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="one">%1$s je glasao/la za %2$s, %3$s je glasao/la za %4$s</item>
+        <item quantity="few">%1$s su glasala za %2$s, %3$s su glasala za %4$s</item>
+        <item quantity="other">%1$s je glasalo za %2$s, %3$s je glasalo za %4$s</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="one">Za %d min</item>
+        <item quantity="few">Za %d min</item>
+        <item quantity="other">Za %d min</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="one">Još %d iskustveni bod za prelazak na višu razinu</item>
+        <item quantity="few">Još %d iskustvena boda za prelazak na višu razinu</item>
+        <item quantity="other">Još %d iskustvenih bodova za prelazak na višu razinu</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="one">Tvoje nagrade prelaze u stanje mirovanja za %d dan</item>
+        <item quantity="few">Tvoje nagrade prelaze u stanje mirovanja za %d dana</item>
+        <item quantity="other">Tvoje nagrade prelaze u stanje mirovanja za %d dana</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="one">Završi prijenos UŽIVO? %s gledatelj trenutačno gleda.</item>
+        <item quantity="few">Završi prijenos UŽIVO? %s gledatelja trenutačno gleda.</item>
+        <item quantity="other">Završi prijenos UŽIVO? %s gledatelja trenutačno gleda.</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="one">Završi prijenos UŽIVO? %s gledatelj trenutačno gleda.</item>
+        <item quantity="few">Završi prijenos UŽIVO? %s gledatelja trenutačno gleda.</item>
+        <item quantity="other">Završi ovaj prijenos UŽIVO? %s gledatelji trenutačno gledaju.</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="one">%s nova poruka</item>
+        <item quantity="few">%s nove poruke</item>
+        <item quantity="other">%s novih poruka</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="one">Suvodio/la je {num} dan</item>
+        <item quantity="few">Suvodio/la je {num} dana zaredom</item>
+        <item quantity="other">Suvodio/la je {num} dana zaredom</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="one">Nedostaje {number} Novčić</item>
+        <item quantity="few">Nedostaje {number} Novčića</item>
+        <item quantity="other">Nedostaje {number} Novčića</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="one">Najviše u posljednjih {number} dana: {amount} Novčić</item>
+        <item quantity="few">Najviše u posljednjih {number} dana: {amount} Novčića</item>
+        <item quantity="other">Najviše u posljednjih {number} dana: {amount} Novčića</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="one">Predloženo: {amount} Novčić</item>
+        <item quantity="few">Predloženo: {amount} Novčića</item>
+        <item quantity="other">Predloženo: {amount} Novčića</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="one">Imaš {number} Novčić. Možeš napraviti nadopunu da dobiješ više Novčića.</item>
+        <item quantity="few">Imaš {number} Novčića. Možeš napraviti nadopunu da dobiješ više Novčića.</item>
+        <item quantity="other">Imaš {number} Novčića. Možeš napraviti nadopunu da dobiješ više Novčića.</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="one">Pogođena riječ (%d)</item>
+        <item quantity="few">Pogođene riječi (%d)</item>
+        <item quantity="other">Pogođene riječi (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="one">%s pogodak</item>
+        <item quantity="few">%s pogotka</item>
+        <item quantity="other">%s pogodaka</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="one">%s gledatelj je pogodio��</item>
+        <item quantity="few">%s gledatelja su pogodila ��</item>
+        <item quantity="other">%s gledatelja je pogodilo ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="one">Većina gledatelja pogodila je %s riječ</item>
+        <item quantity="few">Većina gledatelja pogodila je %s riječi</item>
+        <item quantity="other">Većina gledatelja pogodila je %s riječi</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="one">Nijedan gledatelj nije pogodio riječ</item>
+        <item quantity="few">Nijedan gledatelj nije pogodio riječi</item>
+        <item quantity="other">Nijedan gledatelj nije pogodio riječi</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="one">%s minuta za nacrtati riječ</item>
+        <item quantity="few">%s minute za nacrtati riječ</item>
+        <item quantity="other">%s minuta za nacrtati riječ</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="one">�� %d gledatelj je pogodio %s</item>
+        <item quantity="few">�� %d gledatelja su pogodila %s</item>
+        <item quantity="other">�� %d gledatelja je pogodilo %s</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="one">Pogodio/la sam %s riječ!</item>
+        <item quantity="few">Pogodio/la sam %s riječi!</item>
+        <item quantity="other">Pogodio/la sam %s riječi!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="one">Pogodio/la si %s riječ</item>
+        <item quantity="few">Pogodio/la si %s riječi</item>
+        <item quantity="other">Pogodio/la si %s riječi</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="one">{0:string} i još {1:string} kupac kupuju</item>
+        <item quantity="few">{0:string} i još {1:string} kupca kupuju</item>
+        <item quantity="other">{0:string} i još {1:string} kupaca kupuje</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="one">%d slika nije dovoljno velika. Veličina slike mora biti najmanje 256 x 256 piksela.</item>
+        <item quantity="few">%d slike nisu dovoljno velike. Veličina slike mora biti najmanje 256 x 256 piksela.</item>
+        <item quantity="other">%d slika nije dovoljno veliko. Veličina slike mora biti najmanje 256 x 256 piksela.</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="one">%d gledatelj</item>
+        <item quantity="few">%d gledatelja</item>
+        <item quantity="other">%d gledatelja</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="one">Imaš %d Novčić.</item>
+        <item quantity="few">Imaš %d Novčića.</item>
+        <item quantity="other">Imaš %d Novčića.</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="one">Možeš razmijeniti %@ za još %d Novčić da pošalješ ovaj Poklon.</item>
+        <item quantity="few">Možeš razmijeniti %@ za još %d Novčića da pošalješ ovaj Poklon.</item>
+        <item quantity="other">Možeš razmijeniti %@ za još %d Novčića da pošalješ ovaj Poklon.</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="one">Saldo Poklona UŽIVO razmijenjen je za {{num}} Novčić</item>
+        <item quantity="few">Saldo Poklona UŽIVO razmijenjen je za {{num}} Novčića</item>
+        <item quantity="other">Saldo Poklona UŽIVO razmijenjen je za {{num}} Novčića</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="one">Nedostaje ti %1$d Novčić. Zamijeniti %2$s za Novčiće i poslati %3$s?</item>
+        <item quantity="few">Nedostaje ti %1$d Novčića. Zamijeniti %2$s za Novčiće i poslati %3$s?</item>
+        <item quantity="other">Nedostaje ti %1$d Novčića. Zamijeniti %2$s za Novčiće i poslati %3$s?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="one">Zamijenio/la si %d Novčić i poslao/la %s</item>
+        <item quantity="few">Zamijenio/la si %d Novčića i poslao/la %s</item>
+        <item quantity="other">Zamijenio/la si %d Novčića i poslao/la %s</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="one">%s član</item>
+        <item quantity="few">%s člana</item>
+        <item quantity="other">%s članova</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="one">S tobom je {num} dan</item>
+        <item quantity="few">S tobom je {num} dana</item>
+        <item quantity="other">S tobom je {num} dana</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="one">Osvoji 1 bod za člana u roku od {num} h da ostaneš aktivan</item>
+        <item quantity="few">Osvoji 1 bod za člana u roku od {num} h da ostaneš aktivan</item>
+        <item quantity="other">Osvoji 1 bod za člana u roku od {num} h da ostaneš aktivan</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="one">Može se poslati za %1$d Novčić još %2$d put.</item>
+        <item quantity="few">Može se poslati za %1$d Novčić još %2$d puta.</item>
+        <item quantity="other">Može se poslati za %1$d Novčić još %2$d puta.</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="one">%d je pratitelj trenutačno aktivan</item>
+        <item quantity="few">%d su pratitelja trenutačno aktivna</item>
+        <item quantity="other">%d je pratitelja trenutačno aktivno</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="one">{number} od tvojih prijatelja emitira UŽIVO. Pozovi ga/ju na zajedničko emitiranje UŽIVO!</item>
+        <item quantity="few">{number} tvoja prijatelja emitiraju UŽIVO. Pozovi ih na zajedničko emitiranje UŽIVO!</item>
+        <item quantity="other">{number} tvojih prijatelja emitiraju UŽIVO. Pozovi ih na zajedničko emitiranje UŽIVO!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="one">Nadoplatom otključaj {num} dodatni Novčić</item>
+        <item quantity="few">Nadoplatom otključaj {num} dodatna Novčića</item>
+        <item quantity="other">Nadoplatom otključaj {num} dodatnih Novčića</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="one">{num} dan</item>
+        <item quantity="few">{num} dana</item>
+        <item quantity="other">{num} dana</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="one">Otključaj {num} Novčić</item>
+        <item quantity="few">Otključaj {num} Novčića</item>
+        <item quantity="other">Otključaj {num} Novčića</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="one">{num}] Novčić</item>
+        <item quantity="few">{num} Novčića</item>
+        <item quantity="other">{num} Novčića</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="one">Otključat ćeš {num} dodatni Novčić.</item>
+        <item quantity="few">Otključat ćeš {num} dodatna Novčića.</item>
+        <item quantity="other">Otključat ćeš {num} dodatnih Novčića.</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="one">Nadoplati još {num_1} Novčić.</item>
+        <item quantity="few">Nadoplati još {num_1} Novčića.</item>
+        <item quantity="other">Nadoplati još {num_1} Novčića.</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="one">Nadoplati za otključavanje {num} dodatnog Novčića</item>
+        <item quantity="few">Nadoplati za otključavanje {num} dodatna Novčića</item>
+        <item quantity="other">Nadoplati za otključavanje {num} dodatnih Novčića</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="one">Posljednji {number} dan</item>
+        <item quantity="few">Posljednja {number} dana</item>
+        <item quantity="other">Posljednjih {number} dana</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="one">Cijena {gameName} i još {number} igre se promijenila. Pogledaj više u centru za partnerstvo.</item>
+        <item quantity="few">Cijena {gameName} i još {number} igre se promijenila. Pogledaj više u centru za partnerstvo.</item>
+        <item quantity="other">Cijena {gameName} i još {number} igara se promijenila. Pogledaj više u centru za partnerstvo.</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="one">Zbog kršenja Uvjeta programa u tvom je prijenosu UŽIVO poklanjanje obustavljeno na %s dan.</item>
+        <item quantity="few">Zbog kršenja Uvjeta programa u tvom je prijenosu UŽIVO poklanjanje obustavljeno na %s dana.</item>
+        <item quantity="other">Zbog kršenja Uvjeta programa u tvom je prijenosu UŽIVO poklanjanje obustavljeno na %s dana.</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="one">Poklanjanje je obustavljeno u ovom prijenosu UŽIVO i omogućit će se za %s min.</item>
+        <item quantity="few">Poklanjanje je obustavljeno u ovom prijenosu UŽIVO i omogućit će se za %s min.</item>
+        <item quantity="other">Poklanjanje je obustavljeno u ovom prijenosu UŽIVO i omogućit će se za %s min.</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="one">Poklanjanje je obustavljeno na {0} dan.</item>
+        <item quantity="few">Poklanjanje je obustavljeno na {0} dana.</item>
+        <item quantity="other">Poklanjanje je obustavljeno na {0} dana.</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="one">Poklanjanje je obustavljeno na %s dan</item>
+        <item quantity="few">Poklanjanje je obustavljeno na %s dana</item>
+        <item quantity="other">Poklanjanje je obustavljeno na %s dana</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="one">Pošalji za %d Novčić</item>
+        <item quantity="few">Pošalji za %d Novčića</item>
+        <item quantity="other">Pošalji za %d Novčića</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="one">Nadopuna je dovršena i sada imaš %d Novčić. Pošalji ovaj Poklon i pokaži svoju podršku!</item>
+        <item quantity="few">Nadopuna je dovršena i sada imaš %d Novčića. Pošalji ovaj Poklon i pokaži svoju podršku!</item>
+        <item quantity="other">Nadopuna je dovršena i sada imaš %d Novčića. Pošalji ovaj Poklon i pokaži svoju podršku!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="one">Zamjena je dovršena i sada imaš %d Novčić. Pošalji ovaj Poklon i pokaži svoju podršku!</item>
+        <item quantity="few">Zamjena je dovršena i sada imaš %d Novčića. Pošalji ovaj Poklon i pokaži svoju podršku!</item>
+        <item quantity="other">Zamjena je dovršena i sada imaš %d Novčića. Pošalji ovaj Poklon i pokaži svoju podršku!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="one">{0:user} poslao/la je {1:gift} ({2:string} bod) {3:string}, prvi Poklon koji je ikada poslao/la. Izrazi svoju zahvalnost!</item>
+        <item quantity="few">{0:user} poslao/la je {1:gift} ({2:string} boda) {3:string}, prvi Poklon koji je ikada poslao/la. Izrazi svoju zahvalnost!</item>
+        <item quantity="other">{0:user} poslao/la je {1:gift} ({2:string} bodova) {3:string}, prvi Poklon koji je ikada poslao/la. Izrazi svoju zahvalnost!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="one">{0:user} poslao/la je {1:gift} ({2:string} bod) {3:string}</item>
+        <item quantity="few">{0:user} poslao/la je {1:gift} ({2:string} boda) {3:string}</item>
+        <item quantity="other">{0:user} poslao/la je {1:gift} ({2:string} bodova) {3:string}</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="one">{0:user} poslao/la je {1:gift} ({2:string} bod) {3:string}</item>
+        <item quantity="few">{0:user} poslao/la je {1:gift} ({2:string} boda) {3:string}</item>
+        <item quantity="other">{0:user} poslao/la je {1:gift} ({2:string} bodova) {3:string}</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="one">{0:user} poslao/la je {1:gift} ({2:string} bod) {3:string} i otišao/la s kreatorom na lokaciju {4:city} prvi put na ovom putovanju!</item>
+        <item quantity="few">{0:user} poslao/la je {1:gift} ({2:string} boda) {3:string} i otišao/la s kreatorom na lokaciju {4:city} prvi put na ovom putovanju!</item>
+        <item quantity="other">{0:user} poslao/la je {1:gift} ({2:string} bodova) {3:string} i otišao/la na lokaciju {4:city} prvi put na ovom putovanju!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="one">Detalji Poklona ({{num}} transakcija ukupno)</item>
+        <item quantity="few">Detalji Poklona ({{num}} transakcije ukupno)</item>
+        <item quantity="other">Detalji Poklona ({{num}} transakcija ukupno)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="one">{amount} Novčić</item>
+        <item quantity="few">{amount} Novčića</item>
+        <item quantity="other">{amount} Novčića</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="one">Poklon</item>
+        <item quantity="few">Pokloni</item>
+        <item quantity="other">Pokloni</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="one">%d Novčić</item>
+        <item quantity="few">%d Novčića</item>
+        <item quantity="other">%d Novčića</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="one">Primio/la si %s Poklon. Ne zaboravi zahvaliti darivateljima.</item>
+        <item quantity="few">Primio/la si %s Poklona. Ne zaboravi zahvaliti darivateljima.</item>
+        <item quantity="other">Primio/la si %s Poklona. Ne zaboravi zahvaliti darivateljima.</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="one">Primio/la si %s Poklon</item>
+        <item quantity="few">Primio/la si %s Poklona</item>
+        <item quantity="other">Primio/la si %s Poklona</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="one">Dovrši razmjenu za %s Novčić?</item>
+        <item quantity="few">Dovrši razmjenu za %s Novčića?</item>
+        <item quantity="other">Dovrši razmjenu za %s Novčića?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="one">Emitiraj UŽIVO (%d s)</item>
+        <item quantity="few">Emitiraj UŽIVO (%d s)</item>
+        <item quantity="other">Emitiraj UŽIVO (%d s)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="one">%s zahtjev za gostovanje</item>
+        <item quantity="few">%s zahtjeva za gostovanje</item>
+        <item quantity="other">%s zahtjeva za gostovanje</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="one">%s zahtjev</item>
+        <item quantity="few">%s zahtjeva</item>
+        <item quantity="other">%s zahtjeva</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="one">%s bod</item>
+        <item quantity="few">%s boda</item>
+        <item quantity="other">%s bodova</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="one">%1$s bod za dostizanje %2$s</item>
+        <item quantity="few">%1$s boda za dostizanje %2$s</item>
+        <item quantity="other">%1$s bodova za dostizanje %2$s</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="one">%d gledatelj poslao je zahtjev</item>
+        <item quantity="few">%d gledatelja poslala su zahtjev</item>
+        <item quantity="other">%d gledatelja poslalo je zahtjev</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="one">Onemogućeno ti je emitiranje UŽIVO kao gostu do %d dan kasnije</item>
+        <item quantity="few">Onemogućeno ti je emitiranje UŽIVO kao gostu do %d dana kasnije</item>
+        <item quantity="other">Onemogućeno ti je emitiranje UŽIVO kao gostu do %d dana kasnije</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="one">Onemogućeno ti je emitiranje UŽIVO kao gostu do %d sat kasnije</item>
+        <item quantity="few">Onemogućeno ti je emitiranje UŽIVO kao gostu do %d sata kasnije</item>
+        <item quantity="other">Onemogućeno ti je emitiranje UŽIVO kao gostu do %d sati kasnije</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="one">Onemogućeno ti je emitiranje UŽIVO kao gostu do %d minutu kasnije</item>
+        <item quantity="few">Onemogućeno ti je emitiranje UŽIVO kao gostu do %d minute kasnije</item>
+        <item quantity="other">Onemogućeno ti je emitiranje UŽIVO kao gostu do %d minuta kasnije</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="one">Onemogućeno ti je emitiranje UŽIVO kao gostu do %d sekundu kasnije</item>
+        <item quantity="few">Onemogućeno ti je emitiranje UŽIVO kao gostu do %d sekunde kasnije</item>
+        <item quantity="other">Onemogućeno ti je emitiranje UŽIVO kao gostu do %d sekundi kasnije</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="one">Alat</item>
+        <item quantity="few">Alati</item>
+        <item quantity="other">Alati</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="one">[username] i [number] pratitelj gurkali su te da emitiraš UŽIVO</item>
+        <item quantity="few">[username] i [number] pratitelja gurkali su te da emitiraš UŽIVO</item>
+        <item quantity="other">[username] i [number] pratitelja gurkali su te da emitiraš UŽIVO</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="one">[username] i [number] pratitelj nedavno su te gurkali da emitiraš UŽIVO</item>
+        <item quantity="few">[username] i [number] pratitelja nedavno su te gurkali da emitiraš UŽIVO</item>
+        <item quantity="other">[username] i [number] pratitelja nedavno su te gurkali da emitiraš UŽIVO</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="one">Ako prihvatiš poziv, ovaj kreator prijenosa UŽIVO pridružit će se tvojem trenutačnom suvođenju.</item>
+        <item quantity="few">Ako prihvatiš poziv, ovi kreatori prijenosa UŽIVO pridružit će se tvojem trenutačnom suvođenju.</item>
+        <item quantity="other">Ako prihvatiš poziv, ovi kreatori prijenosa UŽIVO pridružit će se tvojem trenutačnom suvođenju.</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="one">{number} dan</item>
+        <item quantity="few">{number} dana</item>
+        <item quantity="other">{number} dana</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="one">U sljedećem koraku, kada napustiš stranicu, tvoj će kupon biti dostupan za ponovnu upotrebu za {number} dan.</item>
+        <item quantity="other">U sljedećem koraku, kada napustiš stranicu, tvoj će kupon biti dostupan za ponovnu upotrebu za {number} dana.</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="one">U sljedećem koraku, kada napustiš stranicu, tvoj će kupon biti dostupan za ponovnu upotrebu za {number} sat.</item>
+        <item quantity="other">U sljedećem koraku, kada napustiš stranicu, tvoj će kupon biti dostupan za ponovnu upotrebu za {number} sati.</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="one">U sljedećem koraku, kada napustiš stranicu, tvoj će kupon biti dostupan za ponovnu upotrebu za {number} minutu.</item>
+        <item quantity="other">U sljedećem koraku, kada napustiš stranicu, tvoj će kupon biti dostupan za ponovnu upotrebu za {number} minuta.</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="one">Kupon će biti ponovno dostupan za {number} dan</item>
+        <item quantity="other">Kupon će biti ponovno dostupan za {number} dana</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="one">Kupon će biti ponovno dostupan za {number} sat</item>
+        <item quantity="other">Kupon će biti ponovno dostupan za {number} sati</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="one">Kupon će biti ponovno dostupan za {number} minutu</item>
+        <item quantity="other">Kupon će biti ponovno dostupan za {number} minuta</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="one">%s oznaka „Sviđa mi se”</item>
+        <item quantity="few">%s oznake „Sviđa mi se”</item>
+        <item quantity="other">%s oznaka „Sviđa mi se”</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="one">oznaka „Sviđa mi se”</item>
+        <item quantity="few">oznake „Sviđa mi se”</item>
+        <item quantity="other">oznaka „Sviđa mi se”</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="one">%s oznaka „Sviđa mi se”</item>
+        <item quantity="few">%s oznake „Sviđa mi se”</item>
+        <item quantity="other">%s oznaka „Sviđa mi se”</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="one">%d s</item>
+        <item quantity="few">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="one">Tvoja prijava za prijenos UŽIVO nije odobrena. Možeš se ponovno prijaviti za %d dan.</item>
+        <item quantity="few">Tvoja prijava za prijenos UŽIVO nije odobrena. Možeš se ponovno prijaviti za %d dana.</item>
+        <item quantity="other">Tvoja prijava za prijenos UŽIVO nije odobrena. Možeš se ponovno prijaviti za %d dana.</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="one">Prijavio/la si se za pristup prijenosu UŽIVO i možeš emitirati UŽIVO sljedećih 7 dana. Nemoj zaboraviti pridržavati se Smjernica zajednice i emitirati UŽIVO %d sat u svom prvom tjednu da bi dobio/la stalni pristup.</item>
+        <item quantity="few">Prijavio/la si se za pristup prijenosu UŽIVO i možeš emitirati UŽIVO sljedećih 7 dana. Nemoj zaboraviti pridržavati se Smjernica zajednice i emitirati UŽIVO %d sata u svom prvom tjednu da bi dobio/la stalni pristup.</item>
+        <item quantity="other">Prijavio/la si se za pristup prijenosu UŽIVO i možeš emitirati UŽIVO sljedećih 7 dana. Nemoj zaboraviti pridržavati se Smjernica zajednice i emitirati UŽIVO %d sati u svom prvom tjednu da bi dobio/la stalni pristup.</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="one">Emitiraj UŽIVO još %d sat do %s da bi dobio/la stalni pristup prijenosu UŽIVO</item>
+        <item quantity="few">Emitiraj UŽIVO još %d sata do %s da bi dobio/la stalni pristup prijenosu UŽIVO</item>
+        <item quantity="other">Emitiraj UŽIVO još %d sati do %s da bi dobio/la stalni pristup prijenosu UŽIVO</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="one">Emitiraj UŽIVO još %1$s sat do %2$s da bi dobio/la stalni pristup prijenosu UŽIVO</item>
+        <item quantity="few">Emitiraj UŽIVO još %1$s sata do %2$s da bi dobio/la stalni pristup prijenosu UŽIVO</item>
+        <item quantity="other">Emitiraj UŽIVO još %1$s sati do %2$s da bi dobio/la stalni pristup prijenosu UŽIVO</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="one">%s bod</item>
+        <item quantity="few">%s boda</item>
+        <item quantity="other">%s bodova</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="one">{%s korisničko ime voditelja} treba {%d} Novčić da postane ovotjedni kreator UŽIVO br. {%n}!</item>
+        <item quantity="few">{%s korisničko ime voditelja} treba {%d} Novčića da postane ovotjedni kreator UŽIVO br. {%n}!</item>
+        <item quantity="other">{%s korisničko ime voditelja} treba {%d} Novčića da postane ovotjedni kreator UŽIVO br. {%n}!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="one">Preostao je jedan dan. Sakupi još {%d} Dijamant da postaneš kreator prijenosa UŽIVO br. 3 i osvojiš ekskluzivnu značku za svoj videozapis.</item>
+        <item quantity="few">Preostao je jedan dan. Sakupi još {%d} Dijamanta da postaneš kreator prijenosa UŽIVO br. 3 i osvojiš ekskluzivnu značku za svoj videozapis.</item>
+        <item quantity="other">Preostao je jedan dan. Sakupi još {%d} Dijamanata da postaneš kreator prijenosa UŽIVO br. 3 i osvojiš ekskluzivnu značku za svoj videozapis.</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="one">Preostao je 1 dan. Sakupi još {%d} Dijamant kako bi privukao/la više gledatelja za svoj prijenos UŽIVO.</item>
+        <item quantity="few">Preostao je 1 dan. Sakupi još {%d} Dijamanta kako bi privukao/la više gledatelja za svoj prijenos UŽIVO.</item>
+        <item quantity="other">Preostao je 1 dan. Sakupi još {%d} Dijamanata kako bi privukao/la više gledatelja za svoj prijenos UŽIVO.</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="one">Preostao je jedan dan. Sakupi još {%d} Dijamant da osvojiš jedinstvene nagrade za kreatore prijenosa UŽIVO!</item>
+        <item quantity="few">Preostao je jedan dan. Sakupi još {%d} Dijamanta da osvojiš jedinstvene nagrade za kreatore prijenosa UŽIVO!</item>
+        <item quantity="other">Preostao je jedan dan. Sakupi još {%d} Dijamanata da osvojiš jedinstvene nagrade za kreatore prijenosa UŽIVO!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="one">1 je pratitelj trenutačno aktivan</item>
+        <item quantity="few">%s su pratitelja trenutačno aktivna</item>
+        <item quantity="other">%s je pratitelja trenutačno aktivno</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="one">%s je Novčić potreban</item>
+        <item quantity="few">%s su Novčića potrebna</item>
+        <item quantity="other">%s je Novčića potrebno</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="one">%d pretplatnik gleda</item>
+        <item quantity="few">%d pretplatnika gledaju</item>
+        <item quantity="other">%d pretplatnika gleda</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="one">Preostale su 3 minute. Sakupi još {%d} Dijamant da postaneš kreator prijenosa UŽIVO br. 3 i osvojiš ekskluzivnu značku.</item>
+        <item quantity="few">Preostale su 3 minute. Sakupi još {%d} Dijamanta da postaneš kreator prijenosa UŽIVO br. 3 i osvojiš ekskluzivnu značku.</item>
+        <item quantity="other">Preostale su 3 minute. Sakupi još {%d} Dijamanata da postaneš kreator prijenosa UŽIVO br. 3 i osvojiš ekskluzivnu značku.</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="one">Preostale su 3 minute. Sakupi još {%d} Dijamant kako bi privukao/la više gledatelja za svoj prijenos UŽIVO.</item>
+        <item quantity="few">Preostale su 3 minute. Sakupi još {%d} Dijamanta kako bi privukao/la više gledatelja za svoj prijenos UŽIVO.</item>
+        <item quantity="other">Preostale su 3 minute. Sakupi još {%d} Dijamanata kako bi privukao/la više gledatelja za svoj prijenos UŽIVO.</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="one">Preostale su 3 minute. Sakupi još {%d} Dijamant da osvojiš jedinstvene nagrade za popularne kreatore prijenosa UŽIVO!</item>
+        <item quantity="few">Preostale su 3 minute. Sakupi još {%d} Dijamanta da osvojiš jedinstvene nagrade za popularne kreatore prijenosa UŽIVO!</item>
+        <item quantity="other">Preostale su 3 minute. Sakupi još {%d} Dijamanata da osvojiš jedinstvene nagrade za popularne kreatore prijenosa UŽIVO!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="one">%s sat %d minuta</item>
+        <item quantity="few">%s sata %d minuta</item>
+        <item quantity="other">%s sati %d minuta</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="one">dijamant</item>
+        <item quantity="few">dijamante</item>
+        <item quantity="other">dijamante</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="one">pregled</item>
+        <item quantity="few">preglede</item>
+        <item quantity="other">preglede</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="one">Odgovaranje na pitanja nije moguće nakon %s minute</item>
+        <item quantity="few">Odgovaranje na pitanja nije moguće nakon %s minute</item>
+        <item quantity="other">Odgovaranje na pitanja nije moguće nakon %s minuta</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="one">prije %s h</item>
+        <item quantity="few">prije %s h</item>
+        <item quantity="other">prije %s h</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="one">prije %s min</item>
+        <item quantity="few">prije %s min</item>
+        <item quantity="other">prije %s min</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="one">%s počinje za 10 min. %d gledatelj pogledao je tvoj događaj. Odmah emitiraj UŽIVO da bi maksimalno iskoristio/la promociju!</item>
+        <item quantity="few">%s počinje za 10 min. %d gledatelja pogledala su tvoj događaj. Odmah emitiraj UŽIVO da bi maksimalno iskoristio/la promociju!</item>
+        <item quantity="other">%s počinje za 10 min. %d gledatelja pogledalo je tvoj događaj. Odmah emitiraj UŽIVO da bi maksimalno iskoristio/la promociju!</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="one">Pogledaj %s zadatak iz vodiča</item>
+        <item quantity="few">Pogledaj %s zadatka iz vodiča</item>
+        <item quantity="other">Pogledaj %s zadataka iz vodiča</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="one">%d prioritetni zahtjev darivatelja</item>
+        <item quantity="few">%d prioritetna zahtjeva darivatelja</item>
+        <item quantity="other">%d prioritetnih zahtjeva darivatelja</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="one">%d Novčić</item>
+        <item quantity="few">%d Novčića</item>
+        <item quantity="other">%d Novčića</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="one">To će te stajati %d Novčić.</item>
+        <item quantity="few">To će te stajati %d Novčića.</item>
+        <item quantity="other">To će te stajati %d Novčića.</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="one">Poslao/la si %d Novčić. %s</item>
+        <item quantity="few">Poslao/la si %d Novčića. %s</item>
+        <item quantity="other">Poslao/la si %d Novčića. %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="one">Kreator UŽIVO prednost može dati zahtjevima korisnika koji pošalju više od ukupno %d Novčića.</item>
+        <item quantity="few">Kreator UŽIVO prednost može dati zahtjevima korisnika koji pošalju više od ukupno %d Novčića.</item>
+        <item quantity="other">Kreator UŽIVO prednost može dati zahtjevima korisnika koji pošalju više od ukupno %d Novčića.</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="one">Kreator UŽIVO prednost može dati tvojim i zahtjevima drugih koji pošalju više od ukupno %d Novčića.</item>
+        <item quantity="few">Kreator UŽIVO prednost može dati tvojim i zahtjevima drugih koji pošalju više od ukupno %d Novčića.</item>
+        <item quantity="other">Kreator UŽIVO prednost može dati tvojim i zahtjevima drugih koji pošalju više od ukupno %d Novčića.</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="one">To će te stajati %d Novčić.</item>
+        <item quantity="few">To će te stajati %d Novčića.</item>
+        <item quantity="other">To će te stajati %d Novčića.</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="one">Možeš pozvati korisnika %1$s da ponovno uključi svoju kameru za %2$s s</item>
+        <item quantity="few">Možeš pozvati korisnika %1$s da ponovno uključi svoju kameru za %2$s s</item>
+        <item quantity="other">Možeš pozvati korisnika %1$s da ponovno uključi svoju kameru za %2$s s</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="one">Možeš pozvati korisnika %1$s da ponovno uključi svoj mikrofon za %2$s s</item>
+        <item quantity="few">Možeš pozvati korisnika %1$s da ponovno uključi svoj mikrofon za %2$s s</item>
+        <item quantity="other">Možeš pozvati korisnika %1$s da ponovno uključi svoj mikrofon za %2$s s</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minute</item>
+        <item quantity="other">%d minuta</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekunde</item>
+        <item quantity="other">%d sekundi</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="one">%d sek</item>
+        <item quantity="few">%d sek</item>
+        <item quantity="other">%d sek</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="one">%s zadatak za dovršiti na 1. razini</item>
+        <item quantity="few">%s zadatka za dovršiti na 1. razini</item>
+        <item quantity="other">%s zadataka za dovršiti na 1. razini</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="one">%s zadatak za dovršiti na 2. razini</item>
+        <item quantity="few">%s zadatka za dovršiti na 2. razini</item>
+        <item quantity="other">%s zadataka za dovršiti na 2. razini</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="one">Možeš kreirati najviše %s prilagođenu povlasticu. Izbriši neku prilagođenu povlasticu kako bi kreirao/la novu.</item>
+        <item quantity="few">Možeš kreirati najviše %s prilagođene povlastice. Izbriši neku prilagođenu povlasticu kako bi kreirao/la novu.</item>
+        <item quantity="other">Možeš kreirati najviše %s prilagođenih povlastica. Izbriši neku prilagođenu povlasticu kako bi kreirao/la novu.</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="one">Anketa završava za %s s</item>
+        <item quantity="few">Anketa završava za %s s</item>
+        <item quantity="other">Anketa završava za %s s</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="one">Glasaj odmah (%s s) :</item>
+        <item quantity="few">Glasaj odmah (%s s) :</item>
+        <item quantity="other">Glasaj odmah (%s s) :</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="one">Danas si potrošio/la %d Novčić.</item>
+        <item quantity="few">Danas si potrošio/la %d Novčića.</item>
+        <item quantity="other">Danas si potrošio/la %d Novčića.</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="one">Uspori sa slanjem Poklona i pokušaj ponovno za %d minutu.</item>
+        <item quantity="few">Uspori sa slanjem Poklona i pokušaj ponovno za %d minute.</item>
+        <item quantity="other">Uspori sa slanjem Poklona i pokušaj ponovno za %d minuta.</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="one">Portal korisnika {0:user} je zatvoren. Putem Portala pridružio se {1:string} gledatelj.</item>
+        <item quantity="few">Portal korisnika {0:user} je zatvoren. Putem Portala pridružila su se {1:string} gledatelja.</item>
+        <item quantity="other">Portal korisnika {0:user} je zatvoren. Putem Portala pridružilo se {1:string} gledatelja.</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="one">Portal korisnika {0:user} je zatvoren. Putem Portala pridružio se {1:string} gledatelj. Bravo!��</item>
+        <item quantity="few">Portal korisnika {0:user} je zatvoren. Putem Portala pridružila su se {1:string} gledatelja. Bravo!��</item>
+        <item quantity="other">Portal korisnika {0:user} je zatvoren. Putem Portala pridružilo se {1:string} gledatelja. Bravo!��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="one">Portal korisnika {0:user} je zatvoren. Putem Portala pridružio se {1:string} gledatelj. Odlično! ��</item>
+        <item quantity="few">Portal korisnika {0:user} je zatvoren. Putem Portala pridružila su se {1:string} gledatelja. Odlično! ��</item>
+        <item quantity="other">Portal korisnika {0:user} je zatvoren. Putem Portala pridružilo se {1:string} gledatelja. Odlično! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="one">%s pregled</item>
+        <item quantity="few">%s pregleda</item>
+        <item quantity="other">%s pregleda</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="one">{{num}} Novčić kupljen putem interneta na računalu</item>
+        <item quantity="few">{{num}} Novčića kupljena putem interneta na računalu</item>
+        <item quantity="other">{{num}} Novčića kupljeno putem interneta na računalu</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="one">{{num}} Novčić kupljen putem aplikacije</item>
+        <item quantity="few">{{num}} Novčića kupljena putem aplikacije</item>
+        <item quantity="other">{{num}} Novčića kupljeno putem aplikacije</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="one">{{num}} Novčić kupljen putem mobilnog interneta</item>
+        <item quantity="few">{{num}} Novčića kupljena putem mobilnog interneta</item>
+        <item quantity="other">{{num}} Novčića kupljeno putem mobilnog interneta</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="one">Pregledali smo tvoj prigovor i prilagodili trajanje zabrane pristupa. Pristup značajci Emitiraj UŽIVO putem osobnog ili Mac računala bit će ti vraćen za %s dan.</item>
+        <item quantity="few">Pregledali smo tvoj prigovor i prilagodili trajanje zabrane pristupa. Pristup značajci Emitiraj UŽIVO putem osobnog ili Mac računala bit će ti vraćen za %s dana.</item>
+        <item quantity="other">Pregledali smo tvoj prigovor i prilagodili trajanje zabrane pristupa. Pristup značajci Emitiraj UŽIVO putem osobnog ili Mac računala bit će ti vraćen za %s dana.</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="one">Tvoj pristup značajci Emitiraj UŽIVO putem osobnog ili Mac računala suspendiran je na %s dan zbog višestrukih kršenja Smjernica zajednice.</item>
+        <item quantity="few">Tvoj pristup značajci Emitiraj UŽIVO putem osobnog ili Mac računala suspendiran je na %s dana zbog višestrukih kršenja Smjernica zajednice.</item>
+        <item quantity="other">Tvoj pristup značajci Emitiraj UŽIVO putem osobnog ili Mac računala suspendiran je na %s dana zbog višestrukih kršenja Smjernica zajednice.</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="one">Pregledali smo tvoj prigovor i prilagodili smo trajanje tvoje zabrane pristupa značajci Kutija s blagom na %s dan.</item>
+        <item quantity="few">Pregledali smo tvoj prigovor i prilagodili smo trajanje tvoje zabrane pristupa značajci Kutija s blagom na %s dana.</item>
+        <item quantity="other">Pregledali smo tvoj prigovor i prilagodili smo trajanje tvoje zabrane pristupa značajci Kutija s blagom na %s dana.</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="one">Tvoj pristup značajci Kutija s blagom suspendiran je na %s dan zbog višestrukih kršenja Smjernica zajednice.</item>
+        <item quantity="few">Tvoj pristup značajci Kutija s blagom suspendiran je na %s dana zbog višestrukih kršenja Smjernica zajednice.</item>
+        <item quantity="other">Tvoj pristup značajci Kutija s blagom suspendiran je na %s dana zbog višestrukih kršenja Smjernica zajednice.</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="one">Primio/la si više od %s Dijamanta u proteklih 30 dana. Samo tako nastavi i pridružit ćeš se tjednom poretku.</item>
+        <item quantity="few">Primio/la si više od %s Dijamanta u proteklih 30 dana. Samo tako nastavi i pridružit ćeš se tjednom poretku.</item>
+        <item quantity="other">Primio/la si više od %s Dijamanata u proteklih 30 dana. Samo tako nastavi i pridružit ćeš se tjednom poretku.</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="one">U ovom se poretku nalaze kreatori prijenosa UŽIVO koji su primili manje od {0:string} Dijamanta u proteklih 30 dana.</item>
+        <item quantity="few">U ovom se poretku nalaze kreatori prijenosa UŽIVO koji su primili manje od {0:string} Dijamanta u proteklih 30 dana.</item>
+        <item quantity="other">U ovom se poretku nalaze kreatori prijenosa UŽIVO koji su primili manje od {0:string} Dijamanata u proteklih 30 dana.</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="one">Poklanjanje je obustavljeno na %s dan</item>
+        <item quantity="few">Poklanjanje je obustavljeno na %s dana</item>
+        <item quantity="other">Poklanjanje je obustavljeno na %s dana</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="one">Imaš {number_1} Novčić. Možeš nadopuniti {number_2} Novčića ({amount}) da pošalješ taj predmet.</item>
+        <item quantity="few">Imaš {number_1} Novčića. Možeš nadopuniti {number_2} Novčića ({amount}) da pošalješ taj predmet.</item>
+        <item quantity="other">Imaš {number_1} Novčića. Možeš nadopuniti {number_2} Novčića ({amount}) da pošalješ taj predmet.</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="one">Nedostaje %s Novčić</item>
+        <item quantity="few">Nedostaju %s Novčića</item>
+        <item quantity="other">Nedostaje %s Novčića</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="one">Imaš {number} poveznicu za pozivnicu</item>
+        <item quantity="few">Imaš {number} poveznice za pozivnicu</item>
+        <item quantity="other">Imaš {number} poveznica za pozivnicu</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="one">Otvori svoju pozivnicu za pretplatu od %s</item>
+        <item quantity="few">Otvori svoju pozivnicu za pretplatu od %s i drugih</item>
+        <item quantity="other">Otvori svoju pozivnicu za pretplatu od %s i drugih</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="one">Zahtjev poslan: prije %d minutu</item>
+        <item quantity="few">Zahtjev poslan: prije %d minute</item>
+        <item quantity="other">Zahtjev poslan: prije %d minuta</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="one">Poklanjanje je obustavljeno na %s dan</item>
+        <item quantity="few">Poklanjanje je obustavljeno na %s dana</item>
+        <item quantity="other">Poklanjanje je obustavljeno na %s dana</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="one">Pristup će biti vraćen za %s dan.</item>
+        <item quantity="few">Pristup će biti vraćen za %s dana.</item>
+        <item quantity="other">Pristup će biti vraćen za %s dana.</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="one">Pregledali smo tvoj prigovor i prilagodili trajanje zabrane pristupa. Pristup Studiju UŽIVO bit će ti vraćen za %s dan.</item>
+        <item quantity="few">Pregledali smo tvoj prigovor i prilagodili trajanje zabrane pristupa. Pristup Studiju UŽIVO bit će ti vraćen za %s dana.</item>
+        <item quantity="other">Pregledali smo tvoj prigovor i prilagodili trajanje zabrane pristupa. Pristup Studiju UŽIVO bit će ti vraćen za %s dana.</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="one">Pregledali smo tvoj prigovor i prilagodili trajanje zabrane pristupa. Pristup mobilnim igrama bit će ti vraćen za %s dan.</item>
+        <item quantity="few">Pregledali smo tvoj prigovor i prilagodili trajanje zabrane pristupa. Pristup mobilnim igrama bit će ti vraćen za %s dana.</item>
+        <item quantity="other">Pregledali smo tvoj prigovor i prilagodili trajanje zabrane pristupa. Pristup mobilnim igrama bit će ti vraćen za %s dana.</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="one">Pregledali smo tvoj prigovor i prilagodili trajanje zabrane pristupa. Pristup značajci Emitiraj UŽIVO putem osobnog ili Mac računala bit će ti vraćen za %s dan.</item>
+        <item quantity="few">Pregledali smo tvoj prigovor i prilagodili trajanje zabrane pristupa. Pristup značajci Emitiraj UŽIVO putem osobnog ili Mac računala bit će ti vraćen za %s dana.</item>
+        <item quantity="other">Pregledali smo tvoj prigovor i prilagodili trajanje zabrane pristupa. Pristup značajci Emitiraj UŽIVO putem osobnog ili Mac računala bit će ti vraćen za %s dana.</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="one">Suspendiran ti je pristup Studiju UŽIVO na %s dan zbog opetovanog kršenja naših pravila za UŽIVO ili Smjernica zajednice.</item>
+        <item quantity="few">Suspendiran ti je pristup Studiju UŽIVO na %s dana zbog opetovanog kršenja naših pravila za UŽIVO ili Smjernica zajednice.</item>
+        <item quantity="other">Suspendiran ti je pristup Studiju UŽIVO na %s dana zbog opetovanog kršenja naših pravila za UŽIVO ili Smjernica zajednice.</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="one">Suspendiran ti je pristup mobilnim igrama na %s dan zbog opetovanog kršenja naših pravila za UŽIVO ili Smjernica zajednice.</item>
+        <item quantity="few">Suspendiran ti je pristup mobilnim igrama na %s dana zbog opetovanog kršenja naših pravila za UŽIVO ili Smjernica zajednice.</item>
+        <item quantity="other">Suspendiran ti je pristup mobilnim igrama na %s dana zbog opetovanog kršenja naših pravila za UŽIVO ili Smjernica zajednice.</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="one">Suspendiran ti je pristup značajci Emitiraj UŽIVO putem osobnog ili Mac računala na %s dan zbog opetovanog kršenja naših pravila za UŽIVO ili Smjernica zajednice.</item>
+        <item quantity="few">Suspendiran ti je pristup značajci Emitiraj UŽIVO putem osobnog ili Mac računala na %s dana zbog opetovanog kršenja naših pravila za UŽIVO ili Smjernica zajednice.</item>
+        <item quantity="other">Suspendiran ti je pristup značajci Emitiraj UŽIVO putem osobnog ili Mac računala na %s dana zbog opetovanog kršenja naših pravila za UŽIVO ili Smjernica zajednice.</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="one">Cilj: {&lt;num&gt;} darivatelj</item>
+        <item quantity="few">Cilj: {&lt;num&gt;} darivatelja</item>
+        <item quantity="other">Cilj: {&lt;num&gt;} darivatelja</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="one">Cilj: {&lt;num&gt;} poklon bod</item>
+        <item quantity="few">Cilj: {&lt;num&gt;} poklon boda</item>
+        <item quantity="other">Cilj: {&lt;num&gt;} poklon bodova</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="one">Cilj: {&lt;num&gt;} darivatelj tima</item>
+        <item quantity="few">Cilj: {&lt;num&gt;} darivatelja tima</item>
+        <item quantity="other">Cilj: {&lt;num&gt;} darivatelja tima</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="one">Cilj: {&lt;num&gt;} timski poklon bod</item>
+        <item quantity="few">Cilj: {&lt;num&gt;} timska poklon boda</item>
+        <item quantity="other">Cilj: {&lt;num&gt;} timskih poklon bodova</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="one">+ &lt;num&gt; bod za dvoboj</item>
+        <item quantity="few">+ &lt;num&gt; boda za dvoboj</item>
+        <item quantity="other">+ &lt;num&gt; bodova za dvoboj</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="one">%s će gledatelj vidjeti tvoj komentar pri vrhu</item>
+        <item quantity="few">%s će gledatelja vidjeti tvoj komentar pri vrhu</item>
+        <item quantity="other">%s će gledatelja vidjeti tvoj komentar pri vrhu</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="one">Tvoj je Najbolji komentar izbrisan tijekom prijenosa UŽIVO i za njega ćeš unutar 24 sata dobiti povrat od [0:string] Novčića.</item>
+        <item quantity="few">Tvoj je Najbolji komentar izbrisan tijekom prijenosa UŽIVO i za njega ćeš unutar 24 sata dobiti povrat od [0:string] Novčića.</item>
+        <item quantity="other">Tvoj je Najbolji komentar izbrisan tijekom prijenosa UŽIVO i za njega ćeš unutar 24 sata dobiti povrat od [0:string] Novčića.</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="one">%s Najbolji komentar u redu čekanja</item>
+        <item quantity="few">%s Najbolja komentara u redu čekanja</item>
+        <item quantity="other">%s Najboljih komentara u redu čekanja</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="one">Tvoji su Najbolji komentari nedavno izbrisani. Pokušaj ponovno za {num} h.</item>
+        <item quantity="few">Tvoji su Najbolji komentari nedavno izbrisani. Pokušaj ponovno za {num} h.</item>
+        <item quantity="other">Tvoji su Najbolji komentari nedavno izbrisani. Pokušaj ponovno za {num} h.</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="one">Tvoji su Najbolji komentari nedavno izbrisani. Pokušaj ponovno za {num} min.</item>
+        <item quantity="few">Tvoji su Najbolji komentari nedavno izbrisani. Pokušaj ponovno za {num} min.</item>
+        <item quantity="other">Tvoji su Najbolji komentari nedavno izbrisani. Pokušaj ponovno za {num} min.</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="one">Završava za %s dan</item>
+        <item quantity="few">Završava za %s dana</item>
+        <item quantity="other">Završava za %s dana</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="one">Gledatelja: %1$s. Možeš dobiti %2$s novog pretplatnika ako sada pokreneš svoj prijenos UŽIVO samo za pretplatnike.</item>
+        <item quantity="few">Gledatelja: %1$s. Možeš dobiti %2$s nova pretplatnika ako sada pokreneš svoj prijenos UŽIVO samo za pretplatnike.</item>
+        <item quantity="other">Gledatelja: %1$s. Možeš dobiti %2$s novih pretplatnika ako sada pokreneš svoj prijenos UŽIVO samo za pretplatnike.</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="one">Gleda %s pretplatnik. Ovo je dobar trenutak za jačanje veze sa zajednicom uz korištenje prijenosa UŽIVO samo za pretplatnike.</item>
+        <item quantity="few">Gledaju %s pretplatnika Ovo je dobar trenutak za jačanje veze sa zajednicom uz korištenje prijenosa UŽIVO samo za pretplatnike.</item>
+        <item quantity="other">Gleda %s pretplatnika. Ovo je dobar trenutak zajačanje veze sa zajednicom uz korištenje prijenosa UŽIVO samo za pretplatnike.</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="one">Svaki mjesec možeš dobiti %1$s novih pretplatnika uz %2$s minuta prijenosa UŽIVO samo za pretplatnike.</item>
+        <item quantity="few">Svaki mjesec možeš dobiti %1$s novih pretplatnika uz %2$s minuta prijenosa UŽIVO samo za pretplatnike.</item>
+        <item quantity="other">Svaki mjesec možeš dobiti %1$s novih pretplatnika uz %2$s minuta prijenosa UŽIVO samo za pretplatnike.</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="one">Možeš upisati najviše %s emote u komentar</item>
+        <item quantity="few">Možeš upisati najviše %s emotea u komentar</item>
+        <item quantity="other">Možeš upisati najviše %s emotea u komentar</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="one">Pretplati se za upotrebu %2$s personaliziranog emotea korisnika %1$s</item>
+        <item quantity="few">Pretplati se za upotrebu %2$s personalizirana emotea korisnika %1$s</item>
+        <item quantity="other">Pretplati se za upotrebu %2$s personaliziranih emotea korisnika %1$s</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="one">Imaju manje od {number} pratitelja</item>
+        <item quantity="few">Imaju manje od {number} pratitelja</item>
+        <item quantity="other">Imaju manje od {number} pratitelja</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="one">Ne možeš pozvati kreatore koji imaju manje od {number} pratitelja</item>
+        <item quantity="few">Ne možeš pozvati kreatore koji imaju manje od {number} pratitelja</item>
+        <item quantity="other">Ne možeš pozvati kreatore koji imaju manje od {number} pratitelja</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="one">Pozovi još {number1} kreatora kako bi dosegnuo/la br. {number2}! Samo tako nastavi!</item>
+        <item quantity="few">Pozovi još {number1} kreatora kako bi dosegnuo/la br. {number2}! Samo tako nastavi!</item>
+        <item quantity="other">Pozovi još {number1} kreatora kako bi dosegnuo/la br. {number2}! Samo tako nastavi!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="one">Pozovi još {number} kreatora kako bi dosegnuo/la br. {rankminusone}! Samo tako nastavi!</item>
+        <item quantity="few">Pozovi još {number} kreatora kako bi dosegnuo/la br. {rankminusone}! Samo tako nastavi!</item>
+        <item quantity="other">Pozovi još {number} kreatora kako bi dosegnuo/la br. {rankminusone}! Samo tako nastavi!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="one">Možeš pozvati samo kreatore koji imaju više od {number} pratitelja.</item>
+        <item quantity="few">Možeš pozvati samo kreatore koji imaju više od {number} pratitelja.</item>
+        <item quantity="other">Možeš pozvati samo kreatore koji imaju više od {number} pratitelja.</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="one">Tvoja trenutačna povlastica može ti donijeti %d%% više pretplatnika.</item>
+        <item quantity="few">Tvoje trenutačne povlastice mogu ti donijeti %d%% više pretplatnika.</item>
+        <item quantity="other">Tvoje trenutačne povlastice mogu ti donijeti %d%% više pretplatnika.</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="one">%1$s je upravo kupio/la %2$d-mjesečnu pretplatu!</item>
+        <item quantity="few">%1$s je upravo kupio/la %2$d-mjesečnu pretplatu!</item>
+        <item quantity="other">%1$s je upravo kupio/la %2$d-mjesečnu pretplatu!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="one">Možeš isključiti ili uključiti samo jednom u %s minuti. Pokušaj ponovno kasnije.</item>
+        <item quantity="few">Možeš isključiti ili uključiti samo jednom u %s minute. Pokušaj ponovno kasnije.</item>
+        <item quantity="other">Možeš isključiti ili uključiti samo jednom u %s minuta. Pokušaj ponovno kasnije.</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="one">Imaš {num} poklon pretplatu. Pošalji je nekome odmah!</item>
+        <item quantity="few">Imaš {num} poklon pretplate. Pošalji ih nekome odmah!</item>
+        <item quantity="other">Imaš {num} poklon pretplata. Pošalji ih nekome odmah!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="one">Imaš još %d poklon pretplatu. Pošalji je nekome odmah!</item>
+        <item quantity="few">Imaš još %d poklon pretplate. Pošalji ih nekome odmah!</item>
+        <item quantity="other">Imaš još %d poklon pretplata. Pošalji ih nekome odmah!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="one">Čestitke! Dobio/la si [number] poklon pretplatu kao nagradu aktivnosti.</item>
+        <item quantity="few">Čestitke! Dobio/la si [number] poklon pretplate kao nagradu aktivnosti.</item>
+        <item quantity="other">Čestitke! Dobio/la si [number] poklon pretplata kao nagradu aktivnosti.</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="one">Suvodio/la je prije {num} dan</item>
+        <item quantity="few">Suvodio/la je prije {num} dana</item>
+        <item quantity="other">Suvodio/la je prije {num} dana</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="one">Zajedno ste emitirali UŽIVO prije {number} dan</item>
+        <item quantity="few">Zajedno ste emitirali UŽIVO prije {number} dana</item>
+        <item quantity="other">Zajedno ste emitirali UŽIVO prije {number} dana</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="one">Zajedno ste vodili prije {num} dan</item>
+        <item quantity="few">Zajedno ste vodili prije {num} dana</item>
+        <item quantity="other">Zajedno ste vodili prije {num} dana</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="one">Tvoj pristup značajci Kutija s blagom je suspendiran. Pristup će biti vraćen za %s dan.</item>
+        <item quantity="few">Tvoj pristup značajci Kutija s blagom je suspendiran. Pristup će biti vraćen za %s dana.</item>
+        <item quantity="other">Tvoj pristup značajci Kutija s blagom je suspendiran. Pristup će biti vraćen za %s dana.</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="one">najbolji gledatelj</item>
+        <item quantity="few">najbolji gledatelji</item>
+        <item quantity="other">najbolji gledatelji</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="one">Najbolji gledatelj</item>
+        <item quantity="few">Najbolji gledatelji</item>
+        <item quantity="other">Najbolji gledatelji</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="one">Finale počinje za %s s</item>
+        <item quantity="few">Finale počinje za %s s</item>
+        <item quantity="other">Finale počinje za %s s</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="one">Finale počinje za %s dan</item>
+        <item quantity="few">Finale počinje za %s dana</item>
+        <item quantity="other">Finale počinje za %s dana</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="one">Finale počinje za %s h</item>
+        <item quantity="few">Finale počinje za %s h</item>
+        <item quantity="other">Finale počinje za %s h</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="one">Finale počinje za %s min</item>
+        <item quantity="few">Finale počinje za %s min</item>
+        <item quantity="other">Finale počinje za %s min</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="one">Polufinale počinje za %s dan</item>
+        <item quantity="few">Polufinale počinje za %s dana</item>
+        <item quantity="other">Polufinale počinje za %s dana</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="one">Polufinale počinje za %s h</item>
+        <item quantity="few">Polufinale počinje za %s h</item>
+        <item quantity="other">Polufinale počinje za %s h</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="one">Polufinale počinje za %s min</item>
+        <item quantity="few">Polufinale počinje za %s min</item>
+        <item quantity="other">Polufinale počinje za %s min</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="one">Polufinale počinje za %s s</item>
+        <item quantity="few">Polufinale počinje za %s s</item>
+        <item quantity="other">Polufinale počinje za %s s</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="one">Još {0:string} Dijamant do {1:string}. mjesta</item>
+        <item quantity="few">Još {0:string} Dijamanta do {1:string}. mjesta</item>
+        <item quantity="other">Još {0:string} Dijamanata do {1:string} mjesta</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="one">Još {0:string} darivatelj do {1:string}. mjesta</item>
+        <item quantity="few">Još {0:string} darivatelja do {1:string}. mjesta</item>
+        <item quantity="other">Još {0:string} darivatelja do {1:string}. mjesta</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="one">dan</item>
+        <item quantity="few">dana</item>
+        <item quantity="other">dana</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="one">Razmijenio/la si {amount} za {num} Novčić.</item>
+        <item quantity="few">Razmijenio/la si {amount} za {num} Novčića.</item>
+        <item quantity="other">Razmijenio/la si {amount} za {num} Novčića.</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="one">Kupio/la si {num} Novčić za {amount}.</item>
+        <item quantity="few">Kupio/la si {num} Novčića za {amount}.</item>
+        <item quantity="other">Kupio/la si {num} Novčića za {amount}.</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="one">{num} timski bod prednosti u odnosu na drugo mjesto</item>
+        <item quantity="few">{num} timska boda prednosti u odnosu na drugo mjesto</item>
+        <item quantity="other">{num} timskih bodova prednosti u odnosu na drugo mjesto</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="one">Još {num} timski bod (%1$s/%2$s timskih Poklona dnevno)</item>
+        <item quantity="few">Još {num} timska boda (%1$s/%2$s timskih Poklona dnevno)</item>
+        <item quantity="other">Još {num} timskih bodova (%1$s/%2$s timskih Poklona dnevno)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="one">%s se gledatelj pridružio iz pretraživanja</item>
+        <item quantity="few">%s su se gledatelja pridružila iz pretraživanja</item>
+        <item quantity="other">%s se gledatelja pridružilo iz pretraživanja</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="one">Još %1$s timski bod do %2$s. mjesta</item>
+        <item quantity="few">Još %1$s timska boda do %2$s. mjesta</item>
+        <item quantity="other">Još %1$s timskih bodova do %2$s. mjesta</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="one">Još %1$s timski bod do %2$s. mjesta</item>
+        <item quantity="few">Još %1$s timska boda do %2$s. mjesta</item>
+        <item quantity="other">Još %1$s timskih bodova do %2$s. mjesta</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="one">Došlo je do pogreške. Pokušaj ponovno za {number} sat</item>
+        <item quantity="few">Došlo je do pogreške. Pokušaj ponovno za {number} sata</item>
+        <item quantity="other">Došlo je do pogreške. Pokušaj ponovno za {number} sati</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="one">Došlo je do pogreške. Vrati se za {number} minutu</item>
+        <item quantity="few">Došlo je do pogreške. Vrati se za {number} minute</item>
+        <item quantity="other">Došlo je do pogreške. Vrati se za {number} minuta</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="one">Gledatelj</item>
+        <item quantity="few">Gledatelja</item>
+        <item quantity="other">Gledatelja</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="one">%d gledatelj</item>
+        <item quantity="few">%d gledatelja</item>
+        <item quantity="other">%d gledatelja</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="one">%s gledatelj</item>
+        <item quantity="few">%s gledatelja</item>
+        <item quantity="other">%s gledatelja</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="one">%s gledatelj je poslao Poklone</item>
+        <item quantity="few">%s gledatelja su poslala Poklone</item>
+        <item quantity="other">%s gledatelja je poslalo Poklone</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="one">Objava (%s)</item>
+        <item quantity="few">Objave (%s)</item>
+        <item quantity="other">Objave (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="one">(%s recenzija)</item>
+        <item quantity="few">(%s recenzije)</item>
+        <item quantity="other">(%s recenzija)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="one">%s fotografija nije učitana. Pokušaj ponovno.</item>
+        <item quantity="few">%s fotografije nisu učitane. Pokušaj ponovno.</item>
+        <item quantity="other">%s fotografija nije učitano. Pokušaj ponovno.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="one">%d sličan zvuk</item>
+        <item quantity="few">%d slična zvuka</item>
+        <item quantity="other">%d sličnih zvukova</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="one">%d pregled profila</item>
+        <item quantity="few">%d pregleda profila</item>
+        <item quantity="other">%d pregleda profila</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="one">Pratitelj</item>
+        <item quantity="few">Pratitelja</item>
+        <item quantity="other">Pratitelja</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="one">%1$s je dobio/la %2$s oznaku &quot;Sviđa mi se&quot;</item>
+        <item quantity="few">%1$s je dobio/la ukupno %2$s oznake &quot;Sviđa mi se&quot;</item>
+        <item quantity="other">%1$s je dobio/la ukupno %2$s oznaka &quot;Sviđa mi se&quot;</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="one">je pogledao tvoj profil.</item>
+        <item quantity="few">pogledali su tvoj profil.</item>
+        <item quantity="other">pogledali su tvoj profil.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="one">%1$s, %2$s i još %d osoba</item>
+        <item quantity="few">%1$s, %2$s i još %d osobe</item>
+        <item quantity="other">%1$s, %2$s i još %d osoba</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="one">%s osoba je pogledala tvoj profil.</item>
+        <item quantity="few">%s osobe su pogledale tvoj profil.</item>
+        <item quantity="other">%s osoba je pogledalo tvoj profil.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="one">{0}, {1} i još {2} su pogledali tvoj profil.</item>
+        <item quantity="few">{0}, {1} i još {2} su pogledali tvoj profil.</item>
+        <item quantity="other">{0}, {1} i još {2} su pogledali tvoj profil.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="one">Poslali smo obavijest na tvoj %1$s i još %2$s uređaj. Otvori TikTok i dodirni „Da” u obavijesti da bi nastavio/la s prijavom.</item>
+        <item quantity="few">Poslali smo obavijest na tvoj %1$s i još %2$s uređaja. Otvori TikTok i dodirni „Da” u obavijesti da bi nastavio/la s prijavom.</item>
+        <item quantity="other">Poslali smo obavijest na tvoj %1$s i još %2$s uređaja. Otvori TikTok i dodirni „Da” u obavijesti da bi nastavio/la s prijavom.</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="one">%s videozapis</item>
+        <item quantity="few">%s videozapisa</item>
+        <item quantity="other">%s videozapisa</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="one">%d videozapis</item>
+        <item quantity="few">%d videozapisa</item>
+        <item quantity="other">%d videozapisa</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="one">%s nedostupno pitanje uklonjeno je iz tvojih pozivnica</item>
+        <item quantity="few">%s nedostupna pitanja uklonjena su iz tvojih pozivnica</item>
+        <item quantity="other">%s nedostupnih pitanja uklonjeno je iz tvojih pozivnica</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="one">%s nova poruka</item>
+        <item quantity="few">%s nove poruke</item>
+        <item quantity="other">%s novih poruka</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="one">%s nova reakcija</item>
+        <item quantity="few">%s nove reakcije</item>
+        <item quantity="other">%s novih reakcija</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="one">%d preporučuje</item>
+        <item quantity="few">%d preporučuje</item>
+        <item quantity="other">%d preporučuje</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="one">%d preporučuje</item>
+        <item quantity="few">%d preporučuje</item>
+        <item quantity="other">%d preporučuje</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="one">Pogledaj još %d preporuku</item>
+        <item quantity="few">Pogledaj još %d preporuke</item>
+        <item quantity="other">Pogledaj još %d preporuka</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="one">Snimi najviše %d sekundu</item>
+        <item quantity="few">Snimi najviše %d sekunde</item>
+        <item quantity="other">Snimi najviše %d sekundi</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="one">Snimi najviše %d sekundu koristeći zvuk iz izvornog videozapisa</item>
+        <item quantity="few">Snimi najviše %d sekunde koristeći zvuk iz izvornog videozapisa</item>
+        <item quantity="other">Snimi najviše %d sekundi koristeći zvuk iz izvornog videozapisa</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="one">Probna verzija (%d)</item>
+        <item quantity="few">Probne verzije (%d)</item>
+        <item quantity="other">Probne verzije (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="one">Tvoj će videozapis biti utišan ako odlučiš vratiti ovaj zvuk.</item>
+        <item quantity="few">Tvoj će videozapis biti utišan ako odlučiš vratiti ove zvukove.</item>
+        <item quantity="other">Tvoj će videozapis biti utišan ako odlučiš vratiti ove zvukove.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="one">Vrati zvuk zaštićen autorskim pravima?</item>
+        <item quantity="few">Vrati zvukove zaštićene autorskim pravima?</item>
+        <item quantity="other">Vrati zvukove zaštićene autorskim pravima?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="one">Zvuk zaštićen autorskim pravima uklonjen</item>
+        <item quantity="few">Zvukovi zaštićeni autorskim pravima uklonjeni</item>
+        <item quantity="other">Zvukovi zaštićeni autorskim pravima uklonjeni</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="one">Uklanjanje zvuka</item>
+        <item quantity="few">Uklanjanje zvukova</item>
+        <item quantity="other">Uklanjanje zvukova</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="one">Zvuk uklonjen</item>
+        <item quantity="few">Zvukovi uklonjeni</item>
+        <item quantity="other">Zvukovi uklonjeni</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="one">Zamijeni zvuk</item>
+        <item quantity="few">Zamijeni zvukove</item>
+        <item quantity="other">Zamijeni zvukove</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="one">Uklanjanje zvuka zaštićenog autorskim pravima...</item>
+        <item quantity="few">Uklanjanje zvukova zaštićenih autorskim pravima...</item>
+        <item quantity="other">Uklanjanje zvukova zaštićenih autorskim pravima...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="one">Otkrili smo zvuk koji krši autorska prava dulji od 1 minute u tvojem videozapisu i bit će utišan ako odlučiš nastaviti. Zamijeni zvuk ili skrati videozapis. %s</item>
+        <item quantity="few">Otkrili smo zvukove koji krše autorska prava dulje od 1 minute u tvojem videozapisu i bit će utišan ako odlučiš nastaviti. Zamijeni zvukove ili skrati videozapis. %s</item>
+        <item quantity="other">Otkrili smo zvukove koji krše autorska prava dulje od 1 minute u tvojem videozapisu i bit će utišan ako odlučiš nastaviti. Zamijeni zvukove ili skrati videozapis. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="one">Zamijeni zvuk</item>
+        <item quantity="few">Zamijeni zvukove</item>
+        <item quantity="other">Zamijeni zvukove</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="one">Uklanjanje zvuka zaštićenog autorskim pravima...</item>
+        <item quantity="few">Uklanjanje zvukova zaštićenih autorskim pravima...</item>
+        <item quantity="other">Uklanjanje zvukova zaštićenih autorskim pravima...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="one">Otkrili smo zvuk koji krši autorska prava u tvojem videozapisu. Tvoj će videozapis biti utišan ako odlučiš nastaviti - ili možeš zamijeniti zvuk. %s</item>
+        <item quantity="few">Otkrili smo zvukove koji krše autorska prava u tvojem videozapisu. Tvoj će videozapis biti utišan ako odlučiš nastaviti - ili možeš zamijeniti zvukove. %s</item>
+        <item quantity="other">Otkrili smo zvukove koji krše autorska prava u tvojem videozapisu. Tvoj će videozapis biti utišan ako odlučiš nastaviti - ili možeš zamijeniti zvukove. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="one">Zvuk zaštićen autorskim pravima</item>
+        <item quantity="few">Zvukovi zaštićeni autorskim pravima</item>
+        <item quantity="other">Zvukovi zaštićeni autorskim pravima</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="one">Nositelj autorskih prava odobrio je korištenje ovog zvuka samo 1 minutu.</item>
+        <item quantity="few">Nositelji autorskih prava dopustili su korištenje ovih zvukova samo 1 minutu.</item>
+        <item quantity="other">Nositelji autorskih prava dopustili su korištenje ovih zvukova samo 1 minutu.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="one">Nositelj autorskih prava ne dopušta uporabu ovog zvuka.</item>
+        <item quantity="few">Nositelji autorskih prava ne dopuštaju uporabu ovih zvukova.</item>
+        <item quantity="other">Nositelji autorskih prava ne dopuštaju uporabu ovih zvukova.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="one">Zamijeni zvuk</item>
+        <item quantity="few">Zamijeni zvukove</item>
+        <item quantity="other">Zamijeni zvukove</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="one">Otkrili smo zvuk koji krši autorska prava dulji od 1 minute u tvojem videozapisu i bit će utišan ako odlučiš nastaviti. Zamijeni zvuk ili skrati videozapis. %s</item>
+        <item quantity="few">Otkrili smo zvukove koji krše autorska prava dulje od 1 minute u tvojem videozapisu i bit će utišan ako odlučiš nastaviti. Zamijeni zvukove ili skrati videozapis. %s</item>
+        <item quantity="other">Otkrili smo zvukove koji krše autorska prava dulje od 1 minute u tvojem videozapisu i bit će utišan ako odlučiš nastaviti. Zamijeni zvukove ili skrati videozapis. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="one">Zamijeni zvuk</item>
+        <item quantity="few">Zamijeni zvukove</item>
+        <item quantity="other">Zamijeni zvukove</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="one">Otkrili smo zvuk koji krši autorska prava u tvojem videozapisu. Tvoj će videozapis biti utišan ako odlučiš nastaviti - ili možeš zamijeniti zvuk. %s</item>
+        <item quantity="few">Otkrili smo zvukove koji krše autorska prava u tvojem videozapisu. Tvoj će videozapis biti utišan ako odlučiš nastaviti - ili možeš zamijeniti zvukove. %s</item>
+        <item quantity="other">Otkrili smo zvukove koji krše autorska prava u tvojem videozapisu. Tvoj će videozapis biti utišan ako odlučiš nastaviti - ili možeš zamijeniti zvukove. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="one">Ukloni videozapis (%d)</item>
+        <item quantity="few">Ukloni videozapise (%d)</item>
+        <item quantity="other">Ukloni videozapise (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="one">%d ponovna objava</item>
+        <item quantity="few">%d ponovne objave</item>
+        <item quantity="other">%d ponovnih objava</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="one">%d je ponovno objavio/la</item>
+        <item quantity="few">%d je ponovno objavilo</item>
+        <item quantity="other">%d je ponovno objavilo</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="one">%d je ponovno objavio/la</item>
+        <item quantity="few">%d je ponovno objavilo</item>
+        <item quantity="other">%d je ponovno objavilo</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="one">Pogledaj još %d ponovnu objavu</item>
+        <item quantity="few">Pogledaj još %d ponovne objave</item>
+        <item quantity="other">Pogledaj još %d ponovnih objava</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="one">%d dan</item>
+        <item quantity="few">%d dana</item>
+        <item quantity="other">%d dana</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="one">Izvrši još %1$d pretraživanje da dobiješ %2$d bodova</item>
+        <item quantity="few">Izvrši još %1$d pretraživanja da dobiješ %2$d bodova</item>
+        <item quantity="other">Izvrši još %1$d pretraživanja da dobiješ %2$d bodova</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="one">Pregledavaj rezultate pretrage %d sekundu</item>
+        <item quantity="few">Pregledavaj rezultate pretrage %d sekunde</item>
+        <item quantity="other">Pregledavaj rezultate pretrage %d sekundi</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="one">Izvrši još %1$d pretraživanje da dobiješ %2$d bodova!</item>
+        <item quantity="few">Izvrši još %1$d pretraživanja da dobiješ %2$d bodova!</item>
+        <item quantity="other">Izvrši još %1$d pretraživanja da dobiješ %2$d bodova!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="one">%d podudarajući zvuk</item>
+        <item quantity="few">%d podudarajuća zvuka</item>
+        <item quantity="other">%d podudarajućih zvukova</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="one">Ažurirano prije %d dan</item>
+        <item quantity="few">Ažurirano prije %d dana</item>
+        <item quantity="other">Ažurirano prije %d dana</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="one">Ažurirano prije %d sat</item>
+        <item quantity="few">Ažurirano prije %d sata</item>
+        <item quantity="other">Ažurirano prije %d sati</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="one">Ažurirano prije %d minutu</item>
+        <item quantity="few">Ažurirano prije %d minute</item>
+        <item quantity="other">Ažurirano prije %d minuta</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="one">Ažurirano prije %d sekundu</item>
+        <item quantity="few">Ažurirano prije %d sekunde</item>
+        <item quantity="other">Ažurirano prije %d sekundi</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="one">Ažurirano prije %d tjedan</item>
+        <item quantity="few">Ažurirano prije %d tjedna</item>
+        <item quantity="other">Ažurirano prije %d tjedana</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="one">Podijelio/la si fotografiju.</item>
+        <item quantity="few">Podijelio/la si fotografije.</item>
+        <item quantity="other">Podijelio/la si fotografije.</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="one">Čestitamo! Jučer si ostvario/la još %d kupnju. Nastavi s dobrim radom i prati izvedbu svoje Serije iz &quot;Alati za kreatore&quot; &gt; &quot;Serije&quot;.</item>
+        <item quantity="few">Čestitamo! Jučer si ostvario/la još %d kupnje. Nastavi s dobrim radom i prati izvedbu svoje Serije putem &quot;Alati za kreatore&quot; &gt; &quot;Serije&quot;.</item>
+        <item quantity="other">Čestitamo! Jučer si ostvario/la još %d kupnji. Nastavi s dobrim radom i prati izvedbu svoje Serije putem &quot;Alati za kreatore&quot; &gt; &quot;Serije&quot;.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="one">Tvoje Serije ostvarile su %d posjet stranici u posljednjih nekoliko dana. Za praćenje izvedbe svojih Serija i korisne savjete za privlačenje potencijalnih kupaca možeš pristupiti analitičkim alatima putem &quot;Alati za kreatore&quot; &gt; &quot;Serije&quot;.</item>
+        <item quantity="few">Tvoje Serije ostvarile su %d posjeta stranici u posljednjih nekoliko dana. Za praćenje izvedbe svojih Serija i korisne savjete za privlačenje potencijalnih kupaca možeš pristupiti analitičkim alatima putem &quot;Alati za kreatore&quot; &gt; &quot;Serije&quot;.</item>
+        <item quantity="other">Tvoje Serije ostvarile su %d posjeta stranici u posljednjih nekoliko dana. Za praćenje izvedbe svojih Serija i korisne savjete za privlačenje potencijalnih kupaca možeš pristupiti analitičkim alatima putem &quot;Alati za kreatore&quot; &gt; &quot;Serije&quot;.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="one">Čestitamo! %d gledatelj u tvojem prijenosu UŽIVO jučer je kupio pristup tvojoj Seriji. Nastavi s dobrim radom i prati izvedbu svoje Serije iz &quot;Alati za kreatore&quot; &gt; &quot;Serije&quot;.</item>
+        <item quantity="few">Čestitamo! %d gledatelja u tvojem prijenosu UŽIVO jučer su kupila pristup tvojoj Seriji. Nastavi s dobrim radom i prati izvedbu svoje Serije iz &quot;Alati za kreatore&quot; &gt; &quot;Serije&quot;.</item>
+        <item quantity="other">Čestitamo! %d gledatelja u tvojem prijenosu UŽIVO jučer su kupili pristup tvojoj Seriji. Nastavi s dobrim radom i prati izvedbu svoje Serije iz &quot;Alati za kreatore&quot; &gt; &quot;Serije&quot;.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="one">Čestitamo! %d gledatelj je jučer kupio pristup tvojoj Seriji putem videozapisa s poveznicom na Seriju. Nastavi s dobrim radom i prati izvedbu svoje Serije putem &quot;Alati za kreatore&quot; &gt; &quot;Serije&quot;.</item>
+        <item quantity="few">Čestitamo! %d gledatelja su jučer kupila pristup tvojoj Seriji putem videozapisa s poveznicom na Seriju. Nastavi s dobrim radom i prati izvedbu svoje Serije putem &quot;Alati za kreatore&quot; &gt; &quot;Serije&quot;.</item>
+        <item quantity="other">Čestitamo! %d gledatelja je jučer kupilo pristup tvojoj Seriji putem videozapisa s poveznicom na Seriju. Nastavi s dobrim radom i prati izvedbu svoje Serije putem &quot;Alati za kreatore&quot; &gt; &quot;Serije&quot;.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="one">Nastavi na kameru (%d)</item>
+        <item quantity="few">Nastavi na kameru (%d)</item>
+        <item quantity="other">Nastavi na kameru (%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="one">%.1f (%s recenzija)</item>
+        <item quantity="few">%.1f (%s recenzije)</item>
+        <item quantity="other">%.1f (%s recenzija)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="one">Samo prvi kupac</item>
+        <item quantity="few">Samo prva %d kupca</item>
+        <item quantity="other">Samo prvih %d kupaca</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="one">Ostalo je samo %d</item>
+        <item quantity="few">Ostalo je samo %d</item>
+        <item quantity="other">Ostalo je samo %d</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="one">Istječe za %d dan</item>
+        <item quantity="few">Istječe za %d dana</item>
+        <item quantity="other">Istječe za %d dana</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="one">%d videozapis</item>
+        <item quantity="few">%d videozapisa</item>
+        <item quantity="other">%d videozapisa</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="one">%d videozapis</item>
+        <item quantity="few">%d videozapisa</item>
+        <item quantity="other">%d videozapisa</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="one">%d videozapis</item>
+        <item quantity="few">%d videozapisa</item>
+        <item quantity="other">%d videozapisa</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="one">%s videozapis</item>
+        <item quantity="few">%s videozapisa</item>
+        <item quantity="other">%s videozapisa</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="one">%d pregled</item>
+        <item quantity="few">%d pregleda</item>
+        <item quantity="other">%d pregleda</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="one">Priča (%d)</item>
+        <item quantity="few">Priče (%d)</item>
+        <item quantity="other">Priče (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="one">{Brand} želi produljiti izvornu autorizaciju {start_date} – {end_date} za {num} dan.</item>
+        <item quantity="few">{Brand} želi produljiti izvornu autorizaciju {start_date} – {end_date} za {num} dana.</item>
+        <item quantity="other">{Brand} želi produljiti izvornu autorizaciju {start_date} – {end_date} za {num} dana.</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="one">%d dodani videozapis</item>
+        <item quantity="few">%d dodana videozapisa</item>
+        <item quantity="other">%d dodanih videozapisa</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="one">Kreatori su na TikToku više od %d mjeseca.</item>
+        <item quantity="few">Kreatori su na TikToku više od %d mjeseca.</item>
+        <item quantity="other">Kreatori su na TikToku više od %d mjeseci.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="one">Kreatori imaju najmanje %d pratitelja.</item>
+        <item quantity="few">Kreatori imaju najmanje %d pratitelja.</item>
+        <item quantity="other">Kreatori imaju najmanje %d pratitelja.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="one">%d interakcija</item>
+        <item quantity="few">%d interakcije</item>
+        <item quantity="other">%d interakcija</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="one">Dnevno ograničenje dodavanja popularnih tema: %d objava</item>
+        <item quantity="few">Dnevno ograničenje dodavanja popularnih tema: %d objave</item>
+        <item quantity="other">Dnevno ograničenje dodavanja popularnih tema: %d objava</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="one">Procijenjeno vrijeme pregleda: %d dan</item>
+        <item quantity="few">Procijenjeno vrijeme pregleda: %d dana</item>
+        <item quantity="other">Procijenjeno vrijeme pregleda: %d dana</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="one">%@ videozapis</item>
+        <item quantity="few">%@ videozapisa</item>
+        <item quantity="other">%@ videozapisa</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="one">%@ pregled</item>
+        <item quantity="few">%@ pregleda</item>
+        <item quantity="other">%@ pregleda</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="one">prije %d dan</item>
+        <item quantity="few">prije %d dana</item>
+        <item quantity="other">prije %d dana</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="one">Sat</item>
+        <item quantity="few">Sata</item>
+        <item quantity="other">Sati</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="one">prije %1$d sat</item>
+        <item quantity="few">prije %1$d sata</item>
+        <item quantity="other">prije %1$d sati</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="one">minuta</item>
+        <item quantity="few">minute</item>
+        <item quantity="other">minuta</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="one">prije %1$d minutu</item>
+        <item quantity="few">prije %1$d minute</item>
+        <item quantity="other">prije %1$d minuta</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="one">Sat</item>
+        <item quantity="few">Sata</item>
+        <item quantity="other">Sati</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="one">minuta</item>
+        <item quantity="few">minute</item>
+        <item quantity="other">minuta</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="one">s</item>
+        <item quantity="few">s</item>
+        <item quantity="other">s</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="one">prije %1$d godinu</item>
+        <item quantity="few">prije %1$d godine</item>
+        <item quantity="other">prije %1$d godina</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="one">Žao nam je! Zabranjeno ti je emitiranje\n Možeš ponovno emitirati uživo za %1$d dan</item>
+        <item quantity="few">Žao nam je! Zabranjeno ti je emitiranje\n Možeš ponovno emitirati uživo za %1$d dana</item>
+        <item quantity="other">Žao nam je! Zabranjeno ti je emitiranje\n Možeš ponovno emitirati uživo za %1$d dana</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="one">Žao nam je! Zabranjeno ti je emitiranje\n Možeš ponovno emitirati uživo za %1$d sat</item>
+        <item quantity="few">Žao nam je! Zabranjeno ti je emitiranje\n Možeš ponovno emitirati uživo za %1$d sata</item>
+        <item quantity="other">Žao nam je! Zabranjeno ti je emitiranje\n Možeš ponovno emitirati uživo za %1$d sati</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="one">Žao nam je! Trenutačno ti je zabranjeno emitiranje\n Možeš ponovno emitirati uživo za: %1$d minutu</item>
+        <item quantity="few">Žao nam je! Trenutačno ti je zabranjeno emitiranje\n Možeš ponovno emitirati uživo za: %1$d minute</item>
+        <item quantity="other">Žao nam je! Trenutačno ti je zabranjeno emitiranje\n Možeš ponovno emitirati uživo za: %1$d minuta</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="one">Žao nam je! Zabranjeno ti je emitiranje\n Možeš ponovno emitirati uživo za %1$d sekundu</item>
+        <item quantity="few">Žao nam je! Zabranjeno ti je emitiranje\n Možeš ponovno emitirati uživo za %1$d sekunde</item>
+        <item quantity="other">Žao nam je! Zabranjeno ti je emitiranje\n Možeš ponovno emitirati uživo za %1$d sekundi</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="one">%d korisnik gleda tvoj prijenos, želiš li ga zatvoriti?</item>
+        <item quantity="few">%d korisnika gledaju tvoj prijenos, želiš li ga zatvoriti?</item>
+        <item quantity="other">%d korisnika gleda tvoj prijenos, želiš li ga zatvoriti?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="one">Istječe za %d dan</item>
+        <item quantity="few">Istječe za %d dana</item>
+        <item quantity="other">Istječe za %d dana</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="one">Istječe za %d sat</item>
+        <item quantity="few">Istječe za %d sata</item>
+        <item quantity="other">Istječe za %d sati</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="one">Prvi put nadopuni %1$d Dijamant da bi dobio/la još %2$d!</item>
+        <item quantity="few">Prvi put nadopuni %1$d Dijamanta da bi dobio/la još %2$d!</item>
+        <item quantity="other">Prvi put nadopuni %1$d Dijamanata da bi dobio/la još %2$d!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="one">minuta</item>
+        <item quantity="few">minute</item>
+        <item quantity="other">minuta</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="one">Tvoje iskustvo na TikToku završava za: %d dan</item>
+        <item quantity="few">Tvoje iskustvo na TikToku završava za: %d dana</item>
+        <item quantity="other">Tvoje iskustvo na TikToku završava za: %d dana</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="one">%d dan</item>
+        <item quantity="few">%d dana</item>
+        <item quantity="other">%d dana</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="one">Imaš %d dan da iskusiš ovu značajku na TikToku. Nakon toga, preuzmi aplikaciju TikTok Now za nastavak.</item>
+        <item quantity="few">Imaš %d dana da iskusiš ovu značajku na TikToku. Nakon toga, preuzmi aplikaciju TikTok Now za nastavak.</item>
+        <item quantity="other">Imaš %d dana da iskusiš ovu značajku na TikToku. Nakon toga, preuzmi aplikaciju TikTok Now za nastavak.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="one">Objavi da započneš svoje %d-dnevno TikTok Now iskustvo.</item>
+        <item quantity="few">Objavi da započneš svoje %d-dnevno TikTok Now iskustvo.</item>
+        <item quantity="other">Objavi da započneš svoje %d-dnevno TikTok Now iskustvo.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="one">Odaberi ili snimi %d izrezak videozapisa</item>
+        <item quantity="few">Odaberi ili snimi %d izreska videozapisa</item>
+        <item quantity="other">Odaberi ili snimi %d izrezaka videozapisa</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="one">Uredi nedovršenu fotografiju?</item>
+        <item quantity="few">Uredi nedovršene fotografije?</item>
+        <item quantity="other">Uredi nedovršene fotografije?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="one">%s nova objava</item>
+        <item quantity="few">%s nove objave</item>
+        <item quantity="other">%s novih objava</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="one">je objavio/la %d videozapis</item>
+        <item quantity="few">je objavio/la %d videozapisa</item>
+        <item quantity="other">je objavio/la %d videozapisa</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="one">Imaš li %d godinu?</item>
+        <item quantity="few">Imaš li %d godine?</item>
+        <item quantity="other">Imaš li %d godina?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="one">Upotrijebi skraćeni zvuk. Snimi do %d sekundu.</item>
+        <item quantity="few">Upotrijebi skraćeni zvuk. Snimi do %d sekunde.</item>
+        <item quantity="other">Upotrijebi skraćeni zvuk. Snimi do %d sekunda.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="one">%s gledatelj</item>
+        <item quantity="few">%s gledatelja</item>
+        <item quantity="other">%s gledatelja</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="one">%s oznaka „Sviđa mi se”</item>
+        <item quantity="few">%s oznake „Sviđa mi se”</item>
+        <item quantity="other">%s oznaka „Sviđa mi se”</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="one">Dijeljenje na %1$s za %2$s s</item>
+        <item quantity="few">Dijeljenje na %1$s za %2$s s</item>
+        <item quantity="other">Dijeljenje na %1$s za %2$s s</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="one">%d proizvod</item>
+        <item quantity="few">%d proizvoda</item>
+        <item quantity="other">%d proizvoda</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="one">Objava</item>
+        <item quantity="few">Objave</item>
+        <item quantity="other">Objave</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="one">%1$s, %2$s i još %d osoba</item>
+        <item quantity="few">%1$s, %2$s i još %d osobe</item>
+        <item quantity="other">%1$s, %2$s i još %d osoba</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="one">je pogledao tvoju objavu.</item>
+        <item quantity="few">je pogledalo tvoju objavu.</item>
+        <item quantity="other">je pogledalo tvoju objavu.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="one">%s dijeljenje</item>
+        <item quantity="few">%s dijeljenja</item>
+        <item quantity="other">%s dijeljenja</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="one">%s pregled</item>
+        <item quantity="few">%s pregleda</item>
+        <item quantity="other">%s pregleda</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="one">{0}, {1} i još {2} osoba pogledali su tvoju objavu.</item>
+        <item quantity="few">{0}, {1} i još {2} osobe pogledali su tvoju objavu.</item>
+        <item quantity="other">{0}, {1} i još {2} osoba pogledalo je tvoju objavu.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="one">%d Novčić</item>
+        <item quantity="few">%d Novčića</item>
+        <item quantity="other">%d Novčića</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="one">poslao/la je: %s</item>
+        <item quantity="few">poslali su: %s</item>
+        <item quantity="other">poslali su: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="one">Spremljena fotografija</item>
+        <item quantity="few">Spremljene fotografije</item>
+        <item quantity="other">Spremljenih fotografija</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.CVT
+        layout_gravity="center"
+        id="@+id/fxc"
+        layout_width="36dp"
+        layout_height="36dp"/>
+</FrameLayout>

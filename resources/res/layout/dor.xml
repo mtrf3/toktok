@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    gravity="center_vertical"
+    layout_width="wrap_content"
+    layout_height="match_parent">
+    <X.C41081jM
+        id="@+id/as5"
+        layout_width="0dp"
+        layout_height="match_parent"
+        src="@drawable/c_u"
+        NOT_FOUND_0xd="@+id/e9i"
+        NOT_FOUND_0xf="@+id/m8a"/>
+    <X.C47121t6
+        textSize="13sp"
+        textColor="@color/be"
+        gravity="center"
+        layout_gravity="center_horizontal"
+        id="@+id/m8a"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        text="@string/lja"
+        maxLines="1"
+        paddingStart="16dp"
+        paddingEnd="4dp"
+        NOT_FOUND_0xe="@+id/e9i"/>
+    <X.C47061t0
+        layout_gravity="end|center_vertical"
+        id="@+id/e9i"
+        layout_width="56dp"
+        layout_height="48dp"
+        src="@drawable/cvc"
+        scaleType="centerInside"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0x10="@drawable/cvc"/>
+</merge>

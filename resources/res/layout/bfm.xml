@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    orientation="vertical"
+    id="@+id/fr2"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C202517x9
+        id="@+id/ejk"
+        layout_width="40dp"
+        layout_height="40dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        id="@+id/m_w"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="6dp"
+        NOT_FOUND_0x7="62"/>
+</LinearLayout>

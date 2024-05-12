@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.SY4
+    enabled="true"
+    id="@+id/b1h"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    maxWidth="200dp"
+    text="@string/iie"
+    paddingStart="16dp"
+    paddingEnd="16dp"
+    NOT_FOUND_0x8="false"
+    NOT_FOUND_0x9="2"
+    NOT_FOUND_0xa="1"
+    NOT_FOUND_0xb="@raw/icon_headphone"/>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_gravity="center"
+    id="@+id/h6y"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.VW3
+        id="@+id/erz"
+        layout_width="@dimen/a7g"
+        layout_height="@dimen/a7f"
+        NOT_FOUND_0x4="0"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

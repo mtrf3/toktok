@@ -1,0 +1,142 @@
+package X;
+
+import android.graphics.Canvas;
+import android.graphics.LinearGradient;
+import android.graphics.Paint;
+import android.graphics.Path;
+import android.graphics.Shader;
+import kotlin.jvm.internal.o;
+
+/* renamed from: X.DHh, reason: case insensitive filesystem */
+/* loaded from: classes7.dex */
+public final class C33617DHh extends AbstractC39455Fe7 {
+    public final Paint LJ;
+    public final DIJ LJFF;
+    public final Paint LJI;
+    public final DIJ LJII;
+    public final Paint LJIIIIZZ;
+    public final DIJ LJIIIZ;
+    public final Paint LJIIJ;
+    public final DIJ LJIIJJI;
+
+    public C33617DHh() {
+        LinearGradient linearGradient = new LinearGradient(33.89f, 12.27f, 12.93f, 34.86f, new int[]{-3296892, -1648226, -2772605}, new float[]{0.0f, 0.38f, 1.0f}, Shader.TileMode.CLAMP);
+        LinearGradient linearGradient2 = new LinearGradient(33.89f, 12.27f, 12.93f, 34.86f, new int[]{-3296892, -1648226, -2772605}, new float[]{0.0f, 0.38f, 1.0f}, Shader.TileMode.CLAMP);
+        LinearGradient linearGradient3 = new LinearGradient(33.89f, 12.27f, 12.93f, 34.86f, new int[]{-3296892, -1648226, -2772605}, new float[]{0.0f, 0.38f, 1.0f}, Shader.TileMode.CLAMP);
+        LinearGradient linearGradient4 = new LinearGradient(33.89f, 12.27f, 12.93f, 34.86f, new int[]{-3296892, -1648226, -2772605}, new float[]{0.0f, 0.38f, 1.0f}, Shader.TileMode.CLAMP);
+        C32856Cuy.x8(this.LIZJ);
+        this.LIZJ.LJIIZILJ(Path.FillType.WINDING);
+        this.LIZIZ.setStyle(Paint.Style.FILL);
+        Paint LIZIZ = KMP.LIZIZ(this.LIZIZ, -15592942);
+        this.LJ = LIZIZ;
+        DIJ dij = new DIJ();
+        this.LJFF = dij;
+        dij.LJIIIIZZ(34.1f, 20.7f);
+        dij.LJIIJ(0.46f, 0.6f, 0.6f, 1.34f, 0.61f, 2.08f);
+        dij.LJIIJ(0.02f, 0.73f, 0.02f, 1.46f, 0.02f, 2.19f);
+        dij.LJIJ(32.13f);
+        dij.LJIIIZ(2.35f, 2.35f, false, false, -0.15f, -0.12f);
+        dij.LJIIL(-1.07f, -1.06f);
+        dij.LJIIL(-2.15f, -2.12f);
+        dij.LJIIIZ(0.45f, 0.45f, false, true, -0.13f, -0.36f);
+        dij.LJIJ(20.7f);
+        dij.LJIIIZ(0.47f, 0.47f, false, false, -0.15f, -0.36f);
+        dij.LJIIL(-2.07f, -2.06f);
+        dij.LJIIL(-0.79f, -0.78f);
+        dij.LJIIL(-0.06f, -0.05f);
+        dij.LJIIIZ(5.69f, 5.69f, false, true, -0.08f, -0.07f);
+        dij.LJIIL(-1.53f, 1.57f);
+        dij.LJIIL(-0.06f, 0.06f);
+        dij.LJIIL(-2.46f, 2.53f);
+        dij.LJIIL(-8.32f, -8.26f);
+        dij.LJIIJJI(0.09f);
+        dij.LJIIL(0.12f, -0.01f);
+        dij.LJIIIZ(7042.83f, 7042.83f, false, false, 8.9f, 0.0f);
+        dij.LJIIJ(0.68f, 0.0f, 1.34f, 0.05f, 1.96f, 0.33f);
+        dij.LJIIJ(0.5f, 0.23f, 0.88f, 0.6f, 1.25f, 0.98f);
+        dij.LJIIL(0.13f, 0.12f);
+        dij.LJIIJ(1.64f, 1.63f, 3.29f, 3.26f, 4.92f, 4.9f);
+        dij.LJIIJ(0.36f, 0.35f, 0.7f, 0.7f, 1.01f, 1.1f);
+        dij.LIZLLL();
+        dij.LJIIZILJ(Path.FillType.WINDING);
+        LIZIZ.setStyle(Paint.Style.FILL);
+        LIZIZ.setShader(linearGradient);
+        Paint LIZ = C42193GhB.LIZ(this.LIZ, LIZIZ);
+        this.LJI = LIZ;
+        DIJ dij2 = new DIJ();
+        this.LJII = dij2;
+        dij2.LJIIIIZZ(28.02f, 29.75f);
+        dij2.LJIIJ(0.0f, 0.2f, 0.06f, 0.33f, 0.2f, 0.47f);
+        dij2.LJIIL(3.77f, 3.74f);
+        dij2.LJIIL(0.29f, 0.28f);
+        dij2.LJIIIZ(1261.77f, 1261.77f, false, false, 0.42f, 0.43f);
+        dij2.LJIIL(0.04f, 0.05f);
+        dij2.LJIIJJI(-0.08f);
+        dij2.LJIIL(-0.12f, 0.01f);
+        dij2.LJIIJJI(-9.35f);
+        dij2.LJIIJ(-0.38f, 0.0f, -0.76f, -0.04f, -1.13f, -0.09f);
+        dij2.LJIIJ(-0.8f, -0.1f, -1.41f, -0.54f, -1.97f, -1.09f);
+        dij2.LJIIL(-0.92f, -0.92f);
+        dij2.LJIIJ(-1.54f, -1.54f, -3.07f, -3.07f, -4.62f, -4.58f);
+        dij2.LJIIIZ(3.92f, 3.92f, false, true, -1.27f, -2.92f);
+        dij2.LJIJ(15.4f);
+        dij2.LJIIL(0.18f, 0.16f);
+        dij2.LJIIIZ(29.28f, 29.28f, false, true, 1.1f, 1.09f);
+        dij2.LJIIL(2.07f, 2.05f);
+        dij2.LJIIJ(0.1f, 0.1f, 0.14f, 0.21f, 0.14f, 0.36f);
+        dij2.LJIILL(8.23f);
+        dij2.LJIIJ(0.0f, 0.15f, 0.03f, 0.26f, 0.14f, 0.37f);
+        dij2.LJIIIZ(600.7f, 600.7f, false, true, 2.98f, 2.94f);
+        dij2.LJIIL(0.08f, 0.08f);
+        dij2.LJIILL(-8.59f);
+        dij2.LJIIL(0.1f, -0.06f);
+        dij2.LJIIL(3.95f, 4.07f);
+        dij2.LJIIL(3.92f, -4.03f);
+        dij2.LJIIL(0.02f, -0.01f);
+        dij2.LJIIIZ(1.46f, 1.46f, false, true, 0.03f, 0.01f);
+        C32856Cuy.E6(dij2);
+        dij2.LJIIL(0.02f, 0.02f);
+        dij2.LJIILL(7.66f);
+        dij2.LIZLLL();
+        dij2.LJIIZILJ(Path.FillType.WINDING);
+        LIZ.setStyle(Paint.Style.FILL);
+        LIZ.setShader(linearGradient2);
+        Paint LIZ2 = C42193GhB.LIZ(this.LIZ, LIZ);
+        this.LJIIIIZZ = LIZ2;
+        DIJ dij3 = new DIJ();
+        this.LJIIIZ = dij3;
+        dij3.LJIIIIZZ(13.29f, 34.72f);
+        dij3.LJIIJJI(4.74f);
+        dij3.LJIIL(-1.96f, -2.0f);
+        dij3.LJIIL(-2.78f, -2.85f);
+        dij3.LJIILL(4.85f);
+        dij3.LIZLLL();
+        dij3.LJIIZILJ(Path.FillType.WINDING);
+        LIZ2.setStyle(Paint.Style.FILL);
+        LIZ2.setShader(linearGradient3);
+        Paint LIZ3 = C42193GhB.LIZ(this.LIZ, LIZ2);
+        this.LJIIJ = LIZ3;
+        DIJ dij4 = new DIJ();
+        this.LJIIJJI = dij4;
+        dij4.LJIIIIZZ(29.96f, 13.28f);
+        dij4.LJIIJJI(4.75f);
+        dij4.LJIILL(4.86f);
+        dij4.LJIIIZ(105314.19f, 105314.19f, false, false, -4.75f, -4.86f);
+        dij4.LIZLLL();
+        dij4.LJIIZILJ(Path.FillType.WINDING);
+        LIZ3.setStyle(Paint.Style.FILL);
+        LIZ3.setShader(linearGradient4);
+        this.LIZ.add(LIZ3);
+    }
+
+    @Override // X.AbstractC39455Fe7
+    public final void LIZ(Canvas canvas) {
+        o.LJIIIZ(canvas, "canvas");
+        LIZIZ(48.0f, 48.0f, canvas);
+        canvas.drawPath(this.LIZJ.LIZ, this.LIZIZ);
+        canvas.drawPath(this.LJFF.LIZ, this.LJ);
+        canvas.drawPath(this.LJII.LIZ, this.LJI);
+        canvas.drawPath(this.LJIIIZ.LIZ, this.LJIIIIZZ);
+        canvas.drawPath(this.LJIIJJI.LIZ, this.LJIIJ);
+    }
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/g58"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.NB8
+        id="@+id/hqh"
+        layout_width="160dp"
+        layout_height="wrap_content"/>
+    <X.NB8
+        id="@+id/hqi"
+        layout_width="160dp"
+        layout_height="wrap_content"
+        layout_marginTop="8dp"/>
+    <X.NB8
+        id="@+id/hqj"
+        layout_width="160dp"
+        layout_height="wrap_content"
+        layout_marginTop="8dp"/>
+</LinearLayout>

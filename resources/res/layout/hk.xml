@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView
+    orientation="vertical"
+    id="@+id/g2b"
+    background="@drawable/p7"
+    layout_width="match_parent"
+    layout_height="match_parent"
+    src="@drawable/b8a"
+    scaleType="center"/>

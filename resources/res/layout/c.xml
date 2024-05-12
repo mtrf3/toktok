@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <TextView
+        textAppearance="?attr/ah"
+        id="@+id/bv"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="@dimen/n"
+        layout_centerHorizontal="true"/>
+    <Button
+        textAppearance="?attr/m"
+        id="@+id/b1h"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginBottom="@dimen/l"
+        layout_alignParentBottom="true"
+        layout_centerHorizontal="true"/>
+</RelativeLayout>

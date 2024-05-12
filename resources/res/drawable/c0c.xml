@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="oval">
+    <size
+        height="5dp"
+        width="5dp"/>
+    <solid color="?attr/do"/>
+</shape>

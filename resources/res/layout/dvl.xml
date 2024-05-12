@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    textSize="@dimen/akb"
+    textStyle="bold"
+    textColor="@color/aeg"
+    gravity="center"
+    paddingLeft="16dp"
+    paddingRight="16dp"
+    layout_width="wrap_content"
+    layout_height="50dp"/>

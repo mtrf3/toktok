@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    orientation="vertical"
+    background="@drawable/a5g"
+    layout_width="36dp"
+    layout_height="36dp">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/i4g"
+        layout_width="22dp"
+        layout_height="22dp"
+        layout_centerInParent="true"
+        NOT_FOUND_0x6="?attr/gp"/>
+</RelativeLayout>

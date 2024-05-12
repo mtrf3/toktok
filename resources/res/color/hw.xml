@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_focused="true"
+        color="@color/pp"/>
+    <item
+        color="@color/pq"
+        state_hovered="true"/>
+    <item
+        state_enabled="false"
+        color="@color/pn"/>
+    <item color="@color/pm"/>
+</selector>

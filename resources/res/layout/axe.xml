@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    background="?attr/cl"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C25771A9n
+        id="@+id/mym"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

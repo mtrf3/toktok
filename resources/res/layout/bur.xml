@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout
+    background="@drawable/bs9"
+    layout_width="match_parent"
+    layout_height="0dp"
+    NOT_FOUND_0xd="1"
+    NOT_FOUND_0x11="0.75">
+    <X.C164086cG
+        id="@+id/cover"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0xc="6"/>
+    <LinearLayout
+        gravity="center_horizontal"
+        layout_gravity="center"
+        orientation="vertical"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginStart="8dp"
+        layout_marginEnd="8dp">
+        <com.bytedance.tux.icon.TuxIconView
+            layout_width="24dp"
+            layout_height="24dp"
+            layout_marginBottom="8dp"
+            NOT_FOUND_0xf="@raw/icon_plus"
+            NOT_FOUND_0x10="?attr/dj"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            gravity="center"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/gcn"
+            NOT_FOUND_0xe="52"/>
+    </LinearLayout>
+</com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout>

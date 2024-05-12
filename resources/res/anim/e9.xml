@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set shareInterpolator="false">
+    <translate
+        duration="@integer/bl"
+        fromXDelta="0%"
+        toXDelta="0%"
+        fromYDelta="0%"
+        toYDelta="100%"/>
+</set>

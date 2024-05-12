@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C47121t6
+        textColor="?attr/bns"
+        ellipsize="end"
+        gravity="center_horizontal"
+        id="@+id/mkv"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="83dp"
+        text="@string/lfy"
+        lines="2"
+        paddingStart="16dp"
+        paddingEnd="16dp"
+        NOT_FOUND_0xc="0"
+        style="@style/a41"/>
+    <X.C47121t6
+        textColor="?attr/bny"
+        ellipsize="end"
+        gravity="center_horizontal"
+        id="@+id/mkt"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="24dp"
+        lines="1"
+        paddingStart="16dp"
+        paddingEnd="16dp"
+        NOT_FOUND_0xb="@+id/mkv"
+        style="@style/a46"/>
+    <X.C47121t6
+        textColor="?attr/bny"
+        ellipsize="end"
+        gravity="center_horizontal"
+        id="@+id/mku"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="8dp"
+        text="@string/lg1"
+        lines="1"
+        paddingStart="16dp"
+        paddingEnd="16dp"
+        NOT_FOUND_0xb="@+id/mkt"
+        style="@style/a46"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

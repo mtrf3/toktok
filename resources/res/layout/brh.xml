@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/j_p"
+    background="@color/n3"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <Button
+        textSize="@dimen/y7"
+        textColor="@drawable/bqe"
+        gravity="center"
+        id="@+id/au6"
+        background="@android:color/transparent"
+        paddingLeft="@dimen/y9"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        textAllCaps="false"/>
+    <TextView
+        textSize="@dimen/y_"
+        textColor="@color/n6"
+        gravity="center"
+        id="@+id/lyc"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_toLeftOf="@+id/auf"
+        layout_toRightOf="@+id/au6"
+        layout_centerVertical="true"/>
+    <Button
+        textSize="@dimen/y7"
+        textColor="@drawable/bqe"
+        gravity="center"
+        id="@+id/auf"
+        background="@android:color/transparent"
+        paddingRight="@dimen/y9"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        layout_alignParentRight="true"
+        textAllCaps="false"/>
+</RelativeLayout>

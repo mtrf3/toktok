@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape shape="oval">
+            <size
+                height="@dimen/agm"
+                width="@dimen/agn"/>
+            <solid color="@color/a2y"/>
+        </shape>
+    </item>
+    <item>
+        <bitmap
+            gravity="center"
+            src="@drawable/cpk"/>
+    </item>
+</layer-list>

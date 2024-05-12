@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_selected="true">
+        <layer-list>
+            <item>
+                <shape shape="rectangle">
+                    <corners radius="8dp"/>
+                    <solid color="?attr/cv"/>
+                    <stroke
+                        width="2dp"
+                        color="?attr/eb"/>
+                </shape>
+            </item>
+            <item>
+                <bitmap src="@drawable/akt"/>
+            </item>
+        </layer-list>
+    </item>
+    <item>
+        <layer-list>
+            <item>
+                <shape shape="rectangle">
+                    <corners radius="8dp"/>
+                    <solid color="?attr/cv"/>
+                </shape>
+            </item>
+            <item>
+                <bitmap src="@drawable/akt"/>
+            </item>
+        </layer-list>
+    </item>
+</selector>

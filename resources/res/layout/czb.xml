@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.CVT
+        layout_gravity="center_horizontal"
+        id="@+id/dzl"
+        padding="6dp"
+        layout_width="wrap_content"
+        layout_height="48dp"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"/>
+    <X.RunnableC31065CHd
+        id="@+id/dzk"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        overScrollMode="never"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

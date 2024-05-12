@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item
+        id="@android:id/background"
+        drawable="@drawable/bvo"/>
+    <item id="@android:id/progress">
+        <clip>
+            <shape>
+                <solid color="?attr/cf"/>
+                <corners radius="24dp"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

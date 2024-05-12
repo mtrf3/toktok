@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="a">200dp</dimen>
+    <dimen name="b">240dp</dimen>
+    <dimen name="e">200dp</dimen>
+    <dimen name="f">240dp</dimen>
+    <dimen name="i">8dp</dimen>
+    <dimen name="j">8dp</dimen>
+    <dimen name="ae">61dp</dimen>
+    <dimen name="af">18dp</dimen>
+    <dimen name="ag">132dp</dimen>
+    <dimen name="bb">48dp</dimen>
+    <dimen name="dd">12dp</dimen>
+    <dimen name="df">14dp</dimen>
+    <dimen name="ze">24dp</dimen>
+    <dimen name="zh">24dp</dimen>
+    <dimen name="a0u">20dp</dimen>
+    <dimen name="a0w">4dp</dimen>
+    <dimen name="a10">96dp</dimen>
+    <dimen name="a13">0dp</dimen>
+    <dimen name="a14">0dp</dimen>
+    <dimen name="a15">104dp</dimen>
+    <dimen name="a1c">68dp</dimen>
+    <dimen name="a1e">28dp</dimen>
+    <dimen name="a1f">64dp</dimen>
+    <dimen name="a1g">32dp</dimen>
+    <dimen name="a1h">24dp</dimen>
+    <dimen name="a1i">32dp</dimen>
+    <dimen name="afq">@dimen/adr</dimen>
+</resources>

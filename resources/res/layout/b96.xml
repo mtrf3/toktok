@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="@dimen/uz">
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center_vertical"
+        id="@+id/e_q"
+        layout_width="14dp"
+        layout_height="14dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        layout_gravity="center_vertical"
+        id="@+id/text"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginStart="2dp"
+        NOT_FOUND_0x6="61"/>
+</LinearLayout>

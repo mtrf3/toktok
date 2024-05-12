@@ -1,0 +1,7 @@
+package X;
+
+/* loaded from: classes13.dex */
+public final class S31 {
+    public boolean LIZ;
+    public boolean LIZIZ;
+}

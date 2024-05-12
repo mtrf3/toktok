@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    background="@color/v7"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <RelativeLayout
+        id="@+id/la4"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="6dp">
+        <TextView
+            textSize="17sp"
+            textColor="@color/hp"
+            gravity="center"
+            id="@+id/kug"
+            layout_width="wrap_content"
+            layout_height="32dp"
+            layout_marginRight="16dp"
+            text="@string/q8h"
+            layout_alignParentRight="true"
+            fontFamily="ProximaNova-Semibold"
+            layout_marginEnd="16dp"
+            layout_alignParentEnd="true"/>
+    </RelativeLayout>
+    <EditText
+        textSize="15dp"
+        textColor="#ffffff"
+        textColorHint="#80ffffff"
+        layout_gravity="bottom"
+        id="@+id/cqw"
+        background="@drawable/c0a"
+        paddingLeft="10dp"
+        paddingTop="8dp"
+        paddingRight="10dp"
+        paddingBottom="8dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_margin="16dp"
+        maxLines="1"
+        singleLine="true"
+        imeOptions="actionDone"/>
+</FrameLayout>

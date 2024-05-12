@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="76dp">
+    <ImageView
+        layout_gravity="end|center_vertical"
+        id="@+id/bav"
+        background="@drawable/b0q"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginRight="24dp"
+        layout_marginEnd="24dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        layout_gravity="start|center_vertical"
+        id="@+id/a6u"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="24dp"
+        layout_marginStart="24dp"
+        NOT_FOUND_0xa="33"/>
+</FrameLayout>

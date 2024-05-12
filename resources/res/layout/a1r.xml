@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/title"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <View
+        background="?attr/e9"
+        layout_width="match_parent"
+        layout_height="0dp"
+        alpha="0.1"
+        NOT_FOUND_0xe="@+id/agt"
+        NOT_FOUND_0x12="0"/>
+    <X.C1AF
+        id="@+id/agt"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0xb="3"
+        NOT_FOUND_0xc="lvr,dbr"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gv"
+        layout_gravity="center_vertical"
+        id="@+id/lvr"
+        paddingTop="12dp"
+        paddingBottom="12dp"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_marginStart="@dimen/nt"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x13="-2"
+        NOT_FOUND_0x14="0.7"
+        NOT_FOUND_0x15="61"/>
+    <X.C119774mz
+        id="@+id/dbr"
+        paddingTop="@dimen/o2"
+        paddingBottom="@dimen/o2"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_marginStart="@dimen/o2"
+        layout_marginEnd="@dimen/o2"
+        NOT_FOUND_0xd="-1"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x10="@+id/lvr"
+        NOT_FOUND_0x12="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

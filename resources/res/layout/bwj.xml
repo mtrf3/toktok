@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    id="@android:id/text1"
+    visibility="visible"
+    layout_width="wrap_content"
+    layout_height="58dp"
+    text="@string/il9"
+    NOT_FOUND_0x5="0"
+    NOT_FOUND_0x6="0"
+    NOT_FOUND_0x7="0"
+    NOT_FOUND_0x8="0"
+    NOT_FOUND_0x9="32"
+    style="@style/a83"/>

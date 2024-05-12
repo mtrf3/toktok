@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ai">60%</dimen>
+    <dimen name="aj">90%</dimen>
+    <dimen name="b_">24dp</dimen>
+    <dimen name="ba">80dp</dimen>
+    <dimen name="bb">64dp</dimen>
+    <dimen name="bc">8dp</dimen>
+    <dimen name="bd">8dp</dimen>
+    <dimen name="bw">580dp</dimen>
+    <dimen name="dd">16dp</dimen>
+    <dimen name="df">20dp</dimen>
+    <dimen name="mi">320dp</dimen>
+    <dimen name="ml">0dp</dimen>
+    <dimen name="mn">2dp</dimen>
+    <dimen name="mp">24dp</dimen>
+    <dimen name="mq">576dp</dimen>
+    <dimen name="mr">320dp</dimen>
+    <dimen name="mu">@dimen/mt</dimen>
+    <dimen name="mx">160dp</dimen>
+    <dimen name="zw">64dp</dimen>
+    <dimen name="a46">64dp</dimen>
+    <dimen name="a8f">1dp</dimen>
+</resources>

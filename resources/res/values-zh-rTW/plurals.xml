@@ -1,0 +1,2354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">我們將在 %d 分鐘後開始建立虛擬人像。</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">使用 %d 風格繼續</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">還要再選取至少 %d 張含有人臉的照片</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">每天有 %d 次機會使用 Sharp 建立虛擬人像</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">每週有 %d 次機會使用 Sharp 建立虛擬人像</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">每天有 %d 次機會使用 Speedy 建立虛擬人像</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">每週有 %d 次機會使用 Speedy 建立虛擬人像</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">每天有 %d 次機會建立虛擬人像</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">每週有 %d 次機會建立虛擬人像</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">我們將在 %d 分鐘後開始建立虛擬人像。</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">已通過審核 (%d)</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">有 %d 個人提及了您。</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">您有 %d 個請求</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">您有 %d 個請求</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%d 個問題</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">前 %d 天，其他人必須發佈動態才能查看您的發佈內容。</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">%d 天後，他們無需發佈動態就能查看您的發佈內容。</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">%d 天後，只有您才能查看自己的發佈內容。</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">前 %d 天，其他人必須發佈動態才能查看您的 Now 發佈內容。</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%d 件商品</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">審查中 (%d)</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">在您的註冊通過審核後 %d 個月內無法變更註冊資訊。</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">您只能在已註冊的資訊通過審核的 %d 個月後加以變更。</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">最多可上傳 %d 張圖片</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">開啟 {username} 的照片</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">{number} 人珍藏了此影片</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">%d 個讚</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@0 億</item>
+        <item quantity="other">%@0 億</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@00 萬</item>
+        <item quantity="other">%@00 萬</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ 000</item>
+        <item quantity="other">%@ 000</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">%d 次觀看</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">%s 部影片允許評論</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">%s 部影片不允許評論</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">%d 部影片不允許合拍</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">任何人都可以與您的影片合拍。您有 %1$d 部影片允許合拍，%2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">%d 部影片不允許合拍</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">好友可以與您的影片合拍。您有 %1$d 部影片允許合拍，%2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">%d 部影片不允許合拍</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="other">查看誰可以與您的影片合拍。您有 %1$d 部影片允許合拍，%2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="other">%d 部影片不允許畫面拼貼</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="other">查看誰可以與您的影片進行畫面拼貼。您有 %1$d 部影片允許畫面拼貼，%2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="other">%d 部影片不允許畫面拼貼</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="other">任何人都可以與您的影片進行畫面拼貼。您有 %1$d 部影片允許畫面拼貼，%2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="other">%d 部影片不允許畫面拼貼</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="other">好友可以與您的影片進行畫面拼貼。您有 %1$d 部影片允許畫面拼貼，%2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="other">%s 部影片允許合拍</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="other">%s 部影片不允許合拍</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="other">%s 部影片允許畫面拼貼</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="other">%s 部影片不允許畫面拼貼</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="other">%d 小時前在線上</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="other">%d 分鐘前在線上</item>
+    </plurals>
+    <plurals name="ao">
+        <item quantity="other">天</item>
+    </plurals>
+    <plurals name="ap">
+        <item quantity="other">小時</item>
+    </plurals>
+    <plurals name="aq">
+        <item quantity="other">分鐘</item>
+    </plurals>
+    <plurals name="ar">
+        <item quantity="other">秒鐘</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="other">%d 個部分</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="other">%1$s · %2$d 則新發佈內容</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="other">匯入 %d 首音樂</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="other">%2$d 次直播 | %1$d 則限時動態</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="other">%2$d 場直播 | %1$d 則限時動態</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="other">%d 場直播 | 則限時動態</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="other">%2$d 次直播 | %1$d 則限時動態</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="other">%d 則限時動態</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="other">已邀請 %d 位好友</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="other">%s 支影片</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="other">已新增 %s 段影片</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="other">已發佈 %s 部影片</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="other">新增影片 (%d)</item>
+    </plurals>
+    <plurals name="b5">
+        <item quantity="other">已新增 %s 段影片。點按 [完成] 即可完成編輯。</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="other">%d 歲</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="other">%d 歲</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="other">您今年 %d 歲嗎？\n\n 如果此資料不正確，您可能無法獲得適當的 TikTok 體驗，且您可能無法立刻變更這項資料。</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="other">您今年 %d 歲嗎？</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="other">您之前輸入的年齡為 %d 歲。請輸入您的真實出生日期。</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="other">%d 歲</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="other">%d 首音樂</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="other">正在同步音樂...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="other">%s 次分享</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="other">%s 次觀看</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="other">使用變聲效果可能會降低準確度</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="other">最多可上傳 %d 個檔案</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="other">[num] 個影片</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="other">該測試版 將於 %d 天後到期</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="other">%d 天後到期</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="other">%d 天後到期</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="other">%d 天後到期</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="other">您可以新增最多 %d 本書</item>
+    </plurals>
+    <plurals name="bn">
+        <item quantity="other">已邀請 %1$d 位朋友。您下一次邀請朋友時將可賺取 %2$s%3$d。</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="other">%s 個片段</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="other">查看其他 %d 則</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="other">查看 %d 則回覆</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="other">%d 個月</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="other">%d 年</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="other">封鎖帳號</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="other">已選取 %d 個帳號。</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="other">您一次最多可以選取 %d 個帳號。</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="other">您已選取 %d 個要封鎖的帳號。被封鎖的帳號將無法查看您的 TikTok 個人資料或內容。</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="other">封鎖 %d 個帳號嗎？</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="other">刪除評論</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="other">您已選取 %d 則評論。</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="other">刪除 %d 則評論嗎？</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="other">已刪除評論</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="other">已選取 %d 則評論。</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="other">您一次最多可以選取 %d 則評論。</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="other">舉報評論</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="other">您要舉報 %d 則評論。我們將會審查這些評論，看看是否有不恰當的內容。</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="other">舉報 %d 則評論嗎？</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="other">已舉報評論</item>
+    </plurals>
+    <plurals name="c9">
+        <item quantity="other">已選取 %d 則評論</item>
+    </plurals>
+    <plurals name="c_">
+        <item quantity="other">你熱愛與人交流，今年你寫下了{comment_cnt}條評論。</item>
+    </plurals>
+    <plurals name="ca">
+        <item quantity="other">你最熱門的評論獲得了{comment_like_cnt}個讚！</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="other">%s 則評論</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="other">%s 段影片</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="other">%s 位使用者設定了提醒</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="other">%s 款特效</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="other">影片觀看次數</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="other">淨粉絲</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="other">按讚數</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cp">
+        <item quantity="other">距離直播 &quot;{0}&quot; 開始還有 10 分鐘。{0} 位使用者已設定提醒。</item>
+    </plurals>
+    <plurals name="cq">
+        <item quantity="other">該直播了！{0} 位使用者已為 &quot;{0}&quot; 設定提醒。</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="other">%s 位使用者已設定了提醒</item>
+    </plurals>
+    <plurals name="cs">
+        <item quantity="other">至少有 %d 名粉絲</item>
+    </plurals>
+    <plurals name="ct">
+        <item quantity="other">在過去 %2$d 天至少發佈 %1$d 支影片</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="other">刪除草稿？</item>
+    </plurals>
+    <plurals name="cv">
+        <item quantity="other">已使用您的原影片創作了 %d 支合拍和拼貼影片。</item>
+    </plurals>
+    <plurals name="cw">
+        <item quantity="other">您可以選擇在 %d 天後移除這些影片。</item>
+    </plurals>
+    <plurals name="cx">
+        <item quantity="other">如果您在未來 %d 天內復原帳號，這些影片也將一併復原。</item>
+    </plurals>
+    <plurals name="cy">
+        <item quantity="other">您的帳號將停用 %d 天，而且將無法公開顯示。在停用期間，您隨時都可以重新啟用您的 TikTok 帳號。</item>
+    </plurals>
+    <plurals name="cz">
+        <item quantity="other">過了 %d 天後，我們將永久刪除您的帳號和資料。</item>
+    </plurals>
+    <plurals name="d0">
+        <item quantity="other">在刪除您的帳號前先檢閱這 %d 項工作</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="other">%s 則發佈內容</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="other">密碼不正確。還可嘗試 %d 次。</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="other">嘗試次數過多。請於 %d 分鐘後重試。</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="other">%d 段旋律</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="other">%d 首音樂</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="other">%d 件作品</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="other">%d 首歌曲</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="other">%d 首音樂</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="other">%d 首曲調</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="other">傳送 (%d)</item>
+    </plurals>
+    <plurals name="db">
+        <item quantity="other">你們兩人都關注了 %s 和其他 %d 人</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="other">%1$d 個關注帳號 · %2$d 名粉絲</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="other">@ 次新提及</item>
+    </plurals>
+    <plurals name="de">
+        <item quantity="other">%s 支影片</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="other">傳送了新訊息。</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="other">向你傳送了新訊息。</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="other">最多可選取 %d 人</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="other">捨棄草稿？</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="other">刪除草稿？</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="other">將 {#} 部影片儲存為草稿</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="other">此影片發佈時將會通知 %1$s 和其他 %2$s 個人。</item>
+    </plurals>
+    <plurals name="dm">
+        <item quantity="other">%s 秒</item>
+    </plurals>
+    <plurals name="dn">
+        <item quantity="other">%d 件商品</item>
+    </plurals>
+    <plurals name="do">
+        <item quantity="other">購買 {number} 件可享有 {value}% 的折扣</item>
+    </plurals>
+    <plurals name="dp">
+        <item quantity="other">購買 {number} 件可享有 {value}% 的折扣，再購買 {gapvalue} 件即可享有這項折扣！</item>
+    </plurals>
+    <plurals name="dq">
+        <item quantity="other">購買 {number} 件可享有 {value}% 的折扣，您已省下 {currency_mark}{savevalue}</item>
+    </plurals>
+    <plurals name="dr">
+        <item quantity="other">購買 {number} 件以上即可享有 {value}% 的折扣</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="other">至少選取 %d 件</item>
+    </plurals>
+    <plurals name="dt">
+        <item quantity="other">{{required_quantity}} 件以上的商品</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="other">%d 天後的追蹤評論</item>
+    </plurals>
+    <plurals name="dv">
+        <item quantity="other">不符合條件的商品</item>
+    </plurals>
+    <plurals name="dw">
+        <item quantity="other">有效期為 {{num}} 天</item>
+    </plurals>
+    <plurals name="dx">
+        <item quantity="other">再多 {count} 點積分，排名即可上升</item>
+    </plurals>
+    <plurals name="dy">
+        <item quantity="other">再多 {count} 點積分，即可成為頂尖創作者</item>
+    </plurals>
+    <plurals name="dz">
+        <item quantity="other">閃購活動將於 {{num}} 分鐘後開始</item>
+    </plurals>
+    <plurals name="e0">
+        <item quantity="other">閃購活動將於 {num} 分鐘後開始</item>
+    </plurals>
+    <plurals name="e1">
+        <item quantity="other">閃購活動將於 {{num}} 分鐘後開始</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="other">將於 %s 天後結束</item>
+    </plurals>
+    <plurals name="e3">
+        <item quantity="other">我們將會在活動開始前 %s 分鐘向您傳送推播通知。</item>
+    </plurals>
+    <plurals name="e4">
+        <item quantity="other">我們將會在活動開始前 %s 分鐘向您傳送推播通知。</item>
+    </plurals>
+    <plurals name="e5">
+        <item quantity="other">我們將會在活動開始前 %s 分鐘向您傳送推播通知</item>
+    </plurals>
+    <plurals name="e6">
+        <item quantity="other">剩下 {{count}} 天</item>
+    </plurals>
+    <plurals name="e7">
+        <item quantity="other">您已獲邀銷售以下 {{count}} 種有提供免費樣品的商品。接受邀請即可獲得這些樣品。</item>
+    </plurals>
+    <plurals name="e8">
+        <item quantity="other">無法取得商品。請聯絡我們的支援團隊然後重試。</item>
+    </plurals>
+    <plurals name="e9">
+        <item quantity="other">免費樣品出了一些問題。請聯絡我們的支援團隊然後重試。</item>
+    </plurals>
+    <plurals name="e_">
+        <item quantity="other">將於 {count} 天後結束</item>
+    </plurals>
+    <plurals name="ea">
+        <item quantity="other">將於 {count} 小時後結束</item>
+    </plurals>
+    <plurals name="eb">
+        <item quantity="other">將於 {count} 分鐘後結束</item>
+    </plurals>
+    <plurals name="ec">
+        <item quantity="other">剩下 {count} 件</item>
+    </plurals>
+    <plurals name="ed">
+        <item quantity="other">{count} 名索取者</item>
+    </plurals>
+    <plurals name="ee">
+        <item quantity="other">您的退款已送至 {payment_method}，通常會在約 {count} 天後入帳。</item>
+    </plurals>
+    <plurals name="ef">
+        <item quantity="other">分期付款%s</item>
+    </plurals>
+    <plurals name="eg">
+        <item quantity="other">無效的商品</item>
+    </plurals>
+    <plurals name="eh">
+        <item quantity="other">這些商品無法出貨到該地址。</item>
+    </plurals>
+    <plurals name="ei">
+        <item quantity="other">這些商品無法運送到該地址。</item>
+    </plurals>
+    <plurals name="ej">
+        <item quantity="other">您在 %s 小時前提交了類似的訂單。上一筆訂單正在等候付款。</item>
+    </plurals>
+    <plurals name="ek">
+        <item quantity="other">您在 %s 分鐘前提交了類似的訂單。上一筆訂單正在等候付款。</item>
+    </plurals>
+    <plurals name="el">
+        <item quantity="other">粉絲</item>
+    </plurals>
+    <plurals name="em">
+        <item quantity="other">瀏覽次數</item>
+    </plurals>
+    <plurals name="en">
+        <item quantity="other">法務</item>
+    </plurals>
+    <plurals name="eo">
+        <item quantity="other">建議</item>
+    </plurals>
+    <plurals name="ep">
+        <item quantity="other">有 {count} 件商品</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="other">%1$s 件商品，總計 %2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="other">總計 (%s 件商品)</item>
+    </plurals>
+    <plurals name="es">
+        <item quantity="other">以下 %d 件商品已被移除。</item>
+    </plurals>
+    <plurals name="et">
+        <item quantity="other">%d 件商品已被移除</item>
+    </plurals>
+    <plurals name="eu">
+        <item quantity="other">以下 %d 件商品已被移除。</item>
+    </plurals>
+    <plurals name="ev">
+        <item quantity="other">商品已被移除 (%d)</item>
+    </plurals>
+    <plurals name="ew">
+        <item quantity="other">%d 件商品已被移除</item>
+    </plurals>
+    <plurals name="ex">
+        <item quantity="other">%d 件商品已被移除</item>
+    </plurals>
+    <plurals name="ey">
+        <item quantity="other">我們將移除以下 %d 件商品。請確認移除，否則將於 {date} 自動生效。</item>
+    </plurals>
+    <plurals name="ez">
+        <item quantity="other">%d 件商品將會被移除</item>
+    </plurals>
+    <plurals name="f0">
+        <item quantity="other">%d 件商品將會在 {date} 被移除</item>
+    </plurals>
+    <plurals name="f1">
+        <item quantity="other">%d 件商品將會被移除</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="other">您最多只能編輯 %d 次</item>
+    </plurals>
+    <plurals name="f3">
+        <item quantity="other">已套用到所有文字貼圖</item>
+    </plurals>
+    <plurals name="f4">
+        <item quantity="other">共按讚了{effect_video_cnt} 支有這個特效的影片。</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="other">在 %d 秒內預覽特效</item>
+    </plurals>
+    <plurals name="f6">
+        <item quantity="other">%1$s：%2$s、%3$s、%4$s 和其他人發佈了 %5$d 支新影片。</item>
+    </plurals>
+    <plurals name="f7">
+        <item quantity="other">%1$s：%2$s 發佈了 %3$d 支新影片。</item>
+    </plurals>
+    <plurals name="f8">
+        <item quantity="other">%1$s：%2$s、%3$s 和 %4$s 發佈了 %5$d 支新影片。</item>
+    </plurals>
+    <plurals name="f9">
+        <item quantity="other">%1$s：%2$s 和 %3$s 發佈了 %4$d 支新影片。</item>
+    </plurals>
+    <plurals name="f_">
+        <item quantity="other">您獲得了 %d 名新粉絲。</item>
+    </plurals>
+    <plurals name="fa">
+        <item quantity="other">您獲得了 %d 個新的讚。</item>
+    </plurals>
+    <plurals name="fb">
+        <item quantity="other">您有 %d 則未讀取的新通知。</item>
+    </plurals>
+    <plurals name="fc">
+        <item quantity="other">我們找到了 %d 支您可能會喜歡的影片。</item>
+    </plurals>
+    <plurals name="fd">
+        <item quantity="other">%1$s：您可能會喜歡的 %2$d 支影片。</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="other">已標記</item>
+    </plurals>
+    <plurals name="ff">
+        <item quantity="other">%d 位已報名</item>
+    </plurals>
+    <plurals name="fg">
+        <item quantity="other">%d 位已報名</item>
+    </plurals>
+    <plurals name="fh">
+        <item quantity="other">已報名參加此活動</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="other">您可能認識此群組成員。</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="other">%s 支影片</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="other">已新增 %s 段影片</item>
+    </plurals>
+    <plurals name="fl">
+        <item quantity="other">從 %s 移除 %d 段影片</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="other">從 %2$s 移除 %1$d 部影片</item>
+    </plurals>
+    <plurals name="fn">
+        <item quantity="other">%d 段影片已移至 %s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="other">%1$d 部影片已移至 %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="other">已移除 %d 部影片</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="other">%d 個新的推薦帳號</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="other">%s 和其他 %d 人已關注</item>
+    </plurals>
+    <plurals name="fs">
+        <item quantity="other">粉絲</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="other">關注 %s 和其他 %d 人</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="other">{0}、{1} 和其他 {2} 人也關注了他</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="other">{0} 和其他 {2} 人也關注了他</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="other">關注 {0}、{1} 和其他 {2} 人</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="other">關注 {0} 和其他 {2} 人</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="other">和 {0}、{1} 及其他 {2} 人為好友</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="other">和 {0} 及其他 {2} 人為好友</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="other">{2} 位共同關注者</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="other">與 %s 和其他 %d 人是好友</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="other">好友發佈了 %d 則新內容</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="other">%d 位成員目前在線上</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="other">%1$d 位成員在 %2$d 分鐘前在線上</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="other">%d 位成員今天上線過</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="other">%d 名成員</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="other">新的請求</item>
+    </plurals>
+    <plurals name="g8">
+        <item quantity="other">名成員</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="other">%s 名成員</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="other">查看其他 %d 名成員</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="other">%s 次觀看</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="other">粉絲：%s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="other">影片：%s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="other">已傳送給 %s 和其他 %d 個人</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="other">無法上傳 %d 則限時動態。限時動態已儲存為草稿。</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="other">無法上傳照片。照片已儲存為草稿。</item>
+    </plurals>
+    <plurals name="gg">
+        <item quantity="other">%s 名粉絲</item>
+    </plurals>
+    <plurals name="gh">
+        <item quantity="other">%d 段影片</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="other">%d 張貼圖</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="other">在照片中提及了您。</item>
+    </plurals>
+    <plurals name="gk">
+        <item quantity="other">%1$s 關注了 %2$s 和其他 %3$d 個人。查看他們的個人資料。</item>
+    </plurals>
+    <plurals name="gl">
+        <item quantity="other">%2$s 和其他 %3$d 個人關注了 %1$s。查看他們的個人資料。</item>
+    </plurals>
+    <plurals name="gm">
+        <item quantity="other">%1$s 是 %2$s 和其他 %3$d 個人的朋友。查看他們的個人資料。</item>
+    </plurals>
+    <plurals name="gn">
+        <item quantity="other">%2$s、%3$s 和其他 %4$d 個人已關注 %1$s。查看他們的個人資料。</item>
+    </plurals>
+    <plurals name="go">
+        <item quantity="other">%1$s 已關注 %2$s、%3$s 和其他 %4$d 個人。查看他們的個人資料。</item>
+    </plurals>
+    <plurals name="gp">
+        <item quantity="other">%1$s 是 %2$s、%3$s 和其他 %4$d 個人的好友。查看他們的個人資料。</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="other">%s 則新發佈內容</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="other">活動</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="other">關注 %1$s、%2$s 以及您可能認識的其他 %d 個人，以觀看他們的影片。</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="other">其他 %d 位</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="other">關注 %1$s、%2$s 以及您可能認識的其他 %3$d 個人，以觀看他們的影片。</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="other">訊息</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="other">新活動</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="other">%s 名成員</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="other">%s 則發佈內容</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="other">%d 個關鍵字</item>
+    </plurals>
+    <plurals name="h1">
+        <item quantity="other">{0} ({1}) 已開始關注您。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="h2">
+        <item quantity="other">{0} ({1}) 已開始關注您。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="h3">
+        <item quantity="other">{0} ({1}) 已開始關注您。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="h4">
+        <item quantity="other">{0} ({1}) 已開始關注您。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="h5">
+        <item quantity="other">評論了您的影片。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="h6">
+        <item quantity="other">評論了您的影片。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="h7">
+        <item quantity="other">評論了您的影片。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="h8">
+        <item quantity="other">評論了您的影片。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="h9">
+        <item quantity="other">建立了與您合拍的影片。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="h_">
+        <item quantity="other">建立了與您合拍的影片。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="ha">
+        <item quantity="other">建立了與您合拍的影片。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="hb">
+        <item quantity="other">建立了與您合拍的影片。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="hc">
+        <item quantity="other">對您的影片按了讚。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="hd">
+        <item quantity="other">對您的影片按了讚。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="he">
+        <item quantity="other">對您的影片按了讚。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="hf">
+        <item quantity="other">對您的影片按了讚。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="hg">
+        <item quantity="other">在一則評論中提及了您。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="hh">
+        <item quantity="other">在一則評論中提及了您。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="hi">
+        <item quantity="other">在一則評論中提及了您。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="hj">
+        <item quantity="other">在一則評論中提及了您。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="hk">
+        <item quantity="other">[{3} 位共同關注者]</item>
+    </plurals>
+    <plurals name="hl">
+        <item quantity="other">[兩人都被 {2} 和其他 {3} 個人所關注]</item>
+    </plurals>
+    <plurals name="hm">
+        <item quantity="other">[兩人都有關注 {2} 和其他 {3} 個人]</item>
+    </plurals>
+    <plurals name="hn">
+        <item quantity="other">{0} 已開始關注您。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="ho">
+        <item quantity="other">{0} 已開始關注您。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="hp">
+        <item quantity="other">{0} 已開始關注您。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="hq">
+        <item quantity="other">{0} 已開始關注您。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="hr">
+        <item quantity="other">[兩人都是 {2} 和其他 {3} 個人的朋友]</item>
+    </plurals>
+    <plurals name="hs">
+        <item quantity="other">{0} ({1}) 向您提出了關注請求。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="ht">
+        <item quantity="other">{0} ({1}) 向您提出了關注請求。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="hu">
+        <item quantity="other">{0} ({1}) 向您提出了關注請求。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="hv">
+        <item quantity="other">{0} 向您提出了關注請求。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="hw">
+        <item quantity="other">{0} ({1}) 已開始關注您。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="hx">
+        <item quantity="other">{0} ({1}) 已開始關注您。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="hy">
+        <item quantity="other">{0} ({1}) 已開始關注您。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="hz">
+        <item quantity="other">{0} ({1}) 已開始關注您。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="i0">
+        <item quantity="other">{0} 接受了您的關注請求。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="i1">
+        <item quantity="other">{0} 接受了您的關注請求。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="i2">
+        <item quantity="other">{0} 接受了您的關注請求。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="i3">
+        <item quantity="other">{0} 接受了您的關注請求。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="i4">
+        <item quantity="other">{0} 向您提出了關注請求。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="i5">
+        <item quantity="other">{0} 向您提出了關注請求。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="i6">
+        <item quantity="other">{0} 向您提出了關注請求。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="i7">
+        <item quantity="other">{0} 向您提出了關注請求。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="i8">
+        <item quantity="other">回覆了您的評論。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="i9">
+        <item quantity="other">回覆了您的評論。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="i_">
+        <item quantity="other">回覆了您的評論。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="ia">
+        <item quantity="other">回覆了您的評論。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="ib">
+        <item quantity="other">用影片回覆了您的評論。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="ic">
+        <item quantity="other">用影片回覆了您的評論。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="id">
+        <item quantity="other">用影片回覆了您的評論。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="ie">
+        <item quantity="other">用影片回覆了您的評論。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="if">
+        <item quantity="other">在影片中提及了您。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="ig">
+        <item quantity="other">在影片中提及了您。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="ih">
+        <item quantity="other">在影片中提及了您。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="ii">
+        <item quantity="other">在影片中提及了您。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="ij">
+        <item quantity="other">已投票給您的影片。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="ik">
+        <item quantity="other">用影片回覆了您回覆過的評論。你們有 {3} 位共同關注者。</item>
+    </plurals>
+    <plurals name="il">
+        <item quantity="other">用影片回覆了您回覆過的評論。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="im">
+        <item quantity="other">用影片回覆了您回覆過的評論。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="in">
+        <item quantity="other">用影片回覆了您回覆過的評論。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="io">
+        <item quantity="other">已投票給您的影片。{2} 和其他 {3} 個人正在關注他們。</item>
+    </plurals>
+    <plurals name="ip">
+        <item quantity="other">已投票給您的影片。{2} 和其他 {3} 個人都是他們的朋友。</item>
+    </plurals>
+    <plurals name="iq">
+        <item quantity="other">已投票給您的影片。你們兩人都有關注 {2} 和其他 {3} 個人。</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="other">%d 部直播影片</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="other">將於 %s 天後結束</item>
+    </plurals>
+    <plurals name="it">
+        <item quantity="other">%d 件商品</item>
+    </plurals>
+    <plurals name="iu">
+        <item quantity="other">正在傳送給 %s 和其他 %d 個人...</item>
+    </plurals>
+    <plurals name="iv">
+        <item quantity="other">已傳送給 %s 和其他 %d 個人</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="other">最多只能選取 %1$d 個媒體檔案</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="other">%d 個請求</item>
+    </plurals>
+    <plurals name="iz">
+        <item quantity="other">您可以再提交 %d 段影片</item>
+    </plurals>
+    <plurals name="j0">
+        <item quantity="one">%d 則新通知</item>
+        <item quantity="other">%d 則新通知</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="other">從新歌中取消選取歌曲？</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="other">已從新歌中取消選取 %d 首歌曲</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="other">%d 首歌曲</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="other">%d 位藝人</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="other">%d 位共同關注者</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="other">%d 位共同關注者</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="other">您現在可以上傳 %d 分鐘以內的影片！</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="other">%d 分鐘影片隆重登場</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="other">%d 個共同關注者</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="other">%d 則評論</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="other">查看全部 %d 則評論</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="other">{nickname} 和其他 {number_1} 人</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="other">{number} 位好友發佈了今天的 Now</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="other">%1$s 和其他 %2$d 人發佈了 Now</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="other">{nickname} 和其他 {number_1} 人</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="other">加入 {number} 位好友的行列，一起在 TikTok Now 上分享隨機時刻</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="other">在接下來 {number} 分鐘發佈您的 Now</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="other">剩 %d 分鐘發佈 Now。</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="other">%d 位共同好友</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="other">%d 個讚</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="other">{1}、{2}、{3} 和其他 {number} 人剛發佈了 Now。</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="other">%d 個回應</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="other">%d 次觀看</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="other">%d 次觀看</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="other">%1$s 和其他 %2$s 人</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="other">您從 Lemon8 同步的發佈內容暫無音樂。請加入音樂，使發佈內容更加吸引觀眾。</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="other">新增音樂以增強發佈內容的效果</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="other">對您的照片按了讚。</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="other">投給了您的照片。</item>
+    </plurals>
+    <plurals name="jt">
+        <item quantity="other">新增影片 (%s)</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="other">%d 集</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="other">%d 個部分</item>
+    </plurals>
+    <plurals name="jw">
+        <item quantity="other">移除影片 (%s)</item>
+    </plurals>
+    <plurals name="jx">
+        <item quantity="other">%s 次觀看</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="other">您還可以再送出 %d 次</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="other">%d 位觀眾點了歌</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="other">使用權將在 %s 天後恢復</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="other">%s 枚金幣來自排名第一的頭號觀眾</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="other">%s 枚金幣來自排名第二的頭號觀眾</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="other">%s 名粉絲</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="other">購買 {number} 件上架商品</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="other">購買 {number} 件上架商品</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="other">%s 枚金幣已送給直播主</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="other">%s 個讚</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="other">%s 位觀眾</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="other">%s 次分享。分享影片</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="other">獲得 %1$s 票，%2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="other">%1$s 投給了 %2$s，而 %3$s 投給了 %4$s</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="other">%d 分鐘後</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="other">再增加 %d 點經驗積分即可晉級</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="other">您的獎勵將在 %d 天後進入休眠模式</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="other">結束直播？目前有 %s 位觀眾正在觀看。</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="other">結束直播？目前有 %s 位觀眾正在觀看。</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="other">%s 則新訊息</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="other">曾連續 {num} 天聯合直播</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="other">還差 {number} 枚金幣</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="other">您過去 {number} 天的最高金額：{amount} 枚金幣</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="other">建議金額：{amount} 枚金幣</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="other">您目前有 {number} 枚金幣。您可以儲值以獲得更多金幣。</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="other">猜中 (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="other">%s 次猜對</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="other">%s 位觀眾猜對 ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="other">大多數觀眾猜對 %s 個詞語</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="other">沒有觀眾猜對</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="other">在 %s 分鐘內畫出這個詞</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="other">�� %d 位觀眾猜了 %s</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="other">我猜對 %s 個詞語！</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="other">你猜對 %s 個詞語</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="other">{0:string} 及其他 {1:string} 位購物者正在購買</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="other">有 %d 張圖片太小。圖片 必須至少為 256 x 256 像素。</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="other">%d 位觀眾</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="other">您有 %d 枚金幣。</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="other">您可以使用 %@ 再兌換 %d 枚金幣以送出這個禮物。</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="other">直播禮物餘額已兌換為 {{num}} 枚金幣</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="other">還差 %1$d 枚金幣。要將 %2$s 兌換成金幣並送出 %3$s 嗎？</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="other">您兌換了 %d 枚金幣並送出 %s</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="other">%s 名成員</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="other">已和您一起度過 {num} 天</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="other">在 {num} 小時內獲得 1 個成員積分即可保持有效狀態</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="other">只能以 %1$d 枚金幣送出 %2$d 次。</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="other">目前有 %d 位粉絲</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="other">你的 {number} 個好友正在直播。邀請他們一起直播！</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="other">儲值即可解鎖額外 {num} 枚金幣</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="other">{num} 天</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="other">解鎖 {num} 枚金幣</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="other">{num} 枚金幣</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="other">您將解鎖額外 {num} 枚金幣。</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="other">再儲值 {num_1} 枚金幣。</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="other">儲值即可解鎖額外 {num} 枚金幣</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="other">過去 {number} 天</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="other">{gameName} 和其他 {number} 個遊戲的價格已調整。詳情請前往合作夥伴中心查看。</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="other">由於違反《計劃條款》，您的直播送禮功能被停權 %s 天。</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="other">這場直播的送禮功能被停權，%s 分鐘後將會恢復。</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="other">送禮功能被停權 {0} 天。</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="other">送禮功能被停權 %s 天</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="other">使用 %d 枚金幣送出禮物</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="other">儲值完成，您現在有 %d 枚金幣。送出這個禮物表示支持吧！</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="other">兌換完成，您現在有 %d 枚金幣。送出這個禮物表示支持吧！</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="other">{0:user} 送出了 {1:gift} ({2:string} 積分) {3:string}，這是對方送出的第一個禮物。快去表示感謝吧！</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="other">{0:user} 送出了 {1:gift} ({2:string} 積分) {3:string}</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="other">{0:user} 送出了 {1:gift} ({2:string} 積分) {3:string}</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="other">{0:user} 送出了 {1:gift} ({2:string} 積分) {3:string}，與直播主一起在這趟旅行中首次到達 {4:city}！</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="other">禮物詳情 (總共 {{num}} 筆交易)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="other">{amount} 枚金幣</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="other">禮物</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="other">%d 枚金幣</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="other">您已收到 %s 份禮物。別忘說聲謝謝。</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="other">您已收到 %s 份禮物</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="other">是否要完成 %s 枚金幣的兌換？</item>
+    </plurals>
+    <plurals name="lz">
+        <item quantity="other">是否要完成 %d 枚金幣的兌換？</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="other">開始直播 (%d 秒)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="other">%s 個來賓請求</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="other">%s 個請求</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="other">%s 積分</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="other">%1$s 積分就能成為第 %2$s 名</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="other">%d 個觀眾正在請求</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="other">%d 天內，我們將暫時停止您以來賓身分進行直播</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="other">%d 小時內，我們將暫時停止您以來賓身分進行直播</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="other">%d 分鐘內，我們將暫時停止您以來賓身分進行直播</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="other">%d 秒內，我們將暫時停止您以來賓身分進行直播</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="other">工具</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="other">[username] 和 [number] 位粉絲提醒您開始直播</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="other">[username] 和 [number] 位粉絲最近向您發送了開播請求</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="other">接受邀請後，直播主將加入目前的聯合直播。</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="other">{number} 天</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="other">在下一個步驟中，一旦離開該頁面，必須等 {number} 天後才能再次使用您的優惠券。</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="other">在下一個步驟中，一旦離開該頁面，必須等 {number} 小時後才能再次使用您的優惠券。</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="other">在下一個步驟中，一旦離開該頁面，必須等 {number} 分鐘後才能再次使用您的優惠券。</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="other">{number} 天後可再次使用優惠券</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="other">{number} 小時後可再次使用優惠券</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="other">{number} 分鐘後可再次使用優惠券</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="other">%s 個讚</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="other">按讚數</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="other">%s 個讚</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="other">您的直播申請未獲核准。您可在 %d 天後再次申請。</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="other">您已申請直播存取權限，在接下來 7 天內可以進行直播。請務必遵循社群自律公約，並在第一週至少直播 %d 小時以獲得持續存取權限。</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="other">由 %s 繼續直播 %d 小時，即可獲得持續直播存取權限</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="other">透過 %2$s 直播超過 %1$s 小時，即可保留直播權限</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="other">%s 積分</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="other">{%s host username} 需要 {%d} 枚金幣，才能躋身本週第 {%n} 名直播主！</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="other">剩下 1 天。再獲得 {%d} 顆鑽石，即可成為第 3 名直播主，並為您的影片贏得專屬徽章。</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="other">剩下 1 天。再獲得 {%d} 顆鑽石，您的直播就可以觸及更多潛在觀眾。</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="other">剩下 1 天。再獲得 {%d} 顆鑽石，就能贏得直播主的專屬獎勵！</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="other">現在有 %s 名粉絲活躍中</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="other">需要 %s 枚金幣</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="other">%d 位訂閱者正在觀看</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="other">剩下 3 分鐘。再獲得 {%d} 顆鑽石，即可成為第 3 名直播主，並贏得專屬徽章。</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="other">剩下 3 分鐘。再獲得 {%d} 顆鑽石，您的直播就可以觸及更多潛在觀眾。</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="other">剩下 3 分鐘。再獲得 {%d} 顆鑽石，就能贏得人氣直播主的專屬獎勵！</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="other">%s 小時 %d 分鐘</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="other">顆鑽石</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="other">觀看次數</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="other">%s 分鐘後無法回答問題</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="other">%s 小時前</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="other">%s 分鐘前</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="other">%s 預定在 10 分鐘後開始。已經有 %d 名觀眾看了您的活動。請立即開始直播，以充分利用您的推廣活動！</item>
+    </plurals>
+    <plurals name="nh">
+        <item quantity="other">已經有 %d 名使用者看了您的活動。請準備開始直播！</item>
+    </plurals>
+    <plurals name="ni">
+        <item quantity="other">已經有 {numberofviews} 名使用者看了您的活動。請準備開始直播！</item>
+    </plurals>
+    <plurals name="nj">
+        <item quantity="other">已經有 %d 名使用者看了您的活動！請記得準時開始直播。</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="other">查看 %s 個教學任務</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="other">%d 則需優先處理的送禮者請求</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="other">%d 枚金幣</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="other">這份禮物需花費 %d 枚金幣。</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="other">您已送出 %d 枚金幣。%s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="other">當送禮者送出的金幣總數超過 %d 枚時，直播主可以優先處理這類送禮者的請求。</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="other">當您或其他送禮者送出的金幣總數超過 %d 枚時，直播主可以優先處理您或這類送禮者的請求。</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="other">這份禮物需花費 %d 枚金幣。</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="other">%2$s 秒後即可邀請 %1$s 再次開啟相機</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="other">%2$s 秒後即可邀請 %1$s 再次開啟麥克風</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="other">%d 分鐘</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="other">%d 分</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="other">第 1 階段要完成 %s 個任務</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="other">第 2 階段要完成 %s 個任務</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="other">最多可以建立 %s 個特製福利。必須刪除一個特製福利才能建立一個新的特製福利。</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="other">投票將在 %s 秒後結束</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="other">立即投票 (%s 秒)：</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="other">您今天花了 %d 枚金幣。</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="other">請放慢速度來送禮，並在 %d 分鐘後重試。</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="other">{0:user} 的傳送門已關閉。有 {1:string} 個觀眾透過傳送門加入。</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="other">{0:user} 的傳送門已關閉。有 {1:string} 個觀眾透過傳送門加入。做得好！��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="other">{0:user} 的傳送門已關閉。有 {1:string} 個觀眾透過傳送門加入。太優秀了！��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="other">%s 次觀看</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="other">已在電腦版網頁上購買 {{num}} 枚金幣</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="other">已在應用程式內購買 {{num}} 枚金幣</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="other">已在行動網頁上購買 {{num}} 枚金幣</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="other">我們已完成您的申訴審核，並調整了您的撤銷期限。您的「使用 PC 或 Mac 進行直播」使用權將在 %s 天後恢復。</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="other">由於多次違反《社群自律公約》，您已遭到停權 %s 天，無法使用「使用 PC 或 Mac 進行直播」。</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="other">我們已完成您的申訴審核，並將您的寶箱權限撤銷期限調整為 %s 天。</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="other">由於多次違反《社群自律公約》，您已遭到停權 %s 天，無法使用寶箱。</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="other">你在過去 30 天內收到超過 %s 顆鑽石。繼續保持好成績以進入每週排名。</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="other">此排名會顯示過去 30 天內收到的鑽石數少於 {0:string} 顆的直播主。</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="other">送禮功能被停權 %s 天</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="other">您目前有 {number_1} 枚金幣。您可以儲值 {number_2} 枚金幣 ({amount}) 以送出該商品。</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="other">還差 %s 枚金幣</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="other">您已收到 {number} 個邀請連結</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="other">開啟來自 %s 和其他人的訂閱邀請</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="other">已請求：%d 分鐘前</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="other">送禮功能被停權 %s 天</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="other">權限將在 %s 天後恢復。</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="other">我們已完成您的申訴審核，並調整了您的撤銷期限。您的 LIVE Studio 使用權將在 %s 天後恢復。</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="other">我們已完成您的申訴審核，並調整了您的撤銷期限。您的手機遊戲使用權將在 %s 天後恢復。</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="other">我們已完成您的申訴審核，並調整了您的撤銷期限。您的「使用 PC 或 Mac 進行直播」使用權將在 %s 天後恢復。</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="other">由於多次違反我們的直播規則或《社群自律公約》，您的 LIVE Studio 使用權已被停權 %s 天。</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="other">由於多次違反我們的直播規則或《社群自律公約》，您的手機遊戲使用權已被停權 %s 天。</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="other">由於多次違反我們的直播規則或《社群自律公約》，您的「使用 PC 或 Mac 進行直播」使用權已被停權 %s 天。</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="other">目標：{&lt;num&gt;} 個送禮者</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="other">目標：{&lt;num&gt;} 禮物積分</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="other">目標：{&lt;num&gt;} 個團隊送禮者</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="other">目標：{&lt;num&gt;} 團隊禮物積分</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="other">+ &lt;num&gt; PK 積分</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="other">%s 位觀眾會在頂端看到您的評論</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="other">您的焦點評論在直播期間遭刪除，您將在 24 小時內收到這則評論的退款 ([0:string] 枚金幣)。</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="other">佇列中有 %s 則焦點評論</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="other">您的焦點評論最近被刪除了。請在 {num} 小時後重試。</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="other">您的焦點評論最近被刪除了。請在 {num} 分鐘後重試。</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="other">%s 天後結束</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="other">%1$s 位觀眾正在觀看。如果您現在開始進行訂閱專屬直播，可能會獲得 %2$s 位新訂閱者。</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="other">%s 位訂閱者正在觀看。現在是使用訂閱專屬直播加深與社群交流的好時機。</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="other">每個月進行 %2$s 分鐘的訂閱專屬直播，就可能獲得 %1$s 位新訂閱者。</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="other">最多可以在評論中輸入 %s 個表情貼</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="other">請訂閱以使用 %1$s 的 %2$s 個自製表情貼</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="other">粉絲人數少於 {number}</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="other">無法邀請粉絲人數少於 {number} 的直播主</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="other">再邀請 {number1} 位直播主，即可達到第 {number2} 名！請繼續努力！</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="other">再邀請 {number} 位直播主，即可達到第 {rankminusone} 名！請繼續努力！</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="other">只能邀請粉絲人數超過 {number} 的直播主。</item>
+    </plurals>
+    <plurals name="po">
+        <item quantity="other">{num} 個表情貼未獲核准</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="other">您目前的福利可能讓訂閱者人數提升 %d%%。</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="other">%1$s 剛購買了 %2$d 個月的訂閱！</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="other">%s 分鐘內只能開啟或關閉一次，請稍後再試。</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="other">您有 {num} 份訂閱禮物。立即送給其他觀眾吧！</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="other">您還剩 %d 份訂閱禮物。立即送給其他觀眾吧！</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="other">恭喜！您收到 [number] 份訂閱禮物的活動獎勵。</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="other">{num} 天前曾聯合直播</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="other">{number} 天前與你一起直播</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="other">{num} 天前與你一起直播</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="other">您已遭到停權，無法使用寶箱。使用權將在 %s 天後恢復。</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="other">頭號觀眾</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="other">頭號觀眾</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="other">%s 秒後開始決賽</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="other">%s 天後開始決賽</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="other">%s 小時後開始決賽</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="other">%s 分鐘後開始決賽</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="other">%s 天後開始準決賽</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="other">%s 小時後開始準決賽</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="other">%s 分鐘後開始準決賽</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="other">%s 秒後開始準決賽</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="other">再 {0:string} 顆鑽石就能成為第 {1:string} 名</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="other">再 {0:string} 位送禮者就能成為第 {1:string} 名</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="other">天</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="other">已將 {amount} 兌換成 {num} 枚金幣。</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="other">已購買 {num} 枚金幣，總金額為 {amount}。</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="other">領先第 2 名 {num} 團隊積分</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="other">+{num} 團隊積分 (已送出 %1$s 個團隊禮物/每日上限 %2$s 個)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="other">%s 位觀眾透過搜尋加入</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="other">獲得 %1$s 團隊積分就能成為 第 %2$s 名</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="other">獲得 %1$s 團隊積分就能成為第 %2$s 名</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="other">發生問題。請在 {number} 小時後重試</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="other">發生問題。請過 {number} 分鐘後回來</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="other">觀眾</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="other">%d 位觀眾</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="other">%s 位觀眾</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="other">%s 位觀眾送出禮物</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="other">發佈內容 (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="other">(%s 則評論)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="other">%s 張照片未上傳，請重試。</item>
+    </plurals>
+    <plurals name="qr">
+        <item quantity="other">%1$d 枚金幣 = %2$s%3$.2f</item>
+    </plurals>
+    <plurals name="qs">
+        <item quantity="other">%s 已將其 TikTok 致意影片的價格更新為 %s 枚金幣。</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="other">%d 首類似音樂</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="other">%d 次個人資料查看</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="other">粉絲</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="other">%1$s 在所有影片中共收到 %2$s 個讚</item>
+    </plurals>
+    <plurals name="qx">
+        <item quantity="other">由於對方的隱私設定，%d 個帳號已隱藏</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="other">看過您的個人資料</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="other">%1$s、%2$s 和其他 %d 個人</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="other">有 %s 個人看過您的個人資料。</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="other">{0}、{1} 和其他 {2} 個人看過您的個人資料。</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="other">我們已傳送通知到您的 %1$s 和其他 %2$s 台裝置。請確定您已開啟 TikTok，並在通知中點按 [是] 以繼續登入。</item>
+    </plurals>
+    <plurals name="r3">
+        <item quantity="other">已提出 %d 個問題</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="other">%s 支影片</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="other">%d 段影片</item>
+    </plurals>
+    <plurals name="r6">
+        <item quantity="other">回答{number}</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="other">已從您的邀請中移除 %s 個無法取得的問題</item>
+    </plurals>
+    <plurals name="r8">
+        <item quantity="other">有 %$s 個提問已無法取得，已從您的最愛中移除。</item>
+    </plurals>
+    <plurals name="r9">
+        <item quantity="other">有 %s 個問題已無法取得，已從您的最愛中移除。</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="other">%s 則新訊息</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="other">%s 個新反應</item>
+    </plurals>
+    <plurals name="rb">
+        <item quantity="other">推薦數：{number}</item>
+    </plurals>
+    <plurals name="rc">
+        <item quantity="other">推薦數：%s</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="other">%d 人推薦</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="other">%d 項推薦</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="other">查看其他 %d 項推薦</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="other">最長可錄製 %d 秒</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="other">使用原創影片的音樂最長可錄製 %d 秒</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="other">草稿 (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="other">如果您選擇復原此音樂，您的影片將被靜音。</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="other">復原版權音樂？</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="other">已移除版權音樂</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="other">正在移除音樂</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="other">音樂已移除</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="other">更換音樂</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="other">正在移除版權音樂...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="other">我們偵測到您的影片中存在超過 1 分鐘的侵權音樂，如果您選擇繼續，您的影片將被靜音。請更換音樂，或縮短影片。%s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="other">更換音樂</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="other">正在移除版權音樂...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="other">我們偵測到您的影片中存在侵權音樂。如果您選擇繼續，您的影片將被靜音，或者您可以更換音樂。%s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="other">版權音樂</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="other">版權持有者僅授權使用此音樂 1 分鐘。</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="other">版權持有者未授權使用此音樂。</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="other">更換音樂</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="other">我們偵測到您的影片中存在超過 1 分鐘的侵權音樂，如果您選擇繼續，您的影片將被靜音。請更換音樂，或縮短影片。%s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="other">更換音樂</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="other">我們偵測到您的影片中存在侵權音樂。如果您選擇繼續，您的影片將被靜音，或者您可以更換音樂。%s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="other">移除影片 (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="other">%d 人轉發</item>
+    </plurals>
+    <plurals name="s3">
+        <item quantity="other">轉發數：{number}</item>
+    </plurals>
+    <plurals name="s4">
+        <item quantity="other">轉發數：%s</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="other">%d 人轉發</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="other">%d 人轉發</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="other">查看 %d 則轉發內容</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="other">%d 天</item>
+    </plurals>
+    <plurals name="s9">
+        <item quantity="other">花了 {number} 小時又 {number} 分鐘</item>
+    </plurals>
+    <plurals name="s_">
+        <item quantity="other">{number} 次</item>
+    </plurals>
+    <plurals name="sa">
+        <item quantity="other">已開啟 {number} 次</item>
+    </plurals>
+    <plurals name="sb">
+        <item quantity="other">您在過去一週花了 {number} 小時在 TikTok 上 (比前一週少了 {percent})。</item>
+    </plurals>
+    <plurals name="sc">
+        <item quantity="other">您在過去一週花了 {number} 小時在 TikTok 上 (比前一週多了 {percent})。</item>
+    </plurals>
+    <plurals name="sd">
+        <item quantity="other">您在過去一週花了 {number} 小時在 TikTok 上 (比前一週少了 {percent})</item>
+    </plurals>
+    <plurals name="se">
+        <item quantity="other">您在過去一週花了 {number} 小時在 TikTok 上 (比前一週多了 {percent})</item>
+    </plurals>
+    <plurals name="sf">
+        <item quantity="other">您在過去一週花了 {number} 小時在 TikTok 上 (比前一週少了 {percent})</item>
+    </plurals>
+    <plurals name="sg">
+        <item quantity="other">您在過去一週花了 {number} 小時在 TikTok 上 (比前一週多了 {percent})</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="other">再搜尋 %1$d 次即可獲得 %2$d 積分</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="other">瀏覽搜尋結果 %d 秒</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="other">再搜尋 %1$d 次即可獲得 %2$d 積分！</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="other">%d 首符合的音樂</item>
+    </plurals>
+    <plurals name="sl">
+        <item quantity="other">%s 名粉絲</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="other">已在 %d 天前更新</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="other">已在 %d 小時前更新</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="other">已在 %d 分鐘前更新</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="other">已在 %d 秒鐘前更新</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="other">已在 %d 週前更新</item>
+    </plurals>
+    <plurals name="sr">
+        <item quantity="other">%s 段影片</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="other">你分享了照片。</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="other">恭喜！昨天又有 %d 位使用者購買了您的系列。請再接再勵並從 [創作者工具] &gt; [系列] 中追蹤您的系列成效。</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="other">您的系列在過去幾天的頁面造訪次數達到了 %d。若要追蹤您的系列成效並取得實用的提示以吸引潛在買家，您可以從 [創作者工具] &gt; [系列] 中存取資料分析工具。</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="other">恭喜！您直播中的 %d 名觀眾昨天購買了您的系列存取權。請再接再勵並從 [創作者工具] &gt; [系列] 中追蹤您的系列成效。</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="other">恭喜！%d 名觀眾昨天從包含系列連結的影片中購買了您的系列存取權。請再接再勵並從 [創作者工具] &gt; [系列] 中追蹤您的系列成效。</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="other">繼續使用相機 (%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="one">%.1f (%s 則評論)</item>
+        <item quantity="other">%.1f (%s 則評論)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="other">僅限前 %d 位買家</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="other">只剩 %d 份</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="other">%d 天後到期</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="other">%d 段影片</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="other">%d 段影片</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="other">%d 段影片</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="other">%s 支影片</item>
+    </plurals>
+    <plurals name="t6">
+        <item quantity="other">你今年共分享了{share_number} 次影片。</item>
+    </plurals>
+    <plurals name="t7">
+        <item quantity="other">{0}、{1} 和其他 {2} 人已將你的發佈內容新增到其限時動態。</item>
+    </plurals>
+    <plurals name="t8">
+        <item quantity="other">在2020年，你的音樂被{sound_use_cnt} 支影片使用。</item>
+    </plurals>
+    <plurals name="t9">
+        <item quantity="other">還獲得了{sound_views}次觀看。</item>
+    </plurals>
+    <plurals name="t_">
+        <item quantity="other">2020年，你看了{watch_video_cnt}支使用{music_name}的影片。但你喜歡的音樂不止於此。</item>
+    </plurals>
+    <plurals name="ta">
+        <item quantity="other">你今年喜歡{genre_cnt}種音樂類型，包含:</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="other">%d 次觀看</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="other">限時動態 (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="other">{Brand} 想要將原始授權期限 {start_date} - {end_date} 延長 {num} 天。</item>
+    </plurals>
+    <plurals name="tf">
+        <item quantity="other">你最受歡迎的影片獲得了{video_view_cnt}次觀看。</item>
+    </plurals>
+    <plurals name="tg">
+        <item quantity="other">感謝您支持這位創作者，好讓他們可以繼續創作您喜愛的內容。他們將於 %d 小時內收到您的小費。</item>
+    </plurals>
+    <plurals name="th">
+        <item quantity="other">已發送 %d 筆小費</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="other">已新增 %d 段影片</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="other">創作者已使用 TikTok 超過 %d 個月。</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="other">創作者至少有 %d 名粉絲。</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="other">%d 次互動</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="other">每日新增熱門話題上限：%d 則發佈內容</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="other">預估審查時間：%d 天</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="other">%@ 部影片</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="other">%@ 次觀看</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="other">%d 天前</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="other">小時</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="other">%1$d 小時前</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="other">分鐘</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="other">%1$d 分鐘前</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="other">小時</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="other">分鐘</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="other">秒</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="other">%1$d 年前</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="other">很抱歉！您已被禁播\n %1$d 天後才能再次直播</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="other">很抱歉！您已被禁播\n %1$d 小時後才能再次直播</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="other">很抱歉！目前您已被禁播。\n 稍後才能再繼續直播，等待時間：%1$d 分鐘</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="other">很抱歉！您已被禁播\n %1$d 秒後才能再次直播</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="other">%d 名使用者正在觀看您的直播，您要關閉直播嗎？</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="other">%d 天內有效</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="other">%d 小時內有效</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="other">首次儲值 %1$d 顆鑽石可額外獲得 %2$d 顆鑽石！</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="other">分鐘</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="other">您的 TikTok 使用體驗將於 %d 天後結束</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="other">%d 天</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="other">您還有 %d 天的時間可透過 TikTok 體驗此功能。在此期限過後，下載 TikTok Now 應用程式才可繼續使用此功能。</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="other">發佈內容即可開啟為期 %d 天的 TikTok Now 體驗。</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="other">選取或錄製 %d 個片段</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="other">編輯未完成的照片？</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="other">%s 則新發佈內容</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="other">發佈了 %d 部影片</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="other">您今年 %d 歲嗎？</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="other">使用剪輯過的音樂。最長可錄製 %d 秒鐘。</item>
+    </plurals>
+    <plurals name="uh">
+        <item quantity="other">%1$s 無法及時創作您的 TikTok 致意影片。我們將於 24 小時內退還 %2$d 枚金幣到您的帳號。</item>
+    </plurals>
+    <plurals name="ui">
+        <item quantity="other">我們將於 24 小時內退還 %d 枚金幣到您的帳號。</item>
+    </plurals>
+    <plurals name="uj">
+        <item quantity="other">此訂單因為逾時所以已取消。我們會將 %s 枚金幣退回您的帳號。</item>
+    </plurals>
+    <plurals name="uk">
+        <item quantity="other">您的請求已取消。我們將於 24 小時內退還 %d 枚金幣到您的帳號。</item>
+    </plurals>
+    <plurals name="ul">
+        <item quantity="other">枚金幣</item>
+    </plurals>
+    <plurals name="um">
+        <item quantity="other">%1$s 已拒絕您的請求。我們將於 24 小時內退還 %2$s 枚金幣到您的帳號。</item>
+    </plurals>
+    <plurals name="un">
+        <item quantity="other">%1$s 未能及時創作您的 TikTok 致意影片。您的請求已過期，我們將於 24 小時內退還 %2$s 枚金幣到您的帳號。</item>
+    </plurals>
+    <plurals name="uo">
+        <item quantity="other">如果 %1$s 未在 2 天內接受您的請求，我們將會自動取消您的請求，並於 24 小時內退還 %2$s 枚金幣到您的帳號。</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="other">%s 名觀眾</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="other">%s 個按讚數</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="other">在 %2$s 秒內分享至 %1$s</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="other">%d 件商品</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="other">發佈內容</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="other">%1$s、%2$s 和其他 %d 個人</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="other">看過您的發佈內容。</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="other">%s 次分享</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="other">%s 次觀看</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="other">{0}、{1} 和其他 {2} 人查看了您的發佈內容。</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="other">%d 枚金幣</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="other">已送出：%s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="other">照片已儲存</item>
+    </plurals>
+    <plurals name="v2">
+        <item quantity="other">有 {number} 個人領取了禮物，但是尚未將數據用量加入其帳號中。可能很快就會有數據用量禮物可發送給您。</item>
+    </plurals>
+    <plurals name="v3">
+        <item quantity="other">活動將於 {countdown} 天後結束。數量有限，先到先得！</item>
+    </plurals>
+    <plurals name="v4">
+        <item quantity="other">剩下 {countdown} 份禮物</item>
+    </plurals>
+</resources>

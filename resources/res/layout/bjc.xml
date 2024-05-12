@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    layout_gravity="bottom"
+    orientation="horizontal"
+    id="@+id/g82"
+    visibility="gone"
+    layout_width="match_parent"
+    layout_height="100dp">
+    <X.C42880GsG
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/g8y"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</LinearLayout>

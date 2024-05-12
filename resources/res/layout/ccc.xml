@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/jbc"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <RelativeLayout
+        layout_gravity="start|bottom"
+        orientation="vertical"
+        id="@+id/jbj"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_alignParentBottom="true"
+        NOT_FOUND_0x6="true"/>
+</FrameLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gv"
+        id="@+id/dll"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        text="@string/gkk"
+        layout_weight="1"
+        NOT_FOUND_0x8="62"/>
+    <LinearLayout
+        gravity="center"
+        id="@+id/k70"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/go"
+            id="@+id/k73"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/gko"
+            NOT_FOUND_0x8="62"/>
+        <com.bytedance.tux.icon.TuxIconView
+            layout_width="12dp"
+            layout_height="12dp"
+            layout_marginStart="4dp"
+            NOT_FOUND_0x9="@raw/icon_arrow_triangle_down_large_fill"
+            NOT_FOUND_0xa="12dp"
+            NOT_FOUND_0xb="12dp"
+            NOT_FOUND_0xc="?attr/go"/>
+    </LinearLayout>
+</merge>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    background="@drawable/q2"
+    padding="17.5dp"
+    layout_width="50dp"
+    layout_height="50dp"
+    layout_marginRight="6.5dp"
+    layout_marginEnd="6.5dp">
+    <ImageView
+        layout_gravity="center"
+        id="@+id/f6h"
+        layout_width="15dp"
+        layout_height="15dp"
+        src="@drawable/tl"
+        scaleType="centerInside"/>
+</FrameLayout>

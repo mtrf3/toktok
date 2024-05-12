@@ -1,0 +1,3169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">%d dakika içinde avatarlarınızı oluşturmaya başlayacağız.</item>
+        <item quantity="other">%d dakika içinde avatarlarınızı oluşturmaya başlayacağız.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">%d stille devam et</item>
+        <item quantity="other">%d stille devam et</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">Lütfen insan yüzü bulunan en az %d fotoğraf daha seçin</item>
+        <item quantity="other">Lütfen insan yüzü bulunan en az %d fotoğraf daha seçin</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">Sharp ile günde %d kez avatar oluşturabilirsiniz</item>
+        <item quantity="other">Sharp ile günde %d kez avatar oluşturabilirsiniz</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">Sharp ile haftada %d kez avatar oluşturabilirsiniz</item>
+        <item quantity="other">Sharp ile haftada %d kez avatar oluşturabilirsiniz</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">Speedy ile günde %d kez avatar oluşturabilirsiniz</item>
+        <item quantity="other">Speedy ile günde %d kez avatar oluşturabilirsiniz</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="one">Speedy ile haftada %d kez avatar oluşturabilirsiniz</item>
+        <item quantity="other">Speedy ile haftada %d kez avatar oluşturabilirsiniz</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="one">Günde %d kez avatar oluşturabilirsiniz</item>
+        <item quantity="other">Günde %d kez avatar oluşturabilirsiniz</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="one">Haftada %d kez avatar oluşturabilirsiniz</item>
+        <item quantity="other">Haftada %d kez avatar oluşturabilirsiniz</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="one">%d dakika içinde avatarlarınızı oluşturmaya başlayacağız.</item>
+        <item quantity="other">%d dakika içinde avatarlarınızı oluşturmaya başlayacağız.</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="one">Onaylanan (%d)</item>
+        <item quantity="other">Onaylanan (%d)</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="one">%d yeni bahsetmeniz var.</item>
+        <item quantity="other">%d yeni bahsetmeniz var.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="one">%d isteğiniz var</item>
+        <item quantity="other">%d isteğiniz var</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="one">%d isteğiniz var</item>
+        <item quantity="other">%d isteğiniz var</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="one">%d soru</item>
+        <item quantity="other">%d soru</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="one">İlk %d gün, başkalarının gönderilerini görüntülemek için paylaşım yapmaları gerekiyor.</item>
+        <item quantity="other">İlk %d gün, başkalarının gönderilerini görüntülemek için paylaşım yapmaları gerekiyor.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="one">%d. günden sonra paylaşım yapmadan gönderilerinizi görüntüleyebilirler.</item>
+        <item quantity="other">%d. günden sonra paylaşım yapmadan gönderilerinizi görüntüleyebilirler.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="one">%d. günden sonra gönderilerinizi yalnızca siz görebilirsiniz.</item>
+        <item quantity="other">%d. günden sonra gönderilerinizi yalnızca siz görebilirsiniz.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="one">İlk %d gün, başkalarının Now gönderilerinizi görüntülemek için paylaşım yapmaları gerekiyor.</item>
+        <item quantity="other">İlk %d gün, başkalarının Now gönderilerinizi görüntülemek için paylaşım yapmaları gerekiyor.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="one">%d ürün</item>
+        <item quantity="other">%d ürün</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="one">İncelemede (%d)</item>
+        <item quantity="other">İncelemede (%d)</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="one">Kaydınız onaylandıktan sonra %d ay içinde kayıt bilgileri değiştirilemez.</item>
+        <item quantity="other">Kaydınız onaylandıktan sonra %d ay içinde kayıt bilgileri değiştirilemez.</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="one">Kayıtlı bilgilerini ancak onaylandıktan %d ay sonra değiştirebilirsiniz.</item>
+        <item quantity="other">Kayıtlı bilgilerini ancak onaylandıktan %d ay sonra değiştirebilirsiniz.</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="one">%d görsele kadar yükleyin</item>
+        <item quantity="other">%d görsele kadar yükleyin</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="one">{username} adlı kullanıcının fotoğrafını açın</item>
+        <item quantity="other">{username} adlı kullanıcının fotoğraflarını açın</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="one">{number} kişi bu videoyu Favorilerine ekledi</item>
+        <item quantity="other">{number} kişi bu videoyu Favorilerine ekledi</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="one">%d beğeni</item>
+        <item quantity="other">%d beğeni</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ milyar</item>
+        <item quantity="other">%@ milyar</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ milyon</item>
+        <item quantity="other">%@ milyon</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ bin</item>
+        <item quantity="other">%@ bin</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="one">%d görüntüleme</item>
+        <item quantity="other">%d görüntüleme</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="one">%s videoda yorumlara izin veriliyor</item>
+        <item quantity="other">%s videoda yorumlara izin veriliyor</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="one">%s videoda yorumlara izin verilmiyor</item>
+        <item quantity="other">%s videoda yorumlara izin verilmiyor</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="one">%d videoda Düete izin verilmiyor</item>
+        <item quantity="other">%d videoda Düete izin verilmiyor</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="one">Herkes videolarınızla Düet yapabilir. %1$d videonuzda Düete izin verilirken %2$s</item>
+        <item quantity="other">Herkes videolarınızla Düet yapabilir. %1$d videonuzda Düete izin verilirken %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="one">%d videoda Düete izin verilmiyor</item>
+        <item quantity="other">%d videoda Düete izin verilmiyor</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="one">Arkadaşlarınız, videolarınızla Düet yapabilir. %1$d videonuzda Düete izin verilirken %2$s</item>
+        <item quantity="other">Arkadaşlarınız, videolarınızla Düet yapabilir. %1$d videonuzda Düete izin verilirken %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="one">%d videoda Düete izin verilmiyor</item>
+        <item quantity="other">%d videoda Düete izin verilmiyor</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="one">Videolarınızla kimlerin Düet yapabileceğini gözden geçirin. %1$d videonuzda Düete izin verilirken %2$s</item>
+        <item quantity="other">Videolarınızla kimlerin Düet yapabileceğini gözden geçirin. %1$d videonuzda Düete izin verilirken %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="one">%d videoda Eklemeye izin verilmiyor</item>
+        <item quantity="other">%d videoda Eklemeye izin verilmiyor</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="one">Videolarınıza kimlerin Ekleme yapabileceğini gözden geçirin. %1$d videonuzda Eklemeye izin verilirken %2$s</item>
+        <item quantity="other">Videolarınıza kimlerin Ekleme yapabileceğini gözden geçirin. %1$d videonuzda Eklemeye izin verilirken %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="one">%d videoda Eklemeye izin verilmiyor</item>
+        <item quantity="other">%d videoda Eklemeye izin verilmiyor</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="one">Herkes videolarınıza Ekleme yapabilir. %1$d videonuzda Eklemeye izin verilirken %2$s</item>
+        <item quantity="other">Herkes videolarınıza Ekleme yapabilir. %1$d videonuzda Eklemeye izin verilirken %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="one">%d videoda Eklemeye izin verilmiyor</item>
+        <item quantity="other">%d videoda Eklemeye izin verilmiyor</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="one">Arkadaşlarınız, videolarınıza Ekleme yapabilir. %1$d videonuzda Eklemeye izin verilirken %2$s</item>
+        <item quantity="other">Arkadaşlarınız, videolarınıza Ekleme yapabilir. %1$d videonuzda Eklemeye izin verilirken %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="one">%s videoda Düete izin veriliyor</item>
+        <item quantity="other">%s videoda Düete izin veriliyor</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="one">%s videoda Düete izin verilmiyor</item>
+        <item quantity="other">%s videoda Düete izin verilmiyor</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="one">%s videoda Eklemeye izin veriliyor</item>
+        <item quantity="other">%s videoda Eklemeye izin veriliyor</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="one">%s videoda Eklemeye izin verilmiyor</item>
+        <item quantity="other">%s videoda Eklemeye izin verilmiyor</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="one">%d saat önce aktifti</item>
+        <item quantity="other">%d saat önce aktifti</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="one">%d dakika önce aktifti</item>
+        <item quantity="other">%d dakika önce aktifti</item>
+    </plurals>
+    <plurals name="ao">
+        <item quantity="one">GÜN</item>
+        <item quantity="other">GÜNLER</item>
+    </plurals>
+    <plurals name="ap">
+        <item quantity="one">SAAT</item>
+        <item quantity="other">SAATLER</item>
+    </plurals>
+    <plurals name="aq">
+        <item quantity="one">DAKİKA</item>
+        <item quantity="other">DAKİKALAR</item>
+    </plurals>
+    <plurals name="ar">
+        <item quantity="one">SANİYE</item>
+        <item quantity="other">SANİYELER</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="one">%d kısım</item>
+        <item quantity="other">%d kısım</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="one">%1$s · %2$d yeni gönderi</item>
+        <item quantity="other">%1$s · %2$d yeni gönderi</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="one">%d sesi içe aktarın</item>
+        <item quantity="other">%d sesi içe aktarın</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="one">%2$d CANLI Yayın videosu | %1$d Hikâye</item>
+        <item quantity="other">%2$d CANLI Yayın videosu | %1$d Hikâye</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="one">%2$d CANLI Yayın videosu | %1$d Hikâye</item>
+        <item quantity="other">%2$d CANLI Yayın videosu | %1$d Hikâye</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="one">%d CANLI Yayın videosu | Hikâye</item>
+        <item quantity="other">%d CANLI Yayın videosu | Hikâye</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="one">%2$d CANLI Yayın videosu | %1$d Hikâye</item>
+        <item quantity="other">%2$d CANLI Yayın videosu | %1$d Hikâye</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="one">%d Hikâye</item>
+        <item quantity="other">%d Hikâye</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="one">%d arkadaş davet edildi</item>
+        <item quantity="other">%d arkadaş davet edildi</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="one">%s video eklendi</item>
+        <item quantity="other">%s video eklendi</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="one">%s video paylaşıldı</item>
+        <item quantity="other">%s video paylaşıldı</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="one">Video (%d) ekle</item>
+        <item quantity="other">Video (%d) ekle</item>
+    </plurals>
+    <plurals name="b5">
+        <item quantity="one">%s video eklendi. Düzenlemeyi bitirmek için &quot;Bitti&quot; seçeneğine dokunun.</item>
+        <item quantity="other">%s video eklendi. Düzenlemeyi bitirmek için &quot;Bitti&quot; seçeneğine dokunun.</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="one">%d yaşında</item>
+        <item quantity="other">%d yaşında</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="one">%d yaşında</item>
+        <item quantity="other">%d yaşında</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="one">%d yaşında mısınız?\n\n Eğer bu doğru değilse, doğru TikTok deneyimini edinemeyebilirsiniz. Bunu hemen değiştiremeyebilirsiniz.</item>
+        <item quantity="other">%d yaşında mısınız?\n\n Eğer bu doğru değilse, doğru TikTok deneyimini edinemeyebilirsiniz. Bunu hemen değiştiremeyebilirsiniz.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="one">%d yaşında mısınız?</item>
+        <item quantity="other">%d yaşında mısınız?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="one">Yaş olarak %d girdiniz. Gerçek doğum tarihinizi girin.</item>
+        <item quantity="other">Yaş olarak %d girdiniz. Gerçek doğum tarihinizi girin.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="one">%d yaşında</item>
+        <item quantity="other">%d yaşında</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="one">%d ses</item>
+        <item quantity="other">%d ses</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="one">Ses senkronize ediliyor...</item>
+        <item quantity="other">Sesler senkronize ediliyor...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="one">%s paylaşım</item>
+        <item quantity="other">%s paylaşım</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="one">%s görüntüleme</item>
+        <item quantity="other">%s görüntüleme</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="one">Ses efektleri doğruluğu azaltabilir</item>
+        <item quantity="other">Ses efektleri doğruluğu azaltabilir</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="one">En fazla %d dosya yükleyin</item>
+        <item quantity="other">En fazla %d dosya yükleyin</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="one">[num] video</item>
+        <item quantity="other">[num] video</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="one">Bu beta sürümünün süresi %d gün sonra doluyor</item>
+        <item quantity="other">Bu beta sürümünün süresi %d gün sonra doluyor</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="one">Süresi %d gün sonra doluyor</item>
+        <item quantity="other">Süresi %d gün sonra doluyor</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="one">Süresi %d gün sonra doluyor</item>
+        <item quantity="other">Süresi %d gün sonra doluyor</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="one">Süresi %d gün sonra doluyor</item>
+        <item quantity="other">Süresi %d gün sonra doluyor</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="one">En fazla %d kitap ekleyebilirsiniz</item>
+        <item quantity="other">En fazla %d kitap ekleyebilirsiniz</item>
+    </plurals>
+    <plurals name="bn">
+        <item quantity="one">%1$d arkadaş davet edildi. Bir sonraki davetiniz için %2$s%3$d kazanabilirsiniz.</item>
+        <item quantity="other">%1$d arkadaş davet edildi. Bir sonraki davetiniz için %2$s%3$d kazanabilirsiniz.</item>
+    </plurals>
+    <plurals name="bo">
+        <item quantity="one">bir fotoğraf paylaştı</item>
+        <item quantity="other">fotoğraflar paylaştı</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="one">%s klip</item>
+        <item quantity="other">%s klip</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="one">%d tane daha görüntüleyin</item>
+        <item quantity="other">%d tane daha görüntüleyin</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="one">%d yanıta bakın</item>
+        <item quantity="other">%d yanıta bakın</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="one">%d ay</item>
+        <item quantity="other">%d ay</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="one">%d yıl</item>
+        <item quantity="other">%d yıl</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="one">Hesabı engelle</item>
+        <item quantity="other">Hesapları engelle</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="one">%d hesap seçildi.</item>
+        <item quantity="other">%d hesap seçildi.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="one">Tek seferde en fazla %d hesap seçebilirsiniz.</item>
+        <item quantity="other">Tek seferde en fazla %d hesap seçebilirsiniz.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="one">Engellenecek %d hesap seçtiniz. Engellenen hesaplar, TikTok&apos;ta profilinizi veya içeriğinizi göremez.</item>
+        <item quantity="other">Engellenecek %d hesap seçtiniz. Engellenen hesaplar, TikTok&apos;ta profilinizi veya içeriğinizi göremez.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="one">%d hesap engellensin mi?</item>
+        <item quantity="other">%d hesap engellensin mi?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="one">Yorumu sil</item>
+        <item quantity="other">Yorumları sil</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="one">%d yorum seçtiniz.</item>
+        <item quantity="other">%d yorum seçtiniz.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="one">%d yorum silinsin mi?</item>
+        <item quantity="other">%d yorum silinsin mi?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="one">Yorum silindi</item>
+        <item quantity="other">Yorumlar silindi</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="one">%d yorum seçildi.</item>
+        <item quantity="other">%d yorum seçildi.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="one">Tek seferde en fazla %d yorum seçebilirsiniz.</item>
+        <item quantity="other">Tek seferde en fazla %d yorum seçebilirsiniz.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="one">Yorumu rapor et</item>
+        <item quantity="other">Yorumları rapor et</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="one">%d yorum bildiriyorsunuz. Bu yorumu uygunsuz içerik açısından inceleyeceğiz.</item>
+        <item quantity="other">%d yorum bildiriyorsunuz. Bu yorumu uygunsuz içerik açısından inceleyeceğiz.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="one">%d yorum bildirilsin mi?</item>
+        <item quantity="other">%d yorum bildirilsin mi?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="one">Yorum rapor edildi</item>
+        <item quantity="other">Yorumlar rapor edildi</item>
+    </plurals>
+    <plurals name="c9">
+        <item quantity="one">%d yorum seçildi</item>
+        <item quantity="other">%d yorum seçildi</item>
+    </plurals>
+    <plurals name="c_">
+        <item quantity="one">TikTok&apos;ta senin gibi sohbet eden yok. {comment_cnt} kez yorum atmışsın.</item>
+        <item quantity="other">TikTok&apos;ta senin gibi sohbet eden yok. {comment_cnt} kez yorum atmışsın.</item>
+    </plurals>
+    <plurals name="ca">
+        <item quantity="one">En popüler yorumun {comment_like_cnt} beğeni aldı.</item>
+        <item quantity="other">En popüler yorumun {comment_like_cnt} beğeni aldı.</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="one">%s yorum</item>
+        <item quantity="other">%s yorumları</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="cd">
+        <item quantity="one">%d yeni bildiriminiz var!</item>
+        <item quantity="other">%d yeni bildiriminiz var!</item>
+    </plurals>
+    <plurals name="ce">
+        <item quantity="one">%d yeni bildiriminiz var!</item>
+        <item quantity="other">%d yeni bildiriminiz var!</item>
+    </plurals>
+    <plurals name="cf">
+        <item quantity="one">Takip ettiğiniz içerik üreticilerinden %d yeni video</item>
+        <item quantity="other">Takip ettiğiniz içerik üreticilerinden %d yeni video</item>
+    </plurals>
+    <plurals name="cg">
+        <item quantity="one">Takip ettiğiniz içerik üreticilerinden %d yeni video</item>
+        <item quantity="other">Takip ettiğiniz içerik üreticilerinden %d yeni video</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="one">%s kullanıcı, hatırlatıcı ayarladı</item>
+        <item quantity="other">%s kullanıcı, hatırlatıcı ayarladı</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="one">%s efekt</item>
+        <item quantity="other">%s efekt</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="one">Video izlemesi</item>
+        <item quantity="other">Video izlemesi</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="one">%%%d</item>
+        <item quantity="other">%%%d</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="one">Net takipçi</item>
+        <item quantity="other">Net takipçi</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="one">%%%d</item>
+        <item quantity="other">%%%d</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="one">Beğeni</item>
+        <item quantity="other">Beğeni</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="one">%%%d</item>
+        <item quantity="other">%%%d</item>
+    </plurals>
+    <plurals name="cp">
+        <item quantity="one">&quot;{0}&quot; CANLI yayınınıza 10 dakika kaldı. {0} kullanıcı hatırlatıcı ayarladı.</item>
+        <item quantity="other">&quot;{0}&quot; CANLI yayınınıza 10 dakika kaldı. {0} kullanıcı hatırlatıcı ayarladı.</item>
+    </plurals>
+    <plurals name="cq">
+        <item quantity="one">CANLI yayın başlıyor! {0} kullanıcı, &quot;{0}&quot; için hatırlatıcıyı kurdu.</item>
+        <item quantity="other">CANLI yayın başlıyor! {0} kullanıcı, &quot;{0}&quot; için hatırlatıcıyı kurdu.</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="one">%s kullanıcı, hatırlatıcı ayarladı</item>
+        <item quantity="other">%s kullanıcı, hatırlatıcı ayarladı</item>
+    </plurals>
+    <plurals name="cs">
+        <item quantity="one">En az %d takipçiniz olsun</item>
+        <item quantity="other">En az %d takipçiniz olsun</item>
+    </plurals>
+    <plurals name="ct">
+        <item quantity="one">Son %2$d gün içinde en az %1$d video yayınlayın</item>
+        <item quantity="other">Son %2$d gün içinde en az %1$d video yayınlayın</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="one">Taslak silinsin mi?</item>
+        <item quantity="other">Taslaklar silinsin mi?</item>
+    </plurals>
+    <plurals name="cv">
+        <item quantity="one">Orijinal videonuz kullanılarak %d Düet ve Ekleme videosu oluşturuldu.</item>
+        <item quantity="other">Orijinal videolarınız kullanılarak %d Düet ve Ekleme videosu oluşturuldu.</item>
+    </plurals>
+    <plurals name="cw">
+        <item quantity="one">Bu videoları %d gün sonra kaldırmayı seçebilirsiniz.</item>
+        <item quantity="other">Bu videoları %d gün sonra kaldırmayı seçebilirsiniz.</item>
+    </plurals>
+    <plurals name="cx">
+        <item quantity="one">Hesabınızı önümüzdeki %d gün içinde yeniden açarsanız, bu videolar geri yüklenecek.</item>
+        <item quantity="other">Hesabınızı önümüzdeki %d gün içinde yeniden açarsanız, bu videolar geri yüklenecek.</item>
+    </plurals>
+    <plurals name="cy">
+        <item quantity="one">Hesabınız %d gün boyunca devre dışı bırakılacak ve herkes tarafından görülemeyecek. Devre dışı bırakma sırasında TikTok hesabınızı istediğiniz zaman yeniden etkinleştirebilirsiniz.</item>
+        <item quantity="other">Hesabınız %d gün boyunca devre dışı bırakılacak ve herkes tarafından görülemeyecek. Devre dışı bırakma sırasında TikTok hesabınızı istediğiniz zaman yeniden etkinleştirebilirsiniz.</item>
+    </plurals>
+    <plurals name="cz">
+        <item quantity="one">%d gün sonra hesabınız ve verileriniz kalıcı olarak silinecek.</item>
+        <item quantity="other">%d gün sonra hesabınız ve verileriniz kalıcı olarak silinecek.</item>
+    </plurals>
+    <plurals name="d0">
+        <item quantity="one">Hesabınızı silmeden önce bu %d görevi inceleyin</item>
+        <item quantity="other">Hesabınızı silmeden önce bu %d görevi inceleyin</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="one">%s gönderi</item>
+        <item quantity="other">%s gönderi</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="one">Yanlış şifre kodu. %d deneme hakkınız kaldı.</item>
+        <item quantity="other">Yanlış şifre kodu. %d deneme hakkınız kaldı.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="one">Çok fazla deneme girişimi. %d dakika sonra tekrar deneyin.</item>
+        <item quantity="other">Çok fazla deneme girişimi. %d dakika sonra tekrar deneyin.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="one">%d melodi</item>
+        <item quantity="other">%d melodi</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="one">%d müzik</item>
+        <item quantity="other">%d müzik</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="one">%d adet</item>
+        <item quantity="other">%d adet</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="one">%d şarkı</item>
+        <item quantity="other">%d şarkı</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="one">%d ses</item>
+        <item quantity="other">%d ses</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="one">%d ayar</item>
+        <item quantity="other">%d ayar</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="one">Gönder (%d)</item>
+        <item quantity="other">Gönder (%d)</item>
+    </plurals>
+    <plurals name="db">
+        <item quantity="one">İkiniz de %s ve %d diğer kişiyi takip ediyorsunuz</item>
+        <item quantity="other">İkiniz de %s ve %d diğer kişiyi takip ediyorsunuz</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="one">%1$d takip ediliyor · %2$d takipçi</item>
+        <item quantity="other">%1$d takip ediliyor · %2$d takipçi</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="one">@ yeni bahsetme</item>
+        <item quantity="other">@ yeni bahsetmeler</item>
+    </plurals>
+    <plurals name="de">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="one">yeni mesajlar gönderdi.</item>
+        <item quantity="other">yeni mesajlar gönderdi.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="one">size yeni mesajlar gönderdi.</item>
+        <item quantity="other">size yeni mesajlar gönderdiler.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="one">En fazla %d kişi seçebilirsiniz</item>
+        <item quantity="other">En fazla %d kişi seçebilirsiniz</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="one">Taslak atılsın mı?</item>
+        <item quantity="other">Taslak atılsın mı?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="one">Taslak silinsin mi?</item>
+        <item quantity="other">Taslaklar silinsin mi?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="one">Taslaklar {#} video</item>
+        <item quantity="other">Taslaklar {#} video</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="one">Bu video paylaşıldığında %1$s ve diğer %2$s kişi daha bilgilendirilecek.</item>
+        <item quantity="other">Bu video paylaşıldığında %1$s ve diğer %2$s kişi daha bilgilendirilecek.</item>
+    </plurals>
+    <plurals name="dm">
+        <item quantity="one">%ss</item>
+        <item quantity="other">%ss</item>
+    </plurals>
+    <plurals name="dn">
+        <item quantity="one">%d öge</item>
+        <item quantity="other">%d öge</item>
+    </plurals>
+    <plurals name="do">
+        <item quantity="one">{number} üründe %{value} indirim</item>
+        <item quantity="other">{number} üründe %{value} indirim</item>
+    </plurals>
+    <plurals name="dp">
+        <item quantity="one">{number} üründe %{value} indirim, indirimden yararlanmak için {gapvalue} ürün daha ekleyin!</item>
+        <item quantity="other">{number} üründe %{value} indirim, indirimden yararlanmak için {gapvalue} ürün daha ekleyin!</item>
+    </plurals>
+    <plurals name="dq">
+        <item quantity="one">{number} üründe %{value} indirim ile, {savevalue}{currency_mark} tasarruf ettiniz</item>
+        <item quantity="other">{number} üründe %{value} indirim ile, {savevalue}{currency_mark} tasarruf ettiniz</item>
+    </plurals>
+    <plurals name="dr">
+        <item quantity="one">{number} adetten fazla ürün satın alarak %{value} indirimden yararlanın</item>
+        <item quantity="other">{number} adetten fazla ürün satın alarak %{value} indirimden yararlanın</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="one">En az %d ürün seçin</item>
+        <item quantity="other">En az %d ürün seçin</item>
+    </plurals>
+    <plurals name="dt">
+        <item quantity="one">{{required_quantity}}+ ürün</item>
+        <item quantity="other">{{required_quantity}}+ ürün</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="one">Takip incelemesi %d gün sonra</item>
+        <item quantity="other">Takip incelemesi %d gün sonra</item>
+    </plurals>
+    <plurals name="dv">
+        <item quantity="one">Uygun olmayan ürün</item>
+        <item quantity="other">Uygun olmayan ürünler</item>
+    </plurals>
+    <plurals name="dw">
+        <item quantity="one">{{num}} gün içinde mevcut</item>
+        <item quantity="other">{{num}} gün içinde mevcut</item>
+    </plurals>
+    <plurals name="dx">
+        <item quantity="one">bir sıra yukarı çıkmak için {count} daha fazla puan</item>
+        <item quantity="other">bir sıra yukarı çıkmak için {count} daha fazla puan</item>
+    </plurals>
+    <plurals name="dy">
+        <item quantity="one">En iyi içerik üreticisi olmak için {count} daha fazla puan</item>
+        <item quantity="other">En iyi içerik üreticisi olmak için {count} daha fazla puan</item>
+    </plurals>
+    <plurals name="dz">
+        <item quantity="one">Flaş Satış {{num}} dakika içinde başlayacak</item>
+        <item quantity="other">Flaş Satış {{num}} dakika içinde başlayacak</item>
+    </plurals>
+    <plurals name="e0">
+        <item quantity="one">Flaş Satış {num} dakika içinde başlayacak</item>
+        <item quantity="other">Flaş Satış {num} dakika içinde başlayacak</item>
+    </plurals>
+    <plurals name="e1">
+        <item quantity="one">Flaş Satış {{num}} dakika içinde başlayacak</item>
+        <item quantity="other">Flaş Satış {{num}} dakika içinde başlayacak</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="one">%s gün içinde bitiyor</item>
+        <item quantity="other">%s gün içinde bitiyor</item>
+    </plurals>
+    <plurals name="e3">
+        <item quantity="one">Etkinlik başlamadan %s dakika önce size bir anlık bildirim göndereceğiz.</item>
+        <item quantity="other">Etkinlik başlamadan %s dakika önce size bir anlık bildirim göndereceğiz.</item>
+    </plurals>
+    <plurals name="e4">
+        <item quantity="one">Etkinlik başlamadan %s dakika önce size bir anlık bildirim göndereceğiz.</item>
+        <item quantity="other">Etkinlik başlamadan %s dakika önce size bir anlık bildirim göndereceğiz.</item>
+    </plurals>
+    <plurals name="e5">
+        <item quantity="one">Etkinlik başlamadan %s dakika önce size bir anlık bildirim göndereceğiz</item>
+        <item quantity="other">Etkinlik başlamadan %s dakika önce size bir anlık bildirim göndereceğiz</item>
+    </plurals>
+    <plurals name="e6">
+        <item quantity="one">{{count}} gün kaldı</item>
+        <item quantity="other">{{count}} gün kaldı</item>
+    </plurals>
+    <plurals name="e7">
+        <item quantity="one">Ücretsiz numuneler sunan aşağıdaki {{count}} ürünü satmaya davetlisiniz. Ürünü almak için davetleri kabul edin.</item>
+        <item quantity="other">Ücretsiz numuneler sunan aşağıdaki {{count}} ürünü satmaya davetlisiniz. Ürünleri almak için davetleri kabul edin.</item>
+    </plurals>
+    <plurals name="e8">
+        <item quantity="one">Ürün mevcut değil. Destek ekibimizle iletişime geçin ve tekrar deneyin.</item>
+        <item quantity="other">Ürünler mevcut değil. Destek ekibimizle iletişime geçin ve tekrar deneyin.</item>
+    </plurals>
+    <plurals name="e9">
+        <item quantity="one">Ücretsiz numune ile ilgili bir sorun oluştu. Destek ekibimizle iletişime geçin ve tekrar deneyin.</item>
+        <item quantity="other">Ücretsiz numunelerle ilgili bir sorun oluştu. Destek ekibimizle iletişime geçin ve tekrar deneyin.</item>
+    </plurals>
+    <plurals name="e_">
+        <item quantity="one">{count} gün içinde bitiyor</item>
+        <item quantity="other">{count} gün içinde bitiyor</item>
+    </plurals>
+    <plurals name="ea">
+        <item quantity="one">{count} saat içinde sona eriyor</item>
+        <item quantity="other">{count} saat içinde sona eriyor</item>
+    </plurals>
+    <plurals name="eb">
+        <item quantity="one">{count} dakika içinde sona eriyor</item>
+        <item quantity="other">{count} dakika içinde sona eriyor</item>
+    </plurals>
+    <plurals name="ec">
+        <item quantity="one">kalan: {count}</item>
+        <item quantity="other">kalan: {count}</item>
+    </plurals>
+    <plurals name="ed">
+        <item quantity="one">Talep eden sayısı: {count}</item>
+        <item quantity="other">Talep eden sayısı: {count}</item>
+    </plurals>
+    <plurals name="ee">
+        <item quantity="one">Geri ödemeniz şuraya gönderildi:{payment_method}. Yaklaşık {count} gün içinde size ulaşması bekleniyor.</item>
+        <item quantity="other">Geri ödemeniz şuraya gönderildi:{payment_method}. Yaklaşık {count} gün içinde size ulaşması bekleniyor.</item>
+    </plurals>
+    <plurals name="ef">
+        <item quantity="one">%s taksitte ödeyin</item>
+        <item quantity="other">%s taksitte ödeyin</item>
+    </plurals>
+    <plurals name="eg">
+        <item quantity="one">Geçersiz ürün</item>
+        <item quantity="other">Geçersiz ürünler</item>
+    </plurals>
+    <plurals name="eh">
+        <item quantity="one">Bu ürün adrese gönderilemiyor.</item>
+        <item quantity="other">Bu ürünler adrese gönderilemiyor.</item>
+    </plurals>
+    <plurals name="ei">
+        <item quantity="one">Bu ürün adrese gönderilemiyor.</item>
+        <item quantity="other">Bu ürünler adrese gönderilemiyor.</item>
+    </plurals>
+    <plurals name="ej">
+        <item quantity="one">%s saat önce benzer bir sipariş verdiniz. Önceki sipariş ödeme bekliyor.</item>
+        <item quantity="other">%s saat önce benzer bir sipariş verdiniz. Önceki sipariş ödeme bekliyor.</item>
+    </plurals>
+    <plurals name="ek">
+        <item quantity="one">%s dakika önce benzer bir sipariş verdiniz. Önceki sipariş ödeme bekliyor.</item>
+        <item quantity="other">%s dakika önce benzer bir sipariş verdiniz. Önceki sipariş ödeme bekliyor.</item>
+    </plurals>
+    <plurals name="el">
+        <item quantity="one">takipçi</item>
+        <item quantity="other">takipçiler</item>
+    </plurals>
+    <plurals name="em">
+        <item quantity="one">görüntüleme</item>
+        <item quantity="other">görüntülemeler</item>
+    </plurals>
+    <plurals name="en">
+        <item quantity="one">Yasal</item>
+        <item quantity="other">Yasal</item>
+    </plurals>
+    <plurals name="eo">
+        <item quantity="one">Öneriler</item>
+        <item quantity="other">Öneriler</item>
+    </plurals>
+    <plurals name="ep">
+        <item quantity="one">{count}+ öge ile</item>
+        <item quantity="other">{count}+ ögeler ile</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="one">%1$s öge, toplam %2$s</item>
+        <item quantity="other">%1$s öge, toplam %2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="one">Toplam (%s öge)</item>
+        <item quantity="other">Toplam (%s öge)</item>
+    </plurals>
+    <plurals name="es">
+        <item quantity="one">Aşağıdaki %d ürün kaldırıldı.</item>
+        <item quantity="other">Aşağıdaki %d ürün kaldırıldı.</item>
+    </plurals>
+    <plurals name="et">
+        <item quantity="one">%d ürün kaldırıldı</item>
+        <item quantity="other">%d ürün kaldırıldı</item>
+    </plurals>
+    <plurals name="eu">
+        <item quantity="one">Aşağıdaki %d ürün kaldırıldı.</item>
+        <item quantity="other">Aşağıdaki %d ürün kaldırıldı.</item>
+    </plurals>
+    <plurals name="ev">
+        <item quantity="one">Ürün kaldırıldı (%d)</item>
+        <item quantity="other">Ürünler kaldırıldı (%d)</item>
+    </plurals>
+    <plurals name="ew">
+        <item quantity="one">%d ürün kaldırıldı</item>
+        <item quantity="other">%d ürün kaldırıldı</item>
+    </plurals>
+    <plurals name="ex">
+        <item quantity="one">%d ürün kaldırıldı</item>
+        <item quantity="other">%d ürün kaldırıldı</item>
+    </plurals>
+    <plurals name="ey">
+        <item quantity="one">Aşağıdaki %d ürün kaldırılacak. Kaldırma işlemini onaylayın, ya da {date} tarihinde otomatik olarak kaldırılacaktır.</item>
+        <item quantity="other">Aşağıdaki %d ürün kaldırılacak. Kaldırma işlemini onaylayın, ya da {date} tarihinde otomatik olarak kaldırılacaktır.</item>
+    </plurals>
+    <plurals name="ez">
+        <item quantity="one">%d ürün kaldırılacak</item>
+        <item quantity="other">%d ürün kaldırılacak</item>
+    </plurals>
+    <plurals name="f0">
+        <item quantity="one">%d ürün {date} tarihinde kaldırılacak</item>
+        <item quantity="other">%d ürün {date} tarihinde kaldırılacak</item>
+    </plurals>
+    <plurals name="f1">
+        <item quantity="one">%d ürün kaldırılacak</item>
+        <item quantity="other">%d ürün kaldırılacak</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="one">Yalnızca en fazla %d kez düzenleyebilirsiniz</item>
+        <item quantity="other">Yalnızca en fazla %d kez düzenleyebilirsiniz</item>
+    </plurals>
+    <plurals name="f3">
+        <item quantity="one">Metin çıkartmasına uygulandı</item>
+        <item quantity="other">Tüm metin çıkartmalarına uygulandı</item>
+    </plurals>
+    <plurals name="f4">
+        <item quantity="one">Bunu kullanan {effect_video_cnt} video izledin.</item>
+        <item quantity="other">Bunu kullanan {effect_video_cnt} video izledin</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="one">%d sn içinde bir efektin ön izlemesini görün</item>
+        <item quantity="other">%d sn içinde bir efektin ön izlemesini görün</item>
+    </plurals>
+    <plurals name="f6">
+        <item quantity="one">%1$s: %2$s, %3$s, %4$s ve diğerleri %5$d yeni video yayınladı.</item>
+        <item quantity="other">%1$s: %2$s, %3$s, %4$s ve diğerleri %5$d yeni video yayınladı.</item>
+    </plurals>
+    <plurals name="f7">
+        <item quantity="one">%1$s: %2$s, %3$d yeni video paylaştı.</item>
+        <item quantity="other">%1$s: %2$s, %3$d yeni video paylaştı.</item>
+    </plurals>
+    <plurals name="f8">
+        <item quantity="one">%1$s: %2$s, %3$s ve %4$s, %5$d yeni video yayınladı.</item>
+        <item quantity="other">%1$s: %2$s, %3$s ve %4$s, %5$d yeni video yayınladı.</item>
+    </plurals>
+    <plurals name="f9">
+        <item quantity="one">%1$s: %2$s ve %3$s, %4$d yeni video yayınladı.</item>
+        <item quantity="other">%1$s: %2$s ve %3$s, %4$d yeni video yayınladı.</item>
+    </plurals>
+    <plurals name="f_">
+        <item quantity="one">%d yeni takipçiniz var.</item>
+        <item quantity="other">%d yeni takipçiniz var.</item>
+    </plurals>
+    <plurals name="fa">
+        <item quantity="one">%d yeni beğeniniz var.</item>
+        <item quantity="other">%d yeni beğeniniz var.</item>
+    </plurals>
+    <plurals name="fb">
+        <item quantity="one">Sizi bekleyen %d yeni bildiriminiz var.</item>
+        <item quantity="other">Sizi bekleyen %d yeni bildiriminiz var.</item>
+    </plurals>
+    <plurals name="fc">
+        <item quantity="one">Beğenebileceğinizi düşündüğümüz %d video bulduk.</item>
+        <item quantity="other">Beğenebileceğinizi düşündüğümüz %d video bulduk.</item>
+    </plurals>
+    <plurals name="fd">
+        <item quantity="one">%1$s: Hoşunuza gidebilecek %2$d video.</item>
+        <item quantity="other">%1$s: Hoşunuza gidebilecek %2$d video.</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="one">Etiketlendi</item>
+        <item quantity="other">Etiketlendi</item>
+    </plurals>
+    <plurals name="ff">
+        <item quantity="one">%d kaydoldu</item>
+        <item quantity="other">%d kaydoldu</item>
+    </plurals>
+    <plurals name="fg">
+        <item quantity="one">%d kaydoldu</item>
+        <item quantity="other">%d kaydoldu</item>
+    </plurals>
+    <plurals name="fh">
+        <item quantity="one">Bu etkinlik için kaydoldu</item>
+        <item quantity="other">Bu etkinlik için kaydoldu</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="one">Bu grup üyesini tanıyor olabilirsiniz.</item>
+        <item quantity="other">Bu grup üyelerini tanıyor olabilirsiniz.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="one">%s video eklendi</item>
+        <item quantity="other">%s video eklendi</item>
+    </plurals>
+    <plurals name="fl">
+        <item quantity="one">%d videoyu şuradan kaldır: %s</item>
+        <item quantity="other">%d videoyu şuradan kaldır: %s</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="one">%1$d videoyu şuradan kaldır: %2$s</item>
+        <item quantity="other">%1$d videoyu şuradan kaldır: %2$s</item>
+    </plurals>
+    <plurals name="fn">
+        <item quantity="one">%d video, %s konumuna taşındı</item>
+        <item quantity="other">%d video, %s konumuna taşındı</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="one">%1$d video, %2$s konumuna taşındı</item>
+        <item quantity="other">%1$d video, %2$s konumuna taşındı</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="one">%d video kaldırıldı</item>
+        <item quantity="other">%d video kaldırıldı</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="one">Önerilen %d yeni hesap</item>
+        <item quantity="other">Önerilen %d yeni hesap</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="one">%s tarafından takip ediliyor</item>
+        <item quantity="other">%s ve diğer %d kişi tarafından takip ediliyor</item>
+    </plurals>
+    <plurals name="fs">
+        <item quantity="one">Takipçi</item>
+        <item quantity="other">Takipçiler</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="one">%s adlı kullanıcıyı takip ediyor</item>
+        <item quantity="other">%s ve diğer %d kişiyi takip ediyor</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="one">{0}, {1} ve {2} diğer kişi tarafından takip ediliyor</item>
+        <item quantity="other">{0}, {1} ve {2} diğer kişi tarafından takip ediliyor</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="one">{0} ve {2} diğer kişi tarafından takip ediliyor</item>
+        <item quantity="other">{0} ve {2} diğer kişi tarafından takip ediliyor</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="one">{0}, {1} ve {2} diğer kişiyi takip ediyor</item>
+        <item quantity="other">{0}, {1} ve {2} diğer kişiyi takip ediyor</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="one">{0} ve {2} diğer kişiyi takip ediyor</item>
+        <item quantity="other">{0} ve {2} diğer kişiyi takip ediyor</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="one">{0}, {1} ve {2} diğer kişi ile arkadaş</item>
+        <item quantity="other">{0}, {1} ve {2} diğer kişi ile arkadaş</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="one">{0} ve {2} diğer kişi ile arkadaş</item>
+        <item quantity="other">{0} ve {2} diğer kişi ile arkadaş</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="one">{2} ortak bağlantı</item>
+        <item quantity="other">{2} ortak bağlantı</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="one">%s ile arkadaş</item>
+        <item quantity="other">%s ve diğer %d kişiyle arkadaş</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="one">Arkadaşlardan %d yeni gönderi</item>
+        <item quantity="other">Arkadaşlardan %d yeni gönderi</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="one">%d üye şu anda aktif</item>
+        <item quantity="other">%d üye şu anda aktif</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="one">%1$d üye %2$d dakika önce aktifti</item>
+        <item quantity="other">%1$d üye %2$d dakika önce aktifti</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="one">%d üye bugün aktif</item>
+        <item quantity="other">%d üye bugün aktif</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="one">%d üye</item>
+        <item quantity="other">%d üye</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="one">Yeni talep</item>
+        <item quantity="other">Yeni talepler</item>
+    </plurals>
+    <plurals name="g8">
+        <item quantity="one">üye</item>
+        <item quantity="other">üyeler</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="one">%s üye</item>
+        <item quantity="other">%s üye</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="one">%d üye daha görün</item>
+        <item quantity="other">%d üyeyi daha görün</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="one">%s görüntüleme</item>
+        <item quantity="other">%s görüntüleme</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="one">Takipçi: %s</item>
+        <item quantity="other">Takipçiler: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="one">Video: %s</item>
+        <item quantity="other">Videolar: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="one">%s ve %d diğer kişiye gönderildi</item>
+        <item quantity="other">%s ve %d diğer kişiye gönderildi</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="one">%d Hikâye yüklenemedi. Hikâye, taslaklarınıza kaydedildi.</item>
+        <item quantity="other">%d Hikâye yüklenemedi. Hikâyeler, taslaklarınıza kaydedildi.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="one">Fotoğraf yüklenemedi. Fotoğraf taslaklarınıza kaydedildi.</item>
+        <item quantity="other">Fotoğraflar yüklenemedi. Fotoğraflar taslaklarınıza kaydedildi.</item>
+    </plurals>
+    <plurals name="gg">
+        <item quantity="one">%s takipçi</item>
+        <item quantity="other">%s takipçi</item>
+    </plurals>
+    <plurals name="gh">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="one">%d çıkartma</item>
+        <item quantity="other">%d çıkartma</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="one">bir fotoğrafta sizden bahsetti.</item>
+        <item quantity="other">fotoğraflarda sizden bahsetti.</item>
+    </plurals>
+    <plurals name="gk">
+        <item quantity="one">%1$s, %2$s ve %3$d diğerini takip ediyor. Profillerini görüntüleyin.</item>
+        <item quantity="other">%1$s, %2$s ve %3$d diğerini takip ediyor. Profillerini görüntüleyin.</item>
+    </plurals>
+    <plurals name="gl">
+        <item quantity="one">%1$s, %2$s ve %3$d diğeri tarafından takip ediliyor. Profillerini görüntüleyin.</item>
+        <item quantity="other">%1$s, %2$s ve %3$d diğeri tarafından takip ediliyor. Profillerini görüntüleyin.</item>
+    </plurals>
+    <plurals name="gm">
+        <item quantity="one">%1$s, %2$s ve %3$d diğeri tarafından takip ediliyor. Profillerini görüntüleyin.</item>
+        <item quantity="other">%1$s, %2$s ve %3$d diğeri tarafından takip ediliyor. Profillerini görüntüleyin.</item>
+    </plurals>
+    <plurals name="gn">
+        <item quantity="one">%2$s, %3$s ve diğer %4$d kullanıcı %1$s adlı kullanıcıyı takip ediyor. Profillerini görüntüleyin.</item>
+        <item quantity="other">%2$s, %3$s ve diğer %4$d kullanıcı %1$s adlı kullanıcıyı takip ediyor. Profillerini görüntüleyin.</item>
+    </plurals>
+    <plurals name="go">
+        <item quantity="one">%1$s adlı kullanıcı %2$s, %3$s ve diğer %4$d kişiyi takip ediyor. Profillerini görüntüleyin.</item>
+        <item quantity="other">%1$s adlı kullanıcı %2$s, %3$s ve diğer %4$d kişiyi takip ediyor. Profillerini görüntüleyin.</item>
+    </plurals>
+    <plurals name="gp">
+        <item quantity="one">%1$s adlı kullanıcı, %2$s, %3$s ve diğer %4$d kişi ile arkadaş. Profillerini görüntüleyin.</item>
+        <item quantity="other">%1$s adlı kullanıcı, %2$s, %3$s ve diğer %4$d kişi ile arkadaş. Profillerini görüntüleyin.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="one">%s yeni gönderi</item>
+        <item quantity="other">%s yeni gönderi</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="one">Aktivite</item>
+        <item quantity="other">Aktiviteler</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="one">%1$s, %2$s ve tanıdığınız diğer %d kişiyi videolarını izlemek için takip edin.</item>
+        <item quantity="other">%1$s, %2$s ve tanıdığınız diğer %d kişiyi videolarını izlemek için takip edin.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="one">%d diğer</item>
+        <item quantity="other">%d diğer</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="one">%1$s, %2$s ve tanıdığınız diğer %3$d kişiyi videolarını izlemek için takip edin.</item>
+        <item quantity="other">%1$s, %2$s ve tanıdığınız diğer %3$d kişiyi videolarını izlemek için takip edin.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="one">Mesaj</item>
+        <item quantity="other">Mesajlar</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="one">Yeni etkinlik</item>
+        <item quantity="other">Yeni etkinlikler</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="one">%s üye</item>
+        <item quantity="other">%s üye</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="one">%s gönderi</item>
+        <item quantity="other">%s gönderi</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="one">%d anahtar kelime</item>
+        <item quantity="other">%d anahtar kelime</item>
+    </plurals>
+    <plurals name="h1">
+        <item quantity="one">{0} ({1}) sizi takip etmeye başladı. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">{0} ({1}) sizi takip etmeye başladı. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="h2">
+        <item quantity="one">{0} ({1}) sizi takip etmeye başladı. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">{0} ({1}) sizi takip etmeye başladı. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="h3">
+        <item quantity="one">{0} ({1}) sizi takip etmeye başladı. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">{0} ({1}) sizi takip etmeye başladı. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="h4">
+        <item quantity="one">{0} ({1}) sizi takip etmeye başladı. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">{0} ({1}) sizi takip etmeye başladı. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="h5">
+        <item quantity="one">videonuza yorum yaptı. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">videonuza yorum yaptı. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="h6">
+        <item quantity="one">videonuza yorum yaptı. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">videonuza yorum yaptı. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="h7">
+        <item quantity="one">videonuza yorum yaptı. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">videonuza yorum yaptı. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="h8">
+        <item quantity="one">videonuza yorum yaptı. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">videonuza yorum yaptı. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="h9">
+        <item quantity="one">sizinle bir Düet oluşturdu. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">sizinle bir Düet oluşturdu. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="h_">
+        <item quantity="one">sizinle bir Düet oluşturdu. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">sizinle bir Düet oluşturdu. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="ha">
+        <item quantity="one">sizinle bir Düet oluşturdu. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">sizinle bir Düet oluşturdu. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="hb">
+        <item quantity="one">sizinle bir Düet oluşturdu. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">sizinle bir Düet oluşturdu. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="hc">
+        <item quantity="one">videonuzu beğendi. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">videonuzu beğendi. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="hd">
+        <item quantity="one">videonuzu beğendi. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">videonuzu beğendi. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="he">
+        <item quantity="one">videonuzu beğendi. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">videonuzu beğendi. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="hf">
+        <item quantity="one">videonuzu beğendi. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">videonuzu beğendi. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="hg">
+        <item quantity="one">bir yorumda sizden bahsetti. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">bir yorumda sizden bahsetti. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="hh">
+        <item quantity="one">bir yorumda sizden bahsetti. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">bir yorumda sizden bahsetti. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="hi">
+        <item quantity="one">bir yorumda sizden bahsetti. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">bir yorumda sizden bahsetti. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="hj">
+        <item quantity="one">bir yorumda sizden bahsetti. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">bir yorumda sizden bahsetti. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="hk">
+        <item quantity="one">[{3} karşılıklı bağlantı]</item>
+        <item quantity="other">[{3} karşılıklı bağlantı]</item>
+    </plurals>
+    <plurals name="hl">
+        <item quantity="one">[ikisi de {2} ve {3} diğer kişi tarafından takip ediliyor]</item>
+        <item quantity="other">[ikisi de {2} ve {3} diğer kişi tarafından takip ediliyor]</item>
+    </plurals>
+    <plurals name="hm">
+        <item quantity="one">[ikisi de {2} ve {3} diğer kişiyi takip ediyor]</item>
+        <item quantity="other">[ikisi de {2} ve {3} diğer kişiyi takip ediyor]</item>
+    </plurals>
+    <plurals name="hn">
+        <item quantity="one">{0} sizi takip etmeye başladı. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">{0} sizi takip etmeye başladı. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="ho">
+        <item quantity="one">{0} sizi takip etmeye başladı. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">{0} sizi takip etmeye başladı. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="hp">
+        <item quantity="one">{0} sizi takip etmeye başladı. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">{0} sizi takip etmeye başladı. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="hq">
+        <item quantity="one">{0} sizi takip etmeye başladı. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">{0} sizi takip etmeye başladı. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="hr">
+        <item quantity="one">[ikisi de {2} ve {3} diğer kişi ile arkadaş]</item>
+        <item quantity="other">[ikisi de {2} ve {3} diğer kişi ile arkadaş]</item>
+    </plurals>
+    <plurals name="hs">
+        <item quantity="one">{0} ({1}) size bir takip isteği gönderdi. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">{0} ({1}) size bir takip isteği gönderdi. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="ht">
+        <item quantity="one">{0} ({1}) size bir takip isteği gönderdi. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">{0} ({1}) size bir takip isteği gönderdi. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="hu">
+        <item quantity="one">{0} ({1}) size bir takip isteği gönderdi. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">{0} ({1}) size bir takip isteği gönderdi. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="hv">
+        <item quantity="one">{0} ({1}) size bir takip isteği gönderdi. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">{0} ({1}) size bir takip isteği gönderdi. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="hw">
+        <item quantity="one">{0} ({1}) sizi takip etmeye başladı. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">{0} ({1}) sizi takip etmeye başladı. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="hx">
+        <item quantity="one">{0} ({1}) sizi takip etmeye başladı. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">{0} ({1}) sizi takip etmeye başladı. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="hy">
+        <item quantity="one">{0} ({1}) sizi takip etmeye başladı. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">{0} ({1}) sizi takip etmeye başladı. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="hz">
+        <item quantity="one">{0} ({1}) sizi takip etmeye başladı. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">{0} ({1}) sizi takip etmeye başladı. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="i0">
+        <item quantity="one">{0} takip isteğinizi kabul etti. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">{0} takip isteğinizi kabul etti. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="i1">
+        <item quantity="one">{0} takip isteğinizi kabul etti. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">{0} takip isteğinizi kabul etti. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="i2">
+        <item quantity="one">{0} takip isteğinizi kabul etti. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">{0} takip isteğinizi kabul etti. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="i3">
+        <item quantity="one">{0} takip isteğinizi kabul etti. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">{0} takip isteğinizi kabul etti. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="i4">
+        <item quantity="one">{0} size bir takip isteği gönderdi. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">{0} size bir takip isteği gönderdi. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="i5">
+        <item quantity="one">{0} size bir takip isteği gönderdi. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">{0} size bir takip isteği gönderdi. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="i6">
+        <item quantity="one">{0} size bir takip isteği gönderdi. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">{0} size bir takip isteği gönderdi. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="i7">
+        <item quantity="one">{0} size bir takip isteği gönderdi. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">{0} size bir takip isteği gönderdi. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="i8">
+        <item quantity="one">yorumunuzu cevapladı. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">yorumunuzu cevapladı. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="i9">
+        <item quantity="one">yorumunuzu cevapladı. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">yorumunuzu cevapladı. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="i_">
+        <item quantity="one">yorumunuzu cevapladı. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">yorumunuzu cevapladı. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="ia">
+        <item quantity="one">yorumunuzu cevapladı. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">yorumunuzu cevapladı. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="ib">
+        <item quantity="one">yorumunuza bir video ile yanıt verdi. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">yorumunuza bir video ile yanıt verdi. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="ic">
+        <item quantity="one">yorumunuza bir video ile yanıt verdi. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">yorumunuza bir video ile yanıt verdi. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="id">
+        <item quantity="one">yorumunuza bir video ile yanıt verdi. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">yorumunuza bir video ile yanıt verdi. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="ie">
+        <item quantity="one">yorumunuza bir video ile yanıt verdi. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">yorumunuza bir video ile yanıt verdi. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="if">
+        <item quantity="one">bir videoda sizden bahsetti. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">bir videoda sizden bahsetti. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="ig">
+        <item quantity="one">bir videoda sizden bahsetti. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">bir videoda sizden bahsetti. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="ih">
+        <item quantity="one">bir videoda sizden bahsetti. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">bir videoda sizden bahsetti. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="ii">
+        <item quantity="one">bir videoda sizden bahsetti. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">bir videoda sizden bahsetti. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="ij">
+        <item quantity="one">videonuza oy verdi. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">videonuza oy verdi. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="ik">
+        <item quantity="one">sizin de yanıt verdiğiniz bir yoruma bir video ile yanıt verdi. {3} karşılıklı bağlantıya sahipsiniz.</item>
+        <item quantity="other">sizin de yanıt verdiğiniz bir yoruma bir video ile yanıt verdi. {3} karşılıklı bağlantıya sahipsiniz.</item>
+    </plurals>
+    <plurals name="il">
+        <item quantity="one">sizin de yanıt verdiğiniz bir yoruma bir video ile yanıt verdi. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">sizin de yanıt verdiğiniz bir yoruma bir video ile yanıt verdi. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="im">
+        <item quantity="one">sizin de yanıt verdiğiniz bir yoruma bir video ile yanıt verdi. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">sizin de yanıt verdiğiniz bir yoruma bir video ile yanıt verdi. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="in">
+        <item quantity="one">sizin de yanıt verdiğiniz bir yoruma bir video ile yanıt verdi. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">sizin de yanıt verdiğiniz bir yoruma bir video ile yanıt verdi. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="io">
+        <item quantity="one">videonuza oy verdi. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+        <item quantity="other">videonuza oy verdi. {2} ve {3} diğer kişi bu kullanıcıyı takip ediyor.</item>
+    </plurals>
+    <plurals name="ip">
+        <item quantity="one">videonuza oy verdi. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+        <item quantity="other">videonuza oy verdi. {2} ve {3} diğer kişi bu kullanıcı ile arkadaş.</item>
+    </plurals>
+    <plurals name="iq">
+        <item quantity="one">videonuza oy verdi. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+        <item quantity="other">videonuza oy verdi. İkiniz de {2} ve {3} diğer kişiyi takip ediyorsunuz.</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="one">%d CANLI Yayın videosu</item>
+        <item quantity="other">%d CANLI Yayın videosu</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="one">%s gün içinde bitiyor</item>
+        <item quantity="other">%s gün içinde bitiyor</item>
+    </plurals>
+    <plurals name="it">
+        <item quantity="one">%d öge</item>
+        <item quantity="other">%d öge</item>
+    </plurals>
+    <plurals name="iu">
+        <item quantity="one">%s ve %d diğer kişiye gönderiliyor...</item>
+        <item quantity="other">%s ve %d diğer kişilere gönderiliyor...</item>
+    </plurals>
+    <plurals name="iv">
+        <item quantity="one">%s ve %d diğer kişiye gönderildi</item>
+        <item quantity="other">%s ve %d diğer kişiye gönderildi</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="one">En fazla %1$d medya dosyası seçebilirsiniz</item>
+        <item quantity="other">En fazla %1$d medya dosyası seçebilirsiniz</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="one">%d istek</item>
+        <item quantity="other">%d istek</item>
+    </plurals>
+    <plurals name="iz">
+        <item quantity="one">%d video daha gönderebilirsiniz</item>
+        <item quantity="other">%d video daha gönderebilirsiniz</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="one">Şarkının &quot;yeni&quot; seçimi kaldırılsın mı?</item>
+        <item quantity="other">Şarkıların &quot;yeni&quot; seçimi kaldırılsın mı?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="one">%d şarkının &quot;yeni&quot; seçimi kaldırıldı</item>
+        <item quantity="other">%d şarkının &quot;yeni&quot; seçimi kaldırıldı</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="one">%d şarkı</item>
+        <item quantity="other">%d şarkı</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="one">%d sanatçı</item>
+        <item quantity="other">%d sanatçı</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="one">%d ortak bağlantı</item>
+        <item quantity="other">%d ortak bağlantı</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="one">%d ortak bağlantı</item>
+        <item quantity="other">%d ortak bağlantı</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="one">Artık en fazla %d dakika uzunluğunda videolar yükleyebilirsiniz!</item>
+        <item quantity="other">Artık en fazla %d dakika uzunluğunda videolar yükleyebilirsiniz!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="one">%d dakikalık video ile tanışın</item>
+        <item quantity="other">%d dakikalık video ile tanışın</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="one">%d ortak bağlantı</item>
+        <item quantity="other">%d ortak bağlantı</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="one">%d yorum</item>
+        <item quantity="other">%d yorum</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="one">%d yorumu görüntüle</item>
+        <item quantity="other">%d yorumun tümünü görüntüle</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="one">{nickname} ve {number_1} diğer kişi</item>
+        <item quantity="other">{nickname} ve {number_1} diğer kişi</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="one">{number} arkadaşınız bugünkü Now gönderisini paylaştı</item>
+        <item quantity="other">{number} arkadaşınız bugünkü Now gönderisini paylaştı</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="one">%1$s ve %2$d diğer kişi Now içeriğini paylaştı</item>
+        <item quantity="other">%1$s ve %2$d diğer kişi Now içeriğini paylaştı</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="one">{nickname} ve {number_1} diğer kişi</item>
+        <item quantity="other">{nickname} ve {number_1} diğer kişi</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="one">Rastgele anlar paylaşmak için TikTok Now&apos;daki {number} arkadaşınıza katılın</item>
+        <item quantity="other">Rastgele anlar paylaşmak için TikTok Now&apos;daki {number} arkadaşınıza katılın</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="one">{number} dakika içinde Now gönderinizi paylaşın</item>
+        <item quantity="other">{number} dakika içinde Now gönderinizi paylaşın</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="one">Now paylaşmak için %d dakika kaldı.</item>
+        <item quantity="other">Now paylaşmak için %d dakika kaldı.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="one">%d ortak arkadaş</item>
+        <item quantity="other">%d ortak arkadaş</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="one">%d beğeni</item>
+        <item quantity="other">%d beğeni</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="one">{1}, {2}, {3} ve {number} diğer kişi az önce bir Now paylaştı.</item>
+        <item quantity="other">{1}, {2}, {3} ve {number} diğer kişi az önce bir Now paylaştı.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="one">%d tepki</item>
+        <item quantity="other">%d tepki</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="one">%d görüntüleme</item>
+        <item quantity="other">%d görüntüleme</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="one">%d görüntüleme</item>
+        <item quantity="other">%d görüntüleme</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="one">%1$s ve %2$s diğer kişi</item>
+        <item quantity="other">%1$s ve %2$s diğer kişi</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="one">Lemon8 ile senkronize edilen gönderinizde henüz ses yok. Ses ekleyerek izleyenler için gönderinizi daha ilgi çekici hâle getirin.</item>
+        <item quantity="other">Lemon8 ile senkronize edilen gönderilerinizde henüz ses yok. Ses ekleyerek gönderilerinizi izleyiciler için daha ilgi çekici hâle getirin.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="one">Gönderinizi zenginleştirmek için ses ekleyin</item>
+        <item quantity="other">Gönderilerinizi zenginleştirmek için ses ekleyin</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="one">fotoğrafınızı beğendi.</item>
+        <item quantity="other">fotoğraflarınızı beğendi.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="one">fotoğrafınıza oy verdi.</item>
+        <item quantity="other">fotoğraflarınıza oy verdi.</item>
+    </plurals>
+    <plurals name="jt">
+        <item quantity="one">Video ekle (%s)</item>
+        <item quantity="other">Video ekle (%s)</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="one">%d bölüm</item>
+        <item quantity="other">%d bölüm</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="one">%d kısım</item>
+        <item quantity="other">%d kısım</item>
+    </plurals>
+    <plurals name="jw">
+        <item quantity="one">Videoyu kaldır (%s)</item>
+        <item quantity="other">Videoları kaldır (%s)</item>
+    </plurals>
+    <plurals name="jx">
+        <item quantity="one">%s görüntüleme</item>
+        <item quantity="other">%s görüntüleme</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="one">%d kez daha gönderebilirsiniz</item>
+        <item quantity="other">%d kez daha gönderebilirsiniz</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="one">%d izleyici istekte bulundu</item>
+        <item quantity="other">%d izleyici istekte bulundu</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="one">Erişim %s gün içinde yeniden sağlanacak</item>
+        <item quantity="other">Erişim %s gün içinde yeniden sağlanacak</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="one">En iyiler sıralamasındaki 1. izleyiciden %s Jeton</item>
+        <item quantity="other">En iyiler sıralamasındaki 1. izleyiciden %s Jeton</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="one">En iyiler sıralamasındaki 2. izleyiciden %s Jeton</item>
+        <item quantity="other">En iyiler sıralamasındaki 2. izleyiciden %s Jeton</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="one">%s takipçi</item>
+        <item quantity="other">%s takipçi</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="one">Mevcut %s ögeyi satın al</item>
+        <item quantity="other">Mevcut {number} ögeyi satın al</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="one">Mevcut %s ögeyi satın al</item>
+        <item quantity="other">Mevcut {number} ögeyi satın al</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="one">CANLI Yayın içerik üreticisine %s Jeton verildi</item>
+        <item quantity="other">CANLI Yayın içerik üreticisine %s Jeton verildi</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="one">%s beğeni</item>
+        <item quantity="other">%s beğeni</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="one">%s izleyici</item>
+        <item quantity="other">%s izleyici</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="one">%s paylaşım. Videoyu paylaş</item>
+        <item quantity="other">%s paylaşım. Videoyu paylaş</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="one">%1$s oy verildi, %2$s</item>
+        <item quantity="other">%1$s oy verildi, %2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="one">%1$s oy ile %2$s, %3$s oy ile %4$s</item>
+        <item quantity="other">%1$s oy ile %2$s, %3$s oy ile %4$s</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="one">%d dakika sonra</item>
+        <item quantity="other">%d dakika sonra</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="one">Seviye atlamak için %d deneyim puanı daha</item>
+        <item quantity="other">Seviye atlamak için %d deneyim puanı daha</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="one">Ödülleriniz, %d gün içinde uyku durumuna geçecek</item>
+        <item quantity="other">Ödülleriniz, %d gün içinde uyku durumuna geçecek</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="one">CANLI Yayın sonlandırılsın mı? %s izleyici şu anda izliyor.</item>
+        <item quantity="other">CANLI Yayın sonlandırılsın mı? %s izleyici şu anda izliyor.</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="one">CANLI Yayın sonlandırılsın mı? %s izleyici şu anda izliyor.</item>
+        <item quantity="other">CANLI Yayın sonlandırılsın mı? %s izleyici şu anda izliyor.</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="one">%s yeni mesaj</item>
+        <item quantity="other">%s yeni mesaj</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="one">Arka arkaya {num} gün ortak yayın yapıldı</item>
+        <item quantity="other">Arka arkaya {num} gün ortak yayın yapıldı</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="one">{number} Jeton eksik</item>
+        <item quantity="other">{number} Jeton eksik</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="one">Son {number} gündeki en yüksek miktar: {amount}Jeton</item>
+        <item quantity="other">Son {number} gündeki en yüksek miktar: {amount}Jeton</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="one">Önerilen: {amount}Jeton</item>
+        <item quantity="other">Önerilen: {amount}Jeton</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="one">Şu anda {number} Jetonunuz var. Daha fazla Jeton için yükleme yapabilirsiniz.</item>
+        <item quantity="other">Şu anda {number} Jetonunuz var. Daha fazla Jeton için yükleme yapabilirsiniz.</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="one">Doğru tahmin (%d)</item>
+        <item quantity="other">Doğru tahminler (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="one">%s doğru tahmin</item>
+        <item quantity="other">%s doğru tahmin</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="one">%s izleyici tahmin etti��</item>
+        <item quantity="other">%s izleyici tahmin etti��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="one">Çoğu izleyici %s kelime tahmin etti</item>
+        <item quantity="other">Çoğu izleyici %s kelime tahmin etti</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="one">Hiçbir izleyici kelimeyi tahmin edemedi</item>
+        <item quantity="other">Hiçbir izleyici kelimeleri tahmin edemedi</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="one">Bir kelime çizmek için %s dakika</item>
+        <item quantity="other">Bir kelime çizmek için %s dakika</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="one">�� %d izleyici %s kelimesini tahmin etti</item>
+        <item quantity="other">�� %d izleyici %s kelimesini tahmin etti</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="one">%s kelime tahmin ettim!</item>
+        <item quantity="other">%s kelime tahmin ettim!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="one">%s kelime tahmin ettiniz</item>
+        <item quantity="other">%s kelime tahmin ettiniz</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="one">Alışveriş yapan {0:string} ve {1:string} diğer kişi satın alıyor</item>
+        <item quantity="other">Alışveriş yapan {0:string} ve {1:string} diğer kişi satın alıyor</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="one">%d görsel çok küçük. Görseller en az 256 x 256 piksel olmalıdır.</item>
+        <item quantity="other">%d görsel çok küçük. Görseller en az 256 x 256 piksel olmalıdır.</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="one">%d izleyici</item>
+        <item quantity="other">%d izleyici</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="one">%d Jetonunuz var.</item>
+        <item quantity="other">%d Jetonunuz var.</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="one">Bu Hediyeyi göndermek için %d tane daha Jeton karşılığında %@ tutarında para bozdurabilirsiniz.</item>
+        <item quantity="other">Bu Hediyeyi göndermek için %d tane daha Jeton karşılığında %@ tutarında para bozdurabilirsiniz.</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="one">CANLI Yayın Hediyeleri bakiyesi {{num}} Jetona dönüştürüldü</item>
+        <item quantity="other">CANLI Yayın Hediyeleri bakiyesi {{num}} Jetona dönüştürüldü</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="one">%1$d Jeton eksiğiniz var. %2$s ile Jeton alıp %3$s göndermek istiyor musunuz?</item>
+        <item quantity="other">%1$d Jeton eksiğiniz var. %2$s ile Jeton alıp %3$s göndermek istiyor musunuz?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="one">%d Jeton aldınız ve %s hediyesini gönderdiniz</item>
+        <item quantity="other">%d Jeton aldınız ve %s hediyesini gönderdiniz</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="one">%s üye</item>
+        <item quantity="other">%s üye</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="one">{num} gündür sizinle birlikte</item>
+        <item quantity="other">{num} gündür sizinle birlikte</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="one">Aktif kalmak için {num} saat içinde 1 üye puanı kazanın</item>
+        <item quantity="other">Aktif kalmak için {num} saat içinde 1 üye puanı kazanın</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="one">%1$d Jeton karşılığında %2$d kez daha gönderilebilir.</item>
+        <item quantity="other">%1$d Jeton karşılığında %2$d kez daha gönderilebilir.</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="one">%d takipçi şu anda aktif</item>
+        <item quantity="other">%d takipçi şu anda aktif</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="one">{number} arkadaşınız CANLI Yayında. Birlikte CANLI Yayın yapmak için arkadaşınızı davet edin!</item>
+        <item quantity="other">{number} arkadaşınız CANLI Yayında. Birlikte CANLI Yayın yapmak için arkadaşlarınızı davet edin!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="one">Bakiye yükleyerek fazladan {num} Jetonun kilidini açın</item>
+        <item quantity="other">Bakiye yükleyerek fazladan {num} Jetonun kilidini açın</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="one">{num} gün</item>
+        <item quantity="other">{num} gün</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="one">{num} Jetonun kilidini açın</item>
+        <item quantity="other">{num} Jetonun kilidini açın</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="one">{num} Jeton</item>
+        <item quantity="other">{num} Jeton</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="one">Ekstra {num} Jetonun kilidini açacaksınız.</item>
+        <item quantity="other">Ekstra {num} Jetonun kilidini açacaksınız.</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="one">{num_1} Jeton daha yükleyin.</item>
+        <item quantity="other">Ekstra {num_1} Jetonun kilidini açacaksınız.</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="one">Ekstra {num} Jetonun kilidini açmak için bakiye yükleyin</item>
+        <item quantity="other">Ekstra {num} Jetonun kilidini açmak için bakiye yükleyin</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="one">Son {number} gün</item>
+        <item quantity="other">Son {number} gün</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="one">{gameName} ve {number} diğer oyunun fiyatı değişti. Daha fazla bilgi almak için ortaklık merkezini ziyaret edin.</item>
+        <item quantity="other">{gameName} ve {number} diğer oyunun fiyatı değişti. Daha fazla bilgi almak için ortaklık merkezini ziyaret edin.</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="one">Program Şartlarını ihlal ettiğiniz için CANLI Yayınınızdaki hediye özelliği %s gün süreyle askıya alındı.</item>
+        <item quantity="other">Program Şartlarını ihlal ettiğiniz için CANLI Yayınınızdaki hediye özelliği %s gün süreyle askıya alındı.</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="one">Bu CANLI Yayında hediye özelliği askıya alındı. Özellik, %s dakika sonra geri sağlanacak.</item>
+        <item quantity="other">Bu CANLI Yayında hediye özelliği askıya alındı. Özellik, %s dakika sonra geri sağlanacak.</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="one">Hediye özelliği {0} gün süreyle askıya alındı.</item>
+        <item quantity="other">Hediye özelliği {0} gün süreyle askıya alındı.</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="one">Hediye özelliği %s gün süreyle askıya alındı</item>
+        <item quantity="other">Hediye özelliği %s gün süreyle askıya alındı</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="one">%d Jeton kullanarak gönder</item>
+        <item quantity="other">%d Jeton kullanarak gönder</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="one">Yükleme tamamlandı ve artık %d Jetonunuz var. Desteğinizi göstermek için bu Hediyeyi gönderin!</item>
+        <item quantity="other">Yükleme tamamlandı ve artık %d Jetonunuz var. Desteğinizi göstermek için bu Hediyeyi gönderin!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="one">Dönüştürme tamamlandı ve artık %d Jetonunuz var. Desteğinizi göstermek için bu Hediyeyi gönderin!</item>
+        <item quantity="other">Dönüştürme tamamlandı ve artık %d Jetonunuz var. Desteğinizi göstermek için bu Hediyeyi gönderin!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="one">{0:user}, {1:gift} ({2:string} puan) {3:string} gönderdi ve bu gönderdiği ilk Hediye! Teşekkürlerinizi iletin!</item>
+        <item quantity="other">{0:user}, {1:gift} ({2:string} puan) {3:string} gönderdi ve bu gönderdiği ilk Hediye! Teşekkürlerinizi iletin!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="one">{0:user}, {1:gift} ({2:string} puan) {3:string} gönderdi</item>
+        <item quantity="other">{0:user}, {1:gift} ({2:string} puan) {3:string} gönderdi</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="one">{0:user}, {1:gift} ({2:string} puan) {3:string} gönderdi</item>
+        <item quantity="other">{0:user}, {1:gift} ({2:string} puan) {3:string} gönderdi</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="one">{0:user}, {1:gift} ({2:string} puan) {3:string} gönderdi ve bu turda içerik üreticisiyle birlikte ilk defa {4:city} şehrine gitti!</item>
+        <item quantity="other">{0:user}, {1:gift} ({2:string} puan) {3:string} gönderdi ve bu turda içerik üreticisiyle birlikte ilk defa {4:city} şehrine gitti!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="one">Hediye ayrıntıları (toplam {{num}} işlem)</item>
+        <item quantity="other">Hediye ayrıntıları (toplam {{num}} işlem)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="one">{amount}Jeton</item>
+        <item quantity="other">{amount}Jeton</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="one">Hediyeler</item>
+        <item quantity="other">Hediyeler</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="one">%d Jeton</item>
+        <item quantity="few">%d монети</item>
+        <item quantity="many">%d монет</item>
+        <item quantity="other">%d Jeton</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="one">%s Hediye aldınız. Teşekkür etmeyi unutmayın.</item>
+        <item quantity="other">%s Hediye aldınız. Teşekkür etmeyi unutmayın.</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="one">%s Hediye aldınız</item>
+        <item quantity="other">%s Hediye aldınız</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="one">%s Jetona dönüştürme işlemi tamamlansın mı?</item>
+        <item quantity="other">%s Jetona dönüştürme işlemi tamamlansın mı?</item>
+    </plurals>
+    <plurals name="lz">
+        <item quantity="one">%d Jetona dönüştürme işlemi tamamlansın mı?</item>
+        <item quantity="other">%d Jetona dönüştürme işlemi tamamlansın mı?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="one">CANLI Yayın Yap (%d sn)</item>
+        <item quantity="other">CANLI Yayın Yap (%d sn)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="one">%s misafir isteği</item>
+        <item quantity="other">%s misafir isteği</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="one">%s istek</item>
+        <item quantity="other">%s istek</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="one">%s puan</item>
+        <item quantity="other">%s puan</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="one">%2$s. sıraya ulaşmak için %1$s puan</item>
+        <item quantity="other">%2$s. sıraya ulaşmak için %1$s puan</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="one">%d izleyici talep ediyor</item>
+        <item quantity="other">%d izleyici talep ediyor</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="one">Misafir olarak LIVE yayın yapmanız %d gün sonrasına kadar askıya alındı</item>
+        <item quantity="few">Тобі заборонено приєднуватися до прямого ефіру як гість протягом %d днів</item>
+        <item quantity="many">Тобі заборонено приєднуватися до прямого ефіру як гість протягом %d днів</item>
+        <item quantity="other">Misafir olarak LIVE yayın yapmanız %d gün sonrasına kadar askıya alındı</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="one">Misafir olarak LIVE yayın yapmanız %d saat sonrasına kadar askıya alındı</item>
+        <item quantity="few">Тобі заборонено приєднуватися до прямого ефіру як гість протягом %d годин</item>
+        <item quantity="many">Тобі заборонено приєднуватися до прямого ефіру як гість протягом %d годин</item>
+        <item quantity="other">Misafir olarak LIVE yayın yapmanız %d saat sonrasına kadar askıya alındı</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="one">Misafir olarak LIVE yayın yapmanız %d dakika sonrasına kadar askıya alındı</item>
+        <item quantity="few">Тобі заборонено приєднуватися до прямого ефіру як гість протягом %d хвилин</item>
+        <item quantity="many">Тобі заборонено приєднуватися до прямого ефіру як гість протягом %d хвилин</item>
+        <item quantity="other">Misafir olarak LIVE yayın yapmanız %d dakika sonrasına kadar askıya alındı</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="one">Misafir olarak LIVE yayın yapmanız %d saniye sonrasına kadar askıya alındı</item>
+        <item quantity="few">Тобі заборонено приєднуватися до прямого ефіру як гість протягом %d секунд</item>
+        <item quantity="many">Тобі заборонено приєднуватися до прямого ефіру як гість протягом %d секунд</item>
+        <item quantity="other">Misafir olarak LIVE yayın yapmanız %d saniye sonrasına kadar askıya alındı</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="one">Araç</item>
+        <item quantity="other">Araçlar</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="one">[username] ve [number] takipçi sizi CANLI Yayın yapmanız için dürttü</item>
+        <item quantity="other">[username] ve [number] takipçi sizi CANLI Yayın yapmanız için dürttü</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="one">[username] ve [number] takipçi yakın zamanda sizi CANLI Yayın yapmanız için dürttü</item>
+        <item quantity="other">[username] ve [number] takipçi yakın zamanda sizi CANLI Yayın yapmanız için dürttü</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="one">Daveti kabul etmeniz halinde bu CANLI Yayın içerik üreticisi, geçerli ortak yayınınıza katılır.</item>
+        <item quantity="other">Daveti kabul etmeniz halinde bu CANLI Yayın içerik üreticileri, geçerli ortak yayınınıza katılır.</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="one">{number} gün</item>
+        <item quantity="other">{number} gün</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="one">Bir sonraki adımda sayfadan ayrıldıktan sonra kuponunuz yalnızca {number} gün içinde tekrar kullanılabilir olacaktır.</item>
+        <item quantity="other">Bir sonraki adımda sayfadan ayrıldıktan sonra kuponunuz yalnızca {number} gün içinde tekrar kullanılabilir olacaktır.</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="one">Bir sonraki adımda sayfadan ayrıldıktan sonra kuponunuz yalnızca {number} saat içinde tekrar kullanılabilir olacaktır.</item>
+        <item quantity="other">Bir sonraki adımda sayfadan ayrıldıktan sonra kuponunuz yalnızca {number} saat içinde tekrar kullanılabilir olacaktır.</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="one">Bir sonraki adımda sayfadan ayrıldıktan sonra kuponunuz yalnızca {number} dakika içinde tekrar kullanılabilir olacaktır.</item>
+        <item quantity="other">Bir sonraki adımda sayfadan ayrıldıktan sonra kuponunuz yalnızca {number} dakika içinde tekrar kullanılabilir olacaktır.</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="one">Kupon {number} gün sonra tekrar kullanılabilir olur</item>
+        <item quantity="other">Kupon {number} gün içinde tekrar kullanılabilir olur</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="one">Kupon {number} saat sonra tekrar kullanılabilir olur</item>
+        <item quantity="other">Kupon {number} saat içinde tekrar kullanılabilir olur</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="one">Kupon {number} dakika sonra tekrar kullanılabilir olur</item>
+        <item quantity="other">Kupon {number} dakika sonra tekrar kullanılabilir olur</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="one">%s beğeni</item>
+        <item quantity="other">%s beğeni</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="one">beğeni</item>
+        <item quantity="few">вподобання</item>
+        <item quantity="many">вподобань</item>
+        <item quantity="other">beğeniler</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="one">%s beğeni</item>
+        <item quantity="few">%s вподобання</item>
+        <item quantity="many">%s вподобань</item>
+        <item quantity="other">%s beğeni</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="one">%d sn</item>
+        <item quantity="other">%d sn</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="one">CANLI başvurunuz onaylanmadı. %d gün sonra tekrar başvurabilirsiniz.</item>
+        <item quantity="other">CANLI başvurunuz onaylanmadı. %d gün sonra tekrar başvurabilirsiniz.</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="one">CANLI Yayın erişimi için başvurdunuz ve önümüzdeki 7 gün boyunca CANLI Yayın yapabilirsiniz. Kesintisiz erişim kazanmak için Topluluk Kurallarına uymayı ve ilk haftanızda %d saat CANLI Yayın yapmayı unutmayın.</item>
+        <item quantity="other">CANLI Yayın erişimi için başvurdunuz ve önümüzdeki 7 gün boyunca CANLI Yayın yapabilirsiniz. Kesintisiz erişim kazanmak için Topluluk Kurallarına uymayı ve ilk haftanızda %d saat CANLI Yayın yapmayı unutmayın.</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="one">Devam eden CANLI Yayın erişimine sahip olmak için %s itibariyle %d saat daha CANLI Yayın yapın</item>
+        <item quantity="other">Devam eden CANLI Yayın erişimine sahip olmak için %s itibariyle %d saat daha CANLI Yayın yapın</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="one">Kalıcı CANLI Yayın erişimine sahip olmak için %2$s itibariyle %1$s saat daha CANLI Yayın yapın</item>
+        <item quantity="other">Kalıcı CANLI Yayın erişimine sahip olmak için %2$s itibariyle %1$s saat daha CANLI Yayın yapın</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="one">%s puan</item>
+        <item quantity="other">%s puan</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="one">{%s host username} adlı kullanıcının, bu haftanın en iyi {%n}. CANLI Yayın içerik üreticisi olmak için {%d} Jetona ihtiyacı var!</item>
+        <item quantity="other">{%s host username} adlı kullanıcının, bu haftanın en iyi {%n}. CANLI Yayın içerik üreticisi olmak için {%d} Jetona ihtiyacı var!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="one">1 gün kaldı. 3. CANLI Yayın içerik üreticisi olmak ve videonuzda özel bir rozet kazanmak için {%d} Elmas daha kazanın.</item>
+        <item quantity="other">1 gün kaldı. 3. CANLI Yayın içerik üreticisi olmak ve videonuzda özel bir rozet kazanmak için {%d} Elmas daha kazanın.</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="one">1 gün kaldı. CANLI Yayınınızın daha fazla potansiyel izleyiciye ulaşması için {%d} Elmas daha kazanın.</item>
+        <item quantity="other">1 gün kaldı. CANLI Yayınınızın daha fazla potansiyel izleyiciye ulaşması için {%d} Elmas daha kazanın.</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="one">1 gün kaldı. CANLI Yayın içerik üreticilerine özel benzersiz ödüller kazanmak için {%d} Elmas daha kazanın!</item>
+        <item quantity="other">1 gün kaldı. CANLI Yayın içerik üreticilerine özel benzersiz ödüller kazanmak için {%d} Elmas daha kazanın!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="one">Şu an 1 takipçi aktif</item>
+        <item quantity="other">Şu an %s takipçi aktif</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="one">%s Jeton gerekli</item>
+        <item quantity="other">%s Jeton gerekli</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="one">%d abone izliyor</item>
+        <item quantity="other">%d abone izliyor</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="one">3 dakika kaldı. 3. CANLI Yayın içerik üreticisi olmak ve özel bir rozet kazanmak için {%d} Elmas daha kazanın.</item>
+        <item quantity="other">3 dakika kaldı. 3. CANLI Yayın içerik üreticisi olmak ve özel bir rozet kazanmak için {%d} Elmas daha kazanın.</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="one">3 dakika kaldı. CANLI Yayınınızın daha fazla potansiyel izleyiciye ulaşması için {%d} Elmas daha kazanın.</item>
+        <item quantity="other">3 dakika kaldı. CANLI Yayınınızın daha fazla potansiyel izleyiciye ulaşması için {%d} Elmas daha kazanın.</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="one">3 dakika kaldı. Popüler CANLI Yayın içerik üreticilerine özel benzersiz ödüller kazanmak için {%d} Elmas daha kazanın!</item>
+        <item quantity="other">3 dakika kaldı. Popüler CANLI Yayın içerik üreticilerine özel benzersiz ödüller kazanmak için {%d} Elmas daha kazanın!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="one">%s saat %d dakika</item>
+        <item quantity="other">%s saat %d dakika</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="one">Elmas</item>
+        <item quantity="other">Elmas</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="one">görüntüleme</item>
+        <item quantity="other">görüntülemeler</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="one">Sorular %s dakika sonra cevaplanamaz</item>
+        <item quantity="other">Sorular %s dakika sonra cevaplanamaz</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="one">%ss önce</item>
+        <item quantity="other">%ss önce</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="one">%sdk önce</item>
+        <item quantity="other">%sdk önce</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="one">%s adlı etkinliğin 10 dakika içinde başlaması planlanıyor. %d izleyici etkinliğinizi gördü. Tanıtımınızdan en iyi şekilde yararlanmak için şimdi CANLI Yayın yapın!</item>
+        <item quantity="other">%s adlı etkinliğin 10 dakika içinde başlaması planlanıyor. %d izleyici etkinliğinizi gördü. Tanıtımınızdan en iyi şekilde yararlanmak için şimdi CANLI Yayın yapın!</item>
+    </plurals>
+    <plurals name="nh">
+        <item quantity="one">%d kullanıcı etkinliğinizi görüntüledi. CANLI yayına hazır olun!</item>
+        <item quantity="other">%d kullanıcı etkinliğinizi görüntüledi. CANLI yayına hazır olun!</item>
+    </plurals>
+    <plurals name="ni">
+        <item quantity="one">{numberofviews} kullanıcı etkinliğinizi görüntüledi. CANLI yayına hazır olun!</item>
+        <item quantity="other">{numberofviews} kullanıcı etkinliğinizi görüntüledi. CANLI Yayına hazır olun!</item>
+    </plurals>
+    <plurals name="nj">
+        <item quantity="one">%d kullanıcı etkinliğinizi görüntüledi. CANLI yayına zamanında başlamayı unutmayın.</item>
+        <item quantity="other">%d kullanıcı etkinliğinizi görüntüledi. CANLI yayına zamanında başlamayı unutmayın.</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="one">%s öğretici görevini görüntüleyin</item>
+        <item quantity="other">%s öğretici görevini görüntüleyin</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="one">Hediye verenlerden gelen %d öncelikli talep</item>
+        <item quantity="other">Hediye verenlerden gelen %d öncelikli talep</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="one">%d Jeton</item>
+        <item quantity="other">%d Jeton</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="one">Bu size %d Jetona mal olacak.</item>
+        <item quantity="other">Bu size %d Jetona mal olacak.</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="one">%d Jeton gönderdiniz. %s</item>
+        <item quantity="other">%d Jeton gönderdiniz. %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="one">CANLI Yayın içerik üreticisi, toplamda en az %d Jeton gönderen kullanıcıların taleplerine öncelik verebilir.</item>
+        <item quantity="other">CANLI Yayın içerik üreticisi, toplamda en az %d Jeton gönderen kullanıcıların taleplerine öncelik verebilir.</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="one">CANLI Yayın içerik üreticisi, sizin ve toplamda en az %d Jeton gönderen diğer kullanıcıların taleplerine öncelik verebilir.</item>
+        <item quantity="other">CANLI Yayın içerik üreticisi, sizin ve toplamda en az %d Jeton gönderen diğer kullanıcıların taleplerine öncelik verebilir.</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="one">Bu size %d Jetona mal olacak.</item>
+        <item quantity="other">Bu size %d Jetona mal olacak.</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="one">%2$s saniye sonra %1$s adlı kullanıcıyı kamerasını tekrar açmaya davet edebilirsiniz</item>
+        <item quantity="other">%2$s saniye sonra %1$s adlı kullanıcıyı kamerasını tekrar açmaya davet edebilirsiniz</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="one">%2$s saniye sonra %1$s adlı kullanıcıyı mikrofonunu tekrar açmaya davet edebilirsiniz</item>
+        <item quantity="other">%2$s saniye sonra %1$s adlı kullanıcıyı mikrofonunu tekrar açmaya davet edebilirsiniz</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="one">%d dakika</item>
+        <item quantity="other">%d dakika</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="one">%d saniye</item>
+        <item quantity="other">%d saniye</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="one">%d dak</item>
+        <item quantity="other">%d dak</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="one">%d sn</item>
+        <item quantity="other">%d sn</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="one">1. aşamada tamamlanacak %s görev</item>
+        <item quantity="other">1. aşamada tamamlanacak %s görev</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="one">2. aşamada tamamlanacak %s görev</item>
+        <item quantity="other">2. aşamada tamamlanacak %s görev</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="one">En fazla %s özelleştirilmiş ek fayda oluşturabilirsiniz. Yenisini oluşturmak için bir özelleştirilmiş ek faydayı silin.</item>
+        <item quantity="other">En fazla %s özelleştirilmiş ek fayda oluşturabilirsiniz. Yenisini oluşturmak için bir özelleştirilmiş ek faydayı silin.</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="one">Anket %ssn içinde sona erecektir</item>
+        <item quantity="other">Anket %ssn içinde sona erecektir</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="one">Şimdi oy verin (%ss) :</item>
+        <item quantity="other">Şimdi oy verin (%ss) :</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="one">Bugün %d Jeton harcadınız.</item>
+        <item quantity="other">Bugün %d Jeton harcadınız.</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="one">Daha yavaş bir hızda hediye edin ve %d dakika sonra tekrar deneyin.</item>
+        <item quantity="other">Daha yavaş bir hızda hediye edin ve %d dakika sonra tekrar deneyin.</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="one">{0:user} adlı kullanıcının Portalı kapalı. {1:string} izleyici, Portal aracılığıyla katıldı.</item>
+        <item quantity="other">{0:user} adlı kullanıcının Portalı kapalı. {1:string} izleyici, Portal aracılığıyla katıldı.</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="one">{0:user} adlı kullanıcının Portalı kapalı. {1:string} izleyici, Portal aracılığıyla katıldı! Tebrikler! ��</item>
+        <item quantity="other">{0:user} adlı kullanıcının Portalı kapalı. {1:string} izleyici, Portal aracılığıyla katıldı! Tebrikler! ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="one">{0:user} adlı kullanıcının Portalı kapalı. {1:string} izleyici, Portal aracılığıyla katıldı! Harika! ��</item>
+        <item quantity="other">{0:user} adlı kullanıcının Portalı kapalı. {1:string} izleyici, Portal aracılığıyla katıldı! Harika! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="one">%s görüntüleme</item>
+        <item quantity="other">%s görüntüleme</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="one">Masaüstü web&apos;de {{num}} Jeton satın alındı</item>
+        <item quantity="other">Masaüstü web&apos;de {{num}} Jeton satın alındı</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="one">Uygulamada {{num}} Jeton satın alındı</item>
+        <item quantity="other">Uygulamada {{num}} Jeton satın alındı</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="one">Mobil web&apos;de {{num}} Jeton satın alındı</item>
+        <item quantity="other">Mobil web&apos;de {{num}} Jeton satın alındı</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="one">İtirazınızı inceledik ve iptal sürenizi düzenledik. PC veya Mac ile CANLI Yayın yapma erişiminiz %s gün içinde kurtarılacak.</item>
+        <item quantity="other">İtirazınızı inceledik ve iptal sürenizi düzenledik. PC veya Mac ile CANLI Yayın yapma erişiminiz %s gün içinde kurtarılacak.</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="one">Birden fazla Topluluk Kuralları ihlali nedeniyle PC veya Mac ile CANLI Yayın yapma erişiminiz %s günlüğüne askıya alındı.</item>
+        <item quantity="other">Birden fazla Topluluk Kuralları ihlali nedeniyle PC veya Mac ile CANLI Yayın yapma erişiminiz %s günlüğüne askıya alındı.</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="one">İtirazınızı inceledik ve Hazine Kutusu erişimi iptal sürenizi %s gün olarak düzenledik.</item>
+        <item quantity="other">İtirazınızı inceledik ve Hazine Kutusu erişimi iptal sürenizi %s gün olarak düzenledik.</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="one">Birden fazla Topluluk Kuralları ihlali nedeniyle Hazine Kutusu erişiminiz %s günlüğüne askıya alındı.</item>
+        <item quantity="other">Birden fazla Topluluk Kuralları ihlali nedeniyle Hazine Kutusu erişiminiz %s günlüğüne askıya alındı.</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="one">Son 30 günde %s Elmastan daha fazla Elmas aldınız. Haftalık Sıralamaya girmek için böyle devam edin.</item>
+        <item quantity="other">Son 30 günde %s Elmastan daha fazla Elmas aldınız. Haftalık Sıralamaya girmek için böyle devam edin.</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="one">Bu sıralama son 30 günde {0:string} Elmastan daha az Elmas alan CANLI Yayın içerik üreticilerini göstermektedir.</item>
+        <item quantity="other">Bu sıralama son 30 günde {0:string} Elmastan daha az Elmas alan CANLI Yayın içerik üreticilerini göstermektedir.</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="one">Hediye özelliği %s gün süreyle askıya alındı</item>
+        <item quantity="other">Hediye özelliği %s gün süreyle askıya alındı</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="one">Şu anda {number_1} Jetonunuz var. Ögeyi göndermek için {number_2} Jeton ({amount}) yükleyebilirsiniz.</item>
+        <item quantity="other">Şu anda {number_1} Jetonunuz var. Ögeyi göndermek için {number_2} Jeton ({amount}) yükleyebilirsiniz.</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="one">%s Jeton eksik</item>
+        <item quantity="other">%s Jeton eksik</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="one">{number} davet bağlantısı aldınız</item>
+        <item quantity="other">{number} davet bağlantısı aldınız</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="one">%s kişisinden abonelik davetinizi açın</item>
+        <item quantity="other">%s kişisinden ve diğerlerinden abonelik davetinizi açın</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="one">Talep edildi: %d dakika önce</item>
+        <item quantity="other">Talep edildi: %d dakika önce</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="one">Hediye özelliği %s gün süreyle askıya alındı</item>
+        <item quantity="other">Hediye özelliği %s gün süreyle askıya alındı</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="one">Erişim %s gün içinde yeniden sağlanacak.</item>
+        <item quantity="other">Erişim %s gün içinde yeniden sağlanacak.</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="one">İtirazınızı inceledik ve iptal sürenizi düzenledik. Live Studio erişiminiz %s gün içinde yeniden sağlanacak.</item>
+        <item quantity="other">İtirazınızı inceledik ve iptal sürenizi düzenledik. Live Studio erişiminiz %s gün içinde yeniden sağlanacak.</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="one">İtirazınızı inceledik ve iptal sürenizi düzenledik. Mobil oyun erişiminiz %s gün içinde yeniden sağlanacak.</item>
+        <item quantity="other">İtirazınızı inceledik ve iptal sürenizi düzenledik. Mobil oyun erişiminiz %s gün içinde yeniden sağlanacak.</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="one">İtirazınızı inceledik ve iptal sürenizi düzenledik. PC veya Mac ile CANLI Yayın yapma erişiminiz %s gün içinde yeniden sağlanacak.</item>
+        <item quantity="other">İtirazınızı inceledik ve iptal sürenizi düzenledik. PC veya Mac ile CANLI Yayın yapma erişiminiz %s gün içinde yeniden sağlanacak.</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="one">LIVE Studio erişiminiz, CANLI Yayın kurallarımızı ya da Topluluk Kurallarımızı birden çok kez ihlal ettiğiniz için %s günlüğüne askıya alındı.</item>
+        <item quantity="other">LIVE Studio erişiminiz, CANLI Yayın kurallarımızı ya da Topluluk Kurallarımızı birden çok kez ihlal ettiğiniz için %s günlüğüne askıya alındı.</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="one">Mobil oyun erişiminiz, CANLI Yayın kurallarımızı ya da Topluluk Kurallarımızı birden çok kez ihlal ettiğiniz için %s günlüğüne askıya alındı.</item>
+        <item quantity="other">Mobil oyun erişiminiz, CANLI Yayın kurallarımızı ya da Topluluk Kurallarımızı birden çok kez ihlal ettiğiniz için %s günlüğüne askıya alındı.</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="one">PC ya da Mac ile CANLI Yayın yapma erişiminiz, CANLI Yayın kurallarımızı ya da Topluluk Kurallarımızı birden çok kez ihlal ettiğiniz için %s günlüğüne askıya alındı.</item>
+        <item quantity="other">PC ya da Mac ile CANLI Yayın yapma erişiminiz, CANLI Yayın kurallarımızı ya da Topluluk Kurallarımızı birden çok kez ihlal ettiğiniz için %s günlüğüne askıya alındı.</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="one">Hedef: {&lt;num&gt;} Hediye Veren</item>
+        <item quantity="other">Hedef: {&lt;num&gt;} Hediye Veren</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="one">Hedef: {&lt;num&gt;} hediye verme puanı</item>
+        <item quantity="other">Hedef: {&lt;num&gt;} hediye verme puanı</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="one">Hedef: {&lt;num&gt;} ekip hediye vereni</item>
+        <item quantity="other">Hedef: {&lt;num&gt;} ekip hediye vereni</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="one">Hedef: {&lt;num&gt;} ekip hediye veren puanı</item>
+        <item quantity="other">Hedef: {&lt;num&gt;} ekip hediye veren puanı</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="one">+ &lt;num&gt; maç puanı</item>
+        <item quantity="other">+ &lt;num&gt; maç puanı</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="one">%s izleyici, yorumunuzu en üstte görecek</item>
+        <item quantity="other">%s izleyici, yorumunuzu en üstte görecek</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="one">Yıldızlı Yorumunuz CANLI Yayın sırasında silindi ve bu yorum için yaptığınız [0:string] Jeton ödemesinin iadesini 24 saat içinde alacaksınız.</item>
+        <item quantity="other">Yıldızlı Yorumunuz CANLI Yayın sırasında silindi ve bu yorum için yaptığınız [0:string] Jeton ödemesinin iadesini 24 saat içinde alacaksınız.</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="one">%s Yıldızlı Yorum sırada</item>
+        <item quantity="other">%s Yıldızlı Yorum sırada</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="one">Yıldızlı Yorumlarınız yakın zamanda silindi. {num} saat sonra tekrar deneyin.</item>
+        <item quantity="other">Yıldızlı Yorumlarınız yakın zamanda silindi. {num} saat sonra tekrar deneyin.</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="one">Yıldızlı Yorumlarınız yakın zamanda silindi. {num} dakika sonra tekrar deneyin.</item>
+        <item quantity="other">Yıldızlı Yorumlarınız yakın zamanda silindi. {num} dakika sonra tekrar deneyin.</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="one">%s gün sonra bitiyor</item>
+        <item quantity="other">%s gün sonra bitiyor</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="one">Şu anda %1$s izleyici izliyor. Hemen abonelere özel bir CANLI Yayın başlatarak %2$s yeni abone kazanabilirsiniz.</item>
+        <item quantity="other">Şu anda %1$s izleyici izliyor. Hemen abonelere özel bir CANLI Yayın başlatarak %2$s yeni abone kazanabilirsiniz.</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="one">Şu anda %s abone izliyor. Bu, abonelere özel CANLI Yayını kullanarak topluluğunuzla bağlantınızı derinleştirmek için harika bir fırsat.</item>
+        <item quantity="other">Şu anda %s abone izliyor. Bu, abonelere özel CANLI Yayını kullanarak topluluğunuzla bağlantınızı derinleştirmek için harika bir fırsat.</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="one">Her ay %2$s dakikalık abonelere özel CANLI Yayın ile %1$s yeni abone kazanabilirsiniz.</item>
+        <item quantity="other">Her ay %2$s dakikalık abonelere özel CANLI Yayın ile %1$s yeni abone kazanabilirsiniz.</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="one">Bir yoruma en fazla %s ifade girebilirsiniz</item>
+        <item quantity="other">Bir yoruma en fazla %s ifade girebilirsiniz</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="one">%1$s kişisinin %2$s özel ifadesini kullanmak için abone olun</item>
+        <item quantity="other">%1$s kişisinin %2$s özel ifadesini kullanmak için abone olun</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="one">{number} takipçiden daha az takipçisi olanlar</item>
+        <item quantity="other">{number} takipçiden daha az takipçisi olanlar</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="one">{number} takipçiden daha az takipçisi olan içerik üreticilerini davet edemezsiniz</item>
+        <item quantity="other">{number} takipçiden daha az takipçisi olan içerik üreticilerini davet edemezsiniz</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="one">{number2}. sıraya ulaşmak için {number1} içerik üreticisi daha davet edin! Aynen devam!</item>
+        <item quantity="other">{number2}. sıraya ulaşmak için {number1} içerik üreticisi daha davet edin! Aynen devam!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="one">{rankminusone}. sıraya ulaşmak için {number} içerik üreticisi daha davet edin! Aynen devam!</item>
+        <item quantity="other">{rankminusone}. sıraya ulaşmak için {number} içerik üreticisi daha davet edin! Aynen devam!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="one">Yalnızca {number} takipçiden fazla takipçisi olan içerik üreticilerini davet edebilirsiniz.</item>
+        <item quantity="other">Yalnızca {number} takipçiden fazla takipçisi olan içerik üreticilerini davet edebilirsiniz.</item>
+    </plurals>
+    <plurals name="po">
+        <item quantity="one">{num} emoji onaylanmadı</item>
+        <item quantity="other">{num} emoji onaylanmadı</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="one">Geçerli ek faydanız ile %%%d daha fazla abone elde edebilirsiniz.</item>
+        <item quantity="other">Geçerli ek faydalarınız ile %%%d daha fazla abone elde edebilirsiniz.</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="one">%1$s, %2$d aylık bir abonelik satın aldı!</item>
+        <item quantity="other">%1$s, %2$d aylık bir abonelik satın aldı!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="one">%s dakikada yalnızca bir kez açıp kapatabilirsiniz. Daha sonra tekrar deneyin.</item>
+        <item quantity="other">%s dakikada yalnızca bir kez açıp kapatabilirsiniz. Daha sonra tekrar deneyin.</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="one">{num} abonelik hediyeniz var. Şimdi başkalarına gönderin!</item>
+        <item quantity="other">{num} abonelik hediyeniz var. Şimdi başkalarına gönderin!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="one">%d abonelik hediyeniz kaldı. Şimdi başkalarına gönderin!</item>
+        <item quantity="other">%d abonelik hediyeniz kaldı. Şimdi başkalarına gönderin!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="one">Tebrikler! Bir etkinliğin ödülü olarak [number] abonelik hediyesi aldınız.</item>
+        <item quantity="other">Tebrikler! Bir etkinliğin ödülü olarak [number] abonelik hediyesi aldınız.</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="one">{num} gün önce ortak yayın yapıldı</item>
+        <item quantity="other">{num} gün önce ortak yayın yapıldı</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="one">{number} gün önce sizinle CANLI Yayın yaptı</item>
+        <item quantity="other">{number} gün önce sizinle CANLI Yayın yaptı</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="one">{num} gün önce sizinle yayıncılık yaptı</item>
+        <item quantity="other">{num} gün önce sizinle yayıncılık yaptı</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="one">Hazine Kutusu erişiminiz askıya alındı. Erişim %s gün içinde yeniden sağlanacak.</item>
+        <item quantity="other">Hazine Kutusu erişiminiz askıya alındı. Erişim %s gün içinde yeniden sağlanacak.</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="one">en iyi izleyici</item>
+        <item quantity="few">найактивніші глядачі</item>
+        <item quantity="many">найактивніших глядачів</item>
+        <item quantity="other">en iyi izleyiciler</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="one">En İyi İzleyici</item>
+        <item quantity="other">En İyi İzleyiciler</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="one">Final, %s saniye sonra başlıyor</item>
+        <item quantity="other">Final, %s saniye sonra başlıyor</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="one">Final, %s gün sonra başlıyor</item>
+        <item quantity="other">Final, %s gün sonra başlıyor</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="one">Final, %s saat sonra başlıyor</item>
+        <item quantity="other">Final, %s saat sonra başlıyor</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="one">Final, %s dakika sonra başlıyor</item>
+        <item quantity="other">Final, %s dakika sonra başlıyor</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="one">Yarı final, %s gün sonra başlıyor</item>
+        <item quantity="other">Yarı final, %s gün sonra başlıyor</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="one">Yarı final, %s saat sonra başlıyor</item>
+        <item quantity="other">Yarı final, %s saat sonra başlıyor</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="one">Yarı final, %s dakika sonra başlıyor</item>
+        <item quantity="other">Yarı final, %s dakika sonra başlıyor</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="one">Yarı final, %s saniye sonra başlıyor</item>
+        <item quantity="other">Yarı final, %s saniye sonra başlıyor</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="one">{1:string}. Sıraya ulaşmak için {0:string} Elmas daha gerekiyor</item>
+        <item quantity="other">{1:string}. Sıraya ulaşmak için {0:string} Elmas daha gerekiyor</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="one">{1:string}. Sıraya ulaşmak için {0:string} Hediye Veren daha gerekiyor</item>
+        <item quantity="other">{1:string}. Sıraya ulaşmak için {0:string} Hediye Veren daha gerekiyor</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="one">gün</item>
+        <item quantity="other">gün</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="one">{num} Jeton için {amount} bozdurdunuz.</item>
+        <item quantity="other">{num} Jeton için {amount} bozdurdunuz.</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="one">{amount} karşılığında {num} Jeton satın aldınız.</item>
+        <item quantity="other">{amount} karşılığında {num} Jeton satın aldınız.</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="one">2. Sıranın {num} ekip puanı önünde</item>
+        <item quantity="other">2. Sıranın {num} ekip puanı önünde</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="one">+{num} ekip puanı (%1$s/%2$s günlük ekip Hediyeleri)</item>
+        <item quantity="other">+{num} ekip puanı (%1$s/%2$s günlük ekip Hediyeleri)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="one">%s izleyici, arama özelliğini kullanarak katıldı</item>
+        <item quantity="other">%s izleyici, arama özelliğini kullanarak katıldı</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="one">%2$s. Sıraya ulaşmak için %1$s ekip puanı gerekiyor</item>
+        <item quantity="other">%2$s. Sıraya ulaşmak için %1$s ekip puanı gerekiyor</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="one">%2$s. Sıraya ulaşmak için %1$s ekip puanı gerekiyor</item>
+        <item quantity="other">%2$s. Sıraya ulaşmak için %1$s ekip puanı gerekiyor</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="one">Bir sorun oluştu. {number} saat sonra tekrar deneyin</item>
+        <item quantity="other">Bir sorun oluştu. {number} saat sonra tekrar deneyin</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="one">Bir sorun oluştu. {number} dakika sonra tekrar gelin</item>
+        <item quantity="other">Bir sorun oluştu. {number} dakika sonra tekrar gelin</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="one">İzleyici</item>
+        <item quantity="few">глядачі</item>
+        <item quantity="many">глядачів</item>
+        <item quantity="other">İzleyiciler</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="one">%d izleyici</item>
+        <item quantity="other">%d izleyici</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="one">%s izleyici</item>
+        <item quantity="other">%s izleyici</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="one">%s izleyici Hediye gönderdi</item>
+        <item quantity="other">%s izleyici Hediye gönderdi</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="one">Gönderi (%s)</item>
+        <item quantity="other">Gönderiler (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="one">(%s değerlendirme)</item>
+        <item quantity="other">(%s değerlendirme)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="one">%s fotoğraf yüklenmedi. Tekrar deneyin.</item>
+        <item quantity="other">%s fotoğraf yüklenmedi. Tekrar deneyin.</item>
+    </plurals>
+    <plurals name="qr">
+        <item quantity="one">%1$d jeton = %2$s%3$.2f</item>
+        <item quantity="other">%1$d jeton = %2$s%3$.2f</item>
+    </plurals>
+    <plurals name="qs">
+        <item quantity="one">%s, TikTok Shoutouts videolarının fiyatını %s jeton olarak güncelledi.</item>
+        <item quantity="other">%s, TikTok Shoutouts videolarının fiyatını %s jeton olarak güncelledi.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="one">%d benzer ses</item>
+        <item quantity="other">%d benzer ses</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="one">%d profil görüntülemesi</item>
+        <item quantity="other">%d profil görüntülemesi</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="one">Takipçi</item>
+        <item quantity="other">Takipçi</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="one">%1$s, %2$s beğeni aldı</item>
+        <item quantity="other">%1$s, tüm videolarda toplam %2$s beğeni aldı</item>
+    </plurals>
+    <plurals name="qx">
+        <item quantity="one">Gizlilik ayarları nedeniyle %d hesap gizlendi</item>
+        <item quantity="other">Gizlilik ayarları nedeniyle %d hesap gizlendi</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="one">profilinizi görüntüledi.</item>
+        <item quantity="other">profilinizi görüntüledi.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="one">%1$s, %2$s ve %d diğer kişi</item>
+        <item quantity="other">%1$s, %2$s ve %d diğer kişi</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="one">%s kişi profilinizi görüntüledi.</item>
+        <item quantity="other">%s kişi profilinizi görüntüledi.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="one">{0}, {1} ve diğer {2} kişi profilinizi görüntüledi.</item>
+        <item quantity="other">{0}, {1} ve diğer {2} kişi profilinizi görüntüledi.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="one">%1$s ve diğer %2$s cihazınıza bir bildirim gönderdik. TikTok&apos;un açık olduğundan emin olun ve giriş yapmaya devam etmek için bildirimde &quot;Evet&quot;e dokunun.</item>
+        <item quantity="other">%1$s ve diğer %2$s cihazınıza bir bildirim gönderdik. TikTok&apos;un açık olduğundan emin olun ve giriş yapmaya devam etmek için bildirimde &quot;Evet&quot;e dokunun.</item>
+    </plurals>
+    <plurals name="r3">
+        <item quantity="one">%d soru soruldu</item>
+        <item quantity="other">%d soru soruldu</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="r6">
+        <item quantity="one">Yanıt {number}</item>
+        <item quantity="other">Yanıtlar {number}</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="one">Kullanılamayan %s yorum davetlerinizden kaldırıldı</item>
+        <item quantity="other">Kullanılamayan %s yorum davetlerinizden kaldırıldı</item>
+    </plurals>
+    <plurals name="r8">
+        <item quantity="one">%$s soru kullanılamıyor ve Favorilerinizden kaldırıldı.</item>
+        <item quantity="other">%$s soru kullanılamıyor ve Favorilerinizden kaldırıldı.</item>
+    </plurals>
+    <plurals name="r9">
+        <item quantity="one">%s soru kullanılamıyor ve Favorilerinizden kaldırıldı.</item>
+        <item quantity="other">%s soru kullanılamıyor ve Favorilerinizden kaldırıldı.</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="one">%s yeni mesaj</item>
+        <item quantity="other">%s yeni mesaj</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="one">%s yeni tepki</item>
+        <item quantity="other">%s yeni tepki</item>
+    </plurals>
+    <plurals name="rb">
+        <item quantity="one">{number} önerildi</item>
+        <item quantity="other">{number} önerildi</item>
+    </plurals>
+    <plurals name="rc">
+        <item quantity="one">%s önerildi</item>
+        <item quantity="other">%s önerildi</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="one">%d önerildi</item>
+        <item quantity="other">%d önerildi</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="one">%d önerildi</item>
+        <item quantity="other">%d önerildi</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="one">%d öneri daha görüntüleyin</item>
+        <item quantity="other">%d öneri daha görüntüleyin</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="one">%d saniyeye kadar kayıt yapın</item>
+        <item quantity="other">%d saniyeye kadar kayıt yapın</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="one">Orijinal video sesini kullanarak %d saniyeye kadar kayıt yapın</item>
+        <item quantity="other">Orijinal video sesini kullanarak %d saniyeye kadar kayıt yapın</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="one">Taslak (%d)</item>
+        <item quantity="other">Taslaklar (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="one">Bu sesi geri yüklemeyi seçerseniz videonuz sessize alınır.</item>
+        <item quantity="other">Bu sesleri geri yüklemeyi seçerseniz videonuz sessize alınır.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="one">Telif haklı ses geri yüklensin mi?</item>
+        <item quantity="other">Telif haklı ses geri yüklensin mi?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="one">Telif haklı ses kaldırıldı</item>
+        <item quantity="other">Telif haklı ses kaldırıldı</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="one">Ses kaldırılıyor</item>
+        <item quantity="other">Sesler kaldırılıyor</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="one">Ses kaldırıldı</item>
+        <item quantity="other">Sesler kaldırıldı</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="one">Sesi değiştir</item>
+        <item quantity="other">Sesleri değiştir</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="one">Telif haklı ses kaldırılıyor...</item>
+        <item quantity="other">Telif haklı sesler kaldırılıyor...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="one">Videonuzda 1 dakikadan uzun, telif haklarını ihlal eden bir ses tespit edildi ve devam etmeyi seçerseniz videonuz sessize alınacak. Sesi değiştirin veya videoyu kısaltın. %s</item>
+        <item quantity="other">Videonuzda 1 dakikadan uzun, telif haklarını ihlal eden sesler tespit edildi ve devam etmeyi seçerseniz videonuz sessize alınacak. Sesi değiştirin veya videoyu kısaltın. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="one">Sesi değiştir</item>
+        <item quantity="other">Sesleri değiştir</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="one">Telif haklı ses kaldırılıyor...</item>
+        <item quantity="other">Telif haklı sesler kaldırılıyor...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="one">Videonuzda telif haklarını ihlal eden bir ses tespit edildi. Devam etmeyi seçerseniz videonuz sessize alınacak ya da dilerseniz sesi değiştirebilirsiniz. %s</item>
+        <item quantity="other">Videonuzda telif haklarını ihlal eden sesler tespit edildi. Devam etmeyi seçerseniz videonuz sessize alınacak ya da dilerseniz sesleri değiştirebilirsiniz. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="one">Telif haklı ses</item>
+        <item quantity="other">Telif haklı sesler</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="one">Telif hakkı sahibi, bu sesin yalnızca 1 dakika kullanılmasına izin veriyor.</item>
+        <item quantity="other">Telif hakkı sahipleri, bu seslerin yalnızca 1 dakika kullanılmasına izin veriyor.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="one">Telif hakkı sahibi, bu sesin kullanımına izin vermiyor.</item>
+        <item quantity="other">Telif hakkı sahipleri, bu seslerin kullanımına izin vermiyor.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="one">Sesi değiştir</item>
+        <item quantity="other">Sesleri değiştir</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="one">Videonuzda 1 dakikadan uzun, telif haklarını ihlal eden bir ses tespit edildi ve devam etmeyi seçerseniz videonuz sessize alınacak. Sesi değiştirin veya videoyu kısaltın. %s</item>
+        <item quantity="other">Videonuzda 1 dakikadan uzun, telif haklarını ihlal eden sesler tespit edildi ve devam etmeyi seçerseniz videonuz sessize alınacak. Sesi değiştirin veya videoyu kısaltın. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="one">Sesi değiştir</item>
+        <item quantity="other">Sesleri değiştir</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="one">Videonuzda telif haklarını ihlal eden bir ses tespit edildi. Devam etmeyi seçerseniz videonuz sessize alınacak ya da dilerseniz sesi değiştirebilirsiniz. %s</item>
+        <item quantity="other">Videonuzda telif haklarını ihlal eden sesler tespit edildi. Devam etmeyi seçerseniz videonuz sessize alınacak ya da dilerseniz sesleri değiştirebilirsiniz. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="one">(%d) Videoyu kaldır</item>
+        <item quantity="other">(%d) Videoyu kaldır</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="one">%d tekrar paylaşma</item>
+        <item quantity="other">%d tekrar paylaşma</item>
+    </plurals>
+    <plurals name="s3">
+        <item quantity="one">{number} tekrar paylaşıldı</item>
+        <item quantity="other">{number} tekrar paylaşım</item>
+    </plurals>
+    <plurals name="s4">
+        <item quantity="one">%s tekrar paylaşıldı</item>
+        <item quantity="other">%s tekrar paylaşım</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="one">%d tekrar paylaştı</item>
+        <item quantity="other">%d tekrar paylaşım</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="one">%d kişi tekrar paylaştı</item>
+        <item quantity="other">%d kişi tekrar paylaştı</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="one">%d tekrar paylaşım daha görüntüleyin</item>
+        <item quantity="other">%d tekrar paylaşım daha görüntüleyin</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="one">%d gün</item>
+        <item quantity="other">%d gün</item>
+    </plurals>
+    <plurals name="s9">
+        <item quantity="one">{number} saat {number} dakika harcandı</item>
+        <item quantity="other">{number} saat {number} dakika harcandı</item>
+    </plurals>
+    <plurals name="s_">
+        <item quantity="one">{number} kez</item>
+        <item quantity="other">{number} kez</item>
+    </plurals>
+    <plurals name="sa">
+        <item quantity="one">{number} kez açıldı</item>
+        <item quantity="other">{number} kez açıldı</item>
+    </plurals>
+    <plurals name="sb">
+        <item quantity="one">Geçen hafta TikTok&apos;ta {number} saat harcadınız (önceki haftadan {percent} daha az).</item>
+        <item quantity="other">Geçen hafta TikTok&apos;ta {number} saat harcadınız (önceki haftadan {percent} daha az).</item>
+    </plurals>
+    <plurals name="sc">
+        <item quantity="one">Geçen hafta TikTok&apos;ta {number} saat harcadınız (önceki haftadan {percent} daha fazla).</item>
+        <item quantity="other">Geçen hafta TikTok&apos;ta {number} saat harcadınız (önceki haftadan {percent} daha fazla).</item>
+    </plurals>
+    <plurals name="sd">
+        <item quantity="one">Geçen hafta TikTok&apos;ta {number} saat harcadınız (önceki haftadan {percent} daha az)</item>
+        <item quantity="other">Geçen hafta TikTok&apos;ta {number} saat harcadınız (önceki haftadan {percent} daha az)</item>
+    </plurals>
+    <plurals name="se">
+        <item quantity="one">Geçen hafta TikTok&apos;ta {number} saat harcadınız (önceki haftadan {percent} daha fazla)</item>
+        <item quantity="other">Geçen hafta TikTok&apos;ta {number} saat harcadınız (önceki haftadan {percent} daha fazla)</item>
+    </plurals>
+    <plurals name="sf">
+        <item quantity="one">Geçen hafta TikTok&apos;ta {number} saat harcadınız (önceki haftadan {percent} daha az)</item>
+        <item quantity="other">Geçen hafta TikTok&apos;ta {number} saat harcadınız (önceki haftadan {percent} daha az)</item>
+    </plurals>
+    <plurals name="sg">
+        <item quantity="one">Geçen hafta TikTok&apos;ta {number} saat harcadınız (önceki haftadan {percent} daha fazla)</item>
+        <item quantity="other">Geçen hafta TikTok&apos;ta {number} saat harcadınız (önceki haftadan {percent} daha fazla)</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="one">%2$d puan kazanmak için %1$d arama daha yapın</item>
+        <item quantity="other">%2$d puan kazanmak için %1$d arama daha yapın</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="one">%d saniye boyunca arama sonuçlarına göz atın</item>
+        <item quantity="other">%d saniye boyunca arama sonuçlarına göz atın</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="one">%2$d puan kazanmak için %1$d arama daha yapın!</item>
+        <item quantity="other">%2$d puan kazanmak için %1$d arama daha yapın!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="one">%d eşleşen ses</item>
+        <item quantity="other">%d eşleşen ses</item>
+    </plurals>
+    <plurals name="sl">
+        <item quantity="one">%s takipçi</item>
+        <item quantity="other">%s takipçi</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="one">%dg önce güncellendi</item>
+        <item quantity="other">%dg önce güncellendi</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="one">%ds önce güncellendi</item>
+        <item quantity="other">%ds önce güncellendi</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="one">%ddk önce güncellendi</item>
+        <item quantity="other">%ddk önce güncellendi</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="one">%dsn önce güncellendi</item>
+        <item quantity="other">%dsn önce güncellendi</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="one">%dh önce güncellendi</item>
+        <item quantity="other">%dh önce güncellendi</item>
+    </plurals>
+    <plurals name="sr">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="one">Bir fotoğraf paylaştınız.</item>
+        <item quantity="other">Fotoğraflar paylaştınız.</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="one">Tebrikler! Dün %d satın alma daha elde ettiniz. Harika çalışmalarınızı sürdürün ve Serinizin performansını &quot;İçerik üreticisi araçları&quot; &gt; &quot;Seriler&quot; adımından takip edin.</item>
+        <item quantity="other">Tebrikler! Dün %d satın alma daha elde ettiniz. Harika çalışmalarınızı sürdürün ve Serinizin performansını &quot;İçerik üreticisi araçları&quot; &gt; &quot;Seriler&quot; adımından takip edin.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="one">Seriniz son birkaç gün içinde %d sayfa ziyareti aldı. Serinizin performansını takip etmek ve potansiyel alıcı çekme hakkında faydalı ipuçları edinmek için &quot;İçerik üreticisi araçları&quot; &gt; &quot;Seriler&quot; adımlarını izleyerek analiz araçlarına erişebilirsiniz.</item>
+        <item quantity="other">Seriniz son birkaç gün içinde %d sayfa ziyareti aldı. Serinizin performansını takip etmek ve potansiyel alıcı çekme hakkında faydalı ipuçları edinmek için &quot;İçerik üreticisi araçları&quot; &gt; &quot;Seriler&quot; adımlarını izleyerek analiz araçlarına erişebilirsiniz.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="one">Tebrikler! Dün CANLI Yayınınızdan %d izleyici, Serinize erişim satın aldı. Harika çalışmalarınıza devam edin ve &quot;İçerik üreticisi araçları&quot; &gt; &quot;Seriler&quot; adımlarını izleyerek Serinizin performansını takip edin.</item>
+        <item quantity="other">Tebrikler! Dün CANLI Yayınınızdan %d izleyici, Serinize erişim satın aldı. Harika çalışmalarınıza devam edin ve &quot;İçerik üreticisi araçları&quot; &gt; &quot;Seriler&quot; adımlarını izleyerek Serinizin performansını takip edin.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="one">Tebrikler! Dün %d izleyici, bir Seri bağlantısıyla Serinize erişim satın aldı. Harika çalışmalarınıza devam edin ve &quot;İçerik üreticisi araçları&quot; &gt; &quot;Seriler&quot; adımlarını izleyerek Serinizin performansını takip edin.</item>
+        <item quantity="other">Tebrikler! Dün %d izleyici, bir Seri bağlantısıyla Serinize erişim satın aldı. Harika çalışmalarınıza devam edin ve &quot;İçerik üreticisi araçları&quot; &gt; &quot;Seriler&quot; adımlarını izleyerek Serinizin performansını takip edin.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="one">Kameraya devam edin (%d)</item>
+        <item quantity="other">Kameraya devam edin (%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="one">%.1f (%s değerlendirme)</item>
+        <item quantity="other">%.1f (%s değerlendirme)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="one">Yalnızca ilk alıcı</item>
+        <item quantity="other">Yalnızca ilk %d alıcı</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="one">Yalnızca %d kaldı</item>
+        <item quantity="other">Yalnızca %d kaldı</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="one">Süresi %d gün sonra doluyor</item>
+        <item quantity="other">Süresi %d gün sonra doluyor</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="t6">
+        <item quantity="one">Bu yıl {share_number} paylaşımda bulundun.</item>
+        <item quantity="other">Bu yıl {share_number} paylaşımda bulundun.</item>
+    </plurals>
+    <plurals name="t7">
+        <item quantity="one">{0}, {1} ve {2} diğer kişi paylaşımınızı Hikayelerine ekledi.</item>
+        <item quantity="other">{0}, {1} ve {2} diğer kişi paylaşımınızı Hikayelerine ekledi.</item>
+    </plurals>
+    <plurals name="t8">
+        <item quantity="one">2020 yılında seslerin {sound_use_cnt} farklı videoda kullanıldı.</item>
+        <item quantity="other">2020 yılında seslerin {sound_use_cnt} farklı videoda kullanıldı.</item>
+    </plurals>
+    <plurals name="t9">
+        <item quantity="one">Ve toplamda {sound_views} kez izlendi.</item>
+        <item quantity="other">Ve toplamda {sound_views} kez izlendi.</item>
+    </plurals>
+    <plurals name="t_">
+        <item quantity="one">2020 yılında {music_name} sesini kullanan {watch_video_cnt} video izledin. Ama bayıldığın tek hit bu değildi.</item>
+        <item quantity="other">2020 yılında {music_name} sesini kullanan {watch_video_cnt} video izledin. Ama bayıldığın tek hit bu değildi.</item>
+    </plurals>
+    <plurals name="ta">
+        <item quantity="one">Bu yıl {genre_cnt} farklı türün tadını çıkardın.</item>
+        <item quantity="other">Bu yıl {genre_cnt} farklı türün tadını çıkardın.</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="one">%d görüntüleme</item>
+        <item quantity="other">%d görüntüleme</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="one">Hikâye (%d)</item>
+        <item quantity="other">Hikâyeler (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="one">{Brand}, {start_date} - {end_date} tarihli orijinal yetkilendirmesini {num} güne kadar uzatmak istiyor.</item>
+        <item quantity="other">{Brand}, {start_date} - {end_date} tarihli orijinal yetkilendirmesini {num} güne kadar uzatmak istiyor.</item>
+    </plurals>
+    <plurals name="tf">
+        <item quantity="one">En popüler videon {video_view_cnt} kez izlendi.</item>
+        <item quantity="other">En popüler videon {video_view_cnt} kez izlendi.</item>
+    </plurals>
+    <plurals name="tg">
+        <item quantity="one">Sevdiğiniz içerikler üretmeye devam edebilmeleri için bu içerik üreticisini desteklediğiniz için teşekkür ederiz. Bahşişinizi %d saat içinde alacaklar.</item>
+        <item quantity="other">Sevdiğiniz içerikler üretmeye devam edebilmeleri için bu içerik üreticisini desteklediğiniz için teşekkür ederiz. Bahşişinizi %d saat içinde alacaklar.</item>
+    </plurals>
+    <plurals name="th">
+        <item quantity="one">%d ipuçları gönderildi</item>
+        <item quantity="other">%d ipucu gönderildi</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="one">%d video eklendi</item>
+        <item quantity="other">%d video eklendi</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="one">%d aydan uzun süredir TikTok&apos;ta olan içerik üreticileri.</item>
+        <item quantity="other">%d aydan uzun süredir TikTok&apos;ta olan içerik üreticileri.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="one">En az %d takipçisi olan içerik üreticileri.</item>
+        <item quantity="other">En az %d takipçisi olan içerik üreticileri.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="one">%d etkileşim</item>
+        <item quantity="other">%d etkileşim</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="one">Revaçta konu eklemek için günlük sınır: %d gönderi</item>
+        <item quantity="other">Revaçta konu eklemek için günlük sınır: %d gönderi</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="one">Tahminî inceleme süresi: %d gün</item>
+        <item quantity="other">Tahminî inceleme süresi: %d gün</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="one">%@ video</item>
+        <item quantity="other">%@ video</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="one">%@ görüntüleme</item>
+        <item quantity="other">%@ görüntüleme</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="one">%d gün önce</item>
+        <item quantity="other">%d gün önce</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="one">Saat</item>
+        <item quantity="other">Saatler</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="one">%1$d saat önce</item>
+        <item quantity="other">%1$d saat önce</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="one">dakika</item>
+        <item quantity="other">dakikalar</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="one">%1$d dakika önce</item>
+        <item quantity="other">%1$d dakika önce</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="one">Saat</item>
+        <item quantity="other">Saatler</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="one">dakika</item>
+        <item quantity="other">dakikalar</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="one">sn</item>
+        <item quantity="other">sn</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="one">%1$d yıl önce</item>
+        <item quantity="other">%1$d yıl önce</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="one">Üzgünüz! Yasaklandınız\n Canlı yayına ancak %1$d gün sonra başlayabilirsiniz</item>
+        <item quantity="other">Üzgünüz! Yasaklandınız\n Canlı yayına ancak %1$d gün sonra başlayabilirsiniz</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="one">Üzgünüz! Yasaklandınız\n Canlı yayına ancak %1$d saat sonra başlayabilirsiniz</item>
+        <item quantity="other">Üzgünüz! Yasaklandınız\n Canlı yayına ancak %1$d saat sonra başlayabilirsiniz</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="one">Üzgünüz! Yasaklandınız\n Canlı yayına ancak %1$d dakika sonra başlayabilirsiniz</item>
+        <item quantity="other">Üzgünüz! Yasaklandınız\n Canlı yayına ancak %1$d dakika sonra başlayabilirsiniz</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="one">Üzgünüz! Yasaklandınız\n Canlı yayına ancak %1$d saniye sonra başlayabilirsiniz</item>
+        <item quantity="other">Üzgünüz! Yasaklandınız\n Canlı yayına ancak %1$d saniye sonra başlayabilirsiniz</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="one">%d kullanıcı yayınınızı izliyor, kapatmak istiyor musunuz?</item>
+        <item quantity="other">%d kullanıcı yayınınızı izliyor, kapatmak istiyor musunuz?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="one">%d gün içinde sona eriyor</item>
+        <item quantity="few">Завершується через %d дні</item>
+        <item quantity="many">Завершується через %d днів</item>
+        <item quantity="other">%d gün içinde sona eriyor</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="one">%d saat içinde sona eriyor</item>
+        <item quantity="few">Завершується через %d години</item>
+        <item quantity="many">Завершується через %d годин</item>
+        <item quantity="other">%d saat içinde sona eriyor</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="one">İlk seferinde %1$d Elmas yükleyin ve %2$d Elmas daha kazanın!</item>
+        <item quantity="other">İlk seferinde %1$d Elmas yükleyin ve %2$d Elmas daha kazanın!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="one">dakika</item>
+        <item quantity="other">dakikalar</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="one">TikTok&apos;taki deneyiminiz %d gün sonra sona erecek</item>
+        <item quantity="other">TikTok&apos;taki deneyiminiz %d gün sonra sona erecek</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="one">%d gün</item>
+        <item quantity="other">%d gün</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="one">Bu özelliği TikTok&apos;ta deneyimlemek için %d gününüz var. O tarihten sonra devam etmek için TikTok Now uygulamasını indirin.</item>
+        <item quantity="other">Bu özelliği TikTok&apos;ta deneyimlemek için %d gününüz var. O tarihten sonra devam etmek için TikTok Now uygulamasını indirin.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="one">%d günlük TikTok Now deneyiminize başlamak için paylaşım yapın.</item>
+        <item quantity="other">%d günlük TikTok Now deneyiminize başlamak için paylaşım yapın.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="one">%d klip seçin veya kaydedin</item>
+        <item quantity="other">%d klip seçin veya kaydedin</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="one">Bitmemiş fotoğraf düzenlensin mi?</item>
+        <item quantity="other">Bitmemiş fotoğraflar düzenlensin mi?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="one">%s yeni gönderi</item>
+        <item quantity="other">%s yeni gönderi</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="one">%d video paylaşıldı</item>
+        <item quantity="other">%d video paylaşıldı</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="one">%d yaşında mısınız?</item>
+        <item quantity="other">%d yaşında mısınız?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="one">Kırpılmış sesi kullanın. %d saniyeye kadar kaydedin.</item>
+        <item quantity="other">Kırpılmış sesi kullanın. %d saniyeye kadar kaydedin.</item>
+    </plurals>
+    <plurals name="uh">
+        <item quantity="one">%1$s, TikTok Shoutouts videonuzu zamanında oluşturamadı. %2$d jeton 24 saat içinde hesabınıza iade edilecektir.</item>
+        <item quantity="other">%1$s, TikTok Shoutouts videonuzu zamanında oluşturamadı. %2$d jeton 24 saat içinde hesabınıza iade edilecektir.</item>
+    </plurals>
+    <plurals name="ui">
+        <item quantity="one">%d jeton 24 saat içinde hesabınıza iade edilecektir.</item>
+        <item quantity="other">%d jeton 24 saat içinde hesabınıza iade edilecektir.</item>
+    </plurals>
+    <plurals name="uj">
+        <item quantity="one">Bu sipariş, zaman aşımına uğradığı için iptal edilir. %s jeton hesabınıza iade edilecektir.</item>
+        <item quantity="other">Bu sipariş, zaman aşımına uğradığı için iptal edilir. %s jeton hesabınıza iade edilecektir.</item>
+    </plurals>
+    <plurals name="uk">
+        <item quantity="one">Talebiniz iptal edildi. %d jeton 24 saat içinde hesabınıza iade edilecektir.</item>
+        <item quantity="other">Talebiniz iptal edildi. %d jeton 24 saat içinde hesabınıza iade edilecektir.</item>
+    </plurals>
+    <plurals name="ul">
+        <item quantity="one">Jeton</item>
+        <item quantity="other">Jetonlar</item>
+    </plurals>
+    <plurals name="um">
+        <item quantity="one">%1$s isteğinizi reddetti. %2$s jeton 24 saat içinde hesabınıza geri gönderilecektir.</item>
+        <item quantity="other">%1$s isteğinizi reddetti. %2$s jeton 24 saat içinde hesabınıza geri gönderilecektir.</item>
+    </plurals>
+    <plurals name="un">
+        <item quantity="one">%1$s TikTok Shoutouts videonuzu zamanında oluşturamadı. İsteğinizin süresi doldu ve %2$s jeton 24 saat içinde hesabınıza geri gönderilecektir.</item>
+        <item quantity="other">%1$s TikTok Shoutouts videonuzu zamanında oluşturamadı. İsteğinizin süresi doldu ve %2$s jeton 24 saat içinde hesabınıza geri gönderilecektir.</item>
+    </plurals>
+    <plurals name="uo">
+        <item quantity="one">%1$s, talebinizi 2 gün içinde kabul etmezse, talebinizi otomatik olarak iptal edeceğiz ve %2$s jetonunu 24 saat içinde hesabınıza iade edeceğiz.</item>
+        <item quantity="other">%1$s, talebinizi 2 gün içinde kabul etmezse, talebinizi otomatik olarak iptal edeceğiz ve %2$s jetonunu 24 saat içinde hesabınıza iade edeceğiz.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="one">%s izleyici</item>
+        <item quantity="other">%s izleyici</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="one">%s beğeni</item>
+        <item quantity="other">%s beğeni</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="one">%2$ssn içinde %1$s üzerinde paylaşılacak</item>
+        <item quantity="other">%2$ssn içinde %1$s üzerinde paylaşılacak</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="one">%d ürün</item>
+        <item quantity="other">%d ürün</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="one">Paylaş</item>
+        <item quantity="other">Paylaş</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="one">%1$s, %2$s ve %d diğer kişi</item>
+        <item quantity="other">%1$s, %2$s ve %d diğer kişi</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="one">gönderinizi görüntüledi.</item>
+        <item quantity="other">gönderinizi görüntüledi.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="one">%s paylaşım</item>
+        <item quantity="other">%s paylaşım</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="one">%s görüntüleme</item>
+        <item quantity="other">%s görüntüleme</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="one">{0}, {1} ve {2} diğer kişi gönderinizi görüntüledi.</item>
+        <item quantity="other">{0}, {1} ve {2} diğer kişi gönderinizi görüntüledi.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="one">%d Jeton</item>
+        <item quantity="other">%d Jeton</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="one">gönderildi: %s</item>
+        <item quantity="other">gönderildi: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="one">Fotoğraf kaydedildi</item>
+        <item quantity="other">Fotoğraflar kaydedildi</item>
+    </plurals>
+    <plurals name="v2">
+        <item quantity="one">{number} kişi hediyeyi talep etti ancak hesabına veri eklemedi. Veri hediyesi yakında sizin için hazır olabilir.</item>
+        <item quantity="other">{number} kişi hediyeyi talep etti ancak hesaplarına veri eklemedi. Veri hediyesi yakında sizin için hazır olabilir.</item>
+    </plurals>
+    <plurals name="v3">
+        <item quantity="one">Etkinlik {countdown} gün içinde sona eriyor. Sınırlı sayıda. İlk gelen, ilk alır!</item>
+        <item quantity="other">Etkinlik {countdown} gün içinde sona eriyor. Sınırlı sayıda. İlk gelen, ilk alır!</item>
+    </plurals>
+    <plurals name="v4">
+        <item quantity="one">{countdown} hediye kaldı</item>
+        <item quantity="other">{countdown} hediye kaldı</item>
+    </plurals>
+</resources>

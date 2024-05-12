@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="true"
+        state_checked="true"
+        drawable="@drawable/fq"/>
+    <item
+        state_enabled="true"
+        state_checkable="true"
+        drawable="@drawable/fs"/>
+    <item
+        state_enabled="true"
+        drawable="@drawable/fe"/>
+    <item drawable="@drawable/fc"/>
+</selector>

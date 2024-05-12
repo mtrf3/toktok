@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_pressed="true">
+        <bitmap
+            src="@drawable/d09"
+            alpha="127"/>
+    </item>
+    <item
+        state_pressed="false"
+        drawable="@drawable/d09"/>
+</selector>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    visibility="gone"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        orientation="horizontal"
+        background="@drawable/cjo"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <X.C47121t6
+            textSize="12dp"
+            textColor="@color/be"
+            gravity="start"
+            id="@+id/h67"
+            layout_width="0dp"
+            layout_height="wrap_content"
+            layout_marginLeft="12dp"
+            layout_marginTop="10dp"
+            layout_marginRight="4dp"
+            layout_marginBottom="10dp"
+            layout_weight="1"
+            lineSpacingExtra="3dp"
+            alpha="0.9"
+            layout_marginStart="12dp"
+            layout_marginEnd="4dp"
+            NOT_FOUND_0x14="true"/>
+        <com.bytedance.android.live.design.view.icon.LiveIconView
+            id="@+id/h63"
+            layout_width="16dp"
+            layout_height="16dp"
+            layout_marginTop="10dp"
+            layout_marginStart="4dp"
+            layout_marginEnd="8dp"
+            NOT_FOUND_0x12="?attr/aw0"
+            NOT_FOUND_0x13="@color/bg"/>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape>
+            <corners radius="8dp"/>
+            <solid color="?attr/cv"/>
+            <stroke
+                width="0.5dp"
+                color="?attr/dz"/>
+        </shape>
+    </item>
+    <item gravity="center">
+        <bitmap src="@drawable/biq"/>
+    </item>
+</layer-list>

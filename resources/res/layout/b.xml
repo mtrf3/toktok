@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C90223Zb1
+    orientation="vertical"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginLeft="@dimen/v"
+    layout_marginRight="@dimen/v">
+    <TextView
+        textSize="@dimen/u"
+        textColor="@color/p"
+        id="@+id/z"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <TextView
+        textSize="@dimen/t"
+        textColor="@color/o"
+        id="@+id/y"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="@dimen/y"/>
+</X.C90223Zb1>

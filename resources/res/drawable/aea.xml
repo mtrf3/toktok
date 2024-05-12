@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+    <solid color="#99252525"/>
+    <stroke color="#ad000000"/>
+    <corners
+        topRightRadius="2dp"
+        bottomRightRadius="2dp"/>
+    <padding
+        left="0dp"
+        top="0dp"
+        right="0dp"
+        bottom="0dp"/>
+</shape>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C45621qg
+    background="?attr/cl"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C80217Ve1
+        layout_width="match_parent"
+        layout_height="wrap_content">
+        <X.K5T
+            id="@+id/je_"
+            visibility="gone"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            NOT_FOUND_0x8="0x13"
+            NOT_FOUND_0x9="8dp"
+            NOT_FOUND_0xa="@string/qbg"/>
+    </X.C80217Ve1>
+    <include
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x7="@string/brp"
+        layout="@layout/c88"/>
+    <FrameLayout
+        id="@+id/dmd"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x7="@string/brp">
+        <androidx.recyclerview.widget.RecyclerView
+            id="@+id/j_9"
+            paddingBottom="8dp"
+            clipChildren="false"
+            layout_width="match_parent"
+            layout_height="wrap_content"/>
+        <X.C73305Spp
+            id="@+id/kfg"
+            visibility="gone"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            NOT_FOUND_0xb="0"/>
+        <X.C73305Spp
+            id="@+id/dlc"
+            visibility="gone"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+    </FrameLayout>
+</X.C45621qg>

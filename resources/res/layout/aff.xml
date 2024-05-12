@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ss.android.ugc.aweme.feed.ui.StoryTag
+    gravity="center_vertical"
+    id="@+id/klb"
+    background="@color/cz"
+    paddingLeft="5dp"
+    paddingRight="5dp"
+    visibility="gone"
+    layout_width="wrap_content"
+    layout_height="22dp"
+    layout_marginEnd="8dp">
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center_vertical"
+        layout_width="12dp"
+        layout_height="12dp"
+        layout_marginEnd="2dp"
+        NOT_FOUND_0xd="@raw/icon_story_star"
+        NOT_FOUND_0xe="?attr/dj"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        layout_gravity="center_vertical"
+        id="@+id/kl5"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/rrw"
+        NOT_FOUND_0xc="72"/>
+</com.ss.android.ugc.aweme.feed.ui.StoryTag>

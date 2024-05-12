@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <translate
+        duration="300"
+        fromYDelta="0%p"
+        toYDelta="10%p"/>
+    <scale
+        duration="300"
+        pivotX="50%"
+        pivotY="50%"
+        fromXScale="1"
+        toXScale="0.8"
+        fromYScale="1"
+        toYScale="0.8"/>
+    <alpha
+        duration="300"
+        fromAlpha="1"
+        toAlpha="0"/>
+</set>

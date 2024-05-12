@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_margin="9dp">
+    <FrameLayout
+        id="@+id/i7w"
+        background="@drawable/byr"
+        padding="6dp"
+        layout_width="0dp"
+        layout_height="0dp"
+        NOT_FOUND_0x9="h,1:1"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0">
+        <com.bytedance.lighten.loader.SmartImageView
+            id="@+id/i7x"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            NOT_FOUND_0xd="4dp"/>
+        <FrameLayout
+            id="@+id/i7t"
+            background="@drawable/bys"
+            visibility="gone"
+            layout_width="match_parent"
+            layout_height="match_parent">
+            <com.bytedance.tux.input.TuxTextView
+                textColor="?attr/dj"
+                layout_gravity="center"
+                id="@+id/i7u"
+                layout_width="wrap_content"
+                layout_height="wrap_content"
+                NOT_FOUND_0xe="52"/>
+        </FrameLayout>
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

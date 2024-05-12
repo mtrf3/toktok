@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.bytedance.tux.input.TuxTextView
+        id="@+id/itg"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/dja"
+        layout_centerVertical="true"
+        layout_alignParentEnd="true"
+        NOT_FOUND_0xf="52"/>
+    <Space
+        id="@+id/itc"
+        layout_width="20dp"
+        layout_height="20dp"
+        layout_centerVertical="true"
+        layout_alignParentEnd="true"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/ite"
+        visibility="visible"
+        layout_width="20dp"
+        layout_height="20dp"
+        scaleType="fitXY"
+        layout_centerVertical="true"
+        layout_marginEnd="20dp"
+        layout_toStartOf="@+id/itc"
+        NOT_FOUND_0x10="@raw/icon_control"
+        NOT_FOUND_0x11="20dp"
+        NOT_FOUND_0x12="20dp"
+        NOT_FOUND_0x13="?attr/gu"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/iti"
+        visibility="gone"
+        clickable="false"
+        layout_width="16dp"
+        layout_height="16dp"
+        layout_marginTop="-4dp"
+        layout_alignTop="@+id/ite"
+        layout_marginStart="-28dp"
+        layout_toEndOf="@+id/ite"
+        NOT_FOUND_0x10="@raw/icon_shield_exclamation_filled"
+        NOT_FOUND_0x13="?attr/e7"/>
+</RelativeLayout>

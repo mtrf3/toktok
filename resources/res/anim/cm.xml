@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set shareInterpolator="false">
+    <alpha
+        interpolator="@android:anim/linear_interpolator"
+        duration="50"
+        fillBefore="true"
+        fillAfter="true"
+        startOffset="35"
+        fromAlpha="1"
+        toAlpha="0"
+        fillEnabled="true"/>
+    <scale
+        interpolator="@anim/ck"
+        duration="300"
+        pivotX="50%"
+        pivotY="50%"
+        fillBefore="true"
+        fillAfter="true"
+        fromXScale="1"
+        toXScale="1.15"
+        fromYScale="1"
+        toYScale="1.15"
+        fillEnabled="true"/>
+</set>

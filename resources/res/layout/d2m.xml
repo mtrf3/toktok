@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    id="@+id/csd"
+    background="@drawable/crz"
+    layout_width="wrap_content"
+    layout_height="32dp">
+    <ImageView
+        layout_gravity="center"
+        id="@+id/kez"
+        layout_width="20dp"
+        layout_height="20dp"
+        src="@drawable/csb"
+        layout_marginStart="8dp"/>
+    <X.CL0
+        textSize="13dp"
+        textColor="#ffffff"
+        ellipsize="marquee"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/cse"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        singleLine="true"
+        includeFontPadding="false"
+        marqueeRepeatLimit="1"
+        layout_marginStart="6dp"
+        layout_marginEnd="10dp"
+        style="@style/a48"/>
+</LinearLayout>

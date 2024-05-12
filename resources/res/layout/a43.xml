@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    paddingBottom="16dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    paddingStart="@dimen/jw"
+    paddingEnd="@dimen/jw">
+    <View
+        background="?attr/dz"
+        layout_width="match_parent"
+        layout_height="0.5dp"/>
+    <LinearLayout
+        gravity="center_vertical"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="16dp">
+        <LinearLayout
+            gravity="center_vertical"
+            orientation="horizontal"
+            id="@+id/jjv"
+            layout_width="0dp"
+            layout_height="wrap_content"
+            layout_weight="1"
+            layout_marginEnd="16dp"/>
+        <com.bytedance.tux.icon.TuxIconView
+            layout_width="11dp"
+            layout_height="11dp"
+            NOT_FOUND_0xc="@raw/icon_chevron_right_offset_ltr"
+            NOT_FOUND_0xd="?attr/gp"/>
+    </LinearLayout>
+</LinearLayout>

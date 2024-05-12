@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="0dp">
+    <X.C96243q8
+        layout_gravity="bottom"
+        id="@+id/jij"
+        layout_width="match_parent"
+        layout_height="@dimen/v8"
+        layout_marginStart="@dimen/v_"
+        layout_marginEnd="@dimen/v_"/>
+</FrameLayout>

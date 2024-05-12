@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape shape="rectangle">
+            <solid color="#686868"/>
+        </shape>
+    </item>
+    <item right="1dp">
+        <shape shape="rectangle">
+            <solid color="#414141"/>
+        </shape>
+    </item>
+</layer-list>

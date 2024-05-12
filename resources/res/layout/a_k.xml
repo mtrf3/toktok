@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/product_tile_ad_native_root_layout"
+    layout_width="match_parent"
+    layout_height="52dp">
+    <X.SYL
+        id="@+id/sw"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginBottom="@dimen/ki"/>
+    <FrameLayout
+        layout_gravity="end"
+        id="@+id/sx"
+        background="@drawable/agq"
+        layout_width="20dp"
+        layout_height="match_parent"/>
+</FrameLayout>

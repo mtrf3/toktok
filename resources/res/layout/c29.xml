@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.icon.TuxIconView
+    layout_gravity="end|top"
+    id="@+id/ho_"
+    visibility="gone"
+    layout_width="16dp"
+    layout_height="16dp"
+    layout_marginTop="6dp"
+    layout_alignParentTop="true"
+    layout_marginStart="8dp"
+    layout_marginEnd="6dp"
+    layout_alignParentEnd="true"
+    NOT_FOUND_0xa="0"
+    NOT_FOUND_0xb="0"
+    NOT_FOUND_0xc="@raw/icon_image_alt_1_fill"
+    NOT_FOUND_0xd="true"
+    NOT_FOUND_0xe="?attr/dj"/>

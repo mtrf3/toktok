@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.bytedance.tux.input.TuxTextView
+        gravity="center_vertical"
+        id="@+id/i16"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"/>
+    <com.bytedance.tux.input.TuxTextView
+        ellipsize="end"
+        id="@+id/ium"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="@+id/i16"
+        NOT_FOUND_0x8="0"/>
+</merge>

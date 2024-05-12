@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="180dp"
+    layout_height="320dp">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gx"
+        id="@+id/m06"
+        paddingBottom="6dp"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0xf="@+id/bst"
+        NOT_FOUND_0x10="@+id/mzt"
+        NOT_FOUND_0x13="61"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gv"
+        id="@+id/mlh"
+        paddingBottom="4dp"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0xf="@+id/e5p"
+        NOT_FOUND_0x10="@+id/mzt"
+        NOT_FOUND_0x13="71"/>
+    <X.C113094cD
+        id="@+id/btt"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <com.bytedance.lighten.loader.SmartImageView
+            id="@+id/bti"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            NOT_FOUND_0xe="6"
+            NOT_FOUND_0x11="6"
+            NOT_FOUND_0x12="@dimen/ve"/>
+        <include layout="@layout/b98"/>
+        <include layout="@layout/b99"/>
+        <X.C116414hZ
+            id="@+id/g8x"
+            visibility="gone"
+            layout_width="36dp"
+            layout_height="36dp"
+            layout_centerInParent="true"/>
+        <com.bytedance.tux.icon.TuxIconView
+            layout_gravity="end"
+            id="@+id/bu8"
+            visibility="gone"
+            layout_width="15dp"
+            layout_height="15dp"
+            layout_margin="8dp"
+            scaleType="centerInside"
+            NOT_FOUND_0x14="@raw/icon_image"
+            NOT_FOUND_0x15="true"
+            NOT_FOUND_0x16="?attr/dj"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/cp"
+            gravity="center"
+            layout_gravity="end"
+            id="@+id/btx"
+            background="@drawable/bhl"
+            paddingBottom="1dp"
+            visibility="gone"
+            layout_width="32dp"
+            layout_height="17dp"
+            layout_margin="8dp"
+            text="@string/h6s"
+            NOT_FOUND_0x13="71"/>
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/f8q"
+            visibility="gone"
+            layout_width="28dp"
+            layout_height="28dp"
+            layout_centerInParent="true"
+            NOT_FOUND_0x14="@raw/icon_play_fill"
+            NOT_FOUND_0x15="true"
+            NOT_FOUND_0x16="?attr/dj"/>
+        <include layout="@layout/c2_"/>
+        <include layout="@layout/b4g"/>
+    </X.C113094cD>
+</LinearLayout>

@@ -1,0 +1,35 @@
+package X;
+
+/* renamed from: X.JDx, reason: case insensitive filesystem */
+/* loaded from: classes9.dex */
+public /* synthetic */ class C48817JDx {
+    public static final /* synthetic */ int[] LIZ;
+    public static final /* synthetic */ int[] LIZIZ;
+
+    static {
+        int[] iArr = new int[JE0.values().length];
+        try {
+            iArr[JE0.DEFAULT.ordinal()] = 1;
+        } catch (NoSuchFieldError unused) {
+        }
+        try {
+            iArr[JE0.SMALL.ordinal()] = 2;
+        } catch (NoSuchFieldError unused2) {
+        }
+        LIZ = iArr;
+        int[] iArr2 = new int[E4Y.values().length];
+        try {
+            iArr2[E4Y.VISIBLE.ordinal()] = 1;
+        } catch (NoSuchFieldError unused3) {
+        }
+        try {
+            iArr2[E4Y.GONE.ordinal()] = 2;
+        } catch (NoSuchFieldError unused4) {
+        }
+        try {
+            iArr2[E4Y.DISABLED.ordinal()] = 3;
+        } catch (NoSuchFieldError unused5) {
+        }
+        LIZIZ = iArr2;
+    }
+}

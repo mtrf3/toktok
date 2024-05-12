@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    background="@drawable/dg_"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_marginTop="6dp"
+    layout_marginBottom="6dp"
+    layout_marginVertical="6dp">
+    <X.C94163acZ
+        id="@+id/f51"
+        layout_width="40dp"
+        layout_height="40dp"
+        layout_marginTop="8dp"
+        layout_marginBottom="8dp"
+        scaleType="centerInside"
+        layout_marginStart="12dp"
+        layout_marginVertical="8dp"
+        NOT_FOUND_0x12="6dp"
+        NOT_FOUND_0x13="6dp"
+        NOT_FOUND_0x14="6dp"
+        NOT_FOUND_0x15="6dp"/>
+    <TextView
+        textSize="@dimen/akb"
+        textStyle="bold"
+        textColor="@color/adn"
+        ellipsize="end"
+        gravity="start"
+        id="@+id/nq2"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        maxLines="1"
+        layout_weight="1"
+        layout_marginStart="12dp"
+        layout_marginEnd="12dp"/>
+    <View
+        id="@+id/nqa"
+        layout_width="16dp"
+        layout_height="16dp"
+        layout_marginEnd="24dp"/>
+</LinearLayout>

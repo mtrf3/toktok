@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="28dp">
+    <LinearLayout
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/je2"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        paddingStart="10dp"
+        paddingEnd="10dp">
+        <X.C29701Eo
+            id="@+id/jdv"
+            visibility="gone"
+            layout_width="12.5dp"
+            layout_height="8.75dp"
+            layout_marginRight="6dp"
+            layout_marginEnd="6dp"
+            NOT_FOUND_0xd="false"
+            NOT_FOUND_0xe="feed_live_volume_icon_lottie.json"
+            NOT_FOUND_0xf="true"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/cl"
+            id="@+id/je1"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text=""
+            NOT_FOUND_0x10="52"/>
+        <X.C116474hf
+            layout_gravity="center"
+            id="@+id/je0"
+            paddingTop="0.5dp"
+            visibility="gone"
+            layout_width="wrap_content"
+            layout_height="wrap_content"/>
+    </LinearLayout>
+</FrameLayout>

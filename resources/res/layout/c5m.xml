@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    NOT_FOUND_0xc="1"
+    NOT_FOUND_0x12="0.75">
+    <X.C62846OlW
+        id="@+id/j3h"
+        background="?attr/cf"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <View
+        background="?attr/ee"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        alpha="0.5"/>
+    <View
+        id="@+id/n2d"
+        background="?attr/d4"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <androidx.appcompat.widget.LinearLayoutCompat
+        gravity="center"
+        layout_gravity="center"
+        orientation="vertical"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/e92"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            NOT_FOUND_0xe="@raw/icon_calendar"
+            NOT_FOUND_0xf="32dp"
+            NOT_FOUND_0x10="32dp"
+            NOT_FOUND_0x11="?attr/dj"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            id="@+id/mci"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginTop="4dp"
+            text="@string/izj"
+            NOT_FOUND_0xd="52"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+    <stroke
+        width="1dp"
+        color="?attr/dz"
+        dashWidth="4dp"
+        dashGap="4dp"/>
+    <corners radius="4dp"/>
+</shape>

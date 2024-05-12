@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <androidx.recyclerview.widget.RecyclerView
+        id="@+id/izk"
+        layout_width="match_parent"
+        layout_height="0dp"
+        layout_weight="1"/>
+    <View
+        id="@+id/cd9"
+        background="?attr/dz"
+        layout_width="match_parent"
+        layout_height="0.5dp"/>
+    <LinearLayout
+        layout_gravity="bottom"
+        orientation="horizontal"
+        id="@+id/jh4"
+        padding="12dp"
+        layout_width="match_parent"
+        layout_height="wrap_content">
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/go"
+            id="@+id/mis"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/f6w"
+            NOT_FOUND_0xb="51"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/eb"
+            id="@+id/lz8"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/f9j"
+            paddingStart="10dp"
+            NOT_FOUND_0xb="41"/>
+    </LinearLayout>
+</LinearLayout>

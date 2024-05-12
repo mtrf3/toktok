@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        id="@+id/ctt"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="@+id/iku"
+        NOT_FOUND_0x7="13"/>
+    <com.bytedance.tux.input.TuxTextView
+        id="@+id/ctu"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginStart="16dp"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="@+id/iku"
+        NOT_FOUND_0x7="13"/>
+    <com.bytedance.tux.input.TuxTextView
+        id="@+id/ctv"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginStart="16dp"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="@+id/iku"
+        NOT_FOUND_0x7="13"/>
+</merge>

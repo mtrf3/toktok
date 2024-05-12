@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    duration="@integer/aw"
+    fillAfter="true">
+    <translate
+        fromYDelta="0%"
+        toYDelta="100%"/>
+</set>

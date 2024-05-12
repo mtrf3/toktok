@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fg" parent="@style/fh">
+        <item name="xu">18.66dp</item>
+        <item name="aa8">24dp</item>
+        <item name="aey">3.33dp</item>
+    </style>
+</resources>

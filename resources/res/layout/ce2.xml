@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C82000WGe
+    id="@+id/drn"
+    layout_width="match_parent"
+    layout_height="match_parent"
+    keepScreenOn="true">
+    <X.C48187Ivf
+        layout_gravity="center"
+        id="@+id/l61"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.W5G
+        id="@+id/fbb"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x8="2"/>
+    <ImageView
+        layout_gravity="center"
+        id="@+id/c6e"
+        visibility="gone"
+        layout_width="120dp"
+        layout_height="120dp"
+        src="@drawable/b5x"/>
+    <X.C73305Spp
+        theme="@style/uw"
+        id="@+id/fqn"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x9="0"/>
+    <X.C42883GsJ
+        layout_gravity="center"
+        id="@+id/g94"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</X.C82000WGe>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout
+    id="@+id/j7n"
+    background="?attr/cl"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    NOT_FOUND_0x6="1"
+    NOT_FOUND_0x8="0.75">
+    <X.C62846OlW
+        id="@+id/l71"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x4="6"
+        NOT_FOUND_0x5="@color/cn"
+        NOT_FOUND_0x7="@color/cn"/>
+</com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout>

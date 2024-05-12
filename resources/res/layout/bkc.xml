@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C139845eG
+    id="@+id/hpr"
+    visibility="gone"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    NOT_FOUND_0x5="true"
+    NOT_FOUND_0x6="true">
+    <include layout="@layout/bkd"/>
+    <ViewStub
+        id="@+id/hpt"
+        layout="@layout/bke"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</X.C139845eG>

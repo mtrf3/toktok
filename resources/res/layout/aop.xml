@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    layout_gravity="center_vertical"
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="match_parent">
+    <View
+        layout_gravity="center_vertical"
+        id="@+id/hoi"
+        background="?attr/e0"
+        visibility="gone"
+        layout_width="1dp"
+        layout_height="16dp"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center_vertical"
+        id="@+id/hoh"
+        paddingTop="8dp"
+        paddingBottom="8dp"
+        visibility="visible"
+        layout_width="35dp"
+        layout_height="36dp"
+        paddingStart="7dp"
+        paddingEnd="8dp"
+        NOT_FOUND_0xb="@raw/icon_camera"
+        NOT_FOUND_0xc="?attr/gu"/>
+</LinearLayout>

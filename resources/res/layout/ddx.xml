@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <LinearLayout
+        orientation="vertical"
+        id="@+id/fsi"
+        background="@color/yi"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        layout_marginEnd="10dp"
+        layout_alignParentEnd="true">
+        <X.C47121t6
+            textColor="?attr/d6"
+            layout_gravity="center_horizontal"
+            id="@+id/m55"
+            background="@drawable/cgo"
+            paddingTop="4dp"
+            paddingBottom="4dp"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/kqr"
+            paddingStart="8dp"
+            paddingEnd="8dp"
+            style="@style/a46"/>
+        <X.C47121t6
+            textColor="@color/acm"
+            layout_gravity="center_horizontal"
+            id="@+id/m54"
+            background="@drawable/cgn"
+            paddingTop="4dp"
+            paddingBottom="4dp"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginTop="8dp"
+            text="@string/kqq"
+            paddingStart="8dp"
+            paddingEnd="8dp"
+            style="@style/a46"/>
+    </LinearLayout>
+</RelativeLayout>

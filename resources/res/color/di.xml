@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="false"
+        color="?attr/a4j"
+        NOT_FOUND_0x3="?android:attr/disabledAlpha"/>
+    <item
+        state_checked="true"
+        color="?attr/a4h"/>
+    <item color="?attr/a4j"/>
+</selector>

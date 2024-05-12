@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    paddingTop="8dp"
+    paddingBottom="24dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    paddingStart="@dimen/jw"
+    paddingEnd="@dimen/jw">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        gravity="center"
+        id="@+id/jk3"
+        background="@drawable/afc"
+        paddingTop="10dp"
+        paddingBottom="10dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        text="@string/slr"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="112"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

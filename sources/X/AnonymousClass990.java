@@ -1,0 +1,20 @@
+package X;
+
+import kotlin.jvm.internal.o;
+
+/* renamed from: X.990, reason: invalid class name */
+/* loaded from: classes5.dex */
+public final class AnonymousClass990 extends AbstractC65781Prl implements InterfaceC88472Yns<C2320198r, C2320198r> {
+    public static final AnonymousClass990 LJLIL = new AnonymousClass990();
+
+    public AnonymousClass990() {
+        super(1);
+    }
+
+    @Override // X.InterfaceC88472Yns
+    public final C2320198r invoke(C2320198r c2320198r) {
+        C2320198r setState = c2320198r;
+        o.LJIIIZ(setState, "$this$setState");
+        return C2320198r.LIZ(setState, AnonymousClass991.HIDE_TO_EXPANDED, null, null, null, 14);
+    }
+}

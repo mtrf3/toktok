@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/w_"
+    background="@drawable/amt"
+    layout_width="121dp"
+    layout_height="36dp">
+    <LinearLayout
+        gravity="center"
+        layout_gravity="center"
+        orientation="horizontal"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            gravity="center"
+            layout_width="121dp"
+            layout_height="36dp"
+            text="@string/e4g"
+            NOT_FOUND_0x9="32"/>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,27 @@
+package X;
+
+import com.ss.android.ugc.governance.eventbus.IEvent;
+
+/* renamed from: X.Fus, reason: case insensitive filesystem */
+/* loaded from: classes7.dex */
+public final class C40494Fus implements IEvent {
+    public final int LJLIL;
+    public final long LJLILLLLZI;
+
+    @Override // com.ss.android.ugc.governance.eventbus.IEvent
+    public final /* synthetic */ IEvent post() {
+        C2U8.LIZ(this);
+        return this;
+    }
+
+    @Override // com.ss.android.ugc.governance.eventbus.IEvent
+    public final /* synthetic */ IEvent postSticky() {
+        C2U8.LIZIZ(this);
+        return this;
+    }
+
+    public C40494Fus(int i, long j) {
+        this.LJLIL = i;
+        this.LJLILLLLZI = j;
+    }
+}

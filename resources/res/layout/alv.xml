@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C80896Voy
+        id="@+id/kat"
+        background="?attr/ed"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x4="true">
+        <include layout="@layout/alg"/>
+    </X.C80896Voy>
+</FrameLayout>

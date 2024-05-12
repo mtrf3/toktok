@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set startOffset="40">
+    <translate
+        duration="200"
+        fromXDelta="10"
+        toXDelta="0"
+        fromYDelta="0"
+        toYDelta="0"/>
+    <alpha
+        duration="200"
+        fromAlpha="0"
+        toAlpha="1"/>
+</set>

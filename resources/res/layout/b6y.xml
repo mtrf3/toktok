@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    background="@drawable/bh5"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <include layout="@layout/b8e"/>
+    <FrameLayout
+        id="@+id/edv"
+        visibility="invisible"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        minHeight="72dp"/>
+    <View
+        id="@+id/edw"
+        background="?attr/cv"
+        visibility="invisible"
+        layout_width="match_parent"
+        layout_height="8dp"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center_horizontal"
+        id="@+id/ef2"
+        layout_width="72dp"
+        layout_height="72dp"
+        layout_marginTop="48dp"
+        contentDescription="@string/pg7"
+        NOT_FOUND_0x15="@raw/icon_large_person"
+        NOT_FOUND_0x16="?attr/gp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gu"
+        gravity="center"
+        layout_gravity="center_horizontal"
+        id="@+id/eg8"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="21dp"
+        text="@string/pg7"
+        NOT_FOUND_0x14="51"/>
+    <X.SY4
+        gravity="center"
+        layout_gravity="center_horizontal"
+        id="@+id/aza"
+        layout_width="144dp"
+        layout_height="wrap_content"
+        layout_marginTop="20dp"
+        layout_marginBottom="128dp"
+        text="@string/doj"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x11="@+id/eg8"
+        NOT_FOUND_0x12="2"
+        NOT_FOUND_0x13="0"/>
+</LinearLayout>

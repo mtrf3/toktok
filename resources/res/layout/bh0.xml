@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    id="@+id/c7b"
+    visibility="visible"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C5G3
+        orientation="vertical"
+        id="@+id/c81"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dl"
+        layout_gravity="bottom"
+        id="@+id/mog"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/gdr"
+        maxLines="1"
+        NOT_FOUND_0x9="62"/>
+</LinearLayout>

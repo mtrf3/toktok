@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    background="@drawable/at5"
+    layout_width="wrap_content"
+    layout_height="28dp">
+    <X.C29701Eo
+        layout_gravity="center_vertical"
+        id="@+id/fa6"
+        layout_width="25dp"
+        layout_height="25dp"
+        layout_marginStart="8dp"
+        NOT_FOUND_0xb="false"
+        NOT_FOUND_0xc="effect_dice_lottie.json"
+        NOT_FOUND_0xd="false"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        gravity="center_vertical"
+        layout_gravity="center_vertical"
+        id="@+id/azr"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/fj"
+        layout_marginEnd="10dp"
+        NOT_FOUND_0xe="52"/>
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C45161pw
+    id="@+id/c4j"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <include layout="@layout/dc"/>
+    <X.C02R
+        gravity="top"
+        id="@+id/nn"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_alignParentTop="true"
+        touchscreenBlocksFocus="true"
+        style="?attr/u3">
+        <X.C011902x
+            id="@+id/nk"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            NOT_FOUND_0x9="@string/a6p"
+            style="?attr/bjy"/>
+        <X.C281718r
+            theme="?attr/ur"
+            id="@+id/o6"
+            visibility="gone"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            style="?attr/uq"/>
+    </X.C02R>
+</X.C45161pw>

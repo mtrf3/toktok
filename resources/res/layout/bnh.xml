@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_gravity="center"
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <LinearLayout
+        gravity="center"
+        orientation="vertical"
+        background="@drawable/a12"
+        paddingTop="16dp"
+        paddingBottom="16dp"
+        layout_width="152dp"
+        layout_height="wrap_content"
+        layout_centerInParent="true"
+        paddingStart="12dp"
+        paddingEnd="12dp">
+        <X.C29701Eo
+            layout_gravity="center"
+            id="@+id/f41"
+            layout_width="112dp"
+            layout_height="67dp"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            gravity="center"
+            layout_gravity="center_horizontal"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/rp4"
+            NOT_FOUND_0xe="42"/>
+    </LinearLayout>
+</RelativeLayout>

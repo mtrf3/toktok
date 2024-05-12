@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape shape="oval">
+            <solid color="@color/c7"/>
+        </shape>
+    </item>
+    <item
+        drawable="@drawable/b55"
+        left="10dp"
+        top="10dp"
+        right="10dp"
+        bottom="10dp"/>
+</layer-list>

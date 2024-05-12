@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/dtc"
+    layout_width="36dp"
+    layout_height="36dp">
+    <X.C47061t0
+        id="@+id/dt9"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ImageView
+        id="@+id/dt_"
+        layout_width="24dp"
+        layout_height="24dp"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"/>
+    <View
+        id="@+id/it1"
+        background="@drawable/ceu"
+        visibility="gone"
+        layout_width="8dp"
+        layout_height="8dp"
+        layout_marginTop="2dp"
+        layout_marginEnd="2dp"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0xa="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

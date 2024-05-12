@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Tiešsaistes skaņu bibliotēka</item>
+        <item>Mana skaņa</item>
+    </array>
+    <array name="l">
+        <item>Notīrīt</item>
+    </array>
+    <array name="q">
+        <item>Dzēst</item>
+        <item>Atcelt</item>
+    </array>
+    <array name="r">
+        <item>Populāri</item>
+        <item>Jaunākais</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="v">
+        <item>Atlasīt no galerijas</item>
+    </array>
+    <array name="a3">
+        <item>svētdiena</item>
+        <item>pirmdiena</item>
+        <item>otrdiena</item>
+        <item>trešdiena</item>
+        <item>ceturtdiena</item>
+        <item>piektdiena</item>
+        <item>sestdiena</item>
+    </array>
+    <array name="a5">
+        <item>Vienkāršotā ķīniešu</item>
+        <item>Tradicionālā ķīniešu</item>
+        <item>Angļu</item>
+        <item>Japāņu</item>
+        <item>Korejiešu</item>
+        <item>Krievu</item>
+        <item>Indonēziešu</item>
+        <item>Malajiešu</item>
+        <item>Portugāļu</item>
+        <item>Taju</item>
+        <item>Vjetnamiešu</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Normāls</item>
+        <item>Melnbalts</item>
+        <item>Māksla</item>
+        <item>Senatnīgs</item>
+        <item>Retroluksuss</item>
+        <item>Piesātināts</item>
+        <item>Hroms</item>
+    </array>
+    <array name="aa">
+        <item>janv.</item>
+        <item>feb.</item>
+        <item>marts</item>
+        <item>apr.</item>
+        <item>maijs</item>
+        <item>jūn.</item>
+        <item>jūl.</item>
+        <item>aug.</item>
+        <item>sept.</item>
+        <item>okt.</item>
+        <item>nov.</item>
+        <item>dec.</item>
+    </array>
+    <array name="ad">
+        <item>Vispirms datu taupošs</item>
+        <item>Vispirms augsta izšķirtspēja</item>
+    </array>
+    <array name="ae">
+        <item>Visi</item>
+        <item>Tikai draugi</item>
+    </array>
+    <array name="bi">
+        <item>pirmdiena</item>
+        <item>otrdiena</item>
+        <item>trešdiena</item>
+        <item>ceturtdiena</item>
+        <item>piektdiena</item>
+        <item>sestdiena</item>
+        <item>svētdiena</item>
+    </array>
+</resources>

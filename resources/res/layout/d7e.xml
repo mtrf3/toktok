@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    layout_gravity="center_vertical"
+    orientation="horizontal"
+    background="@drawable/cba"
+    layout_width="wrap_content"
+    layout_height="31dp"
+    layout_marginLeft="8dp"
+    layout_marginTop="5dp"
+    layout_marginBottom="5dp"
+    layout_marginStart="8dp">
+    <X.C47121t6
+        textSize="13sp"
+        textColor="@color/co"
+        ellipsize="end"
+        gravity="center"
+        id="@+id/aml"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxLines="1"
+        includeFontPadding="false"
+        layout_marginStart="8dp"
+        style="@style/a4a"/>
+    <LinearLayout
+        id="@+id/amk"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        paddingStart="4dp"
+        paddingEnd="8dp">
+        <com.bytedance.android.live.design.view.icon.LiveIconView
+            layout_gravity="center_vertical"
+            id="@+id/amm"
+            layout_width="12dp"
+            layout_height="12dp"
+            NOT_FOUND_0x13="?attr/aw0"
+            NOT_FOUND_0x14="?attr/bnt"/>
+        <com.bytedance.android.live.design.view.icon.LiveIconView
+            layout_gravity="center_vertical"
+            id="@+id/amj"
+            visibility="gone"
+            layout_width="12dp"
+            layout_height="12dp"
+            NOT_FOUND_0x13="?attr/av5"
+            NOT_FOUND_0x14="?attr/bnt"/>
+    </LinearLayout>
+</LinearLayout>

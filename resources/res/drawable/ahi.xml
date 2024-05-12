@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape shape="rectangle">
+            <solid color="?attr/dg"/>
+            <corners radius="4dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape shape="rectangle">
+            <gradient
+                startColor="#5e25d1da"
+                endColor="#0025d1da"
+                angle="0"/>
+            <corners radius="4dp"/>
+        </shape>
+    </item>
+</layer-list>

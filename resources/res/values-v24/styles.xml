@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="c7" parent="@android:style/TextAppearance.Material.Widget.Button.Borderless.Colored">
+    </style>
+    <style name="c8" parent="@android:style/TextAppearance.Material.Widget.Button.Colored">
+    </style>
+    <style name="du" parent="@style/dv">
+        <item name="android:colorBackground">@color/hx</item>
+        <item name="android:buttonBarButtonStyle">?attr/a08</item>
+        <item name="android:timePickerDialogTheme">@style/sr</item>
+        <item name="android:datePickerDialogTheme">@style/sr</item>
+        <item name="android:contextPopupMenuStyle">@style/a1f</item>
+        <item name="u0">@style/so</item>
+        <item name="u1">@dimen/a46</item>
+        <item name="u3">@style/zf</item>
+        <item name="u7">@style/sf</item>
+        <item name="uu">@style/a1h</item>
+        <item name="vg">@style/ss</item>
+        <item name="w6">@style/zi</item>
+        <item name="z3">@style/a00</item>
+        <item name="z_">@style/zr</item>
+        <item name="zd">@style/sn</item>
+        <item name="a08">@style/a00</item>
+        <item name="a1v">@style/a0j</item>
+        <item name="a4e">?attr/a4w</item>
+        <item name="a4k">@color/hy</item>
+        <item name="a4r">@color/i4</item>
+        <item name="a4s">@color/i5</item>
+        <item name="adf">@style/a0o</item>
+        <item name="ap0">@style/a1g</item>
+        <item name="azg">@style/sx</item>
+        <item name="azo">@style/t5</item>
+        <item name="azy">@style/a0s</item>
+        <item name="azz">@style/t4</item>
+        <item name="b06">@style/ta</item>
+        <item name="b1v">@style/a1d</item>
+        <item name="b51">@style/a1e</item>
+        <item name="b6g">@style/a0k</item>
+        <item name="bbt">@style/a05</item>
+        <item name="bbu">@style/a1l</item>
+        <item name="bbv">@style/a1n</item>
+        <item name="bfw">@style/a0l</item>
+        <item name="bgp">@style/a1o</item>
+        <item name="bhx">?attr/bi7</item>
+        <item name="bi6">?attr/bi7</item>
+        <item name="big">@style/a1v</item>
+        <item name="bjy">@style/a2a</item>
+        <item name="bw_">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="dw" parent="@style/dx">
+        <item name="android:colorBackground">@color/hx</item>
+        <item name="android:contextPopupMenuStyle">@style/a1f</item>
+        <item name="u0">@style/so</item>
+        <item name="u1">@dimen/a46</item>
+        <item name="u3">@style/zf</item>
+        <item name="u7">@style/sf</item>
+        <item name="uu">@style/a1h</item>
+        <item name="vg">@style/ss</item>
+        <item name="w6">@style/zi</item>
+        <item name="z3">@style/a00</item>
+        <item name="z_">@style/zr</item>
+        <item name="a08">@style/a02</item>
+        <item name="a1v">@style/a0j</item>
+        <item name="a4e">?attr/a4w</item>
+        <item name="a4k">@color/hy</item>
+        <item name="a4r">@color/i4</item>
+        <item name="a4s">@color/i5</item>
+        <item name="a4w">@color/i7</item>
+        <item name="adf">@style/a0o</item>
+        <item name="ap0">@style/a1g</item>
+        <item name="azg">@style/sx</item>
+        <item name="b1v">@style/a1d</item>
+        <item name="b51">@style/a1e</item>
+        <item name="b6g">@style/a0k</item>
+        <item name="bbt">@style/a05</item>
+        <item name="bbu">@style/a1l</item>
+        <item name="bbv">@style/a1n</item>
+        <item name="bfw">@style/a0l</item>
+        <item name="bgp">@style/a1o</item>
+        <item name="bhx">?attr/bi7</item>
+        <item name="bi6">?attr/bi7</item>
+        <item name="big">@style/a1v</item>
+        <item name="bjy">@style/a2a</item>
+        <item name="bw_">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="dy" parent="@style/dz">
+        <item name="android:colorBackground">@color/i_</item>
+        <item name="android:buttonBarButtonStyle">?attr/a08</item>
+        <item name="android:timePickerDialogTheme">@style/sr</item>
+        <item name="android:datePickerDialogTheme">@style/sr</item>
+        <item name="android:contextPopupMenuStyle">@style/a1f</item>
+        <item name="u0">@style/su</item>
+        <item name="u1">@dimen/a46</item>
+        <item name="u3">@style/a0p</item>
+        <item name="uu">@style/a1h</item>
+        <item name="vg">@style/ss</item>
+        <item name="w6">@style/zg</item>
+        <item name="z3">@style/a00</item>
+        <item name="z_">@style/zr</item>
+        <item name="zd">@style/sv</item>
+        <item name="a08">@style/a00</item>
+        <item name="a1v">@style/a0j</item>
+        <item name="a4e">?attr/a4w</item>
+        <item name="a4k">@color/ia</item>
+        <item name="a4r">@color/ig</item>
+        <item name="a4s">@color/ih</item>
+        <item name="adf">@style/a0o</item>
+        <item name="ap0">@style/a1g</item>
+        <item name="azg">@style/sx</item>
+        <item name="azo">@style/t5</item>
+        <item name="azy">@style/a0s</item>
+        <item name="azz">@style/t4</item>
+        <item name="b06">@style/ta</item>
+        <item name="b1v">@style/a1d</item>
+        <item name="b51">@style/a1e</item>
+        <item name="b6g">@style/a0k</item>
+        <item name="bbt">@style/a05</item>
+        <item name="bbu">@style/a1l</item>
+        <item name="bbv">@style/a1n</item>
+        <item name="bfw">@style/a0l</item>
+        <item name="bgp">@style/a1o</item>
+        <item name="bhx">?attr/bi7</item>
+        <item name="bi6">?attr/bi7</item>
+        <item name="big">@style/a1v</item>
+        <item name="bjy">@style/a2a</item>
+        <item name="bw_">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="e1" parent="@style/e2">
+        <item name="android:colorBackground">@color/i_</item>
+        <item name="android:contextPopupMenuStyle">@style/a1f</item>
+        <item name="u0">@style/su</item>
+        <item name="u1">@dimen/a46</item>
+        <item name="u3">@style/a0p</item>
+        <item name="uu">@style/a1h</item>
+        <item name="vg">@style/ss</item>
+        <item name="w6">@style/zg</item>
+        <item name="z3">@style/a00</item>
+        <item name="z_">@style/zr</item>
+        <item name="a08">@style/a02</item>
+        <item name="a1v">@style/a0j</item>
+        <item name="a4e">?attr/a4w</item>
+        <item name="a4k">@color/ia</item>
+        <item name="a4r">@color/ig</item>
+        <item name="a4s">@color/ih</item>
+        <item name="a4w">@color/ij</item>
+        <item name="adf">@style/a0o</item>
+        <item name="ap0">@style/a1g</item>
+        <item name="azg">@style/sx</item>
+        <item name="b1v">@style/a1d</item>
+        <item name="b51">@style/a1e</item>
+        <item name="b6g">@style/a0k</item>
+        <item name="bbt">@style/a05</item>
+        <item name="bbu">@style/a1l</item>
+        <item name="bbv">@style/a1n</item>
+        <item name="bfw">@style/a0l</item>
+        <item name="bgp">@style/a1o</item>
+        <item name="bhx">?attr/bi7</item>
+        <item name="bi6">?attr/bi7</item>
+        <item name="big">@style/a1v</item>
+        <item name="bjy">@style/a2a</item>
+        <item name="bw_">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="nd" parent="@style/nc">
+    </style>
+    <style name="ng" parent="@style/nb">
+    </style>
+    <style name="ni" parent="@style/nh">
+    </style>
+    <style name="nk" parent="@style/nj">
+    </style>
+</resources>

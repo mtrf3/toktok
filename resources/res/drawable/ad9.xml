@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape>
+            <solid color="?attr/dz"/>
+        </shape>
+    </item>
+    <item
+        top="0.5dp"
+        bottom="0.5dp">
+        <shape>
+            <solid color="?attr/cr"/>
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    orientation="vertical"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C252709vu
+        id="@+id/gwg"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <X.SYL
+        id="@+id/fu6"
+        paddingTop="8dp"
+        paddingBottom="8dp"
+        clipToPadding="false"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginBottom="8dp"/>
+</androidx.appcompat.widget.LinearLayoutCompat>

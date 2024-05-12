@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/bwj"
+        background="@drawable/ad_"
+        padding="8dp"
+        layout_width="24dp"
+        layout_height="24dp"
+        NOT_FOUND_0xd="@raw/icon_minus"
+        NOT_FOUND_0xe="12dp"
+        NOT_FOUND_0xf="12dp"
+        NOT_FOUND_0x10="?attr/go"/>
+    <X.T5T
+        textColor="?attr/go"
+        gravity="center"
+        id="@+id/bwi"
+        background="@drawable/ad9"
+        layout_width="36dp"
+        layout_height="24dp"
+        singleLine="true"
+        maxLength="4"
+        digits="0123456789"
+        inputType="phone"
+        imeOptions="actionDone"
+        NOT_FOUND_0xc="41"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/bwk"
+        background="@drawable/ada"
+        padding="8dp"
+        layout_width="24dp"
+        layout_height="24dp"
+        NOT_FOUND_0xd="@raw/icon_plus"
+        NOT_FOUND_0xe="12dp"
+        NOT_FOUND_0xf="12dp"
+        NOT_FOUND_0x10="?attr/go"/>
+</merge>

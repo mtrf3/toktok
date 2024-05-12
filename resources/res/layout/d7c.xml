@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    background="@drawable/cda"
+    layout_width="wrap_content"
+    layout_height="30dp"
+    paddingStart="12dp"
+    paddingEnd="8dp">
+    <X.C47121t6
+        textColor="@color/a6a"
+        id="@+id/lpy"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        includeFontPadding="false"
+        style="@style/op"/>
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        id="@+id/lpx"
+        layout_width="16dp"
+        layout_height="16dp"
+        layout_marginStart="4dp"
+        NOT_FOUND_0xb="?attr/aw0"
+        NOT_FOUND_0xc="@color/abc"/>
+</LinearLayout>

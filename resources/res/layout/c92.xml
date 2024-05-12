@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.tag.TuxTag
+    layout_gravity="start|top"
+    id="@+id/m49"
+    paddingTop="1dp"
+    paddingBottom="1dp"
+    visibility="gone"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginTop="6dp"
+    text="@string/pev"
+    paddingStart="5dp"
+    paddingEnd="5dp"
+    layout_marginStart="6dp"
+    NOT_FOUND_0xc="?attr/d7"
+    NOT_FOUND_0xd="72"
+    NOT_FOUND_0xe="2"
+    NOT_FOUND_0xf="?attr/dj"/>

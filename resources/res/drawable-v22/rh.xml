@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <corners radius="12dp"/>
+    <gradient
+        startColor="#ff1764"
+        endColor="#ed3495"
+        angle="315"
+        type="linear"
+        startX="55"
+        startY="62"
+        endX="165"
+        endY="62"/>
+</shape>

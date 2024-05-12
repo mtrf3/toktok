@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_pressed="true"
+        color="@color/n5"/>
+    <item color="@color/n4"/>
+</selector>

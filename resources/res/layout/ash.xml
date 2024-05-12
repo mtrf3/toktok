@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C59V
+        layout_gravity="center_vertical"
+        id="@+id/lj6"
+        layout_width="match_parent"
+        layout_height="30dp"
+        layout_marginStart="16dp"
+        layout_marginEnd="16dp"/>
+    <X.C5EW
+        layout_gravity="start|center_vertical"
+        id="@+id/lj4"
+        layout_width="36dp"
+        layout_height="38dp"
+        src="@drawable/t0"/>
+</FrameLayout>

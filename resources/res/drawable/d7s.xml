@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+    <solid color="@color/abc"/>
+    <corners radius="16dp"/>
+    <stroke color="@color/abc"/>
+    <size
+        height="16dp"
+        width="16dp"/>
+</shape>

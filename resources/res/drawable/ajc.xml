@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_pressed="true">
+        <shape shape="rectangle">
+            <solid color="?attr/dr"/>
+        </shape>
+    </item>
+    <item state_pressed="false">
+        <shape shape="rectangle">
+            <solid color="@color/cz"/>
+        </shape>
+    </item>
+</selector>

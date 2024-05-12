@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/ffl"
+    clipChildren="false"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginBottom="6dp"
+    layout_marginStart="56dp"
+    layout_marginEnd="56dp">
+    <X.C218518hr
+        id="@+id/c_v"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_alignParentBottom="true"
+        layout_alignParentStart="true"/>
+    <X.C218518hr
+        id="@+id/bkv"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_alignParentBottom="true"
+        layout_marginStart="24dp"
+        layout_toEndOf="@+id/c_v"/>
+    <X.C218518hr
+        id="@+id/d5g"
+        clipChildren="false"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_alignParentBottom="true"
+        layout_marginStart="24dp"
+        layout_toEndOf="@+id/bkv"/>
+    <X.C218518hr
+        id="@+id/jtg"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_alignParentTop="true"
+        layout_alignParentEnd="true"/>
+</RelativeLayout>

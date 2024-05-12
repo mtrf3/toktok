@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <TextView
+        textSize="@dimen/akd"
+        textStyle="bold"
+        textColor="@color/adn"
+        ellipsize="end"
+        gravity="start"
+        id="@+id/nps"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginLeft="24dp"
+        layout_marginRight="24dp"
+        maxLines="1"/>
+    <X.C94528aiS
+        id="@+id/nn7"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginLeft="18dp"
+        layout_marginTop="12dp"
+        layout_marginRight="18dp"/>
+    <TextView
+        textSize="@dimen/ak_"
+        textStyle="normal"
+        textColor="@color/adn"
+        ellipsize="end"
+        layout_gravity="center"
+        id="@+id/mbc"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxLines="1"
+        drawablePadding="0dp"
+        drawableEnd="@drawable/dfk"/>
+</LinearLayout>

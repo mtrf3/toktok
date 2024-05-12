@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <FrameLayout
+        id="@+id/auz"
+        background="@drawable/cc_"
+        visibility="gone"
+        layout_width="@dimen/aat"
+        layout_height="@dimen/aar"
+        layout_marginBottom="@dimen/aas"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0">
+        <com.bytedance.android.live.design.view.icon.LiveIconView
+            layout_gravity="center"
+            id="@+id/e93"
+            visibility="visible"
+            layout_width="@dimen/ab1"
+            layout_height="@dimen/ab0"
+            NOT_FOUND_0x7="?attr/asr"/>
+    </FrameLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        id="@+id/aut"
+        visibility="gone"
+        layout_width="@dimen/aaq"
+        layout_height="@dimen/aap"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0">
+        <FrameLayout
+            id="@+id/aus"
+            background="@drawable/cc_"
+            layout_width="@dimen/aat"
+            layout_height="@dimen/aar"
+            NOT_FOUND_0x9="0"
+            NOT_FOUND_0xa="0">
+            <com.bytedance.android.live.design.view.icon.LiveIconView
+                layout_gravity="center"
+                id="@+id/e94"
+                visibility="visible"
+                layout_width="@dimen/ab1"
+                layout_height="@dimen/ab0"
+                NOT_FOUND_0x7="?attr/asr"/>
+        </FrameLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

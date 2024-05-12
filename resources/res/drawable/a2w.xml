@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item>
+        <shape shape="rectangle">
+            <corners
+                topRightRadius="@dimen/l5"
+                bottomRightRadius="@dimen/l5"/>
+            <solid color="@color/yl"/>
+        </shape>
+    </item>
+</selector>

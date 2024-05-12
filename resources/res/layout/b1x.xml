@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C111024Xi
+    orientation="vertical"
+    id="@+id/iwa"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/iwb"
+        layout_width="match_parent"
+        layout_height="0dp"
+        layout_weight="1"/>
+    <X.C4XS
+        layout_gravity="center_horizontal"
+        id="@+id/ikt"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginBottom="50dp"/>
+    <include layout="@layout/b7h"/>
+</X.C111024Xi>

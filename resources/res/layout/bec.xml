@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C72427Sbf
+        layout_gravity="center"
+        id="@+id/kiv"
+        layout_width="36dp"
+        layout_height="36dp"
+        scaleType="fitXY"
+        NOT_FOUND_0x6="@drawable/c6z"
+        NOT_FOUND_0x7="2dp"
+        NOT_FOUND_0x8="1"/>
+    <View
+        id="@+id/eiz"
+        background="@drawable/c72"
+        layout_width="42dp"
+        layout_height="42dp"/>
+</FrameLayout>

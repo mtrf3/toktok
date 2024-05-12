@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    paddingTop="8dp"
+    paddingBottom="8dp"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C63044Ooi
+        id="@+id/ay9"
+        background="@color/cz"
+        focusable="false"
+        focusableInTouchMode="false"
+        clickable="false"
+        layout_width="24dp"
+        layout_height="24dp"
+        checked="false"
+        NOT_FOUND_0x11="?attr/dj"/>
+    <X.C63044Ooi
+        id="@+id/ca7"
+        background="@color/cz"
+        focusable="false"
+        focusableInTouchMode="false"
+        clickable="false"
+        layout_width="24dp"
+        layout_height="24dp"
+        checked="false"
+        NOT_FOUND_0x11="?attr/dm"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        gravity="center_vertical"
+        id="@+id/mkd"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        adjustViewBounds="true"
+        minHeight="24dp"
+        layout_marginStart="36dp"
+        layout_marginEnd="0dp"
+        NOT_FOUND_0x10="31"/>
+</RelativeLayout>

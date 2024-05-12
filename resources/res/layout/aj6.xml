@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <LinearLayout
+        orientation="vertical"
+        id="@+id/jp1"
+        background="?attr/eb"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="108dp"
+        NOT_FOUND_0x9="0"/>
+    <LinearLayout
+        orientation="vertical"
+        id="@+id/joz"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x9="0"/>
+    <X.C252709vu
+        layout_gravity="top"
+        id="@+id/jp0"
+        fitsSystemWindows="true"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x8="@color/cz"
+        NOT_FOUND_0x9="0"/>
+    <X.C73305Spp
+        layout_gravity="center"
+        id="@+id/jp8"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

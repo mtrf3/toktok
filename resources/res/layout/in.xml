@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <FrameLayout
+        id="@+id/ddu"
+        layout_width="match_parent"
+        layout_height="32dp">
+        <androidx.appcompat.widget.AppCompatImageView
+            id="@+id/f_a"
+            visibility="gone"
+            layout_width="32dp"
+            layout_height="32dp"
+            layout_marginLeft="16dp"
+            layout_marginRight="16dp"
+            src="@drawable/t4"
+            layout_marginStart="16dp"
+            layout_marginEnd="16dp"/>
+    </FrameLayout>
+    <X.C8HQ
+        id="@+id/dcl"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0xa="@color/vn"
+        NOT_FOUND_0xb="@dimen/ex"
+        NOT_FOUND_0xc="true"/>
+</LinearLayout>

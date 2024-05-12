@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.icon.TuxIconView
+    visibility="gone"
+    layout_width="15dp"
+    layout_height="15dp"
+    layout_marginStart="5dp"
+    layout_marginEnd="6dp"
+    NOT_FOUND_0x5="@raw/icon_lock_small"
+    NOT_FOUND_0x6="?attr/dj"/>

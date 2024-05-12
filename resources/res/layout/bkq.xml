@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_gravity="center"
+    id="@+id/iaa"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.T4V
+        layout_gravity="center"
+        id="@+id/cfh"
+        layout_width="36dp"
+        layout_height="36dp"/>
+</FrameLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/nhq"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/lbo"
+        background="@drawable/zq"
+        layout_width="match_parent"
+        layout_height="8dp"/>
+    <X.O5V
+        id="@+id/ahv"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</LinearLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    orientation="vertical"
+    id="@+id/clw"
+    background="?attr/cl"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.K5T
+        id="@+id/cm1"
+        visibility="invisible"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0xb="?attr/cl"
+        NOT_FOUND_0xc="?attr/gp"
+        NOT_FOUND_0xd="@dimen/p2"
+        NOT_FOUND_0xe="true"
+        NOT_FOUND_0x10="false"/>
+    <X.AnonymousClass374
+        orientation="vertical"
+        id="@+id/clv"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginTop="@dimen/pe">
+        <X.SYL
+            id="@+id/clt"
+            clipToPadding="false"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            layout_marginStart="@dimen/ov"
+            layout_marginEnd="@dimen/ov"/>
+        <X.C73305Spp
+            id="@+id/cm2"
+            visibility="gone"
+            clipToPadding="false"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            layout_marginBottom="@dimen/pe"
+            layout_marginStart="@dimen/ot"
+            layout_marginEnd="@dimen/ot"
+            NOT_FOUND_0xf="0"/>
+    </X.AnonymousClass374>
+</FrameLayout>

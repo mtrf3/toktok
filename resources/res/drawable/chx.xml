@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item id="@android:id/background">
+        <shape>
+            <solid color="@color/cz"/>
+        </shape>
+    </item>
+    <item id="@android:id/secondaryProgress">
+        <clip>
+            <shape>
+                <solid color="@color/cz"/>
+            </shape>
+        </clip>
+    </item>
+    <item id="@android:id/progress">
+        <rotate
+            fromDegrees="270"
+            toDegrees="270">
+            <shape
+                shape="ring"
+                useLevel="true"
+                thickness="1.5dp">
+                <solid color="#e6ffffff"/>
+                <corners radius="10dp"/>
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

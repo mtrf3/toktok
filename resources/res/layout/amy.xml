@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="@color/ix"
+        ellipsize="start"
+        gravity="bottom"
+        layout_gravity="bottom|center_horizontal"
+        id="@android:id/text1"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginBottom="7dp"
+        singleLine="true"
+        textAllCaps="false"
+        NOT_FOUND_0xa="33"/>
+</FrameLayout>

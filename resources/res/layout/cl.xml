@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C86982YBu
+    id="@+id/kff"
+    paddingLeft="32dp"
+    paddingRight="32dp"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/lfn"
+        layout_width="wrap_content"
+        layout_height="0dp"
+        NOT_FOUND_0x9="this.tag==0?         (0.4*parent.height-(ebu.visible?114dp:(agh.visible?222dp:42dp)))         :(0.4*parent.height-0.4*(lao.height+message_tv.height+b1h.height+52dp))"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/ebu"
+        visibility="gone"
+        layout_width="72dp"
+        layout_height="72dp"
+        contentDescription="@null"
+        NOT_FOUND_0x8="50%"
+        NOT_FOUND_0xa="prev.bottom"/>
+    <ImageView
+        id="@+id/agh"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        contentDescription="@null"
+        NOT_FOUND_0x8="50%"
+        NOT_FOUND_0x9="180dp"
+        NOT_FOUND_0xa="prev.bottom"/>
+    <com.bytedance.tux.input.TuxTextView
+        gravity="center"
+        id="@+id/lao"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x8="50%"
+        NOT_FOUND_0xa="prev.bottom+(ebu.visible?20dp:(agh.visible?20dp:0dp))"/>
+    <com.bytedance.tux.input.TuxTextView
+        gravity="center"
+        id="@+id/message_tv"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x8="50%"
+        NOT_FOUND_0xa="prev.bottom+12dp"/>
+    <X.SY4
+        id="@+id/b1h"
+        visibility="gone"
+        layout_width="250dp"
+        layout_height="wrap_content"
+        NOT_FOUND_0x8="50%"
+        NOT_FOUND_0xa="lfn.tag==0?70%+42dp:message_tv.bottom+20dp"/>
+</X.C86982YBu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    interpolator="@android:interpolator/fast_out_linear_in"
+    duration="@integer/ak">
+    <translate
+        fromYDelta="20%p"
+        toYDelta="0"/>
+    <alpha
+        fromAlpha="0"
+        toAlpha="1"/>
+</set>

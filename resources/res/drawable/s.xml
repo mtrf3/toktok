@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="true"
+        drawable="@drawable/hc"/>
+    <item
+        state_enabled="false"
+        drawable="@drawable/ha"/>
+    <item drawable="@drawable/hc"/>
+</selector>

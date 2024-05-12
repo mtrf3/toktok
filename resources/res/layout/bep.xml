@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/j83"
+    layout_width="48dp"
+    layout_height="48dp">
+    <X.W5G
+        id="@+id/n4v"
+        layout_width="48dp"
+        layout_height="48dp"
+        NOT_FOUND_0x6="6"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        id="@+id/jks"
+        background="@null"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_centerInParent="true"
+        NOT_FOUND_0x7="72"/>
+</RelativeLayout>

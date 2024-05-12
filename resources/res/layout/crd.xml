@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C72790ShW
+        id="@+id/csp"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        scaleType="fitXY"
+        layout_centerInParent="true"/>
+    <ImageView
+        id="@+id/f29"
+        background="@drawable/qy"
+        padding="10dp"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        src="@drawable/b90"
+        scaleType="fitXY"
+        layout_centerInParent="true"/>
+</RelativeLayout>

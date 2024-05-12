@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Biblioteca de sons online</item>
+        <item>O meu som</item>
+    </array>
+    <array name="l">
+        <item>Limpar</item>
+    </array>
+    <array name="q">
+        <item>Eliminar</item>
+        <item>Cancelar</item>
+    </array>
+    <array name="r">
+        <item>Populares</item>
+        <item>Mais recentes</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>Primeiros 20</item>
+        <item>Primeiros 40</item>
+        <item>Primeiros 60</item>
+        <item>Primeiros 80</item>
+        <item>Primeiros 100</item>
+    </array>
+    <array name="v">
+        <item>Selecionar da Galeria</item>
+    </array>
+    <array name="a3">
+        <item>Domingo</item>
+        <item>Segunda-feira</item>
+        <item>Terça-feira</item>
+        <item>Quarta-feira</item>
+        <item>Quinta-feira</item>
+        <item>Sexta-feira</item>
+        <item>Sábado</item>
+    </array>
+    <array name="a5">
+        <item>Chinês simplificado</item>
+        <item>Chinês tradicional</item>
+        <item>Inglês</item>
+        <item>Japonês</item>
+        <item>Coreano</item>
+        <item>Russo</item>
+        <item>Indonésio</item>
+        <item>Malaio</item>
+        <item>Português</item>
+        <item>Tailandês</item>
+        <item>Vietnamita</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Normal</item>
+        <item>Preto/branco</item>
+        <item>Arte</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Saturado</item>
+        <item>Crómio</item>
+    </array>
+    <array name="aa">
+        <item>Jan</item>
+        <item>Fev</item>
+        <item>Mar</item>
+        <item>Abr</item>
+        <item>Mai</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Out</item>
+        <item>Nov</item>
+        <item>Dez</item>
+    </array>
+    <array name="ad">
+        <item>A prioridade é guardar dados</item>
+        <item>A prioridade é ter resolução alta</item>
+    </array>
+    <array name="ae">
+        <item>Todos</item>
+        <item>Apenas amigos</item>
+    </array>
+    <array name="bi">
+        <item>Segunda-feira</item>
+        <item>Terça-feira</item>
+        <item>Quarta-feira</item>
+        <item>Quinta-feira</item>
+        <item>Sexta-feira</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+    </array>
+</resources>

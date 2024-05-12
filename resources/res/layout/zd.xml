@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    background="?attr/c9"
+    focusable="true"
+    focusableInTouchMode="true"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <androidx.recyclerview.widget.RecyclerView
+        id="@+id/n0z"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x6="androidx.recyclerview.widget.LinearLayoutManager"/>
+</FrameLayout>

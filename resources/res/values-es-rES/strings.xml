@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tyy">Para reproducir la canción completa, conecta %1$s a Apple Music.</string>
+    <string name="tyz">Millones de canciones. Sin anuncios. \nLos nuevos usuarios pueden obtener hasta 3 meses gratis.</string>
+    <string name="tz0">Instalar Apple Music</string>
+    <string name="tz1">Actualizar Apple Music</string>
+    <string name="cqe">Añadir un sonido</string>
+    <string name="dgy">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; e introduce el código que aparece más arriba.</string>
+    <string name="dgz">[value removed]</string>
+    <string name="dh0">El inicio de sesión en WebView requiere permisos de INTERNET</string>
+    <string name="dh1">Error de AndroidManifest</string>
+    <string name="dh2">[value removed]</string>
+    <string name="dh3">[value removed]</string>
+    <string name="dh4">Cargando…</string>
+    <string name="dh5">Cancelar</string>
+    <string name="dh6">Entrar</string>
+    <string name="dh7">Continuar con Facebook</string>
+    <string name="dh8">[value removed]</string>
+    <string name="dh9">Salir</string>
+    <string name="dh_">Salir</string>
+    <string name="dha">Sesión iniciada como: %1$s</string>
+    <string name="dhb">Has iniciado sesión con Facebook</string>
+    <string name="dhc">[value removed]</string>
+    <string name="dhd">[value removed]</string>
+    <string name="dhe">Para conectar tu cuenta, abre la aplicación de Facebook en tu dispositivo móvil y comprueba las notificaciones.</string>
+    <string name="dhf">- O -</string>
+    <string name="dhg">¿No eres tú?</string>
+    <string name="dhh">Continuar como %1$s</string>
+    <string name="dhi">Confirmar inicio de sesión</string>
+    <string name="dhj">Tú decides qué información quieres compartir con las aplicaciones.</string>
+    <string name="ekn">Espacio de almacenamiento insuficiente. Libera espacio en el dispositivo e inténtalo de nuevo</string>
+    <string name="hvu">se admiten solo archivos .mp3.</string>
+    <string name="igp">Error al descargar el sonido</string>
+    <string name="ii9">[value removed]</string>
+    <string name="rjz">Cargando</string>
+</resources>

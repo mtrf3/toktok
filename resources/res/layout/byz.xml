@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    background="?attr/c9"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gv"
+        id="@+id/kp8"
+        paddingTop="8dp"
+        paddingBottom="8dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/j9g"
+        paddingStart="24dp"
+        paddingEnd="24dp"
+        NOT_FOUND_0xd="41"/>
+    <X.SYL
+        id="@+id/h_o"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="8dp"
+        layout_marginBottom="16dp"/>
+</LinearLayout>

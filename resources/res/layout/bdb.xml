@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="10dp"
+    layout_height="6dp">
+    <View
+        id="@+id/cf6"
+        layout_width="6dp"
+        layout_height="6dp"
+        NOT_FOUND_0x3="0"
+        NOT_FOUND_0x4="0"
+        NOT_FOUND_0x5="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

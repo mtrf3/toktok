@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/p6"
+    fitsSystemWindows="false"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/dm7"
+        fitsSystemWindows="true"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <View
+        id="@+id/keo"
+        background="?attr/ee"
+        layout_width="match_parent"
+        layout_height="32dp"
+        alpha="0"/>
+</FrameLayout>

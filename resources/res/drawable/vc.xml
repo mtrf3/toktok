@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_checked="true"
+        color="?attr/e2"/>
+    <item
+        state_checked="false"
+        color="?attr/gv"/>
+</selector>

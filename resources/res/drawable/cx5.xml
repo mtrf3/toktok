@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item drawable="@color/a02"/>
+    <item bottom="220dp">
+        <bitmap
+            gravity="center_horizontal"
+            src="@drawable/c_m"/>
+    </item>
+</layer-list>

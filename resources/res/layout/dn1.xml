@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/ldd"
+    clipChildren="false"
+    layout_width="36dp"
+    layout_height="36dp"
+    layout_marginStart="0dp"
+    layout_marginEnd="0dp">
+    <X.C29888BoC
+        id="@+id/ld_"
+        layout_width="36dp"
+        layout_height="36dp"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"/>
+    <ImageView
+        id="@+id/ldg"
+        layout_width="30.5dp"
+        layout_height="24dp"
+        src="@drawable/dbk"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"/>
+    <X.C2A4
+        id="@+id/lco"
+        layout_width="33dp"
+        layout_height="33dp"
+        layout_marginRight="1dp"
+        layout_marginBottom="1dp"
+        NOT_FOUND_0x9="@+id/ldg"
+        NOT_FOUND_0xa="@+id/ldg"
+        NOT_FOUND_0xb="@+id/ldg"
+        NOT_FOUND_0xc="@+id/ldg"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

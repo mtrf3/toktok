@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_marginLeft="16dp"
+    layout_marginRight="16dp"
+    layout_marginBottom="8dp">
+    <LinearLayout
+        theme="@style/ul"
+        gravity="center_vertical"
+        id="@+id/gr2"
+        background="@drawable/bwi"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x13="0">
+        <com.ss.android.ugc.aweme.base.ui.SmartAvatarImageView
+            id="@+id/gr0"
+            layout_width="16dp"
+            layout_height="16dp"
+            layout_marginTop="3dp"
+            layout_marginBottom="3dp"
+            layout_marginStart="3dp"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/gx"
+            ellipsize="end"
+            id="@+id/gr1"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            lines="1"
+            layout_marginStart="5dp"
+            layout_marginEnd="8dp"
+            NOT_FOUND_0x14="62"/>
+    </LinearLayout>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gp"
+        id="@+id/gr3"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/mt"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x13="0"
+        NOT_FOUND_0x14="42"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

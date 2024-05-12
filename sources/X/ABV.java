@@ -1,0 +1,6 @@
+package X;
+
+/* loaded from: classes5.dex */
+public interface ABV {
+    void LJJIFFI(int i);
+}

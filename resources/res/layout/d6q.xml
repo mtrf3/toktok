@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="48dp">
+    <X.C116414hZ
+        layout_gravity="center"
+        id="@+id/g94"
+        visibility="invisible"
+        layout_width="16dp"
+        layout_height="16dp"
+        NOT_FOUND_0x5="@color/bc"/>
+</FrameLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="bottom"
+    layout_gravity="bottom"
+    orientation="vertical"
+    id="@+id/bc0"
+    background="@color/fq"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <FrameLayout
+        id="@+id/bc1"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <X.C57442Ng
+        id="@+id/bbz"
+        clickable="true"
+        layout_width="match_parent"
+        layout_height="60dp"/>
+</LinearLayout>

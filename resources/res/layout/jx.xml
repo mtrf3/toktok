@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/j71"
+    background="@color/cz"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C130965Ca
+        layout_gravity="center"
+        id="@+id/chm"
+        visibility="invisible"
+        layout_width="92dp"
+        layout_height="103dp"/>
+    <X.C119464mU
+        layout_gravity="center"
+        id="@+id/bbj"
+        visibility="invisible"
+        layout_width="16dp"
+        layout_height="16dp"/>
+</FrameLayout>

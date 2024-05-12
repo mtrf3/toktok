@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    paddingBottom="8dp"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        ellipsize="end"
+        gravity="center"
+        id="@+id/mc_"
+        background="@drawable/ahw"
+        layout_width="match_parent"
+        layout_height="28dp"
+        maxLines="2"
+        paddingStart="8dp"
+        paddingEnd="8dp"
+        NOT_FOUND_0xb="15dp"
+        NOT_FOUND_0xc="11dp"
+        NOT_FOUND_0xd="1dp"
+        NOT_FOUND_0xe="1"
+        NOT_FOUND_0xf="51"/>
+</RelativeLayout>

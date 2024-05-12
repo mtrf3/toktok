@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Libreria dei suoni online</item>
+        <item>I miei suoni</item>
+    </array>
+    <array name="q">
+        <item>Elimina</item>
+        <item>Annulla</item>
+    </array>
+    <array name="r">
+        <item>Tendenze</item>
+        <item>Più recenti</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>Domenica</item>
+        <item>Lunedì</item>
+        <item>Martedì</item>
+        <item>Mercoledì</item>
+        <item>Giovedì</item>
+        <item>Venerdì</item>
+        <item>Sabato</item>
+    </array>
+    <array name="a5">
+        <item>Cinese semplificato</item>
+        <item>Cinese tradizionale</item>
+        <item>Inglese</item>
+        <item>Giapponese</item>
+        <item>Coreano</item>
+        <item>Russo</item>
+        <item>Indonesiano</item>
+        <item>Malese</item>
+        <item>Portoghese</item>
+        <item>Thailandese</item>
+        <item>Vietnamita</item>
+        <item>Indi</item>
+    </array>
+    <array name="a7">
+        <item>Normale</item>
+        <item>Bianco/Nero</item>
+        <item>Arte</item>
+        <item>Vintage</item>
+        <item>Retroilluminazione</item>
+        <item>Saturazione</item>
+        <item>Cromatismo</item>
+    </array>
+    <array name="aa">
+        <item>Gen</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mag</item>
+        <item>Giu</item>
+        <item>Lug</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Ott</item>
+        <item>Nov</item>
+        <item>Dic</item>
+    </array>
+    <array name="ad">
+        <item>Salvataggio dei dati prima</item>
+        <item>Alta risoluzione prima</item>
+    </array>
+    <array name="ae">
+        <item>Tutti</item>
+        <item>Solo amici</item>
+    </array>
+    <array name="bi">
+        <item>Lunedì</item>
+        <item>Martedì</item>
+        <item>Mercoledì</item>
+        <item>Giovedì</item>
+        <item>Venerdì</item>
+        <item>Sabato</item>
+        <item>Domenica</item>
+    </array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="iw">
+        <item quantity="one">Можно выбрать не более %1$d файла</item>
+        <item quantity="few">Можно выбрать не более %1$d файлов</item>
+        <item quantity="many">Можно выбрать не более %1$d файлов</item>
+        <item quantity="other">Можно выбрать не более %1$d файлов</item>
+    </plurals>
+    <plurals name="j0">
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+        <item quantity="other">%d нового уведомления</item>
+    </plurals>
+</resources>

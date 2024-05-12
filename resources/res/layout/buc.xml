@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    paddingLeft="@dimen/a0n"
+    paddingTop="16dp"
+    paddingRight="@dimen/a0n"
+    paddingBottom="16dp"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C80315Vfb
+        id="@+id/goj"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_weight="1">
+        <X.V8M
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            hint="@string/i_d"
+            inputType="date"
+            imeOptions="flagNoExtractUi"/>
+    </X.C80315Vfb>
+    <Space
+        layout_width="8dp"
+        layout_height="0dp"/>
+    <X.C80315Vfb
+        id="@+id/goi"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_weight="1">
+        <X.V8M
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            hint="@string/i_c"
+            inputType="date"
+            imeOptions="flagNoExtractUi"/>
+    </X.C80315Vfb>
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    gravity="center_vertical"
+    paddingLeft="8dp"
+    paddingTop="10dp"
+    paddingRight="8dp"
+    paddingBottom="10dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    paddingHorizontal="8dp"
+    paddingVertical="10dp">
+    <ImageView
+        id="@+id/m0_"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginLeft="8dp"
+        layout_centerVertical="true"
+        layout_marginStart="8dp"/>
+    <ImageView
+        id="@+id/mdx"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginRight="8dp"
+        layout_alignParentRight="true"
+        layout_centerVertical="true"
+        layout_marginEnd="8dp"
+        layout_alignParentEnd="true"/>
+</RelativeLayout>

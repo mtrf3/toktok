@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    background="?attr/d4"
+    focusable="true"
+    focusableInTouchMode="true"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.T5T
+        textColor="?attr/dj"
+        textColorHint="?attr/dm"
+        gravity="center_vertical"
+        id="@+id/c47"
+        paddingLeft="16dp"
+        paddingTop="3dp"
+        paddingRight="16dp"
+        paddingBottom="8dp"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        minHeight="45dp"
+        hint="Debug tools，long press GO to close"
+        layout_weight="1"
+        NOT_FOUND_0x12="71"/>
+    <LinearLayout
+        gravity="center_vertical"
+        orientation="vertical"
+        id="@+id/b23"
+        background="?attr/gr"
+        layout_width="60dp"
+        layout_height="match_parent">
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            gravity="center"
+            layout_width="60dp"
+            layout_height="wrap_content"
+            text="GO"
+            NOT_FOUND_0x12="51"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            gravity="center"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            text="long press to close"
+            NOT_FOUND_0x12="91"/>
+    </LinearLayout>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        gravity="center"
+        id="@+id/b29"
+        layout_width="30dp"
+        layout_height="match_parent"
+        text="expand"
+        NOT_FOUND_0x12="91"/>
+</LinearLayout>

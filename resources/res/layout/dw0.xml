@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    layout_gravity="center"
+    orientation="horizontal"
+    id="@+id/fmp"
+    layout_width="wrap_content"
+    layout_height="match_parent">
+    <ImageView
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/kyo"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        scaleType="fitXY"/>
+    <TextView
+        ellipsize="end"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/kyq"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        singleLine="true"
+        style="@dimen/akb"/>
+</LinearLayout>

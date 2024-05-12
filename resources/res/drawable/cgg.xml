@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape shape="rectangle">
+            <gradient
+                startColor="#282934"
+                endColor="#1c1e2d"
+                angle="90"
+                type="linear"/>
+            <corners
+                topLeftRadius="8dp"
+                topRightRadius="8dp"/>
+        </shape>
+    </item>
+</layer-list>

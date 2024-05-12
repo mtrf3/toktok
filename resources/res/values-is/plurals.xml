@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">Við byrjum að búa til avatarana þína eftir %d mínútu.</item>
+        <item quantity="other">Við byrjum að búa til avatarana þína eftir %d mínútur.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">Halda áfram með %d stíl</item>
+        <item quantity="other">Halda áfram með %d stíla</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">Veldu að minnsta kosti %d mynd í viðbót með mannsandliti</item>
+        <item quantity="other">Veldu að minnsta kosti %d myndir í viðbót með mannsandliti</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">Þú getur búið til avatara %d sinni á dag með Sharp</item>
+        <item quantity="other">Þú getur búið til avatara %d sinnum á dag með Sharp</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">Þú getur búið til avatara %d sinni í viku með Sharp</item>
+        <item quantity="other">Þú getur búið til avatara %d sinnum í viku með Sharp</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">Þú getur búið til avatara %d sinni á dag með Speedy</item>
+        <item quantity="other">Þú getur búið til avatara %d sinnum á dag með Speedy</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="one">Þú getur búið til avatara %d sinni í viku með Speedy</item>
+        <item quantity="other">Þú getur búið til avatara %d sinnum í viku með Speedy</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="one">Þú getur búið til avatara %d sinni á dag</item>
+        <item quantity="other">Þú getur búið til avatara %d sinnum á dag</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="one">Þú getur búið til avatara %d sinni á viku</item>
+        <item quantity="other">Þú getur búið til avatara %d sinnum á viku</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="one">Við byrjum að búa til avatarana þína eftir %d mínútu.</item>
+        <item quantity="other">Við byrjum að búa til avatarana þína eftir %d mínútur.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="one">Þú átt %d beiðni</item>
+        <item quantity="other">Þú átt %d beiðnir</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="one">Þú átt %d beiðni</item>
+        <item quantity="other">Þú átt %d beiðnir</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="one">%d spurning</item>
+        <item quantity="other">%d spurningar</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="one">Fyrsta %d daginn verða aðrir að birta til að skoða færslurnar þínar.</item>
+        <item quantity="other">Fyrsta %d daginn verða aðrir að birta til að skoða færslurnar þínar.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="one">Eftir %d dag geta þau skoðað færslurnar þínar án þess að birta.</item>
+        <item quantity="other">Eftir %d daga geta þau skoðað færslurnar þínar án þess að birta.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="one">Eftir %d dag er það bara þú sem getur séð færslurnar þínar.</item>
+        <item quantity="other">Eftir %d daga er það bara þú sem getur séð færslurnar þínar.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="one">Fyrstu %d dagana verða aðrir að birta til að skoða Now færslurnar þínar.</item>
+        <item quantity="other">Fyrstu %d dagana verða aðrir að birta til að skoða Now færslurnar þínar.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="one">%d vara</item>
+        <item quantity="other">%d vörur</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="one">Opna mynd frá {username}</item>
+        <item quantity="other">Opna myndir frá {username}</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="one">{number} manneskja bætti þessu myndbandi við Eftirlætin sín</item>
+        <item quantity="other">{number} manns bættu þessu myndbandi við Eftirlætin sín</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="one">%d líkar við</item>
+        <item quantity="other">%d líkar við</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ milljarður</item>
+        <item quantity="other">%@ milljarðar</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ million</item>
+        <item quantity="other">%@ million</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ thousand</item>
+        <item quantity="other">%@thousand</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="one">%d áhorf</item>
+        <item quantity="other">%d áhorf</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="one">%s myndband leyfir athugasemdir</item>
+        <item quantity="other">%s myndbönd leyfa athugasemdir</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="one">%s myndband leyfir ekki athugasemdir</item>
+        <item quantity="other">%s myndbönd leyfa ekki athugasemdir</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="one">á meðan %d leyfir ekki Dúett</item>
+        <item quantity="other">á meðan %d leyfa ekki Dúett</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="one">Hver sem er getur farið í Dúett með myndböndunum þínum. %1$d af myndböndunum þínum leyfir Dúett, %2$s</item>
+        <item quantity="other">Hver sem er getur farið í Dúett með myndböndunum þínum. %1$d af myndböndunum þínum leyfa Dúett, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="one">á meðan %d leyfir ekki Dúett</item>
+        <item quantity="other">á meðan %d leyfa ekki Dúett</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="one">Vinir geta farið í Dúett með myndböndunum þínum. %1$d af myndböndunum þínum leyfir Dúett, %2$s</item>
+        <item quantity="other">Vinir geta farið í Dúett með myndböndunum þínum. %1$d af myndböndunum þínum leyfa Dúett, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="one">á meðan %d leyfir ekki Dúett</item>
+        <item quantity="other">á meðan %d leyfa ekki Dúett</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="one">Farðu yfir hverjir geta farið í Dúett með myndböndunum þínum. %1$d af myndböndunum þínum leyfir Dúett, %2$s</item>
+        <item quantity="other">Farðu yfir hverjir geta farið í Dúett með myndböndunum þínum. %1$d af myndböndunum þínum leyfa Dúett, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="one">á meðan %d leyfir ekki Samskeytingu</item>
+        <item quantity="other">á meðan %d leyfa ekki Samskeytingu</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="one">Farðu yfir hverjir geta skeytt saman myndböndunum þínum. %1$d af myndböndunum þínum leyfir samskeytingu, %2$s</item>
+        <item quantity="other">Farðu yfir hverjir geta skeytt saman myndböndunum þínum. %1$d af myndböndunum þínum leyfa samskeytingu, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="one">á meðan %d leyfir ekki Samskeytingu</item>
+        <item quantity="other">á meðan %d leyfa ekki Samskeytingu</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="one">Hver sem er getur skeytt saman myndböndunum þínum. %1$d af myndböndunum þínum leyfir samskeytingu, %2$s</item>
+        <item quantity="other">Hver sem er getur skeytt saman myndböndunum þínum. %1$d af myndböndunum þínum leyfa samskeytingu, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="one">á meðan %d leyfir ekki Samskeytingu</item>
+        <item quantity="other">á meðan %d leyfa ekki Samskeytingu</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="one">Vinir geta skeytt saman myndböndunum þínum. %1$d af myndböndunum þínum leyfir samskeytingu, %2$s</item>
+        <item quantity="other">Vinir geta skeytt saman myndböndunum þínum. %1$d af myndböndunum þínum leyfa samskeytingu, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="one">%s myndband leyfir Dúett</item>
+        <item quantity="other">%s myndbönd leyfa Dúett</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="one">%s myndband leyfir ekki Dúett</item>
+        <item quantity="other">%s myndbönd leyfa ekki Dúett</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="one">%s myndband leyfir Samskeytingu</item>
+        <item quantity="other">%s myndbönd leyfa Samskeytingu</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="one">%s myndband leyfir ekki Samskeytingu</item>
+        <item quantity="other">%s myndbönd leyfa ekki Samskeytingu</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="one">Virk(ur) fyrir %d klukkustund</item>
+        <item quantity="other">Virk(ur) fyrir %d klukkustundum</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="one">Virk(ur) fyrir %d mínútu</item>
+        <item quantity="other">Virk(ur) fyrir %d mínútum</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="one">%d hlutur</item>
+        <item quantity="other">%d hlutir</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="one">%1$s · %2$d ný færsla</item>
+        <item quantity="other">%1$s · %2$d nýjar færslur</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="one">Flytja inn %d hljóð</item>
+        <item quantity="other">Flytja inn %d hljóð</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="one">%2$d myndbönd Í BEINNI | %1$d saga</item>
+        <item quantity="other">%2$d myndbönd Í BEINNI | %1$d sögur</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="one">%2$d myndband Í BEINNI | %1$d saga</item>
+        <item quantity="other">%2$d myndbönd Í BEINNI | %1$d saga</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="one">%d myndband Í BEINNI | Saga</item>
+        <item quantity="other">%d myndbönd Í BEINNI | Saga</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="one">%2$d myndband Í BEINNI | %1$d saga</item>
+        <item quantity="other">%2$d myndband Í BEINNI | %1$d sögur</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="one">%d saga</item>
+        <item quantity="other">%d sögur</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="one">%d vini boðið</item>
+        <item quantity="other">%d vinum boðið</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="one">%s myndband</item>
+        <item quantity="other">%s myndbönd</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="one">%s myndbandi bætt við</item>
+        <item quantity="other">%s myndböndum bætt við</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="one">%s myndband birt</item>
+        <item quantity="other">%s myndbönd birt</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="one">Bæta við myndbandi (%d)</item>
+        <item quantity="other">Bæta við myndböndum (%d)</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="one">%d árs</item>
+        <item quantity="other">%d ára</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="one">%d árs</item>
+        <item quantity="other">%d ára</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="one">Ert þú %d árs?\n\n Ef þetta er ekki rétt færð þú kannski ekki réttu TikTok upplifunina. Þú getur kannski ekki breytt því strax.</item>
+        <item quantity="other">Ert þú %d ára?\n\n Ef þetta er ekki rétt færð þú kannski ekki réttu TikTok upplifunina. Þú getur kannski ekki breytt því strax.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="one">Ert þú %d árs?</item>
+        <item quantity="other">Ert þú %d ára?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="one">Þú slóst inn %d árs aldur. Sláðu inn raunverulegan fæðingardag þinn.</item>
+        <item quantity="other">Þú slóst inn %d ára aldur. Sláðu inn raunverulegan fæðingardag þinn.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="one">%d árs</item>
+        <item quantity="other">%d ára</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="one">%d hljóð</item>
+        <item quantity="other">%d hljóð</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="one">Samstillir hljóð...</item>
+        <item quantity="other">Samstillir hljóð...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="one">%s deiling</item>
+        <item quantity="other">%s deilingar</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="one">%s áhorf</item>
+        <item quantity="other">%s áhorf</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="one">Raddbrellur geta minnkað nákvæmni</item>
+        <item quantity="other">Raddbrellur geta minnkað nákvæmni</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="one">Hladdu upp allt að %d skrá</item>
+        <item quantity="other">Hladdu upp allt að %d skrám</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="one">Þessi beta útgáfa rennur út eftir %d dag</item>
+        <item quantity="other">Þessi beta útgáfa rennur út eftir %d daga</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="one">Rennur út eftir %d dag</item>
+        <item quantity="other">Rennur út eftir %d daga</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="one">Rennur út eftir %d dag</item>
+        <item quantity="other">Rennur út eftir %d daga</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="one">Rennur út eftir %d dag</item>
+        <item quantity="other">Rennur út eftir %d daga</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="one">Þú getur bætt við allt að %d bók</item>
+        <item quantity="other">Þú getur bætt við allt að %d bókum</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="one">%s myndskeið</item>
+        <item quantity="other">%s myndskeið</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="one">Skoða %d fleiri</item>
+        <item quantity="other">Skoða %d fleiri</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="one">Skoða %d svar</item>
+        <item quantity="other">Skoða %d svör</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="one">%d mánuður</item>
+        <item quantity="other">%d mánuðir</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="one">%d ár</item>
+        <item quantity="other">%d ár</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="one">Útiloka reikning</item>
+        <item quantity="other">Útiloka reikninga</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="one">%d reikningur valinn.</item>
+        <item quantity="other">%d reikningar valdir.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="one">Þú getur valið allt að %d reikning í einu.</item>
+        <item quantity="other">Þú getur valið allt að %d reikninga í einu.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="one">Þú hefur valið %d reikning til að útiloka. Í útilokuðum reikningum sést ekki prófíll þinn eða efni á TikTok.</item>
+        <item quantity="other">Þú hefur valið %d reikninga til að útiloka. Í útilokuðum reikningum sést ekki prófíll þinn eða efni á TikTok.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="one">Útiloka %d reikning?</item>
+        <item quantity="other">Útiloka %d reikninga?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="one">Eyða athugasemd</item>
+        <item quantity="other">Eyða athugasemdum</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="one">Þú hefur valið %d athugasemd.</item>
+        <item quantity="other">Þú hefur valið %d athugasemdum.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="one">Eyða %d athugasemd?</item>
+        <item quantity="other">Eyða %d athugasemdum?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="one">Athugasemd eytt</item>
+        <item quantity="other">Athugasemdum eytt</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="one">%d athugasemd valin.</item>
+        <item quantity="other">%d athugasemdar valdar.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="one">Þú getur valið allt að %d athugasemd í einu.</item>
+        <item quantity="other">Þú getur valið allt að %d athugasemdir í einu.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="one">Tilkynna athugasemd</item>
+        <item quantity="other">Tilkynna athugasemdir</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="one">Þú ert að tilkynna %d athugasemd. Við förum yfir þessa athugasemd varðandi óviðeigandi efni.</item>
+        <item quantity="other">Þú ert að tilkynna %d athugasemdir. Við förum yfir þessa athugasemd varðandi óviðeigandi efni.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="one">Tilkynna %d athugasemd?</item>
+        <item quantity="other">Tilkynna %d athugasemdir?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="one">Athugasemd tilkynnt</item>
+        <item quantity="other">Athugasemdir tilkynntar</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="one">%s athugasemd</item>
+        <item quantity="other">%s athugasemdir</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="one">%s myndband</item>
+        <item quantity="other">%s myndbönd</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="one">%s notandi stillti áminningu</item>
+        <item quantity="other">%s notendur stilltu áminningar</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="one">%s brella</item>
+        <item quantity="other">%s brellur</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="one">Myndbandsáhorf</item>
+        <item quantity="other">Myndbandsáhorf</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="one">Nettófylgjandi</item>
+        <item quantity="other">Nettófylgjendur</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="one">Líkar við</item>
+        <item quantity="other">Líkar við</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="one">%s notandi stillti áminningu</item>
+        <item quantity="other">%s notendur stilltu áminningar</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="one">Eyða drögum?</item>
+        <item quantity="other">Eyða drögum?</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="one">%s færsla</item>
+        <item quantity="other">%s færslur</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="one">Rangt aðgangsorð. %d tilraun eftir.</item>
+        <item quantity="other">Rangt aðgangsorð. %d tilraunir eftir.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="one">Of margar tilraunir. Reyndu aftur eftir %d mínútu.</item>
+        <item quantity="other">Of margar tilraunir. Reyndu aftur eftir %d mínútur.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="one">%d melódía</item>
+        <item quantity="other">%d melódíur</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="one">%d tónlistarverk</item>
+        <item quantity="other">%d tónlistarverk</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="one">%d verk</item>
+        <item quantity="other">%d verk</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="one">%d lag</item>
+        <item quantity="other">%d lög</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="one">%d hljóð</item>
+        <item quantity="other">%d hljóð</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="one">%d lag</item>
+        <item quantity="other">%d lög</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="one">Senda (%d)</item>
+        <item quantity="other">Senda (%d)</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="one">%1$d fylgir · %2$d fylgjandi</item>
+        <item quantity="other">%1$d fylgir · %2$d fylgjendur</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="one">@ ný nefning</item>
+        <item quantity="other">@ nýjar nefningar</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="one">sendi ný skilaboð.</item>
+        <item quantity="other">sendi ný skilaboð.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="one">sendi þér ný skilaboð.</item>
+        <item quantity="other">sendi þér ný skilaboð.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="one">Þú getur valið allt að %d aðila</item>
+        <item quantity="other">Þú getur valið allt að %d manns</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="one">Farga drögum?</item>
+        <item quantity="other">Farga drögum?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="one">Eyða drögum?</item>
+        <item quantity="other">Eyða drögum?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="one">Drög að {#} myndbandi</item>
+        <item quantity="other">Drög að {#} myndböndum</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="one">%1$s og %2$s annar mun fá tilkynningu þegar þetta myndband er birt.</item>
+        <item quantity="other">%1$s og %2$s aðrir munu fá tilkynningu þegar þetta myndband er birt.</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="one">Veldu að minnsta kosti %d atriði</item>
+        <item quantity="other">Veldu að minnsta kosti %d atriði</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="one">Lýkur eftir %s dag</item>
+        <item quantity="other">Lýkur eftir %s daga</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="one">Þú getur aðeins breytt allt að %d sinni</item>
+        <item quantity="other">Þú getur aðeins breytt allt að %d sinnum</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="one">Forskoðaðu brellu í %ds</item>
+        <item quantity="other">Forskoðaðu brellu í %ds</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="one">Merkt</item>
+        <item quantity="other">Merkt</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="one">Þú gætir þekkt þennan hópfélaga.</item>
+        <item quantity="other">Þú gætir þekkt þessa hópfélaga.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="one">%s myndband</item>
+        <item quantity="other">%s myndbönd</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="one">%s myndbandi bætt við</item>
+        <item quantity="other">%s myndböndum bætt við</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="one">Fjarlægja %1$d myndband úr %2$s</item>
+        <item quantity="other">Fjarlægja %1$d myndbönd úr %2$s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="one">%1$d myndband fært í %2$s</item>
+        <item quantity="other">%1$d myndbönd færð í %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="one">%d myndband fjarlægt</item>
+        <item quantity="other">%d myndbönd fjarlægð</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="one">%d ný tillaga að reikningi</item>
+        <item quantity="other">%d nýjar tillögur að reikningum</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="one">Fylgt af {0}, {1} og {2} öðrum</item>
+        <item quantity="other">Fylgt af {0}, {1} og {2} öðrum</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="one">Fylgt af {0} og {2} öðrum</item>
+        <item quantity="other">Fylgt af {0} og {2} öðrum</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="one">Fylgir {0}, {1} og {2} öðrum</item>
+        <item quantity="other">Fylgir {0}, {1} og {2} öðrum</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="one">Fylgir {0} og {2} öðrum</item>
+        <item quantity="other">Fylgir {0} og {2} öðrum</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="one">Vinur {0}, {1} og {2} annars</item>
+        <item quantity="other">Vinur {0}, {1} og {2} annarra</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="one">Vinur {0} og {2} annars</item>
+        <item quantity="other">Vinur {0} og {2} annarra</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="one">{2} sameiginleg tengsl</item>
+        <item quantity="other">{2} sameiginleg tengsl</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="one">%d ný færsla frá vinum</item>
+        <item quantity="other">%d nýjar færslur frá vinum</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="one">%d meðlimur virkur núna</item>
+        <item quantity="other">%d meðlimir virkir núna</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="one">%1$d meðlimur virkur fyrir %2$d mínútum síðan</item>
+        <item quantity="other">%1$d meðlimir virkir fyrir %2$d mínútum síðan</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="one">%d meðlimur virkur í dag</item>
+        <item quantity="other">%d meðlimir virkir í dag</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="one">%d meðlimur</item>
+        <item quantity="other">%d meðlimir</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="one">Ný beiðni</item>
+        <item quantity="other">Nýjar beiðnir</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="one">%s meðlimur</item>
+        <item quantity="other">%s meðlimir</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="one">Sjá %d meðlim til viðbótar</item>
+        <item quantity="other">Sjá %d meðlimi til viðbótar</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="one">%s áhorf</item>
+        <item quantity="other">%s áhorf</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="one">Fylgjandi: %s</item>
+        <item quantity="other">Fylgjendur: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="one">Myndband: %s</item>
+        <item quantity="other">Myndbönd: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="one">Sent til %s og %d annars</item>
+        <item quantity="other">Sent til %s og %d annarra</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="one">Gat ekki&apos;t hlaðið upp %d sögu. Sagan var vistuð í drögin þín.</item>
+        <item quantity="other">Gat ekki&apos;t hlaðið upp %d sögum. Sögurnar voru vistaðar í drögum.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="one">Ekki tókst að hlaða upp mynd. Myndin var vistuð í drögum.</item>
+        <item quantity="other">Ekki&apos;t tókst að hlaða upp myndum. Myndirnar voru vistaðar í drögum.</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="one">%d límmiði</item>
+        <item quantity="other">%d límmiðar</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="one">nefndi þig á mynd.</item>
+        <item quantity="other">nefndi þig á myndum.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="one">%s ný færsla</item>
+        <item quantity="other">%s nýjar færslur</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="one">Virkni</item>
+        <item quantity="other">Virkni</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="one">Fylgdu %1$s, %2$s og %d öðrum sem þú gætir þekkt til að horfa á myndböndin þeirra.</item>
+        <item quantity="other">Fylgdu %1$s, %2$s og %d öðrum sem þú gætir þekkt til að horfa á myndböndin þeirra.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="one">%d annar</item>
+        <item quantity="other">%d aðrir</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="one">Fylgdu %1$s, %2$s og %3$d öðrum sem þú gætir þekkt til að horfa á myndböndin þeirra.</item>
+        <item quantity="other">Fylgdu %1$s, %2$s og %3$d öðrum sem þú gætir þekkt til að horfa á myndböndin þeirra.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="one">Skilaboð</item>
+        <item quantity="other">Skilaboð</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="one">Ný virkni</item>
+        <item quantity="other">Ný virkni</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="one">%s meðlimur</item>
+        <item quantity="other">%s meðlimir</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="one">%s færsla</item>
+        <item quantity="other">%s færslur</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="one">%d leitarorð</item>
+        <item quantity="other">%d leitarorð</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="one">%d myndband Í BEINNI</item>
+        <item quantity="other">%d myndbönd Í BEINNI</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="one">Lýkur eftir %s dag</item>
+        <item quantity="other">Lýkur eftir %s daga</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="one">%d beiðni</item>
+        <item quantity="other">%d beiðnir</item>
+    </plurals>
+    <plurals name="j0">
+        <item quantity="one">%d ný tilkynning</item>
+        <item quantity="other">%d nýjar tilkynningar</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="one">Afvelja lag sem nýtt?</item>
+        <item quantity="other">Afvelja lög sem ný?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="one">%d lag afvalið sem nýtt</item>
+        <item quantity="other">%d lög afvalin sem nýtt</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="one">%d útgáfa</item>
+        <item quantity="other">%d útgáfur</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="one">%d listamaður</item>
+        <item quantity="other">%d listamenn</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="one">%d sameiginleg tengsl</item>
+        <item quantity="other">%d sameiginleg tengsl</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="one">%d sameiginleg tengsl</item>
+        <item quantity="other">%d sameiginleg tengsl</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="one">Þú getur nú hlaðið upp myndbandi sem er allt að %d mínútu löng!</item>
+        <item quantity="other">Þú getur nú hlaðið upp myndböndum sem eru allt að %d mínútna löng!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="one">Kynnir %d mínútna myndband</item>
+        <item quantity="other">Kynnir %d mínútna myndband</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="one">%d sameiginleg tengsl</item>
+        <item quantity="other">%d sameiginleg tengsl</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="one">%d athugasemd</item>
+        <item quantity="other">%d athugasemdir</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="one">Skoða allar %d athugasemd</item>
+        <item quantity="other">Skoða allar %d athugasemdir</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="one">{nickname} og {number_1} annar</item>
+        <item quantity="other">{nickname} og {number_1} aðrir</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="one">{number} vinur birti Now dagsins</item>
+        <item quantity="other">{number} vinir birtu Now dagsins</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="one">%1$s og %2$d annar birtu Now</item>
+        <item quantity="other">%1$s og %2$d aðrir birtu Now</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="one">{nickname} og {number_1} annar</item>
+        <item quantity="other">{nickname} og {number_1} aðrir</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="one">Tengstu {number} vini þínum á TikTok Now til að deila augnablikum af handahófi</item>
+        <item quantity="other">Tengstu {number} vinum þínum á TikTok Now til að deila augnablikum af handahófi</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="one">Birtu þitt Now á næstu {number} mínútu</item>
+        <item quantity="other">Birtu þitt Now á næstu {number} mínútum</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="one">%d mínúta eftir til að birta Now.</item>
+        <item quantity="other">%d mínútur eftir til að birta Now.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="one">%d sameiginlegur vinur</item>
+        <item quantity="other">%d sameiginlegir vinir</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="one">%d líkar</item>
+        <item quantity="other">%d Líkar</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="one">{1}, {2}, {3} og {number} annar birtu Now.</item>
+        <item quantity="other">{1}, {2}, {3} og {number} aðrir birtu Now.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="one">%d viðbragð</item>
+        <item quantity="other">%d viðbrögð</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="one">%d áhorf</item>
+        <item quantity="other">%d áhorf</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="one">%d áhorf</item>
+        <item quantity="other">%d áhorf</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="one">%1$s og %2$s annar</item>
+        <item quantity="other">%1$s og %2$s aðrir</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="one">Færsla þín sem er samstillt frá Lemon8 er ekki enn með hljóði. Bættu við hljóði til að gera færslu þína meira aðlaðandi fyrir áhorfendur.</item>
+        <item quantity="other">Færslur þínar sem eru samstilltar frá Lemon8 eru ekki enn með hljóði. Bættu við hljóði til að gera færslurnar þínar meira aðlaðandi fyrir áhorfendur.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="one">Bættu við hljóði til að bæta færslu þína</item>
+        <item quantity="other">Bættu við hljóði til að bæta færslur þínar</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="one">líkaði við myndina þína.</item>
+        <item quantity="other">líkaði við myndirnar þínar.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="one">kaus myndina þína.</item>
+        <item quantity="other">kaus myndirnar þínar.</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="one">%d þáttur</item>
+        <item quantity="other">%d þættir</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="one">%d hlutur</item>
+        <item quantity="other">%d hlutir</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="one">Áætlað er að %s hefjist eftir 10 mínútur. %d áhorfandi hefur séð viðburðinn þinn. Farðu Í BEINA núna til að fá sem mest út úr kynningu þinni!</item>
+        <item quantity="other">Áætlað er að %s hefjist eftir 10 mínútur. %d áhorfendur hafa séð viðburðinn þinn. Farðu Í BEINA núna til að fá sem mest út úr kynningu þinni!</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="one">Skoða %s kennsluverkefni</item>
+        <item quantity="other">Skoða %s kennsluverkefni</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="one">Færsla (%s)</item>
+        <item quantity="other">Færslur (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="one">(%s umsögn)</item>
+        <item quantity="other">(%s umsagnir)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="one">%s mynd ekki hlaðið upp. Reyndu aftur.</item>
+        <item quantity="other">%s myndum ekki hlaðið upp. Reyndu aftur.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="one">%d álíka hljóð</item>
+        <item quantity="other">%d álíka hljóð</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="one">%d prófíláhorf</item>
+        <item quantity="other">%d prófíláhorf</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="one">Fylgjandi</item>
+        <item quantity="other">Fylgjendur</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="one">%1$s fékk %2$s líkar við</item>
+        <item quantity="other">%1$s fékk alls %2$s líkar við í öllum myndböndum</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="one">skoðaði prófílinn þinn.</item>
+        <item quantity="other">skoðuðu prófílinn þinn.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="one">%1$s, %2$s og %d annar</item>
+        <item quantity="other">%1$s, %2$s og %d aðrir</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="one">%s aðili skoðaði prófílinn þinn.</item>
+        <item quantity="other">%s aðilar skoðuðu prófílinn þinn.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="one">{0}, {1} og {2} annar skoðaði prófílinn þinn.</item>
+        <item quantity="other">{0}, {1} og {2} aðrir skoðuðu prófílinn þinn.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="one">Við sendum tilkynningu á %1$s og %2$s annað tæki. Gakktu úr skugga um að þú hafir TikTok opið og pikkaðu á „Já“ í tilkynningunni til að halda áfram að skrá þig inn.</item>
+        <item quantity="other">Við sendum tilkynningu á %1$s og %2$s önnur tæki. Gakktu úr skugga um að þú hafir TikTok opið og pikkaðu á „Já“ í tilkynningunni til að halda áfram að skrá þig inn.</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="one">%s myndband</item>
+        <item quantity="other">%s myndbönd</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="one">%d myndband</item>
+        <item quantity="other">%d myndbönd</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="one">%s ótiltæk spurning var fjarlægð úr boðunum þínum</item>
+        <item quantity="other">%s ótiltækar spurningar voru fjarlægðar úr boðunum þínum</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="one">%s ný skilaboð</item>
+        <item quantity="other">%s ný skilaboð</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="one">%s nýtt viðbragð</item>
+        <item quantity="other">%s ný viðbrögð</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="one">mælt með %d</item>
+        <item quantity="other">mælt með %d</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="one">mælt með %d</item>
+        <item quantity="other">mælt með %d</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="one">Skoða %d fleiri meðmæli</item>
+        <item quantity="other">Skoða %d fleiri meðmæli</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="one">Taka upp allt að %d sekúndu</item>
+        <item quantity="other">Taka upp allt að %d sekúndur</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="one">Taka upp allt að %d sekúndu með hljóði úr upprunalega myndbandinu</item>
+        <item quantity="other">Taka upp allt að %d sekúndur með hljóði úr upprunalega myndbandinu</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="one">Drög (%d)</item>
+        <item quantity="other">Drög (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="one">Myndbandið þitt verður þaggað ef þú velur að endurheimta þetta hljóð.</item>
+        <item quantity="other">Myndbandið þitt verður þaggað ef þú velur að endurheimta þessi hljóð.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="one">Endurheimta höfundarréttarvarið hljóð?</item>
+        <item quantity="other">Endurheimta höfundarréttarvarin hljóð?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="one">Höfundarréttarvarið hljóð fjarlægt</item>
+        <item quantity="other">Höfundarréttarvarin hljóð fjarlægð</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="one">Fjarlægir hljóð</item>
+        <item quantity="other">Fjarlægir hljóð</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="one">Hljóð fjarlægt</item>
+        <item quantity="other">Hljóð fjarlægð</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="one">Skipta um hljóð</item>
+        <item quantity="other">Skipta um hljóð</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="one">Fjarlægir höfundarréttarvarið hljóð...</item>
+        <item quantity="other">Fjarlægir höfundarréttarvarin hljóð...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="one">Við höfum greint hljóð sem brýtur gegn höfundarrétti lengur en 1 mínútu í myndbandinu þínu og það verður þaggað ef þú velur að halda áfram. Skiptu um hljóðið eða styttu myndbandið. %s</item>
+        <item quantity="other">Við höfum greint hljóð sem brýtur gegn höfundarrétti lengur en 1 mínútu í myndbandinu þínu og það verður þaggað ef þú velur að halda áfram. Skiptu um hljóðið eða styttu myndbandið. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="one">Skipta um hljóð</item>
+        <item quantity="other">Skipta um hljóð</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="one">Fjarlægir höfundarréttarvarið hljóð...</item>
+        <item quantity="other">Fjarlægir höfundarréttarvarin hljóð...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="one">Við fundum hljóð sem brýtur gegn höfundarrétti í myndbandinu þínu. Myndbandið þitt verður þaggað ef þú velur að halda áfram eða þú getur skipt hljóðinu út. %s</item>
+        <item quantity="other">Við fundum hljóð sem brýtur gegn höfundarrétti í myndbandinu þínu. Myndbandið þitt verður þaggað ef þú velur að halda áfram eða þú getur skipt hljóðunum út. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="one">Höfundarréttarvarið hljóð</item>
+        <item quantity="other">Höfundarréttarvarin hljóð</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="one">Höfundarréttarhafi hefur aðeins heimilað notkun á þessu hljóði í 1 mínútu.</item>
+        <item quantity="other">Höfundarréttarhafar hafa aðeins heimilað notkun á þessum hljóðum í 1 mínútu.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="one">Höfundarréttarhafi heimilar ekki notkun þessa hljóðs.</item>
+        <item quantity="other">Höfundarréttarhafar heimila ekki notkun þessara hljóða.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="one">Skipta um hljóð</item>
+        <item quantity="other">Skipta um hljóð</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="one">Við höfum greint hljóð sem brýtur gegn höfundarrétti lengur en 1 mínútu í myndbandinu þínu og það verður þaggað ef þú velur að halda áfram. Skiptu um hljóðið eða styttu myndbandið. %s</item>
+        <item quantity="other">Við höfum greint hljóð sem brýtur gegn höfundarrétti lengur en 1 mínútu í myndbandinu þínu og það verður þaggað ef þú velur að halda áfram. Skiptu um hljóðið eða styttu myndbandið. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="one">Skipta um hljóð</item>
+        <item quantity="other">Skipta um hljóð</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="one">Við fundum hljóð sem brýtur gegn höfundarrétti í myndbandinu þínu. Myndbandið þitt verður þaggað ef þú velur að halda áfram eða þú getur skipt hljóðinu út. %s</item>
+        <item quantity="other">Við fundum hljóð sem brýtur gegn höfundarrétti í myndbandinu þínu. Myndbandið þitt verður þaggað ef þú velur að halda áfram eða þú getur skipt hljóðunum út. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="one">Fjarlægja myndband (%d)</item>
+        <item quantity="other">Fjarlægja myndbönd (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="one">%d endurbirting</item>
+        <item quantity="other">%d endurbirtingar</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="one">%d endurbirti</item>
+        <item quantity="other">%d endurbirtu</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="one">%d endurbirti</item>
+        <item quantity="other">%d endurbirtu</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="one">Skoða %d endurbirtingu í viðbót</item>
+        <item quantity="other">Skoða %d endurbirtingar í viðbót</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="one">%d dagur</item>
+        <item quantity="other">%d dagar</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="one">Framkvæmdu %1$d leit til viðbótar til að fá %2$d punkta</item>
+        <item quantity="other">Framkvæmdu %1$d leitir til viðbótar til að fá %2$d punkta</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="one">Skoðaðu leitarniðurstöður í %d sekúndu</item>
+        <item quantity="other">Skoðaðu leitarniðurstöður í %d sekúndur</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="one">Framkvæmdu %1$d leit til viðbótar til að fá %2$d punkta!</item>
+        <item quantity="other">Framkvæmdu %1$d leitir til viðbótar til að fá %2$d punkta!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="one">%d samsvarandi hljóð</item>
+        <item quantity="other">%d samsvarandi hljóð</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="one">Uppfært fyrir %dd síðan</item>
+        <item quantity="other">Uppfært fyrir %dd síðan</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="one">Uppfært fyrir %d klst. síðan</item>
+        <item quantity="other">Uppfært fyrir %d klst. síðan</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="one">Uppfært fyrir %dm síðan</item>
+        <item quantity="other">Uppfært fyrir %dm síðan</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="one">Uppfært fyrir %d sek. síðan</item>
+        <item quantity="other">Uppfært fyrir %d sek. síðan</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="one">Uppfært fyrir %d v. síðan</item>
+        <item quantity="other">Uppfært fyrir %d v. síðan</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="one">Til hamingju! Þú fékkst %d fleiri kaup í gær. Haltu áfram þínu frábæra starfi og fylgstu með frammistöðu seríu þinnar í „Verkfæri efnishöfundar“ &gt; „Sería“.</item>
+        <item quantity="other">Til hamingju! Þú fékkst %d fleiri kaup í gær. Haltu áfram þínu frábæra starfi og fylgstu með frammistöðu seríu þinnar í „Verkfæri efnishöfundar“ &gt; „Sería“.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="one">Serían þín hefur fengið %d síðuheimsókn á síðustu dögum. Til að fylgjast með frammistöðu seríunnar og fá gagnlegar ábendingar til að laða að hugsanlega kaupendur, geturðu fengið aðgang að greiningarverkfærunum í „Verkfæri efnishöfundar“ &gt; „Sería“.</item>
+        <item quantity="other">Serían þín hefur fengið %d síðuheimsóknir á síðustu dögum. Til að fylgjast með frammistöðu seríunnar og fá gagnlegar ábendingar til að laða að hugsanlega kaupendur, geturðu fengið aðgang að greiningarverkfærunum í „Verkfæri efnishöfundar“ &gt; „Sería“.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="one">Til hamingju! %d áhorfandi Í BEINNI hjá þér keypti aðgang að seríunni þinni í gær. Haltu áfram þínu frábæra starfi og fylgstu með frammistöðu seríu þinnar í „Verkfæri efnishöfundar“ &gt; „Sería“.</item>
+        <item quantity="other">Til hamingju! %d áhorfendur Í BEINNI hjá þér keyptu aðgang að seríunni þinni í gær. Haltu áfram þínu frábæra starfi og fylgstu með frammistöðu seríu þinnar í „Verkfæri efnishöfundar“ &gt; „Sería“.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="one">Til hamingju! %d áhorfandi keypti aðgang að seríunni þinni í gær í myndbandi með seríutengli. Haltu áfram þínu frábæra starfi og fylgstu með frammistöðu seríu þinnar í „Verkfæri efnishöfundar“ &gt; „Sería“.</item>
+        <item quantity="other">Til hamingju! %d áhorfendur keyptu aðgang að seríunni þinni í gær í myndbandi með seríutengli. Haltu áfram þínu frábæra starfi og fylgstu með frammistöðu seríu þinnar í „Verkfæri efnishöfundar“ &gt; „Sería“.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="one">Halda áfram í myndavél (%d)</item>
+        <item quantity="other">Halda áfram í myndavél (%d)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="one">Aðeins fyrsti kaupandi</item>
+        <item quantity="other">Aðeins fyrstu %d kaupendur</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="one">Aðeins %d eftir</item>
+        <item quantity="other">Aðeins %d eftir</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="one">Rennur út eftir %d dag</item>
+        <item quantity="other">Rennur út eftir %d daga</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="one">%d myndband</item>
+        <item quantity="other">%d myndbönd</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="one">%d myndband</item>
+        <item quantity="other">%d myndbönd</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="one">%d myndband</item>
+        <item quantity="other">%d myndbönd</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="one">%s myndband</item>
+        <item quantity="other">%s myndbönd</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="one">%d áhorf</item>
+        <item quantity="other">%d áhorf</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="one">Saga (%d)</item>
+        <item quantity="other">Sögur (%d)</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="one">%d myndbandi bætt við</item>
+        <item quantity="other">%d myndböndum bætt við</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="one">Efnishöfundar hafa verið á TikTok í meira en %d mánuð.</item>
+        <item quantity="other">Efnishöfundar hafa verið á TikTok í meira en %d mánuði.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="one">Höfundar eru með að minnsta kosti %d fylgjanda.</item>
+        <item quantity="other">Höfundar eru með að minnsta kosti %d fylgjendur.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="one">%d samskipti</item>
+        <item quantity="other">%d samskipti</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="one">Dagleg takmörk við að bæta við vinsælu efni: %d færsla</item>
+        <item quantity="other">Dagleg takmörk við að bæta við vinsælu efni: %d færslur</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="one">Áætlaður yfirferðartími: %d dagur</item>
+        <item quantity="other">Áætlaður yfirferðartími: %d dagar</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="one">%@ myndband</item>
+        <item quantity="other">%@ myndbönd</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="one">%@ áhorf</item>
+        <item quantity="other">%@ áhorf</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="one">%d dagur</item>
+        <item quantity="other">%d dagar</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="one">Þú hefur %d dag til að upplifa þennan eiginleika á TikTok. Eftir það þarftu að hlaða niður TikTok Now appinu til að halda áfram.</item>
+        <item quantity="other">Þú hefur %d daga til að upplifa þennan eiginleika á TikTok. Eftir það þarftu að hlaða niður TikTok Now appinu til að halda áfram.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="one">Birtu til að byrja %d-dags TikTok Now upplifunina þína.</item>
+        <item quantity="other">Birtu til að byrja %d-dags TikTok Now upplifunina þína.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="one">Velja eða taka upp %d myndskeið</item>
+        <item quantity="other">Velja eða taka upp %d myndskeið</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="one">Breyta ókláraðri mynd?</item>
+        <item quantity="other">Breyta ókláruðum myndum?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="one">%s ný færsla</item>
+        <item quantity="other">%s nýjar færslur</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="one">birti %d myndband</item>
+        <item quantity="other">birti %d myndbönd</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="one">Ert þú %d árs?</item>
+        <item quantity="other">Ert þú %d ára?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="one">Notaðu klippt hljóð. Taktu upp allt að %d sekúndu.</item>
+        <item quantity="other">Notaðu klippt hljóð. Taktu upp allt að %d sekúndur.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="one">%s áhorfandi</item>
+        <item quantity="other">%s áhorfendur</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="one">%s líkar við</item>
+        <item quantity="other">%s líkar við</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="one">Deilir með %1$s í %2$s s</item>
+        <item quantity="other">Deilir með %1$s í %2$s s</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="one">%d vara</item>
+        <item quantity="other">%d vörur</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="one">Færsla</item>
+        <item quantity="other">Færslur</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="one">%1$s, %2$s og %d annar</item>
+        <item quantity="other">%1$s, %2$s og %d aðrir</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="one">skoðaði færsluna þína.</item>
+        <item quantity="other">skoðuðu færslurnar þínar.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="one">%s deila</item>
+        <item quantity="other">%s deilingar</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="one">%s áhorf</item>
+        <item quantity="other">%s áhorf</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="one">{0} {1} og {2} annar skoðaði færsluna þína.</item>
+        <item quantity="other">{0} {1} og {2} aðrir skoðuðu færslurnar þínar.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="one">%d mynt</item>
+        <item quantity="other">%d myntir</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="one">sent: %s</item>
+        <item quantity="other">sent: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="one">Mynd vistuð</item>
+        <item quantity="other">Myndir vistaðar</item>
+    </plurals>
+</resources>

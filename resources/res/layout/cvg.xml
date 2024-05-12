@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.T4Y
+        id="@+id/g7a"
+        background="@drawable/chy"
+        padding="12dp"
+        focusable="true"
+        visibility="invisible"
+        clickable="true"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_margin="8dp"/>
+</FrameLayout>

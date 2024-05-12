@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    paddingTop="8dp"
+    paddingBottom="8dp"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        layout_gravity="center"
+        id="@+id/lvb"
+        background="@drawable/a4m"
+        paddingTop="8dp"
+        paddingBottom="8dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/pwq"
+        maxLines="1"
+        paddingStart="12dp"
+        paddingEnd="12dp"
+        NOT_FOUND_0xc="62"/>
+</FrameLayout>

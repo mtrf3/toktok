@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C59202Ua
+    orientation="horizontal"
+    paddingBottom="20dp"
+    layout_width="match_parent"
+    layout_height="50dp">
+    <X.C54447LYl
+        id="@+id/lol"
+        fadingEdgeLength="40dp"
+        layout_width="0dp"
+        layout_height="match_parent"
+        layout_weight="1"
+        overScrollMode="never"
+        requiresFadingEdge="horizontal"
+        layout_marginEnd="20dp"/>
+    <X.C2A7
+        textColor="@color/a6a"
+        id="@+id/lok"
+        layout_width="wrap_content"
+        layout_height="30dp"
+        minWidth="67dp"
+        text="@string/mzo"
+        layout_marginEnd="12dp"
+        NOT_FOUND_0xd="true"
+        style="@style/a2t"/>
+</X.C59202Ua>

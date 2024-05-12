@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.KGP
+    orientation="vertical"
+    id="@+id/jfq"
+    background="?attr/cl"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        layout_width="match_parent"
+        layout_height="0dp"
+        layout_weight="1">
+        <X.C45621qg
+            layout_width="match_parent"
+            layout_height="match_parent">
+            <FrameLayout
+                id="@+id/jif"
+                layout_width="match_parent"
+                layout_height="match_parent"/>
+        </X.C45621qg>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/eb"
+            id="@+id/c4_"
+            visibility="gone"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="Refactor page"/>
+    </FrameLayout>
+</X.KGP>

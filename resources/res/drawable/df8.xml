@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_pressed="true"
+        color="@color/aex"/>
+    <item
+        state_enabled="true"
+        color="@android:color/white"/>
+    <item
+        state_enabled="false"
+        color="@color/aex"/>
+    <item color="@color/aeo"/>
+</selector>

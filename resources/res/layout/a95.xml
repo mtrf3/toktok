@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/ibz"
+    background="@drawable/agj"
+    visibility="gone"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <LinearLayout
+        gravity="center_vertical"
+        orientation="horizontal"
+        paddingLeft="16dp"
+        paddingTop="6dp"
+        paddingRight="16dp"
+        paddingBottom="6dp"
+        layout_width="match_parent"
+        layout_height="wrap_content">
+        <com.bytedance.tux.icon.TuxIconView
+            layout_width="20dp"
+            layout_height="20dp"
+            layout_marginEnd="8dp"
+            NOT_FOUND_0x10="@drawable/ae3"
+            NOT_FOUND_0x11="?attr/e2"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/e2"
+            id="@+id/ic2"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="Apply available deals"
+            NOT_FOUND_0xf="62"/>
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/ic0"
+            layout_width="10dp"
+            layout_height="10dp"
+            NOT_FOUND_0x10="@raw/icon_chevron_right_offset_fill_ltr"
+            NOT_FOUND_0x11="?attr/e2"/>
+        <View
+            layout_width="match_parent"
+            layout_height="0dp"
+            layout_weight="1"/>
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/ic1"
+            layout_width="20dp"
+            layout_height="20dp"
+            NOT_FOUND_0x10="@raw/icon_x_mark_small"
+            NOT_FOUND_0x11="?attr/e2"/>
+    </LinearLayout>
+</LinearLayout>

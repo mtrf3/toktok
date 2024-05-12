@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.AI8
+        id="@+id/ilq"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x8="@color/ck"
+        NOT_FOUND_0x9="@integer/q"
+        NOT_FOUND_0xc="3"/>
+    <X.C26018AJa
+        id="@+id/cpu"
+        paddingLeft="16dp"
+        paddingRight="16dp"
+        paddingBottom="8dp"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0xa="@color/ck"
+        NOT_FOUND_0xb="@integer/q"/>
+</LinearLayout>

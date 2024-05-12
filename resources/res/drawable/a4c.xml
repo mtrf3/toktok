@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    shape="rectangle"
+    useLevel="false">
+    <stroke
+        width="1dp"
+        color="?attr/cl"/>
+    <solid color="?attr/ck"/>
+    <corners radius="32dp"/>
+    <padding
+        left="1dp"
+        top="1dp"
+        right="1dp"
+        bottom="1dp"/>
+    <size
+        height="20dp"
+        width="20dp"/>
+</shape>

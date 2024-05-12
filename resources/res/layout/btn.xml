@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    id="@+id/b1u"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    fillViewport="true"
+    style="?attr/a0b">
+    <X.C010102f
+        gravity="bottom"
+        orientation="horizontal"
+        paddingLeft="8dp"
+        paddingTop="2dp"
+        paddingRight="8dp"
+        paddingBottom="2dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layoutDirection="locale"
+        paddingStart="8dp"
+        paddingEnd="8dp">
+        <Button
+            id="@android:id/button3"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            style="?attr/a0_"/>
+        <android.widget.Space
+            id="@+id/k8o"
+            visibility="invisible"
+            layout_width="0dp"
+            layout_height="0dp"
+            layout_weight="1"/>
+        <Button
+            id="@android:id/button2"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            style="?attr/a09"/>
+        <Button
+            id="@android:id/button1"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            style="?attr/a0a"/>
+    </X.C010102f>
+</ScrollView>

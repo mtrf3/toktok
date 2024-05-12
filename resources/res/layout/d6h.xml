@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/l_2"
+    background="@color/ar"
+    layout_width="0dp"
+    layout_height="52dp">
+    <ImageView
+        id="@+id/l_6"
+        visibility="gone"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginLeft="15.27dp"
+        src="@drawable/cu7"
+        layout_alignParentLeft="true"
+        layout_centerVertical="true"/>
+    <X.C47121t6
+        textSize="17dp"
+        textColor="@color/ck"
+        ellipsize="end"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/l_c"
+        background="@color/aau"
+        visibility="visible"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="41dp"
+        layout_marginRight="41dp"
+        maxLines="2"
+        layout_centerInParent="true"
+        NOT_FOUND_0x13="2"/>
+    <ImageView
+        id="@+id/l_b"
+        visibility="gone"
+        layout_width="24dp"
+        layout_height="24dp"
+        src="@drawable/cyr"
+        layout_alignParentRight="true"
+        layout_centerVertical="true"
+        layout_marginEnd="15.27dp"/>
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+    <solid color="@android:color/white"/>
+    <corners
+        topLeftRadius="@dimen/j3"
+        topRightRadius="@dimen/j3"
+        bottomLeftRadius="@dimen/j2"
+        bottomRightRadius="@dimen/j2"/>
+</shape>

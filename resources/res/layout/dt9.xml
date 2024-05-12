@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    theme="@style/ul"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <LinearLayout
+        gravity="center"
+        orientation="vertical"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_centerInParent="true">
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/go"
+            id="@+id/m34"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            NOT_FOUND_0xd="11"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/go"
+            id="@+id/mct"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            NOT_FOUND_0xd="71"/>
+    </LinearLayout>
+    <View
+        background="?attr/gq"
+        layout_width="0.25dp"
+        layout_height="36dp"
+        layout_alignParentRight="true"
+        layout_centerVertical="true"
+        alpha="0.2"
+        layout_alignParentEnd="true"/>
+</RelativeLayout>

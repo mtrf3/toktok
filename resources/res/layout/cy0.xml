@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    id="@+id/j6f"
+    visibility="gone"
+    layout_width="match_parent"
+    layout_height="40dp"
+    layout_marginLeft="16dp"
+    layout_marginTop="24dp"
+    layout_marginRight="16dp"
+    layout_marginStart="16dp"
+    layout_marginEnd="16dp">
+    <X.C47121t6
+        textSize="16sp"
+        textColor="@color/a_v"
+        ellipsize="end"
+        gravity="center"
+        id="@+id/j6g"
+        background="@drawable/cl6"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginRight="1dp"
+        maxLines="1"
+        lines="1"
+        layout_weight="1"
+        textAllCaps="false"
+        layout_marginEnd="1dp"
+        NOT_FOUND_0x13="7"/>
+    <X.C47121t6
+        textSize="16sp"
+        textColor="@color/a_v"
+        ellipsize="end"
+        gravity="center"
+        id="@+id/j6h"
+        background="@drawable/cl7"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginLeft="1dp"
+        maxLines="1"
+        lines="1"
+        layout_weight="1"
+        textAllCaps="false"
+        layout_marginStart="1dp"
+        NOT_FOUND_0x13="7"/>
+</LinearLayout>

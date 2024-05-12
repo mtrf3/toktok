@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <LinearLayout
+        gravity="center_horizontal"
+        orientation="vertical"
+        id="@+id/kg5"
+        layout_width="16dp"
+        layout_height="match_parent"
+        layout_alignBottom="@+id/kg6"
+        layout_alignParentTop="true">
+        <View
+            id="@+id/kg8"
+            layout_width="1px"
+            layout_height="4dp"/>
+        <ImageView
+            id="@+id/kg4"
+            layout_width="8dp"
+            layout_height="8dp"/>
+        <View
+            id="@+id/kg3"
+            layout_width="1px"
+            layout_height="match_parent"/>
+    </LinearLayout>
+    <com.bytedance.tux.input.TuxTextView
+        id="@+id/kg7"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="8dp"
+        layout_marginRight="0dp"
+        layout_toRightOf="@+id/kg5"
+        layout_marginStart="8dp"
+        layout_marginEnd="0dp"
+        layout_toEndOf="@+id/kg5"/>
+    <com.bytedance.tux.input.TuxTextView
+        gravity="center_vertical"
+        id="@+id/kg6"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="4dp"
+        layout_below="@+id/kg7"
+        layout_alignLeft="@+id/kg7"
+        layout_alignStart="@+id/kg7"/>
+</RelativeLayout>

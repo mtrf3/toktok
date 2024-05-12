@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/gu"
+    ellipsize="end"
+    id="@+id/bst"
+    background="@drawable/akf"
+    paddingTop="9.5dp"
+    paddingBottom="9.5dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_margin="4dp"
+    text="text"
+    maxLines="1"
+    paddingStart="16dp"
+    paddingEnd="16dp"
+    NOT_FOUND_0xd="51"/>

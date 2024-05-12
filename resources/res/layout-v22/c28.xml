@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C82A
+    id="@+id/hoy"
+    background="@drawable/a3s"
+    paddingLeft="8dp"
+    paddingTop="4dp"
+    paddingRight="8dp"
+    paddingBottom="4dp"
+    visibility="gone"
+    layout_width="wrap_content"
+    layout_height="24dp"
+    paddingHorizontal="8dp"
+    paddingVertical="4dp"/>

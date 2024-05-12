@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/j5n"
+    background="@drawable/a82"
+    paddingLeft="16dp"
+    paddingTop="20dp"
+    paddingRight="12dp"
+    paddingBottom="20dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    scaleType="centerCrop"
+    paddingStart="16dp"
+    paddingEnd="12dp">
+    <ImageView
+        id="@+id/f12"
+        background="?attr/go"
+        layout_width="48dp"
+        layout_height="62dp"
+        scaleType="centerCrop"
+        layout_alignParentLeft="true"
+        layout_alignParentTop="true"
+        layout_alignParentStart="true"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        id="@+id/mo5"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="16dp"
+        layout_marginRight="60dp"
+        text="@string/bzc"
+        layout_toRightOf="@+id/f12"
+        layout_centerVertical="true"
+        layout_marginStart="16dp"
+        layout_marginEnd="60dp"
+        layout_toEndOf="@+id/f12"
+        NOT_FOUND_0x1a="41"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/f0h"
+        padding="4dp"
+        layout_width="32dp"
+        layout_height="32dp"
+        layout_alignParentRight="true"
+        layout_centerVertical="true"
+        layout_alignParentEnd="true"
+        NOT_FOUND_0x1b="@raw/icon_x_mark"
+        NOT_FOUND_0x1c="?attr/go"/>
+</RelativeLayout>

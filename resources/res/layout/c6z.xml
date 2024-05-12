@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C131895Fp
+    id="@+id/i7y"
+    layout_width="match_parent"
+    layout_height="match_parent"
+    NOT_FOUND_0x7="@+id/gxh"
+    NOT_FOUND_0x8="@+id/i7z">
+    <include
+        layout_gravity="top"
+        id="@+id/i7z"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout="@layout/c73"/>
+    <include
+        layout_gravity="bottom"
+        id="@+id/gxh"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout="@layout/c72"/>
+    <include
+        layout_gravity="top"
+        id="@+id/i83"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="34dp"
+        layout_marginStart="16dp"
+        layout_marginEnd="16dp"
+        layout="@layout/c74"/>
+</X.C131895Fp>

@@ -1,0 +1,19 @@
+package X;
+
+import com.bytedance.android.livesdk.broadcast.interaction.widget.ShortCutPanelWidget;
+import kotlin.jvm.internal.o;
+
+/* renamed from: X.Cgw, reason: case insensitive filesystem */
+/* loaded from: classes6.dex */
+public final /* synthetic */ class C31986Cgw extends TBS implements InterfaceC88472Yns<EnumC06880Ou, Boolean> {
+    public C31986Cgw(Object obj) {
+        super(1, obj, ShortCutPanelWidget.class, "canHideSubPanel", "canHideSubPanel(Lcom/bytedance/android/live/broadcast/shortcutpanel/ShortCutPanel;)Z", 0);
+    }
+
+    @Override // X.InterfaceC88472Yns
+    public final Boolean invoke(EnumC06880Ou enumC06880Ou) {
+        EnumC06880Ou p0 = enumC06880Ou;
+        o.LJIIIZ(p0, "p0");
+        return Boolean.valueOf(((ShortCutPanelWidget) this.receiver).LJLZ(p0));
+    }
+}

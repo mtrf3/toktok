@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    clipChildren="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C1047049a
+        layout_width="match_parent"
+        layout_height="match_parent"
+        fillViewport="true"
+        layout_below="@+id/l_2"
+        NOT_FOUND_0x8="@string/brp">
+        <FrameLayout
+            layout_width="match_parent"
+            layout_height="match_parent"
+            layout_marginTop="8dp">
+            <X.C81334Vw2
+                id="@+id/kb5"
+                layout_width="match_parent"
+                layout_height="match_parent">
+                <androidx.recyclerview.widget.RecyclerView
+                    id="@+id/j_9"
+                    layout_width="match_parent"
+                    layout_height="wrap_content"/>
+            </X.C81334Vw2>
+            <X.C73305Spp
+                id="@+id/kfn"
+                visibility="gone"
+                layout_width="match_parent"
+                layout_height="match_parent"
+                NOT_FOUND_0x9="0"/>
+        </FrameLayout>
+    </X.C1047049a>
+</RelativeLayout>

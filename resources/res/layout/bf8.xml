@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/kej"
+        background="?attr/cl"
+        layout_width="match_parent"
+        layout_height="0dp"/>
+    <X.C252709vu
+        id="@+id/la4"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <ScrollView
+        layout_width="match_parent"
+        layout_height="0dp"
+        layout_marginTop="8dp"
+        layout_weight="1">
+        <LinearLayout
+            orientation="vertical"
+            layout_width="match_parent"
+            layout_height="wrap_content">
+            <X.AI8
+                id="@+id/jar"
+                layout_width="match_parent"
+                layout_height="wrap_content"
+                NOT_FOUND_0x8="2"
+                NOT_FOUND_0x9="@string/q9g"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

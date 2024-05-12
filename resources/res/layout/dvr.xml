@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <ImageView
+        id="@+id/np0"
+        layout_width="20dp"
+        layout_height="20dp"
+        src="@drawable/dg7"
+        layout_marginStart="8dp"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x13="0"
+        NOT_FOUND_0x14="0"/>
+    <EditText
+        textSize="15sp"
+        textColor="@color/adn"
+        textColorHint="@color/adp"
+        id="@+id/cps"
+        background="@null"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        maxLines="1"
+        lines="1"
+        singleLine="true"
+        maxLength="200"
+        imeOptions="actionSearch"
+        textCursorDrawable="@drawable/dip"
+        layout_marginStart="6dp"
+        layout_marginEnd="10dp"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x12="@+id/np0"
+        NOT_FOUND_0x14="0"/>
+</merge>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    background="?attr/cv"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C119244m8
+        textColor="?attr/gu"
+        layout_gravity="center"
+        padding="9dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/h1a"
+        NOT_FOUND_0x7="41"
+        NOT_FOUND_0x8="16dp"
+        NOT_FOUND_0x9="4dp"
+        NOT_FOUND_0xa="@raw/icon_3pt_private_account"
+        NOT_FOUND_0xb="16dp"
+        NOT_FOUND_0xc="?attr/gv"/>
+</FrameLayout>

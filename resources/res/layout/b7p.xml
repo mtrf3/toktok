@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    focusable="true"
+    visibility="gone"
+    clickable="true"
+    layout_width="match_parent"
+    layout_height="0dp">
+    <View
+        id="@+id/geq"
+        background="?attr/ei"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <androidx.recyclerview.widget.RecyclerView
+        id="@+id/ggu"
+        paddingTop="16dp"
+        paddingBottom="4dp"
+        layout_width="match_parent"
+        layout_height="94dp"
+        NOT_FOUND_0x9="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

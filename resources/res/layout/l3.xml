@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.recyclerview.widget.RecyclerView
+    id="@+id/ggm"
+    paddingLeft="6dp"
+    paddingTop="12dp"
+    paddingRight="6dp"
+    paddingBottom="12dp"
+    visibility="gone"
+    clipChildren="false"
+    clipToPadding="false"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    paddingStart="6dp"
+    paddingEnd="6dp"/>

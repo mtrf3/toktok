@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    orientation="vertical"
+    id="@+id/j71"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C252709vu
+        id="@+id/la4"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <X.SYL
+        id="@+id/ftq"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginTop="8dp"
+        layout_below="@+id/la4"/>
+</RelativeLayout>

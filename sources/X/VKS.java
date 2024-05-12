@@ -1,0 +1,59 @@
+package X;
+
+import com.bytedance.mt.protector.impl.collections.ListProtector;
+import java.util.Iterator;
+
+/* loaded from: classes15.dex */
+public final class VKS implements Iterator {
+    public int LJLIL = -1;
+    public boolean LJLILLLLZI;
+    public Iterator LJLJI;
+    public final /* synthetic */ VKV LJLJJI;
+
+    @Override // java.util.Iterator
+    public final /* bridge */ /* synthetic */ Object next() {
+        this.LJLILLLLZI = true;
+        int i = this.LJLIL + 1;
+        this.LJLIL = i;
+        if (i < this.LJLJJI.LJLILLLLZI.size()) {
+            return ListProtector.get(this.LJLJJI.LJLILLLLZI, this.LJLIL);
+        }
+        return LIZ().next();
+    }
+
+    public final Iterator LIZ() {
+        if (this.LJLJI == null) {
+            this.LJLJI = this.LJLJJI.LJLJI.entrySet().iterator();
+        }
+        return this.LJLJI;
+    }
+
+    @Override // java.util.Iterator
+    public final boolean hasNext() {
+        if (this.LJLIL + 1 < this.LJLJJI.LJLILLLLZI.size()) {
+            return true;
+        }
+        if (!this.LJLJJI.LJLJI.isEmpty() && LIZ().hasNext()) {
+            return true;
+        }
+        return false;
+    }
+
+    @Override // java.util.Iterator
+    public final void remove() {
+        if (this.LJLILLLLZI) {
+            this.LJLILLLLZI = false;
+            this.LJLJJI.LJI();
+            if (this.LJLIL < this.LJLJJI.LJLILLLLZI.size()) {
+                VKV vkv = this.LJLJJI;
+                int i = this.LJLIL;
+                this.LJLIL = i - 1;
+                vkv.LIZLLL(i);
+                return;
+            }
+            LIZ().remove();
+            return;
+        }
+        throw new IllegalStateException("remove() was called before next()");
+    }
+}

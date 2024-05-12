@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="298dp"
+    layout_height="298dp">
+    <ImageView
+        id="@+id/bxv"
+        layout_width="298dp"
+        layout_height="298dp"
+        src="@drawable/pa"
+        layout_centerInParent="true"/>
+    <FrameLayout
+        id="@+id/l7w"
+        background="@drawable/pb"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="60dp"
+        layout_alignParentBottom="true"
+        layout_alignParentStart="true">
+        <TextView
+            textSize="14dp"
+            textColor="@color/be"
+            gravity="center_vertical"
+            layout_gravity="start|bottom"
+            id="@+id/l80"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginBottom="12dp"
+            fontFamily="TikTok-Text-Medium"
+            layout_marginStart="16dp"/>
+    </FrameLayout>
+</RelativeLayout>

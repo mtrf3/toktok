@@ -1,0 +1,2316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">Kita bakal wiwit nggawe avatar sampeyan ing %d menit.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">Terusake nganggo gaya %d</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">Pilih paling ora %d foto engkas sing ngandhut rai manungsa</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">Sampeyan bisa nggawe avatar kaping %d sedina nganggo Sharp</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">Sampeyan bisa nggawe avatar kaping %d seminggu nganggo Sharp</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">Sampeyan bisa nggawe avatar kaping %d sedina nganggo Speedy</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">Sampeyan bisa nggawe avatar kaping %d seminggu nganggo Speedy</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">Sampeyan bisa nggawe avatar kaping %d sedina</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">Sampeyan bisa nggawe avatar kaping %d seminggu</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">Kita bakal wiwit nggawe avatar sampeyan ing %d menit.</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">Disetujoni (%d)</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">Sampeyan entuk %d sebutan anyar.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">Sampeyan duwe %d panjalukan</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">Sampeyan duwe %d panjalukan</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%d pitakonan</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">Kanggo %d dina pisanan, pangguna liya kudu posting kanggo ndeleng postingan sampeyan.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">Sawise %d dina, dheweke bisa ndeleng postingan sampeyan tanpa posting.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">Sawise %d dina, mung sampeyan sing bisa ndeleng postingan sampeyan.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">Kanggo %d dina pisanan, pangguna liya kudu posting kanggo ndeleng postingan Now sampeyan.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%d produk</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">Lagi ditinjo (%d)</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">Informasi pendhaftaran ora bisa diowahi sajrone %d wulan sawise pendhaftaran sampeyan disetujoni.</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">Sampeyan mung bisa ngganti informasi kadhaftar %d sasi sawise disetujoni.</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">Unggah nganti %d gambar</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">Bukak foto dening {username}</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">{number} wong nambahake video iki menyang Favorite dheweke</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">%d seneng</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="other">%@ milyar</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="other">%@ yuta</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="other">%@ ewu</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">%d tayangan</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">%s video ngidinake komentar</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">%s video ora ngidinake komentar</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">nalika %d ora ngidinake Duet</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">Sapa wae bisa Duet karo video sampeyan. %1$d video sampeyan ngidini Duet, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">nalika %d ora ngidinake Duet</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">Kanca bisa Duet karo video sampeyan. %1$d video sampeyan ngidini Duet, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">nalika %d ora ngidinake Duet</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="other">Tinjo sapa sing bisa Duet karo video sampeyan. %1$d video sampeyan ngidini Duet, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="other">nalika %d ora ngidinake Jait</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="other">Tinjo sapa sing bisa Njait karo video sampeyan. %1$d video sampeyan ngidini Njait, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="other">nalika %d ora ngidinake Jait</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="other">Sapa wae bisa Njait karo video sampeyan. %1$d video sampeyan ngidini Njait, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="other">nalika %d ora ngidinake Jait</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="other">Kanca bisa Njait karo video sampeyan. %1$d video sampeyan ngidini Njait, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="other">%s video ngidinake Duet</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="other">%s video ora ngidinake Duet</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="other">%s video ngidinake Jait</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="other">%s video ora ngidinake Jait</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="other">Aktif %d jam kapungkur</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="other">Aktif %d menit kapungkur</item>
+    </plurals>
+    <plurals name="ao">
+        <item quantity="other">DINA</item>
+    </plurals>
+    <plurals name="ap">
+        <item quantity="other">JAM</item>
+    </plurals>
+    <plurals name="aq">
+        <item quantity="other">MENIT</item>
+    </plurals>
+    <plurals name="ar">
+        <item quantity="other">DETIK</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="other">%d bagean</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="other">%1$s · %2$d postingan anyar</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="other">Impor %d swara</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="other">%2$d video LIVE | %1$d Crita</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="other">%2$d video LIVE | %1$d Crita</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="other">%d video LIVE | Crita</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="other">%2$d video LIVE | %1$d Crita</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="other">%d Crita</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="other">%d kanca diundang</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="other">%s video ditambahake</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="other">%s video diposting</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="other">Tambahake video (%d)</item>
+    </plurals>
+    <plurals name="b5">
+        <item quantity="other">%s video ditambahake. Tutul &quot;Rampung&quot; kanggo ngrampungake editan.</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="other">%d taun</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="other">%d taun</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="other">Apa umur sampeyan %d taun?\n\n Yen umur iki salah, sampeyan bisa entuk pangalaman TikTok sing ora cocog. Sampeyan bisa uga ora bakal bisa ngganti langsung.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="other">Apa sampeyan %d taun?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="other">Sampeyan nglebokake umur %d taun. Lebokake tanggal lair asli sampeyan.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="other">%d taun</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="other">%d swara</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="other">Nyinkronake swara...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="other">%s mbage</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="other">%s tayangan</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="other">Efek swara bisa uga ngurangi akurasi</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="other">Unggah nganti %d file</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="other">[num] video</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="other">Versi beta iki kedaluwarsa %d dina engkas</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="other">Kedaluwarsa %d dina engkas</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="other">Kedaluwarsa %d dina engkas</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="other">Kedaluwarsa %d dina engkas</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="other">Sampeyan bisa nambahake nganti %d buku</item>
+    </plurals>
+    <plurals name="bn">
+        <item quantity="other">%1$d kanca diundang. Sampeyan bisa oleh %2$s%3$d kanggo undangan sabanjure.</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="other">%s klip</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="other">Tayangake %d liyane</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="other">Tayangake %d jawaban</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="other">%d sasi</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="other">%d taun</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="other">Blokir akun</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="other">%d akun dipilih.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="other">Sampeyan bisa milih nganti %d akun ing sawayah.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="other">Sampeyan wis milih %d akun sing arep diblokir. Akun sing diblokir ora bakal bisa ndeleng profil utawa konten sampeyan ing TikTok.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="other">Blokir %d akun?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="other">Busak komentar</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="other">Sampeyan wis milih %d komentar.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="other">Busak %d komentar?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="other">Komentar dibusak</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="other">%d komentar dipilih.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="other">Sampeyan bisa milih nganti %d komentar ing sawayah.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="other">Lapurake komentar</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="other">Sampeyan ngglapurake %d komentar. Kita bakal ninjo konten sing ora pantes ing komentar iki.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="other">Lapurake %d komentar?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="other">Komentar dilapurake</item>
+    </plurals>
+    <plurals name="c9">
+        <item quantity="other">%d komentar dipilih</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="other">%s komentar</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="other">%s pangguna nyetel pangeling</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="other">%s efek</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="other">Tayangan video</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="other">Fan resik</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="other">Seneng</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cp">
+        <item quantity="other">10 menit nganti LIVE sampeyan: &quot;{0}&quot;. {0} pangguna nyetel pangeling.</item>
+    </plurals>
+    <plurals name="cq">
+        <item quantity="other">Wis wektune wiwit LIVE! {0} pangguna nyetel pangeling kanggo &quot;{0}&quot;.</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="other">%s pangguna wis nyetel pangeling</item>
+    </plurals>
+    <plurals name="cs">
+        <item quantity="other">Duweni paling ora %d fan</item>
+    </plurals>
+    <plurals name="ct">
+        <item quantity="other">Posting paling ora %1$d video sajeroning %2$d dina pungkasan</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="other">Busak konsep?</item>
+    </plurals>
+    <plurals name="cv">
+        <item quantity="other">%d video Duet lan Jait digawe nggunakake video asli sampeyan.</item>
+    </plurals>
+    <plurals name="cw">
+        <item quantity="other">Sampeyan bisa milih kanggo mbusak video kasebut sawise %d dina.</item>
+    </plurals>
+    <plurals name="cx">
+        <item quantity="other">Yen sampeyan mulihake akun sajeroning %d dina sabanjure, video kasebut bakal dipulihake.</item>
+    </plurals>
+    <plurals name="cy">
+        <item quantity="other">Akun sampeyan bakal dideaktifasi nganti %d dina lan ora bakal katon kanggo publik. Sajeroning deaktifasi, sampeyan bisa ngaktifake maneh akun TikTok kapan wae.</item>
+    </plurals>
+    <plurals name="cz">
+        <item quantity="other">Sawise %d dina, akun lan data sampeyan bakal dibusak salawase.</item>
+    </plurals>
+    <plurals name="d0">
+        <item quantity="other">Tinjo %d tugas iki sadurunge mbusak akun sampeyan</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="other">%s posting</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="other">Kode sandhi kleru. Kari %d pacoban engkas.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="other">Kakehan njajal. Coba maneh %d menit engkas.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="other">%d melodi</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="other">%d musik</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="other">%d partitur</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="other">%d lagu</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="other">%d swara</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="other">%d nada</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="other">Kirim (%d)</item>
+    </plurals>
+    <plurals name="db">
+        <item quantity="other">Sampeyan sakloron ngetutake %s lan %d liyane</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="other">%1$d ngetutake. %2$d fan</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="other">@ sebutan anyar</item>
+    </plurals>
+    <plurals name="de">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="other">ngirim pesen anyar.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="other">ngirimi sampeyan pesen anyar.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="other">Sampeyan bisa milih nganti %d wong</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="other">Buwang konsep?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="other">Busak konsep?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="other">Konsep {#} video</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="other">%1$s lan %2$s liyane bakal dikabari nalika video iki diposting.</item>
+    </plurals>
+    <plurals name="dm">
+        <item quantity="other">%sdtk</item>
+    </plurals>
+    <plurals name="dn">
+        <item quantity="other">Item %d</item>
+    </plurals>
+    <plurals name="do">
+        <item quantity="other">Diskon {value}% kanggo {number} item</item>
+    </plurals>
+    <plurals name="dp">
+        <item quantity="other">Diskon {value}% kanggo {number} item, tambah {gapvalue} item maneh kanggo ngentukake diskon!</item>
+    </plurals>
+    <plurals name="dq">
+        <item quantity="other">Kanthi diskon {value}% kanggo {number} item, sampeyan ngirit {currency_mark}{savevalue}</item>
+    </plurals>
+    <plurals name="dr">
+        <item quantity="other">Entukake diskon {value}% nalika sampeyan tuku luwih saka {number} item</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="other">Pilih minimal %d item</item>
+    </plurals>
+    <plurals name="dt">
+        <item quantity="other">{{required_quantity}}+ item</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="other">Tindak lanjut tinjoan %d dina sabanjure</item>
+    </plurals>
+    <plurals name="dv">
+        <item quantity="other">Barang sing ora layak</item>
+    </plurals>
+    <plurals name="dw">
+        <item quantity="other">Sumadhiya ing {{num}} dina</item>
+    </plurals>
+    <plurals name="dx">
+        <item quantity="other">{count} poin maneh kanggo munggah peringkat</item>
+    </plurals>
+    <plurals name="dy">
+        <item quantity="other">{count} poin maneh kanggo dadi kreator top</item>
+    </plurals>
+    <plurals name="dz">
+        <item quantity="other">Flash Deal diwiwiti ing {{num}} menit</item>
+    </plurals>
+    <plurals name="e0">
+        <item quantity="other">Flash Deal diwiwiti ing {num} menit</item>
+    </plurals>
+    <plurals name="e1">
+        <item quantity="other">Flash Deal diwiwiti ing {{num}} menit</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="other">Rampung ing %s dina</item>
+    </plurals>
+    <plurals name="e3">
+        <item quantity="other">Kita bakal ngirimi sampeyan notifikasi surung %s menit sadurunge acara diwiwiti.</item>
+    </plurals>
+    <plurals name="e4">
+        <item quantity="other">Kita bakal ngirimi sampeyan notifikasi surung %s menit sadurunge acara diwiwiti.</item>
+    </plurals>
+    <plurals name="e5">
+        <item quantity="other">Kita bakal ngirimi sampeyan notifikasi surung %s menit sadurunge acara diwiwiti</item>
+    </plurals>
+    <plurals name="e6">
+        <item quantity="other">Kari {{count}} dina</item>
+    </plurals>
+    <plurals name="e7">
+        <item quantity="other">Sampeyan diundang kanggo adol {{count}} produk ing ngisor iki sing nawakake conto gratis. Tampa undangan kanggo ngentukake conto gratis.</item>
+    </plurals>
+    <plurals name="e8">
+        <item quantity="other">Produk ora sumadhiya. Hubungi tim dhukungan lan coba maneh.</item>
+    </plurals>
+    <plurals name="e9">
+        <item quantity="other">Ana kesalahan karo conto gratis. Hubungi tim dhukungan lan coba maneh.</item>
+    </plurals>
+    <plurals name="e_">
+        <item quantity="other">Rampung sawise {count} dina</item>
+    </plurals>
+    <plurals name="ea">
+        <item quantity="other">Rampung ing {count} jam</item>
+    </plurals>
+    <plurals name="eb">
+        <item quantity="other">Rampung ing {count} menit</item>
+    </plurals>
+    <plurals name="ec">
+        <item quantity="other">Kari {count}</item>
+    </plurals>
+    <plurals name="ed">
+        <item quantity="other">{count} panjaluk</item>
+    </plurals>
+    <plurals name="ee">
+        <item quantity="other">Mbalekake dhuwit wis dikirim menyang {payment_method}, lan samesthine bakal tekan ing {count} dina.</item>
+    </plurals>
+    <plurals name="ef">
+        <item quantity="other">Bayar kanthi cicilan %s</item>
+    </plurals>
+    <plurals name="eg">
+        <item quantity="other">Barang ora valid</item>
+    </plurals>
+    <plurals name="eh">
+        <item quantity="other">Item iki ora bisa dikirim menyang alamat kuwi.</item>
+    </plurals>
+    <plurals name="ei">
+        <item quantity="other">Produk iki ora bisa dikirim menyang alamat kuwi.</item>
+    </plurals>
+    <plurals name="ej">
+        <item quantity="other">Sampeyan nggawe pesenan sing padha %s jam kepungkur. Pesenan sadurunge ngenteni pambayaran.</item>
+    </plurals>
+    <plurals name="ek">
+        <item quantity="other">Sampeyan nggawe pesenan sing padha %s menit kepungkur. Pesenan sadurunge ngenteni pambayaran.</item>
+    </plurals>
+    <plurals name="el">
+        <item quantity="other">fan</item>
+    </plurals>
+    <plurals name="em">
+        <item quantity="other">deleng</item>
+    </plurals>
+    <plurals name="en">
+        <item quantity="other">Ukum</item>
+    </plurals>
+    <plurals name="eo">
+        <item quantity="other">Saran</item>
+    </plurals>
+    <plurals name="ep">
+        <item quantity="other">karo {count}+ item</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="other">%1$s item, total %2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="other">Total (%s item)</item>
+    </plurals>
+    <plurals name="es">
+        <item quantity="other">%d produk iki dibusak.</item>
+    </plurals>
+    <plurals name="et">
+        <item quantity="other">%d produk dibusak</item>
+    </plurals>
+    <plurals name="eu">
+        <item quantity="other">%d produk iki dibusak.</item>
+    </plurals>
+    <plurals name="ev">
+        <item quantity="other">Produk wis dibusak (%d)</item>
+    </plurals>
+    <plurals name="ew">
+        <item quantity="other">%d produk dibusak</item>
+    </plurals>
+    <plurals name="ex">
+        <item quantity="other">%d produk dibusak</item>
+    </plurals>
+    <plurals name="ey">
+        <item quantity="other">%d produk iki bakal dibusak. Konfirmasi pambusakan, utawa pambusakan bakal otomatis ditrapake tanggal {date}.</item>
+    </plurals>
+    <plurals name="ez">
+        <item quantity="other">%d produk bakal dibusak</item>
+    </plurals>
+    <plurals name="f0">
+        <item quantity="other">%d produk bakal dibusak tanggal {date}</item>
+    </plurals>
+    <plurals name="f1">
+        <item quantity="other">%d produk bakal dibusak</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="other">Sampeyan mung bisa ngedit nganti ping %d</item>
+    </plurals>
+    <plurals name="f3">
+        <item quantity="other">Ditrapake marang stiker teks</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="other">Pratinjo efek ing %d detik</item>
+    </plurals>
+    <plurals name="f6">
+        <item quantity="other">%1$s: %2$s, %3$s, %4$s, lan liyane posting %5$d video anyar.</item>
+    </plurals>
+    <plurals name="f7">
+        <item quantity="other">%1$s: %2$s posting %3$d video anyar.</item>
+    </plurals>
+    <plurals name="f8">
+        <item quantity="other">%1$s: %2$s, %3$s, lan %4$s posting %5$d video anyar.</item>
+    </plurals>
+    <plurals name="f9">
+        <item quantity="other">%1$s: %2$s lan %3$s posting %4$d video anyar.</item>
+    </plurals>
+    <plurals name="f_">
+        <item quantity="other">Sampeyan duwe %d fan anyar.</item>
+    </plurals>
+    <plurals name="fa">
+        <item quantity="other">Sampeyan duwe %d seneng anyar.</item>
+    </plurals>
+    <plurals name="fb">
+        <item quantity="other">Ana %d notifikasi anyar sing ngenteni sampeyan.</item>
+    </plurals>
+    <plurals name="fc">
+        <item quantity="other">Kita nemokake %d video sing mungkin sampeyan senengi.</item>
+    </plurals>
+    <plurals name="fd">
+        <item quantity="other">%1$s: %2$d video sing sampeyan mungkin senengi.</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="other">Di-tag</item>
+    </plurals>
+    <plurals name="ff">
+        <item quantity="other">%d wis kadhaftar</item>
+    </plurals>
+    <plurals name="fg">
+        <item quantity="other">%d wis kadhaftar</item>
+    </plurals>
+    <plurals name="fh">
+        <item quantity="other">Wis kadhaftar kanggo acara iki</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="other">Sampeyan bisa uga ngerti anggota grup iki.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="other">%s video ditambahake</item>
+    </plurals>
+    <plurals name="fl">
+        <item quantity="other">Busak %d video saka %s</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="other">Busak %1$d video saka %2$s</item>
+    </plurals>
+    <plurals name="fn">
+        <item quantity="other">%d videos dipindahake menyang %s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="other">%1$d video dipindhahake menyang %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="other">%d video dibusak</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="other">%d akun anyar sing disaranake</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="other">Ditutake dening %s + %d liyane</item>
+    </plurals>
+    <plurals name="fs">
+        <item quantity="other">Fan</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="other">Ngetutake %s + %d liyane</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="other">Ditutake dening {0}, {1}, lan {2} liyane</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="other">Ditutake dening {0} lan {2} liyane</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="other">Ngetutake {0}, {1}, lan {2} liyane</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="other">Ngetutake {0} lan {2} liyane</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="other">Kekancan karo {0}, {1}, lan {2} liyane</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="other">Kekancan karo {0} lan {2} liyane</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="other">{2} sambungan sing padha</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="other">Kekancan karo %s + %d liyane</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="other">%d postingan anyar saka kanca-kanca</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="other">%d anggota aktif saiki</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="other">%1$d anggota aktif %2$d menit kepungkur</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="other">%d aktif dina iki</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="other">%d anggota</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="other">Panjalukan anyar</item>
+    </plurals>
+    <plurals name="g8">
+        <item quantity="other">anggota</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="other">%s anggota</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="other">Deleng %d anggota liyane</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="other">%s tayangan</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="other">Pandherek: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="other">Video: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="other">Dikirim menyang %s lan %d liyane</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="other">Ora bisa ngunggah %d Crita. Critane disimpen menyang konsep sampeyan.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="other">Ora bisa ngunggah foto. Foto kasebut wis disimpen ing konsep.</item>
+    </plurals>
+    <plurals name="gg">
+        <item quantity="other">%s fan</item>
+    </plurals>
+    <plurals name="gh">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="other">%d stiker</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="other">nyebut sampeyan ing foto.</item>
+    </plurals>
+    <plurals name="gk">
+        <item quantity="other">%1$s ngetutake %2$s lan %3$d liyane. Tayangake profile.</item>
+    </plurals>
+    <plurals name="gl">
+        <item quantity="other">%1$s ditutake dening %2$s lan %3$d lan liyane. Tayangake profile.</item>
+    </plurals>
+    <plurals name="gm">
+        <item quantity="other">%1$s kekancan karo %2$s lan %3$d liyane. Tayangake profile.</item>
+    </plurals>
+    <plurals name="gn">
+        <item quantity="other">%1$s ditutake dening %2$s, %3$s, lan %4$d liyane. Tayangake profile.</item>
+    </plurals>
+    <plurals name="go">
+        <item quantity="other">%1$s ngetutake %2$s, %3$s, lan %4$d liyane. Tayangake profile.</item>
+    </plurals>
+    <plurals name="gp">
+        <item quantity="other">%1$s kekancan karo %2$s, %3$s, lan %4$d liyane. Tayangake profile.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="other">%s postingan anyar</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="other">Aktivitas</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="other">Tutake %1$s, %2$s, lan %d liyane sing sampeyan kenal kanggo nonton video dheweke.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="other">%d liyane</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="other">Tutake %1$s, %2$s, lan %3$d liyane sing sampeyan kenal kanggo nonton video dheweke.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="other">Pesen</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="other">Aktivitas anyar</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="other">%s anggota</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="other">%s posting</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="other">%d tembung kunci</item>
+    </plurals>
+    <plurals name="h1">
+        <item quantity="other">{0} ({1}) wiwit ngetutake sampeyan. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="h2">
+        <item quantity="other">{0} ({1}) wiwit ngetutake sampeyan. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="h3">
+        <item quantity="other">{0} ({1}) wiwit ngetutake sampeyan. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="h4">
+        <item quantity="other">{0} ({1}) wiwit ngetutake sampeyan. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="h5">
+        <item quantity="other">menehi komentar ing video sampeyan. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="h6">
+        <item quantity="other">menehi komentar ing video sampeyan. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="h7">
+        <item quantity="other">menehi komentar ing video sampeyan. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="h8">
+        <item quantity="other">menehi komentar video sampeyan. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="h9">
+        <item quantity="other">nggawe Duet karo sampeyan. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="h_">
+        <item quantity="other">nggawe Duet karo sampeyan. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="ha">
+        <item quantity="other">nggawe Duet karo sampeyan. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="hb">
+        <item quantity="other">nggawe Duet karo sampeyan. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="hc">
+        <item quantity="other">nyenengi video sampeyan. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="hd">
+        <item quantity="other">nyenengi video sampeyan. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="he">
+        <item quantity="other">nyenengi video sampeyan. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="hf">
+        <item quantity="other">nyenengi video sampeyan. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="hg">
+        <item quantity="other">nyebut sampeyan ing komentar. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="hh">
+        <item quantity="other">nyebut sampeyan ing komentar. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="hi">
+        <item quantity="other">nyebut sampeyan ing komentar. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="hj">
+        <item quantity="other">nyebut sampeyan ing komentar. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="hk">
+        <item quantity="other">[{3} sambungan sing padha]</item>
+    </plurals>
+    <plurals name="hl">
+        <item quantity="other">[sakloron ditutake {2} lan {3} liyane]</item>
+    </plurals>
+    <plurals name="hm">
+        <item quantity="other">[sakloron ngetutake {2} lan {3} liyane]</item>
+    </plurals>
+    <plurals name="hn">
+        <item quantity="other">{0} wiwit ngetutake sampeyan. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="ho">
+        <item quantity="other">{0} wiwit ngetutake sampeyan. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="hp">
+        <item quantity="other">{0} wiwit ngetutake sampeyan. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="hq">
+        <item quantity="other">{0} wiwit ngetutake sampeyan. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="hr">
+        <item quantity="other">[sakloron kekancan karo {2} lan {3} liyane]</item>
+    </plurals>
+    <plurals name="hs">
+        <item quantity="other">{0} ({1}) ngirimi panjalukan ngetutake. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="ht">
+        <item quantity="other">{0} ({1}) ngirimi panjalukan ngetutake. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="hu">
+        <item quantity="other">{0} ({1}) ngirimi panjalukan ngetutake. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="hv">
+        <item quantity="other">{0} ({1}) ngirimi panjalukan ngetutake. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="hw">
+        <item quantity="other">{0} ({1}) wiwit ngetutake sampeyan. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="hx">
+        <item quantity="other">{0} ({1}) wiwit ngetutake sampeyan. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="hy">
+        <item quantity="other">{0} ({1}) wiwit ngetutake sampeyan. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="hz">
+        <item quantity="other">{0} ({1}) wiwit ngetutake sampeyan. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="i0">
+        <item quantity="other">{0} nampa panjalukan ngetutake sampeyan. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="i1">
+        <item quantity="other">{0} nampa panjalukan ngetutake sampeyan. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="i2">
+        <item quantity="other">{0} nampa panjalukan ngetutake sampeyan. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="i3">
+        <item quantity="other">{0} nampa panjalukan ngetutake sampeyan. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="i4">
+        <item quantity="other">{0} ngirimi panjalukan ngetutake. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="i5">
+        <item quantity="other">{0} ngirim panjalukan ngetutake. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="i6">
+        <item quantity="other">{0} ngirimi panjalukan ngetutake. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="i7">
+        <item quantity="other">{0} ngirimi panjalukan ngetutake. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="i8">
+        <item quantity="other">njawab komentar sampeyan. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="i9">
+        <item quantity="other">njawab komentar sampeyan. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="i_">
+        <item quantity="other">njawab komentar sampeyan. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="ia">
+        <item quantity="other">njawab komentar sampeyan. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="ib">
+        <item quantity="other">njawab komentar sampeyan nganggo video. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="ic">
+        <item quantity="other">njawab komentar sampeyan nganggo video. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="id">
+        <item quantity="other">njawab komentar sampeyan nganggo video. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="ie">
+        <item quantity="other">njawab komentar sampeyan nganggo video. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="if">
+        <item quantity="other">nyebut sampeyan ing video. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="ig">
+        <item quantity="other">nyebut sampeyan ing video. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="ih">
+        <item quantity="other">nyebut sampeyan ing video. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="ii">
+        <item quantity="other">nyebut sampeyan ing video. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="ij">
+        <item quantity="other">menehi swara kanggo video sampeyan. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="ik">
+        <item quantity="other">njawab nganggo video menyang komentar sing sampeyan uga jawab. Sampeyan duwe {3} sambungan sing padha.</item>
+    </plurals>
+    <plurals name="il">
+        <item quantity="other">njawab nganggo video menyang komentar sing sampeyan uga jawab. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="im">
+        <item quantity="other">njawab nganggo video menyang komentar sing sampeyan uga jawab. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="in">
+        <item quantity="other">njawab nganggo video menyang komentar sing sampeyan uga jawab. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="io">
+        <item quantity="other">menehi swara kanggo video sampeyan. {2} lan {3} liyane ngetutake dheweke.</item>
+    </plurals>
+    <plurals name="ip">
+        <item quantity="other">menehi swara kanggo video sampeyan. {2} lan {3} liyane kekancan karo dheweke.</item>
+    </plurals>
+    <plurals name="iq">
+        <item quantity="other">menehi swara kanggo video sampeyan. Sampeyan sakloron ngetutake {2} lan {3} liyane.</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="other">%d video LIVE</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="other">Rampung ing %s dina</item>
+    </plurals>
+    <plurals name="it">
+        <item quantity="other">Item %d</item>
+    </plurals>
+    <plurals name="iu">
+        <item quantity="other">Ngirim menyang %s lan %d liyane...</item>
+    </plurals>
+    <plurals name="iv">
+        <item quantity="other">Dikirim menyang %s lan %d liyane</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="other">Sampeyan mung bisa milih nganti %1$d file media</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="other">%d panjalukan</item>
+    </plurals>
+    <plurals name="iz">
+        <item quantity="other">Sampeyan bisa ngirim %d video maneh</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="other">Wurungake milih minangka lagu anyar?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="other">%d lagu wurung dipilih minangka lagu anyar</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="other">%d rilis</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="other">%d artis</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="other">%d sambungan sing padha</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="other">%d sambungan sing padha</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="other">Sampeyan saiki bisa ngunggah video nganti %d menit!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="other">Kalebu video %d menit</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="other">%d sambungan sing padha</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="other">%d komentar</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="other">Deleng kabeh %d komentar</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="other">{nickname} lan {number_1} liyane</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="other">{number} kanca posting Now dina iki</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="other">%1$s lan %2$d liyane posting Now dheweke</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="other">{nickname} lan {number_1} liyane</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="other">Gabung karo {number} kanca ing TikTok Now kanggo mbage momen acak</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="other">Posting Now sampeyan ing {number} menit sabanjure</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="other">%d menit maneh kanggo posting Now.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="other">%d kanca-kanca sing padha</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="other">%d seneng</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="other">{1}, {2}, {3}, lan {number} wong liyane lagi wae posting Now.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="other">%d reaksi</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="other">%d tayangan</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="other">%d tayangan</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="other">%1$s lan %2$s liyane</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="other">Postingan sampeyan sing disinkronake saka Lemon8 durung duwe swara. Tambahake swara supaya postingan sampeyan luwih semanak kanggo pamirsa.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="other">Tambahake swara kanggo ngapikake postingan</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="other">nyenengi foto sampeyan.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="other">menehi swara kanggo foto sampeyan.</item>
+    </plurals>
+    <plurals name="jt">
+        <item quantity="other">Tambah video (%s)</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="other">%d episode</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="other">%d bagean</item>
+    </plurals>
+    <plurals name="jw">
+        <item quantity="other">Busak video (%s)</item>
+    </plurals>
+    <plurals name="jx">
+        <item quantity="other">%s tayangan</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="other">Sampeyan bisa ngirim kuwi kaping %d engkas</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="other">%d pamirsa wis njaluk</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="other">Akses bakal dipulihake %s dina engkas</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="other">%s Koin saka pamirsa paling ndhuwur nomer 1</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="other">%s Koin saka pamirsa paling ndhuwur nomer 2</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="other">%s fan</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="other">Blanja {number} item sing sumadhiya</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="other">Blanja {number} item sing sumadhiya</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="other">%s Koin diwenehake menyang kreator LIVE</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="other">%s seneng</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="other">%s pamirsa</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="other">Dibage kaping %s. Bage video</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="other">%1$s milih %2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="other">%1$s milih %2$s, %3$s milih %4$s</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="other">%d menit engkas</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="other">%d poin pangalaman luwih akeh kanggo munggah tingkat</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="other">Hadiah sampeyan bakal dinonaktifake %d dina engkas</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="other">Pungkasi LIVE? %s pamirsa saiki lagi nonton.</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="other">Pungkasi LIVE? %s pamirsa saiki lagi nonton.</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="other">%s pesen anyar</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="other">Dadi host bareng {num} dina terus-terusan</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="other">Kurang {number} Koin</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="other">Jumlah paling dhuwur sampeyan ing {number} dina pungkasan: {amount} Koin</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="other">Disaranake: {amount} Koin</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="other">Sampeyan nduwe {number} Koin saiki. Sampeyan bisa ngisi maneh kanggo ngentukake Koin luwih akeh.</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="other">Bedhekan sing bener (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="other">%s bedhekan sing bener</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="other">%s pamirsa bisa mbedhek ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="other">Meh kabeh pamirsa mbedhek tembung %s</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="other">Ora ana pamirsa sing mbedhek tembung</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="other">%s menit kanggo nggambar tembung</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="other">�� %d pamirsa mbedhek %s</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="other">Aku mbedhek tembung %s!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="other">Sampeyan mbedhek tembung %s</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="other">{0:string} lan {1:string} wong tuku liyane lagi tuku</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="other">%d gambar keciliken. Gambar kudu paling ora 256 x 256 piksel.</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="other">%d pamirsa</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="other">Sampeyan nduwe %d Koin.</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="other">Sampeyan bisa ngijolake %@ karo %d Koin luwih akeh kanggo ngirim Hadiah iki.</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="other">Saldo Hadiah LIVE diijolake karo {{num}} Koin</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="other">Sampeyan kurang %1$d Koin. Ijolake %2$s dadi Koin lan kirim %3$s?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="other">Sampeyan ngijolake karo %d Koin lan ngirim %s</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="other">%s anggota</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="other">Wis karo sampeyan nganti {num} dina</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="other">Entukake 1 poin anggota {num} jam engkas supaya tetep aktif</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="other">Bisa dikirim kanggo ngentukake %1$d Koin maneh ping %2$d.</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="other">%d fan aktif saiki</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="other">{number} kanca sampeyan lagi LIVE. Undang dheweke kanggo siaran LIVE bebarengan!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="other">Bukak {num} Koin ekstra kanthi ngisi maneh</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="other">{num} dina</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="other">Bukak {num} Koin</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="other">{num} Koin</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="other">Sampeyan bakal mbukak {num} Koin ekstra.</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="other">Isi maneh {num_1} Koin luwih akeh.</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="other">Isi maneh kanggo mbukak {num} Koin ekstra</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="other">{number} dina pungkasan</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="other">Regane {gameName} lan {number} liyane wis diganti. Tampilake liyane ing pusat pamitran.</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="other">Menehi hadiah ditangguhake nganti %s dina ing LIVE sampeyan amarga nglanggar Syarat Program.</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="other">Menehi hadiah ditangguhake ing LIVE iki. Akses bakal dipulihake %s menit engkas.</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="other">Menehi hadiah ditangguhake nganti {0} dina.</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="other">Menehi hadiah ditangguhake nganti %s dina</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="other">Kirim kanggo %d Koin</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="other">Ngisi maneh rampung lan sampeyan duwe %d Koin saiki. Kirim Hadiah iki kanggo nuduhake dhukungan sampeyan!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="other">Ijolan rampung lan sampeyan duwe %d Koin saiki. Kirim Hadiah iki kanggo nuduhake dhukungan sampeyan!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="other">{0:user} ngirim {1:gift} ({2:string} poin) {3:string}, Hadiah pisanan sing dheweke tau kirim. Tuduhake apresiasi sampeyan!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="other">{0:user} ngirim {1:gift} ({2:string} poin) {3:string}</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="other">{0:user} ngirim {1:gift} ({2:string} poin) {3:string}</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="other">{0:user} ngirim {1:gift} ({2:string} poin) {3:string} lan lunga menyang {4:city} karo kreator kanggo sing pisanan ing tur iki!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="other">Rincian hadiah ({{num}} transaksi kanthi total)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="other">{amount} Koin</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="other">Hadiah</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="other">%d Koin</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="other">Sampeyan wis nampa %s Hadiah. Aja lali matur nuwun.</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="other">Sampeyan wis nampa %s Hadiah</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="other">Rampungake ijolan karo %s Koin?</item>
+    </plurals>
+    <plurals name="lz">
+        <item quantity="other">Rampungake ijolan kanggo %d Koin?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="other">Ayo LIVE (%ds)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="other">%s panjalukan tamu</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="other">%s panjalukan</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="other">%s poin</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="other">%1$s poin kanggo nggayuh %2$s</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="other">%d pamirsa lagi njaluk</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="other">Sampeyan ditangguhake anggone miwiti LIVE minangka tamu nganti %d dina maneh</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="other">Sampeyan ditangguhake anggone tayang LIVE minangka tamu nganti %d jam maneh</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="other">Sampeyan ditangguhake anggone tayang LIVE minangka tamu nganti %d menit maneh</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="other">Sampeyan ditangguhake anggone tayang LIVE minangka tamu nganti %d detik maneh</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="other">Alat</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="other">[username] lan [number] fan nyenggol sampeyan supaya LIVE</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="other">[username] lan [number] fan lagi wae nyenggol sampeyan supaya LIVE</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="other">Yen sampeyan nampa undangan, kreator LIVE iki nggabung host bareng sampeyan sing saiki.</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="other">{number} dina</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="other">Ing langkah sabanjure, sawise sampeyan metu saka kaca, kupon sampeyan mung bakal sumadhiya kanggo digunakake maneh {number} dina engkas.</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="other">Ing langkah sabanjure, sawise sampeyan metu saka kaca, kupon sampeyan mung bakal sumadhiya kanggo digunakake maneh {number} jam engkas.</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="other">Ing langkah sabanjure, sawise sampeyan metu saka kaca, kupon sampeyan mung bakal sumadhiya kanggo digunakake maneh {number} menit engkas.</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="other">Kupon bakal sumadhiya maneh {number} dina engkas</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="other">Kupon bakal sumadhiya maneh {number} jam engkas</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="other">Kupon bakal sumadhiya maneh {number} menit engkas</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="other">%s seneng</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="other">seneng</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="other">%s seneng</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="other">%d dtk</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="other">Pandhaftaran LIVE sampeyan ora disetujoni. Sampeyan bisa ndhaftar maneh ing %d dina.</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="other">Sampeyan wis ndhaftar kanggo akses LIVE lan bisa tayang LIVE nganti 7 dina sabanjure. Elinga supaya manut karo Panduan Komunitas lan tayang LIVE nganti %d jam ing minggu sing pisanan kanggo ngentukake akses terus-terusan.</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="other">Miwiti LIVE %d jam maneh sing suwene %s supaya nampa akses LIVE terus-terusan</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="other">Miwiti LIVE %1$s jam maneh sing suwene %2$s supaya nampa akses LIVE terus-terusan</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="other">%s poin</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="other">{%s host username} butuh {%d} Koin supaya dadi kreator LIVE No. {%n} minggu iki!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="other">1 dina maneh. Entukake {%d} Berlian maneh supaya dadi kreator LIVE No. 3 lan entuk lencana eksklusif ing video sampeyan.</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="other">Kari 1 dina. Entukake {%d} Berlian maneh ben LIVE sampeyan nggayuh calon pamirsa luwih akeh.</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="other">1 dina maneh. Entukake {%d} Berlian maneh supaya entuk hadiah unik kanggo kreator LIVE!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="other">%s sing ngetutake aktif saiki</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="other">%s Koin dibutuhake</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="other">%d pelanggan lagi nonton</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="other">3 menit maneh. Entukake {%d} Berlian maneh supaya dadi kreator LIVE No. 3 lan entuk lencana eksklusif.</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="other">Kari 3 menit. Entukake {%d} Berlian maneh ben LIVE sampeyan nggayuh calon pamirsa luwih akeh.</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="other">3 menit maneh. Entukake {%d} Berlian maneh supaya entuk hadiah unik kanggo kreator LIVE!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="other">%s jam %d mnt</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="other">berlian</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="other">tayangan</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="other">Pitakonan ora bisa dijawab sawise %s menit</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="other">%s j kepungkur</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="other">%s m kepungkur</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="other">%s dijadwalake wiwit ing 10 menit. %d pamirsa wis ndeleng acara sampeyan. Wiwit LIVE saiki supaya entuk manpangat luwih saka promosi sampeyan!</item>
+    </plurals>
+    <plurals name="nh">
+        <item quantity="other">%d pangguna nayangake acara sampeyan. Siap-siap wiwit LIVE!</item>
+    </plurals>
+    <plurals name="ni">
+        <item quantity="other">{numberofviews} pangguna nayangake acara sampeyan. Siap-siap wiwit LIVE!</item>
+    </plurals>
+    <plurals name="nj">
+        <item quantity="other">%d pangguna nayangake acara sampeyan! Elinga supaya wiwit LIVE manut wektune.</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="other">Deleng %s tugas tutorial</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="other">%d panjalukan sing diprioritasake saka pangirim hadiah</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="other">%d Koin</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="other">Iki bakal kena beya %d Koin.</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="other">Sampeyan wis ngirim %d Koin. %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="other">Kreator LIVE bisa uga mrioritasake panjalukan saka wong sing ngirim totale luwih saka %d Koin.</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="other">Kreator LIVE bisa uga mrioritasake panjalukan saka sampeyan lan wong liya sing ngirim totale luwih saka %d Koin.</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="other">Iki bakal kena beya %d Koin.</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="other">Sampeyan bisa ngundang %1$s kanggo nguripake kamerane maneh %2$s detik engkas</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="other">Sampeyan bisa ngundang %1$s kanggo nguripake mikropone maneh %2$s detik engkas</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="other">%d menit</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="other">%d detik</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="other">%d mnt</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="other">%d dtk</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="other">%s tugas sing kudu dirampungake ing babak 1</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="other">%s tugas sing kudu dirampungake ing babak 2</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="other">Sampeyan bisa nggawe paling akeh %s paedah sing dikustomasi. Busak paedah sing dikustomasi kanggo nggawe sing anyar.</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="other">Poling pungkas %s dtk engkas</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="other">Pilih saiki (%ss) :</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="other">Sampeyan wis blanja %d Koin dina iki.</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="other">Wenehi hadiah kanthi luwih alon lan coba maneh ing %d menit.</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="other">Portale {0:user} ditutup. {1:string} pamirsa nggabung liwat Portal.</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="other">Portale {0:user} ditutup. {1:string} pamirsa nggabung liwat Portal. Apik banget! ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="other">Portale {0:user} ditutup. {1:string} pamirsa nggabung liwat Portal. Hebat! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="other">%s tayangan</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="other">Tuku {{num}} Koin ing web desktop</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="other">Tuku {{num}} Koin ing apl</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="other">Tuku {{num}} Koin ing web seluler</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="other">Kita wis mriksa bandhing sampeyan lan wis ngatur durasi panjabutane. Akses Ayo LIVE sampeyan sing nganggo PC utawa Mac bakal dipulihake %s dina engkas.</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="other">Akses sampeyan kanggo LIVE nganggo PC utawa Mac ditangguhake nganti %s dina amarga akeh palanggaran marang Panduan Komunitas.</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="other">Kita ninjo bandhing sampeyan lan ngatur durasi panjabutan akses Kothak Rajabrana nganti %s dina.</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="other">Akses Kothak Rajabranane sampeyan ditangguhake nganti %s dina amarga akeh palanggaran marang Panduan Komunitas.</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="other">Sampeyan nampa luwih saka %s Berlian sajrone 30 dina pungkasan. Terusake kerja sing apik iki kanggo nggabung Peringkat Minggon.</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="other">Peringkat iki nuduhake kreator LIVE sing nampa kurang saka {0:string} Berlian sajrone 30 dina pungkasan.</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="other">Menehi hadiah ditangguhake nganti %s dina</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="other">Saiki sampeyan nduwe {number_1} Koin. Sampeyan bisa ngisi maneh {number_2} Koin ({amount}) kanggo ngirim item.</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="other">Kurang %s Koin</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="other">Sampeyan wis nampa {number} tautan undangan</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="other">Bukak undangan langganan saka %s</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="other">Njaluk: %d mnt kepungkur</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="other">Menehi hadiah ditangguhake nganti %s dina</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="other">Akses bakal dipulihake %s dina engkas.</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="other">Kita wis mriksa bandhing sampeyan lan wis ngatur durasi panjabutane. Akses sampeyan menyang LIVE Studio bakal dipulihake %s dina engkas.</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="other">Kita wis mriksa bandhing sampeyan lan wis ngatur durasi panjabutane. Akses sampeyan menyang game seluler bakal dipulihake %s dina engkas.</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="other">Kita wis mriksa bandhing sampeyan lan wis ngatur durasi panjabutane. Akses Ayo LIVE sampeyan sing nganggo PC utawa Mac bakal dipulihake %s dina engkas.</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="other">Akses sampeyan menyang LIVE Studio wis ditangguhake nganti %s dina amarga bola-bali nglanggar aturan LIVE utawa Panduan Komunitas kita.</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="other">Akses sampeyan menyang game seluler wis ditangguhake nganti %s dina amarga bola-bali nglanggar aturan LIVE utawa Panduan Komunitas kita.</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="other">Akses AYO LIVE sampeyan nganggo PC utawa Mac wis ditangguhake nganti %s dina amarga bola-bali nglanggar aturan LIVE utawa Panduan Komunitas kita.</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="other">Target: {&lt;num&gt;} pangirim hadiah</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="other">Target: {&lt;num&gt;} poin pangirim hadiah</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="other">Target: {&lt;num&gt;} pangirim hadiah tim</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="other">Target: {&lt;num&gt;} poin pangirim hadiah tim</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="other">+ &lt;num&gt; poin tetandhingan</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="other">%s pamirsa bakal ndeleng komentar sampeyan ing sisih ndhuwur</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="other">Komentar Bintang sampeyan dibusak nalika LIVE, lan sampeyan bakal nampa dhuwit balen [0:string] Koin kanggo komentar iki sajrone 24 jam.</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="other">%s Komentar Bintang ngantri</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="other">Komentar Bintang sampeyan lagi wae dibusak. Coba maneh {num} jam engkas.</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="other">Komentar Bintang sampeyan lagi wae dibusak. Coba maneh {num} menit engkas.</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="other">Rampung %s dina engkas</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="other">%1$s pamirsa lagi nonton. Sampeyan bisa uga entuk %2$s pelanggan anyar yen miwiti LIVE khusus pelanggan saiki.</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="other">%s pelanggan lagi nonton. Iki wektu sing apik kanggo njerokake sambungan sampeyan karo komunitas nggunakake LIVE khusus pelanggan.</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="other">Sampeyan bisa uga entuk %1$s pelanggan anyar kanthi %2$s menit LIVE khusus pelanggan saben sasi.</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="other">Sampeyan bisa nglebokake nganti %s emotikon ing komentar</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="other">Langganan kanggo nggunakake emotikon kustome %1$s %2$s</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="other">Nduwe fan kurang saka {number}</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="other">Ora bisa ngundang kreator sing nduwe fan kurang saka {number}</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="other">Undang {number1} kreator maneh kanggo nggayuh No. {number2}! Ayo bacutake!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="other">Undang {number} kreator maneh kanggo nggayuh No. {rankminusone}! Ayo bacutake!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="other">Sampeyan mung bisa ngundang kreator sing nduwe fan luwih saka {number}.</item>
+    </plurals>
+    <plurals name="po">
+        <item quantity="other">{num} emotikon ora disetujoni</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="other">Paedah sampeyan bisa nggawa %d%% pelanggan luwih akeh.</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="other">%1$s lagi wae tuku langganan %2$d-sasi!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="other">Sampeyan mung bisa nguripake utawa mateni saben %s menit sepisan. Coba maneh mengko.</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="other">Sampeyan nduwe {num} hadiah langganan. Kirim menyang wong liya saiki!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="other">Sampeyan nduwe %d sisa hadiah langganan. Kirim menyang wong liya saiki!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="other">Slamet, ya! Sampeyan nampa [number] hadiah langganan minangka hadiahe aktivitas.</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="other">Dadi host bareng {num} dina kepungkur</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="other">Wis LIVE karo sampeyan {number} dina kepungkur</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="other">Wis dadi host karo sampeyan {num} dina kepungkur</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="other">Akses Kothak Rajabrana sampeyan ditangguhake. Akses bakal dipulihake %s dina engkas.</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="other">pamirsa paling ndhuwur</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="other">Pamirsa Paling Ndhuwur</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="other">Final wiwit %s detik engkas</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="other">Final wiwit %s dina engkas</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="other">Final wiwit %s jam engkas</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="other">Final wiwit %s menit engkas</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="other">Semi-final wiwit %s dina engkas</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="other">Semi-final wiwit %s jam engkas</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="other">Semi-final wiwit %s menit engkas</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="other">Semi-final wiwit %s detik engkas</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="other">{0:string} Berlian engkas supaya tekan No. {1:string}</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="other">{0:string} pangirim hadiah maneh supaya tekan No. {1:string}</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="other">dina</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="other">Sampeyan ngijolake {amount} kanggo {num} Koin.</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="other">Sampeyan tuku {num} Koin kanthi rega {amount}.</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="other">Unggul {num} poin tim saka No. 2</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="other">+{num} poin tim (%1$s/%2$s Hadiah tim padinan)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="other">%s pamirsa nggabung saka tlusuran</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="other">%1$s poin tim kanggo nggayuh No. %2$s</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="other">%1$s poin tim kanggo nggayuh No. %2$s</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="other">Ana kesalahan. Cobane maneh {number} jam engkas</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="other">Ana kesalahan. Mbalika maneh {number} menit engkas</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="other">Pamirsa</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="other">%d pamirsa</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="other">%s pamirsa</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="other">%s pamirsa ngirim Hadiah</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="other">Posting (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="other">(%s tinjoan)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="other">%s foto ora diunggah. Coba maneh.</item>
+    </plurals>
+    <plurals name="qr">
+        <item quantity="other">%1$d koin = %2$s%3$.2f</item>
+    </plurals>
+    <plurals name="qs">
+        <item quantity="other">%s nganyarake rega video TikTok Shoutouts dheweke dadi %s koin.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="other">%d swara sing memper</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="other">%d tayangan profil</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="other">Fan</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="other">%1$s wis nampa %2$s seneng</item>
+    </plurals>
+    <plurals name="qx">
+        <item quantity="other">%d akun didhelikake amarga setelan privasi panggunane</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="other">nayangake profil sampeyan.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="other">%1$s, %2$s, lan %d liyane</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="other">%s wong nayangake profil sampeyan.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="other">{0}, {1}, lan {2} liyane ndeleng profil sampeyan.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="other">Kita ngirim notifikasi menyang %1$s lan %2$s piranti liyane. Pesthekake yen sampeyan wis mbukak TikTok lan nutul &quot;Ya&quot; ing notifikasi kanggo nerusake login.</item>
+    </plurals>
+    <plurals name="r3">
+        <item quantity="other">%d pitakonan ditakokake</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="r6">
+        <item quantity="other">Jawaban {number}</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="other">%s pitakonan sing ora sumadhiya dibusak saka undangan sampeyan</item>
+    </plurals>
+    <plurals name="r8">
+        <item quantity="other">%$s pitakonan ora sumadhiya lan wis dibusak saka Favorit sampeyan.</item>
+    </plurals>
+    <plurals name="r9">
+        <item quantity="other">%s pitakonan ora sumadhiya lan wis dibusak saka Favorit.</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="other">%s pesen anyar</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="other">%s reaksi anyar</item>
+    </plurals>
+    <plurals name="rb">
+        <item quantity="other">{number} direkomendasekake</item>
+    </plurals>
+    <plurals name="rc">
+        <item quantity="other">%s direkomendasekake</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="other">%d disaranake</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="other">%d disaranake</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="other">Deleng %d saran liyane</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="other">Rekam nganti %d detik</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="other">Rekam nganti %d detik nganggo swara saka video asli</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="other">Konsep (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="other">Video sampeyan bakal digawe bisu yen milih mulihake swara iki.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="other">Pulihake swara sing ana hak ciptane?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="other">Swara sing ana hak ciptane dibusak</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="other">Mbusak swara</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="other">Swara dibusak</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="other">Ganti swara</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="other">Mbusak swara sing ana hak ciptane...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="other">Kita wis ndeteksi swara sing nglanggar hak cipta sing luwih dawa saka 1 menit ing video sampeyan lan video bakal digawe bisu yen milih nerusake. Ganti swarane, utawa cendhakake videone. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="other">Ganti swara</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="other">Mbusak swara sing ana hak ciptane...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="other">Kita wis ndeteksi swara sing nglanggar hak cipta ing video sampeyan. Video bakal digawe bisu yen sampeyan milih nerusake, utawa sampeyan bisa ngganti swarane. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="other">Swara sing ana hak ciptane</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="other">Sing duwe hak cipta mung menehi palilah nggunakake swara iki suwene 1 menit.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="other">Sing duwe hak cipta ora menehi palilah nggunakake swara iki.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="other">Ganti swara</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="other">Kita wis ndeteksi swara sing nglanggar hak cipta sing luwih dawa saka 1 menit ing video sampeyan lan video bakal digawe bisu yen milih nerusake. Ganti swarane, utawa cendhakake videone. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="other">Ganti swara</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="other">Kita wis ndeteksi swara sing nglanggar hak cipta ing video sampeyan. Video bakal digawe bisu yen sampeyan milih nerusake, utawa sampeyan bisa ngganti swarane. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="other">Busak video (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="other">%d mosting maneh</item>
+    </plurals>
+    <plurals name="s3">
+        <item quantity="other">{number} di-repost</item>
+    </plurals>
+    <plurals name="s4">
+        <item quantity="other">%s di-repost</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="other">%d di-repost</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="other">%d di-repost</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="other">Tampilake %d postingan maneh liyane</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="other">%d dina</item>
+    </plurals>
+    <plurals name="s9">
+        <item quantity="other">Digunakake {number} jam {number} menit suwene</item>
+    </plurals>
+    <plurals name="s_">
+        <item quantity="other">Ping {number}</item>
+    </plurals>
+    <plurals name="sa">
+        <item quantity="other">Dibukak ping {number}</item>
+    </plurals>
+    <plurals name="sb">
+        <item quantity="other">Sampeyan wis nggunakake TikTok {number} jam suwene ing seminggu kepungkur ({percent} luwih sithik tinimbang minggu sadurunge).</item>
+    </plurals>
+    <plurals name="sc">
+        <item quantity="other">Sampeyan wis nggunakake TikTok {number} jam suwene ing seminggu kepungkur ({percent} luwih akeh tinimbang minggu sadurunge).</item>
+    </plurals>
+    <plurals name="sd">
+        <item quantity="other">Sampeyan wis nggunakake TikTok {number} jam suwene ing seminggu kepungkur ({percent} luwih sithik tinimbang minggu sadurunge)</item>
+    </plurals>
+    <plurals name="se">
+        <item quantity="other">Sampeyan wis nggunakake TikTok {number} jam suwene ing seminggu kepungkur ({percent} luwih akeh tinimbang minggu sadurunge)</item>
+    </plurals>
+    <plurals name="sf">
+        <item quantity="other">Sampeyan wis nggunakake TikTok {number} jam suwene ing seminggu kepungkur ({percent} luwih sithik tinimbang minggu sadurunge)</item>
+    </plurals>
+    <plurals name="sg">
+        <item quantity="other">Sampeyan wis nggunakake TikTok {number} jam suwene ing seminggu kepungkur ({percent} luwih akeh tinimbang minggu sadurunge)</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="other">Tindakake %1$d panlusuran maneh kanggo ngentukake %2$d poin</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="other">Jlajahi asil panlusuran sajrone %d detik</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="other">Tindakake %1$d panlusuran maneh kanggo ngentukake %2$d poin!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="other">%d swara sing cocog</item>
+    </plurals>
+    <plurals name="sl">
+        <item quantity="other">%s fan</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="other">Dianyarake %ddina kepungkur</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="other">Dianyarake %dj kepungkur</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="other">Dianyarake %dm kepungkur</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="other">Dianyarake %ddtk kepungkur</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="other">Dianyarake %dminggu kepungkur</item>
+    </plurals>
+    <plurals name="sr">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="other">Sampeyan mbage foto.</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="other">Slamet ya! Sampeyan nampa %d tetuku maneh wingi. Terusake gawe karya sing ngagumake lan lacak kinerja Series sampeyan saka “Alat kreator” &gt; “Series”.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="other">Series sampeyan nampa %d sambangan kaca ing sawetara dina pungkasan. Kanggo nglacak kinerja Series lan ngentukake tip sing migunani supaya wong sing arep tuku dadi ketarik, sampeyan bisa ngakses alat analitik saka “Alat kreator” &gt; “Series”.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="other">Slamet ya! %d pamirsa ing LIVE sampeyan tuku akses menyang Series sampeyan wingi. Terusake gawe karya sing ngagumake lan lacak kinerja Series sampeyan saka “Alat kreator” &gt; “Series”.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="other">Slamet ya! %d pamirsa tuku akses menyang Series sampeyan wingi saka video sing nduweni tautan Series. Terusake gawe karya sing ngagumake lan lacak kinerja Series sampeyan saka “Alat kreator” &gt; “Series”.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="other">Terusake menyang kamera (%d)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="other">Mung %d panuku pisanan</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="other">Mung kari %d</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="other">Kedaluwarsa %d dina engkas</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="t7">
+        <item quantity="other">{0}, {1}, lan {2} liyane nambahake posting sampeyan menyang Crita dheweke.</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="other">%d tayangan</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="other">Crita (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="other">{Brand} pengin ndawakake otorisasi asline saka tanggal {start_date} - {end_date} nganti {num} dina.</item>
+    </plurals>
+    <plurals name="tg">
+        <item quantity="other">Matur nuwun awit wis ndhukung kreator iki supaya bisa tetep nggawe konten sing sampeyan tresnani. Dheweke bakal nampa tip sampeyan sajeroning %d jam.</item>
+    </plurals>
+    <plurals name="th">
+        <item quantity="other">ngirim %d tip</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="other">%d video ditambahake</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="other">Kreator sing wis ana ing TikTok luwih saka %d sasi.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="other">Kreator sing duwe paling ora %d fan.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="other">%d interaksi</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="other">Watesan padinan kanggo nambahake topik sing ngetren: %d postingan</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="other">Wektu tinjoan kira-kira: %d dina</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="other">%@ video</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="other">%@ tayangan</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="other">%d dina kepungkur</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="other">Jam</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="other">%1$d jam kepungkur</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="other">menit</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="other">%1$d menit kepungkur</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="other">Jam</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="other">menit</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="other">d</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="other">%1$d taun kepungkur</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="other">Nyuwun ngapunten! Sampeyan wis dilarang\n Sampeyan bisa streaming live maneh sawise %1$d dina</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="other">Nyuwun ngapunten! Sampeyan wis dilarang\n Sampeyan bisa streaming live maneh sawise %1$d jam</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="other">Nyuwun ngapunten! Sampeyan saiki dilarang\n Sampeyan bisa streaming live maneh sawise: %1$d menit</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="other">Nyuwun ngapunten! Sampeyan wis dilarang\n Sampeyan bisa streaming live maneh sawise %1$d detik</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="other">%d pangguna lagi nonton siaran sampeyan, apa sampeyan pengin nutup iki?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="other">Kedaluwarsa ing %d dina</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="other">Kedaluwarsa ing %d jam</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="other">Isi maneh %1$d Berlian sing pisanan supaya entuk %2$d maneh!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="other">menit</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="other">Pangalaman sampeyan ing TikTok bakal rampung ing: %d dina</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="other">%d dina</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="other">Sampeyan duwe %d dina kanggo ngalami fitur iki ing TikTok. Sawise kuwi, undhuh apl TikTok Now kanggo nerusake.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="other">Posting kanggo miwiti pangalaman TikTok Now %d dina sampeyan.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="other">Pilih utawa rekam %d klip</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="other">Edit foto sing durung rampung?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="other">%s postingan anyar</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="other">mosting %d video</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="other">Apa sampeyan %d taun?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="other">Gunakake swara sing wis dipangkas. Rekam nganti %d detik.</item>
+    </plurals>
+    <plurals name="uh">
+        <item quantity="other">%1$s ora bisa nggawe video TikTok Shoutouts sampeyan miturut wektune. %2$d koin bakal diulihake menyang akun sampeyan sajrone 24 jam.</item>
+    </plurals>
+    <plurals name="ui">
+        <item quantity="other">%d koin bakal diulihake menyang akun sampeyan sajrone 24 jam.</item>
+    </plurals>
+    <plurals name="uj">
+        <item quantity="other">Pesenan iki wurungl amarga wis entek. %s koin bakal dibalekake menyang akun sampeyan.</item>
+    </plurals>
+    <plurals name="uk">
+        <item quantity="other">Panjalukan sampeyan wis diwurungake. %d koin bakal diulihake menyang akun sampeyan sajrone 24 jam.</item>
+    </plurals>
+    <plurals name="ul">
+        <item quantity="other">Koin</item>
+    </plurals>
+    <plurals name="um">
+        <item quantity="other">%1$s nolak panjalukan sampeyan. %2$s koin bakal diulihake menyang akun sampeyan sajroning 24 jam.</item>
+    </plurals>
+    <plurals name="un">
+        <item quantity="other">%1$s ora bisa nggawe video TikTok Shoutouts sampeyan miturut wektune. Panjalukan sampeyan wis kedaluwarsa lan %2$s bakal diulihake menyang akun sampeyan sajroning 24 jam.</item>
+    </plurals>
+    <plurals name="uo">
+        <item quantity="other">Yen %1$s ora nampa panjalukan sampeyan sajrone 2 dina, kita bakal otomatis wurungake panjalukan lan ngulihake %2$s koin menyang akun sampeyan sajrone 24 jam.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="other">%s pamirsa</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="other">%s seneng</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="other">Mbage menyang %1$s ing %2$s</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="other">%d produk</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="other">Postingan</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="other">%1$s, %2$s, lan %d liyane</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="other">nayangake postingan sampeyan.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="other">%s mbage</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="other">%s tayangan</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="other">{0}, {1}, lan {2} liyane nayangake postingan sampeyan.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="other">%d Koin</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="other">ngirim: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="other">Foto disimpen</item>
+    </plurals>
+    <plurals name="v2">
+        <item quantity="other">{number} wong ngeklaim hadiah nanging durung nambahake data menyang akune dheweke. Hadiah data sedhela maneh bisa uga sumadhiya kanggo sampeyan.</item>
+    </plurals>
+    <plurals name="v3">
+        <item quantity="other">Aktivitas rampung ing {countdown} dina. Jumlah diwatesi. Teka dhisik, entuk dhisik!</item>
+    </plurals>
+    <plurals name="v4">
+        <item quantity="other">Kari {countdown} hadiah</item>
+    </plurals>
+</resources>

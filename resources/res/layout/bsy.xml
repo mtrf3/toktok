@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/gid"
+    style="@style/j7">
+    <TextView
+        text="@string/i4f"
+        style="@style/jd"/>
+</FrameLayout>

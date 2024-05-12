@@ -1,0 +1,6 @@
+package X;
+
+/* renamed from: X.Jn9, reason: case insensitive filesystem */
+/* loaded from: classes9.dex */
+public final class C50207Jn9 {
+}

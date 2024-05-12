@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="true"
+        color="#161823"/>
+    <item
+        state_enabled="false"
+        color="#57161823"/>
+</selector>

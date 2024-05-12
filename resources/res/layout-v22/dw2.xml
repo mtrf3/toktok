@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/nli"
+    background="@drawable/dhe"
+    paddingLeft="24dp"
+    paddingRight="24dp"
+    layout_width="291dp"
+    layout_height="52dp"
+    paddingHorizontal="24dp">
+    <View
+        id="@+id/nlh"
+        background="@drawable/dgy"
+        layout_width="24dp"
+        layout_height="24dp"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x12="@+id/nlk"
+        NOT_FOUND_0x13="2"
+        NOT_FOUND_0x15="0"
+        NOT_FOUND_0x16="0"/>
+    <TextView
+        textSize="17sp"
+        textStyle="bold"
+        textColor="@color/adn"
+        ellipsize="marquee"
+        id="@+id/nlk"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/fk"
+        singleLine="true"
+        marqueeRepeatLimit="marquee_forever"
+        layout_marginStart="6dp"
+        NOT_FOUND_0xf="true"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x14="@+id/nlh"
+        NOT_FOUND_0x16="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

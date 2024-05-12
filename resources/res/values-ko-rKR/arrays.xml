@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>온라인 사운드 라이브러리</item>
+        <item>내 사운드</item>
+    </array>
+    <array name="q">
+        <item>삭제</item>
+        <item>취소</item>
+    </array>
+    <array name="r">
+        <item>인기</item>
+        <item>최신</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>일요일</item>
+        <item>월요일</item>
+        <item>화요일</item>
+        <item>수요일</item>
+        <item>목요일</item>
+        <item>금요일</item>
+        <item>토요일</item>
+    </array>
+    <array name="a5">
+        <item>중국어(간체)</item>
+        <item>중국어 번체</item>
+        <item>영어</item>
+        <item>일본어</item>
+        <item>한국어</item>
+        <item>러시아어</item>
+        <item>인도네시아어</item>
+        <item>말레이어</item>
+        <item>포르투갈어</item>
+        <item>태국어</item>
+        <item>베트남어</item>
+        <item>힌디어</item>
+    </array>
+    <array name="a7">
+        <item>일반</item>
+        <item>흑백</item>
+        <item>예술</item>
+        <item>빈티지</item>
+        <item>레트로럭스</item>
+        <item>높은 채도</item>
+        <item>크롬</item>
+    </array>
+    <array name="aa">
+        <item>1월</item>
+        <item>2월</item>
+        <item>3월</item>
+        <item>4월</item>
+        <item>5월</item>
+        <item>6월</item>
+        <item>7월</item>
+        <item>8월</item>
+        <item>9월</item>
+        <item>10월</item>
+        <item>11월</item>
+        <item>12월</item>
+    </array>
+    <array name="ad">
+        <item>데이터 절약 우선</item>
+        <item>고해상도 우선</item>
+    </array>
+    <array name="ae">
+        <item>모두</item>
+        <item>친구에게만 공개</item>
+    </array>
+    <array name="bi">
+        <item>월요일</item>
+        <item>화요일</item>
+        <item>수요일</item>
+        <item>목요일</item>
+        <item>금요일</item>
+        <item>토요일</item>
+        <item>일요일</item>
+    </array>
+</resources>

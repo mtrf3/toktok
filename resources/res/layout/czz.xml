@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.RunnableC31065CHd
+        id="@+id/ier"
+        paddingTop="10dp"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</LinearLayout>

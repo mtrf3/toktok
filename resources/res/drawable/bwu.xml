@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="oval">
+    <solid color="?attr/ca"/>
+    <size
+        height="28dp"
+        width="28dp"/>
+    <stroke
+        width="1dp"
+        color="?attr/cl"/>
+</shape>

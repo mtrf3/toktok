@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    layout_gravity="start|bottom"
+    orientation="horizontal"
+    clipChildren="false"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <LinearLayout
+        layout_gravity="start|bottom"
+        orientation="horizontal"
+        id="@+id/dql"
+        clipChildren="false"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <X.C31809Ce5
+        id="@+id/dqn"
+        layout_width="20dp"
+        layout_height="match_parent"/>
+</LinearLayout>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="bz" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Menu">
+    </style>
+    <style name="c9" parent="@android:style/TextAppearance.Material.Widget.Button.Inverse">
+    </style>
+    <style name="cm" parent="@style/eg">
+    </style>
+    <style name="ct" parent="@style/eh">
+    </style>
+    <style name="eg" parent="@style/ee">
+        <item name="tz">?android:attr/actionBarItemBackground</item>
+        <item name="uc">?android:attr/actionMenuTextAppearance</item>
+        <item name="ud">?android:attr/actionMenuTextColor</item>
+        <item name="ut">?android:attr/actionOverflowButtonStyle</item>
+        <item name="a7g">@drawable/lz</item>
+        <item name="b6u">?android:attr/ratingBarStyleIndicator</item>
+        <item name="b6v">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="eh" parent="@style/ef">
+        <item name="tz">?android:attr/actionBarItemBackground</item>
+        <item name="uc">?android:attr/actionMenuTextAppearance</item>
+        <item name="ud">?android:attr/actionMenuTextColor</item>
+        <item name="ut">?android:attr/actionOverflowButtonStyle</item>
+        <item name="a7g">@drawable/lz</item>
+        <item name="b6u">?android:attr/ratingBarStyleIndicator</item>
+        <item name="b6v">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="f2" parent="@android:style/Widget.Material.ActionButton.Overflow">
+    </style>
+    <style name="f8" parent="@android:style/Widget.Material.Button.Borderless.Colored">
+    </style>
+    <style name="f_" parent="@android:style/Widget.Material.Button.Colored">
+        <item name="android:textAppearance">@style/n4</item>
+    </style>
+    <style name="fj" parent="@android:style/Widget.Material.EditText">
+        <item name="android:breakStrategy">simple</item>
+        <item name="android:hyphenationFrequency">none</item>
+    </style>
+    <style name="g4" parent="@android:style/Widget.Material.RatingBar.Indicator">
+    </style>
+    <style name="g5" parent="@android:style/Widget.Material.RatingBar.Small">
+    </style>
+    <style name="ga" parent="@android:style/Widget.Material.Spinner.Underlined">
+    </style>
+    <style name="gb" parent="@android:style/Widget.Material.TextView">
+        <item name="android:breakStrategy">high_quality</item>
+        <item name="android:hyphenationFrequency">none</item>
+    </style>
+    <style name="h4" parent="@style/b2">
+        <item name="a1h">?android:attr/colorBackgroundFloating</item>
+    </style>
+    <style name="w0" parent="@style/r4">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="bxp">false</item>
+        <item name="bxz">true</item>
+    </style>
+    <style name="a1f" parent="@style/gl">
+        <item name="android:popupBackground">?attr/b50</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+    <style name="a1g" parent="@style/gm">
+        <item name="android:popupBackground">?attr/b50</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+    <style name="a_9" parent="@style/pr">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:statusBarColor">@color/av</item>
+        <item name="android:navigationBarColor">@color/av</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="a4s">@color/av</item>
+    </style>
+    <style name="a_o" parent="@style/pr">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:navigationBarColor">@color/ar</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="a4s">@color/ar</item>
+    </style>
+</resources>

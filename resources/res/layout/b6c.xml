@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.lighten.loader.SmartImageView
+    id="@+id/ktb"
+    layout_width="90dp"
+    layout_height="90dp"
+    NOT_FOUND_0x3="6"
+    NOT_FOUND_0x4="@drawable/bhr"
+    NOT_FOUND_0x5="@drawable/bhr"
+    NOT_FOUND_0x6="6"
+    NOT_FOUND_0x7="12dp"
+    NOT_FOUND_0x8="0dp"/>

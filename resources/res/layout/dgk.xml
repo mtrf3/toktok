@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C47121t6
+        textColor="@color/ck"
+        gravity="center_vertical"
+        id="@+id/aii"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        textAlignment="viewStart"
+        style="@style/a46"/>
+    <View
+        id="@+id/aij"
+        background="@color/a9w"
+        layout_width="1dp"
+        layout_height="10dp"
+        layout_marginStart="8dp"
+        layout_marginEnd="8dp"/>
+</LinearLayout>

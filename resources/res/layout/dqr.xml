@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C59202Ua
+        layout_gravity="right"
+        orientation="horizontal"
+        id="@+id/kea"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <X.C47061t0
+        id="@+id/exv"
+        visibility="gone"
+        layout_width="100dp"
+        layout_height="100dp"
+        layout_marginLeft="10dp"
+        layout_marginTop="100dp"
+        layout_marginRight="10dp"
+        layout_marginBottom="10dp"
+        layout_marginStart="10dp"
+        layout_marginEnd="10dp"/>
+</FrameLayout>

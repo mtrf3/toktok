@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/iq"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.SYL
+        id="@+id/ip"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C73305Spp
+        id="@+id/ir"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x4="0"/>
+</FrameLayout>

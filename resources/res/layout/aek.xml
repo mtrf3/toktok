@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    layout_gravity="center_vertical"
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <LinearLayout
+        gravity="center_vertical"
+        layout_width="match_parent"
+        layout_height="wrap_content">
+        <com.bytedance.tux.input.TuxTextView
+            textColor="@color/ck"
+            id="@+id/kae"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="With these hashtags"
+            NOT_FOUND_0xb="41"/>
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/kad"
+            layout_width="15dp"
+            layout_height="15dp"
+            layout_marginStart="5dp"
+            NOT_FOUND_0xc="@raw/icon_info_circle"
+            NOT_FOUND_0xd="@color/cn"/>
+    </LinearLayout>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="@color/cu"
+        id="@+id/kac"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="@dimen/o2"
+        text="Select the hashtags you don’t like. You can change this anytime in Settings and privacy &gt; Content preferences &gt; Filter video keywords."
+        NOT_FOUND_0xb="61"/>
+</LinearLayout>

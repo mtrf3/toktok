@@ -1,0 +1,28 @@
+package com.bytedance.android.livesdk.livesetting.broadcast;
+
+import com.bytedance.android.live.annotation.Group;
+import com.bytedance.android.live.annotation.SettingsKey;
+import com.bytedance.android.live_settings.SettingsManager;
+
+@SettingsKey(preciseExperiment = false, value = "enable_mobile_golive_continue_auto_speedtest")
+/* loaded from: classes6.dex */
+public final class EnableMobileGoliveContinueAutoSpeedtestSetting {
+
+    @Group(isDefault = true, value = "default group")
+    public static final int DEFAULT = 0;
+
+    @Group("experiment group")
+    public static final int ENABLE = 1;
+    public static final EnableMobileGoliveContinueAutoSpeedtestSetting INSTANCE = new EnableMobileGoliveContinueAutoSpeedtestSetting();
+
+    public final int getValue() {
+        return SettingsManager.INSTANCE.getIntValue(EnableMobileGoliveContinueAutoSpeedtestSetting.class);
+    }
+
+    public final boolean isEnable() {
+        if (getValue() == 1) {
+            return true;
+        }
+        return false;
+    }
+}

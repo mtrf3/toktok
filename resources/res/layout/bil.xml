@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    id="@+id/boe"
+    background="@drawable/a1w"
+    visibility="gone"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginLeft="8dp"
+    layout_marginTop="35.5dp"
+    layout_marginStart="8dp">
+    <X.W5G
+        id="@+id/bof"
+        layout_width="20dp"
+        layout_height="20dp"
+        layout_margin="5dp"
+        NOT_FOUND_0x11="true"
+        NOT_FOUND_0x12="true"
+        NOT_FOUND_0x13="true"
+        NOT_FOUND_0x14="true"
+        NOT_FOUND_0x15="2dp"/>
+    <X.C8HN
+        textSize="14dp"
+        textColor="@color/acm"
+        id="@+id/boh"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        includeFontPadding="false"/>
+    <X.C170736mz
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginRight="8dp"
+        src="@drawable/agd"
+        layout_marginEnd="8dp"/>
+</LinearLayout>

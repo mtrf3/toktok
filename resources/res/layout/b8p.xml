@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.icon.TuxIconView
+    id="@+id/kwr"
+    background="@drawable/bhs"
+    visibility="invisible"
+    layout_width="24dp"
+    layout_height="24dp"
+    scaleType="fitXY"
+    NOT_FOUND_0x6="@raw/icon_arrow_turn_up_left"
+    NOT_FOUND_0x7="11dp"
+    NOT_FOUND_0x8="12dp"
+    NOT_FOUND_0x9="?attr/go"/>

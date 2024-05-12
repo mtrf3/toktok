@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="@drawable/aep"
+    layout_width="wrap_content"
+    layout_height="41dp"
+    NOT_FOUND_0x13="230dp">
+    <ImageView
+        id="@+id/i5y"
+        layout_width="25dp"
+        layout_height="25dp"
+        layout_marginTop="8dp"
+        layout_marginBottom="8dp"
+        layout_marginStart="8dp"
+        layout_marginEnd="6dp"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xf="@+id/gi2"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x12="0"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/cl"
+        ellipsize="end"
+        gravity="center"
+        id="@+id/gi2"
+        layout_width="wrap_content"
+        layout_height="16dp"
+        maxWidth="167dp"
+        maxLines="1"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xf="@+id/ghe"
+        NOT_FOUND_0x10="@+id/i5y"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x14="8dp"
+        NOT_FOUND_0x15="61"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/ghe"
+        layout_width="16dp"
+        layout_height="16dp"
+        layout_marginEnd="8dp"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0x10="@+id/gi2"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x16="@raw/icon_chevron_right_ltr"
+        NOT_FOUND_0x17="?attr/dj"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

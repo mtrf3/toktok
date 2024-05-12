@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Pustaka suara online</item>
+        <item>Suara Saya</item>
+    </array>
+    <array name="q">
+        <item>Hapus</item>
+        <item>Batal</item>
+    </array>
+    <array name="r">
+        <item>Sedang tren</item>
+        <item>Terbaru</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>Minggu</item>
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+    </array>
+    <array name="a5">
+        <item>Tionghoa Sederhana</item>
+        <item>Bahasa Mandarin Tradisional</item>
+        <item>Inggris</item>
+        <item>Bahasa Jepang</item>
+        <item>Bahasa Korea</item>
+        <item>Bahasa Rusia</item>
+        <item>Bahasa Indonesia</item>
+        <item>Bahaya Melayu</item>
+        <item>Bahasa Portugis</item>
+        <item>Bahasa Thailand</item>
+        <item>Bahasa Vietnam</item>
+        <item>Bahasa India</item>
+    </array>
+    <array name="a7">
+        <item>Normal</item>
+        <item>Hitam/Putih</item>
+        <item>Seni</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Tersaturasi</item>
+        <item>Chrome</item>
+    </array>
+    <array name="aa">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Agu</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Des</item>
+    </array>
+    <array name="ad">
+        <item>Penghematan data dahulu</item>
+        <item>Resolusi tinggi dahulu</item>
+    </array>
+    <array name="ae">
+        <item>Semua orang</item>
+        <item>Hanya teman</item>
+    </array>
+    <array name="bi">
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+        <item>Minggu</item>
+    </array>
+</resources>

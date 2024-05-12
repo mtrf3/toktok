@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <solid color="?attr/d7"/>
+    <corners
+        bottomLeftRadius="@dimen/b4"
+        bottomRightRadius="@dimen/b4"/>
+</shape>

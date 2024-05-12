@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/j71"
+    layout_width="match_parent"
+    layout_height="200dp">
+    <X.C8HN
+        textColor="@color/v3"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/cvs"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        text="@string/roo"
+        style="@style/aab"/>
+</FrameLayout>

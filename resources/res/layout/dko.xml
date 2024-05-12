@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="120dp">
+    <X.C41081jM
+        layout_gravity="center"
+        id="@+id/djf"
+        layout_width="62dp"
+        layout_height="62dp"
+        src="@drawable/cp6"
+        layout_marginStart="16dp"
+        layout_marginEnd="4dp"/>
+    <X.C41081jM
+        id="@+id/d2_"
+        layout_width="30dp"
+        layout_height="30dp"
+        src="@drawable/d2t"/>
+    <X.C30735C4l
+        layout_gravity="center"
+        id="@+id/d29"
+        layout_width="wrap_content"
+        layout_height="120dp"
+        maxHeight="2dp"
+        progressDrawable="@drawable/cd9"
+        thumb="@drawable/cd_"
+        thumbOffset="0dp"
+        splitTrack="true"/>
+    <X.C41081jM
+        layout_gravity="center"
+        id="@+id/djg"
+        visibility="gone"
+        layout_width="62dp"
+        layout_height="62dp"
+        src="@drawable/cp6"
+        layout_marginStart="4dp"
+        layout_marginEnd="16dp"/>
+</LinearLayout>

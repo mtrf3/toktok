@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C51671KPr
+    id="@+id/jf1"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/jf0"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/jf2"
+        layout_width="wrap_content"
+        layout_height="match_parent">
+        <X.SYL
+            id="@+id/i04"
+            layout_width="64dp"
+            layout_height="match_parent"
+            layout_marginLeft="4dp"
+            layout_marginRight="4dp"
+            overScrollMode="never"/>
+    </FrameLayout>
+</X.C51671KPr>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_horizontal"
+    orientation="vertical"
+    id="@+id/c_x"
+    layout_width="wrap_content"
+    layout_height="48dp">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        id="@+id/jt3"
+        layout_width="48dp"
+        layout_height="wrap_content">
+        <X.C62846OlW
+            id="@+id/jtf"
+            layout_width="28dp"
+            layout_height="28dp"
+            src="@drawable/bo6"
+            scaleType="centerInside"
+            NOT_FOUND_0x11="0"
+            NOT_FOUND_0x12="0"
+            NOT_FOUND_0x13="0"/>
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/ce6"
+            paddingTop="2dp"
+            visibility="gone"
+            layout_width="18dp"
+            layout_height="18dp"
+            translationY="5dp"
+            paddingStart="0.5dp"
+            layout_marginEnd="2dp"
+            NOT_FOUND_0x10="@+id/jtf"
+            NOT_FOUND_0x11="0"
+            NOT_FOUND_0x15="@raw/icon_paperplane_fill"
+            NOT_FOUND_0x16="12dp"
+            NOT_FOUND_0x17="12dp"
+            NOT_FOUND_0x18="?attr/eb"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <com.bytedance.tux.input.TuxTextView
+        ellipsize="end"
+        gravity="center"
+        id="@+id/jt6"
+        layout_width="wrap_content"
+        layout_marginTop="1dp"
+        maxWidth="70dp"
+        maxLines="1"
+        NOT_FOUND_0x14="62"
+        style="@style/a6b"/>
+</LinearLayout>

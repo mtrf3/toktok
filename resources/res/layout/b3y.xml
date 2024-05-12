@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/dg_"
+    layout_width="40dp"
+    layout_height="40dp"
+    layout_marginLeft="-10dp"
+    layout_marginStart="-10dp">
+    <com.ss.android.ugc.aweme.base.ui.SmartAvatarImageView
+        id="@+id/bbv"
+        layout_width="40dp"
+        layout_height="40dp"
+        NOT_FOUND_0x8="true"
+        NOT_FOUND_0x9="?attr/dz"
+        NOT_FOUND_0xa="0.5dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gv"
+        layout_gravity="center"
+        id="@+id/mys"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0xb="51"/>
+</FrameLayout>

@@ -1,0 +1,18 @@
+package com.bytedance.android.livesdk.livesetting.performance;
+
+import com.bytedance.android.live.annotation.Group;
+import com.bytedance.android.live.annotation.SettingsKey;
+import com.bytedance.android.live_settings.SettingsManager;
+
+@SettingsKey("live_play_enforce_interval_setting")
+/* loaded from: classes6.dex */
+public final class LivePlayEnforceIntervalSetting {
+
+    @Group(isDefault = true, value = "default group")
+    public static final long DEFAULT = 15000;
+    public static final LivePlayEnforceIntervalSetting INSTANCE = new LivePlayEnforceIntervalSetting();
+
+    public final long getValue() {
+        return SettingsManager.INSTANCE.getLongValue(LivePlayEnforceIntervalSetting.class);
+    }
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate
+    interpolator="@android:anim/decelerate_interpolator"
+    duration="300"
+    fromYDelta="20%p"
+    toYDelta="0%p"/>

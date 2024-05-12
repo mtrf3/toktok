@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C33681DJt
+        id="@+id/iac"
+        layout_width="match_parent"
+        layout_height="@dimen/gf"
+        layout_marginBottom="@dimen/gg"/>
+    <com.bytedance.tux.input.TuxTextView
+        id="@+id/kf_"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x4="41"/>
+</merge>

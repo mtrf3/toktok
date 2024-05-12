@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C73305Spp
+        id="@+id/kf_"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0xd="0"/>
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        id="@+id/itq"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C114194dz
+        layout_gravity="end|center_vertical"
+        id="@+id/el2"
+        visibility="gone"
+        layout_width="16dp"
+        layout_height="wrap_content"
+        layout_marginEnd="3dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        layout_gravity="end|center_vertical"
+        id="@+id/ekw"
+        background="@drawable/auo"
+        paddingTop="4dp"
+        paddingBottom="4dp"
+        visibility="gone"
+        layout_width="52dp"
+        layout_height="42dp"
+        paddingStart="12dp"
+        paddingEnd="18dp"
+        layout_marginEnd="40dp"
+        NOT_FOUND_0xc="11"/>
+</FrameLayout>

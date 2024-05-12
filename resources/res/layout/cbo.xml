@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C82858WfW
+        id="@+id/n41"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0xc="72dp"
+        NOT_FOUND_0xd="4dp"
+        NOT_FOUND_0xe="56dp"
+        NOT_FOUND_0xf="31dp"
+        NOT_FOUND_0x11="36dp"
+        NOT_FOUND_0x12="false"/>
+    <X.C170466mY
+        textSize="10dp"
+        gravity="center"
+        layout_gravity="center_horizontal"
+        id="@+id/k4c"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="20dp"
+        text="@string/rpa"
+        shadowColor="?attr/ei"
+        shadowRadius="2"
+        NOT_FOUND_0x10="false"/>
+</LinearLayout>

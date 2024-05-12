@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    clickable="false"
+    descendantFocusability="blocksDescendants"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    paddingStart="22dp"
+    paddingEnd="22dp">
+    <View
+        id="@+id/bs_"
+        background="@drawable/bh7"
+        layout_width="0dp"
+        layout_height="56dp"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"/>
+    <LinearLayout
+        orientation="horizontal"
+        id="@+id/evl"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

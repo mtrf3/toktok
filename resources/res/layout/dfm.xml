@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    paddingTop="4dp"
+    paddingBottom="20dp"
+    layout_width="match_parent"
+    layout_height="178dp">
+    <X.RunnableC31065CHd
+        id="@+id/iyb"
+        background="?attr/cr"
+        visibility="visible"
+        clipToPadding="false"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        paddingStart="8dp"
+        paddingEnd="16dp"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

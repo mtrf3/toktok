@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    background="?attr/b_r"
+    paddingLeft="16dp"
+    paddingRight="16dp"
+    layout_width="match_parent"
+    layout_height="@dimen/am">
+    <FrameLayout
+        layout_width="24dp"
+        layout_height="24dp">
+        <ImageView
+            id="@+id/bh"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            scaleType="fitCenter"/>
+        <ProgressBar
+            id="@+id/bj"
+            visibility="invisible"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            indeterminate="true"
+            style="?android:attr/progressBarStyle"/>
+    </FrameLayout>
+    <TextView
+        textAppearance="?attr/al"
+        gravity="start"
+        id="@+id/bi"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_marginLeft="16dp"
+        layout_weight="1"
+        textAlignment="viewStart"
+        layout_marginStart="16dp"/>
+</LinearLayout>

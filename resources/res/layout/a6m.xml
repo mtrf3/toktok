@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="?attr/ca"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C105824Di
+        id="@+id/nd2"
+        focusableInTouchMode="true"
+        scrollbars="none"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        overScrollMode="never"/>
+    <include
+        id="@+id/j1f"
+        layout="@layout/a6n"/>
+    <include
+        id="@+id/j0y"
+        visibility="gone"
+        layout="@layout/a6k"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

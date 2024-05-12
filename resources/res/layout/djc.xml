@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    orientation="horizontal"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C47061t0
+        id="@+id/mze"
+        layout_width="28dp"
+        layout_height="28dp"/>
+    <X.C47121t6
+        textColor="@color/bc"
+        gravity="start"
+        id="@+id/bud"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        maxWidth="220dp"
+        maxLines="4"
+        singleLine="false"
+        layout_marginStart="8dp"
+        style="@style/ov"/>
+</LinearLayout>

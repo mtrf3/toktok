@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C82011WGp
+    id="@+id/drn"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.W5G
+        id="@+id/chd"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x7="2"/>
+    <ImageView
+        layout_gravity="center"
+        id="@+id/ej_"
+        visibility="gone"
+        layout_width="120dp"
+        layout_height="120dp"
+        src="@drawable/b0k"
+        scaleType="fitCenter"/>
+</X.C82011WGp>

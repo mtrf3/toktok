@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="90dp">
+    <X.C47061t0
+        layout_gravity="center_horizontal"
+        id="@+id/a52"
+        layout_width="90dp"
+        layout_height="90dp"/>
+    <LinearLayout
+        layout_gravity="bottom|center_horizontal"
+        orientation="horizontal"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <X.C47121t6
+            textSize="12dp"
+            textColor="#e1e2e2"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/ssi"/>
+        <X.C47061t0
+            id="@+id/a55"
+            layout_width="30dp"
+            layout_height="8dp"
+            layout_marginLeft="2dp"
+            layout_marginTop="6dp"/>
+    </LinearLayout>
+</merge>

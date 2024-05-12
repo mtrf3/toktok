@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="true"
+        NOT_FOUND_0x7="true">
+        <set>
+            <objectAnimator
+                interpolator="@interpolator/k"
+                duration="@integer/bt"
+                valueTo="@dimen/a1r"
+                valueType="floatType"
+                propertyName="translationZ"
+                startDelay="@integer/bs"/>
+        </set>
+    </item>
+    <item state_enabled="true">
+        <set>
+            <objectAnimator
+                interpolator="@anim/ee"
+                duration="@integer/bt"
+                valueTo="0dp"
+                valueType="floatType"
+                propertyName="translationZ"/>
+        </set>
+    </item>
+</selector>

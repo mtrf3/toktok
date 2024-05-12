@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/nj1"
+    background="@drawable/p9"
+    layout_width="298dp"
+    layout_height="298dp">
+    <ImageView
+        id="@+id/b3b"
+        layout_width="138dp"
+        layout_height="138dp"
+        layout_marginTop="70dp"
+        src="@drawable/op"
+        layout_centerHorizontal="true"/>
+    <ImageView
+        layout_width="28dp"
+        layout_height="28dp"
+        layout_margin="16dp"
+        src="@drawable/on"
+        layout_alignParentTop="true"
+        layout_alignParentEnd="true"/>
+    <TextView
+        textSize="24sp"
+        textStyle="bold"
+        textColor="@color/bc"
+        id="@+id/lao"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="220dp"
+        text="@string/txb"
+        layout_centerHorizontal="true"/>
+    <FrameLayout
+        id="@+id/bxv"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</RelativeLayout>

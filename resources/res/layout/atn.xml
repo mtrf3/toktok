@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_gravity="center"
+    descendantFocusability="blocksDescendants"
+    layout_width="@dimen/r3"
+    layout_height="@dimen/r3">
+    <X.C62846OlW
+        id="@+id/cud"
+        layout_width="28dp"
+        layout_height="28dp"
+        NOT_FOUND_0x5="2"/>
+</FrameLayout>

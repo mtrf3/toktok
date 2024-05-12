@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C91542ZwI
+        id="@+id/ii"
+        background="@color/cz"
+        visibility="gone"
+        fadingEdgeLength="21dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        overScrollMode="never"
+        requiresFadingEdge="vertical"/>
+    <X.C91109ZpJ
+        id="@+id/ji"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="28dp"
+        layout_marginLeft="8dp"
+        layout_marginRight="8dp"/>
+</merge>

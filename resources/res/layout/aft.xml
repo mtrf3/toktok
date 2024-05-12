@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C252709vu
+        id="@+id/la4"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <ImageView
+        id="@+id/gct"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="16dp"
+        layout_marginTop="80dp"
+        layout_marginRight="16dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/gcu"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="32dp"
+        layout_marginTop="20dp"
+        layout_marginRight="32dp"
+        NOT_FOUND_0xa="31"/>
+</LinearLayout>

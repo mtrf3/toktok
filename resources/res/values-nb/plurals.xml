@@ -1,0 +1,2275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">Vi begynner å lage avatarene om %d minutt.</item>
+        <item quantity="other">Vi begynner å lage avatarene om %d minutter.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">Fortsett med %d stil</item>
+        <item quantity="other">Fortsett med %d stiler</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">Velg minst %d bilde til med et menneskeansikt</item>
+        <item quantity="other">Velg minst %d bilder til med et menneskeansikt</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">Du kan lage avaterer %d gang om dagen med Sharp</item>
+        <item quantity="other">Du kan lage avaterer %d ganger om dagen med Sharp</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">Du kan lage avaterer %d gang i uken med Sharp</item>
+        <item quantity="other">Du kan lage avaterer %d ganger i uken med Sharp</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">Du kan lage avaterer %d ganger om dagen med Speedy</item>
+        <item quantity="other">Du kan lage avaterer %d ganger om dagen med Speedy</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="one">Du kan lage avaterer %d gang i uken med Speedy</item>
+        <item quantity="other">Du kan lage avaterer %d ganger i uken med Speedy</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="one">Du kan lage avaterer %d gang om dagen</item>
+        <item quantity="other">Du kan lage avaterer %d ganger om dagen</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="one">Du kan lage avaterer %d gang i uken</item>
+        <item quantity="other">Du kan lage avaterer %d ganger i uken</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="one">Vi begynner å lage avatarene om %d minutt.</item>
+        <item quantity="other">Vi begynner å lage avatarene om %d minutter.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="one">Du har %d forespørsel</item>
+        <item quantity="other">Du har %d forespørsler</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="one">Du har %d forespørsel</item>
+        <item quantity="other">Du har %d forespørsler</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="one">%d spørsmål</item>
+        <item quantity="other">%d spørsmål</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="one">De første %d dagene må andre publisere for å se innleggene dine.</item>
+        <item quantity="other">De første %d dagene må andre publisere for å se innleggene dine.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="one">Etter %d dag kan de se innleggene dine uten å publisere.</item>
+        <item quantity="other">Etter %d dager kan de se innleggene dine uten å publisere.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="one">Etter %d dag kan bare du se innleggene dine.</item>
+        <item quantity="other">Etter %d dager kan bare du se innleggene dine.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="one">De første %d dagene må andre publisere for å se Now-innleggene dine.</item>
+        <item quantity="other">De første %d dagene må andre publisere for å se Now-innleggene dine.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="one">%d produkt</item>
+        <item quantity="other">%d produkter</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="one">Åpne bilde fra {username}</item>
+        <item quantity="other">Åpne bilder fra {username}</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="one">{number} person la videoen til i Favoritter</item>
+        <item quantity="other">{number} personer la videoen til i Favoritter</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="one">%d likerklikk</item>
+        <item quantity="other">%d likerklikk</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ milliard</item>
+        <item quantity="other">%@ milliarder</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ million</item>
+        <item quantity="other">%@ millioner</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ tusen</item>
+        <item quantity="other">%@ tusen</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="one">%d visning</item>
+        <item quantity="other">%d visninger</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="one">%s video tillater kommentarer</item>
+        <item quantity="other">%s videoer tillater kommentarer</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="one">%s video tillater ikke kommentarer</item>
+        <item quantity="other">%s videoer tillater ikke kommentarer</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="one">mens %d ikke tillater duetter</item>
+        <item quantity="other">mens %d ikke tillater duetter</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="one">Alle kan lage duetter med videoene dine. %1$d av videoene dine tillater duetter, %2$s</item>
+        <item quantity="other">Alle kan lage duetter med videoene dine. %1$d av videoene dine tillater duetter, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="one">mens %d ikke tillater duetter</item>
+        <item quantity="other">mens %d ikke tillater duetter</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="one">Venner kan lage duetter med videoene dine. %1$d av videoene dine tillater duetter, %2$s</item>
+        <item quantity="other">Venner kan lage duetter med videoene dine. %1$d av videoene dine tillater duetter, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="one">mens %d ikke tillater duetter</item>
+        <item quantity="other">mens %d ikke tillater duetter</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="one">Gå gjennom hvem som kan lage duetter med videoene dine. %1$d av videoene dine tillater duetter, %2$s</item>
+        <item quantity="other">Gå gjennom hvem som kan lage duetter med videoene dine. %1$d av videoene dine tillater duetter, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="one">mens %d ikke tillater stitch</item>
+        <item quantity="other">mens %d ikke tillater stitch</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="one">Gå gjennom hvem som kan sammensy med videoene dine. %1$d av videoene dine tillater sammensying, %2$s</item>
+        <item quantity="other">Gå gjennom hvem som kan sammensy med videoene dine. %1$d av videoene dine tillater sammensying, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="one">mens %d ikke tillater stitch</item>
+        <item quantity="other">mens %d ikke tillater stitch</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="one">Alle kan sammensy med videoene dine. %1$d av videoene dine tillater sammensying, %2$s</item>
+        <item quantity="other">Alle kan sammensy med videoene dine. %1$d av videoene dine tillater sammensying, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="one">mens %d ikke tillater stitch</item>
+        <item quantity="other">mens %d ikke tillater stitch</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="one">Venner kan sammensy med videoene dine. %1$d av videoene dine tillater sammensying, %2$s</item>
+        <item quantity="other">Venner kan sammensy med videoene dine. %1$d av videoene dine tillater sammensying, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="one">%s video tillater duett</item>
+        <item quantity="other">%s videoer tillater duett</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="one">%s video tillater ikke duett</item>
+        <item quantity="other">%s videoer tillater ikke duett</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="one">%s video tillater stitch</item>
+        <item quantity="other">%s videoer tillater stitch</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="one">%s video tillater ikke stitch</item>
+        <item quantity="other">%s videoer tillater ikke stitch</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="one">Aktiv for %d time siden</item>
+        <item quantity="other">Aktiv for %d timer siden</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="one">Aktiv for %d minutt siden</item>
+        <item quantity="other">Aktiv for %d minutter siden</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="one">%d del</item>
+        <item quantity="other">%d deler</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="one">%1$s · %2$d nytt innlegg</item>
+        <item quantity="other">%1$s · %2$d nye innlegg</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="one">Importer %d lyd</item>
+        <item quantity="other">Importer %d lyder</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="one">%2$d LIVE-videoer | %1$d historie</item>
+        <item quantity="other">%2$d LIVE-videoer | %1$d historier</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="one">%2$d LIVE-video | %1$d historie</item>
+        <item quantity="other">%2$d LIVE-videoer | %1$d historie</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="one">%d LIVE-video | historie</item>
+        <item quantity="other">%d LIVE-videoer | historie</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="one">%2$d LIVE-video | %1$d historie</item>
+        <item quantity="other">%2$d LIVE-video | %1$d historier</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="one">%d historie</item>
+        <item quantity="other">%d historier</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="one">%d venn ble invitert</item>
+        <item quantity="other">%d venner ble invitert</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s videoer</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="one">%s video lagt til</item>
+        <item quantity="other">%s videoer lagt til</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="one">%s publisert video</item>
+        <item quantity="other">%s publiserte videoer</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="one">Legg til (%d) video</item>
+        <item quantity="other">Legg til (%d) videoer</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="one">%d år gammel</item>
+        <item quantity="other">%d år gammel</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="one">%d år gammel</item>
+        <item quantity="other">%d år gammel</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="one">Er du %d år gammel?\n\n Hvis det ikke er riktig, får du kanskje ikke den rette TikTok-opplevelsen. Det går kanskje ikke an å endre alderen med en gang.</item>
+        <item quantity="other">Er du %d år gammel?\n\n Hvis det ikke er riktig, får du kanskje ikke den rette TikTok-opplevelsen. Det går kanskje ikke an å endre alderen med en gang.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="one">Er du %d år gammel?</item>
+        <item quantity="other">Er du %d år gammel?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="one">Du har oppgitt at du er %d år gammel. Oppgi den reelle fødselsdatoen din.</item>
+        <item quantity="other">Du har oppgitt at du er %d år gammel. Oppgi den reelle fødselsdatoen din.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="one">%d år gammel</item>
+        <item quantity="other">%d år gammel</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="one">%d lyd</item>
+        <item quantity="other">%d lyder</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="one">Synkroniserer lyd …</item>
+        <item quantity="other">Synkroniserer lyder …</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="one">%s deling</item>
+        <item quantity="other">%s delinger</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="one">%s visning</item>
+        <item quantity="other">%s visninger</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="one">Stemmeeffekt kan redusere nøyaktigheten</item>
+        <item quantity="other">Stemmeeffekter kan redusere nøyaktigheten</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="one">Last opp opptil %d fil</item>
+        <item quantity="other">Last opp opptil %d filer</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="one">[num] video</item>
+        <item quantity="other">[num] videoer</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="one">Denne betaversjonen utløper om %d dag</item>
+        <item quantity="other">Denne betaversjonen utløper om %d dager</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="one">Utløper om %d dag</item>
+        <item quantity="other">Utløper om %d dager</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="one">Utløper om %d dag</item>
+        <item quantity="other">Utløper om %d dager</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="one">Utløper om %d dag</item>
+        <item quantity="other">Utløper om %d dager</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="one">Du kan legge til opptil %d bok</item>
+        <item quantity="other">Du kan legge til opptil %d bøker</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="one">%s klipp</item>
+        <item quantity="other">%s klipp</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="one">Vis %d til</item>
+        <item quantity="other">Vis %d til</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="one">Vis %d svar</item>
+        <item quantity="other">Vis %d svar</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="one">%d måned</item>
+        <item quantity="other">%d måneder</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="one">%d år</item>
+        <item quantity="other">%d år</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="one">Blokker konto</item>
+        <item quantity="other">Blokker kontoer</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="one">%d konto er utvalgt.</item>
+        <item quantity="other">%d kontoer er utvalgt.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="one">Du kan velge opptil %d konto om gangen.</item>
+        <item quantity="other">Du kan velge opptil %d kontoer om gangen.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="one">Du har valgt å blokkere %d konto. Blokkerte kontoer kan ikke se profilen din eller innholdet ditt på TikTok.</item>
+        <item quantity="other">Du har valgt å blokkere %d kontoer. Blokkerte kontoer kan ikke se profilen din eller innholdet ditt på TikTok.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="one">Blokker %d konto?</item>
+        <item quantity="other">Blokker %d kontoer?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="one">Slett kommentar</item>
+        <item quantity="other">Slett kommentarer</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="one">Du har valgt ut %d kommentar.</item>
+        <item quantity="other">Du har valgt ut %d kommentarer.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="one">Slett %d kommentar?</item>
+        <item quantity="other">Slett %d kommentarer?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="one">Kommentar er slettet</item>
+        <item quantity="other">Kommentarer er slettet</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="one">%d kommentar er utvalgt.</item>
+        <item quantity="other">%d kommentarer er utvalgt.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="one">Du kan velge opptil %d kommentar om gangen.</item>
+        <item quantity="other">Du kan velge opptil %d kommentarer om gangen.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="one">Rapporter kommentar</item>
+        <item quantity="other">Rapporter kommentarer</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="one">Du rapporterer %d kommentar. Vi går gjennom denne kommentaren for upassende innhold.</item>
+        <item quantity="other">Du rapporterer %d kommentarer. Vi går gjennom disse kommentarene for upassende innhold.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="one">Rapporter %d kommentar?</item>
+        <item quantity="other">Rapporter %d kommentarer?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="one">Kommentar er rapportert</item>
+        <item quantity="other">Kommentarene er rapportert</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="one">%s kommentar</item>
+        <item quantity="other">%s kommentarer</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s videoer</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="one">%s bruker har lagt inn påminnelse</item>
+        <item quantity="other">%s brukere har lagt inn påminnelser</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="one">%s effekt</item>
+        <item quantity="other">%s effekter</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="one">Videovisning</item>
+        <item quantity="other">Videovisninger</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="one">Nettofølger</item>
+        <item quantity="other">Nettofølgere</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="one">Likerklikk</item>
+        <item quantity="other">Likerklikk</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="one">%s bruker har lagt inn påminnelse</item>
+        <item quantity="other">%s brukere har lagt inn påminnelser</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="one">Slette utkast?</item>
+        <item quantity="other">Slette utkastene?</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="one">%s innlegg</item>
+        <item quantity="other">%s innlegg</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="one">Feil passord. %d forsøk igjen.</item>
+        <item quantity="other">Feil passord. %d forsøk igjen.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="one">For mange forsøk. Prøv på nytt om %d minutt.</item>
+        <item quantity="other">For mange forsøk. Prøv på nytt om %d minutter.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="one">%d melodi</item>
+        <item quantity="other">%d melodi</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="one">%d musikk</item>
+        <item quantity="other">%d musikk</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="one">%d stykke</item>
+        <item quantity="other">%d stykker</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="one">%d sang</item>
+        <item quantity="other">%d sanger</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="one">%d lyd</item>
+        <item quantity="other">%d lyder</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="one">%d låt</item>
+        <item quantity="other">%d låter</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="one">Send (%d)</item>
+        <item quantity="other">Send (%d)</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="one">%1$d følger · %2$d følger</item>
+        <item quantity="other">%1$d følger · %2$d følgere</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="one">@ ny omtale</item>
+        <item quantity="other">@ nye omtaler</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="one">har sendt nye meldinger.</item>
+        <item quantity="other">har sendt nye meldinger.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="one">har sendt deg nye meldinger.</item>
+        <item quantity="other">har sendt deg nye meldinger.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="one">Du kan velge opptil %d person</item>
+        <item quantity="other">Du kan velge opptil %d personer</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="one">Vil du forkaste utkastet?</item>
+        <item quantity="other">Vil du forkaste utkastene?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="one">Slette utkast?</item>
+        <item quantity="other">Slette utkast?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="one">Utkast {#} video</item>
+        <item quantity="other">Utkast {#} videoer</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="one">%1$s og %2$s andre varsles når denne videoen publiseres.</item>
+        <item quantity="other">%1$s og %2$s andre varsles når denne videoen publiseres.</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="one">Velg minst %d vare</item>
+        <item quantity="other">Velg minst %d varer</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="one">Oppfølgingsanmeldelse %d dager senere</item>
+        <item quantity="other">Oppfølgingsanmeldelse %d dager senere</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="one">Avslutter om %s dag</item>
+        <item quantity="other">Avslutter om %s dager</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="one">%1$s vare, totalt %2$s</item>
+        <item quantity="other">%1$s varer, totalt %2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="one">Totalt (%s vare)</item>
+        <item quantity="other">Totalt (%s varer)</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="one">Du kan bare redigere opptil %d gang</item>
+        <item quantity="other">Du kan bare redigere opptil %d ganger</item>
+    </plurals>
+    <plurals name="f3">
+        <item quantity="one">Benyttet på tekstklistremerke</item>
+        <item quantity="other">Benyttet på alle tekstklistremerkene</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="one">Forhåndsvis en effekt i %d sek</item>
+        <item quantity="other">Forhåndsvis en effekt i %d sek</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="one">Tagget</item>
+        <item quantity="other">Tagget</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="one">Du kjenner kanskje dette gruppemedlemmet.</item>
+        <item quantity="other">Du kjenner kanskje disse gruppemedlemmene.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s videoer</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="one">%s video lagt til</item>
+        <item quantity="other">%s videoer lagt til</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="one">Fjern %1$d video fra %2$s</item>
+        <item quantity="other">Fjern %1$d videoer fra %2$s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="one">%1$d video er flyttet til %2$s</item>
+        <item quantity="other">%1$d videoer er flyttet til %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="one">%d video er fjernet</item>
+        <item quantity="other">%d videoer er fjernet</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="one">%d ny foreslått konto</item>
+        <item quantity="other">%d nye foreslåtte kontoer</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="one">Følges av %s</item>
+        <item quantity="other">Følges av %s + %d til</item>
+    </plurals>
+    <plurals name="fs">
+        <item quantity="one">Følger</item>
+        <item quantity="other">Følgere</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="one">Følger %s</item>
+        <item quantity="other">Følger %s + %d til</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="one">Følges av {0}, {1} og {2} annen</item>
+        <item quantity="other">Følges av {0}, {1} og {2} andre</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="one">Følges av {0} og {2} annen</item>
+        <item quantity="other">Følges av {0} og {2} andre</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="one">Følger {0}, {1} og {2} annen</item>
+        <item quantity="other">Følger {0}, {1} og {2} andre</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="one">Følger {0} og {2} annen</item>
+        <item quantity="other">Følger {0} og {2} andre</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="one">Venner med {0}, {1} og {2} annen</item>
+        <item quantity="other">Venner med {0}, {1} og {2} andre</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="one">Venner med {0} og {2} annen</item>
+        <item quantity="other">Venner med {0} og {2} andre</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="one">{2} felles forbindelse</item>
+        <item quantity="other">{2} felles forbindelser</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="one">Venner med %s</item>
+        <item quantity="other">Venner med %s + %d til</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="one">%d nytt innlegg fra venner</item>
+        <item quantity="other">%d nye innlegg fra venner</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="one">%d medlem er aktiv nå</item>
+        <item quantity="other">%d medlemmer er aktive nå</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="one">%1$d medlem var aktiv for %2$d minutter siden</item>
+        <item quantity="other">%1$d medlemmer var aktive for %2$d minutter siden</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="one">%d medlem er aktiv i dag</item>
+        <item quantity="other">%d medlemmer er aktive i dag</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="one">%d medlem</item>
+        <item quantity="other">%d medlemmer</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="one">Ny forespørsel</item>
+        <item quantity="other">Nye forespørsler</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="one">%s medlem</item>
+        <item quantity="other">%s medlemmer</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="one">Vis %d medlem til</item>
+        <item quantity="other">Vis %d medlemmer til</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="one">%s visning</item>
+        <item quantity="other">%s visninger</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="one">Følger: %s</item>
+        <item quantity="other">Følgere: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="one">Video: %s</item>
+        <item quantity="other">Videoer: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="one">Sendt til %s og %d annen</item>
+        <item quantity="other">Sendt til %s og %d andre</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="one">Kunne ikke laste opp %d historie. Historien er lagret i utkast.</item>
+        <item quantity="other">Kunne ikke laste opp %d historier. Historiene er lagret i utkast.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="one">Kunne ikke laste opp bildet. Bildet er lagret i utkast.</item>
+        <item quantity="other">Kunne ikke laste opp bildene. Bildene er lagret i utkast.</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="one">%d klistremerke</item>
+        <item quantity="other">%d klistremerker</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="one">omtalte deg i et bilde.</item>
+        <item quantity="other">omtalte deg i bilder.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="one">%s nytt innlegg</item>
+        <item quantity="other">%s nye innlegg</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="one">Aktivitet</item>
+        <item quantity="other">Aktiviteter</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="one">Følg %1$s, %2$s og %d annen du kanskje kjenner for å se videoene deres.</item>
+        <item quantity="other">Følg %1$s, %2$s og %d andre du kanskje kjenner for å se videoene deres.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="one">%d annen</item>
+        <item quantity="other">%d andre</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="one">Følg %1$s, %2$s og %3$d annen du kanskje kjenner for å se videoene til vedkommende.</item>
+        <item quantity="other">Følg %1$s, %2$s og %3$d andre du kanskje kjenner for å se videoene deres.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="one">Melding</item>
+        <item quantity="other">Meldinger</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="one">Ny aktivitet</item>
+        <item quantity="other">Nye aktiviteter</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="one">%s medlem</item>
+        <item quantity="other">%s medlemmer</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="one">%s innlegg</item>
+        <item quantity="other">%s innlegg</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="one">%d nøkkelord</item>
+        <item quantity="other">%d nøkkelord</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="one">%d LIVE-video</item>
+        <item quantity="other">%d LIVE-videoer</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="one">Slutter om %s dag</item>
+        <item quantity="other">Slutter om %s dager</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="one">Du kan bare velge opptil %1$d mediefil</item>
+        <item quantity="other">Du kan bare velge opptil %1$d mediefiler</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="one">%d forespørsel</item>
+        <item quantity="other">%d forespørsler</item>
+    </plurals>
+    <plurals name="j0">
+        <item quantity="one">%d nytt varsel</item>
+        <item quantity="other">%d nye varsler</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="one">Vil du fjerne markeringen av sangen som ny?</item>
+        <item quantity="other">Vil du fjerne markeringen av sangene som nye?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="one">%d sang er ikke lenger markert som ny</item>
+        <item quantity="other">%d sanger er ikke lenger markert som nye</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="one">%d lansering</item>
+        <item quantity="other">%d lanseringer</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="one">%d artist</item>
+        <item quantity="other">%d artister</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="one">%d felles forbindelse</item>
+        <item quantity="other">%d felles forbindelser</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="one">%d felles forbindelse</item>
+        <item quantity="other">%d felles forbindelser</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="one">Du kan nå laste opp videoer på opptil %d minutter!</item>
+        <item quantity="other">Du kan nå laste opp videoer på opptil %d minutter!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="one">Vi introduserer video på %d minutt</item>
+        <item quantity="other">Vi introduserer video på %d minutter</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="one">%d felles forbindelse</item>
+        <item quantity="other">%d felles forbindelser</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="one">%d kommentar</item>
+        <item quantity="other">%d kommentarer</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="one">Vis %d kommentar</item>
+        <item quantity="other">Vis alle %d kommentarer</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="one">{nickname} og {number_1} annen</item>
+        <item quantity="other">{nickname} og {number_1} andre</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="one">{number} venn publiserte dagens Now</item>
+        <item quantity="other">{number} venner publiserte dagens Now</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="one">%1$s og %2$d annen publiserte Now-bildet sitt</item>
+        <item quantity="other">%1$s og %2$d andre publiserte Now-bildet sitt</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="one">{nickname} og {number_1} annen</item>
+        <item quantity="other">{nickname} og {number_1} andre</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="one">Bli med {number} venn på TikTok Now og del tilfeldige øyeblikk</item>
+        <item quantity="other">Bli med {number} venner på TikTok Now og del tilfeldige øyeblikk</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="one">Publiser Now-bildet ditt det neste {number} minuttet</item>
+        <item quantity="other">Publiser Now-bildet ditt de neste {number} minuttene</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="one">%d minutt igjen til å publisere et Now-bilde.</item>
+        <item quantity="other">%d minutter igjen til å publisere et Now-bilde.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="one">%d felles venn</item>
+        <item quantity="other">%d felles venner</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="one">%d likerklikk</item>
+        <item quantity="other">%d likerklikk</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="one">{1}, {2}, {3} og {number} annen publiserte akkurat et Now-bilde.</item>
+        <item quantity="other">{1}, {2}, {3} og {number} andre publiserte akkurat et Now-bilde.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="one">%d reaksjon</item>
+        <item quantity="other">%d reaksjoner</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="one">%d visning</item>
+        <item quantity="other">%d visninger</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="one">%d visning</item>
+        <item quantity="other">%d visninger</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="one">%1$s og %2$s annen</item>
+        <item quantity="other">%1$s og %2$s andre</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="one">Innlegget ditt synkronisert fra Lemon8 har ikke lyd ennå. Legg til lyd for å gjøre innlegget mer engasjerende for seerne.</item>
+        <item quantity="other">Innleggene dine synkronisert fra Lemon8 har ikke lyd ennå. Legg til lyd for å gjøre innleggende mer engasjerende for seerne.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="one">Legg til lyd for å gjøre innlegget bedre</item>
+        <item quantity="other">Legg til lyd for å gjøre innleggene bedre</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="one">likte bildet ditt.</item>
+        <item quantity="other">likte bildene dine.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="one">stemte på bildet ditt.</item>
+        <item quantity="other">stemte på bildene dine.</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="one">%d episode</item>
+        <item quantity="other">%d episoder</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="one">%d del</item>
+        <item quantity="other">%d deler</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="one">Du kan sende den %d gang til</item>
+        <item quantity="other">Du kan sende den %d ganger til</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="one">%d sangforespørsel</item>
+        <item quantity="other">%d sangforespørsler</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="one">Tilgangen vil bli gjenopprettet om %s dag</item>
+        <item quantity="other">Tilgangen vil bli gjenopprettet om %s dager</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="one">%s Mynt fra toppseer nummer 1</item>
+        <item quantity="other">%s Mynter fra toppseer nummer 1</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="one">%s Mynt fra seer toppnummer 2</item>
+        <item quantity="other">%s Mynter fra toppseer nummer 2</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="one">%s følger</item>
+        <item quantity="other">%s følgere</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="one">Kjøp %s tilgjengelig vare</item>
+        <item quantity="other">Kjøp {number} tilgjengelige varer</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="one">Kjøp %s tilgjengelig vare</item>
+        <item quantity="other">Kjøp {number} tilgjengelige varer</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="one">%s mynt gitt til LIVE-skaper</item>
+        <item quantity="other">%s mynter gitt til LIVE-skaper</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="one">%s likerklikk</item>
+        <item quantity="other">%s likerklikk</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="one">%s seer</item>
+        <item quantity="other">%s seere</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="one">Delt %s gang. Del videoen</item>
+        <item quantity="other">Delt %s ganger. Del videoen</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="one">%1$s stemte %2$s</item>
+        <item quantity="other">%1$s stemte %2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="one">%1$s stemte %2$s, %3$s stemte %4$s</item>
+        <item quantity="other">%1$s stemte %2$s, %3$s stemte %4$s</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="one">Om %d minutt</item>
+        <item quantity="other">Om %d minutter</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="one">%d erfaringspoeng til før du rykker opp</item>
+        <item quantity="other">%d erfaringspoeng til før du rykker opp</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="one">Belønningene dine inaktiveres i %d dag</item>
+        <item quantity="other">Belønningene dine inaktiveres i %d dager</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="one">Avslutt LIVE-en? Nå ser %s seer på.</item>
+        <item quantity="other">Avslutt LIVE-en? Nå ser %s seere på.</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="one">Avslutt LIVE-en? Nå ser %s seer på.</item>
+        <item quantity="other">Avslutt LIVE-en? Nå ser %s seere på.</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="one">%s ny melding</item>
+        <item quantity="other">%s nye meldinger</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="one">Medvert {num} dag</item>
+        <item quantity="other">Medvert {num} dager på rad</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="one">mangler {number} Mynt</item>
+        <item quantity="other">mangler {number} Mynter</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="one">Det høyeste beløpet de siste {number} dagene: {amount} Mynt</item>
+        <item quantity="other">Det høyeste beløpet de siste {number} dagene: {amount} Mynter</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="one">Foreslått: {amount} Mynt</item>
+        <item quantity="other">Foreslått: {amount} Mynter</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="one">Du har {number} Mynt nå. Du kan fylle på for å få flere Mynter.</item>
+        <item quantity="other">Du har {number} Mynter nå. Du kan fylle på for å få flere Mynter.</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="one">Gjettet riktig (%d)</item>
+        <item quantity="other">Gjettet riktig (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="one">%s riktig gjetning</item>
+        <item quantity="other">%s riktige gjetninger</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="one">%s seer gjettet det��</item>
+        <item quantity="other">%s seere gjettet det��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="one">De fleste seerne gjettet %s ord</item>
+        <item quantity="other">De fleste seerne gjettet %s ord</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="one">Ingen av seerne gjettet ordet</item>
+        <item quantity="other">Ingen av seerne gjettet ordene</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="one">%s minutt på å tegne et ord</item>
+        <item quantity="other">%s minutter på å tegne et ord</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="one">�� %d seer gjettet %s</item>
+        <item quantity="other">�� %d seere gjettet %s</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="one">Jeg gjettet %s ord!</item>
+        <item quantity="other">Jeg gjettet %s ord!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="one">Du gjettet %s ord</item>
+        <item quantity="other">Du gjettet %s ord</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="one">{0:string} og {1:string} annen kjøper handler</item>
+        <item quantity="other">{0:string} og {1:string} andre kjøpere handler</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="one">%d bilde er for lite. Bilder må ha piksler på minst 256 x 256.</item>
+        <item quantity="other">%d bilder er for små. Bilder må ha piksler på minst 256 x 256.</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="one">%d seer</item>
+        <item quantity="other">%d seere</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="one">Du har %d Mynt.</item>
+        <item quantity="other">Du har %d Mynter.</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="one">Du kan veksle %@ mot %d Mynt til for å sende denne Gaven.</item>
+        <item quantity="other">Du kan veksle %@ mot %d Mynter til for å sende denne Gaven.</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="one">Saldo for LIVE-Gaver vekslet mot {{num}} Mynt</item>
+        <item quantity="other">Saldo for LIVE-Gaver vekslet mot {{num}} Mynter</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="one">Du mangler %1$d mynt. Veksle %2$s til mynter og sende %3$s?</item>
+        <item quantity="other">Du mangler %1$d mynter. Veksle %2$s til mynter og sende %3$s?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="one">Du vekslet for %d mynt og sendte %s</item>
+        <item quantity="other">Du vekslet for %d mynter og sendte %s</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="one">%s medlem</item>
+        <item quantity="other">%s medlemmer</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="one">Har vært med deg i {num} dag</item>
+        <item quantity="other">Har vært med deg i {num} dager</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="one">Få 1 medlemspoeng på {num} time for å holde deg aktiv</item>
+        <item quantity="other">Få 1 medlemspoeng på {num} timer for å holde deg aktiv</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="one">Den kan sendes for %1$d Mynt %2$d gang til.</item>
+        <item quantity="other">Den kan sendes for %1$d Mynt %2$d ganger til.</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="one">%d følger aktiv nå</item>
+        <item quantity="other">%d følgere aktive nå</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="one">{number} av vennene dine er LIVE. Inviter vedkommende til å gå LIVE sammen!</item>
+        <item quantity="other">{number} av vennene dine er LIVE. Inviter vedkommende til å gå LIVE sammen!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="one">Lås opp {num} ekstra Mynt ved å fylle på</item>
+        <item quantity="other">Lås opp {num} ekstra Mynter ved å fylle på</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="one">{num} dag</item>
+        <item quantity="other">{num} dager</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="one">Lås opp {num} Mynt</item>
+        <item quantity="other">Lås opp {num} Mynter</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="one">{num} Mynt</item>
+        <item quantity="other">{num} Mynter</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="one">Du vil låse opp {num} ekstra Mynt.</item>
+        <item quantity="other">Du vil låse opp {num} ekstra Mynter.</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="one">Fyll på {num_1} Mynt til.</item>
+        <item quantity="other">Fyll på {num_1} Mynter til.</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="one">Fyll på for å låse opp {num} ekstra Mynt</item>
+        <item quantity="other">Fyll på for å låse opp {num} ekstra Mynter</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="one">Den siste dag {number}</item>
+        <item quantity="other">De siste {number} dagene</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="one">Prisen på {gameName} og {number} annen ble endret. Vis mer i partnerskapssenteret.</item>
+        <item quantity="other">Prisen på {gameName} og {number} andre ble endret. Vis mer i partnerskapssenteret.</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="one">Gaver er suspendert i %s dag i LIVE-en din på grunn av brudd på programvilkårene.</item>
+        <item quantity="other">Gaver er suspendert i %s dager i LIVE-en din på grunn av brudd på programvilkårene.</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="one">Gaver er suspendert i denne LIVE-en og blir gjenopprettet om %s minutt.</item>
+        <item quantity="other">Gaver er suspendert i denne LIVE-en og blir gjenopprettet om %s minutter.</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="one">Gaver suspendert i {0} dag.</item>
+        <item quantity="other">Gaver suspendert i {0} dager.</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="one">Gaver suspendert i %s dag</item>
+        <item quantity="other">Gaver suspendert i %s dager</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="one">Send for %d Mynt</item>
+        <item quantity="other">Send for %d Mynter</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="one">Påfylling fullført og du har %d Mynt nå. Send denne Gaven for å vise din støtte!</item>
+        <item quantity="other">Påfylling fullført og du har %d Mynter nå. Send denne Gaven for å vise din støtte!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="one">Veksling fullført og du har %d Mynt nå. Send denne Gaven for å vise din støtte!</item>
+        <item quantity="other">Veksling fullført og du har %d Mynter nå. Send denne Gaven for å vise din støtte!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="one">{0:user} sendte {1:gift} ({2:string} poeng) {3:string}, den første Gaven vedkommende noen gang har sendt! Vis at du setter pris på det!</item>
+        <item quantity="other">{0:user} sendte {1:gift} ({2:string} poeng) {3:string}, den første Gaven vedkommende noen gang har sendt! Vis at du setter pris på det!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="one">{0:user} sendte {1:gift} ({2:string} poeng) {3:string}</item>
+        <item quantity="other">{0:user} sendte {1:gift} ({2:string} poeng) {3:string}</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="one">{0:user} sendte {1:gift} ({2:string} poeng) {3:string}</item>
+        <item quantity="other">{0:user} sendte {1:gift} ({2:string} poeng) {3:string}</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="one">{0:user} sendte {1:gift} ({2:string} poeng) {3:string} og dro til {4:city} med skaperen for første gang på denne reisen!</item>
+        <item quantity="other">{0:user} sendte {1:gift} ({2:string} poeng) {3:string} og dro til {4:city} med skaperen for første gang på denne reisen!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="one">Gaveinformasjon ({{num}} transaksjon totalt)</item>
+        <item quantity="other">Gaveinformasjon ({{num}} transaksjoner totalt)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="one">{amount} Mynt</item>
+        <item quantity="other">{amount} Mynter</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="one">Gave</item>
+        <item quantity="other">Gaver</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="one">%d mynt</item>
+        <item quantity="other">%d mynter</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="one">Du har fått %s Gave. Ikke glem å si takk.</item>
+        <item quantity="other">Du har fått %s Gaver. Ikke glem å si takk.</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="one">Du har fått %s Gave</item>
+        <item quantity="other">Du har fått %s Gaver</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="one">Fullfør vekslingen til %s Mynt?</item>
+        <item quantity="other">Fullfør vekslingen til %s Mynter?</item>
+    </plurals>
+    <plurals name="lz">
+        <item quantity="one">Fullfør vekslingen til %d Mynt?</item>
+        <item quantity="other">Fullfør vekslingen til %d Mynter?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="one">Send LIVE (%ds)</item>
+        <item quantity="other">Send LIVE (%ds)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="one">%s gjesteforespørsel</item>
+        <item quantity="other">%s gjesteforespørsler</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="one">%s forespørsel</item>
+        <item quantity="other">%s forespørsler</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="one">%s poeng</item>
+        <item quantity="other">%s poeng</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="one">%1$s poeng for å nå %2$s</item>
+        <item quantity="other">%1$s poeng for å nå %2$s</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="one">%d seer sender forespørsel</item>
+        <item quantity="other">%d seere sender forespørsel</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="one">Du suspenderes fra å sende LIVE som gjest i %d dag</item>
+        <item quantity="other">Du suspenderes fra å sende LIVE som gjest i %d dager</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="one">Du suspenderes fra å sende LIVE som gjest i %d time</item>
+        <item quantity="other">Du suspenderes fra å sende LIVE som gjest i %d timer</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="one">Du suspenderes fra å sende LIVE som gjest i %d minutt</item>
+        <item quantity="other">Du suspenderes fra å sende LIVE som gjest i %d minutter</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="one">Du suspenderes fra å sende LIVE som gjest i %d sekund</item>
+        <item quantity="other">Du suspenderes fra å sende LIVE som gjest i %d sekunder</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="one">Verktøy</item>
+        <item quantity="other">Verktøy</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="one">[username] og [number] følger har nylig gitt deg et puff for at du skal gå LIVE</item>
+        <item quantity="other">[username] og [number] følgere har nylig gitt deg et puff for at du skal gå LIVE</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="one">[username] og [number] følger har nylig gitt deg et puff for at du skal gå LIVE</item>
+        <item quantity="other">[username] og [number] følgere har nylig gitt deg et puff for at du skal gå LIVE</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="one">Hvis du godtar invitasjonen blir denne LIVE-skaperen med i den gjeldende medvertssendingen.</item>
+        <item quantity="other">Hvis du godtar invitasjonen blir disse LIVE-skaperne med i den gjeldende medvertssendingen.</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="one">{number} dag</item>
+        <item quantity="other">{number} dager</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="one">I neste trinn, når du forlater siden, vil kupongen din først være tilgjengelig for bruk igjen om {number} dag.</item>
+        <item quantity="other">I neste trinn, når du forlater siden, vil kupongen din først være tilgjengelig for bruk igjen om {number} dager.</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="one">I neste trinn, når du forlater siden, vil kupongen din først være tilgjengelig for bruk igjen om {number} time.</item>
+        <item quantity="other">I neste trinn, når du forlater siden, vil kupongen din først være tilgjengelig for bruk igjen om {number} timer.</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="one">I neste trinn, når du forlater siden, vil kupongen din først være tilgjengelig for bruk igjen om {number} minutt.</item>
+        <item quantity="other">I neste trinn, når du forlater siden, vil kupongen din først være tilgjengelig for bruk igjen om {number} minutter.</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="one">Kupongen vil være tilgjengelig igjen om {number} dag</item>
+        <item quantity="other">Kupongen vil være tilgjengelig igjen om {number} dager</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="one">Kupongen vil være tilgjengelig igjen om {number} time</item>
+        <item quantity="other">Kupongen vil være tilgjengelig igjen om {number} timer</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="one">Kupongen vil være tilgjengelig igjen om {number} minutt</item>
+        <item quantity="other">Kupongen vil være tilgjengelig igjen om {number} minutter</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="one">%s likerklikk</item>
+        <item quantity="other">%s likerklikk</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="one">likerklikk</item>
+        <item quantity="other">likerklikk</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="one">%s likerklikk</item>
+        <item quantity="other">%s likerklikk</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="one">%d sek</item>
+        <item quantity="other">%d sek</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="one">LIVE-søknaden din godkjennes ikke. Du kan søke på nytt om %d dag.</item>
+        <item quantity="other">LIVE-søknaden din godkjennes ikke. Du kan søke på nytt om %d dager.</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="one">Du har søkt om LIVE-tilgang og kan sende LIVE de neste 7 dagene. Husk å følge [Retningslinjene for fellesskapet] og send LIVE i %d+ time den første uken for å få pågående tilgang.</item>
+        <item quantity="other">Du har søkt om LIVE-tilgang og kan sende LIVE de neste 7 dagene. Husk å følge [Retningslinjene for fellesskapet] og send LIVE i %d+ timer den første uken for å få pågående tilgang.</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="one">Send LIVE i %d time mer innen %s for å få pågående LIVE-tilgang</item>
+        <item quantity="other">Send LIVE i %d timer mer innen %s for å få pågående LIVE-tilgang</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="one">Send LIVE i %1$s time til innen %2$s for å få pågående LIVE-tilgang</item>
+        <item quantity="other">Send LIVE i %1$s timer til innen %2$s for å få pågående LIVE-tilgang</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="one">%s poeng</item>
+        <item quantity="other">%s poeng</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="one">{%s host username} trenger {%d} Mynt for å bli ukens LIVE-skaper nr. {%n}!</item>
+        <item quantity="other">{%s host username} trenger {%d} Mynter for å bli ukens LIVE-skaper nr. {%n}!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="one">1 dag igjen. Du trenger {%d} Diamant til for å bli LIVE-skaper nr. 3 og få et eksklusivt merke på videoen.</item>
+        <item quantity="other">1 dag igjen. Du trenger {%d} Diamanter til for å bli LIVE-skaper nr. 3 og få et eksklusivt merke på videoen.</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="one">1 dag igjen. Få {%d} Diamant til, slik at LIVE-en din skal nå ut til flere potensielle seere.</item>
+        <item quantity="other">1 dag igjen. Få {%d} Diamanter til, slik at LIVE-en din skal nå ut til flere potensielle seere.</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="one">1 dag igjen. Få {%d} Diamant til, slik at du kan vinne unike belønninger for LIVE-skapere!</item>
+        <item quantity="other">1 dag igjen. Få {%d} Diamanter til, slik at du kan vinne unike belønninger for LIVE-skapere!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="one">1 aktiv følger nå</item>
+        <item quantity="other">%s aktive følgere nå</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="one">%s Mynt trengs</item>
+        <item quantity="other">%s Mynter trengs</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="one">%d abonnent ser på</item>
+        <item quantity="other">%d abonnenter ser på</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="one">3 minutter igjen. Få {%d} Diamant til for å bli topp 3 LIVE-skaper og vinn et eksklusivt merke.</item>
+        <item quantity="other">3 minutter igjen. Få {%d} Diamanter til for å bli topp 3 LIVE-skaper og vinn et eksklusivt merke.</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="one">3 minutter igjen. Få {%d} Diamant til, slik at LIVE-en din skal nå ut til flere potensielle seere.</item>
+        <item quantity="other">3 minutter igjen. Få {%d} Diamanter til, slik at LIVE-en din skal nå ut til flere potensielle seere.</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="one">3 minutter igjen. Få {%d} Diamant til, slik at du kan vinne unike belønninger for LIVE-skapere!</item>
+        <item quantity="other">3 minutter igjen. Få {%d} Diamanter til, slik at du kan vinne unike belønninger for LIVE-skapere!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="one">%s time %d min</item>
+        <item quantity="other">%s timer %d min</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="one">diamant</item>
+        <item quantity="other">diamanter</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="one">visning</item>
+        <item quantity="other">visninger</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="one">Spørsmål kan ikke besvares etter %s minutt</item>
+        <item quantity="other">Spørsmål kan ikke besvares etter %s minutter</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="one">for %s t siden</item>
+        <item quantity="other">for %s t siden</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="one">for %s min siden</item>
+        <item quantity="other">for %s min siden</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="one">%s er planlagt å starte om 10 min. %d seer har sett arrangementet ditt. Send LIVE nå for å få mest mulig ut av promosjonen!</item>
+        <item quantity="other">%s er planlagt å starte om 10 min. %d seere har sett arrangementet ditt. Send LIVE nå for å få mest mulig ut av promosjonen!</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="one">Vis %s veiledningsoppgave</item>
+        <item quantity="other">Vis %s veiledningsoppgaver</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="one">%d prioritert forespørsel fra givere</item>
+        <item quantity="other">%d prioriterte forespørsler fra givere</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="one">%d mynt</item>
+        <item quantity="other">%d mynter</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="one">Dette vil koste deg %d Mynt.</item>
+        <item quantity="other">Dette vil koste deg %d Mynter.</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="one">Du har sendt %d Mynt. %s</item>
+        <item quantity="other">Du har sendt %d Mynter. %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="one">LIVE-skaperen kan prioritere forespørsler fra de som har sendt mer enn %d mynt totalt.</item>
+        <item quantity="other">LIVE-skaperen kan prioritere forespørsler fra de som har sendt mer enn %d mynter totalt.</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="one">LIVE-skaperen kan prioritere forespørsler fra deg og andre som har sendt mer enn %d mynt totalt.</item>
+        <item quantity="other">LIVE-skaperen kan prioritere forespørsler fra deg og andre som har sendt mer enn %d mynter totalt.</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="one">Dette vil koste deg %d Mynt.</item>
+        <item quantity="other">Dette vil koste deg %d Mynter.</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="one">Du kan invitere %1$s til å slå på kameraet igjen om %2$s sekund</item>
+        <item quantity="other">Du kan invitere %1$s til å slå på kameraet igjen om %2$s sekunder</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="one">Du kan invitere %1$s til å slå på mikrofonen igjen om %2$s sekund</item>
+        <item quantity="other">Du kan invitere %1$s til å slå på mikrofonen igjen om %2$s sekunder</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="one">%d minutt</item>
+        <item quantity="other">%d minutter</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="one">%d sekund</item>
+        <item quantity="other">%d sekunder</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="one">%d minutt</item>
+        <item quantity="other">%d minutter</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="one">%d sekund</item>
+        <item quantity="other">%d sekunder</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="one">%s oppgave igjen for å fullføre trinn nr. 1</item>
+        <item quantity="other">%s oppgaver igjen for å fullføre trinn nr. 1</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="one">%s oppgave igjen for å fullføre trinn nr. 2</item>
+        <item quantity="other">%s oppgaver igjen for å fullføre trinn nr. 2</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="one">Du kan lage maksimalt %s egendefinert fordel. Slett en egendefinert fordel for å opprette en ny.</item>
+        <item quantity="other">Du kan lage maksimalt %s egendefinerte fordeler. Slett en egendefinert fordel for å opprette en ny.</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="one">Avstemmingen avsluttes om %s sek</item>
+        <item quantity="other">Avstemmingen avsluttes om %s sek</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="one">Stem nå (%s sek) :</item>
+        <item quantity="other">Stem nå (%s sek) :</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="one">Du har brukt %d Mynt i dag.</item>
+        <item quantity="other">Du har brukt %d Mynter i dag.</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="one">Send gaver i et saktere tempo og prøv på nytt om %d minutt.</item>
+        <item quantity="other">Send gaver i et saktere tempo og prøv på nytt om %d minutter.</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="one">Portalen til {0:user} er stengt. {1:string} seer ble med via portalen.</item>
+        <item quantity="other">Portalen til {0:user} er stengt. {1:string} seere ble med via portalen.</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="one">Portalen til {0:user} er stengt. {1:string} seer ble med via portalen! Godt jobbet! ��</item>
+        <item quantity="other">Portalen til {0:user} er stengt. {1:string} seere ble med via portalen! Godt jobbet! ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="one">Portalen til {0:user} er stengt. {1:string} seer ble med via portalen! Utmerket! ��</item>
+        <item quantity="other">Portalen til {0:user} er stengt. {1:string} seere ble med via portalen! Utmerket! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="one">%s visning</item>
+        <item quantity="other">%s visninger</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="one">{{num}} Mynt kjøpt på hjemmeside på PC</item>
+        <item quantity="other">{{num}} Mynter kjøpt på hjemmeside på PC</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="one">{{num}} Mynt kjøpt i appen</item>
+        <item quantity="other">{{num}} Mynter kjøpt i appen</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="one">{{num}} Mynt kjøpt på hjemmeside på mobil</item>
+        <item quantity="other">{{num}} Mynter kjøpt på hjemmeside på mobil</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="one">Vi gjennomgikk anken og tilpasset varigheten på tilbaketrekningen. Tilgangen til å gå LIVE med PC eller Mac gjenopprettes om %s dag.</item>
+        <item quantity="other">Vi gjennomgikk anken og tilpasset varigheten på tilbaketrekningen. Tilgangen til å gå LIVE med PC eller Mac gjenopprettes om %s dager.</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="one">Tilgangen til å sende LIVE med PC eller Mac er suspendert i %s dag på grunn av flere brudd på retningslinjene for fellesskapet.</item>
+        <item quantity="other">Tilgangen til å sende LIVE med PC eller Mac er suspendert i %s dager på grunn av flere brudd på retningslinjene for fellesskapet.</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="one">Vi gjennomgikk anken og tilpasset varigheten på tilbaketrekningen på skattkiste-tilgangen til %s dag.</item>
+        <item quantity="other">Vi gjennomgikk anken og tilpasset varigheten på tilbaketrekningen på skattkiste-tilgangen til %s dager.</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="one">Skattkiste-tilgangen er suspendert i %s dag på grunn av flere brudd på retningslinjene for fellesskapet.</item>
+        <item quantity="other">Skattkiste-tilgangen er suspendert i %s dager på grunn av flere brudd på retningslinjene for fellesskapet.</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="one">Du har fått mer enn %s Diamant de siste 30 dagene. Fortsett sånn for å bli med i den ukentlige rangeringen.</item>
+        <item quantity="other">Du har fått mer enn %s Diamanter de siste 30 dagene. Fortsett sånn for å bli med i den ukentlige rangeringen.</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="one">Denne rangeringen viser LIVE-skaperne som har fått færre enn {0:string} Diamant de 30 siste dagene.</item>
+        <item quantity="other">Denne rangeringen viser LIVE-skaperne som har fått færre enn {0:string} Diamanter de siste 30 dagene.</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="one">Gaver suspendert i %s dag</item>
+        <item quantity="other">Gaver suspendert i %s dager</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="one">Du har {number_1} Mynt nå. Du kan fylle på {number_2} Mynter ({amount}) og sende artikkelen.</item>
+        <item quantity="other">Du har {number_1} Mynter nå. Du kan fylle på {number_2} Mynter ({amount}) og sende artikkelen.</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="one">mangler %s Mynt</item>
+        <item quantity="other">mangler %s Mynter</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="one">Du har mottatt {number} invitasjonslenke</item>
+        <item quantity="other">Du har mottatt {number} invitasjonslenker</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="one">Åpne abonnementsinvitasjonen fra %s</item>
+        <item quantity="other">Åpne abonnementsinvitasjonen fra %s og andre</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="one">Forespurt: %d minutt siden</item>
+        <item quantity="other">Forespurt: %d minutter siden</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="one">Gaver suspendert i %s dag</item>
+        <item quantity="other">Gaver suspendert i %s dager</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="one">Tilgangen gjenopprettes om %s dag.</item>
+        <item quantity="other">Tilgangen gjenopprettes om %s dager.</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="one">Vi gjennomgikk anken og tilpasset varigheten på tilbaketrekningen. Tilgangen til LIVE Studio vil bli gjenopprettet om %s dag.</item>
+        <item quantity="other">Vi gjennomgikk anken og tilpasset varigheten på tilbaketrekningen. Tilgangen til LIVE Studio vil bli gjenopprettet om %s dager.</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="one">Vi gjennomgikk anken og tilpasset varigheten på tilbaketrekningen. Tilgangen til mobilspill vil bli gjenopprettet om %s dag.</item>
+        <item quantity="other">Vi gjennomgikk anken og tilpasset varigheten på tilbaketrekningen. Tilgangen til mobilspill vil bli gjenopprettet om %s dager.</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="one">Vi gjennomgikk anken og tilpasset varigheten på tilbaketrekningen. Tilgangen til å gå LIVE med PC eller Mac gjenopprettes om %s dag.</item>
+        <item quantity="other">Vi gjennomgikk anken og tilpasset varigheten på tilbaketrekningen. Tilgangen til å gå LIVE med PC eller Mac gjenopprettes om %s dager.</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="one">Tilgangen til LIVE Studio er suspendert i %s dag på grunn av gjentatte brudd på LIVE-reglene eller retningslinjene for fellesskapet.</item>
+        <item quantity="other">Tilgangen til LIVE Studio er suspendert i %s dager på grunn av gjentatte brudd på LIVE-reglene eller retningslinjene for fellesskapet.</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="one">Tilgangen til mobilspill er suspendert i %s dag på grunn av gjentatte brudd på LIVE-reglene eller retningslinjene for fellesskapet.</item>
+        <item quantity="other">Tilgangen til mobilspill er suspendert i %s dager på grunn av gjentatte brudd på LIVE-reglene eller retningslinjene for fellesskapet.</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="one">Tilgangen til å sende LIVE med PC eller Mac er suspendert i %s dag på grunn av gjentatte brudd på LIVE-reglene eller retningslinjene for fellesskapet.</item>
+        <item quantity="other">Tilgangen til å sende LIVE med PC eller Mac er suspendert i %s dager på grunn av gjentatte brudd på LIVE-reglene eller retningslinjene for fellesskapet.</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="one">Mål: {&lt;num&gt;} giver</item>
+        <item quantity="other">Mål: {&lt;num&gt;} givere</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="one">Mål: {&lt;num&gt;} giverpoeng</item>
+        <item quantity="other">Mål: {&lt;num&gt;} giverpoeng</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="one">Mål: {&lt;num&gt;} laggiver</item>
+        <item quantity="other">Mål: {&lt;num&gt;} laggivere</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="one">Mål: {&lt;num&gt;} laggiverpoeng</item>
+        <item quantity="other">Mål: {&lt;num&gt;} laggiverpoeng</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="one">+ &lt;num&gt; kamppoeng</item>
+        <item quantity="other">+ &lt;num&gt; kamppoeng</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="one">%s seer vil se kommentaren din øverst</item>
+        <item quantity="other">%s seere vil se kommentaren din øverst</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="one">Din fremhevede kommentar ble slettet under LIVE-sendingen, og du får en refusjon på [0:string] Mynt for denne kommentaren i løpet av 24 timer.</item>
+        <item quantity="other">Din fremhevede kommentar ble slettet under LIVE-sendingen, og du får en refusjon på [0:string] Mynter for denne kommentaren i løpet av 24 timer.</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="one">%s fremhevet kommentar i kø</item>
+        <item quantity="other">%s fremhevede kommentarer i kø</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="one">Dine fremhevede kommentarer ble nylig slettet. Prøv igjen om {num} time.</item>
+        <item quantity="other">Dine fremhevede kommentarer ble nylig slettet. Prøv igjen om {num} timer.</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="one">Dine fremhevede kommentarer ble nylig slettet. Prøv igjen om {num} minutt.</item>
+        <item quantity="other">Dine fremhevede kommentarer ble nylig slettet. Prøv igjen om {num} minutter.</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="one">Avslutt om %s dag</item>
+        <item quantity="other">Avslutt om %s dager</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="one">%1$s seere ser på. Du kan få %2$s ny abonnent om du starter en LIVE kun for abonnenter nå.</item>
+        <item quantity="other">%1$s seere ser på. Du kan få %2$s nye abonnenter om du starter en LIVE kun for abonnenter nå.</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="one">%s abonnent ser på. Dette er et godt tidspunkt å styrke båndet med fellesskapet på med LIVE kun for abonnenter.</item>
+        <item quantity="other">%s abonnenter ser på. Dette er et godt tidspunkt å styrke båndet med fellesskapet på med LIVE kun for abonnenter.</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="one">Du kan få %1$s ny abonnent med %2$s minutters LIVE kun for abonnenter hver måned.</item>
+        <item quantity="other">Du kan få %1$s nye abonnenter med %2$s minutters LIVE kun for abonnenter hver måned.</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="one">Du kan oppgi opptil %s emoji i en kommentar</item>
+        <item quantity="other">Du kan oppgi opptil %s emojier i en kommentar</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="one">Abonner for å bruke %2$s tilpassede emoji til %1$s</item>
+        <item quantity="other">Abonner for å bruke de %2$s tilpassede emojiene til %1$s</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="one">Har færre enn {number} følger</item>
+        <item quantity="other">Har færre enn {number} følgere</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="one">Kan ikke invitere skapere med færre enn {number} følger</item>
+        <item quantity="other">Kan ikke invitere skapere med færre enn {number} følgere</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="one">Inviter {number1} skaper til for å nå nr. {number2}! Fortsett sånn!</item>
+        <item quantity="other">Inviter {number1} skapere til for å nå nr. {number2}! Fortsett sånn!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="one">Inviter {number} skaper til for å nå nr. {rankminusone}! Fortsett sånn!</item>
+        <item quantity="other">Inviter {number} skapere til for å nå nr. {rankminusone}! Fortsett sånn!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="one">Du kan bare invitere skapere med mer enn {number} følger.</item>
+        <item quantity="other">Du kan bare invitere skapere med mer enn {number} følgere.</item>
+    </plurals>
+    <plurals name="po">
+        <item quantity="one">{num} følelse ble ikke godkjent</item>
+        <item quantity="other">{num} følelser ble ikke godkjent</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="one">Gjeldende fordel kan gi %d%% flere abonnenter.</item>
+        <item quantity="other">Gjeldende fordeler kan gi %d%% flere abonnenter.</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="one">%1$s kjøpte akkurat et %2$d-månedsabonnement</item>
+        <item quantity="other">%1$s kjøpte akkurat et %2$d-månedersabonnement</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="one">Du kan kun slå det av eller på én gang per %s minutt. Prøv på nytt senere.</item>
+        <item quantity="other">Du kan kun slå det av eller på én gang per %s minutter. Prøv på nytt senere.</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="one">Du har {num} abonnementspresang. Send til andre nå!</item>
+        <item quantity="other">Du har {num} abonnementspresanger. Send til andre nå!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="one">Du har %d-abonnementspresang igjen. Send til andre nå!</item>
+        <item quantity="other">Du har %d-abonnementspresanger igjen. Send til andre nå!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="one">Gratulerer! Du fikk [number] abonnementspresang som en aktivitetsbelønning.</item>
+        <item quantity="other">Gratulerer! Du fikk [number] abonnementspresanger som en aktivitetsbelønning.</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="one">Medvert for {num} dag siden</item>
+        <item quantity="other">Medvert for {num} dager siden</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="one">Gikk LIVE sammen med for {number} dag siden</item>
+        <item quantity="other">Gikk LIVE sammen med for {number} dager siden</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="one">Var vert sammen med deg for {num} dag siden</item>
+        <item quantity="other">Var vert sammen med deg for {num} dager siden</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="one">Skattkiste-tilgangen er suspendert. Tilgangen gjenopprettes om %s dag.</item>
+        <item quantity="other">Skattkiste-tilgangen er suspendert. Tilgangen gjenopprettes om %s dager.</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="one">toppseer</item>
+        <item quantity="other">toppseere</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="one">Toppseer</item>
+        <item quantity="other">Toppseere</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="one">Finalen starter om %s sekund</item>
+        <item quantity="other">Finalen starter om %s sekunder</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="one">Finalen starter om %s dag</item>
+        <item quantity="other">Finalen starter om %s dager</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="one">Finalen starter om %s time</item>
+        <item quantity="other">Finalen starter om %s timer</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="one">Finalen starter om %s minutt</item>
+        <item quantity="other">Finalen starter om %s minutter</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="one">Semifinalen starter om %s dag</item>
+        <item quantity="other">Semifinalen starter om %s dager</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="one">Semifinalen starter om %s time</item>
+        <item quantity="other">Semifinalen starter om %s timer</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="one">Semifinalen starter om %s minutt</item>
+        <item quantity="other">Semifinalen starter om %s minutter</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="one">Semifinalen starter om %s sekund</item>
+        <item quantity="other">Semifinalen starter om %s sekunder</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="one">{0:string} Diamant til for å nå nr. {1:string}</item>
+        <item quantity="other">{0:string} Diamanter til for å nå nr. {1:string}</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="one">{0:string} giver til for å nå nr. {1:string}</item>
+        <item quantity="other">{0:string} givere til for å nå nr. {1:string}</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="one">dag</item>
+        <item quantity="other">dager</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="one">Du har vekslet {amount} mot {num} Mynt.</item>
+        <item quantity="other">Du har vekslet {amount} mot {num} Mynter.</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="one">Du har kjøpt {num} Mynt for {amount}.</item>
+        <item quantity="other">Du har kjøpt {num} Mynter for {amount}.</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="one">{num} lagpoeng foran nr. 2</item>
+        <item quantity="other">{num} lagpoeng foran nr. 2</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="one">+{num} lagpoeng (%1$s/%2$s laggaver daglig)</item>
+        <item quantity="other">+{num} lagpoeng (%1$s/%2$s laggaver daglig)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="one">%s seer ble med fra søk</item>
+        <item quantity="other">%s seere ble med fra søk</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="one">%1$s lagpoeng for å nå %2$s. plass</item>
+        <item quantity="other">%1$s lagpoeng for å nå %2$s. plass</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="one">%1$s lagpoeng for å bli nr. %2$s</item>
+        <item quantity="other">%1$s lagpoeng for å bli nr. %2$s</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="one">Noe gikk galt. Prøv på nytt om {number} time</item>
+        <item quantity="other">Noe gikk galt. Prøv på nytt om {number} timer</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="one">Noe gikk galt. Kom tilbake om {number} minutt</item>
+        <item quantity="other">Noe gikk galt. Kom tilbake om {number} minutter</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="one">Seer</item>
+        <item quantity="other">Seere</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="one">%d seer</item>
+        <item quantity="other">%d seere</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="one">%s seer</item>
+        <item quantity="other">%s seere</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="one">%s seer har sendt Gaver</item>
+        <item quantity="other">%s seere har sendt Gaver</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="one">Innlegg (%s)</item>
+        <item quantity="other">Innlegg (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="one">(%s vurdering)</item>
+        <item quantity="other">(%s vurderinger)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="one">%s bilde ble ikke lastet opp. Prøv igjen.</item>
+        <item quantity="other">%s bilder ble ikke lastet opp. Prøv igjen.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="one">%d lignende lyd</item>
+        <item quantity="other">%d lignende lyder</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="one">%d profilvisning</item>
+        <item quantity="other">%d profilvisninger</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="one">Følger</item>
+        <item quantity="other">Følgere</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="one">%1$s har fått %2$s likerklikk</item>
+        <item quantity="other">%1$s har fått totalt %2$s likerklikk på alle videoene</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="one">så profilen din.</item>
+        <item quantity="other">så profilen din.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="one">%1$s, %2$s og %d annen</item>
+        <item quantity="other">%1$s, %2$s og %d andre</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="one">%s person så profilen din.</item>
+        <item quantity="other">%s personer så profilen din.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="one">{0}, {1} og {2} annen så profilen din.</item>
+        <item quantity="other">{0}, {1} og {2} andre så profilen din.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="one">Vi har sendt et varsel til %1$s og %2$s annen enhet. Sørg for at TikTok er åpen og trykk på «ja» i varselet for å fortsette å logge på.</item>
+        <item quantity="other">Vi har sendt et varsel til %1$s og %2$s andre enheter. Sørg for at TikTok er åpen og trykk på «ja» i varselet for å fortsette å logge på.</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s videoer</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videoer</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="one">%s utilgjengelig spørsmål ble fjernet fra invitasjonene dine</item>
+        <item quantity="other">%s utilgjengelige spørsmål ble fjernet fra invitasjonene dine</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="one">%s ny melding</item>
+        <item quantity="other">%s nye meldinger</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="one">%s ny reaksjon</item>
+        <item quantity="other">%s nye reaksjoner</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="one">%d anbefalt</item>
+        <item quantity="other">%d anbefalte</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="one">%d anbefalt</item>
+        <item quantity="other">%d anbefalte</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="one">Vis %d anbefaling til</item>
+        <item quantity="other">Vis %d anbefalinger til</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="one">Ta opp opptil %d sekund</item>
+        <item quantity="other">Ta opp opptil %d sekunder</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="one">Ta opp opptil %d sekund med lyden fra den originale videoen</item>
+        <item quantity="other">Ta opp opptil %d sekunder med lyden fra den originale videoen</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="one">Utkast (%d)</item>
+        <item quantity="other">Utkast (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="one">Videoen din dempes om du velger å gjenopprette denne lyden.</item>
+        <item quantity="other">Videoen din dempes om du velger å gjenopprette disse lydene.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="one">Vil du gjenopprette den opphavsrettslige beskyttede lyden?</item>
+        <item quantity="other">Vil du gjenopprette de opphavsrettslige beskyttede lydene?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="one">Den opphavsrettslige beskyttede lyden ble fjernet</item>
+        <item quantity="other">De opphavsrettslige beskyttede lydene ble fjernet</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="one">Fjerner lyden</item>
+        <item quantity="other">Fjerner lydene</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="one">Lyden ble fjernet</item>
+        <item quantity="other">Lydene ble fjernet</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="one">Erstatt lyd</item>
+        <item quantity="other">Erstatt lyder</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="one">Fjerner en opphavsrettslig beskyttet lyd …</item>
+        <item quantity="other">Fjerner opphavsrettslige beskyttede lyder …</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="one">Vi har registrert en lyd som bryter med opphavsrett på over ett minutt i videoen din – den blir dempet om du velger å fortsette. Erstatt lyden eller gjør videoen kortere. %s</item>
+        <item quantity="other">Vi har registrert lyder som bryter med opphavsrett på over ett minutt i videoen din – den blir dempet om du velger å fortsette. Erstatt lyden eller gjør videoen kortere. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="one">Erstatt lyd</item>
+        <item quantity="other">Erstatt lyder</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="one">Fjerner en opphavsrettslig beskyttet lyd …</item>
+        <item quantity="other">Fjerner opphavsrettslige beskyttede lyder …</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="one">Vi har registrert en lyd som bryter med opphavsrett i videoen din. Erstatt lyden, om ikke blir videoen dempet om du velger å fortsette. %s</item>
+        <item quantity="other">Vi har registrert lyder som bryter med opphavsrett i videoen din. Erstatt lyden, om ikke blir videoen dempet om du velger å fortsette. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="one">Opphavsrettslig beskyttet lyd</item>
+        <item quantity="other">Opphavsrettslige beskyttede lyder</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="one">Rettighetshaveren har bare gitt tillatelse til at denne lyden kan brukes i ett minutt.</item>
+        <item quantity="other">Rettighetshaveren har bare gitt tillatelse til at disse lydene kan brukes i ett minutt.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="one">Rettighetshaveren har ikke gitt tillatelse til at denne lyden kan brukes.</item>
+        <item quantity="other">Rettighetshaveren har ikke gitt tillatelse til at disse lydene kan brukes.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="one">Erstatt lyd</item>
+        <item quantity="other">Erstatt lyder</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="one">Vi har registrert en lyd som bryter med opphavsrett på over ett minutt i videoen din – den blir dempet om du velger å fortsette. Erstatt lyden eller gjør videoen kortere. %s</item>
+        <item quantity="other">Vi har registrert lyder som bryter med opphavsrett på over ett minutt i videoen din – den blir dempet om du velger å fortsette. Erstatt lyden eller gjør videoen kortere. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="one">Erstatt lyd</item>
+        <item quantity="other">Erstatt lyder</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="one">Vi har registrert en lyd som bryter med opphavsrett i videoen din. Erstatt lyden, om ikke blir videoen dempet om du velger å fortsette. %s</item>
+        <item quantity="other">Vi har registrert lyder som bryter med opphavsrett i videoen din. Erstatt lyden, om ikke blir videoen dempet om du velger å fortsette. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="one">Fjern (%d) video</item>
+        <item quantity="other">Fjern (%d) videoer</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="one">%d republisering</item>
+        <item quantity="other">%d republiseringer</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="one">%d har republisert</item>
+        <item quantity="other">%d har republisert</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="one">%d har republisert</item>
+        <item quantity="other">%d har republisert</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="one">Vis %d republisering til</item>
+        <item quantity="other">Vis %d republiseringer til</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="one">%d dag</item>
+        <item quantity="other">%d dager</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="one">Gjør %1$d søk til for å få %2$d poeng</item>
+        <item quantity="other">Gjør %1$d søk til for å få %2$d poeng</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="one">Se gjennom søkeresultater i %d sekund</item>
+        <item quantity="other">Se gjennom søkeresultater i %d sekunder</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="one">Gjør %1$d søk til for å få %2$d poeng!</item>
+        <item quantity="other">Gjør %1$d søk til for å få %2$d poeng!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="one">%d matchet lyd</item>
+        <item quantity="other">%d matchede lyder</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="one">Oppdatert for %d dag siden</item>
+        <item quantity="other">Oppdatert for %d dager siden</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="one">Oppdatert for %d t siden</item>
+        <item quantity="other">Oppdatert for %d t siden</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="one">Oppdatert for %d min siden</item>
+        <item quantity="other">Oppdatert for %d min siden</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="one">Oppdatert for %d sek siden</item>
+        <item quantity="other">Oppdatert for %d sek siden</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="one">Oppdatert for %d uke siden</item>
+        <item quantity="other">Oppdatert for %d uker siden</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="one">Du delte et bilde.</item>
+        <item quantity="other">Du delte bilder.</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="one">Gratulerer! Du har fått %d ekstra kjøp i dag. Fortsett det gode arbeidet og følg med på seriens ytelse i «Skaperverktøy» &gt; «Serier».</item>
+        <item quantity="other">Gratulerer! Du har fått %d flere kjøp i dag. Fortsett det gode arbeidet og følg med på seriens ytelse i «Skaperverktøy» &gt; «Serier».</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="one">Serien din har fått %d sidevisning de siste dagene. For å følge seriens ytelse og få nyttige tips for å tiltrekke deg potensielle kjøpere, kan du bruke analyseverktøyene på «Skaperverktøy» &gt; «Serier».</item>
+        <item quantity="other">Serien din har fått %d sidevisninger de siste dagene. For å følge seriens ytelse og få nyttige tips for å tiltrekke deg potensielle kjøpere, kan du bruke analyseverktøyene på «Skaperverktøy» &gt; «Serier».</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="one">Gratulerer! %d seer i LIVE-en din kjøpte tilgang til serien din i går. Fortsett det gode arbeidet og følg med på seriens ytelse i «Skaperverktøy» &gt; «Serier».</item>
+        <item quantity="other">Gratulerer! %d seere i LIVE-en din kjøpte tilgang til serien din i går. Fortsett det gode arbeidet og følg med på seriens ytelse i «Skaperverktøy» &gt; «Serier».</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="one">Gratulerer! %d seer kjøpte tilgang til serien din i går fra en video med en serielenke. Fortsett det gode arbeidet og følg med på seriens ytelse i «Skaperverktøy» &gt; «Serier».</item>
+        <item quantity="other">Gratulerer! %d seere kjøpte tilgang til serien din i går fra en video med en serielenke. Fortsett det gode arbeidet og følg med på seriens ytelse i «Skaperverktøy» &gt; «Serier».</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="one">Fortsett til kamera (%d)</item>
+        <item quantity="other">Fortsett til kamera (%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="one">%.1f (%s vurdering)</item>
+        <item quantity="other">%.1f (%s vurderinger)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="one">Bare den første kjøperen</item>
+        <item quantity="other">Bare de første %d kjøperne</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="one">Bare %d igjen</item>
+        <item quantity="other">Bare %d igjen</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="one">Utløper om %d dag</item>
+        <item quantity="other">Utløper om %d dager</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videoer</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videoer</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videoer</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="one">%s video</item>
+        <item quantity="other">%s videoer</item>
+    </plurals>
+    <plurals name="t7">
+        <item quantity="one">{0}, {1} og {2} annen la innlegget ditt til Stories.</item>
+        <item quantity="other">{0}, {1} og {2} andre la innlegget ditt til Stories.</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="one">%d visning</item>
+        <item quantity="other">%d visninger</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="one">Historie (%d)</item>
+        <item quantity="other">Historier (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="one">{Brand} ønsker å forlenge sin opprinnelige autorisasjon for {start_date} - {end_date} med {num} dag.</item>
+        <item quantity="other">{Brand} ønsker å forlenge sin opprinnelige autorisasjon for {start_date} - {end_date} med {num} dager.</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="one">%d video er lagt til</item>
+        <item quantity="other">%d videoer lagt til</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="one">Skapere som har vært på TikTok i over %d måned.</item>
+        <item quantity="other">Skapere som har vært på TikTok i over %d måneder.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="one">Skapere som har minst %d følger.</item>
+        <item quantity="other">Skapere som har minst %d følgere.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="one">%d samhandling</item>
+        <item quantity="other">%d samhandlinger</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="one">Daglig grense for å legge til populære emner: %d innlegg</item>
+        <item quantity="other">Daglig grense for å legge til populære emner: %d innlegg</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="one">Anslått tid for gjennomgang: %d dag</item>
+        <item quantity="other">Anslått tid for gjennomgang: %d dager</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="one">%@ video</item>
+        <item quantity="other">%@ videoer</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="one">%@ visning</item>
+        <item quantity="other">%@ visninger</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="one">%d dag siden</item>
+        <item quantity="other">%d dager siden</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="one">Time</item>
+        <item quantity="other">Timer</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="one">%1$d time siden</item>
+        <item quantity="other">%1$d timer siden</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="one">minutt</item>
+        <item quantity="other">minutter</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="one">%1$d minutt siden</item>
+        <item quantity="other">%1$d minutter siden</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="one">Time</item>
+        <item quantity="other">Timer</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="one">minutt</item>
+        <item quantity="other">minutter</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="one">sek</item>
+        <item quantity="other">sek</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="one">%1$d år siden</item>
+        <item quantity="other">%1$d år siden</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="one">Beklager! Du er utestengt\n Du kan strømme live igjen om %1$d dag</item>
+        <item quantity="other">Beklager! Du er utestengt\n Du kan strømme live igjen om %1$d dager</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="one">Beklager! Du er utestengt\n Du kan strømme live igjen om %1$d time</item>
+        <item quantity="other">Beklager! Du er utestengt\n Du kan strømme live igjen om %1$d timer</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="one">Beklager! Du er utestengt\n Du kan strømme live igjen om %1$d minutt</item>
+        <item quantity="other">Beklager! Du er utestengt\n Du kan strømme live igjen om %1$d minutter</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="one">Beklager! Du er utestengt\n Du kan strømme live igjen om %1$d sekund</item>
+        <item quantity="other">Beklager! Du er utestengt\n Du kan strømme live igjen om %1$d sekunder</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="one">%d bruker ser på sendingen din. Vil du avslutte den?</item>
+        <item quantity="other">%d brukere ser på sendingen din. Vil du avslutte den?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="one">Utløper om %d dag</item>
+        <item quantity="other">Utløper om %d dager</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="one">Utløper om %d time</item>
+        <item quantity="other">Utløper om %d timer</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="one">Første påfyll med %1$d Diamant for å få %2$d flere!</item>
+        <item quantity="other">Første påfyll med %1$d Diamanter for å få %2$d flere!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="one">minutt</item>
+        <item quantity="other">minutter</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="one">Opplevelsen din på TikTok er over om: %d dag</item>
+        <item quantity="other">Opplevelsen din på TikTok er over om: %d dager</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="one">%d dag</item>
+        <item quantity="other">%d dager</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="one">Du har %d dag på deg til å oppleve denne funksjonen på TikTok. Etter det må du laste ned TikTok Now-appen for å fortsette.</item>
+        <item quantity="other">Du har %d dager på deg til å oppleve denne funksjonen på TikTok. Etter det må du laste ned TikTok Now-appen for å fortsette.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="one">Publiser for å starte en %d-dags TikTok Now-opplevelse.</item>
+        <item quantity="other">Publiser for å starte en %d-dagers TikTok Now-opplevelse.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="one">Velg eller ta opp %d klipp</item>
+        <item quantity="other">Velg eller ta opp %d klipp</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="one">Vil du redigere det uferdige bildet?</item>
+        <item quantity="other">Vil du redigere de uferdige bildene?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="one">%s nytt innlegg</item>
+        <item quantity="other">%s nye innlegg</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="one">har publisert %d video</item>
+        <item quantity="other">har publisert %d videoer</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="one">Er du %d år gammel?</item>
+        <item quantity="other">Er du %d år gammel?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="one">Bruk trimmet lyd. Ta opp opptil %d sekund.</item>
+        <item quantity="other">Bruk trimmet lyd. Ta opp opptil %d sekunder.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="one">%s seer</item>
+        <item quantity="other">%s seere</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="one">%s likerklikk</item>
+        <item quantity="other">%s likerklikk</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="one">Deler på %1$s om %2$s sek</item>
+        <item quantity="other">Deler på %1$s om %2$s sek</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="one">%d produkt</item>
+        <item quantity="other">%d produkter</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="one">Innlegg</item>
+        <item quantity="other">Innlegg</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="one">%1$s, %2$s og %d annen</item>
+        <item quantity="other">%1$s, %2$s og %d andre</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="one">så innlegget ditt.</item>
+        <item quantity="other">så innlegget ditt.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="one">%s deling</item>
+        <item quantity="other">%s delinger</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="one">%s visning</item>
+        <item quantity="other">%s visninger</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="one">{0}, {1} og {2} annen så innlegget ditt.</item>
+        <item quantity="other">{0}, {1} og {2} andre så innlegget ditt.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="one">%d Mynt</item>
+        <item quantity="other">%d Mynter</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="one">sendt: %s</item>
+        <item quantity="other">har sendt: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="one">Bilde lagret</item>
+        <item quantity="other">Bilder lagret</item>
+    </plurals>
+</resources>

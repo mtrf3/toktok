@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector color="?attr/dz">
+    <item>
+        <shape shape="rectangle">
+            <solid color="?attr/cl"/>
+        </shape>
+    </item>
+</selector>

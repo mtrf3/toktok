@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    gravity="center"
+    layout_gravity="center_horizontal"
+    id="@+id/j53"
+    layout_width="160dp"
+    layout_height="44dp"
+    layout_marginTop="@dimen/a6d"
+    layout_alignParentTop="true"
+    layout_centerInParent="true">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/f07"
+        visibility="gone"
+        layout_width="20dp"
+        layout_height="20dp"
+        scaleType="centerInside"
+        layout_centerVertical="true"
+        NOT_FOUND_0x1d="@raw/icon_music_note_s_alt"
+        NOT_FOUND_0x1e="?attr/dj"/>
+    <X.C8HD
+        textSize="13dp"
+        textColor="?attr/dj"
+        ellipsize="marquee"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/m28"
+        paddingBottom="1.5dp"
+        focusable="true"
+        focusableInTouchMode="true"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="44dp"
+        layout_marginLeft="4dp"
+        text="@string/cqe"
+        scrollHorizontally="true"
+        singleLine="true"
+        shadowColor="?attr/ei"
+        shadowDx="0"
+        shadowDy="2"
+        shadowRadius="2"
+        layout_toRightOf="@+id/f07"
+        marqueeRepeatLimit="marquee_forever"
+        layout_marginStart="4dp"
+        layout_toEndOf="@+id/f07"/>
+</RelativeLayout>

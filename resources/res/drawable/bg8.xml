@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="oval">
+    <stroke
+        width="0.5dp"
+        color="?attr/dz"/>
+    <gradient
+        startColor="#1e0094ff"
+        endColor="?attr/d1"
+        angle="0"
+        type="sweep"
+        centerX="28.5"
+        centerY="28.5"/>
+</shape>

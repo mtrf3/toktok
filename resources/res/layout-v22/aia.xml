@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C019005q
+        orientation="horizontal"
+        id="@+id/e1u"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0xc="0.13"/>
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/hh3"
+        layout_width="match_parent"
+        layout_height="215dp"
+        NOT_FOUND_0xa="5"
+        NOT_FOUND_0xe="@+id/e1u"/>
+    <com.bytedance.tux.input.TuxTextView
+        gravity="center"
+        id="@+id/hh7"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginLeft="32dp"
+        layout_marginTop="32dp"
+        layout_marginRight="32dp"
+        text="@string/qhf"
+        layout_marginHorizontal="32dp"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xe="@+id/hh3"
+        NOT_FOUND_0xf="33"/>
+    <com.bytedance.tux.input.TuxTextView
+        gravity="center"
+        id="@+id/hh6"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginLeft="32dp"
+        layout_marginTop="8dp"
+        layout_marginRight="32dp"
+        layout_marginHorizontal="32dp"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xe="@+id/hh7"
+        NOT_FOUND_0xf="51"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

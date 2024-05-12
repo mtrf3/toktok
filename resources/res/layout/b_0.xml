@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    paddingRight="10dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    paddingEnd="10dp">
+    <X.C119624mk
+        id="@+id/ac_"
+        layout_width="40dp"
+        layout_height="40dp"
+        NOT_FOUND_0x5="@drawable/b0p"
+        NOT_FOUND_0x6="6"
+        NOT_FOUND_0x7="true"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/n38"
+        style="@style/a85"/>
+</FrameLayout>

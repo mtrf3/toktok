@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="false"
+        color="?attr/a4j"
+        alpha="?android:attr/disabledAlpha"/>
+    <item
+        state_focused="true"
+        color="?attr/a4h"/>
+    <item
+        state_pressed="true"
+        color="?attr/a4h"/>
+    <item
+        color="?attr/a4h"
+        state_activated="true"/>
+    <item
+        state_selected="true"
+        color="?attr/a4h"/>
+    <item
+        state_checked="true"
+        color="?attr/a4h"/>
+    <item color="?attr/a4j"/>
+</selector>

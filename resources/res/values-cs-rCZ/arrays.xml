@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Knihovna zvuků online</item>
+        <item>Můj zvuk</item>
+    </array>
+    <array name="q">
+        <item>Smazat</item>
+        <item>Zrušit</item>
+    </array>
+    <array name="r">
+        <item>Trendy</item>
+        <item>Nejnovější</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>Neděle</item>
+        <item>Pondělí</item>
+        <item>Úterý</item>
+        <item>Středa</item>
+        <item>Čtvrtek</item>
+        <item>Pátek</item>
+        <item>Sobota</item>
+    </array>
+    <array name="a5">
+        <item>Zjednodušená čínština</item>
+        <item>Tradiční čínština</item>
+        <item>Angličtina</item>
+        <item>Japonština</item>
+        <item>Korejština</item>
+        <item>Ruština</item>
+        <item>Indonéština</item>
+        <item>Malajština</item>
+        <item>Portugalština</item>
+        <item>Thajština</item>
+        <item>Vietnamština</item>
+        <item>Hindština</item>
+    </array>
+    <array name="a7">
+        <item>Normální</item>
+        <item>Černobílá</item>
+        <item>Umění</item>
+        <item>Historické</item>
+        <item>Retrolux</item>
+        <item>Sytější</item>
+        <item>Chrom</item>
+    </array>
+    <array name="aa">
+        <item>Leden</item>
+        <item>Únor</item>
+        <item>Březen</item>
+        <item>Duben</item>
+        <item>Květen</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srpen</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>Listopad</item>
+        <item>Prosinec</item>
+    </array>
+    <array name="ad">
+        <item>Upřednostnit úsporu dat</item>
+        <item>Upřednostnit vysoké rozlišení</item>
+    </array>
+    <array name="ae">
+        <item>Všichni</item>
+        <item>Jen přátelé</item>
+    </array>
+    <array name="bi">
+        <item>Pondělí</item>
+        <item>Úterý</item>
+        <item>Středa</item>
+        <item>Čtvrtek</item>
+        <item>Pátek</item>
+        <item>Sobota</item>
+        <item>Neděle</item>
+    </array>
+</resources>

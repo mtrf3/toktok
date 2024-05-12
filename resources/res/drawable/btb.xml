@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_selected="true">
+        <inset
+            insetLeft="@dimen/eq"
+            insetRight="@dimen/eq"
+            insetTop="@dimen/eq"
+            insetBottom="@dimen/eq">
+            <shape shape="oval">
+                <solid color="@color/c7"/>
+            </shape>
+        </inset>
+    </item>
+    <item>
+        <inset
+            insetLeft="@dimen/eq"
+            insetRight="@dimen/eq"
+            insetTop="@dimen/eq"
+            insetBottom="@dimen/eq">
+            <shape shape="oval">
+                <solid color="#7ffe2c55"/>
+            </shape>
+        </inset>
+    </item>
+</selector>

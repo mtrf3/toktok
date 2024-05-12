@@ -1,0 +1,105 @@
+package X;
+
+import android.net.Uri;
+import android.os.Bundle;
+import java.util.List;
+import kotlin.jvm.internal.AqS52S1000000_1;
+import kotlin.jvm.internal.AqS60S0000000_1;
+import kotlin.jvm.internal.IDqS81S0000000_1;
+
+/* renamed from: X.2uS, reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes2.dex */
+public final class C73442uS {
+    public static final C113444cm LIZ;
+    public static final C113444cm LIZIZ;
+    public static final C113444cm LIZJ;
+    public static final C113444cm LIZLLL;
+    public static final C113444cm LJ;
+    public static final C113444cm LJFF;
+
+    static {
+        C113444cm c113444cm = new C113444cm(Boolean.TYPE);
+        LIZ = c113444cm;
+        C113444cm c113444cm2 = new C113444cm(Integer.TYPE);
+        LIZIZ = c113444cm2;
+        C113444cm c113444cm3 = new C113444cm(Long.TYPE);
+        LIZJ = c113444cm3;
+        C113444cm c113444cm4 = new C113444cm(Float.TYPE);
+        LIZLLL = c113444cm4;
+        C113444cm c113444cm5 = new C113444cm(Double.TYPE);
+        C113444cm c113444cm6 = new C113444cm(String.class);
+        LJ = c113444cm6;
+        C113444cm c113444cm7 = new C113444cm(List.class);
+        LJFF = c113444cm7;
+        c113444cm.LIZLLL(android.net.Uri.class, new AqS60S0000000_1(17));
+        c113444cm.LIZJ(Uri.Builder.class, new IDqS81S0000000_1(19));
+        c113444cm2.LIZLLL(android.net.Uri.class, new AqS60S0000000_1(18));
+        c113444cm2.LIZJ(Uri.Builder.class, new IDqS81S0000000_1(20));
+        c113444cm3.LIZLLL(android.net.Uri.class, new AqS60S0000000_1(20));
+        c113444cm3.LIZJ(Uri.Builder.class, new IDqS81S0000000_1(0));
+        c113444cm4.LIZLLL(android.net.Uri.class, new AqS60S0000000_1(0));
+        c113444cm4.LIZJ(Uri.Builder.class, new IDqS81S0000000_1(3));
+        c113444cm5.LIZLLL(android.net.Uri.class, new AqS60S0000000_1(3));
+        c113444cm5.LIZJ(Uri.Builder.class, new IDqS81S0000000_1(12));
+        c113444cm6.LIZLLL(android.net.Uri.class, new AqS60S0000000_1(12));
+        c113444cm6.LIZJ(Uri.Builder.class, new IDqS81S0000000_1(14));
+        c113444cm7.LIZLLL(android.net.Uri.class, new AqS60S0000000_1(14));
+        c113444cm7.LIZJ(Uri.Builder.class, new IDqS81S0000000_1(16));
+        C113444cm c113444cm8 = C73562ue.LIZ;
+        c113444cm8.LIZLLL(android.net.Uri.class, new AqS60S0000000_1(16));
+        c113444cm8.LIZJ(Uri.Builder.class, new IDqS81S0000000_1(18));
+        C113444cm c113444cm9 = C73562ue.LIZIZ;
+        c113444cm9.LIZLLL(android.net.Uri.class, C71182qo.LJLIL);
+        c113444cm9.LIZJ(Uri.Builder.class, C73572uf.LJLIL);
+        C113444cm c113444cm10 = C73562ue.LIZJ;
+        c113444cm10.LIZLLL(android.net.Uri.class, C71192qp.LJLIL);
+        c113444cm10.LIZJ(Uri.Builder.class, C73582ug.LJLIL);
+        C113444cm c113444cm11 = C73562ue.LIZLLL;
+        c113444cm11.LIZLLL(android.net.Uri.class, C73542uc.LJLIL);
+        c113444cm11.LIZJ(Uri.Builder.class, C71252qv.LJLIL);
+        C113444cm c113444cm12 = C73562ue.LJ;
+        c113444cm12.LIZLLL(android.net.Uri.class, C73532ub.LJLIL);
+        c113444cm12.LIZJ(Uri.Builder.class, C75122xA.LJLIL);
+        C113444cm c113444cm13 = C73562ue.LJFF;
+        c113444cm13.LIZLLL(android.net.Uri.class, C73552ud.LJLIL);
+        c113444cm13.LIZJ(Uri.Builder.class, C71272qx.LJLIL);
+        c113444cm.LIZLLL(java.util.Map.class, new AqS60S0000000_1(19));
+        c113444cm.LIZJ(java.util.Map.class, new IDqS81S0000000_1(1));
+        c113444cm2.LIZLLL(java.util.Map.class, new AqS60S0000000_1(1));
+        c113444cm2.LIZJ(java.util.Map.class, new IDqS81S0000000_1(4));
+        c113444cm3.LIZLLL(java.util.Map.class, new AqS60S0000000_1(4));
+        c113444cm3.LIZJ(java.util.Map.class, new IDqS81S0000000_1(6));
+        c113444cm4.LIZLLL(java.util.Map.class, new AqS60S0000000_1(5));
+        c113444cm4.LIZJ(java.util.Map.class, new IDqS81S0000000_1(7));
+        c113444cm5.LIZLLL(java.util.Map.class, new AqS60S0000000_1(7));
+        c113444cm5.LIZJ(java.util.Map.class, new IDqS81S0000000_1(11));
+        c113444cm6.LIZLLL(java.util.Map.class, new AqS60S0000000_1(11));
+        c113444cm6.LIZJ(java.util.Map.class, new IDqS81S0000000_1(13));
+        c113444cm7.LIZLLL(java.util.Map.class, new AqS60S0000000_1(13));
+        c113444cm7.LIZJ(java.util.Map.class, new IDqS81S0000000_1(15));
+        c113444cm8.LIZLLL(java.util.Map.class, new AqS60S0000000_1(15));
+        c113444cm8.LIZJ(java.util.Map.class, new IDqS81S0000000_1(17));
+        c113444cm9.LIZLLL(java.util.Map.class, new AqS52S1000000_1("__AUTHORITY__", 0));
+        c113444cm9.LIZJ(java.util.Map.class, new C73502uY("__AUTHORITY__"));
+        c113444cm10.LIZLLL(java.util.Map.class, new AqS52S1000000_1("__PATH__", 1));
+        c113444cm10.LIZJ(java.util.Map.class, new C73512uZ("__PATH__"));
+        c113444cm11.LIZLLL(java.util.Map.class, new AqS52S1000000_1("__PATH__", 2));
+        c113444cm11.LIZJ(java.util.Map.class, new C73492uX("__PATH__"));
+        c113444cm12.LIZLLL(java.util.Map.class, C73482uW.LJLIL);
+        c113444cm12.LIZJ(java.util.Map.class, C73452uT.LJLIL);
+        c113444cm13.LIZLLL(java.util.Map.class, C73472uV.LJLIL);
+        c113444cm13.LIZJ(java.util.Map.class, C73462uU.LJLIL);
+        c113444cm.LIZLLL(Bundle.class, new C73522ua());
+        c113444cm.LIZJ(Bundle.class, new C59882Wq());
+        c113444cm2.LIZLLL(Bundle.class, new AqS60S0000000_1(6));
+        c113444cm2.LIZJ(Bundle.class, new IDqS81S0000000_1(8));
+        c113444cm3.LIZLLL(Bundle.class, new AqS60S0000000_1(8));
+        c113444cm3.LIZJ(Bundle.class, new IDqS81S0000000_1(9));
+        c113444cm4.LIZLLL(Bundle.class, new AqS60S0000000_1(9));
+        c113444cm4.LIZJ(Bundle.class, new IDqS81S0000000_1(10));
+        c113444cm5.LIZLLL(Bundle.class, new AqS60S0000000_1(10));
+        c113444cm5.LIZJ(Bundle.class, new IDqS81S0000000_1(2));
+        c113444cm6.LIZLLL(Bundle.class, new AqS60S0000000_1(2));
+        c113444cm6.LIZJ(Bundle.class, new IDqS81S0000000_1(5));
+    }
+}

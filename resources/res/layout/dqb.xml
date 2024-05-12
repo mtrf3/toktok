@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginLeft="8dp"
+    layout_marginRight="8dp"
+    layout_marginStart="8dp"
+    layout_marginEnd="8dp">
+    <ImageView
+        layout_gravity="center"
+        id="@+id/ebu"
+        layout_width="14dp"
+        layout_height="14dp"/>
+    <X.C47121t6
+        textSize="12sp"
+        textColor="@color/bc"
+        layout_gravity="bottom"
+        id="@+id/l5q"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="4dp"
+        layout_marginStart="4dp"
+        NOT_FOUND_0xd="true"/>
+    <View
+        id="@+id/it6"
+        background="@drawable/cux"
+        visibility="gone"
+        layout_width="6dp"
+        layout_height="6dp"
+        layout_marginStart="-1dp"/>
+</LinearLayout>

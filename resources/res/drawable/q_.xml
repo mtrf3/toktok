@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        drawable="@drawable/qb"
+        NOT_FOUND_0x1="true"/>
+    <item drawable="@drawable/qc"/>
+</selector>

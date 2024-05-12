@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/btt"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C62846OlW
+        id="@+id/hpc"
+        background="@color/cz"
+        layout_width="120dp"
+        layout_height="120dp"
+        NOT_FOUND_0x13="?attr/cl"
+        NOT_FOUND_0x14="8dp"
+        NOT_FOUND_0x15="0dp"/>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        id="@+id/hr4"
+        layout_width="112dp"
+        layout_height="112dp">
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/hr6"
+            layout_width="40dp"
+            layout_height="40dp"
+            NOT_FOUND_0xd="@+id/hr8"
+            NOT_FOUND_0xe="0"
+            NOT_FOUND_0xf="0"
+            NOT_FOUND_0x11="0"
+            NOT_FOUND_0x12="2"
+            NOT_FOUND_0x17="@raw/icon_2pt_sticker"
+            NOT_FOUND_0x18="?attr/gp"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/gu"
+            ellipsize="none"
+            gravity="center"
+            id="@+id/hr8"
+            layout_width="0dp"
+            layout_height="wrap_content"
+            layout_marginTop="8dp"
+            text="@string/eti"
+            maxLines="3"
+            layout_marginStart="8dp"
+            layout_marginEnd="8dp"
+            NOT_FOUND_0xc="0"
+            NOT_FOUND_0xe="0"
+            NOT_FOUND_0xf="0"
+            NOT_FOUND_0x10="@+id/hr6"
+            NOT_FOUND_0x16="61"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

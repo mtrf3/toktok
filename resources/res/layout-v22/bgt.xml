@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    id="@+id/h3w"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <LinearLayout
+        id="@+id/cqy"
+        background="@drawable/bn0"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_margin="8dp"
+        elevation="2dp"
+        outlineProvider="background">
+        <X.C62846OlW
+            id="@+id/cr0"
+            layout_width="32dp"
+            layout_height="32dp"
+            layout_marginTop="12dp"
+            layout_marginStart="16dp"
+            NOT_FOUND_0x18="@drawable/bz2"/>
+        <LinearLayout
+            gravity="center_vertical"
+            layout_gravity="center_vertical"
+            orientation="vertical"
+            paddingTop="12dp"
+            paddingBottom="12dp"
+            layout_width="0dp"
+            layout_height="wrap_content"
+            minHeight="66dp"
+            layout_weight="1"
+            paddingStart="8dp"
+            paddingEnd="8dp">
+            <com.bytedance.tux.input.TuxTextView
+                textColor="?attr/go"
+                id="@+id/cr1"
+                layout_width="wrap_content"
+                layout_height="wrap_content"
+                layout_marginBottom="2dp"
+                text="Try video longer than 1 minute"
+                layout_weight="1"
+                breakStrategy="simple"
+                NOT_FOUND_0x19="103"/>
+            <com.bytedance.tux.input.TuxTextView
+                textColor="?attr/go"
+                id="@+id/cqz"
+                layout_width="wrap_content"
+                layout_height="wrap_content"
+                text="Videos longer than 1 minute can get around 5 times more views."
+                layout_weight="1"
+                breakStrategy="simple"
+                NOT_FOUND_0x19="51"/>
+        </LinearLayout>
+        <com.bytedance.tux.icon.TuxIconView
+            textColor="?attr/gv"
+            id="@+id/cqx"
+            layout_width="16dp"
+            layout_height="16dp"
+            layout_marginTop="16dp"
+            scaleType="fitXY"
+            layout_marginEnd="12dp"
+            NOT_FOUND_0x1a="@drawable/b3x"
+            NOT_FOUND_0x1b="?attr/gv"/>
+    </LinearLayout>
+</LinearLayout>

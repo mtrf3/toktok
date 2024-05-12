@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_selected="true"
+        drawable="@drawable/dft"/>
+    <item state_selected="false">
+        <shape shape="oval">
+            <solid color="@color/adm"/>
+            <stroke
+                width="1dp"
+                color="@color/adp"/>
+        </shape>
+    </item>
+</selector>

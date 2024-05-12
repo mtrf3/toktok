@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C252709vu
+        id="@+id/cbt"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <androidx.recyclerview.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+        id="@+id/jjn"
+        background="@drawable/a6u"
+        scrollbars="none"
+        clipChildren="false"
+        clipToPadding="false"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</LinearLayout>

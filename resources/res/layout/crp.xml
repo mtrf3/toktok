@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_gravity="center_horizontal"
+    id="@+id/c1b"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    baselineAligned="false">
+    <X.C223338pd
+        layout_gravity="center"
+        id="@+id/chy"
+        layout_width="36dp"
+        layout_height="36dp"/>
+</FrameLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="qa" parent="@style/pg">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowAnimationStyle">@style/af</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+        <item name="bxp">false</item>
+        <item name="bxz">true</item>
+    </style>
+    <style name="s_" parent="@style/s4">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowAnimationStyle">@style/ai</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+    </style>
+</resources>

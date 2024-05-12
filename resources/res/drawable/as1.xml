@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        drawable="@drawable/arw"
+        state_activated="false"/>
+    <item
+        drawable="@drawable/arv"
+        state_activated="true"/>
+</selector>

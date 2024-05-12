@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C114224e2
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginTop="2dp"
+    layout_marginStart="12dp">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        ellipsize="end"
+        id="@+id/gqx"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        lines="1"
+        NOT_FOUND_0x8="42"/>
+</X.C114224e2>

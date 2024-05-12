@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_focused="true"
+        state_pressed="false"
+        drawable="@drawable/d2t"/>
+    <item
+        state_focused="true"
+        state_pressed="true"
+        drawable="@drawable/d2t"/>
+    <item
+        state_focused="false"
+        state_pressed="true"
+        drawable="@drawable/d2t"/>
+    <item drawable="@drawable/d2t"/>
+</selector>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_selected="true"
+        color="?attr/a4n"/>
+    <item color="?attr/a4q"/>
+</selector>

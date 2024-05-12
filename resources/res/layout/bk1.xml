@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <RelativeLayout
+        id="@+id/bvm"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <ImageView
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            src="@drawable/ayj"
+            layout_alignParentLeft="true"/>
+        <ImageView
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            src="@drawable/ayk"
+            layout_alignParentRight="true"/>
+    </RelativeLayout>
+    <RelativeLayout
+        id="@+id/bvl"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <ImageView
+            id="@+id/bvh"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            src="@drawable/ayl"
+            layout_alignParentLeft="true"
+            layout_alignParentBottom="true"/>
+        <ImageView
+            id="@+id/bvi"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            src="@drawable/aym"
+            layout_alignParentRight="true"
+            layout_alignParentBottom="true"/>
+    </RelativeLayout>
+</RelativeLayout>

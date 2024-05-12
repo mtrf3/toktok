@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C51776KTs
+        layout_gravity="bottom"
+        orientation="vertical"
+        id="@+id/nf"
+        paddingBottom="20dp"
+        clipToPadding="false"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</FrameLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.icon.TuxIconView
+    id="@+id/gr6"
+    layout_width="24dp"
+    layout_height="24dp"
+    layout_marginTop="4dp"
+    layout_marginEnd="16dp"
+    NOT_FOUND_0x5="20dp"
+    NOT_FOUND_0x6="20dp"/>

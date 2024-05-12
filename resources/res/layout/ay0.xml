@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.SYL
+        id="@+id/h7r"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C223338pd
+        layout_gravity="center"
+        id="@+id/g94"
+        layout_width="36dp"
+        layout_height="36dp"/>
+</FrameLayout>

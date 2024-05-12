@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/nn2"
+    layout_width="match_parent"
+    layout_height="210dp">
+    <X.SYL
+        id="@+id/no_"
+        clipToPadding="false"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <FrameLayout
+        id="@+id/nob"
+        layout_width="match_parent"
+        layout_height="210dp">
+        <X.C73305Spp
+            id="@+id/noa"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            NOT_FOUND_0x4="1"/>
+    </FrameLayout>
+</FrameLayout>

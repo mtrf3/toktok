@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/bs8"
+    fitsSystemWindows="false"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C45621qg
+        id="@+id/bv5"
+        fitsSystemWindows="false"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <View
+            id="@+id/liz"
+            focusable="false"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            soundEffectsEnabled="false"
+            importantForAccessibility="no"/>
+        <X.C74291TDr
+            id="@+id/ilw"
+            layout_width="wrap_content"
+            layout_height="match_parent">
+            <X.ASR
+                id="@+id/nj8"
+                fitsSystemWindows="true"
+                layout_width="match_parent"
+                layout_height="match_parent">
+                <X.C226588us
+                    id="@+id/jvx"
+                    layout_width="match_parent"
+                    layout_height="match_parent"/>
+            </X.ASR>
+        </X.C74291TDr>
+    </X.C45621qg>
+</FrameLayout>

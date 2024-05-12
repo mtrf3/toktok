@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_pressed="true"
+        color="?attr/a4q"
+        alpha="@dimen/a2s"/>
+    <item
+        state_focused="true"
+        color="?attr/a4q"
+        alpha="@dimen/a2q"/>
+    <item
+        color="?attr/a4q"
+        alpha="@dimen/a2r"
+        state_hovered="true"/>
+    <item
+        color="?attr/a4q"
+        alpha="@dimen/a2p"/>
+</selector>

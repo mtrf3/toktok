@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <stroke/>
+            <gradient
+                startColor="#0a222f"
+                endColor="#25162c"
+                useLevel="false"
+                angle="225"
+                type="linear"
+                centerY="0.5"
+                centerColor="#151e32"/>
+        </shape>
+    </item>
+    <item>
+        <bitmap
+            gravity="center"
+            src="@drawable/c_m"/>
+    </item>
+</layer-list>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C81303VvX
+    id="@+id/ig1"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <RelativeLayout
+        id="@+id/cgx"
+        background="@drawable/c4w"
+        paddingTop="12dp"
+        paddingBottom="12dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="8dp"
+        paddingStart="12dp"
+        paddingEnd="16dp"
+        layout_marginStart="8dp"
+        layout_marginEnd="8dp">
+        <X.C62846OlW
+            id="@+id/jss"
+            background="@drawable/c4y"
+            layout_width="46dp"
+            layout_height="61dp"
+            layout_alignParentTop="true"
+            layout_marginEnd="10dp"
+            layout_alignParentStart="true"
+            NOT_FOUND_0x12="4dp"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/go"
+            id="@+id/jsq"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/thl"
+            layout_alignParentTop="true"
+            layout_toEndOf="@+id/jss"
+            NOT_FOUND_0x13="102"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/gu"
+            id="@+id/jsp"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginTop="2dp"
+            maxLines="2"
+            layout_below="@+id/jsq"
+            layout_toEndOf="@+id/jss"
+            NOT_FOUND_0x13="51"/>
+    </RelativeLayout>
+</X.C81303VvX>

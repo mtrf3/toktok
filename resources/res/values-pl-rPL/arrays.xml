@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Internetowa biblioteka dźwięków</item>
+        <item>Mój dźwięk</item>
+    </array>
+    <array name="q">
+        <item>Usuń</item>
+        <item>Anuluj</item>
+    </array>
+    <array name="r">
+        <item>Trendy</item>
+        <item>Najnowsze</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>Niedziela</item>
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Środa</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+        <item>Sobota</item>
+    </array>
+    <array name="a5">
+        <item>chiński uproszczony</item>
+        <item>Tradycyjny chiński</item>
+        <item>angielski</item>
+        <item>Japoński</item>
+        <item>Koreański</item>
+        <item>Rosyjski</item>
+        <item>Indonezyjski</item>
+        <item>Malajski</item>
+        <item>Portugalski</item>
+        <item>Tajski</item>
+        <item>Wietnamski</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Normalny</item>
+        <item>Czarny/biały</item>
+        <item>Sztuka</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Wysokie nasycenie</item>
+        <item>Chrome</item>
+    </array>
+    <array name="aa">
+        <item>Sty</item>
+        <item>Lut</item>
+        <item>Mar</item>
+        <item>Kwi</item>
+        <item>Maj</item>
+        <item>Cze</item>
+        <item>Lip</item>
+        <item>Sie</item>
+        <item>Wrz</item>
+        <item>Paź</item>
+        <item>Lis</item>
+        <item>Gru</item>
+    </array>
+    <array name="ad">
+        <item>Priorytet: zapisywanie danych</item>
+        <item>Priorytet: wysoka rozdzielczość</item>
+    </array>
+    <array name="ae">
+        <item>Wszyscy</item>
+        <item>Tylko znajomi</item>
+    </array>
+    <array name="bi">
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Środa</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+        <item>Sobota</item>
+        <item>Niedziela</item>
+    </array>
+</resources>

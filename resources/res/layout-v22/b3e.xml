@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    background="@drawable/a48"
+    paddingLeft="16dp"
+    paddingRight="16dp"
+    descendantFocusability="afterDescendants"
+    layout_width="match_parent"
+    layout_height="56dp"
+    paddingHorizontal="16dp">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/e_q"
+        layout_width="40dp"
+        layout_height="40dp"
+        layout_centerVertical="true"
+        NOT_FOUND_0x12="@raw/icon_color_story_circle"
+        NOT_FOUND_0x13="40dp"
+        NOT_FOUND_0x14="40dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        ellipsize="end"
+        id="@+id/title"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxLines="1"
+        layout_centerVertical="true"
+        layout_marginStart="12dp"
+        layout_toStartOf="@+id/a7n"
+        layout_toEndOf="@+id/e_q"
+        NOT_FOUND_0x11="42"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/a7n"
+        layout_width="20dp"
+        layout_height="20dp"
+        layout_centerVertical="true"
+        layout_alignParentEnd="true"
+        NOT_FOUND_0x12="@raw/icon_chevron_right_offset_ltr"
+        NOT_FOUND_0x15="?attr/go"/>
+    <View
+        id="@+id/eg9"
+        background="?attr/dz"
+        layout_width="match_parent"
+        layout_height="0.5dp"
+        layout_alignParentBottom="true"/>
+</RelativeLayout>

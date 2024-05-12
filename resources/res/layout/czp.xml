@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/liz"
+        layout_width="match_parent"
+        layout_height="0dp"
+        NOT_FOUND_0x4="@+id/dm7"
+        NOT_FOUND_0x5="0"/>
+    <FrameLayout
+        id="@+id/dm7"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x3="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

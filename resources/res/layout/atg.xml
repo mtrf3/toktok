@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <ImageView
+        background="@drawable/bqh"
+        layout_width="0dp"
+        layout_height="0dp"
+        scaleType="fitCenter"
+        NOT_FOUND_0x5="@+id/ewe"
+        NOT_FOUND_0x6="@+id/ewe"
+        NOT_FOUND_0x7="@+id/ewe"
+        NOT_FOUND_0x8="@+id/ewe"/>
+    <ImageView
+        id="@+id/ewe"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

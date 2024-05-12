@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <corners radius="4dp"/>
+    <stroke
+        width="0.5dp"
+        color="?attr/d0"
+        dashWidth="4dp"
+        dashGap="4dp"/>
+    <solid color="?attr/cl"/>
+</shape>

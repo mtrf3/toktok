@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <LinearLayout
+        orientation="vertical"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <FrameLayout
+            id="@+id/gwg"
+            layout_width="match_parent"
+            layout_height="wrap_content"/>
+        <X.C223318pb
+            id="@+id/itq"
+            layout_width="match_parent"
+            layout_height="0dp"
+            layout_weight="1"/>
+        <FrameLayout
+            id="@+id/aod"
+            layout_width="match_parent"
+            layout_height="wrap_content"/>
+    </LinearLayout>
+    <FrameLayout
+        id="@+id/ked"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginTop="52dp"
+        layout_alignParentTop="true"/>
+    <FrameLayout
+        layout_gravity="bottom|center_horizontal"
+        id="@+id/ir0"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_alignParentBottom="true"
+        layout_centerHorizontal="true"/>
+</RelativeLayout>

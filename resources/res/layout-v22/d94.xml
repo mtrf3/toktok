@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    background="@drawable/d_o"
+    paddingLeft="12dp"
+    paddingTop="2dp"
+    paddingRight="12dp"
+    paddingBottom="2dp"
+    layout_width="wrap_content"
+    layout_height="28dp"
+    paddingHorizontal="12dp"
+    paddingVertical="2dp">
+    <X.C47061t0
+        gravity="center"
+        id="@+id/f2j"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        NOT_FOUND_0xb="2dp"
+        NOT_FOUND_0xc="1"/>
+</FrameLayout>

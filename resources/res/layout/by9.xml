@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/vw"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.SY4
+        textColor="?attr/do"
+        id="@+id/vv"
+        paddingLeft="20dp"
+        paddingRight="20dp"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="@dimen/a5r"
+        layout_marginTop="@dimen/a5s"
+        text="@string/j2c"
+        NOT_FOUND_0x9="4"
+        NOT_FOUND_0xa="3"
+        NOT_FOUND_0xb="33"
+        NOT_FOUND_0xc="24dp"
+        NOT_FOUND_0xd="6dp"
+        NOT_FOUND_0xe="@raw/icon_camera_fill"
+        NOT_FOUND_0xf="24dp"/>
+</FrameLayout>

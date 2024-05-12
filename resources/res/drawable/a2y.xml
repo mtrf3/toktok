@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape>
+            <solid color="?attr/cl"/>
+            <corners
+                topLeftRadius="8dp"
+                topRightRadius="8dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid color="?attr/cv"/>
+            <corners
+                topLeftRadius="8dp"
+                topRightRadius="8dp"/>
+        </shape>
+    </item>
+</layer-list>

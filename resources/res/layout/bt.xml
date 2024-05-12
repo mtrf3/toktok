@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C45621qg
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C86982YBu
+        id="@+id/lbl"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x6="true"
+        NOT_FOUND_0x7="200dp"
+        NOT_FOUND_0x8="@string/cds">
+        <X.C86982YBu
+            id="@+id/btt"
+            NOT_FOUND_0xa="50%"
+            NOT_FOUND_0xc="max(wrap_content,44dp)"
+            NOT_FOUND_0xf="0%">
+            <FrameLayout
+                id="@+id/kdl"
+                NOT_FOUND_0xa="14dp"
+                NOT_FOUND_0xb="50%"
+                NOT_FOUND_0xc="min(wrap_content,32dp)"
+                NOT_FOUND_0xd="12dp"
+                NOT_FOUND_0x10="max(min(wrap_content,32dp), 28dp)"/>
+            <FrameLayout
+                id="@+id/cwm"
+                layout_height="wrap_content"
+                paddingStart="12dp"
+                NOT_FOUND_0xb="50%"
+                NOT_FOUND_0xe="100%-16dp"
+                NOT_FOUND_0x10="min(0.4*parent.width,wrap_content)"/>
+            <com.bytedance.tux.input.TuxTextView
+                id="@+id/ghd"
+                paddingTop="12dp"
+                paddingBottom="12dp"
+                layout_height="wrap_content"
+                NOT_FOUND_0xb="50%"
+                NOT_FOUND_0xd="kdl.right+4dp"
+                NOT_FOUND_0xe="cwm.left-4dp"/>
+            <View
+                id="@+id/i1j"
+                NOT_FOUND_0x9="100%"
+                NOT_FOUND_0xd="0%"
+                NOT_FOUND_0xe="100%"
+                NOT_FOUND_0xf="0%"/>
+        </X.C86982YBu>
+    </X.C86982YBu>
+</X.C45621qg>

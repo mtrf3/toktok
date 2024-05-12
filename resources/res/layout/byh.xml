@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/h8e"
+    focusable="false"
+    focusableInTouchMode="false"
+    clipChildren="false"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        id="@+id/jt3"
+        clipChildren="false"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xf="0">
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/jtc"
+            layout_width="36dp"
+            layout_height="36dp"
+            NOT_FOUND_0xa="0"
+            NOT_FOUND_0xd="0"
+            NOT_FOUND_0xf="0"
+            NOT_FOUND_0x11="@raw/icon_color_share_shadow_alt_2"
+            NOT_FOUND_0x12="?attr/dj"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            id="@+id/jt6"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginTop="4dp"
+            text=""
+            NOT_FOUND_0xb="@+id/jtc"
+            NOT_FOUND_0xc="@+id/jtc"
+            NOT_FOUND_0xe="@+id/jtc"
+            NOT_FOUND_0x10="62"
+            style="@style/a6b"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

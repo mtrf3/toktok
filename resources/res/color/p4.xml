@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        color="?attr/a4q"
+        alpha="0.16"
+        state_hovered="true"/>
+    <item
+        state_focused="true"
+        color="?attr/a4q"
+        alpha="0.12"/>
+    <item
+        state_enabled="false"
+        color="?attr/a4q"
+        alpha="0.04"/>
+    <item
+        color="?attr/a4q"
+        alpha="0.12"/>
+</selector>

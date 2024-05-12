@@ -1,0 +1,107 @@
+package X;
+
+import com.zhiliaoapp.musically.R;
+
+/* renamed from: X.Z2k, reason: case insensitive filesystem */
+/* loaded from: classes17.dex */
+public final class C89286Z2k implements FE0 {
+    @Override // X.FE0
+    public final FEY LIZ(FE3 fe3) {
+        int i = 0;
+        C58068Mqe c58068Mqe = new C58068Mqe(i);
+        c58068Mqe.LJFF = new C89289Z2n();
+        C81127Vsh c81127Vsh = new C81127Vsh();
+        c81127Vsh.LJFF = new C89288Z2m();
+        c81127Vsh.LIZ = c58068Mqe;
+        c58068Mqe.LIZIZ.add(c81127Vsh);
+        C38631FEd c38631FEd = new C38631FEd(R.layout.byn, "nows_ttn_label_layout", fe3);
+        c38631FEd.LJIIJJI = 2;
+        c38631FEd.LJFF = new Z2M();
+        c38631FEd.LJIIZILJ(c58068Mqe);
+        C88469Ynp c88469Ynp = new C88469Ynp();
+        c88469Ynp.LJFF = new C89298Z2w();
+        c88469Ynp.LIZ = c58068Mqe;
+        c58068Mqe.LIZIZ.add(c88469Ynp);
+        YEK yek = new YEK();
+        yek.LJFF = new C89299Z2x();
+        yek.LIZ = c58068Mqe;
+        c58068Mqe.LIZIZ.add(yek);
+        C58068Mqe c58068Mqe2 = new C58068Mqe(i);
+        c58068Mqe2.LJFF = new C89291Z2p();
+        c58068Mqe2.LIZ = c58068Mqe;
+        c58068Mqe.LIZIZ.add(c58068Mqe2);
+        YK1 yk1 = new YK1();
+        yk1.LJFF = new C89295Z2t();
+        yk1.LIZ = c58068Mqe2;
+        c58068Mqe2.LIZIZ.add(yk1);
+        YE2 ye2 = new YE2(0);
+        ye2.LJFF = new C89287Z2l();
+        ye2.LIZ = c58068Mqe2;
+        c58068Mqe2.LIZIZ.add(ye2);
+        C58068Mqe c58068Mqe3 = new C58068Mqe(i);
+        c58068Mqe3.LJFF = new C89292Z2q();
+        c58068Mqe3.LIZ = ye2;
+        ye2.LIZIZ.add(c58068Mqe3);
+        YE9 ye9 = new YE9();
+        ye9.LJFF = new Z35();
+        ye9.LIZ = c58068Mqe3;
+        c58068Mqe3.LIZIZ.add(ye9);
+        YEH yeh = new YEH(i);
+        yeh.LJFF = new C89293Z2r();
+        yeh.LIZ = c58068Mqe3;
+        c58068Mqe3.LIZIZ.add(yeh);
+        YK1 yk12 = new YK1();
+        yk12.LJFF = new C89294Z2s();
+        yk12.LIZ = c58068Mqe3;
+        c58068Mqe3.LIZIZ.add(yk12);
+        YEL yel = new YEL();
+        yel.LJFF = new C89300Z2y();
+        yel.LIZ = c58068Mqe3;
+        c58068Mqe3.LIZIZ.add(yel);
+        C88434YnG c88434YnG = new C88434YnG();
+        c88434YnG.LJFF = new Z34();
+        c88434YnG.LIZ = c58068Mqe3;
+        c58068Mqe3.LIZIZ.add(c88434YnG);
+        C81133Vsn c81133Vsn = new C81133Vsn(1);
+        c81133Vsn.LJFF = new Z36();
+        c81133Vsn.LIZ = c58068Mqe2;
+        c58068Mqe2.LIZIZ.add(c81133Vsn);
+        YEL yel2 = new YEL();
+        yel2.LJFF = new C89301Z2z();
+        yel2.LIZ = c58068Mqe2;
+        c58068Mqe2.LIZIZ.add(yel2);
+        YEL yel3 = new YEL();
+        yel3.LJFF = new Z30();
+        yel3.LIZ = c58068Mqe2;
+        c58068Mqe2.LIZIZ.add(yel3);
+        YED yed = new YED();
+        yed.LJFF = new C89296Z2u();
+        yed.LIZ = c58068Mqe2;
+        c58068Mqe2.LIZIZ.add(yed);
+        C58068Mqe c58068Mqe4 = new C58068Mqe(i);
+        c58068Mqe4.LJFF = new C89290Z2o();
+        c58068Mqe4.LIZ = c58068Mqe2;
+        c58068Mqe2.LIZIZ.add(c58068Mqe4);
+        C88469Ynp c88469Ynp2 = new C88469Ynp();
+        c88469Ynp2.LJFF = new C89297Z2v();
+        c88469Ynp2.LIZ = c58068Mqe4;
+        c58068Mqe4.LIZIZ.add(c88469Ynp2);
+        YEL yel4 = new YEL();
+        yel4.LJFF = new Z31();
+        yel4.LIZ = c58068Mqe4;
+        c58068Mqe4.LIZIZ.add(yel4);
+        C81138Vss c81138Vss = new C81138Vss(1);
+        c81138Vss.LJFF = new Z2K();
+        c81138Vss.LIZ = c58068Mqe2;
+        c58068Mqe2.LIZIZ.add(c81138Vss);
+        YEL yel5 = new YEL();
+        yel5.LJFF = new Z32();
+        yel5.LIZ = c58068Mqe;
+        c58068Mqe.LIZIZ.add(yel5);
+        YEL yel6 = new YEL();
+        yel6.LJFF = new Z33();
+        yel6.LIZ = c58068Mqe;
+        c58068Mqe.LIZIZ.add(yel6);
+        return new FEY(R.layout.bye, c58068Mqe, fe3);
+    }
+}

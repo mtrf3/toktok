@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item id="@android:id/background">
+        <shape>
+            <solid color="@color/aj"/>
+            <corners radius="8dp"/>
+            <size
+                height="46dp"
+                width="16dp"/>
+        </shape>
+    </item>
+    <item id="@android:id/secondaryProgress">
+        <clip>
+            <shape>
+                <solid color="@color/a8j"/>
+                <corners radius="8dp"/>
+                <size
+                    height="46dp"
+                    width="16dp"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

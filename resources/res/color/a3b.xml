@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_selected="false"
+        color="#ed3495"/>
+    <item
+        state_selected="true"
+        color="@color/acm"/>
+    <item
+        state_pressed="true"
+        color="@color/acm"/>
+</selector>

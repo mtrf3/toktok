@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C45631qh
+    layout_width="match_parent"
+    layout_height="match_parent"
+    fillViewport="true">
+    <LinearLayout
+        orientation="vertical"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <include layout="@layout/aq5"/>
+        <X.SYL
+            id="@+id/hqt"
+            padding="6dp"
+            clipToPadding="false"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            NOT_FOUND_0x7="0"
+            NOT_FOUND_0x8="0"
+            NOT_FOUND_0x9="0"
+            NOT_FOUND_0xa="0"/>
+    </LinearLayout>
+</X.C45631qh>

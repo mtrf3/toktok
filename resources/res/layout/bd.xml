@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        ellipsize="end"
+        layout_gravity="start"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/ihs"
+        maxLines="1"
+        NOT_FOUND_0x7="43"/>
+</FrameLayout>

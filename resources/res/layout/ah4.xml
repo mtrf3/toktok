@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gx"
+        gravity="top"
+        id="@+id/mau"
+        paddingTop="16dp"
+        paddingBottom="8dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        paddingStart="16dp"
+        NOT_FOUND_0x8="52"/>
+</LinearLayout>

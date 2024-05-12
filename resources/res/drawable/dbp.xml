@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape shape="oval">
+            <size
+                height="@dimen/ah0"
+                width="@dimen/ah1"/>
+            <gradient
+                startColor="#99000000"
+                endColor="@android:color/transparent"
+                angle="0"
+                type="radial"
+                gradientRadius="50%"/>
+        </shape>
+    </item>
+    <item
+        left="@dimen/agw"
+        top="@dimen/agy"
+        right="@dimen/agx"
+        bottom="@dimen/agv">
+        <shape shape="oval">
+            <size
+                height="@dimen/agu"
+                width="@dimen/ah3"/>
+            <solid color="@color/a9u"/>
+        </shape>
+    </item>
+</layer-list>

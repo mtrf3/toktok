@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    theme="@style/s0"
+    layout_gravity="bottom"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    class="X.VaZ">
+    <TextView
+        textAppearance="@style/nt"
+        ellipsize="end"
+        layout_gravity="start|center_vertical"
+        id="@+id/k6c"
+        paddingLeft="@dimen/ms"
+        paddingTop="@dimen/mt"
+        paddingRight="@dimen/ms"
+        paddingBottom="@dimen/mt"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxLines="@integer/b8"
+        layout_weight="1"
+        textAlignment="viewStart"/>
+    <Button
+        textColor="?attr/a4e"
+        layout_gravity="end|center_vertical"
+        id="@+id/k6b"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="@dimen/mp"
+        minWidth="48dp"
+        layout_marginStart="@dimen/mp"
+        style="?attr/z3"/>
+</view>

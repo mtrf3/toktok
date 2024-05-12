@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">Començarem a crear els avatars d&apos;aquí a %d minut.</item>
+        <item quantity="other">Començarem a crear els avatars d&apos;aquí a %d minuts.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">Continuar amb %d estil</item>
+        <item quantity="other">Continuar amb %d estils</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">Selecciona almenys %d foto més amb un rostre humà</item>
+        <item quantity="other">Selecciona almenys %d fotos més amb un rostre humà</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">Pots crear avatars %d vegada al dia amb Sharp</item>
+        <item quantity="other">Pots crear avatars %d vegades al dia amb Sharp</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">Pots crear avatars %d vegada a la setmana amb Sharp</item>
+        <item quantity="other">Pots crear avatars %d vegades a la setmana amb Sharp</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">Pots crear avatars %d vegada al dia amb Speedy</item>
+        <item quantity="other">Pots crear avatars %d vegades al dia amb Speedy</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="one">Pots crear avatars %d vegada a la setmana amb Speedy</item>
+        <item quantity="other">Pots crear avatars %d vegades a la setmana amb Speedy</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="one">Pots crear avatars %d vegada al dia</item>
+        <item quantity="other">Pots crear avatars %d vegades al dia</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="one">Pots crear avatars %d vegada a la setmana</item>
+        <item quantity="other">Pots crear avatars %d vegades a la setmana</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="one">Començarem a crear els avatars d&apos;aquí a %d minut.</item>
+        <item quantity="other">Començarem a crear els avatars d&apos;aquí a %d minuts.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="one">Tens %d sol·licitud</item>
+        <item quantity="other">Tens %d sol·licituds</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="one">Tens %d sol·licitud</item>
+        <item quantity="other">Tens %d sol·licituds</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="one">%d pregunta</item>
+        <item quantity="other">%d preguntes</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="one">Durant els primers %d dies, la gent haurà de publicar alguna cosa per veure les teves publicacions.</item>
+        <item quantity="other">Durant els primers %d dies, la gent haurà de publicar alguna cosa per veure les teves publicacions.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="one">Després d&apos;%d dia, les podran veure sense publicar res.</item>
+        <item quantity="other">Després de %d dies, les podran veure sense publicar res.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="one">Després d&apos;%d dia, només tu podràs veure les teves publicacions.</item>
+        <item quantity="other">Després de %d dies, només tu podràs veure les teves publicacions.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="one">Durant els primers %d dies, la gent haurà de publicar alguna cosa per veure les teves publicacions Now.</item>
+        <item quantity="other">Durant els primers %d dies, la gent haurà de publicar alguna cosa per veure les teves publicacions Now.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="one">%d producte</item>
+        <item quantity="other">%d productes</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="one">Obre la foto de {username}</item>
+        <item quantity="other">Obre les fotos de {username}</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="one">{number} persona ha afegit aquest vídeo als seus Preferits</item>
+        <item quantity="other">{number} persones han afegit aquest vídeo als seus Preferits</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="one">%d m&apos;agrada</item>
+        <item quantity="other">%d m&apos;agrades</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ 000 000 000</item>
+        <item quantity="other">%@ mil milions</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ milió</item>
+        <item quantity="other">%@ milions</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ 000</item>
+        <item quantity="other">%@ mil</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="one">%d visualització</item>
+        <item quantity="other">%d visualitzacions</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="one">%s vídeo permet fer comentaris</item>
+        <item quantity="other">%s vídeos permeten fer comentaris</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="one">%s vídeo no permet fer comentaris</item>
+        <item quantity="other">%s vídeos no permeten fer comentaris</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="one">mentre que %d no permet fer Duo</item>
+        <item quantity="other">mentre que %d no permeten fer Duo</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="one">Tothom pot fer Duo amb els teus vídeos. %1$d dels teus vídeos permet fer Duo, %2$s</item>
+        <item quantity="other">Tothom pot fer Duo amb els teus vídeos. %1$d dels teus vídeos permeten fer Duo, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="one">mentre que %d no permet fer Duo</item>
+        <item quantity="other">mentre que %d no permeten fer Duo</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="one">Les amistats poden fer Duo amb els teus vídeos. %1$d dels teus vídeos permet fer Duo, %2$s</item>
+        <item quantity="other">Les amistats poden fer Duo amb els teus vídeos. %1$d dels teus vídeos permeten fer Duo, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="one">mentre que %d no permet fer Duo</item>
+        <item quantity="other">mentre que %d no permeten fer Duo</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="one">Revisa qui pot fer Duo amb els teus vídeos. %1$d dels teus vídeos permet fer Duo, %2$s</item>
+        <item quantity="other">Revisa qui pot fer Duo amb els teus vídeos. %1$d dels teus vídeos permeten fer Duo, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="one">mentre que %d no permet fer Collage</item>
+        <item quantity="other">mentre que %d no permeten fer Collage</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="one">Revisa qui pot fer Collage amb els teus vídeos. %1$d dels teus vídeos permet fer Collage, %2$s</item>
+        <item quantity="other">Revisa qui pot fer Collage amb els teus vídeos. %1$d dels teus vídeos permeten fer Collage, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="one">mentre que %d no permet fer Collage</item>
+        <item quantity="other">mentre que %d no permeten fer Collage</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="one">Tothom pot fer Collage amb els teus vídeos. %1$d dels teus vídeos permet fer Collage, %2$s</item>
+        <item quantity="other">Tothom pot fer Collage amb els teus vídeos. %1$d dels teus vídeos permeten fer Collage, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="one">mentre que %d no permet fer Collage</item>
+        <item quantity="other">mentre que %d no permeten fer Collage</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="one">Les amistats poden fer Collage amb els teus vídeos. %1$d dels teus vídeos permet fer Collage, %2$s</item>
+        <item quantity="other">Les amistats poden fer Collage amb els teus vídeos. %1$d dels teus vídeos permeten fer Collage, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="one">%s vídeo permet fer Duo</item>
+        <item quantity="other">%s vídeos permeten fer Duo</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="one">El vídeo de %s no es pot utilitzar a Duo</item>
+        <item quantity="other">Els vídeos de %s no es poden utilitzar a Duo</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="one">El vídeo de %s es pot utilitzar a Collage</item>
+        <item quantity="other">Els vídeos de %s es poden utilitzar a Collage</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="one">El vídeo de %s no es pot utilitzar a Collage</item>
+        <item quantity="other">Els vídeos de %s no es poden utilitzar a Collage</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="one">En actiu fa %d hora</item>
+        <item quantity="other">En actiu fa %d hores</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="one">En actiu fa %d minut</item>
+        <item quantity="other">En actiu fa %d minuts</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="one">%d part</item>
+        <item quantity="other">%d parts</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="one">%1$s · %2$d publicació nova</item>
+        <item quantity="other">%1$s · %2$d publicacions noves</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="one">Importa %d so</item>
+        <item quantity="other">Importa %d sons</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="one">%2$d vídeos LIVE | %1$d Història</item>
+        <item quantity="other">%2$d vídeos LIVE | %1$d Històries</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="one">%2$d vídeo LIVE | %1$d Història</item>
+        <item quantity="other">%2$d vídeos LIVE | %1$d Història</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="one">%d vídeo LIVE | Història</item>
+        <item quantity="other">%d vídeos LIVE | Històries</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="one">%2$d vídeo LIVE | %1$d Història</item>
+        <item quantity="other">%2$d vídeo LIVE | %1$d Històries</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="one">%d Història</item>
+        <item quantity="other">%d Històries</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="one">%d amistat convidada</item>
+        <item quantity="other">%d amistats convidades</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="one">%s vídeo</item>
+        <item quantity="other">%s vídeos</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="one">S&apos;ha afegit %s vídeo</item>
+        <item quantity="other">S&apos;han afegit %s vídeos</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="one">%s vídeo publicat</item>
+        <item quantity="other">%s vídeos publicats</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="one">Afegeix vídeo (%d)</item>
+        <item quantity="other">Afegeix vídeos (%d)</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="one">%d any</item>
+        <item quantity="other">%d anys</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="one">%d any</item>
+        <item quantity="other">%d anys</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="one">Tens %d any?\n\n Si no és així, pot ser que no estiguis gaudint de TikTok tal com correspon per a la teva edat. Després de canviar la data de naixement, no podràs tornar a fer-ho durant cert temps.</item>
+        <item quantity="other">Tens %d anys?\n\n Si no és així, pot ser que no estiguis gaudint de TikTok tal com correspon per a la teva edat. Després de canviar la data de naixement, no podràs tornar a fer-ho durant cert temps.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="one">Tens %d any?</item>
+        <item quantity="other">Tens %d anys?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="one">Has indicat que tens %d any. Introdueix la teva data de naixement real.</item>
+        <item quantity="other">Has indicat que tens %d anys. Introdueix la teva data de naixement real.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="one">%d any</item>
+        <item quantity="other">%d anys</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="one">%d so</item>
+        <item quantity="other">%d sons</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="one">S&apos;està sincronitzant el so...</item>
+        <item quantity="other">S&apos;estan sincronitzant els sons...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="one">%s vegada compartit</item>
+        <item quantity="other">%s vegades compartit</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="one">%s visualització</item>
+        <item quantity="other">%s visualitzacions</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="one">Els efectes de veu poden reduir la precisió</item>
+        <item quantity="other">Els efectes de veu poden reduir la precisió</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="one">Puja fins a %d arxiu</item>
+        <item quantity="other">Puja fins a %d arxius</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="one">La versió beta caduca en %d dia</item>
+        <item quantity="other">La versió beta caduca en %d dies</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="one">Caduca d&apos;aquí %d dia</item>
+        <item quantity="other">Caduca d&apos;aquí %d dies</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="one">Caduca d&apos;aquí %d dia</item>
+        <item quantity="other">Caduca d&apos;aquí %d dies</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="one">Caduca d&apos;aquí %d dia</item>
+        <item quantity="other">Caduca d&apos;aquí %d dies</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="one">Pots afegir fins a %d llibre</item>
+        <item quantity="other">Pots afegir fins a %d llibres</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="one">%s clip</item>
+        <item quantity="other">%s clips</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="one">Mostra&apos;n %d més</item>
+        <item quantity="other">Mostra&apos;n %d més</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="one">Mostra %d resposta</item>
+        <item quantity="other">Mostra %d respostes</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="one">%d mes</item>
+        <item quantity="other">%d mesos</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="one">%d any</item>
+        <item quantity="other">%d anys</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="one">Bloqueja el compte</item>
+        <item quantity="other">Bloqueja els comptes</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="one">S&apos;ha seleccionat %d compte.</item>
+        <item quantity="other">S&apos;han seleccionat %d comptes.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="one">Pots seleccionar com a màxim %d compte alhora.</item>
+        <item quantity="other">Pots seleccionar com a màxim %d comptes alhora.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="one">Has seleccionat %d compte per bloquejar. Els comptes bloquejats no podran veure el teu perfil ni el teu contingut a TikTok.</item>
+        <item quantity="other">Has seleccionat %d comptes per bloquejar. Els comptes bloquejats no podran veure el teu perfil ni el teu contingut a TikTok.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="one">Vols bloquejar %d compte?</item>
+        <item quantity="other">Vols bloquejar %d comptes?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="one">Suprimeix el comentari</item>
+        <item quantity="other">Suprimeix els comentaris</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="one">Has seleccionat %d comentari.</item>
+        <item quantity="other">Has seleccionat %d comentaris.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="one">Vols suprimir %d comentari?</item>
+        <item quantity="other">Vols suprimir %d comentaris?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="one">Comentari suprimit</item>
+        <item quantity="other">Comentaris suprimits</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="one">S&apos;ha seleccionat %d comentari.</item>
+        <item quantity="other">S&apos;han seleccionat %d comentaris.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="one">Pots seleccionar com a màxim %d comentari alhora.</item>
+        <item quantity="other">Pots seleccionar com a màxim %d comentaris alhora.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="one">Denuncia el comentari</item>
+        <item quantity="other">Denuncia els comentaris</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="one">Denunciaràs %d comentari. Nosaltres el revisarem per decidir si és inadequat.</item>
+        <item quantity="other">Denunciaràs %d comentaris. Nosaltres els revisarem per decidir si són inadequats.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="one">Vols denunciar %d comentari?</item>
+        <item quantity="other">Vols denunciar %d comentaris?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="one">El comentari s&apos;ha denunciat</item>
+        <item quantity="other">Els comentaris s&apos;han denunciat</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="one">%s comentari</item>
+        <item quantity="other">%s comentaris</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="one">%s vídeo</item>
+        <item quantity="other">%s vídeos</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="one">%s usuari ha definit un recordatori</item>
+        <item quantity="other">%s usuaris han definit recordatoris</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="one">%s efecte</item>
+        <item quantity="other">%s efectes</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="one">Visualització de vídeos</item>
+        <item quantity="other">Visualitzacions de vídeos</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="one">%d %%</item>
+        <item quantity="other">%d %%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="one">Seguidor net</item>
+        <item quantity="other">Seguidors nets</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="one">%d %%</item>
+        <item quantity="other">%d %%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="one">M&apos;agrada</item>
+        <item quantity="other">M&apos;agrades</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="one">%d %%</item>
+        <item quantity="other">%d %%</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="one">%s usuari ha definit un recordatori</item>
+        <item quantity="other">%s usuaris han definit recordatoris</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="one">Vols suprimir l&apos;esborrany?</item>
+        <item quantity="other">Vols suprimir els esborranys?</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="one">%s publicació</item>
+        <item quantity="other">%s publicacions</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="one">El codi d&apos;accés és incorrecte. Queda %d intent.</item>
+        <item quantity="other">El codi d&apos;accés és incorrecte. Queden %d intents.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="one">Massa intents. Torna-ho a provar d&apos;aquí a %d minut.</item>
+        <item quantity="other">Massa intents. Torna-ho a provar d&apos;aquí a %d minuts.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="one">%d melodia</item>
+        <item quantity="other">%d melodies</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="one">%d música</item>
+        <item quantity="other">%d músiques</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="one">%d peça</item>
+        <item quantity="other">%d peces</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="one">%d cançó</item>
+        <item quantity="other">%d cançons</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="one">%d so</item>
+        <item quantity="other">%d sons</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="one">%d tonada</item>
+        <item quantity="other">%d tonades</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="one">Envia (%d)</item>
+        <item quantity="other">Envia (%d)</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="one">Segueixes: %1$d · Et segueix: %2$d</item>
+        <item quantity="other">Segueixes: %1$d · Et segueixen: %2$d</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="one">@ menció nova</item>
+        <item quantity="other">@ mencions noves</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="one">ha enviat missatges nous.</item>
+        <item quantity="other">han enviat missatges nous.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="one">t&apos;ha enviat missatges nous.</item>
+        <item quantity="other">t&apos;han enviat missatges nous.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="one">Pots seleccionar %d persona com a màxim</item>
+        <item quantity="other">Pots seleccionar %d persones com a màxim</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="one">Vols descartar l&apos;esborrany?</item>
+        <item quantity="other">Vols descartar els esborranys?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="one">Vols suprimir l&apos;esborrany?</item>
+        <item quantity="other">Vols suprimir els esborranys?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="one">Esborranys {#} vídeo</item>
+        <item quantity="other">Esborranys {#} vídeos</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="one">%1$s i %2$s persona més rebran una notificació quan aquest vídeo es publiqui.</item>
+        <item quantity="other">%1$s i %2$s persones més rebran una notificació quan aquest vídeo es publiqui.</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="one">Selecciona almenys %d article</item>
+        <item quantity="other">Selecciona almenys %d articles</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="one">Acaba d&apos;aquí a %s dia</item>
+        <item quantity="other">Acaba d&apos;aquí a %s dies</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="one">Només pots fer-hi modificacions %d vegada</item>
+        <item quantity="other">Només pots fer-hi modificacions %d vegades</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="one">Previsualitza un efecte d&apos;aquí a %d s</item>
+        <item quantity="other">Previsualitza un efecte d&apos;aquí a %d s</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="one">S’ha etiquetat</item>
+        <item quantity="other">S’han etiquetat</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="one">Potser coneixes aquest membre del grup.</item>
+        <item quantity="other">Potser coneixes aquests membres del grup.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="one">%s vídeo</item>
+        <item quantity="other">%s vídeos</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="one">S&apos;ha afegit %s vídeo</item>
+        <item quantity="other">S&apos;han afegit %s vídeos</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="one">Suprimeix %1$d vídeo de %2$s</item>
+        <item quantity="other">Suprimeix %1$d vídeos de %2$s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="one">S&apos;ha mogut %1$d vídeo a %2$s</item>
+        <item quantity="other">S&apos;han mogut %1$d vídeos a %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="one">S&apos;ha suprimit %d vídeo</item>
+        <item quantity="other">S&apos;han suprimit %d vídeos</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="one">%d nou compte recomanat</item>
+        <item quantity="other">%d nous comptes recomanats</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="one">{0}, {1} i {2} en són seguidors</item>
+        <item quantity="other">{0}, {1} i {2} en són seguidors</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="one">{0} i {2} més en són seguidors</item>
+        <item quantity="other">{0} i {2} més en són seguidors</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="one">Segueix {0}, {1} i {2} més</item>
+        <item quantity="other">Segueix {0}, {1} i {2} més</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="one">Segueix {0} i {2} més</item>
+        <item quantity="other">Segueix {0} i {2} més</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="one">Entre les seves amistats hi ha {0}, {1} i {2} més</item>
+        <item quantity="other">Entre les seves amistats hi ha {0}, {1} i {2} més</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="one">Entre les seves amistats hi ha {0} i {2} més</item>
+        <item quantity="other">Entre les seves amistats hi ha {0} i {2} més</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="one">{2} contacte en comú</item>
+        <item quantity="other">{2} contactes en comú</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="one">%d publicació nova d&apos;amistats</item>
+        <item quantity="other">%d publicacions noves d&apos;amistats</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="one">Hi ha %d persona activa ara</item>
+        <item quantity="other">Hi ha %d persones actives ara</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="one">%1$d persona estava activa fa %2$d minuts</item>
+        <item quantity="other">%1$d persones estaven actives fa %2$d minuts</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="one">Hi ha %d persona activa avui</item>
+        <item quantity="other">Hi ha %d persones actives avui</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="one">%d membre</item>
+        <item quantity="other">%d membres</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="one">Sol·licitud nova</item>
+        <item quantity="other">Sol·licituds noves</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="one">%s membre</item>
+        <item quantity="other">%s membres</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="one">Mostra %d membre més</item>
+        <item quantity="other">Mostra %d membres més</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="one">%s visualització</item>
+        <item quantity="other">%s visualitzacions</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="one">Seguidor: %s</item>
+        <item quantity="other">Seguidors: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="one">Vídeo: %s</item>
+        <item quantity="other">Vídeos: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="one">S&apos;ha enviat a %s i a %d usuari més</item>
+        <item quantity="other">Enviat a %s i a %d usuaris més</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="one">No s&apos;ha pogut pujar %d Història i s&apos;ha desat als esborranys.</item>
+        <item quantity="other">No s&apos;han pogut pujar %d Històries i s&apos;han desat als esborranys.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="one">No s&apos;ha pogut pujar la foto i s&apos;ha desat als esborranys.</item>
+        <item quantity="other">No s&apos;han pogut pujar les fotos i s&apos;han desat als esborranys.</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="one">%d adhesiu</item>
+        <item quantity="other">%d adhesius</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="one">t&apos;ha mencionat en una foto.</item>
+        <item quantity="other">t&apos;ha mencionat en diverses fotos.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="one">%s publicació nova</item>
+        <item quantity="other">%s publicacions noves</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="one">Activitat</item>
+        <item quantity="other">Activitats</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="one">Segueix %1$s, %2$s i %d altre usuari que potser coneixes per veure els seus vídeos.</item>
+        <item quantity="other">Segueix %1$s, %2$s i %d usuaris més que potser coneixes per veure els seus vídeos.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="one">%d més</item>
+        <item quantity="other">%d més</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="one">Segueix %1$s, %2$s i %3$d usuari més que potser coneixes per veure&apos;n els vídeos.</item>
+        <item quantity="other">Segueix %1$s, %2$s i %3$d usuaris més que potser coneixes per veure&apos;n els vídeos.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="one">Missatge</item>
+        <item quantity="other">Missatges</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="one">Nova activitat</item>
+        <item quantity="other">Noves activitats</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="one">%s membre</item>
+        <item quantity="other">%s membres</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="one">%s publicació</item>
+        <item quantity="other">%s publicacions</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="one">%d paraula clau</item>
+        <item quantity="other">%d paraules clau</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="one">%d vídeo LIVE</item>
+        <item quantity="other">%d vídeos LIVE</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="one">Acaba d&apos;aquí a %s dia</item>
+        <item quantity="other">Acaba d&apos;aquí a %s dies</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="one">%d sol·licitud</item>
+        <item quantity="other">%d sol·licituds</item>
+    </plurals>
+    <plurals name="j0">
+        <item quantity="one">%d notificació nova</item>
+        <item quantity="other">%d notificacions noves</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="one">Vols eliminar la cançó de la categoria novetat?</item>
+        <item quantity="other">Vols eliminar les cançons de la categoria novetat?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="one">S&apos;ha tret %d cançó de la categoria novetat</item>
+        <item quantity="other">S&apos;han tret %d cançons de la categoria novetat</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="one">%d llançament</item>
+        <item quantity="other">%d llançaments</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="one">%d artista</item>
+        <item quantity="other">%d artistes</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="one">%d contacte en comú</item>
+        <item quantity="other">%d contactes en comú</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="one">%d contacte en comú</item>
+        <item quantity="other">%d contactes en comú</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="one">Ara pots penjar vídeos de fins a %d minut de durada!</item>
+        <item quantity="other">Ara pots penjar vídeos de fins a %d minuts de durada!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="one">Presentem els vídeos d&apos;%d minut</item>
+        <item quantity="other">Presentem els vídeos de %d minuts</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="one">%d contacte en comú</item>
+        <item quantity="other">%d contactes en comú</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="one">%d comentari</item>
+        <item quantity="other">%d comentaris</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="one">Veure %d comentari</item>
+        <item quantity="other">Veure els %d comentaris</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="one">{nickname} i {number_1} més</item>
+        <item quantity="other">{nickname} i {number_1} més</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="one">{number} amistat ha publicat el Now d&apos;avui</item>
+        <item quantity="other">{number} amistats han publicat el Now d&apos;avui</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="one">%1$s i %2$d més han publicat el Now</item>
+        <item quantity="other">%1$s i %2$d més han publicat el Now</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="one">{nickname} i {number_1} més</item>
+        <item quantity="other">{nickname} i {number_1} més</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="one">Uneix-te a {number} amistat a TikTok Now per compartir moments aleatoris</item>
+        <item quantity="other">Uneix-te a {number} amistats a TikTok Now per compartir moments aleatoris</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="one">Publica un Now en {number} minut</item>
+        <item quantity="other">Publica un Now dins dels propers {number} minuts</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="one">Et queda %d minut per publicar un Now.</item>
+        <item quantity="other">Et queden %d minuts per publicar un Now.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="one">%d amistat en comú</item>
+        <item quantity="other">%d amistats en comú</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="one">%d m&apos;agrada</item>
+        <item quantity="other">%d m&apos;agrades</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="one">{1}, {2}, {3} i {number} més acaben de publicar un Now.</item>
+        <item quantity="other">{1}, {2}, {3} i {number} més acaben de publicar un Now.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="one">%d reacció</item>
+        <item quantity="other">%d reaccions</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="one">%d visualització</item>
+        <item quantity="other">%d visualitzacions</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="one">%d visualització</item>
+        <item quantity="other">%d visualitzacions</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="one">%1$s i %2$s més</item>
+        <item quantity="other">%1$s i %2$s més</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="one">La publicació que vas sincronitzar de Lemon8 encara no té so. Afegeix-li so perquè sigui més atractiva.</item>
+        <item quantity="other">Les publicacions que vas sincronitzar de Lemon8 encara no tenen so. Afegeix-hi so perquè siguin més atractives.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="one">Afegeix so per millorar la teva publicació</item>
+        <item quantity="other">Afegeix so per millorar les teves publicacions</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="one">ha fet m&apos;agrada a la teva foto.</item>
+        <item quantity="other">han fet m&apos;agrada a les teves fotos.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="one">ha votat la teva foto.</item>
+        <item quantity="other">ha votat les teves fotos.</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="one">%d episodi</item>
+        <item quantity="other">%d episodis</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="one">%d part</item>
+        <item quantity="other">%d parts</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="one">L&apos;esdeveniment %s està programat per d&apos;aquí a 10 minuts. %d espectador ha vist el teu esdeveniment. Comença a emetre el LIVE ara per aprofitar la promoció al màxim!</item>
+        <item quantity="other">L&apos;esdeveniment %s està programat per d&apos;aquí a 10 minuts. %d espectadors han vist el teu esdeveniment. Comença a emetre el LIVE ara per aprofitar la promoció al màxim!</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="one">Mostra %s tasca del tutorial</item>
+        <item quantity="other">Mostra %s tasques del tutorial</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="one">Publicació (%s)</item>
+        <item quantity="other">Publicacions (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="one">(%s opinió)</item>
+        <item quantity="other">(%s opinions)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="one">%s foto no s&apos;ha pogut pujar. Torna-ho a provar.</item>
+        <item quantity="other">%s fotos no s&apos;han pogut pujar. Torna-ho a provar.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="one">%d so similar</item>
+        <item quantity="other">%d sons similars</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="one">%d visualització del perfil</item>
+        <item quantity="other">%d visualitzacions del perfil</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="one">Seguidor</item>
+        <item quantity="other">Seguidors</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="one">%1$s ha rebut %2$s m&apos;agrada</item>
+        <item quantity="other">%1$s ha rebut un total de %2$s m&apos;agrades a tots els vídeos</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="one">ha vist el teu perfil.</item>
+        <item quantity="other">han vist el teu perfil.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="one">%1$s, %2$s i %d més</item>
+        <item quantity="other">%1$s, %2$s i %d més</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="one">%s persona ha vist el teu perfil.</item>
+        <item quantity="other">%s persones han vist el teu perfil.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="one">{0}, {1} i {2} més han vist el teu perfil.</item>
+        <item quantity="other">{0}, {1} i {2} més han vist el teu perfil.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="one">T&apos;hem enviat una notificació al teu %1$s i a %2$s dispositiu més. Comprova que tinguis TikTok obert i fes clic a &quot;Sí&quot; a la notificació per continuar amb l&apos;inici de sessió.</item>
+        <item quantity="other">T&apos;hem enviat una notificació al teu %1$s i a %2$s dispositius més. Comprova que tinguis TikTok obert i fes clic a &quot;Sí&quot; a la notificació per continuar amb l&apos;inici de sessió.</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="one">%s vídeo</item>
+        <item quantity="other">%s vídeos</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="one">%d vídeo</item>
+        <item quantity="other">%d vídeos</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="one">S&apos;ha suprimit de les teves invitacions %s pregunta no disponible</item>
+        <item quantity="other">S&apos;han suprimit de les teves invitacions %s preguntes no disponibles</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="one">%s missatge nou</item>
+        <item quantity="other">%s missatges nous</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="one">%s reacció nova</item>
+        <item quantity="other">%s reaccions noves</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="one">Recomanat per %d</item>
+        <item quantity="other">Recomanat per %d</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="one">Recomanat per %d</item>
+        <item quantity="other">Recomanat per %d</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="one">Mostra %d recomanació més</item>
+        <item quantity="other">Mostra %d recomanacions més</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="one">Grava fins a %d segon</item>
+        <item quantity="other">Grava fins a %d segons</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="one">Grava fins a %d segon amb el so del vídeo original</item>
+        <item quantity="other">Grava fins a %d segons amb el so del vídeo original</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="one">Esborrany (%d)</item>
+        <item quantity="other">Esborranys (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="one">El vídeo no tindrà so si esculls l&apos;opció de restablir aquest so.</item>
+        <item quantity="other">El vídeo no tindrà so si esculls l&apos;opció de restablir aquests sons.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="one">Vols restablir el so protegit per drets d&apos;autor?</item>
+        <item quantity="other">Vols restablir els sons protegits per drets d&apos;autor?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="one">S&apos;ha eliminat el so protegit per drets d&apos;autor</item>
+        <item quantity="other">S&apos;han eliminat els sons protegits per drets d&apos;autor</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="one">S&apos;està eliminant el so</item>
+        <item quantity="other">S&apos;estan eliminant els sons</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="one">S&apos;ha eliminat el so</item>
+        <item quantity="other">S&apos;han eliminat els sons</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="one">Substitueix el so</item>
+        <item quantity="other">Substitueix els sons</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="one">S&apos;està eliminant el so protegit per drets d&apos;autor...</item>
+        <item quantity="other">S&apos;estan eliminant els sons protegits per drets d&apos;autor...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="one">Hem detectat un so que dura més d&apos;1 minut que infringeix els drets d&apos;autor al teu vídeo, i es publicarà sense so si continues. Substitueix el so o escurça el vídeo. %s</item>
+        <item quantity="other">Hem detectat sons que duren més d&apos;1 minut que infringeixen els drets d&apos;autor al teu vídeo, i es publicarà sense so si continues. Substitueix els sons o escurça el vídeo. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="one">Substitueix el so</item>
+        <item quantity="other">Substitueix els sons</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="one">S&apos;està eliminant el so protegit per drets d&apos;autor...</item>
+        <item quantity="other">S&apos;estan eliminant els sons protegits per drets d&apos;autor...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="one">Hem detectat un so que infringeix els drets d&apos;autor al teu vídeo, i es publicarà sense so si continues. Per tal d&apos;evitar-ho, pots substituir el so. %s</item>
+        <item quantity="other">Hem detectat sons que infringeixen els drets d&apos;autor al teu vídeo, i es publicarà sense so si continues. Per tal d&apos;evitar-ho, pots substituir els sons. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="one">So protegit per drets d&apos;autor</item>
+        <item quantity="other">Sons protegits per drets d&apos;autor</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="one">El titular dels drets d&apos;autor d&apos;aquest so ha autoritzat el seu ús només durant 1 minut.</item>
+        <item quantity="other">Els titulars dels drets d&apos;autor d&apos;aquests sons han autoritzat el seu ús només durant 1 minut.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="one">El titular dels drets d&apos;autor d&apos;aquest so no ha autoritzat el seu ús.</item>
+        <item quantity="other">Els titulars dels drets d&apos;autor d&apos;aquests sons no han autoritzat el seu ús.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="one">Substitueix el so</item>
+        <item quantity="other">Substitueix els sons</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="one">Hem detectat un so que dura més d&apos;1 minut que infringeix els drets d&apos;autor al teu vídeo, i es publicarà sense so si continues. Substitueix el so o escurça el vídeo. %s</item>
+        <item quantity="other">Hem detectat sons que duren més d&apos;1 minut que infringeixen els drets d&apos;autor al teu vídeo, i es publicarà sense so si continues. Substitueix els sons o escurça el vídeo. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="one">Substitueix el so</item>
+        <item quantity="other">Substitueix els sons</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="one">Hem detectat un so que infringeix els drets d&apos;autor al teu vídeo, i es publicarà sense so si continues. Per tal d&apos;evitar-ho, pots substituir el so. %s</item>
+        <item quantity="other">Hem detectat sons que infringeixen els drets d&apos;autor al teu vídeo, i es publicarà sense so si continues. Per tal d&apos;evitar-ho, pots substituir els sons. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="one">Elimina vídeo (%d)</item>
+        <item quantity="other">Elimina vídeos (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="one">%d vegada republicat</item>
+        <item quantity="other">%d vegades republicat</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="one">Compartit per %d</item>
+        <item quantity="other">Compartit per %d</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="one">Republicat per %d</item>
+        <item quantity="other">Republicat per %d</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="one">Mostra %d republicació més</item>
+        <item quantity="other">Mostra %d republicacions més</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="one">%d dia</item>
+        <item quantity="other">%d dies</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="one">Fes %1$d cerca més per obtenir %2$d punts</item>
+        <item quantity="other">Fes %1$d cerques més per obtenir %2$d punts</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="one">Explora els resultats de cerca durant %d segon</item>
+        <item quantity="other">Explora els resultats de cerca durant %d segons</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="one">Fes %1$d cerca més per obtenir %2$d punts!</item>
+        <item quantity="other">Fes %1$d cerques més per obtenir %2$d punts!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="one">%d so coincident</item>
+        <item quantity="other">%d sons coincidents</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="one">S&apos;ha actualitzat fa %d dia</item>
+        <item quantity="other">S&apos;ha actualitzat fa %d dies</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="one">Actualitzat fa %d h</item>
+        <item quantity="other">Actualitzat fa %d h</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="one">S&apos;ha actualitzat fa %d min</item>
+        <item quantity="other">S&apos;ha actualitzat fa %d min</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="one">S&apos;ha actualitzat fa %d</item>
+        <item quantity="other">S&apos;ha actualitzat fa %d</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="one">S&apos;ha actualitzat fa %d setmana</item>
+        <item quantity="other">S&apos;ha actualitzat fa %d setmanes</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="one">Enhorabona! Ahir vas rebre %d compra més. Continua així i consulta el rendiment de la Sèrie a &quot;Eines per a creadors&quot; &gt; &quot;Sèries&quot;.</item>
+        <item quantity="other">Enhorabona! Ahir vas rebre %d compres més. Continua així i consulta el rendiment de la Sèrie a &quot;Eines per a creadors&quot; &gt; &quot;Sèries&quot;.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="one">La Sèrie ha rebut %d visita en els darrers dies. Per fer-ne un seguiment del rendiment i obtenir consells útils per atreure compradors potencials, pots accedir a les eines d&apos;anàlisis des d&apos;&quot;Eines per a creadors&quot; &gt; &quot;Sèries&quot;.</item>
+        <item quantity="other">La Sèrie ha rebut %d visites en els darrers dies. Per fer-ne un seguiment del rendiment i obtenir consells útils per atreure compradors potencials, pots accedir a les eines d&apos;anàlisis des d&apos;&quot;Eines per a creadors&quot; &gt; &quot;Sèries&quot;.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="one">Enhorabona! Ahir %d espectador del LIVE va comprar accés a la Sèrie. Continua així i consulta el rendiment de la Sèrie a &quot;Eines per a creadors&quot; &gt; &quot;Sèries&quot;.</item>
+        <item quantity="other">Enhorabona! Ahir %d espectadors del LIVE van comprar accés a la Sèrie. Continua així i consulta el rendiment de la Sèrie a &quot;Eines per a creadors&quot; &gt; &quot;Sèries&quot;.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="one">Enhorabona! Ahir %d espectador va comprar accés a la Sèrie a través d&apos;un vídeo amb un enllaç. Continua així i consulta el rendiment de la Sèrie a &quot;Eines per a creadors&quot; &gt; &quot;Sèries&quot;.</item>
+        <item quantity="other">Enhorabona! Ahir %d espectadors van comprar accés a la Sèrie a través d&apos;un vídeo amb un enllaç. Continua així i consulta el rendiment de la Sèrie a &quot;Eines per a creadors&quot; &gt; &quot;Sèries&quot;.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="one">Ves a la Càmera (%d)</item>
+        <item quantity="other">Ves a la Càmera (%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="one">%.1f (%s opinió)</item>
+        <item quantity="other">%.1f (%s opinions)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="one">Només per al primer comprador</item>
+        <item quantity="other">Només per als primers %d compradors</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="one">Només en queda %d</item>
+        <item quantity="other">Només en queden %d</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="one">Caduca d&apos;aquí %d dia</item>
+        <item quantity="other">Caduca d&apos;aquí %d dies</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="one">%d vídeo</item>
+        <item quantity="other">%d vídeos</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="one">%d vídeo</item>
+        <item quantity="other">%d vídeos</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="one">%d vídeo</item>
+        <item quantity="other">%d vídeos</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="one">%s vídeo</item>
+        <item quantity="other">%s vídeos</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="one">%d visualització</item>
+        <item quantity="other">%d visualitzacions</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="one">Història (%d)</item>
+        <item quantity="other">Històries (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="one">{Brand} vol ampliar l&apos;autorització original ({start_date} - {end_date}) {num} dia.</item>
+        <item quantity="other">{Brand} vol ampliar l&apos;autorització original ({start_date} - {end_date}) {num} dies.</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="one">S&apos;ha afegit %d vídeo</item>
+        <item quantity="other">S&apos;han afegit %d vídeos</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="one">Els creadors han de portar més de %d mes a TikTok.</item>
+        <item quantity="other">Els creadors han de portar més de %d mesos a TikTok.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="one">Els creadors han de tenir %d seguidor com a mínim.</item>
+        <item quantity="other">Els creadors han de tenir %d seguidors com a mínim.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="one">%d interacció</item>
+        <item quantity="other">%d interaccions</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="one">Límit diari per afegir temes populars: %d publicació</item>
+        <item quantity="other">Límit diari per afegir temes populars: %d publicacions</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="one">Temps de revisió estimat: %d dia</item>
+        <item quantity="other">Temps de revisió estimat: %d dies</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="one">%@ vídeo</item>
+        <item quantity="other">%@ vídeos</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="one">%@ visualització</item>
+        <item quantity="other">%@ visualitzacions</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="one">%d dia</item>
+        <item quantity="other">%d dies</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="one">Tens %d dia per provar aquesta funció a TikTok. Després d&apos;això, hauràs de descarregar l&apos;aplicació TikTok Now per continuar.</item>
+        <item quantity="other">Tens %d dies per provar aquesta funció a TikTok. Després d&apos;això, hauràs de descarregar l&apos;aplicació TikTok Now per continuar.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="one">Fes una publicació per provar TikTok Now durant %d dia.</item>
+        <item quantity="other">Fes una publicació per provar TikTok Now durant %d dies.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="one">Selecciona o grava %d clip</item>
+        <item quantity="other">Selecciona o grava %d clips</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="one">Vols editar la foto sense terminar?</item>
+        <item quantity="other">Vols editar les fotos sense terminar?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="one">%s publicació nova</item>
+        <item quantity="other">%s publicacions noves</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="one">ha publicat %d vídeo</item>
+        <item quantity="other">ha publicat %d vídeos</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="one">Confirmes que tens %d any?</item>
+        <item quantity="other">Confirmes que tens %d anys?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="one">Fes servir un so retallat. Pots gravar fins a %d segon.</item>
+        <item quantity="other">Fes servir un so retallat. Pots gravar fins a %d segons.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="one">%s espectador</item>
+        <item quantity="other">%s espectadors</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="one">%s m&apos;agrada</item>
+        <item quantity="other">%s m&apos;agrades</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="one">Es compartirà a %1$s d&apos;aquí a %2$s s</item>
+        <item quantity="other">Es compartirà a %1$s d&apos;aquí a %2$s s</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="one">%d producte</item>
+        <item quantity="other">%d productes</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="one">Publicació</item>
+        <item quantity="other">Publicacions</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="one">%1$s, %2$s i %d més</item>
+        <item quantity="other">%1$s, %2$s i %d més</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="one">ha vist la teva publicació.</item>
+        <item quantity="other">han vist la teva publicació.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="one">%s vegada compartit</item>
+        <item quantity="other">%s vegades compartit</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="one">%s visualització</item>
+        <item quantity="other">%s visualitzacions</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="one">{0}, {1} i {2} més han vist la teva publicació.</item>
+        <item quantity="other">{0}, {1} i {2} més han vist la teva publicació.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="one">%d moneda</item>
+        <item quantity="other">%d monedes</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="one">ha enviat: %s</item>
+        <item quantity="other">han enviat: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="one">Foto desada</item>
+        <item quantity="other">Fotos desades</item>
+    </plurals>
+</resources>

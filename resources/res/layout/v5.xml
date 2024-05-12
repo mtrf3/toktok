@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="wrap_content"
+    layout_height="30dp">
+    <X.C56970MXm
+        textColor="?attr/dj"
+        ellipsize="end"
+        gravity="center"
+        id="@+id/awa"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        adjustViewBounds="true"
+        text="@string/git"
+        maxLines="1"
+        drawablePadding="4dp"
+        textAllCaps="false"
+        NOT_FOUND_0xb="7"
+        style="@style/a7w"/>
+</RelativeLayout>

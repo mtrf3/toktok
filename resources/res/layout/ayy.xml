@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/j71"
+    clipChildren="false"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/fmm"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/irq"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.WXF
+        id="@+id/fim"
+        background="@color/cz"
+        saveEnabled="false"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

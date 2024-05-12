@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    orientation="vertical"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.SharedPreferencesOnSharedPreferenceChangeListenerC60790NtS
+        id="@+id/spark_ad_sticker_view"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</FrameLayout>

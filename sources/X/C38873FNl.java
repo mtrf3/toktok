@@ -1,0 +1,103 @@
+package X;
+
+import com.bytedance.ies.abmock.ClientExpManager;
+import java.util.HashMap;
+
+/* renamed from: X.FNl, reason: case insensitive filesystem */
+/* loaded from: classes7.dex */
+public final class C38873FNl {
+    public static final java.util.Map<String, Object> LIZ;
+
+    static {
+        HashMap hashMap = new HashMap();
+        LIZ = hashMap;
+        hashMap.put("akamai_tnc_config_update_exp", Integer.valueOf(ClientExpManager.akamai_tnc_config_update_exp(false)));
+        hashMap.put("backup_video_opt", Integer.valueOf(ClientExpManager.backup_video_opt(false)));
+        hashMap.put("bootfinish_msg_aggre_opt", Integer.valueOf(ClientExpManager.bootfinish_msg_aggre_opt(false)));
+        hashMap.put("decompress_so_strategy_client", Integer.valueOf(ClientExpManager.decompress_so_strategy_client(false)));
+        hashMap.put("disable_dex2oat_strategy", Integer.valueOf(ClientExpManager.disable_dex2oat_strategy(false)));
+        hashMap.put("emoji_preload_type_v3", Integer.valueOf(ClientExpManager.emoji_preload_type_v3(false)));
+        hashMap.put("feed_platform_local_offline", Integer.valueOf(ClientExpManager.feed_platform_local_offline(false)));
+        hashMap.put("feed_total_v2_opt", Integer.valueOf(ClientExpManager.feed_total_v2_opt(false)));
+        hashMap.put("fix_active_user_experiment", Boolean.valueOf(ClientExpManager.fix_active_user_experiment(false)));
+        hashMap.put("fix_smartlock_memory_leak", Integer.valueOf(ClientExpManager.fix_smartlock_memory_leak(false)));
+        hashMap.put("flow_opt_key", Integer.valueOf(ClientExpManager.flow_opt_key(false)));
+        hashMap.put("gecko_bytediff_exp_tt_android", Integer.valueOf(ClientExpManager.gecko_bytediff_exp_tt_android(false)));
+        hashMap.put("google_onetap_nonce_fix_2", Integer.valueOf(ClientExpManager.google_onetap_nonce_fix_2(false)));
+        hashMap.put("inference_engine_opt", Integer.valueOf(ClientExpManager.inference_engine_opt(false)));
+        hashMap.put("is_new_user_see_first", Integer.valueOf(ClientExpManager.is_new_user_see_first(false)));
+        hashMap.put("is_opt_new_user_boot", Integer.valueOf(ClientExpManager.is_opt_new_user_boot(false)));
+        hashMap.put("launch_opt_swipeup", Integer.valueOf(ClientExpManager.launch_opt_swipeup(false)));
+        hashMap.put("leakcanary_clean_type_v2550", Integer.valueOf(ClientExpManager.leakcanary_clean_type_v2550(false)));
+        hashMap.put("local_notify_4_non_login_users", Boolean.valueOf(ClientExpManager.local_notify_4_non_login_users(false)));
+        hashMap.put("low_storage_aot_service_type_v259", Integer.valueOf(ClientExpManager.low_storage_aot_service_type_v259(false)));
+        hashMap.put("low_storage_gecko_unload_high_type", Integer.valueOf(ClientExpManager.low_storage_gecko_unload_high_type(false)));
+        hashMap.put("miniapp_plugin_install_strategy", Integer.valueOf(ClientExpManager.miniapp_plugin_install_strategy(false)));
+        hashMap.put("new_user_aggregated_2_optimization", Integer.valueOf(ClientExpManager.new_user_aggregated_2_optimization(false)));
+        hashMap.put("new_user_aggregated_3_optimization", Integer.valueOf(ClientExpManager.new_user_aggregated_3_optimization(false)));
+        hashMap.put("new_user_aggregated_4_optimization", Integer.valueOf(ClientExpManager.new_user_aggregated_4_optimization(false)));
+        hashMap.put("new_user_aggregated_5_optimization", Integer.valueOf(ClientExpManager.new_user_aggregated_5_optimization(false)));
+        hashMap.put("new_user_aggregated_optimization", Integer.valueOf(ClientExpManager.new_user_aggregated_optimization(false)));
+        hashMap.put("new_user_bootfinish_opt_downgrade", Integer.valueOf(ClientExpManager.new_user_bootfinish_opt_downgrade(false)));
+        hashMap.put("new_user_coldboot_background_opt", Integer.valueOf(ClientExpManager.new_user_coldboot_background_opt(false)));
+        hashMap.put("new_user_coldboot_mainthread_opt", Integer.valueOf(ClientExpManager.new_user_coldboot_mainthread_opt(false)));
+        hashMap.put("new_user_feed_consume_opt_nonuj", Integer.valueOf(ClientExpManager.new_user_feed_consume_opt_nonuj(false)));
+        hashMap.put("new_user_feed_consume_opt_nuj", Integer.valueOf(ClientExpManager.new_user_feed_consume_opt_nuj(false)));
+        hashMap.put("new_user_feed_fluency_v1_opt", Integer.valueOf(ClientExpManager.new_user_feed_fluency_v1_opt(false)));
+        hashMap.put("new_user_feed_network_deterioration", Integer.valueOf(ClientExpManager.new_user_feed_network_deterioration(false)));
+        hashMap.put("new_user_feed_total_aggre", Integer.valueOf(ClientExpManager.new_user_feed_total_aggre(false)));
+        hashMap.put("new_user_local_aweme_with_guide", Integer.valueOf(ClientExpManager.new_user_local_aweme_with_guide(false)));
+        hashMap.put("new_user_local_aweme_without_guide", Integer.valueOf(ClientExpManager.new_user_local_aweme_without_guide(false)));
+        hashMap.put("new_user_login_experience_aggre_opt", Integer.valueOf(ClientExpManager.new_user_login_experience_aggre_opt(false)));
+        hashMap.put("new_user_login_experience_opt", Integer.valueOf(ClientExpManager.new_user_login_experience_opt(false)));
+        hashMap.put("new_user_login_experience_v2_opt", Integer.valueOf(ClientExpManager.new_user_login_experience_v2_opt(false)));
+        hashMap.put("new_user_low_end_opt_aggregation", Integer.valueOf(ClientExpManager.new_user_low_end_opt_aggregation(false)));
+        hashMap.put("new_user_lynxenv_init_opt", Integer.valueOf(ClientExpManager.new_user_lynxenv_init_opt(false)));
+        hashMap.put("new_user_nonuj_feed_preload_opt", Integer.valueOf(ClientExpManager.new_user_nonuj_feed_preload_opt(false)));
+        hashMap.put("new_user_onboarding_simplify", Integer.valueOf(ClientExpManager.new_user_onboarding_simplify(false)));
+        hashMap.put("new_user_resources_download_opt", Integer.valueOf(ClientExpManager.new_user_resources_download_opt(false)));
+        hashMap.put("new_user_resources_first_day_opt", Integer.valueOf(ClientExpManager.new_user_resources_first_day_opt(false)));
+        hashMap.put("new_user_second_feed_block_opt", Integer.valueOf(ClientExpManager.new_user_second_feed_block_opt(false)));
+        hashMap.put("new_user_startwatching_anim_video_prerender", Integer.valueOf(ClientExpManager.new_user_startwatching_anim_video_prerender(false)));
+        hashMap.put("new_user_subthread_optimization", Integer.valueOf(ClientExpManager.new_user_subthread_optimization(false)));
+        hashMap.put("new_user_swipe_ui_downgrade_opt", Integer.valueOf(ClientExpManager.new_user_swipe_ui_downgrade_opt(false)));
+        hashMap.put("new_user_swipeup_animation_downgrade_opt", Integer.valueOf(ClientExpManager.new_user_swipeup_animation_downgrade_opt(false)));
+        hashMap.put("new_user_task_downgrade", Integer.valueOf(ClientExpManager.new_user_task_downgrade(false)));
+        hashMap.put("new_user_thread_priority_opt", Integer.valueOf(ClientExpManager.new_user_thread_priority_opt(false)));
+        hashMap.put("new_user_top_thread_runnable_switch", Integer.valueOf(ClientExpManager.new_user_top_thread_runnable_switch(false)));
+        hashMap.put("new_user_video_first_frame_opt", Integer.valueOf(ClientExpManager.new_user_video_first_frame_opt(false)));
+        hashMap.put("new_user_video_fluency_strategy_opt", Integer.valueOf(ClientExpManager.new_user_video_fluency_strategy_opt(false)));
+        hashMap.put("newuser_gecko_high_priority_non_weakcountry_opt", Integer.valueOf(ClientExpManager.newuser_gecko_high_priority_non_weakcountry_opt(false)));
+        hashMap.put("newuser_gecko_high_priority_opt", Integer.valueOf(ClientExpManager.newuser_gecko_high_priority_opt(false)));
+        hashMap.put("newuser_gecko_opt", Integer.valueOf(ClientExpManager.newuser_gecko_opt(false)));
+        hashMap.put("newuser_keva", Integer.valueOf(ClientExpManager.newuser_keva(false)));
+        hashMap.put("newuser_loadmore_cache_opt", Integer.valueOf(ClientExpManager.newuser_loadmore_cache_opt(false)));
+        hashMap.put("newuser_message_statistics_switch", Integer.valueOf(ClientExpManager.newuser_message_statistics_switch(false)));
+        hashMap.put("newuser_start_watching_below_10_opt", Integer.valueOf(ClientExpManager.newuser_start_watching_below_10_opt(false)));
+        hashMap.put("newuser_start_watching_opt", Integer.valueOf(ClientExpManager.newuser_start_watching_opt(false)));
+        hashMap.put("nuj_report_page_start", Integer.valueOf(ClientExpManager.nuj_report_page_start(false)));
+        hashMap.put("nuj_slogan_optimize", Integer.valueOf(ClientExpManager.nuj_slogan_optimize(false)));
+        hashMap.put("old_offline_clean_v2", Integer.valueOf(ClientExpManager.old_offline_clean_v2(false)));
+        hashMap.put("old_user_login_experience_opt", Integer.valueOf(ClientExpManager.old_user_login_experience_opt(false)));
+        hashMap.put("old_user_login_experience_v2_opt", Integer.valueOf(ClientExpManager.old_user_login_experience_v2_opt(false)));
+        hashMap.put("penetration_rate_blank_search", Integer.valueOf(ClientExpManager.penetration_rate_blank_search(false)));
+        hashMap.put("penetration_rate_comment_page", Integer.valueOf(ClientExpManager.penetration_rate_comment_page(false)));
+        hashMap.put("penetration_rate_follow", Integer.valueOf(ClientExpManager.penetration_rate_follow(false)));
+        hashMap.put("penetration_rate_inbox", Integer.valueOf(ClientExpManager.penetration_rate_inbox(false)));
+        hashMap.put("penetration_rate_music_detail", Integer.valueOf(ClientExpManager.penetration_rate_music_detail(false)));
+        hashMap.put("penetration_rate_others", Integer.valueOf(ClientExpManager.penetration_rate_others(false)));
+        hashMap.put("penetration_rate_user_profile", Integer.valueOf(ClientExpManager.penetration_rate_user_profile(false)));
+        hashMap.put("penetration_rate_video_detail", Integer.valueOf(ClientExpManager.penetration_rate_video_detail(false)));
+        hashMap.put("player_new_user_opt_exp", Integer.valueOf(ClientExpManager.player_new_user_opt_exp(false)));
+        hashMap.put("plugin_interceptor_experiment", Integer.valueOf(ClientExpManager.plugin_interceptor_experiment(false)));
+        hashMap.put("preload_uninstall_opt", Boolean.valueOf(ClientExpManager.preload_uninstall_opt(false)));
+        hashMap.put("qr_code_login", Boolean.valueOf(ClientExpManager.qr_code_login(false)));
+        hashMap.put("resso_anchor_uninstalled_vid", Integer.valueOf(ClientExpManager.resso_anchor_uninstalled_vid(false)));
+        hashMap.put("signup_login_bind_phone_email", Integer.valueOf(ClientExpManager.signup_login_bind_phone_email(false)));
+        hashMap.put("simplifying_password", Integer.valueOf(ClientExpManager.simplifying_password(false)));
+        hashMap.put("slogan_login_opt_experiment", Integer.valueOf(ClientExpManager.slogan_login_opt_experiment(false)));
+        hashMap.put("three_vv_fluency", Integer.valueOf(ClientExpManager.three_vv_fluency(false)));
+        hashMap.put("weak_net_country_traffic_opt", Integer.valueOf(ClientExpManager.weak_net_country_traffic_opt(false)));
+        hashMap.put("zero_video_view_monitor_newuser_exp", Integer.valueOf(ClientExpManager.zero_video_view_monitor_newuser_exp(false)));
+    }
+}

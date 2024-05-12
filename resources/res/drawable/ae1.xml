@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item
+        left="-10dp"
+        top="-10dp"
+        right="-10dp"
+        bottom="0.5dp">
+        <shape shape="rectangle">
+            <stroke
+                width="0.5dp"
+                color="?attr/e7"/>
+        </shape>
+    </item>
+</layer-list>

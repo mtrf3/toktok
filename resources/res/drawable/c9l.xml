@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item id="@+id/ial">
+        <shape>
+            <corners radius="20dp"/>
+            <solid color="#26ffbb35"/>
+        </shape>
+    </item>
+    <item id="@+id/ia9">
+        <clip>
+            <shape>
+                <corners radius="20dp"/>
+                <solid color="#ffbb35"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

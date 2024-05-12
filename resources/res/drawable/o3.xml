@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item>
+        <layer-list>
+            <item>
+                <shape shape="rectangle">
+                    <corners radius="8dp"/>
+                    <solid color="?attr/ci"/>
+                </shape>
+            </item>
+            <item>
+                <bitmap src="@drawable/akt"/>
+            </item>
+        </layer-list>
+    </item>
+</selector>

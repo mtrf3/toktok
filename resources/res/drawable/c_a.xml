@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <rotate
+            fromDegrees="45"
+            pivotX="134.9976%"
+            pivotY="15%">
+            <shape shape="rectangle">
+                <size
+                    height="18dp"
+                    width="18dp"/>
+                <solid color="?attr/cl"/>
+                <corners radius="1dp"/>
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fj">1dp</dimen>
+    <dimen name="fk">10dp</dimen>
+    <dimen name="fl">12dp</dimen>
+    <dimen name="fm">13dp</dimen>
+    <dimen name="fo">15dp</dimen>
+    <dimen name="fp">150dp</dimen>
+    <dimen name="fq">16dp</dimen>
+    <dimen name="fs">17dp</dimen>
+    <dimen name="ft">2dp</dimen>
+    <dimen name="fu">20dp</dimen>
+    <dimen name="fv">21dp</dimen>
+    <dimen name="fw">24dp</dimen>
+    <dimen name="fx">25dp</dimen>
+    <dimen name="fy">30dp</dimen>
+    <dimen name="fz">31dp</dimen>
+    <dimen name="g0">32dp</dimen>
+    <dimen name="g1">33dp</dimen>
+    <dimen name="g2">35dp</dimen>
+    <dimen name="g3">31dp</dimen>
+    <dimen name="g4">40dp</dimen>
+    <dimen name="g5">48dp</dimen>
+    <dimen name="g6">49dp</dimen>
+    <dimen name="g7">5dp</dimen>
+    <dimen name="g8">5.5dp</dimen>
+    <dimen name="g9">61dp</dimen>
+    <dimen name="g_">72dp</dimen>
+    <dimen name="ga">8dp</dimen>
+    <dimen name="ky">15dp</dimen>
+</resources>

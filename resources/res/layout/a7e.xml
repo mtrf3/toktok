@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/k1t"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gw"
+        ellipsize="end"
+        gravity="start"
+        id="@+id/hca"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxWidth="120dp"
+        maxLines="2"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="@dimen/nz"
+        NOT_FOUND_0xe="@+id/iac"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x13="71"/>
+    <ProgressBar
+        id="@+id/iac"
+        layout_width="0dp"
+        layout_height="6dp"
+        progressDrawable="@drawable/af_"
+        layout_marginStart="16dp"
+        layout_marginEnd="16dp"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xe="@+id/hli"
+        NOT_FOUND_0xf="1"
+        NOT_FOUND_0x10="@+id/hca"
+        NOT_FOUND_0x12="0"
+        style="?android:attr/progressBarStyleHorizontal"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gw"
+        gravity="end"
+        id="@+id/hli"
+        layout_width="25dp"
+        layout_height="wrap_content"
+        maxLines="1"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0x10="@+id/iac"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x13="71"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

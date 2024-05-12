@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    id="@+id/gg4"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C019005q
+        orientation="horizontal"
+        id="@+id/e1u"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x8="16dp"/>
+    <include
+        id="@+id/gfr"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="4dp"
+        NOT_FOUND_0x7="@+id/gfw"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xd="@+id/e1u"
+        NOT_FOUND_0xe="2"
+        layout="@layout/brn"/>
+    <include
+        id="@+id/gfw"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_marginTop="12dp"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x9="@+id/gfr"
+        NOT_FOUND_0xa="@+id/gfr"
+        NOT_FOUND_0xc="@+id/gfr"
+        NOT_FOUND_0xe="2"
+        layout="@layout/brq"/>
+    <X.C74059T4t
+        id="@+id/gfs"
+        layout_width="@dimen/yn"
+        layout_height="@dimen/yn"
+        layout_marginStart="@dimen/iv"
+        NOT_FOUND_0xb="@+id/gfr"
+        NOT_FOUND_0xd="0"/>
+</merge>

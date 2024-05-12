@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    layout_width="wrap_content"
+    layout_height="match_parent">
+    <ImageView
+        layout_gravity="center"
+        id="@+id/bl9"
+        padding="1dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        src="@drawable/axd"
+        scaleType="fitCenter"
+        adjustViewBounds="true"
+        maxWidth="25dp"
+        maxHeight="25dp"/>
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ss.android.ugc.aweme.relation.follow.ui.RelationButton
+    ellipsize="end"
+    gravity="center"
+    id="@+id/iuh"
+    layout_width="90dp"
+    layout_height="28dp"
+    maxLines="1"
+    layout_alignParentBottom="true"
+    layout_centerHorizontal="true"
+    NOT_FOUND_0x8="0"
+    NOT_FOUND_0x9="62"/>

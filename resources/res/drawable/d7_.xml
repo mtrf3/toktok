@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item id="@android:id/background">
+        <shape>
+            <gradient
+                startColor="#80ffffff"
+                endColor="#1affffff"
+                angle="0"/>
+            <corners radius="3dp"/>
+        </shape>
+    </item>
+    <item id="@android:id/progress">
+        <scale scaleWidth="100%">
+            <shape>
+                <gradient
+                    startColor="#ff3b5c"
+                    endColor="#ff79a6"
+                    angle="0"/>
+                <corners radius="3dp"/>
+            </shape>
+        </scale>
+    </item>
+</layer-list>

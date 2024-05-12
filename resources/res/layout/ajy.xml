@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    id="@+id/de5"
+    layout_width="match_parent"
+    layout_height="52dp"
+    layout_alignParentBottom="true">
+    <X.T5T
+        textColor="?attr/gv"
+        gravity="center"
+        id="@+id/czp"
+        layout_width="0dp"
+        layout_height="match_parent"
+        layout_weight="1"
+        NOT_FOUND_0x8="33"/>
+    <X.SY4
+        textColor="@drawable/am2"
+        gravity="center"
+        id="@+id/awb"
+        layout_width="0dp"
+        layout_height="match_parent"
+        layout_weight="1"
+        NOT_FOUND_0x8="61"/>
+</LinearLayout>

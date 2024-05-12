@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <LinearLayout
+        id="@+id/fjw"
+        background="@drawable/a4t"
+        layout_width="match_parent"
+        layout_height="66dp"
+        layout_margin="11dp"
+        elevation="3dp"
+        outlineProvider="background">
+        <com.bytedance.tux.icon.TuxIconView
+            layout_width="24dp"
+            layout_height="24dp"
+            layout_marginTop="18dp"
+            layout_marginStart="18dp"
+            NOT_FOUND_0x12="@raw/icon_exclamation_mark_circle"
+            NOT_FOUND_0x13="?attr/e7"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/go"
+            ellipsize="end"
+            gravity="center_vertical"
+            layout_gravity="center_vertical"
+            id="@+id/mce"
+            layout_width="0dp"
+            layout_height="wrap_content"
+            maxLines="4"
+            singleLine="false"
+            layout_weight="1"
+            layout_marginStart="12dp"
+            NOT_FOUND_0x11="61"/>
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/f7w"
+            layout_width="24dp"
+            layout_height="24dp"
+            layout_marginTop="16dp"
+            layout_marginStart="12dp"
+            layout_marginEnd="16dp"
+            NOT_FOUND_0x12="@raw/icon_chevron_right_ltr"/>
+    </LinearLayout>
+</LinearLayout>

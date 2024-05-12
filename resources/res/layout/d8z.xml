@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_marginTop="16dp">
+    <View
+        layout_gravity="start|top"
+        background="@drawable/cb9"
+        layout_width="5dp"
+        layout_height="5dp"
+        layout_marginTop="8.5dp"
+        layout_alignParentTop="true"
+        layout_marginStart="4dp"
+        layout_alignParentStart="true"/>
+    <X.C2A8
+        textSize="15sp"
+        textColor="?attr/go"
+        layout_gravity="start|top"
+        id="@+id/mfq"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_alignParentTop="true"
+        lineSpacingExtra="3sp"
+        layout_marginStart="17dp"
+        layout_alignParentStart="true"
+        NOT_FOUND_0xe="2"/>
+    <X.C2A8
+        textSize="15sp"
+        textColor="?attr/go"
+        id="@+id/lzr"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_below="@+id/mfq"
+        lineSpacingExtra="3sp"
+        layout_alignStart="@+id/mfq"/>
+</RelativeLayout>

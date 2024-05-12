@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    shape="oval"
+    useLevel="false">
+    <stroke
+        width="1dp"
+        color="?attr/ch"/>
+    <solid color="?attr/gy"/>
+    <corners radius="360dp"/>
+    <padding
+        left="1dp"
+        top="1dp"
+        right="1dp"
+        bottom="1dp"/>
+    <size
+        height="20dp"
+        width="20dp"/>
+</shape>

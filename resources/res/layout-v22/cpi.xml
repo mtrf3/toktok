@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dm"
+        gravity="center"
+        id="@+id/ks2"
+        background="@null"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginLeft="32dp"
+        layout_marginRight="32dp"
+        layout_marginHorizontal="32dp"
+        NOT_FOUND_0x9="102"/>
+</RelativeLayout>

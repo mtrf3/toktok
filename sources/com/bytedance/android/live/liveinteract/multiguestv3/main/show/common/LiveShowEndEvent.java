@@ -1,0 +1,8 @@
+package com.bytedance.android.live.liveinteract.multiguestv3.main.show.common;
+
+import X.C76800UCe;
+import com.bytedance.ies.sdk.datachannel.Event;
+
+/* loaded from: classes14.dex */
+public final class LiveShowEndEvent extends Event<C76800UCe> {
+}

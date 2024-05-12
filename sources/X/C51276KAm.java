@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.KAm, reason: case insensitive filesystem */
+/* loaded from: classes9.dex */
+public final class C51276KAm {
+    public static final C51276KAm LIZ = new C51276KAm();
+    public static final java.util.Map<String, java.util.Map<String, String>> LIZIZ = C113554cx.LJJL(new OSZ(String.valueOf(EnumC51280KAq.MALL.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.HOMEPAGE_MALL.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.MALL_UG_DEEPLINK.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.FLASH_SALE.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.BRAND_BUDGET.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.FASHION.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.VIDEO_ANCHOR.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.COMMENT_TOP_ANCHOR.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.FEED_BOTTOM_BAR.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.PDP.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.ORDER.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.HALF_SHOP.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.FROM_HALF_SHOP.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.ORDER_CENTER_WITH_SUGGEST_LIKE.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.ORDER_DETAIL_WITH_SUGGEST_LIKE.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.PAY_SUCCESS_WITH_SUGGEST_LIKE.getValue()), C113554cx.LJJJLIIL()), new OSZ(String.valueOf(EnumC51280KAq.DELIVERY_DETAIL_WITH_SUGGEST_LIKE.getValue()), C113554cx.LJJJLIIL()));
+    public static final C62822Ol8 LIZJ = C221108m2.LIZIZ(KBC.LJLIL);
+}

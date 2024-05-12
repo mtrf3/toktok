@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape
+            shape="ring"
+            useLevel="false"
+            innerRadius="0dp"
+            thickness="3dp">
+            <solid color="#66d9d9d9"/>
+        </shape>
+    </item>
+</layer-list>

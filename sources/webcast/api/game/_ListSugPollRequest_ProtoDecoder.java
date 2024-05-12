@@ -1,0 +1,19 @@
+package webcast.api.game;
+
+import X.InterfaceC31105CIr;
+import X.Q9H;
+import X.Q9J;
+
+/* loaded from: classes6.dex */
+public final class _ListSugPollRequest_ProtoDecoder implements InterfaceC31105CIr<ListSugPollRequest> {
+    @Override // X.InterfaceC31105CIr
+    public final ListSugPollRequest LIZ(Q9H q9h) {
+        ListSugPollRequest listSugPollRequest = new ListSugPollRequest();
+        long LIZJ = q9h.LIZJ();
+        while (q9h.LJI() != -1) {
+            Q9J.LIZJ(q9h);
+        }
+        q9h.LJ(LIZJ);
+        return listSugPollRequest;
+    }
+}

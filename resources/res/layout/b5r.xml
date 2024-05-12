@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_gravity="center"
+    layout_width="@dimen/t4"
+    layout_height="@dimen/t4">
+    <com.ss.android.ugc.aweme.base.ui.SmartAvatarImageView
+        layout_gravity="center"
+        id="@+id/ac_"
+        layout_width="56dp"
+        layout_height="56dp"
+        NOT_FOUND_0xf="?attr/dz"
+        NOT_FOUND_0x10="0.5dp"/>
+    <ViewStub
+        layout_gravity="center"
+        id="@+id/acc"
+        layout="@layout/bi_"
+        inflatedId="@+id/acb"
+        layout_width="56dp"
+        layout_height="56dp"/>
+    <X.C119354mJ
+        layout_gravity="end|bottom"
+        id="@+id/pq"
+        visibility="gone"
+        layout_width="16dp"
+        layout_height="16dp"
+        translationX="4dp"
+        translationY="4dp"
+        NOT_FOUND_0xb="@color/dq"
+        NOT_FOUND_0xc="true"
+        NOT_FOUND_0xd="true"
+        NOT_FOUND_0xe="?attr/gp"
+        NOT_FOUND_0x11="?attr/cr"
+        NOT_FOUND_0x12="4dp"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="end|bottom"
+        id="@+id/j6c"
+        visibility="invisible"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginBottom="0dp"
+        layout_marginEnd="0dp"
+        NOT_FOUND_0x13="@raw/icon_color_verified_badge"/>
+</FrameLayout>

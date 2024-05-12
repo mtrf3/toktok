@@ -1,0 +1,2334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">ကျွန်ုပ်တို့သည် သင့် avatar များကို %d မိနစ်အကြာတွင် စတင် ဖန်တီးပါမည်။</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">စတိုင် %d ခုဖြင့် ဆက်လုပ်ရန်</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">လူမျက်နှာပါသည့် နောက်ထပ်ဓာတ်ပုံ အနည်းဆုံး %d ပုံ ရွေးပါ</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">avatar များကို Sharp ဖြင့် တစ်နေ့ %d ကြိမ် ဖန်တီးနိုင်သည်</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">avatar များကို Sharp ဖြင့် တစ်ပတ် %d ကြိမ် ဖန်တီးနိုင်သည်</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">avatar များကို Speedy ဖြင့် တစ်နေ့ %d ကြိမ် ဖန်တီးနိုင်သည်</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">avatar များကို Speedy ဖြင့် တစ်ပတ် %d ကြိမ် ဖန်တီးနိုင်သည်</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">avatar များကို တစ်နေ့ %d ကြိမ် ဖန်တီးနိုင်သည်</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">avatar များကို တစ်ပတ် %d ကြိမ် ဖန်တီးနိုင်သည်</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">ကျွန်ုပ်တို့သည် သင့် avatar များကို %d မိနစ်အကြာတွင် စတင် ဖန်တီးပါမည်။</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">(%d) ခု ခွင့်ပြုပြီး</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">သင် မန်းရှင်းအသစ် %d ခု ရထားပါသည်။</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">သင့်တွင် တောင်းဆိုချက် %d ခု ရှိသည်</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">သင့်တွင် တောင်းဆိုချက် %d ခု ရှိသည်</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">မေးခွန်း %d ခု</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">ပထမဆုံး %d ရက်အတွက် အခြားသူများသည် သင့်ပို့စ်များကို ကြည့်ရန် ပို့စ်တင်ရမည်။</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">%d ရက်ကြာပြီးနောက် ၎င်းတို့သည် ပို့စ်မတင်ဘဲ သင့်ပို့စ်များကို ကြည့်နိုင်သည်။</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">%d ရက်ကြာပြီးနောက် သင်တစ်ဦးတည်းသာ သင့်ပို့စ်များကို မြင်နိုင်သည်။</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">ပထမဆုံး %d ရက်အတွက် အခြားသူများသည် သင့် Now ပို့စ်များကို ကြည့်ရန် ပို့စ်တင်ရမည်။</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">ကုန်ပစ္စည်း %d ခု</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">(%d) ခု ပြန်သုံးသပ်နေဆဲ</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">သင့်စာရင်းသွင်းမှုကို ခွင့်ပြုပေးလိုက်သည်နှင့် စာရင်းသွင်း အချက်အလက်များကို %d လအတွင်း ပြောင်း၍ မရပါ။</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">၎င်းကို အတည်ပြုပြီး‌ %d လ အကြာတွင်သာ စာရင်းသွင်းထားသော အချက်အလက်ကို ပြောင်းလဲနိုင်သည်။</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">ပုံ %d ပုံအထိ အပ်လုဒ်တင်ပါ</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">{username} ၏ ဓာတ်ပုံကို ဖွင့်ပါ</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">လူ {number} ဦးသည် ဤဗီဒီယိုကို ၎င်းတို့၏ အကြိုက်ဆုံးများတွင် ထည့်ထားသည်</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">လိုက်ခ် %d ခု</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ ဘီလီယံ</item>
+        <item quantity="other">%@ ဘီလီယံ</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ သန်း</item>
+        <item quantity="other">%@ သန်း</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ ထောင်</item>
+        <item quantity="other">%@ ထောင်</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">ကြည့်ရှုသူ %d ဦး</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">ဗီဒီယို %s ခုက မှတ်ချက်များကို ခွင့်ပြုသည်</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">ဗီဒီယို %s ခုက မှတ်ချက်များကို ခွင့်မပြုပါ</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">သို့သော် %d ခုက စုံတွဲတင်ဆက်မှုကို ခွင့်မပြုပါ</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">မည်သူမဆို သင့်ဗီဒီယိုများနှင့် စုံတွဲတင်ဆက်နိုင်သည်။ သင့်ဗီဒီယိုများအနက် %1$d ခုသည် စုံတွဲတင်ဆက်မှုကို ခွင့်ပြုသည်၊ %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">သို့သော် %d ခုက စုံတွဲတင်ဆက်မှုကို ခွင့်မပြုပါ</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">မိတ်ဆွေများသည် သင့်ဗီဒီယိုများနှင့် စုံတွဲတင်ဆက်နိုင်သည်။ သင့်ဗီဒီယိုများအနက် %1$d ခုသည် စုံတွဲတင်ဆက်မှုကို ခွင့်ပြုသည်၊ %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">သို့သော် %d ခုက စုံတွဲတင်ဆက်မှုကို ခွင့်မပြုပါ</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="other">သင့်ဗီဒီယိုများနှင့် စုံတွဲတင်ဆက်နိုင်သူကို စစ်ကြည့်ပါ။ သင့်ဗီဒီယိုများအနက် %1$d ခုသည် စုံတွဲတင်ဆက်မှုကို ခွင့်ပြုသည်၊ %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="other">သို့သော် %d ခုက တွဲဆက်မှုကို ခွင့်မပြုပါ</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="other">သင့်ဗီဒီယိုများနှင့် တွဲဆက်နိုင်သူကို စစ်ကြည့်ပါ။ သင့်ဗီဒီယိုများအနက် %1$d ခုသည် တွဲဆက်မှုကို ခွင့်ပြုသည်၊ %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="other">သို့သော် %d ခုက တွဲဆက်မှုကို ခွင့်မပြုပါ</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="other">မည်သူမဆို သင့်ဗီဒီယိုများနှင့် တွဲဆက်နိုင်သည်။ သင့်ဗီဒီယိုများအနက် %1$d ခုသည် တွဲဆက်မှုကို ခွင့်ပြုသည်၊ %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="other">သို့သော် %d ခုက တွဲဆက်မှုကို ခွင့်မပြုပါ</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="other">မိတ်ဆွေများသည် သင့်ဗီဒီယိုများနှင့် တွဲဆက်နိုင်သည်။ သင့်ဗီဒီယိုများအနက် %1$d ခုသည် တွဲဆက်မှုကို ခွင့်ပြုသည်၊ %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="other">ဗီဒီယို %s ခုက စုံတွဲတင်ဆက်ခွင့်ပြုသည်</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="other">ဗီဒီယို %s ခုက စုံတွဲတင်ဆက်ခွင့်မပြုပါ</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="other">ဗီဒီယို %s ခုက တွဲဆက်ခွင့်ပြုသည်</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="other">ဗီဒီယို %s ခုက တွဲဆက်ခွင့်မပြုပါ</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="other">%d နာရီ အကြာက အွန်လိုင်းတွင်ရှိသည်</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="other">%d မိနစ် အကြာက အွန်လိုင်းတွင်ရှိသည်</item>
+    </plurals>
+    <plurals name="ao">
+        <item quantity="other">ရက်</item>
+    </plurals>
+    <plurals name="ap">
+        <item quantity="other">နာရီ</item>
+    </plurals>
+    <plurals name="aq">
+        <item quantity="other">မိနစ်</item>
+    </plurals>
+    <plurals name="ar">
+        <item quantity="other">စက္ကန့်</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="other">အပိုင်း %d ပိုင်း</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="other">%1$s · ပို့စ်အသစ် %2$d ခု</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="other">အသံ %d ခုကို ထည့်သွင်းပါ</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="other">LIVE ဗီဒီယို %2$d ခု | ဇာတ်လမ်း %1$d ခု</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="other">LIVE ဗီဒီယို %2$d ခု | ဇာတ်လမ်း %1$d ခု</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="other">LIVE ဗီဒီယို %d ခု | ဇာတ်လမ်း</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="other">LIVE ဗီဒီယို %2$d ခု | ဇာတ်လမ်း %1$d ခု</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="other">ဇာတ်လမ်း %d ခု</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="other">မိတ်ဆွေ %d ဦး ဖိတ်ခေါ်ထားသည်</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="other">ဗီဒီယို %s ခု</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="other">ဗီဒီယို %s ခု ထည့်ထားသည်</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="other">ဗီဒီယို %s ခု ပို့စ်တင်ထားသည်</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="other">ဗီဒီယို (%d) ပုဒ် ထည့်ပါ</item>
+    </plurals>
+    <plurals name="b5">
+        <item quantity="other">ဗီဒီယို %s ခု ထည့်ထားသည်။ တည်းဖြတ်မှုကို အဆုံးသတ်ရန် &quot;ပြီးပြီ&quot; ကို နှိပ်ပါ။</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="other">အသက် %d နှစ်</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="other">အသက် %d နှစ်</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="other">သင့်အသက် %d ရှိပြီလား။\n\n ဤအသက်က မှားနေလျှင် သင်သည် မှန်ကန်သော TikTok အတွေ့အကြုံကို ရရှိမည် မဟုတ်ပါ။ ၎င်းကို ချက်ချင်း ပြောင်းလဲနိုင်မည် မဟုတ်ပါ။</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="other">သင် အသက် %d နှစ် ရှိပြီလား။</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="other">သင်သည် အသက် %d နှစ်ဟု ထည့်သွင်းထားသည်။ သင်၏ မွေးသက္ကရာဇ်အမှန်ကို ထည့်ပါ။</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="other">အသက် %d နှစ်</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="other">အသံ %d ခု အသံ %d ခု</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="other">အသံများ ဆင့်ခ်လုပ်နေသည်...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="other">မျှဝေမှု %s ခု</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="other">ကြည့်သူ %s ဦး</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="other">အသံပြုလုပ်ချက်များသည် တိကျမှန်ကန်မှုကို လျော့သွားစေနိုင်သည်</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="other">ဖိုင် %d ခုအထိ အပ်လုဒ်တင်ပါ</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="other">ဗီဒီယို [num] ခု</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="other">ဤစမ်းသပ် ဗားရှင်းသည် %d ရက်အကြာတွင် သက်တမ်းကုန်ပါမည်</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="other">%d ရက်အကြာတွင် သက်တမ်းကုန်ပါမည်</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="other">%d ရက်အကြာတွင် သက်တမ်းကုန်ပါမည်</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="other">%d ရက်အကြာတွင် သက်တမ်းကုန်ပါမည်</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="other">စာအုပ် %d အုပ်အထိ ထည့်နိုင်ပါသည်</item>
+    </plurals>
+    <plurals name="bn">
+        <item quantity="other">မိတ်ဆွေ %1$d ယောက် ဖိတ်ကြားထားသည်။ နောက်တစ်ယောက် ဖိတ်လျှင် %2$s%3$d ရနိုင်သည်။</item>
+    </plurals>
+    <plurals name="bo">
+        <item quantity="other">ဓာတ်ပုံများ မျှဝေခဲ့သည်</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="other">ဗီဒီယိုအပိုင်းတို %s ခု</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="other">နောက်ထပ် %d ခု ကြည့်ရန်</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="other">ပြန်စာ %d ခုကို ကြည့်ပါ</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="other">%d လ</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="other">%d နှစ်</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="other">အကောင့်ကို ပိတ်ဆို့ရန်</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="other">အကောင့် %d ခုကို ရွေးချယ်ထားသည်။</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="other">တစ်ကြိမ်လျှင် အကောင့် %d ခုအထိ ရွေးချယ်နိုင်သည်။</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="other">သင်သည် အကောင့် %d ခုကို ပိတ်ဆို့ရန် ရွေးချယ်ထားသည်။ ပိတ်ဆို့ထားသော အကောင့်များသည် TikTok တွင် သင့်ပရိုဖိုင် သို့မဟုတ် အကြောင်းအရာကို ကြည့်နိုင်မည်မဟုတ်ပါ။</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="other">အကောင့် %d ခုကို ပိတ်ဆို့မလား။</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="other">မှတ်ချက်များကို ဖျက်ရန်</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="other">မှတ်ချက် %d ခုကို ရွေးချယ်ထားသည်။</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="other">မှတ်ချက် %d ခုကို ဖျက်မလား။</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="other">မှတ်ချက်များကို ဖျက်လိုက်ပြီ</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="other">မှတ်ချက် %d ခုကို ရွေးချယ်ထားသည်။</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="other">တစ်ကြိမ်လျှင် မှတ်ချက် %d ခုအထိ ရွေးချယ်နိုင်သည်။</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="other">မှတ်ချက်များကို တိုင်ကြားရန်</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="other">သင်သည် မှတ်ချက် %d ခုကို တိုင်ကြားထားသည်။ ဤမှတ်ချက်များကို မသင့်လျော်သော အကြောင်းအရာ ဟုတ်၊ မဟုတ် ပြန်လည်သုံးသပ်ပါမည်။</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="other">မှတ်ချက် %d ခုကို တိုင်မလား။</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="other">မှတ်ချက်များကို တိုင်လိုက်ပြီ</item>
+    </plurals>
+    <plurals name="c9">
+        <item quantity="other">မှတ်ချက် %d ခုကို ရွေးချယ်ထားသည်</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="other">မှတ်ချက် %s ခု</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="other">ဗီဒီယို %s ခု</item>
+    </plurals>
+    <plurals name="cd">
+        <item quantity="other">သင် အသိပေးချက်အသစ် %d ခု ရရှိပြီးပါပြီ။</item>
+    </plurals>
+    <plurals name="ce">
+        <item quantity="other">သင် အသိပေးချက်အသစ် %d ခု ရရှိပြီးပါပြီ။</item>
+    </plurals>
+    <plurals name="cf">
+        <item quantity="other">သင် ဖော်လိုလုပ်ထားသည့် ဖန်တီးရှင်များထံမှ ဗီဒီယိုအသစ် %d ခု</item>
+    </plurals>
+    <plurals name="cg">
+        <item quantity="other">သင် ဖော်လိုလုပ်ထားသည့် ဖန်တီးရှင်များထံမှ ဗီဒီယိုအသစ် %d ခု</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="other">အသုံးပြုသူ %s ဦးက သတိပေးချက်များ သတ်မှတ်ထားသည်</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="other">အထူးပြုလုပ်ချက် %s ခု</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="other">ဗီဒီယို ကြည့်ရှုမှု အကြိမ်ရေ</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="other">အသားတင် ဖော်လိုလုပ်သူများ</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="other">လိုက်ခ်များ</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cp">
+        <item quantity="other">သင့် LIVE အထိ 10 မိနစ်- &quot;{0}&quot;။ {0} အသုံးပြုသူသည် အသိပေးချက်ကို သတ်မှတ်ထားသည်။</item>
+    </plurals>
+    <plurals name="cq">
+        <item quantity="other">LIVE လွှင့်ချိန်ရောက်ပါပြီ။ {0} အသုံးပြုသူသည် &quot;{0}&quot; အတွက် သတိပေးချက်ကို သတ်မှတ်ထားသည်။</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="other">အသုံးပြုသူ %s ဦးက သတိပေးချက်များ သတ်မှတ်ထားသည်</item>
+    </plurals>
+    <plurals name="cs">
+        <item quantity="other">အနည်းဆုံး ဖော်လိုလုပ်သူ %d ဦး ရှိရမည်</item>
+    </plurals>
+    <plurals name="ct">
+        <item quantity="other">လွန်ခဲ့သော %2$d ရက်အတွင်း အနည်းဆုံး ဗီဒီယို %1$d ခုကို ပို့စ်တင်ခဲ့သည်</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="other">မူကြမ်းများကို ဖျက်ပစ်မလား။</item>
+    </plurals>
+    <plurals name="cv">
+        <item quantity="other">စုံတွဲတင်ဆက်မှုနှင့် တွဲဆက်ရန် ဗီဒီယို %d ခုကို သင့်မူရင်းဗီဒီယိုများသုံး၍ ဖန်တီးထားသည်။</item>
+    </plurals>
+    <plurals name="cw">
+        <item quantity="other">%d ရက်ကြာပြီးနောက် ဤဗီဒီယိုများကို ဖယ်ရှားရန် ရွေးချယ်နိုင်သည်။</item>
+    </plurals>
+    <plurals name="cx">
+        <item quantity="other">သင့်အကောင့်ကို နောက် %d ရက်အတွင်း ပြန်လည်ရယူပါက ဤဗီဒီယိုများကို ပြန်ရယူပေးပါမည်။</item>
+    </plurals>
+    <plurals name="cy">
+        <item quantity="other">သင့်အကောင့်ကို %d ရက်ကြာ ပိတ်ထားမည်ဖြစ်ပြီး အများက မြင်ရမည်မဟုတ်ပါ။ ပိတ်ထားစဉ်အတွင်း သင့် TikTok အကောင့်ကို အချိန်မရွေး ပြန်ဖွင့်နိုင်သည်။</item>
+    </plurals>
+    <plurals name="cz">
+        <item quantity="other">%d ရက်ကြာပြီးနောက် သင့်အကောင့်နှင့် ဒေတာများကို အပြီးတိုင် ဖျက်ပစ်ပါမည်။</item>
+    </plurals>
+    <plurals name="d0">
+        <item quantity="other">သင့်အကောင့်ကို မဖျက်မီ ဤအလုပ် %d ခုကို သုံးသပ်ပါ</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="other">ပို့စ် %s ခု</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="other">လျှို့ဝှက်ကုဒ်မှားနေသည်။ ကြိုးပမ်းခွင့် %d ကြိမ် ကျန်သည်။</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="other">ကြိုးပမ်းသည့် အကြိမ်ရေ များလွန်းသည်။ %d မိနစ်ကြာမှ ထပ်မံကြိုးစားပါ။</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="other">တေးသွား %d ခု</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="other">တေးဂီတ %d ခု</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="other">အပိုင်း %d ခု</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="other">သီချင်း %d ပုဒ်</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="other">အသံ %d ခု အသံ %d ခု</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="other">သံစဉ် %d ခု</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="other">(%d) ထံ ပို့မည်</item>
+    </plurals>
+    <plurals name="db">
+        <item quantity="other">သင်တို့နှစ်ဦးလုံးသည် %s နှင့် အခြား %d ယောက်ကို ဖော်လိုလုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="other">%1$d ဦးကို ဖော်လိုထား · ဖော်လိုလုပ်သူ %2$d ဦး</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="other">@ မန်းရှင်းခေါ်မှုအသစ်</item>
+    </plurals>
+    <plurals name="de">
+        <item quantity="other">ဗီဒီယို %s ခု</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="other">မက်ဆေ့ချ်အသစ်များ ပို့ထားသည်။</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="other">သင့်ကို မက်ဆေ့ချ်အသစ်များ ပို့ထားသည်။</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="other">လူ %d ဦးအထိ ရွေးချယ်နိုင်သည်</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="other">မူကြမ်းများကို ဖျက်သိမ်းမလား။</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="other">မူကြမ်းများကို ဖျက်ပစ်မလား။</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="other">မူကြမ်း ဗီဒီယို {#} ခု</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="other">ဤဗီဒီယိုကို တင်သောအခါ %1$s နှင့် အခြား %2$s ဦးကို အသိပေးပါမည်။</item>
+    </plurals>
+    <plurals name="dm">
+        <item quantity="other">%s စက္ကန့်</item>
+    </plurals>
+    <plurals name="dn">
+        <item quantity="other">ပစ္စည်း %d ခု</item>
+    </plurals>
+    <plurals name="do">
+        <item quantity="other">ပစ္စည်း {number} ခု အတွက် {value}% လျှော့ဈေး</item>
+    </plurals>
+    <plurals name="dp">
+        <item quantity="other">ပစ္စည်း {number} ခုအတွက် {value}% လျှော့ဈေး၊ လျှော့ဈေးအသုံးပြုရန် နောက်ထပ် {gapvalue} ခုကို ထည့်ပါ။</item>
+    </plurals>
+    <plurals name="dq">
+        <item quantity="other">ပစ္စည်း {number} ခုအတွက် {value} % လျှော့ဈေးပေးသောကြောင့် သင် {currency_mark}{savevalue} ကို ချွေတာလိုက်သည်</item>
+    </plurals>
+    <plurals name="dr">
+        <item quantity="other">ပစ္စည်း {number} ခုအထက် ဝယ်သည့်အခါ {value} % လျှော့ဈေးကို အသုံးပြုပါ</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="other">အနည်းဆုံး ပစ္စည်း %d ခု ရွေးချယ်ပါ</item>
+    </plurals>
+    <plurals name="dt">
+        <item quantity="other">ပစ္စည်း {{required_quantity}}+ မျိုး</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="other">%d ရက်ကြာပြီးချိန် နောက်ဆက်တွဲ ပြန်လည်သုံးသပ်ချက်</item>
+    </plurals>
+    <plurals name="dv">
+        <item quantity="other">num</item>
+    </plurals>
+    <plurals name="dw">
+        <item quantity="other">{{num}} ရက် အကြာတွင် ရနိုင်သည်</item>
+    </plurals>
+    <plurals name="dx">
+        <item quantity="other">အဆင့်တက်ရန် နောက်ထပ် {count} ပွိုင့်</item>
+    </plurals>
+    <plurals name="dy">
+        <item quantity="other">ထိပ်တန်းဖန်တီးရှင်ဖြစ်ရန် နောက်ထပ် {count} ပွိုင့်</item>
+    </plurals>
+    <plurals name="dz">
+        <item quantity="other">{{num}} မိနစ် အကြာတွင် အသက်သာဆုံးဈေးဖြင့် အမြန်ရောင်းချမှု စတင်မည်</item>
+    </plurals>
+    <plurals name="e0">
+        <item quantity="other">{num} မိနစ် အကြာတွင် အသက်သာဆုံးဈေးဖြင့် အမြန်ရောင်းချမှု စတင်မည်</item>
+    </plurals>
+    <plurals name="e1">
+        <item quantity="other">{{num}} မိနစ် အကြာတွင် အသက်သာဆုံးဈေးဖြင့် အမြန်ရောင်းချမှု စတင်မည်</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="other">%s ရက် အကြာတွင် ပြီးဆုံးပါမည်</item>
+    </plurals>
+    <plurals name="e3">
+        <item quantity="other">ကျွန်ုပ်တို့သည် ပွဲစဉ်မစတင်မီ %s မိနစ်တွင် သင့်ကို အော်တိုပို့ အသိပေးချက် ပေးပို့ပါမည်။</item>
+    </plurals>
+    <plurals name="e4">
+        <item quantity="other">ကျွန်ုပ်တို့သည် ပွဲစဉ်မစတင်မီ %s မိနစ်တွင် သင့်ကို အော်တိုပို့ အသိပေးချက် ပေးပို့ပါမည်။</item>
+    </plurals>
+    <plurals name="e5">
+        <item quantity="other">ကျွန်ုပ်တို့သည် ပွဲစဉ်မစတင်မီ %s မိနစ်တွင် သင့်ထံ အော်တိုပို့ အသိပေးချက် ပေးပို့ပါမည်</item>
+    </plurals>
+    <plurals name="e6">
+        <item quantity="other">{{count}} ရက် ကျန်သည်</item>
+    </plurals>
+    <plurals name="e7">
+        <item quantity="other">အခမဲ့နမူနာများပေးသည့် အောက်ပါ ထုတ်ကုန် {{count}} ခုကိုရောင်းရန် သင့်ကို ဖိတ်ကြားထားသည်။ ၎င်းတို့ကိုရယူရန် ဖိတ်ကြားချက်များကို လက်ခံပါ။</item>
+    </plurals>
+    <plurals name="e8">
+        <item quantity="other">ထုတ်ကုန်များကို မရနိုင်ပါ။ ကျွန်ုပ်တို့၏ ပံ့ပိုးပေးသည့်အဖွဲ့ကို ဆက်သွယ်ပြီး ထပ်မံလုပ်ကြည့်ပါ။</item>
+    </plurals>
+    <plurals name="e9">
+        <item quantity="other">အခမဲ့နမူနာများနှင့်ပတ်သက်ပြီး တစ်ခုခုမှားယွင်းခဲ့သည်။ ကျွန်ုပ်တို့၏ ပံ့ပိုးပေးသည့်အဖွဲ့ကို ဆက်သွယ်ပြီး ထပ်မံလုပ်ကြည့်ပါ။</item>
+    </plurals>
+    <plurals name="e_">
+        <item quantity="other">{count} ရက် အကြာတွင် ပြီးဆုံးပါမည်</item>
+    </plurals>
+    <plurals name="ea">
+        <item quantity="other">{count} နာရီ အကြာတွင် ပြီးဆုံးပါမည်</item>
+    </plurals>
+    <plurals name="eb">
+        <item quantity="other">{count} မိနစ်အတွင်း ပြီးဆုံးမည်</item>
+    </plurals>
+    <plurals name="ec">
+        <item quantity="other">{count} ခု ကျန်သည်</item>
+    </plurals>
+    <plurals name="ed">
+        <item quantity="other">တောင်းဆိုသူ {count} ယောက်</item>
+    </plurals>
+    <plurals name="ee">
+        <item quantity="other">သင့်ပြန်အမ်းငွေကို {payment_method} သို့ ပို့ထားပြီး {count} ရက်ခန့်တွင် ရောက်ရှိရန် ခန့်မှန်းထားသည်။</item>
+    </plurals>
+    <plurals name="ef">
+        <item quantity="other">%s ကြိမ် အရစ်ကျ ပေးချေပါ</item>
+    </plurals>
+    <plurals name="eg">
+        <item quantity="other">မှားယွင်းသော ပစ္စည်းများ</item>
+    </plurals>
+    <plurals name="eh">
+        <item quantity="other">ဤပစ္စည်းကို လိပ်စာသို့ မပို့ဆောင်နိုင်ပါ။</item>
+    </plurals>
+    <plurals name="ei">
+        <item quantity="other">ဤကုန်ပစ္စည်းများကို လိပ်စာသို့ မပို့ဆောင်နိုင်ပါ။</item>
+    </plurals>
+    <plurals name="ej">
+        <item quantity="other">သင်သည် %s နာရီအကြာက အလားတူ အော်ဒါ တင်ထားသည်။ ယခင်အော်ဒါသည် ငွေပေးချေမှု စောင့်နေသည်။</item>
+    </plurals>
+    <plurals name="ek">
+        <item quantity="other">သင်သည် %s မိနစ်အကြာက အလားတူ အော်ဒါ တင်ထားသည်။ ယခင်အော်ဒါသည် ငွေပေးချေမှု စောင့်နေသည်။</item>
+    </plurals>
+    <plurals name="el">
+        <item quantity="other">ဖော်လိုလုပ်သူ</item>
+    </plurals>
+    <plurals name="em">
+        <item quantity="other">ကြည့်ရှုသူ</item>
+    </plurals>
+    <plurals name="en">
+        <item quantity="other">ဥပဒေ</item>
+    </plurals>
+    <plurals name="eo">
+        <item quantity="other">အကြံပြုချက်များ</item>
+    </plurals>
+    <plurals name="ep">
+        <item quantity="other">ပစ္စည်း {count} ခုကျော်နှင့်</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="other">ပစ္စည်း %1$s ခု၊ စုစုပေါင်း %2$s ခု</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="other">စုစုပေါင်း (%s ခု)</item>
+    </plurals>
+    <plurals name="es">
+        <item quantity="other">အောက်ပါ ကုန်ပစ္စည်း %d ခုကို ဖယ်ရှားထားပါသည်။</item>
+    </plurals>
+    <plurals name="et">
+        <item quantity="other">ကုန်ပစ္စည်း %d ခုကို ဖယ်ရှားထားပါသည်</item>
+    </plurals>
+    <plurals name="eu">
+        <item quantity="other">အောက်ပါ ကုန်ပစ္စည်း %d ခုကို ဖယ်ရှားထားပါသည်။</item>
+    </plurals>
+    <plurals name="ev">
+        <item quantity="other">ကုန်ပစ္စည်းကို ဖယ်ရှားထားပါသည် (%d)</item>
+    </plurals>
+    <plurals name="ew">
+        <item quantity="other">ကုန်ပစ္စည်း %d ခုကို ဖယ်ရှားထားပါသည်</item>
+    </plurals>
+    <plurals name="ex">
+        <item quantity="other">ကုန်ပစ္စည်း %d ခုကို ဖယ်ရှားထားသည်</item>
+    </plurals>
+    <plurals name="ey">
+        <item quantity="other">အောက်ပါ ကုန်ပစ္စည်း %d ခုကို ဖယ်ရှားပါမည်။ ဖယ်ရှားမှုကို အတည်ပြုပါ၊ သို့မဟုတ်ပါက ၎င်းသည် {date} တွင် အလိုအလျောက် အသက်ဝင်ပါမည်။</item>
+    </plurals>
+    <plurals name="ez">
+        <item quantity="other">ကုန်ပစ္စည်း %d ခုကို ဖယ်ရှားပါမည်</item>
+    </plurals>
+    <plurals name="f0">
+        <item quantity="other">ကုန်ပစ္စည်း %d ခုကို {date} တွင် ဖယ်ရှားပါမည်</item>
+    </plurals>
+    <plurals name="f1">
+        <item quantity="other">ကုန်ပစ္စည်း %d ခုကို ဖယ်ရှားပါမည်</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="other">သင်သည် %d ကြိမ်အထိသာ တည်းဖြတ်နိုင်သည်</item>
+    </plurals>
+    <plurals name="f3">
+        <item quantity="other">စာသားစတစ်ကာ အားလုံးတွင် အသုံးပြုထားသည်</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="other">ပြုလုပ်ချက်ကို %d စက္ကန့်အတွင်း နမူနာကြည့်ပါ</item>
+    </plurals>
+    <plurals name="f6">
+        <item quantity="other">%1$s- %2$s၊ %3$s၊ %4$s နှင့် အခြားသူများက ဗီဒီယိုအသစ် %5$d ခု ပို့စ်တင်ထားသည်။</item>
+    </plurals>
+    <plurals name="f7">
+        <item quantity="other">%1$s- %2$s က ဗီဒီယိုအသစ် %3$d ခု ပို့စ်တင်ထားသည်။</item>
+    </plurals>
+    <plurals name="f8">
+        <item quantity="other">%1$s- %2$s၊ %3$s နှင့် %4$s က ဗီဒီယိုအသစ် %5$d ခု ပို့စ်တင်ထားသည်။</item>
+    </plurals>
+    <plurals name="f9">
+        <item quantity="other">%1$s- %2$s နှင့် %3$s က ဗီဒီယိုအသစ် %4$d ခု ပို့စ်တင်ထားသည်။</item>
+    </plurals>
+    <plurals name="f_">
+        <item quantity="other">သင်သည် ဖော်လိုလုပ်သူ အသစ် %d ယောက် ရထားပါသည်။</item>
+    </plurals>
+    <plurals name="fa">
+        <item quantity="other">သင် လိုက်ခ်အသစ် %d ခု ရထားပါသည်။</item>
+    </plurals>
+    <plurals name="fb">
+        <item quantity="other">သင့်ကို စောင့်နေသည့် အသိပေးချက်အသစ် %d ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="fc">
+        <item quantity="other">သင်နှစ်သက်နိုင်လောက်သည်ဟု ကျွန်ုပ်တို့ယူဆသော ဗီဒီယို %d ခုကို တွေ့ထားသည်။</item>
+    </plurals>
+    <plurals name="fd">
+        <item quantity="other">%1$s- သင်နှစ်သက်နိုင်လောက်သည့် ဗီဒီယို %2$d ခု။</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="other">တဂ်တွဲထားသည်</item>
+    </plurals>
+    <plurals name="ff">
+        <item quantity="other">%d မှတ်ပုံတင်ပြီး</item>
+    </plurals>
+    <plurals name="fg">
+        <item quantity="other">%d မှတ်ပုံတင်ပြီး</item>
+    </plurals>
+    <plurals name="fh">
+        <item quantity="other">ဤပွဲစဉ်အတွက် စာရင်းသွင်းထားသည်</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="other">သင်သည် ဤအုပ်စုဝင်များကို သိနိုင်လောက်သည်။</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="other">ဗီဒီယို %s ခု</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="other">ဗီဒီယို %s ခု ထည့်ထားသည်</item>
+    </plurals>
+    <plurals name="fl">
+        <item quantity="other">%d မှ ဗီဒီယို %s ခုကို ဖယ်ရှားရန်</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="other">%2$s မှ ဗီဒီယို %1$d ခုကို ဖယ်ရှားပါ</item>
+    </plurals>
+    <plurals name="fn">
+        <item quantity="other">ဗီဒီယို %d ခုကို %s သို့ ပြောင်းရွှေ့ထားသည်</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="other">ဗီဒီယို %1$d ခုကို %2$s သို့ ပြောင်းရွှေ့ထားသည်</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="other">ဗီဒီယို %d ခုကို ဖယ်ရှားလိုက်သည်</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="other">အကြံပြုထားသော အကောင့်အသစ် %d ခု</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="other">%s + နောက်ထပ် %d ဦးက ဖော်လိုလုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="fs">
+        <item quantity="other">ဖော်လိုလုပ်သူ</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="other">%s + နောက်ထပ် %d ဦးကို ဖော်လိုလုပ်သည်</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="other">{0}၊ {1} နှင့် အခြား {2} ဦးတို့က ဖော်လိုလုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="other">{0} နှင့် အခြား {2} ဦးတို့က ဖော်လိုလုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="other">{0}၊ {1} နှင့် အခြား {2} ဦးတို့ကို ဖော်လိုလုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="other">{0} နှင့် အခြား {2} ဦးတို့ကို ဖော်လိုလုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="other">{0}၊ {1} နှင့် အခြား {2} ဦးတို့နှင့် မိတ်ဆွေများဖြစ်သည်</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="other">{0} နှင့် အခြား {2} ဦးတို့နှင့် မိတ်ဆွေများဖြစ်သည်</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="other">အပြန်အလှန် ဆက်သွယ်မှု {2} ခု</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="other">%s + နောက်ထပ် %d ဦးနှင့် မိတ်ဆွေများ ဖြစ်သည်</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="other">မိတ်ဆွေများထံမှ ပို့စ်အသစ် %d ခု</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="other">ယခု အဖွဲ့ဝင် %d ဦး အသုံးပြုနေသည်</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="other">လွန်ခဲ့သော %2$d မိနစ်က အဖွဲ့ဝင် %1$d ဦး အသုံးပြုနေသည်</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="other">ယနေ့ အဖွဲ့ဝင် %d ဦး အသုံးပြုနေသည်</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="other">အဖွဲ့ဝင် %d ဦး</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="other">တောင်းဆိုမှုအသစ်များ</item>
+    </plurals>
+    <plurals name="g8">
+        <item quantity="other">ဦး</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="other">အဖွဲ့ဝင် %s ယောက်</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="other">နောက်ထပ် အဖွဲ့ဝင် %d ဦးကို ကြည့်ပါ</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="other">ကြည့်သူ %s ဦး</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="other">ဖော်လိုလုပ်သူ- %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="other">ဗီဒီယို- %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="other">%s နှင့် အခြား %d ယောက်အား ပေးပို့ထားသည်</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="other">ဇာတ်လမ်း %d ခုကို အပ်လုဒ်တင်၍မရပါ။ ဇာတ်လမ်းများကို သင့်မူကြမ်းများတွင် သိမ်းထားသည်။</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="other">ဓာတ်ပုံများကို အပ်လုဒ်လုပ်၍ မရပါ။ ဓာတ်ပုံများကို သင်၏ မူကြမ်းများတွင် သိမ်းထားသည်။</item>
+    </plurals>
+    <plurals name="gg">
+        <item quantity="other">ဖော်လိုလုပ်သူ %s ဦး</item>
+    </plurals>
+    <plurals name="gh">
+        <item quantity="other">ဗီဒီယို %d ကား</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="other">စတစ်ကာ %d ခု</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="other">ဓာတ်ပုံတစ်ပုံတွင် သင့်ကို မန်းရှင်းခေါ်ထားသည်။</item>
+    </plurals>
+    <plurals name="gk">
+        <item quantity="other">%1$s သည် %2$s နှင့် အခြား %3$d ဦးကို ဖော်လိုလုပ်ထားသည်။ ၎င်းတို့၏ ပရိုဖိုင်ကို ကြည့်ပါ။</item>
+    </plurals>
+    <plurals name="gl">
+        <item quantity="other">%2$s နှင့် အခြား %3$d ဦးက %1$s ကို ဖော်လိုလုပ်ထားသည်။ ၎င်းတို့၏ ပရိုဖိုင်ကို ကြည့်ပါ။</item>
+    </plurals>
+    <plurals name="gm">
+        <item quantity="other">%1$s သည် %2$s နှင့် အခြား %3$d ဦးတို့နှင့် မိတ်ဆွေဖြစ်သည်။ ၎င်းတို့၏ ပရိုဖိုင်ကို ကြည့်ပါ။</item>
+    </plurals>
+    <plurals name="gn">
+        <item quantity="other">%2$s၊ %3$s နှင့် အခြား %4$d ယောက်က %1$s ကို ဖော်လိုလုပ်ထားသည်။ ၎င်းတို့၏ ပရိုဖိုင်ကို ကြည့်ပါ။</item>
+    </plurals>
+    <plurals name="go">
+        <item quantity="other">%1$s က %2$s၊ %3$s နှင့် အခြား %4$d ယောက်ကို ဖော်လိုလုပ်ထားသည်။ ၎င်းတို့၏ ပရိုဖိုင်ကို ကြည့်ပါ။</item>
+    </plurals>
+    <plurals name="gp">
+        <item quantity="other">%1$s သည် %2$s၊ %3$s နှင့် အခြား %4$d ယောက်တို့နှင့် မိတ်ဆွေဖြစ်သည်။ ၎င်းတို့၏ ပရိုဖိုင်ကို ကြည့်ပါ။</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="other">ပို့စ်အသစ် %s ခု</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="other">အစီအစဉ်</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="other">%1$s၊ %2$s နှင့် သင့်အသိ အခြား %d ဦးကို ဖော်လိုလုပ်၍ ၎င်းတို့၏ ဗီဒီယိုများကို ကြည့်ရှုပါ။</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="other">အခြား %d ဦး</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="other">%1$s၊ %2$s နှင့် သင့်အသိ အခြား %3$d ဦးကို ဖော်လိုလုပ်၍ ၎င်းတို့၏ ဗီဒီယိုများကို ကြည့်ရှုပါ။</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="other">မက်ဆေ့ချ်</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="other">လုပ်ဆောင်မှု အသစ်</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="other">အဖွဲ့ဝင် %s ယောက်</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="other">ပို့စ် %s ခု</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="other">သော့ချက်စကားလုံး %d လုံး</item>
+    </plurals>
+    <plurals name="h1">
+        <item quantity="other">{0} ({1}) သည် သင့်ကို စတင် ဖော်လိုလုပ်ခဲ့သည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="h2">
+        <item quantity="other">{0} ({1}) က သင့်ကို စတင် ဖော်လိုလုပ်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="h3">
+        <item quantity="other">{0} ({1}) က သင့်ကို စတင် ဖော်လိုလုပ်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="h4">
+        <item quantity="other">{0} ({1}) သည် သင့်ကို စတင် ဖော်လိုလုပ်ခဲ့သည်။ သင်တို့ နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="h5">
+        <item quantity="other">က သင့်ဗီဒီယိုတွင် မှတ်ချက်ပေးခဲ့သည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="h6">
+        <item quantity="other">က သင့်ဗီဒီယိုတွင် မှတ်ချက်ပေးခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="h7">
+        <item quantity="other">က သင့်ဗီဒီယိုတွင် မှတ်ချက်ပေးခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="h8">
+        <item quantity="other">က သင့်ဗီဒီယိုတွင် မှတ်ချက်ပေးခဲ့သည်။ သင်တို့နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="h9">
+        <item quantity="other">သင်နှင့်အတူ စုံတွဲတင်ဆက်မှု ဖန်တီးထားသည်။ သင့်တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိပါသည်။</item>
+    </plurals>
+    <plurals name="h_">
+        <item quantity="other">သင်နှင့်အတူ စုံတွဲတင်ဆက်မှု ဖန်တီးထားသည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="ha">
+        <item quantity="other">သင်နှင့်အတူ စုံတွဲတင်ဆက်မှု ဖန်တီးထားသည်။ {2} နှင့် အခြား {3} ဦးသည် ၎င်းတို့နှင့် မိတ်ဆွေများဖြစ်သည်။</item>
+    </plurals>
+    <plurals name="hb">
+        <item quantity="other">သင်နှင့်အတူ စုံတွဲတင်ဆက်မှု ဖန်တီးထားသည်။ သင်တို့နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="hc">
+        <item quantity="other">က သင့်ဗီဒီယိုကို လိုက်ခ်လုပ်ခဲ့သည်။ သင်တို့နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="hd">
+        <item quantity="other">က သင့်ဗီဒီယိုကို လိုက်ခ်လုပ်ခဲ့သည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="he">
+        <item quantity="other">က သင့်ဗီဒီယိုကို လိုက်ခ်လုပ်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="hf">
+        <item quantity="other">က သင့်ဗီဒီယိုကို လိုက်ခ်လုပ်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="hg">
+        <item quantity="other">က မှတ်ချက်ထဲတွင် သင့်ကို မန်းရှင်းခေါ်ထားသည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="hh">
+        <item quantity="other">က မှတ်ချက်ထဲတွင် သင့်ကို မန်းရှင်းခေါ်ထားသည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="hi">
+        <item quantity="other">က မှတ်ချက်ထဲတွင် သင့်ကို မန်းရှင်းခေါ်ထားသည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="hj">
+        <item quantity="other">က မှတ်ချက်ထဲတွင် သင့်ကို မန်းရှင်းခေါ်ထားသည်။ သင်တို့နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="hk">
+        <item quantity="other">[အပြန်အလှန် ဆက်သွယ်မှု {3} ခု]</item>
+    </plurals>
+    <plurals name="hl">
+        <item quantity="other">[နှစ်ဦးလုံးကို {2} နှင့် အခြား {3} ဦးက ဖော်လိုလုပ်ထားသည်]</item>
+    </plurals>
+    <plurals name="hm">
+        <item quantity="other">[နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်]</item>
+    </plurals>
+    <plurals name="hn">
+        <item quantity="other">{0} သည် သင့်ကို စတင် ဖော်လိုလုပ်ခဲ့သည်။ သင်တို့ နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="ho">
+        <item quantity="other">{0} သည် သင့်ကို စတင် ဖော်လိုလုပ်ခဲ့သည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="hp">
+        <item quantity="other">{0} သည် သင့်ကို စတင် ဖော်လိုလုပ်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="hq">
+        <item quantity="other">{0} သည် သင့်ကို စတင် ဖော်လိုလုပ်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="hr">
+        <item quantity="other">[နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးနှင့် မိတ်ဆွေများ ဖြစ်ကြသည်]</item>
+    </plurals>
+    <plurals name="hs">
+        <item quantity="other">{0} ({1}) သည် သင့်ထံ ဖော်လိုလုပ်ခွင့် တောင်းဆိုချက်ကို ပို့ထားသည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="ht">
+        <item quantity="other">{0} ({1}) သည် သင့်ထံ ဖော်လိုလုပ်ခွင့် တောင်းဆိုချက်ကို ပို့ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="hu">
+        <item quantity="other">{0} ({1}) သည် သင့်ထံ ဖော်လိုလုပ်ခွင့် တောင်းဆိုချက်ကို ပို့ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="hv">
+        <item quantity="other">{0} ({1}) သည် သင့်ထံ ဖော်လိုလုပ်ခွင့် တောင်းဆိုချက် ပို့ခဲ့သည်။ သင်တို့ နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="hw">
+        <item quantity="other">{0} ({1}) သည် သင့်ကို စတင် ဖော်လိုလုပ်ခဲ့သည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="hx">
+        <item quantity="other">{0} ({1}) က သင့်ကို စတင် ဖော်လိုလုပ်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="hy">
+        <item quantity="other">{0} ({1}) က သင့်ကို စတင် ဖော်လိုလုပ်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="hz">
+        <item quantity="other">{0} ({1}) သည် သင့်ကို စတင် ဖော်လိုလုပ်ခဲ့သည်။ သင်တို့ နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="i0">
+        <item quantity="other">{0} သည် သင်၏ဖော်လိုလုပ်ခွင့် တောင်းဆိုချက်ကို လက်ခံခဲ့သည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="i1">
+        <item quantity="other">{0} သည် သင်၏ ဖော်လိုလုပ်ခွင့် တောင်းဆိုချက်ကို လက်ခံခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="i2">
+        <item quantity="other">{0} သည် သင်၏ ဖော်လိုလုပ်ခွင့် တောင်းဆိုချက်ကို လက်ခံခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="i3">
+        <item quantity="other">{0} သည် သင်၏ဖော်လိုလုပ်ခွင့် တောင်းဆိုချက်ကို လက်ခံခဲ့သည်။ သင်တို့ နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="i4">
+        <item quantity="other">{0} သည် သင့်ထံ ဖော်လိုလုပ်ခွင့် တောင်းဆိုချက်ကို ပို့ထားသည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="i5">
+        <item quantity="other">{0} သည် သင့်ထံ ဖော်လိုလုပ်ခွင့် တောင်းဆိုချက်ကို ပို့ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="i6">
+        <item quantity="other">{0} သည် သင့်ထံ ဖော်လိုလုပ်ခွင့် တောင်းဆိုချက်ကို ပို့ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="i7">
+        <item quantity="other">{0} သည် သင့်ထံ ဖော်လိုလုပ်ခွင့် တောင်းဆိုချက်ကို ပို့ခဲ့သည်။ သင်တို့ နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="i8">
+        <item quantity="other">က သင့်မှတ်ချက်ကို စာပြန်ခဲ့သည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="i9">
+        <item quantity="other">က သင့်မှတ်ချက်ကို စာပြန်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="i_">
+        <item quantity="other">က သင့်မှတ်ချက်ကို စာပြန်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="ia">
+        <item quantity="other">က သင့်မှတ်ချက်ကို စာပြန်ခဲ့သည်။ သင်တို့နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="ib">
+        <item quantity="other">က သင့်မှတ်ချက်ကို ဗီဒီယိုဖြင့် အကြောင်းပြန်ခဲ့သည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="ic">
+        <item quantity="other">က သင့်မှတ်ချက်ကို ဗီဒီယိုဖြင့် အကြောင်းပြန်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်နေသည်။</item>
+    </plurals>
+    <plurals name="id">
+        <item quantity="other">က သင့်မှတ်ချက်ကို ဗီဒီယိုဖြင့် အကြောင်းပြန်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="ie">
+        <item quantity="other">က သင့်မှတ်ချက်ကို ဗီဒီယိုဖြင့် အကြောင်းပြန်ခဲ့သည်။ သင်တို့နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="if">
+        <item quantity="other">က ဗီဒီယိုထဲတွင် သင့်ကို မန်းရှင်းခေါ်ထားသည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="ig">
+        <item quantity="other">က ဗီဒီယိုထဲတွင် သင့်ကို မန်းရှင်းခေါ်ထားသည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="ih">
+        <item quantity="other">က ဗီဒီယိုထဲတွင် သင့်ကို မန်းရှင်းခေါ်ထားသည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="ii">
+        <item quantity="other">က ဗီဒီယိုထဲတွင် သင့်ကို မန်းရှင်းခေါ်ထားသည်။ သင်တို့နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="ij">
+        <item quantity="other">က သင့်ဗီဒီယိုအတွက် မဲပေးခဲ့သည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="ik">
+        <item quantity="other">က သင်စာပြန်ထားသော မှတ်ချက်ကို ဗီဒီယိုဖြင့် အကြောင်းပြန်ခဲ့သည်။ သင်တို့တွင် အပြန်အလှန် ဆက်သွယ်မှု {3} ခု ရှိသည်။</item>
+    </plurals>
+    <plurals name="il">
+        <item quantity="other">က သင်စာပြန်ထားသော မှတ်ချက်ကို ဗီဒီယိုဖြင့် အကြောင်းပြန်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="im">
+        <item quantity="other">က သင်စာပြန်ထားသော မှတ်ချက်ကို ဗီဒီယိုဖြင့် အကြောင်းပြန်ခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="in">
+        <item quantity="other">က သင်စာပြန်ထားသော မှတ်ချက်ကို ဗီဒီယိုဖြင့် အကြောင်းပြန်ခဲ့သည်။ သင်တို့နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="io">
+        <item quantity="other">က သင့်ဗီဒီယိုအတွက် မဲပေးခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့ကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="ip">
+        <item quantity="other">က သင့်ဗီဒီယိုအတွက် မဲပေးခဲ့သည်။ {2} နှင့် အခြား {3} ဦးက ၎င်းတို့နှင့် မိတ်ဆွေများ ဖြစ်ကြသည်။</item>
+    </plurals>
+    <plurals name="iq">
+        <item quantity="other">က သင့်ဗီဒီယိုအတွက် မဲပေးခဲ့သည်။ သင်တို့နှစ်ဦးလုံးသည် {2} နှင့် အခြား {3} ဦးကို ဖော်လိုလုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="other">LIVE ဗီဒီယို %d ခု</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="other">%s ရက် အကြာတွင် ပြီးဆုံးပါမည်</item>
+    </plurals>
+    <plurals name="it">
+        <item quantity="other">ပစ္စည်း %d ခု</item>
+    </plurals>
+    <plurals name="iu">
+        <item quantity="other">%s နှင့် အခြား %d ဦးထံ ပေးပို့နေသည်...</item>
+    </plurals>
+    <plurals name="iv">
+        <item quantity="other">%s နှင့် အခြား %d ယောက်အား ပေးပို့ထားသည်</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="other">မီဒီယာဖိုင် %1$d ခုအထိသာ ရွေးချယ်နိုင်သည်</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="other">တောင်းဆိုမှု %d ခု</item>
+    </plurals>
+    <plurals name="iz">
+        <item quantity="other">နောက်ထပ် ဗီဒီယို %d ခု ပို့နိုင်သည်</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="other">သီချင်းများကို အသစ်အဖြစ် ရွေးချယ်ခြင်းမှဖြုတ်မလား။</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="other">သီချင်း %d ပုဒ်ကို အသစ်အဖြစ် ရွေးချယ်ခြင်းမှဖြုတ်ထားသည်</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="other">ထွက်ရှိသော %d ပုဒ်</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="other">အနုပညာရှင် %d ဦး</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="other">အပြန်အလှန် ဆက်သွယ်မှု %d ခု</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="other">အပြန်အလှန် ဆက်သွယ်မှု %d ခု</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="other">ယခု သင်သည် %d မိနစ်အထိ ရှည်သော ဗီဒီယိုများကို အပ်လုဒ်တင်နိုင်ပြီ။</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="other">%d မိနစ်စာ ဗီဒီယိုကို မိတ်ဆက်ခြင်း</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="other">အပြန်အလှန် ဆက်သွယ်သူ %d ယောက်</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="other">မှတ်ချက် %d ခု</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="other">မှတ်ချက် %d ခုလုံးကို ကြည့်ရန်</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="other">{nickname} နှင့် အခြား {number_1} ဦး</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="other">မိတ်ဆွေ {number} ဦးက ယနေ့အတွက် Now ကို ပို့စ်တင်ခဲ့သည်</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="other">%1$s နှင့် အခြား %2$d ဦးက ၎င်းတို့၏ Now ကို ပို့စ်တင်ထားသည်</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="other">{nickname} နှင့် အခြား {number_1} ဦး</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="other">TikTok Now တွင် သင့်မိတ်ဆွေ {number} ဦးနှင့်အတူ ပါဝင်ပြီး ကျပန်းအခိုက်အတန့်များကို မျှဝေပါ</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="other">နောက်ထပ် {number} မိနစ်အကြာတွင် သင့် Now ကို ပို့စ်တင်ပါ</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="other">Now တစ်ခု ပို့စ်တင်ရန် %d မိနစ်ကျန်သည်။</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="other">ဘုံမိတ်ဆွေ %d ဦး</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="other">လိုက်ခ် %d ခု</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="other">{1}၊ {2}၊ {3} နှင့် အခြား {number} ဦးက ယခုလေးတင် Now တစ်ခု ပို့စ်တင်လိုက်သည်။</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="other">တုံ့ပြန်ချက် %d ခု</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="other">ကြည့်ရှုသူ %d ဦး</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="other">ကြည့်ရှုသူ %d ဦး</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="other">%1$s နှင့် အခြား %2$s ဦး</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="other">Lemon8 မှ ဆင့်ခ်လုပ်ထားသည့် သင့်ပို့စ်များတွင် အသံ မရှိသေးပါ။ သင့်ပို့စ်များကို ကြည့်ရှုသူများ ပိုမိုစိတ်ဝင်စားလာစေရန် အသံ ထည့်ပါ။</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="other">သင့်ပို့စ်များကို အဆင့်မြှင့်ရန် အသံ ထည့်ပါ</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="other">သင့်ဓာတ်ပုံကို လိုက်ခ်ပေးထားသည်။</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="other">သင့်ဓာတ်ပုံအတွက် မဲပေးထားသည်။</item>
+    </plurals>
+    <plurals name="jt">
+        <item quantity="other">ဗီဒီယို (%s) ခု ထည့်ပါ</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="other">အပိုင်း %d</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="other">အပိုင်း %d ပိုင်း</item>
+    </plurals>
+    <plurals name="jw">
+        <item quantity="other">ဗီဒီယို (%s) ခု ဖယ်ရှားပါ</item>
+    </plurals>
+    <plurals name="jx">
+        <item quantity="other">ကြည့်သူ %s ဦး</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="other">၎င်းကို နောက်ထပ် %d ကြိမ် ပို့နိုင်သည်</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="other">ကြည့်ရှုသူ %d ဦးက တောင်းဆိုထားသည်</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="other">ဝင်ရောက်သုံးစွဲခွင့်ကို %s ရက်အကြာတွင် ပြန်ပေးပါမည်</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="other">ထိပ်တန်း နံပါတ် 1 ကြည့်ရှုသူထံမှ အကြွေစေ့ %s စေ့</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="other">ထိပ်တန်း နံပါတ် 2 ကြည့်ရှုသူထံမှ အကြွေစေ့ %s စေ့</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="other">ဖော်လိုလုပ်သူ %s ဦး</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="other">ရနိုင်သော ပစ္စည်း {number} ခုကို စျေးဝယ်ပါ</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="other">ရနိုင်သော ပစ္စည်း {number} ခုကို စျေးဝယ်ပါ</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="other">အကြွေစေ့ %s စေ့ကို LIVE ဖန်တီးသူထံ ပေးခဲ့သည်</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="other">လိုက်ခ် %s ခု</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="other">ကြည့်ရှုသူ %s ဦး</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="other">မျှဝေမှု %s ခု။ ဗီဒီယို မျှဝေရန်</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="other">%1$s ဦး မဲပေးခဲ့သည် %2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="other">%1$s က %2$s ကို မဲပေးခဲ့သည်၊ %3$s က %4$s ကို မဲပေးခဲ့သည်</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="other">%d မိနစ်အကြာတွင်</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="other">အဆင့်တက်ရန် နောက်ထပ် သုံးစွဲမှုပွိုင့် %d ပွိုင့် လိုသည်</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="other">သင့်ဆုများသည် %d ရက်အကြာတွင် ခေတ္တရပ်သွားပါမည်</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="other">LIVE ကို အဆုံးသတ်မလား။ ကြည့်ရှုသူ %s ယောက် လက်ရှိကြည့်နေသည်။</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="other">LIVE ကို အဆုံးသတ်မလား။ ကြည့်ရှုသူ %s ယောက် လက်ရှိကြည့်နေသည်။</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="other">မက်ဆေ့ချ်အသစ် %s ခု</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="other">{num} ရက်ဆက်တိုက် ပူးတွဲထုတ်လွှင့်ထားသည်</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="other">အကြွေစေ့ {number} ခုလိုနေသည်</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="other">လွန်ခဲ့သော {number} ရက်အတွင်း သင်၏အမြင့်ဆုံးပမာဏ- အကြွေစေ့ {amount} စေ့</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="other">အကြံပြုထား- အကြွေစေ့ {amount} စေ့</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="other">သင့်တွင် ယခု အကြွေစေ့ {number} ခု ရှိသည်။ နောက်ထပ် အကြွေစေ့များရရှိရန် ငွေပြန်ဖြည့်နိုင်သည်။</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="other">အဖြေမှန် (%d ခု)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="other">အဖြေမှန် ခန့်မှန်းချက် %s ခု</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="other">ကြည့်ရှုသူ %s ဦးရဲ့ အဖြေမှန်ပါတယ် ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="other">ကြည့်ရှုသူ အများစုက စကားလုံး %s ကို မှန်အောင်ဖြေနိုင်ခဲ့ပါတယ်</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="other">စကားလုံးများကို ခန့်မှန်းသည့် ကြည့်ရှုသူ မရှိပါ</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="other">စာလုံးတစ်လုံးဆွဲရန် %s မိနစ်</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="other">�� ကြည့်ရှုသူ %d ဦးက %s ကို ခန့်မှန်းခဲ့သည်</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="other">ကျွန်ုပ် စကားလုံး %s လုံးကို မှန်အောင်ဖြေနိုင်ခဲ့တယ်။</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="other">သင် စကားလုံး %s လုံးကို မှန်အောင်ဖြေနိုင်ခဲ့တယ်</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="other">{0:string} နှင့် အခြားဈေးဝယ်သူ {1:string} ဦးက ဝယ်ယူနေကြသည်</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="other">ပုံ %d ပုံ သေးလွန်းနေသည်။ ပုံများသည် အနည်းဆုံး 256 x 256 ပစ်ဇယ် ရှိရမည်။</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="other">ကြည့်ရှုသူ %d ဦး</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="other">သင့်တွင် အကြွေစေ့ %d စေ့ရှိသည်။</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="other">သင်သည် ဤလက်ဆောင်ကို ပို့ရန် %@ ကို အကြွေစေ့ %d စေ့နှင့် လဲလှယ်နိုင်သည်။</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="other">LIVE လက်ဆောင်များမှ လက်ကျန်ကို အကြွေစေ့ {{num}} ခုနှင့် လဲလှယ်ထားသည်</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="other">သင့်တွင် အကြွေစေ့ %1$d ခု လိုနေသည်။ %2$s ကို အကြွေစေ့များနှင့် လဲလှယ်ပြီး %3$s ကို ပို့မလား။</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="other">သင် အကြွေစေ့ %d စေ့နှင့် လဲလှယ်ခဲ့ပြီး %s ကို ပို့ခဲ့သည်</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="other">အဖွဲ့ဝင် %s ဦး</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="other">သင်နှင့်အတူ {num} ရက်ကြာ ရှိပါပြီ</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="other">{num} နာရီအကြာတွင် အဖွဲ့ဝင်ပွိုင့် 1 ပွိုင့် ရယူ၍ ဆက်လက်အသုံးပြုပါ</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="other">အကြွေစေ့ %1$d စေ့ သုံး၍ ၎င်းကို နောက်ထပ် %2$d ကြိမ် ပို့နိုင်သည်။</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="other">ဖော်လိုလုပ်သူ %d ယောက် ယခုရှိသည်</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="other">သင့်မိတ်ဆွေ {number} ဦး LIVE လွှင့်နေသည်။ အတူ LIVE လွှင့်ရန် ၎င်းတို့ကို ဖိတ်ခေါ်ပါ။</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="other">ပြန်ဖြည့်ပြီး အပိုအကြွေစေ့ {num} စေ့ကို လော့ခ်ဖွင့်ပါ</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="other">{num} ရက်</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="other">အကြွေစေ့ {num} စေ့ကို လော့ခ်ဖွင့်ပါ</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="other">အကြွေစေ့ {num} စေ့</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="other">သင်သည် အပိုအကြွေစေ့ {num} စေ့ကို လော့ခ်ဖွင့်ပါမည်။</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="other">နောက်ထပ်အကြွေစေ့ {num_1} စေ့ ပြန်ဖြည့်ပါ။</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="other">အပိုအကြွေစေ့ {num} စေ့ကို လော့ခ်ဖွင့်ရန် ပြန်ဖြည့်ပါ</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="other">လွန်ခဲ့သော {number} ရက်</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="other">{gameName} နှင့် အခြား {number} ခု၏ ဈေးနှုန်း ပြောင်းသွားပါပြီ။ ပူးပေါင်းဆောင်ရွက်မှု စင်တာတွင် ပိုမိုကြည့်ရှုပါ။</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="other">အစီအစဉ် စည်းမျဉ်းများကို ချိုးဖောက်သည့်အတွက် သင့် LIVE တွင် လက်ဆောင်ပေးခြင်းကို %s ရက်ကြာ ယာယီပိတ်ထားသည်။</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="other">ဤ LIVE တွင် လက်ဆောင်ပေးခြင်းကို ယာယီပိတ်ထားပြီး %s မိနစ်အကြာတွင် မူလအတိုင်းပြန်ထားပါမည်။</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="other">လက်ဆောင်ပေးခြင်းကို {0} ရက်ကြာ ယာယီပိတ်ထားသည်။</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="other">လက်ဆောင်ပေးခြင်းကို %s ရက်ကြာ ယာယီပိတ်ထားသည်</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="other">အကြွေစေ့ %d စေ့အတွက် ပေးပို့မည်</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="other">ပြန်ဖြည့်မှု ပြီးသွားပြီဖြစ်ကာ ယခု သင့်တွင် အကြွေစေ့ %d စေ့ရှိသည်။ သင်၏အားပေးမှုကို ပြသရန် ဤလက်ဆောင်ကို ပို့လိုက်ပါ။</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="other">လဲလှယ်မှု ပြီးသွားပြီဖြစ်ကာ ယခု သင့်တွင် အကြွေစေ့ %d စေ့ရှိသည်။ သင်၏အားပေးမှုကို ပြသရန် ဤလက်ဆောင်ကို ပို့လိုက်ပါ။</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="other">{0:user} သည် ၎င်း ပထမဆုံးပို့သော လက်ဆောင်ဖြစ်သည့် {1:gift} ({2:string} ပွိုင့်) {3:string} ကို ပို့လိုက်သည်။ သင့်ကျေးဇူးတင်မှုကို ဖော်ပြပါ။</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="other">{0:user} သည် {1:gift} ({2:string} ပွိုင့်) {3:string} ပို့လိုက်သည်</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="other">{0:user} သည် {1:gift} ({2:string} ပွိုင့်) {3:string} ပို့လိုက်သည်</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="other">{0:user} သည် {1:gift} ({2:string} ပွိုင့်) {3:string} ကို ပို့ပြီး ဤခရီးစဉ်တွင် ဖန်တီးရှင်နှင့်အတူ {4:city} သို့ ပထမဆုံးအကြိမ် သွားခဲ့သည်။</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="other">လက်ဆောင်အသေးစိတ် (စုစုပေါင်း ငွေလွှဲပြောင်းမှု {{num}} ခု)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="other">အကြွေစေ့ {amount} စေ့</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="other">လက်ဆောင်များ</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="other">အကြွေစေ့ %d စေ့</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="other">သင် လက်ဆောင် %s ခု ရထားသည်။ ကျေးဇူးတင်စကားပြောရန် မမေ့ပါနှင့်။</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="other">သင်သည် လက်ဆောင် %s ခု ရရှိထားသည်</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="other">အကြွေစေ့ %s ခုနှင့် အပြီးသတ် လဲလှယ်မလား။</item>
+    </plurals>
+    <plurals name="lz">
+        <item quantity="other">အကြွေစေ့ %d ခုနှင့် အပြီးသတ် လဲလှယ်မလား။</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="other">LIVE လွှင့်ရန် (%d စက္ကန့်)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="other">ဧည့်သည် %s ဦး တောင်းဆိုချက်</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="other">တောင်းဆိုချက် %s ခု</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="other">%s ပွိုင့်</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="other">%2$s သို့ ရောက်ရှိရန် %1$s ပွိုင့်</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="other">ကြည့်ရှုသူ %d ဦးက တောင်းဆိုနေသည်</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="other">သင်သည် ဧည့်သည်အဖြစ် တိုက်ရိုက် ထုတ်လွှင့်ခြင်းကို နောက်ထပ် %d ရက်အထိ ဆိုင်းငံ့ခံထားရသည်</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="other">သင်သည် ဧည့်သည်အဖြစ် တိုက်ရိုက် ထုတ်လွှင့်ခြင်းကို နောက်ထပ် %d နာရီအထိ ဆိုင်းငံ့ခံထားရသည်</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="other">သင်သည် ဧည့်သည်အဖြစ် တိုက်ရိုက် ထုတ်လွှင့်ခြင်းကို နောက်ထပ် %d မိနစ်အထိ ဆိုင်းငံ့ခံထားရသည်</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="other">သင်သည် ဧည့်သည်အဖြစ် တိုက်ရိုက် ထုတ်လွှင့်ခြင်းကို နောက်ထပ် %d စက္ကန့်အထိ ဆိုင်းငံ့ခံထားရသည်</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="other">ကိရိယာ</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="other">[username] နှင့် ဖော်လိုလုပ်သူ [number] ဦးက သင့်ကို LIVE လွှင့်ရန် တိုက်တွန်းခဲ့သည်</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="other">[username] နှင့် ဖော်လိုလုပ်သူ [number] ဦးက မကြာသေးမီက သင့်ကို LIVE လွှင့်ရန် တိုက်တွန်းခဲ့သည်</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="other">သင်သည် ဖိတ်ကြားချက်ကို လက်မခံပါက ဤ LIVE ဖန်တီးသူများသည် သင့်လက်ရှိ ပူးတွဲ ထုတ်လွှင့်သူနှင့် ပူးပေါင်းမည်။</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="other">{number} ရက်</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="other">နောက်အဆင့်တွင် သင်စာမျက်နှာမှ ထွက်လိုက်သည်နှင့် သင့်ကူပွန်ကို {number} ရက် အကြာတွင်သာ ထပ်မံ သုံးနိုင်ပါမည်။</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="other">နောက်အဆင့်တွင် သင်စာမျက်နှာမှ ထွက်လိုက်သည်နှင့် သင့်ကူပွန်ကို {number} နာရီ အကြာတွင်သာ ထပ်မံ သုံးနိုင်ပါမည်။</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="other">နောက်အဆင့်တွင် သင်စာမျက်နှာမှ ထွက်လိုက်သည်နှင့် သင့်ကူပွန်ကို {number} မိနစ် အကြာတွင်သာ ထပ်မံ သုံးနိုင်ပါမည်။</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="other">ကူပွန်ကို {number} ရက်အကြာတွင် ထပ်မံရနိုင်ပါမည်</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="other">ကူပွန်ကို {number} နာရီအကြာတွင် ထပ်မံရနိုင်ပါမည်</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="other">ကူပွန်ကို {number} မိနစ်အကြာတွင် ထပ်မံရနိုင်ပါမည်</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="other">လိုက်ခ် %s ခု</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="other">လိုက်ခ်</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="other">လိုက်ခ် %s ခု</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="other">%d စက္ကန့်</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="other">သင်၏ LIVE လွှင့်ခွင့် လျှောက်လွှာကို ခွင့်မပြုခဲ့ပါ။ %d ရက်အကြာတွင် ထပ်မံလျှောက်ထားနိုင်သည်။</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="other">သင်သည် LIVE လွှင့်ခွင့်ကို လျှောက်ထားခဲ့သဖြင့် နောက် 7 ရက်ကြာ LIVE လွှင့်နိုင်သည်။ အသိုင်းအဝိုင်း လမ်းညွှန်ချက်များကို သေချာ လိုက်နာကာ ပထမအပတ်တွင် %d နာရီကြာ LIVE လွှင့်ပြီး အမြဲသုံးခွင့်ကို ရယူပါ။</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="other">အမြဲ LIVE လွှင့်ခွင့်ရစေရန် %s ဖြင့် နောက်ထပ် %d နာရီကြာ LIVE လွှင့်ပါ</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="other">အမြဲ LIVE လွှင့်ခွင့်ရစေရန် %2$s ဖြင့် နောက်ထပ် %1$s နာရီကြာ LIVE လွှင့်ပါ</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="other">%s ပွိုင့်</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="other">{%s ထုတ်လွှင့်သူ၏ အသုံးပြုသူအမည်} သည် ယခုတစ်ပတ်အတွက် နံပါတ် {%n} LIVE ဖန်တီးသူ ဖြစ်လာရန် အကြွေစေ့ {%d} စေ့ လိုနေသည်။</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="other">1 ရက်သာကျန်သည်။ နံပါတ် 3 LIVE ဖန်တီးသူတစ်ဦးဖြစ်လာရန်နှင့် သင့်ဗီဒီယိုတွင် သီးသန့်တံဆိပ်တစ်ခု ရရှိရန် နောက်ထပ် ဒိုင်းမွန်း {%d} ခုကို ရယူပါ။</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="other">1 ရက်သာကျန်သည်။ သင့် LIVE ကို အလားအလာရှိသော ကြည့်ရှုသူများထံ ပိုမိုရောက်ရှိစေရန် နောက်ထပ် ဒိုင်းမွန်း {%d} ခုကို ရယူပါ။</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="other">1 ရက်သာကျန်သည်။ LIVE ဖန်တီးသူများအတွက် သီးခြားဆုများရရှိရန် နောက်ထပ် ဒိုင်းမွန်း {%d} ခု ရယူပါ။</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="other">ယခု ဖော်လိုလုပ်သူ %s ဦး လိုင်းသုံးနေသည်</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="other">အကြွေစေ့ %s ခု လိုသည်</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="other">လစဉ်ကြေးသွင်း၍ မှာယူသူ %d ဦး ကြည့်နေသည်</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="other">3 မိနစ်သာကျန်သည်။ နံပါတ် 3 အဆင့် LIVE ဖန်တီးသူတစ်ဦးဖြစ်လာရန်နှင့် သီးသန့်တံဆိပ်တစ်ခု ရရှိရန် နောက်ထပ် ဒိုင်းမွန်း {%d} ခုကို ရယူပါ။</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="other">3 မိနစ်သာကျန်သည်။ သင့် LIVE ကို အလားအလာရှိသော ကြည့်ရှုသူများထံ ပိုမိုရောက်ရှိစေရန် နောက်ထပ် ဒိုင်းမွန်း {%d} ခုကို ရယူပါ။</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="other">3 မိနစ်သာကျန်သည်။ LIVE ဖန်တီးသူများအတွက် သီးခြားဆုများရရှိရန် နောက်ထပ် ဒိုင်းမွန်း {%d} ခု ရယူပါ။</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="other">%s နာရီ %d မိနစ်</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="other">ဒိုင်းမွန်းများ</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="other">ကြည့်ရှုရန်</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="other">%s မိနစ်ကြာပြီးသွားလျှင် မေးခွန်းများကို ဖြေ၍ မရတော့ပါ</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="other">%s နာရီ အကြာက</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="other">%s မိနစ် အကြာက</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="other">%s ကို 10 မိနစ်အကြာတွင် စတင်ရန် စီစဉ်ထားသည်။ ကြည့်ရှုသူ %d ယောက်သည် သင့်ပွဲစဉ်ကို ကြည့်ပြီးပါပြီ။ သင့်ပရိုမိုးရှင်းမှ အကောင်းဆုံးအကျိုးအမြတ်ရရှိရန် ယခု LIVE လွှင့်ပါ။</item>
+    </plurals>
+    <plurals name="nh">
+        <item quantity="other">သင့်ပွဲစဉ်ကို သုံးစွဲသူ %d ယောက် ကြည့်ထားသည်။ LIVE လွှင့်ရန် အဆင်သင့်ဖြစ်ပါပြီ။</item>
+    </plurals>
+    <plurals name="ni">
+        <item quantity="other">သုံးစွဲသူ {numberofviews} ယောက်သည် သင့်ပွဲစဉ်ကို ကြည့်ပြီးပြီ။ LIVE လွှင့်ရန် အသင့်ပြင်ပါ။</item>
+    </plurals>
+    <plurals name="nj">
+        <item quantity="other">သုံးစွဲသူ %d ယောက်သည် သင့်ပွဲစဉ်ကို ကြည့်ပြီးပါပြီ။ အချိန်မီ LIVE လွှင့်ရန် မမေ့ပါနှင့်။</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="other">ကျူတိုရီရယ် လုပ်ဆောင်မှု %s ခုကို ကြည့်ရှုရန်</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="other">လက်ဆောင်ပေးသူများထံမှ ဦးစားပေး တောင်းဆိုချက် %d ခု</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="other">အကြွေစေ့ %d စေ့</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="other">၎င်းသည် အကြွေစေ့ %d စေ့ ကျသင့်မည်။</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="other">သင်သည် အကြွေစေ့ %d စေ့ ပို့ထားသည်။ %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="other">LIVE ဖန်တီးသူသည် စုစုပေါင်းအကြွေစေ့ %d စေ့အထက် ပို့သည့်သူများထံမှ တောင်းဆိုချက်များကို ဦးစားပေးနိုင်သည်။</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="other">LIVE ဖန်တီးသူသည် စုစုပေါင်းအကြွေစေ့ %d စေ့အထက် ပို့သော သင်နှင့် အခြားသူများထံမှ တောင်းဆိုချက်များကို ဦးစားပေးနိုင်သည်။</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="other">၎င်းသည် အကြွေစေ့ %d စေ့ ကျသင့်မည်။</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="other">သင်သည် %1$s ကို %2$s စက္ကန့်အကြာတွင် ၎င်း၏ကင်မရာကို ထပ်ဖွင့်ရန် ဖိတ်ခေါ်နိုင်ပါသည်</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="other">သင်သည် %1$s ကို %2$s စက္ကန့်အကြာတွင် ၎င်း၏မိုက်ခရိုဖုန်းကို ထပ်ဖွင့်ရန် ဖိတ်ခေါ်နိုင်ပါသည်</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="other">%d မိနစ်</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="other">%d စက္ကန့်</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="other">%d မိနစ်</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="other">%d စက္ကန့်</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="other">အဆင့် 1 ပြီးမြောက်ရန် အလုပ် %s ခု</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="other">အဆင့် 2 ပြီးမြောက်ရန် အလုပ် %s ခု</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="other">သင်သည် စိတ်ကြိုက်သတ်မှတ်ထားသော ခံစားခွင့်ကို အများဆုံး %s ခု ဖန်တီးနိုင်သည်။ စိတ်ကြိုက်သတ်မှတ်ထားသော ခံစားခွင့်ကို ဖျက်ပြီး အသစ်တစ်ခု ဖန်တီးပါ။</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="other">%s စက္ကန့်အကြာတွင် စစ်တမ်းအဆုံးသတ်မည်</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="other">ယခုမဲပေးရန် (%s စက္ကန့်) -</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="other">သင်သည် ယနေ့ အကြွေစေ့ %d ခု သုံးထားသည်။</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="other">လက်ဆောင်ကို ဖြည်းဖြည်းချင်း ပေး၍ %d မိနစ်ကြာမှ ထပ်မံကြိုးစားပါ။</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="other">{0:user} ၏ ပေါ်တယ်ကို ပိတ်လိုက်ပါပြီ။ ကြည့်ရှုသူ {1:string} ဦးသည် ပေါ်တယ်မှတစ်ဆင့် ပါဝင်ခဲ့သည်။</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="other">{0:user} ၏ ပေါ်တယ်ကို ပိတ်လိုက်ပါပြီ။ ကြည့်ရှုသူ {1:string} ဦးသည် ပေါ်တယ်မှတစ်ဆင့် ပါဝင်ခဲ့သည်။ တော်ပါတယ်။ ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="other">{0:user} ၏ ပေါ်တယ်ကို ပိတ်လိုက်ပါပြီ။ ကြည့်ရှုသူ {1:string} ဦးသည် ပေါ်တယ်မှတစ်ဆင့် ပါဝင်ခဲ့သည်။ အရမ်းတော်ပါတယ်။ ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="other">ကြည့်ရှုသူ %s ဦး</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="other">ဒက်ခ်စတော့ ဝက်ဘ်တွင် အကြွေစေ့ {{num}} ခု ဝယ်ယူထားသည်</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="other">အက်ပ်ထဲတွင် အကြွေစေ့ {{num}} ခု ဝယ်ယူထားသည်</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="other">မိုဘိုင်းဝက်ဘ်တွင် အကြွေစေ့ {{num}} ခု ဝယ်ယူထားသည်</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="other">သင့်မေတ္တာရပ်ခံချက်ကို သုံးသပ်ပြီးနောက် သင်၏ ပြန်လည်ရုပ်သိမ်းမှု ကာလကိုပြင်ဆင်လိုက်သည်။ PC သို့မဟုတ် Mac ဖြင့် သင်၏ LIVE လွှင့်ခွင့်ကို %s ရက်အကြာတွင် ပြန်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="other">အသိုင်းအဝိုင်းလမ်းညွှန်ချက်များကို ကြိမ်ဖန်များစွာ ချိုးဖောက်မှုများကြောင့် PC သို့မဟုတ် Mac ဖြင့် သင်၏ LIVE လွှင့်ခွင့်ကို %s ရက်ကြာ ယာယီပိတ်ထားသည်။</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="other">ကျွန်ုပ်တို့သည် သင်၏ မေတ္တာရပ်ခံချက်ကို သုံးသပ်ခဲ့ပြီး သင်၏ ရတနာသေတ္တာ ဝင်ရောက်သုံးစွဲခွင့် ပြန်ရုပ်သိမ်းမှုကာလကို %s ရက်သို့ ပြင်ဆင်လိုက်သည်။</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="other">အသိုင်းအဝိုင်းလမ်းညွှန်ချက်များကို ကြိမ်ဖန်များစွာ ချိုးဖောက်မှုများကြောင့် သင်၏ ရတနာသေတ္တာ အသုံးပြုခွင့်ကို %s ရက်ကြာ ယာယီပိတ်ထားသည်။</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="other">သင်သည် ပြီးခဲ့သော ရက် 30 အတွင်း ဒိုင်းမွန်း %s ခုကျော် ရရှိထားသည်။ အပတ်စဉ် အဆင့်တွင် ပါဝင်ရန် ကောင်းကောင်းဆက်လုပ်ပါ။</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="other">ဤအဆင့်သတ်မှတ်ချက်တွင် လွန်ခဲ့သော ရက် 30 အတွင်း ဒိုင်းမွန်း {0:string} ခုအောက် ရရှိသော LIVE ဖန်တီးသူများကို ပြသထားသည်။</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="other">လက်ဆောင်ပေးခြင်းကို %s ရက်ကြာ ယာယီပိတ်ထားသည်</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="other">သင့်တွင် ယခု အကြွေစေ့ {number_1} ခု ရှိသည်။ ပစ္စည်းပို့ရန် အကြွေစေ့ {number_2} ခု ({amount}) ကို ပြန်ဖြည့်နိုင်သည်။</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="other">အကြွေစေ့ %s စေ့ လိုနေသည်</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="other">သင် ဖိတ်ကြားချက်လင့်ခ် {number} ခု ရထားသည်</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="other">%s ထံမှ သင်၏ စာရင်းသွင်းမှု ဖိတ်ကြားချက်ကို ဖွင့်ပါ</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="other">တောင်းဆိုထားချိန်- လွန်ခဲ့သော %d မိနစ်က</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="other">လက်ဆောင်ပေးခြင်းကို %s ရက်ကြာ ယာယီပိတ်ထားသည်</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="other">ဝင်ရောက်သုံးစွဲခွင့်ကို %s ရက်အကြာတွင် ပြန်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="other">သင့်မေတ္တာရပ်ခံချက်ကို သုံးသပ်ပြီးနောက် သင်၏ ပြန်လည်ရုပ်သိမ်းမှု ကာလကိုပြင်ဆင်လိုက်သည်။ သင်၏ LIVE Studio သုံးစွဲခွင့်ကို %s ရက်အကြာတွင် ပြန်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="other">သင့်မေတ္တာရပ်ခံချက်ကို သုံးသပ်ပြီးနောက် သင်၏ ပြန်လည်ရုပ်သိမ်းမှု ကာလကိုပြင်ဆင်လိုက်သည်။ သင်၏ မိုဘိုင်းဂိမ်းကစားခွင့်ကို %s ရက်အကြာတွင် ပြန်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="other">သင့်မေတ္တာရပ်ခံချက်ကို သုံးသပ်ပြီးနောက် သင်၏ ပြန်လည်ရုပ်သိမ်းမှု ကာလကိုပြင်ဆင်လိုက်သည်။ PC သို့မဟုတ် Mac ဖြင့် သင်၏ LIVE လွှင့်ခွင့်ကို %s ရက်အကြာတွင် ပြန်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="other">ကျွန်ုပ်တို့၏ LIVE စည်းမျဉ်းများ သို့မဟုတ် အသိုင်းအဝိုင်းလမ်းညွှန်ချက်များကို အကြိမ်ကြိမ် ချိုးဖောက်မှုများကြောင့် သင်၏ LIVE စတူဒီယို သုံးစွဲခွင့်ကို %s ရက်ကြာ ယာယီပိတ်ထားလိုက်သည်။</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="other">ကျွန်ုပ်တို့၏ LIVE စည်းမျဉ်းများ သို့မဟုတ် အသိုင်းအဝိုင်းလမ်းညွှန်ချက်များကို အကြိမ်ကြိမ် ချိုးဖောက်မှုများကြောင့် သင်၏မိုဘိုင်းဂိမ်းကစားခွင့်ကို %s ရက်ကြာ ယာယီပိတ်ထားလိုက်သည်။</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="other">ကျွန်ုပ်တို့၏ LIVE စည်းမျဉ်းများ သို့မဟုတ် အသိုင်းအဝိုင်းလမ်းညွှန်ချက်များကို အကြိမ်ကြိမ် ချိုးဖောက်မှုများကြောင့် PC သို့မဟုတ် Mac ဖြင့် သင်၏ LIVE လွှင့်ခွင့်ကို %s ရက်ကြာ ယာယီပိတ်ထားလိုက်သည်။</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="other">ပစ်မှတ်- လက်ဆောင်ပေးသူ {&lt;num&gt;} ဦး</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="other">ပစ်မှတ်- လက်ဆောင်ပွိုင့် {&lt;num&gt;} ပွိုင့်</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="other">ပစ်မှတ်- အဖွဲ့လက်ဆောင်ပေးသူ {&lt;num&gt;} ဦး</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="other">ပစ်မှတ်- အဖွဲ့လက်ဆောင်ပွိုင့် {&lt;num&gt;} ပွိုင့်</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="other">ပြိုင်ပွဲပွိုင့် &lt;num&gt; ပွိုင့်အထက်</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="other">ကြည့်ရှုသူ %s ဦးက သင့်မှတ်ချက်ကို ထိပ်ဆုံးတွင် မြင်ရပါမည်</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="other">သင်၏ ကြယ် မှတ်ချက်ကို LIVE အတွင်း ဖျက်ခဲ့၍ သင်သည် 24 နာရီအတွင်း ဤမှတ်ချက်အတွက် ပြန်အမ်းငွေအဖြစ် အကြွေစေ့ [0:string] စေ့ကို ရရှိပါမည်။</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="other">တန်းစီစာရင်းရှိ ကြယ် မှတ်ချက် %s ခု</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="other">သင်၏ ကြယ် မှတ်ချက်များကို မကြာသေးမီက ဖျက်ခဲ့သည်။ {num} နာရီအကြာတွင် ထပ်မံကြိုးစားပါ။</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="other">သင်၏ ကြယ် မှတ်ချက်များကို မကြာသေးမီက ဖျက်ခဲ့သည်။ {num} မိနစ်အကြာတွင် ထပ်မံကြိုးစားပါ။</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="other">%s ရက် အကြာတွင် ပြီးဆုံးပါမည်</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="other">ကြည့်ရှုသူ %1$s ဦး ကြည့်နေသည်။ လစဉ်ကြေးသွင်း၍ မှာယူသူ-သီးသန့် LIVE ကို ယခု စတင်ပါက လစဉ်ကြေးသွင်း၍ မှာယူသူအသစ် %2$s ဦးကို သင် ရရှိနိုင်သည်။</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="other">လစဉ်ကြေးသွင်း၍ မှာယူသူ %s ဦး ကြည့်နေသည်။ ဤအချိန်သည် လစဉ်ကြေးသွင်း၍ မှာယူသူ-သီးသန့် LIVE ကို အသုံးပြု၍ သင်နှင့် သင့်အသိုင်းအဝိုင်းတို့ ပိုမိုရင်းနှီးစွာ ဆက်သွယ်နိုင်ရန် အချိန်ကောင်းဖြစ်သည်။</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="other">လစဉ်ကြေးသွင်း၍ မှာယူသူ-သီးသန့် LIVE ကို လတိုင်း %2$s မိနစ်လွှင့်ပြီး လစဉ်ကြေးသွင်း၍ မှာယူသူအသစ် %1$s ဦးကို သင် ရနိုင်သည်။</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="other">သင်သည် မှတ်ချက်တွင် အီမိုဂျီ %s ခုအထိ ထည့်နိုင်သည်</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="other">%1$s ၏ စိတ်ကြိုက် ရုပ်ပြောင်ပုံ %2$s ခု အသုံးပြုရန် လစဉ်ကြေးသွင်း၍ မှာပါ</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="other">ဖော်လိုလုပ်သူ {number} ဦးအောက် ရှိသည်</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="other">ဖော်လိုလုပ်သူ {number} ဦးအောက်သာရှိသော ဖန်တီးရှင်များကို ဖိတ်ခေါ်၍မရပါ</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="other">နံပါတ် {number2} သို့ ရောက်ရှိရန် နောက်ထပ် ဖန်တီးရှင် {number1} ယောက်ကို ဖိတ်ကြားပါ။ ဆက်ကြိုးစားပါ။</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="other">နံပါတ် {rankminusone} သို့ ရောက်ရှိရန် နောက်ထပ် ဖန်တီးရှင် {number} ယောက်ကို ဖိတ်ကြားပါ။ ဆက်ကြိုးစားပါ။</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="other">ဖော်လိုလုပ်သူ {number} ဦးကျော်ရှိသော ဖန်တီးရှင်များကိုသာ ဖိတ်ခေါ်နိုင်သည်။</item>
+    </plurals>
+    <plurals name="po">
+        <item quantity="other">ရုပ်ပြောင်ပုံ {num} ခုကို ခွင့်မပြုပါ</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="other">သင့်လက်ရှိ ခံစားခွင့်သည် နောက်ထပ် လစဉ်ကြေးသွင်း၍ မှာယူသူ %d%% ရရှိစေနိုင်သည်။</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="other">%1$s က %2$d-လစာ လစဉ်ကြေးသွင်း၍ မှာယူခြင်းကို ယခုလေးတင် ဝယ်ယူခဲ့သည်။</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="other">%s မိနစ်လျှင် တစ်ကြိမ်သာ ၎င်းကို ဖွင့် သို့မဟုတ် ပိတ်နိုင်သည်။ နောက်မှ ထပ်မံကြိုးစားပါ။</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="other">သင့်တွင် စာရင်းသွင်းလက်ဆောင် {num} ခုရှိသည်။ အခြားသူများထံ ယခုပို့ပါ။</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="other">သင့်တွင် စာရင်းသွင်းလက်ဆောင် %d ခု ကျန်သည်။ အခြားသူများထံ ယခုပို့ပါ။</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="other">ဂုဏ်ယူပါသည်။ သင်သည် အစီအစဉ်ဆုများအဖြစ် လစဉ်ကြေးသွင်း၍ မှာယူခြင်း လက်ဆောင် [number] ခုကို ရရှိထားသည်။</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="other">လွန်ခဲ့သော {num} ရက်က ပူးတွဲထုတ်လွှင့်ထားသည်</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="other">လွန်ခဲ့သော {number} ရက်က သင်နှင့်အတူ LIVE လွှင့်ထားသည်</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="other">လွန်ခဲ့သော {num} ရက်က သင်နှင့်အတူ ထုတ်လွှင့်ထားသည်</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="other">သင်၏ ရတနာသေတ္တာ အသုံးပြုခွင့်ကို ယာယီပိတ်ထားသည်။ အသုံးပြုခွင့်ကို %s ရက်အကြာတွင် ပြန်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="other">ထိပ်တန်း ကြည့်ရှုသူ ထိပ်တန်း ကြည့်ရှုသူများ</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="other">ထိပ်တန်း ကြည့်ရှုသူ</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="other">ဗိုလ်လုပွဲသည် %s စက္ကန့်အကြာတွင် စတင်မည်</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="other">ဖိုင်နယ်သည် %s ရက်အကြာတွင် စတင်မည်</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="other">ဗိုလ်လုပွဲသည် %s နာရီအကြာတွင် စတင်မည်</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="other">ဗိုလ်လုပွဲသည် %s မိနစ်အကြာတွင် စတင်မည်</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="other">ဆီမီးဖိုင်နယ်သည် %s ရက်အကြာတွင် စတင်မည်</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="other">အကြိုဗိုလ်လုပွဲသည် %s နာရီအကြာတွင် စတင်မည်</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="other">အကြိုဗိုလ်လုပွဲသည် %s မိနစ်အကြာတွင် စတင်မည်</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="other">အကြိုဗိုလ်လုပွဲသည် %s စက္ကန့်အကြာတွင် စတင်မည်</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="other">နံပါတ် {1:string} သို့ ရောက်ရှိရန် နောက်ထပ်ဒိုင်းမွန်း {0:string} ခုလိုသည်</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="other">နံပါတ် {1:string} သို့ ရောက်ရှိရန် နောက်ထပ် လက်ဆောင်ပေးသူ {0:string} ဦး လိုသည်</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="other">ရက်</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="other">သင်သည် {amount} ကို အကြွေစေ့ {num} ခုနှင့် လဲလှယ်ထားသည်။</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="other">သင်သည် {amount} ဖြင့် အကြွေစေ့ {num} ခု ဝယ်ယူထားသည်။</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="other">နံပါတ် 2 ထက် အဖွဲ့ပွိုင့် {num} ပွိုင့်အသာဖြင့် ဦးဆောင်နေသည်</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="other">+ အဖွဲ့ပွိုင့် {num} ပွိုင့် (နေ့စဉ် အဖွဲ့လက်ဆောင် %1$s/%2$s ခု)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="other">ကြည့်ရှုသူ %s ဦးက ‌ရှာဖွေမှုမှ ဝင်ရောက်လာခဲ့သည်</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="other">နံပါတ် %2$s ရောက်ရန် အဖွဲ့ပွိုင့် %1$s ပွိုင့် လိုသည်</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="other">နံပါတ် %2$s ရောက်ရန် အဖွဲ့ပွိုင့် %1$s ပွိုင့် လိုသည်</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="other">တစ်ခုခု မှားယွင်းသွားသည်။ {number} နာရီ အကြာတွင် ထပ်မံကြိုးစားပါ</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="other">တစ်ခုခု မှားယွင်းသွားသည်။ {number} မိနစ် အကြာတွင် ပြန်လာပါ</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="other">ကြည့်ရှုသူ ကြည့်ရှုသူများ</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="other">ကြည့်ရှုသူ %d ဦး</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="other">ကြည့်ရှုသူ %s ဦး</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="other">ကြည့်ရှုသူ %s ဦးက လက်ဆောင်များပို့ထားသည်</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="other">ပို့စ်များ (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="other">(သုံးသပ်မှု %s ခု)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="other">ဓာတ်ပုံ %s ပုံ အပ်လုဒ်မလုပ်ထားပါ။ ထပ်မံကြိုးစားပါ။</item>
+    </plurals>
+    <plurals name="qr">
+        <item quantity="other">အကြွေစေ့ %1$d စေ့ = %2$s%3$.2f</item>
+    </plurals>
+    <plurals name="qs">
+        <item quantity="other">%s သည် ၎င်းတို့၏ TikTok ထုတ်ဖော်ကြော်ငြာ ဗီဒီယိုများ၏ ဈေးနှုန်းကို အကြွေစေ့ %s စေ့သို့ အပ်ဒိတ်လုပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="other">အလားတူ အသံ %d ခု</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="other">ပရိုဖိုင် ကြည့်ရှုသူ %d ဦး</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="other">ဖော်လိုလုပ်သူ</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="other">%1$s သည် ဗီဒီယိုအားလုံးတွင် စုစုပေါင်း လိုက်ခ် %2$s ခု ရရှိခဲ့သည်</item>
+    </plurals>
+    <plurals name="qx">
+        <item quantity="other">ဤသုံးစွဲသူ၏ ကိုယ်ရေးလုံခြုံမှု ဆက်တင်များကြောင့် အကောင့် %d ခုကို ဝှက်ထားသည်</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="other">သင့်ပရိုဖိုင်ကို ကြည့်ရှုခဲ့သည်။</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="other">%1$s၊ %2$s နှင့် အခြား %d ဦး</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="other">လူ %s ဦးက သင့်ပရိုဖိုင်ကို ကြည့်ခဲ့သည်။</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="other">{0}၊ {1} နှင့် အခြား {2} ဦးက သင့်ပရိုဖိုင်ကို ကြည့်ခဲ့သည်။</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="other">ကျွန်ုပ်တို့သည် သင့် %1$s နှင့် အခြားစက် %2$s လုံးသို့ အသိပေးချက် ပေးပို့ထားသည်။ TikTok ဖွင့်ထားကြောင်း သေချာအောင် ပြုလုပ်ပြီး ဆက်လက် လော့ဂ်အင် ဝင်ထားရန် အသိပေးချက်တွင် &quot;လုပ်မည်&quot; ကို နှိပ်ပါ။</item>
+    </plurals>
+    <plurals name="r3">
+        <item quantity="other">မေးခွန်း %d ခု မေးထားသည်</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="other">ဗီဒီယို %s ခု</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="other">ဗီဒီယို %d ကား</item>
+    </plurals>
+    <plurals name="r6">
+        <item quantity="other">အဖြေ {number} ခု</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="other">မရှိတော့သော မေးခွန်း %s ခုကို သင်၏ဖိတ်ကြားချက်များထဲမှ ဖယ်ရှားထားသည်</item>
+    </plurals>
+    <plurals name="r8">
+        <item quantity="other">မရှိတော့သည့် မေးခွန်း %$s ခုကို သင့်အကြိုက်ဆုံးများမှ ဖယ်ရှားထားသည်။</item>
+    </plurals>
+    <plurals name="r9">
+        <item quantity="other">မရှိတော့သည့် မေးခွန်း %s ခုကို သင့်အကြိုက်ဆုံးများမှ ဖယ်ရှားထားသည်။</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="other">မက်ဆေ့ချ်အသစ် %s ခု</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="other">တုံ့ပြန်မှု အသစ် %s ခု</item>
+    </plurals>
+    <plurals name="rb">
+        <item quantity="other">{number} ခု အကြံပြုထားသည်</item>
+    </plurals>
+    <plurals name="rc">
+        <item quantity="other">%s ခု အကြံပြုထားသည်</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="other">%d ခု အကြံပြုထားသည်</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="other">%d ခု အကြံပြုထားသည်</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="other">နောက်ထပ်အကြံပြုချက် %d ခု ကြည့်ပါ</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="other">%d စက္ကန့်ထိ ရိုက်ကူးပါ</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="other">မူရင်းဗီဒီယိုမှ အသံကို သုံးပြီး %d စက္ကန့်ထိ ရိုက်ကူးပါ</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="other">မူကြမ်းများ (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="other">ဤအသံများကို မူလအတိုင်းပြန်ထားရန် ရွေးချယ်ပါက သင့်ဗီဒီယိုကို အသံပိတ်ပါမည်။</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="other">မူပိုင်ခွင့်ရှိသည့် အသံများကို မူလအတိုင်းပြန်ထားမလား?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="other">မူပိုင်ခွင့်ရှိသည့် အသံများကို ဖယ်ရှားထားသည်</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="other">အသံများကို ဖယ်ရှားနေသည်</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="other">အသံများ ဖယ်ရှားထားသည်</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="other">အသံများကို အစားထိုးမည်</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="other">မူပိုင်ခွင့်ရှိသည့် အသံများကို ဖယ်ရှားနေသည်...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="other">သင့်ဗီဒီယိုတွင် 1 မိနစ်ကျော်သော မူပိုင်ခွင့်ချိုးဖောက်ထားသည့် အသံများကို ကျွန်ုပ်တို့ တွေ့ရှိထားပြီး ဆက်လုပ်ရန် သင် ရွေးချယ်ပါက ၎င်းကို အသံပိတ်ပါမည်။ အသံများကို အစားထိုးပါ သို့မဟုတ် ဗီဒီယိုကို တိုအောင်လုပ်ပါ။ %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="other">အသံများကို အစားထိုးမည်</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="other">မူပိုင်ခွင့်ရှိသည့် အသံများကို ဖယ်ရှားနေသည်...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="other">သင့်ဗီဒီယိုတွင် မူပိုင်ခွင့်ချိုးဖောက်ထားသည့် အသံများကို ကျွန်ုပ်တို့ တွေ့ရှိထားသည်။ ဆက်လုပ်ရန် ရွေးချယ်ပါက သင့်ဗီဒီယိုကို အသံပိတ်ပါမည် သို့မဟုတ် ယင်းအသံများကို အစားထိုးနိုင်သည်။ %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="other">မူပိုင်ခွင့်ရှိသည့် အသံများ</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="other">မူပိုင်ခွင့် ပိုင်ဆိုင်သူများသည် ဤအသံများကို 1 မိနစ်သာ အသုံးပြုခွင့်ပေးထားသည်။</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="other">မူပိုင်ခွင့် ပိုင်ဆိုင်သူများသည် ဤအသံများကို အသုံးပြုခွင့်မပေးပါ။</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="other">အသံများကို အစားထိုးမည်</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="other">သင့်ဗီဒီယိုတွင် 1 မိနစ်ကျော်သော မူပိုင်ခွင့်ချိုးဖောက်ထားသည့် အသံများကို ကျွန်ုပ်တို့ တွေ့ရှိထားပြီး ဆက်လုပ်ရန် သင် ရွေးချယ်ပါက ၎င်းကို အသံပိတ်ပါမည်။ အသံများကို အစားထိုးပါ သို့မဟုတ် ဗီဒီယိုကို တိုအောင်လုပ်ပါ။ %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="other">အသံများကို အစားထိုးမည်</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="other">သင့်ဗီဒီယိုတွင် မူပိုင်ခွင့်ချိုးဖောက်ထားသည့် အသံများကို ကျွန်ုပ်တို့ တွေ့ရှိထားသည်။ ဆက်လုပ်ရန် ရွေးချယ်ပါက သင့်ဗီဒီယိုကို အသံပိတ်ပါမည် သို့မဟုတ် ယင်းအသံများကို အစားထိုးနိုင်သည်။ %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="other">ဗီဒီယို (%d) ပုဒ် ဖယ်ရှားထားသည်</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="other">ပြန်တင်ပို့စ် %d ခု</item>
+    </plurals>
+    <plurals name="s3">
+        <item quantity="other">{number} ခု ပို့စ်ပြန်တင်ထားသည်</item>
+    </plurals>
+    <plurals name="s4">
+        <item quantity="other">%s ခု ပို့စ်ပြန်တင်ထားသည်</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="other">%d ခု ပို့စ်ပြန်တင်ထားသည်</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="other">%d ခု ပို့စ်ပြန်တင်ထားသည်</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="other">နောက်ထပ် ပြန်တင်သည့်ပို့စ် %d ခုကို ကြည့်ပါ</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="other">%d ရက်</item>
+    </plurals>
+    <plurals name="s9">
+        <item quantity="other">{number} နာရီ {number} မိနစ် သုံးထားသည်</item>
+    </plurals>
+    <plurals name="s_">
+        <item quantity="other">{number} ကြိမ်</item>
+    </plurals>
+    <plurals name="sa">
+        <item quantity="other">{number} ကြိမ် ဖွင့်ထားသည်</item>
+    </plurals>
+    <plurals name="sb">
+        <item quantity="other">သင်သည် ဤအပတ်အတွင်း TikTok တွင် {number} နာရီ ကုန်ဆုံးခဲ့သည် (ယခင်အပတ်ထက် {percent} နည်းသည်)။</item>
+    </plurals>
+    <plurals name="sc">
+        <item quantity="other">သင်သည် ဤအပတ်အတွင်း TikTok တွင် {number} နာရီ ကုန်ဆုံးခဲ့သည် (ယခင်အပတ်ထက် {percent} များသည်)။</item>
+    </plurals>
+    <plurals name="sd">
+        <item quantity="other">သင်သည် ဤအပတ်အတွင်း TikTok တွင် {number} နာရီ ကုန်ဆုံးခဲ့သည် (ယခင်အပတ်ထက် {percent} နည်းသည်)</item>
+    </plurals>
+    <plurals name="se">
+        <item quantity="other">သင်သည် ဤအပတ်အတွင်း TikTok တွင် {number} နာရီ ကုန်ဆုံးခဲ့သည် (ယခင်အပတ်ထက် {percent} များသည်)</item>
+    </plurals>
+    <plurals name="sf">
+        <item quantity="other">သင်သည် ဤအပတ်အတွင်း TikTok တွင် {number} နာရီ ကုန်ဆုံးခဲ့သည် (ယခင်အပတ်ထက် {percent} နည်းသည်)</item>
+    </plurals>
+    <plurals name="sg">
+        <item quantity="other">သင်သည် ဤအပတ်အတွင်း TikTok တွင် {number} နာရီ ကုန်ဆုံးခဲ့သည် (ယခင်အပတ်ထက် {percent} များသည်)</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="other">%2$d ပွိုင့် ရရှိရန် နောက်ထပ်ရှာဖွေမှု %1$d ခု ပြုလုပ်ပါ</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="other">ရှာဖွေမှုရလဒ်များကို %d စက္ကန့်ကြာ ရှာကြည့်ပါ</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="other">%2$d ပွိုင့် ရရှိရန် နောက်ထပ်ရှာဖွေမှု %1$d ခု ပြုလုပ်ပါ။</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="other">ကိုက်ညီသော အသံ %d ခု</item>
+    </plurals>
+    <plurals name="sl">
+        <item quantity="other">ဖော်လိုလုပ်သူ %s ဦး</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="other">%d ရက်အကြာက အပ်ဒိတ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="other">%d နာရီအကြာက အပ်ဒိတ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="other">%d မိနစ်အကြာက အပ်ဒိတ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="other">%d စက္ကန့်အကြာက အပ်ဒိတ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="other">%d ပတ်အကြာက အပ်ဒိတ်လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="sr">
+        <item quantity="other">ဗီဒီယို %s ခု</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="other">သင် ဓာတ်ပုံတစ်ပုံ မျှဝေထားသည်။</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="other">ဂုဏ်ယူပါတယ်။ သင်သည် မနေ့က နောက်ထပ်ဝယ်ယူမှု %d ခု ရရှိခဲ့သည်။ အကောင်းဆုံး ဆက်ကြိုးစားပြီး “ဖန်တီးရှင်သုံး ကိရိယာများ” &gt; “စီးရီးများ” မှနေ၍ သင့်စီးရီး စွမ်းဆောင်ရည်ကို ခြေရာခံပါ။</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="other">သင့်စီးရီးသည် လွန်ခဲ့သော ရက်အနည်းငယ်အတွင်း စာမျက်နှာသို့ ဝင်ကြည့်မှုအကြိမ်ရေ %d ကြိမ် ရရှိခဲ့သည်။ သင့်စီးရီး စွမ်းဆောင်ရည်ကို ခြေရာခံရန်နှင့် အလားအလာရှိသော ဝယ်သူများကို ဆွဲဆောင်နိုင်မည့် အသုံးဝင်သော အကြံပြုချက်များကို ရယူရန်အတွက် “ဖန်တီးရှင်သုံး ကိရိယာများ” &gt; “စီးရီးများ” မှနေ၍ စာရင်းအင်း ကိရိယာများကို ဝင်သုံးနိုင်သည်။</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="other">ဂုဏ်ယူပါတယ်။ သင့် LIVE ရှိ ကြည့်ရှုသူ %d ဦးသည် သင့်စီးရီး ဝင်သုံးခွင့်ကို မနေ့က ဝယ်ယူခဲ့သည်။ အကောင်းဆုံး ဆက်ကြိုးစားပြီး “ဖန်တီးရှင်သုံး ကိရိယာများ” &gt; “စီးရီးများ” မှနေ၍ သင့်စီးရီး စွမ်းဆောင်ရည်ကို ခြေရာခံပါ။</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="other">ဂုဏ်ယူပါတယ်။ ကြည့်ရှုသူ %d ဦးသည် စီးရီးလင့်ခ်များပါသည့် ဗီဒီယိုများမှနေ၍ သင့်စီးရီး ဝင်သုံးခွင့်ကို မနေ့က ဝယ်ယူခဲ့သည်။ အကောင်းဆုံး ဆက်ကြိုးစားပြီး “ဖန်တီးရှင်သုံး ကိရိယာများ” &gt; “စီးရီးများ” မှနေ၍ သင့်စီးရီး စွမ်းဆောင်ရည်ကို ခြေရာခံပါ။</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="other">ကင်မရာသို့ ဆက်သွားမည် (%d)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="other">ပထမဆုံး ဝယ်သူ %d ဦးသာ</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="other">%d သာ ကျန်သည်</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="other">%d ရက်အကြာတွင် သက်တမ်းကုန်ပါမည်</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="other">ဗီဒီယို %d ခု</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="other">ဗီဒီယို %d ကား</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="other">ဗီဒီယို %d ကား</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="other">ဗီဒီယို %s ခု</item>
+    </plurals>
+    <plurals name="t7">
+        <item quantity="other">{0}၊ {1} နှင့် အခြား {2} ဦးက သင့်ပို့စ်ကို ၎င်းတို့၏ Story များတွင် ထည့်လိုက်သည်။</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="other">ကြည့်ရှုသူ %d ဦး</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="other">ဇာတ်လမ်း (%d) ပုဒ်</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="other">{Brand} သည် {start_date} - {end_date} အထိ ၎င်း၏ မူလ ခွင့်ပြုချက်ကို {num} ရက် ထပ်တိုးလိုသည်။</item>
+    </plurals>
+    <plurals name="tg">
+        <item quantity="other">ဤဖန်တီးရှင်ကို ပံ့ပိုးပေးသည့်အတွက် ကျေးဇူးတင်ပါသည်၊ သို့မှသာ ၎င်းက သင် နှစ်သက်သည့် အကြောင်းအရာကို ဆက်လက် ဖန်တီးသွားနိုင်မည်။ ၎င်းက သင့်ဘောက်ဆူးကို %d နာရီအတွင်း ရရှိပါမည်။</item>
+    </plurals>
+    <plurals name="th">
+        <item quantity="other">ဘောက်ဆူး %d ပို့ခဲ့သည်</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="other">ဗီဒီယို %d ခု ထည့်ထားသည်</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="other">ဖန်တီးရှင်များသည် %d လကျော်ကြာ TikTok တွင် ရှိနေခဲ့သည်။</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="other">ဖန်တီးရှင်များတွင် ဖော်လိုလုပ်သူ အနည်းဆုံး %d ဦး ရှိသည်။</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="other">အပြန်အလှန်တုံ့ပြန်မှု %d ခု</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="other">ခေတ်စားနေသော ခေါင်းစဉ်များ ထည့်ရန် နေ့စဉ်ကန့်သတ်ချက်- ပို့စ် %d ခု</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="other">ခန့်မှန်းသုံးသပ်ချိန်- %d ရက်</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="other">ဗီဒီယို %@ ခု</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="other">ကြည့်ရှုမှု %@ ခု</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="other">လွန်ခဲ့သော %d ရက်က</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="other">နာရီ</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="other">လွန်ခဲ့သော %1$d နာရီက</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="other">မိနစ်</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="other">လွန်ခဲ့သော %1$d မိနစ်က</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="other">နာရီ</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="other">မိနစ်</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="other">စက္ကန့်</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="other">လွန်ခဲ့သော %1$d နှစ်က</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="other">ဝမ်းနည်းပါသည်။ သင့်ကို ပိတ်ပင်ထားပါသည်\n %1$d ရက်အကြာတွင် တိုက်ရိုက်ထုတ်လွှင့်မှုကို ပြန်လည်လုပ်ဆောင်နိုင်ပါသည်</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="other">ဝမ်းနည်းပါသည်။ သင့်ကို ပိတ်ပင်ထားပါသည်\n %1$d နာရီအကြာတွင် တိုက်ရိုက်ထုတ်လွှင့်မှုကို ပြန်လည်လုပ်ဆောင်နိုင်ပါသည်</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="other">ဝမ်းနည်းပါသည်၊ လောလောဆယ် သင့်ကို ပိတ်ပင်ထားပါသည်။ \n %1$d မိနစ်အကြာတွင် တိုက်ရိုက်ထုတ်လွှင့်မှုကို ပြန်လည်လုပ်ဆောင်နိုင်ပါသည်</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="other">ဝမ်းနည်းပါသည်။ သင့်ကို ပိတ်ပင်ထားပါသည်\n %1$d စက္ကန့်အကြာတွင် တိုက်ရိုက်ထုတ်လွှင့်မှုကို ပြန်လည်လုပ်ဆောင်နိုင်ပါသည်</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="other">သုံးစွဲသူ %d ဦးက သင့်ထုတ်လွှင့်မှုကို ကြည့်နေသည်၊ ၎င်းကို ပိတ်လိုပါသလား။</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="other">%d ရက်တွင် သက်တမ်းကုန်မည်</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="other">%d နာရီတွင် သက်တမ်းကုန်မည်</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="other">ပထမဆုံးအကြိမ် ဒိုင်းမွန်း %1$d ခုကို ပြန်ဖြည့်ပြီး နောက်ထပ် %2$d ရယူလိုက်ပါ။</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="other">မိနစ်</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="other">TikTok တွင် သင်၏ အစမ်းသုံးခွင့်သည် ဤရက်အကြာတွင် သက်တမ်းကုန်မည်- %d ရက်</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="other">%d ရက်</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="other">TikTok တွင် ဤလုပ်ဆောင်ချက်ကို သင် အစမ်းသုံးရန် %d ရက် ကျန်သည်။ ထို့နောက်ပိုင်းတွင် ဆက်သုံးရန် TikTok Now အက်ပ်ကို ဒေါင်းလုဒ်လုပ်ပါ။</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="other">သင်၏ %d-ရက်ကြာ TikTok Now အစမ်းသုံးခွင့်ကို စတင်ရန် ပို့စ်တင်ပါ။</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="other">ဗီဒီယိုအပိုင်းတို %d ခု ရွေးချယ်ပါ သို့မဟုတ် မှတ်တမ်းတင်ပါ</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="other">မပြီးသေးသောဓာတ်ပုံများကို တည်းဖြတ်မလား။</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="other">ပို့စ်အသစ် %s ခု</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="other">ဗီဒီယို %d ခု ပို့စ်တင်ထားသည်</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="other">သင် အသက် %d နှစ် ရှိပြီလား။</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="other">တိဖြတ်ထားသောအသံကို သုံးပါ။ %d စက္ကန့်အထိ ရိုက်ကူးပါ။</item>
+    </plurals>
+    <plurals name="uh">
+        <item quantity="other">%1$s သည် သင်၏ TikTok ထုတ်ဖော်ကြော်ငြာ ဗီဒီယိုကို အချိန်မီ မဖန်တီးနိုင်ခဲ့ပါ။ အကြွေစေ့ %2$d စေ့ကို 24 နာရီအတွင်း သင့်အကောင့်ထဲသို့ ပြန်ထည့်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="ui">
+        <item quantity="other">အကြွေစေ့ %d စေ့ကို 24 နာရီအတွင်း သင့်အကောင့်ထဲသို့ ပြန်ထည့်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="uj">
+        <item quantity="other">အချိန်ကုန်သွားသောကြောင့် ဤအော်ဒါကို ပယ်ဖျက်လိုက်သည်။ သင့်အကောင့်ထဲသို့ အကြွေစေ့ %s ခု ပြန်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="uk">
+        <item quantity="other">သင့်တောင်းဆိုချက်ကို ပယ်ဖျက်ထားသည်။ အကြွေစေ့ %d ကို 24 နာရီအတွင်း သင့်အကောင့်ထဲသို့ ပြန်ထည့်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="ul">
+        <item quantity="other">အကြွေစေ့</item>
+    </plurals>
+    <plurals name="um">
+        <item quantity="other">%1$s သည် သင့်တောင်းဆိုချက်ကို ငြင်းပယ်ထားသည်။ အကြွေစေ့ %2$s စေ့ကို သင့်အကောင့်ထဲသို့ 24 နာရီအတွင်း ပြန်ထည့်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="un">
+        <item quantity="other">%1$s သည် သင်၏ TikTok ထုတ်ဖော်ကြော်ငြာ ဗီဒီယိုကို အချိန်မီ မဖန်တီးနိုင်ခဲ့ပါ။ သင့်တောင်းဆိုချက်သည် သက်တမ်းကုန်သွားပြီး အကြွေစေ့ %2$s စေ့ကို 24 နာရီအတွင်း သင့်အကောင့်ထဲသို့ ပြန်ထည့်ပေးပါမည်။</item>
+    </plurals>
+    <plurals name="uo">
+        <item quantity="other">%1$s သည် သင့်တောင်းဆိုချက်ကို 2 ရက်အတွင်း လက်ခံခြင်းမရှိပါက ကျွန်ုပ်တို့သည် သင့်တောင်းဆိုမှုကို အလိုအလျောက် ပယ်ဖျက်ပြီး 24 နာရီအတွင်း သင့်အကောင့်ထဲသို့ အကြွေစေ့ %2$s စေ့ကို ပြန်အမ်းပါမည်။</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="other">ကြည့်ရှုသူ %s ဦး</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="other">လိုက်ခ် %s ခု</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="other">%2$s စက္ကန့်အတွင်း %1$s သို့ မျှဝေပါမည်</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="other">ထုတ်ကုန် %d ခု</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="other">ပို့စ်များ</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="other">%1$s၊ %2$s နှင့် အခြား %d ဦး</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="other">သင့်ပို့စ်ကို ကြည့်ခဲ့သည်။</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="other">မျှဝေမှု %s ခု</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="other">ကြည့်သူ %s ဦး</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="other">{0} {1} နှင့် အခြား {2} ဦးက သင့်ပို့စ်ကို ကြည့်ခဲ့သည်။</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="other">အကြွေစေ့ %d စေ့</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="other">ပေးပို့ထား- %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="other">ဓာတ်ပုံများကို သိမ်းလိုက်ပါပြီ</item>
+    </plurals>
+    <plurals name="v2">
+        <item quantity="other">လူ {number} ဦးသည် လက်ဆောင်ကို ရယူထားသော်လည်း ဒေတာကို ၎င်းတို့၏အကောင့်သို့ မထည့်ရသေးပါ။ ဒေတာလက်ဆောင်သည် မကြာမီ သင့်အတွက် ရရှိနိုင်ပါမည်။</item>
+    </plurals>
+    <plurals name="v3">
+        <item quantity="other">အစီအစဉ်သည် {countdown} ရက်အတွင်း ပြီးဆုံးပါမည်။ အရေအတွက်ကန့်သတ်ထားပါသည်။ ဦးရာလူစနစ်ဖြစ်ပါသည်။</item>
+    </plurals>
+    <plurals name="v4">
+        <item quantity="other">လက်ဆောင် {countdown} ခု ကျန်သည်</item>
+    </plurals>
+</resources>

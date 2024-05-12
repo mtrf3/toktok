@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.AnonymousClass373
+    background="@color/ey"
+    layout_width="match_parent"
+    layout_height="60dp">
+    <X.RunnableC31065CHd
+        layout_gravity="center_vertical"
+        id="@+id/j_m"
+        layout_width="match_parent"
+        layout_height="40dp"/>
+    <View
+        layout_gravity="end|center_vertical"
+        id="@+id/ajh"
+        background="@drawable/clk"
+        layout_width="12dp"
+        layout_height="40dp"
+        layout_marginEnd="42dp"/>
+    <ImageView
+        layout_gravity="end|center_vertical"
+        id="@+id/bfv"
+        background="@color/ey"
+        paddingTop="8dp"
+        paddingBottom="8dp"
+        layout_width="42dp"
+        layout_height="40dp"
+        src="@drawable/dap"
+        scaleType="fitXY"
+        paddingStart="6dp"
+        paddingEnd="12dp"/>
+</X.AnonymousClass373>

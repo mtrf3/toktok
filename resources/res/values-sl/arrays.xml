@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Spletna zvočna knjižnica</item>
+        <item>Moj zvok</item>
+    </array>
+    <array name="l">
+        <item>Počisti</item>
+    </array>
+    <array name="q">
+        <item>Izbriši</item>
+        <item>Prekliči</item>
+    </array>
+    <array name="r">
+        <item>Najbolj priljubljeno</item>
+        <item>Najnovejše</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>Prvih 20</item>
+        <item>Prvih 40</item>
+        <item>Prvih 60</item>
+        <item>Prvih 80</item>
+        <item>Prvih 100</item>
+    </array>
+    <array name="v">
+        <item>Izberi iz galerije</item>
+    </array>
+    <array name="a3">
+        <item>Nedelja</item>
+        <item>Ponedeljek</item>
+        <item>Torek</item>
+        <item>Sreda</item>
+        <item>Četrtek</item>
+        <item>Petek</item>
+        <item>Sobota</item>
+    </array>
+    <array name="a5">
+        <item>Poenostavljena kitajščina</item>
+        <item>Tradicionalna kitajščina</item>
+        <item>Angleščina</item>
+        <item>Japonščina</item>
+        <item>Korejščina</item>
+        <item>Ruščina</item>
+        <item>Indonezijščina</item>
+        <item>Malajščina</item>
+        <item>Portugalščina</item>
+        <item>Tajščina</item>
+        <item>Vietnamščina</item>
+        <item>Hindijščina</item>
+    </array>
+    <array name="a7">
+        <item>Normalno</item>
+        <item>Črno-belo</item>
+        <item>Umetniško</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Nasičeno</item>
+        <item>Krom</item>
+    </array>
+    <array name="aa">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Maj</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Avg</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </array>
+    <array name="ad">
+        <item>Najprej varčevanje s podatki</item>
+        <item>Najprej visoka ločljivost</item>
+    </array>
+    <array name="ae">
+        <item>Vsi</item>
+        <item>Samo prijatelji</item>
+    </array>
+    <array name="bi">
+        <item>Ponedeljek</item>
+        <item>Torek</item>
+        <item>Sreda</item>
+        <item>Četrtek</item>
+        <item>Petek</item>
+        <item>Sobota</item>
+        <item>Nedelja</item>
+    </array>
+</resources>

@@ -1,0 +1,2275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">Avatarlaringiz %d daqiqadan keyin yaratish boshlanadi.</item>
+        <item quantity="other">Avatarlaringiz %d daqiqadan keyin yaratish boshlanadi.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">%d ta uslub orqali davom etish</item>
+        <item quantity="other">%d ta uslub orqali davom etish</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">Inson yuzi bilan kamida yana %d ta surat tanlang</item>
+        <item quantity="other">Inson yuzi bilan kamida yana %d ta surat tanlang</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">Sharp bilan bir kunda %d marta avatar yaratishingiz mumkin</item>
+        <item quantity="other">Sharp bilan bir kunda %d marta avatar yaratishingiz mumkin</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">Sharp bilan bir haftada %d marta avatar yaratishingiz mumkin</item>
+        <item quantity="other">Sharp bilan bir haftada %d marta avatar yaratishingiz mumkin</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">Speedy bilan bir kunda %d marta avatar yaratishingiz mumkin</item>
+        <item quantity="other">Speedy bilan bir kunda %d marta avatar yaratishingiz mumkin</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="one">Speedy bilan bir haftada %d marta avatar yaratishingiz mumkin</item>
+        <item quantity="other">Speedy bilan bir haftada %d marta avatar yaratishingiz mumkin</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="one">Bir kunda %d marta avatar yaratishingiz mumkin</item>
+        <item quantity="other">Bir kunda %d marta avatar yaratishingiz mumkin</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="one">Bir haftada %d marta avatar yaratishingiz mumkin</item>
+        <item quantity="other">Bir haftada %d marta avatar yaratishingiz mumkin</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="one">Avatarlaringiz %d daqiqadan keyin yaratish boshlanadi.</item>
+        <item quantity="other">Avatarlaringiz %d daqiqadan keyin yaratish boshlanadi.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="one">Sizda %d ta soʻrov bor</item>
+        <item quantity="other">Sizda %d ta soʻrov bor</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="one">Sizda %d ta soʻrov bor</item>
+        <item quantity="other">Sizda %d ta soʻrov bor</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="one">%d ta savol</item>
+        <item quantity="other">%d ta savol</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="one">Birinchi %d kun uchun, boshqalar postlaringizni koʻrish uchun post joylashlari lozim.</item>
+        <item quantity="other">Birinchi %d kun uchun, boshqalar postlaringizni koʻrish uchun post joylashlari lozim.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="one">%d kundan keyin ular postingizni post joylamasdan koʻrishlari mumkin boʻladi.</item>
+        <item quantity="other">%d kundan keyin ular postingizni post joylamasdan koʻrishlari mumkin boʻladi.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="one">%d kundan keyin faqat siz postlaringizni koʻra olasiz.</item>
+        <item quantity="other">%d kundan keyin faqat siz postlaringizni koʻra olasiz.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="one">Birinchi %d kun uchun, boshqalar Now postlaringizni koʻrish uchun post joylashlari lozim.</item>
+        <item quantity="other">Birinchi %d kun uchun, boshqalar Now postlaringizni koʻrish uchun post joylashlari lozim.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="one">%d ta mahsulot</item>
+        <item quantity="other">%d ta mahsulot</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="one">{username} suratini ochish</item>
+        <item quantity="other">{username} suratlarini ochish</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="one">{number} kishi bu videoni oʻz Saralanganlariga kiritdi</item>
+        <item quantity="other">{number} kishi bu videoni oʻz Saralanganlariga kiritdi</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="one">%d ta layk</item>
+        <item quantity="other">%d ta layk</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ milliard</item>
+        <item quantity="other">%@ milliard</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ million</item>
+        <item quantity="other">%@ million</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ ming</item>
+        <item quantity="other">%@ ming</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="one">%d marta</item>
+        <item quantity="other">%d marta</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="one">%s ta videoga fikr bildirish uchun ruxsat berilgan</item>
+        <item quantity="other">%s ta videoga fikr bildirish uchun ruxsat berilgan</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="one">%s ta videoga fikr bildirish taqiqlangan</item>
+        <item quantity="other">%s ta videoga fikr bildirish taqiqlangan</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="one">%d tasi uchun duet taqiqlangan</item>
+        <item quantity="other">%d tasi uchun duet taqiqlangan</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="one">Har kim videolaringiz bilan Duet video olishi mumkin. Videolaringizdan %1$d tasi uchun Duet olishga ruxsat berilgan, %2$s</item>
+        <item quantity="other">Har kim videolaringiz bilan Duet video olishi mumkin. Videolaringizdan %1$d tasi uchun Duet olishga ruxsat berilgan, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="one">%d tasi uchun duet taqiqlangan</item>
+        <item quantity="other">%d tasi uchun duet taqiqlangan</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="one">Tanishlar videolaringiz bilan Duet video olishi mumkin. Videolaringizdan %1$d tasi uchun Duet olishga ruxsat berilgan, %2$s</item>
+        <item quantity="other">Tanishlar videolaringiz bilan Duet video olishi mumkin. Videolaringizdan %1$d tasi uchun Duet olishga ruxsat berilgan, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="one">%d tasi uchun duet taqiqlangan</item>
+        <item quantity="other">%d tasi uchun duet taqiqlangan</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="one">Kimlar videolaringiz bilan Duet olishi mumkinligini tekshiring. Videolaringizdan %1$d tasi uchun Duet olishga ruxsat berilgan, %2$s</item>
+        <item quantity="other">Kimlar videolaringiz bilan Duet olishi mumkinligini tekshiring. Videolaringizdan %1$d tasi uchun Duet olishga ruxsat berilgan, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="one">%d tasi uchun ulama video taqiqlangan</item>
+        <item quantity="other">%d tasi uchun ulama video taqiqlangan</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="one">Kimlar videolaringiz bilan Stitch video olishi mumkinligini tekshiring. Videolaringizdan %1$d tasi uchun Stitch video olishga ruxsat berilgan, %2$s</item>
+        <item quantity="other">Kimlar videolaringiz bilan Stitch video olishi mumkinligini tekshiring. Videolaringizdan %1$d tasi uchun Stitch video olishga ruxsat berilgan, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="one">%d tasi uchun ulama video taqiqlangan</item>
+        <item quantity="other">%d tasi uchun ulama video taqiqlangan</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="one">Istalgan kishi videolaringiz bilan Stitch video olishi mumkin. Videolaringizdan %1$d tasi uchun Stitch video olishga ruxsat berilgan, %2$s</item>
+        <item quantity="other">Istalgan kishi videolaringiz bilan Stitch video olishi mumkin. Videolaringizdan %1$d tasi uchun Stitch video olishga ruxsat berilgan, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="one">%d tasi uchun ulama video taqiqlangan</item>
+        <item quantity="other">%d tasi uchun ulama video taqiqlangan</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="one">Tanishlar videolaringiz bilan Stitch video olishi mumkin. Videolaringizdan %1$d tasi uchun Stitch video olishga ruxsat berilgan, %2$s</item>
+        <item quantity="other">Tanishlar videolaringiz bilan Stitch video olishi mumkin. Videolaringizdan %1$d tasi uchun Stitch video olishga ruxsat berilgan, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="one">%s ta videoga duet olish uchun ruxsat berilgan</item>
+        <item quantity="other">%s ta videoga duet olish uchun ruxsat berilgan</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="one">%s ta videoga duet olish taqiqlangan</item>
+        <item quantity="other">%s ta videoga duet olish taqiqlangan</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="one">%s ta videoga ulama video olish uchun ruxsat berilgan</item>
+        <item quantity="other">%s ta videoga ulama video olish uchun ruxsat berilgan</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="one">%s ta videoga ulama video olish taqiqlangan</item>
+        <item quantity="other">%s ta videoga ulama video olish taqiqlangan</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="one">%d soat oldin faol</item>
+        <item quantity="other">%d soat oldin faol</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="one">%d daqiqa oldin faol</item>
+        <item quantity="other">%d daqiqa oldin faol</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="one">%d qism</item>
+        <item quantity="other">%d qism</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="one">%1$s · %2$d ta yangi post</item>
+        <item quantity="other">%1$s · %2$d ta yangi post</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="one">%d ta ovozni import qilish</item>
+        <item quantity="other">%d ta ovozni import qilish</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="one">%2$d ta JONLI video | %1$d ta hikoya</item>
+        <item quantity="other">%2$d ta JONLI video | %1$d ta hikoya</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="one">%2$d ta JONLI video | %1$d ta hikoya</item>
+        <item quantity="other">%2$d ta JONLI video | %1$d ta hikoya</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="one">%d ta JONLI video | Hikoya</item>
+        <item quantity="other">%d ta JONLI video | Hikoya</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="one">%2$d ta JONLI video | %1$d ta hikoya</item>
+        <item quantity="other">%2$d ta JONLI video | %1$d ta hikoya</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="one">%d ta hikoya</item>
+        <item quantity="other">%d ta hikoya</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="one">%d nafar tanish taklif etildi</item>
+        <item quantity="other">%d nafar tanish taklif etildi</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="one">%s ta video</item>
+        <item quantity="other">%s ta video</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="one">%s ta video kiritildi</item>
+        <item quantity="other">%s ta video kiritildi</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="one">%s ta video joylandi</item>
+        <item quantity="other">%s ta video joylandi</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="one">Video kiritish (%d)</item>
+        <item quantity="other">Videolar kiritish (%d)</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="one">%d yosh</item>
+        <item quantity="other">%d yosh</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="one">%d yosh</item>
+        <item quantity="other">%d yosh</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="one">%d yoshdamisiz?\n\nAgar bu xato boʻlsa, TikTokning ayrim funksiyalaridan foydalana olmasligingiz mumkin. Tugʻilgan sanani keyinroq oʻzgartirishingiz mumkin.</item>
+        <item quantity="other">%d yoshdamisiz?\n\nAgar bu xato boʻlsa, TikTokning ayrim funksiyalaridan foydalana olmasligingiz mumkin. Tugʻilgan sanani keyinroq oʻzgartirishingiz mumkin.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="one">%d yoshdamisiz?</item>
+        <item quantity="other">%d yoshdamisiz?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="one">Siz %d yosh koʻrsatkichini kiritdingiz. Haqiqiy tavallud sanangizni kiriting.</item>
+        <item quantity="other">Siz %d yosh koʻrsatkichini kiritdingiz. Haqiqiy tavallud sanangizni kiriting.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="one">%d yosh</item>
+        <item quantity="other">%d yosh</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="one">%d ta ovoz</item>
+        <item quantity="other">%d ta ovoz</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="one">Ovoz sinxronlanmoqda...</item>
+        <item quantity="other">Ovozlar sinxronlanmoqda...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="one">%s ta ulashuv</item>
+        <item quantity="other">%s ta ulashuv</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="one">%s marta</item>
+        <item quantity="other">%s marta</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="one">Ovozli effektlar aniqlikni kamaytirishi mumkin</item>
+        <item quantity="other">Ovozli effektlar aniqlikni kamaytirishi mumkin</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="one">Maksimal %d ta fayl yuklang</item>
+        <item quantity="other">Maksimal %d ta fayl yuklang</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="one">[num] ta video</item>
+        <item quantity="other">[num] ta video</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="one">Beta versiyadan yana %d kun foydalanish mumkin</item>
+        <item quantity="other">Beta versiyadan yana %d kun foydalanish mumkin</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="one">Yana %d kun amal qiladi</item>
+        <item quantity="other">Yana %d kun amal qiladi</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="one">Yana %d kun amal qiladi</item>
+        <item quantity="other">Yana %d kun amal qiladi</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="one">Yana %d kun amal qiladi</item>
+        <item quantity="other">Yana %d kun amal qiladi</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="one">%d tagacha kitob kiritishingiz mumkin</item>
+        <item quantity="other">%d tagacha kitob kiritishingiz mumkin</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="one">%s ta klip</item>
+        <item quantity="other">%s ta klip</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="one">Yana %d tasini koʻrish</item>
+        <item quantity="other">Yana %d tasini koʻrish</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="one">%d ta javobni koʻrish</item>
+        <item quantity="other">%d ta javobni koʻrish</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="one">%d oy</item>
+        <item quantity="other">%d oy</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="one">%d yil</item>
+        <item quantity="other">%d yil</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="one">Hisobni bloklash</item>
+        <item quantity="other">Hisoblarni bloklash</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="one">%d ta hisob tanlandi.</item>
+        <item quantity="other">%d ta hisob tanlandi.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="one">Bir vaqtda %d ta hisobni tanlashingiz mumkin.</item>
+        <item quantity="other">Bir vaqtda %d ta hisobni tanlashingiz mumkin.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="one">Bloklash uchun %d ta hisobni tanladingiz. Bloklangan hisoblar profilingiz yoki TikTokdagi kontentingizni koʻra olmaydi.</item>
+        <item quantity="other">Bloklash uchun %d ta hisobni tanladingiz. Bloklangan hisoblar profilingiz yoki TikTokdagi kontentingizni koʻra olmaydi.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="one">%d ta hisob bloklansinmi?</item>
+        <item quantity="other">%d ta hisob bloklansinmi?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="one">Fikrni oʻchirish</item>
+        <item quantity="other">Fikrlarni oʻchirish</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="one">%d ta fikrni tanladingiz.</item>
+        <item quantity="other">%d ta fikrni tanladingiz.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="one">%d ta fikr oʻchirilsinmi?</item>
+        <item quantity="other">%d ta fikr oʻchirilsinmi?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="one">Fikr oʻchirib tashlandi</item>
+        <item quantity="other">Fikrlar oʻchirib tashlandi</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="one">%d ta fikr tanlandi.</item>
+        <item quantity="other">%d ta fikr tanlandi.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="one">Bir vaqtda %d ta fikrni tanlashingiz mumkin.</item>
+        <item quantity="other">Bir vaqtda %d ta fikrni tanlashingiz mumkin.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="one">Fikrdan shikoyat</item>
+        <item quantity="other">Fikrlardan shikoyat</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="one">Siz %d ta fikrdan shikoyat qilyapsiz. Bu fikr nomaqbul kontent boʻyicha tekshiriladi.</item>
+        <item quantity="other">Siz %d ta fikrdan shikoyat qilyapsiz. Bu fikr nomaqbul kontent boʻyicha tekshiriladi.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="one">%d ta fikrdan shikoyat qilasizmi?</item>
+        <item quantity="other">%d ta fikrdan shikoyat qilasizmi?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="one">Fikrdan shikoyat qilindi</item>
+        <item quantity="other">Fikrlardan shikoyat qilindi</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="one">%s ta fikr</item>
+        <item quantity="other">%s ta fikr</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="one">%s ta video</item>
+        <item quantity="other">%s ta video</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="one">%s foydalanuvchi eslatma yaratdi</item>
+        <item quantity="other">%s foydalanuvchi eslatma sozladi</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="one">%s ta effekt</item>
+        <item quantity="other">%s ta effekt</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="one">marta tomosha</item>
+        <item quantity="other">marta tomosha</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="one">Sof kuzatuvchi</item>
+        <item quantity="other">Sof kuzatuvchi</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="one">Layk</item>
+        <item quantity="other">Layklar</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="one">%s foydalanuvchi eslatma yaratdi</item>
+        <item quantity="other">%s foydalanuvchi eslatma yaratdi</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="one">Qoralama oʻchirilsinmi?</item>
+        <item quantity="other">Qoralamalar oʻchirilsinmi?</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="one">%s ta post</item>
+        <item quantity="other">%s ta post</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="one">Kirish kodi xato. Yana %d ta urinish qoldi.</item>
+        <item quantity="other">Kirish kodi xato. Yana %d ta urinish qoldi.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="one">Juda koʻp urinildi. %d daqiqadan keyin qayta urining.</item>
+        <item quantity="other">Juda koʻp urinildi. %d daqiqadan keyin qayta urining.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="one">%d ta kuy</item>
+        <item quantity="other">%d ta kuy</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="one">%d ta musiqa</item>
+        <item quantity="other">%d ta musiqa</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="one">%d ta fragment</item>
+        <item quantity="other">%d ta fragment</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="one">%d ta tarona</item>
+        <item quantity="other">%d ta tarona</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="one">%d ta ovoz</item>
+        <item quantity="other">%d ta ovoz</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="one">%d ta ohang</item>
+        <item quantity="other">%d ta ohang</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="one">Yuborish (%d)</item>
+        <item quantity="other">Yuborish (%d)</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="one">%1$d kuzatilmoqda · %2$d kuzatuvchi</item>
+        <item quantity="other">%1$d kuzatilmoqda · %2$d kuzatuvchi</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="one">@ ta yangi zikr</item>
+        <item quantity="other">@ ta yangi zikr</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="one">yangi xabarlar yubordi.</item>
+        <item quantity="other">yangi xabarlar yubordi.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="one">sizga yangi xabarlar yubordi.</item>
+        <item quantity="other">sizga yangi xabarlar yubordi.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="one">Maksimal %d kishi tanlashingiz mumkin</item>
+        <item quantity="other">Maksimal %d kishi tanlashingiz mumkin</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="one">Qoralama rad etilsinmi?</item>
+        <item quantity="other">Qoralamalar rad etilsinmi?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="one">Qoralama oʻchirilsinmi?</item>
+        <item quantity="other">Qoralama oʻchirilsinmi?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="one">Qoralamada {#} ta video</item>
+        <item quantity="other">Qoralamada {#} ta video</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="one">Bu video joylanganida %1$s va yana %2$s foydalanuvchi xabardor qilinadi.</item>
+        <item quantity="other">Bu video joylanganida %1$s va yana %2$s foydalanuvchi xabardor qilinadi.</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="one">Kamida %d ta mahsulot tanlang</item>
+        <item quantity="other">Kamida %d ta mahsulot tanlang</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="one">Keyingi sharh %d kundan keyin</item>
+        <item quantity="other">Keyingi sharh %d kundan keyin</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="one">%s kundan keyin tugaydi</item>
+        <item quantity="other">%s kundan keyin tugaydi</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="one">%1$s ta mahsulot, jami %2$s ta</item>
+        <item quantity="other">%1$s ta mahsulot, jami %2$s ta</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="one">Jami (%s ta mahsulot)</item>
+        <item quantity="other">Jami (%s ta mahsulot)</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="one">Faqat %d martagacha tahrirlashingiz mumkin</item>
+        <item quantity="other">Faqat %d martagacha tahrirlashingiz mumkin</item>
+    </plurals>
+    <plurals name="f3">
+        <item quantity="one">Matnli stikerga tatbiq etildi</item>
+        <item quantity="other">Barcha matnli stikerlarga tatbiq etildi</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="one">%d soniyada effektga razm solish</item>
+        <item quantity="other">%d soniyada effektga razm solish</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="one">Belgilandi</item>
+        <item quantity="other">Belgilandi</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="one">Siz bu guruh aʼzosini tanishingiz mumkin.</item>
+        <item quantity="other">Siz bu guruh aʼzolarini tanishingiz mumkin.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="one">%s ta video</item>
+        <item quantity="other">%s ta video</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="one">%s ta video kiritildi</item>
+        <item quantity="other">%s ta video kiritildi</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="one">%2$s termasidan %1$d ta videoni olib tashlash</item>
+        <item quantity="other">%2$s termasidan %1$d ta videoni olib tashlash</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="one">%1$d ta video %2$s termasiga koʻchirildi</item>
+        <item quantity="other">%1$d ta video %2$s termasiga koʻchirildi</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="one">%d ta video olib tashlandi</item>
+        <item quantity="other">%d ta video olib tashlandi</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="one">%d ta yangi tavsiya etilgan hisob</item>
+        <item quantity="other">%d ta yangi tavsiya etilgan hisob</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="one">%s kuzatadi</item>
+        <item quantity="other">%s va yana %d kishi kuzatadi</item>
+    </plurals>
+    <plurals name="fs">
+        <item quantity="one">Kuzatuvchi</item>
+        <item quantity="other">Kuzatuvchilar</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="one">%sni kuzatadi</item>
+        <item quantity="other">%s va yana %d kishini kuzatadi</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="one">{0}, {1} va yana {2} kishi kuzatadi</item>
+        <item quantity="other">{0}, {1} va yana {2} kishi kuzatadi</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="one">{0} va yana {2} kishi kuzatadi</item>
+        <item quantity="other">{0} va yana {2} kishi kuzatadi</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="one">{0}, {1} va yana {2} kishini kuzatadi</item>
+        <item quantity="other">{0}, {1} va yana {2} kishini kuzatadi</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="one">{0} va yana {2} kishini kuzatadi</item>
+        <item quantity="other">{0} va yana {2} kishini kuzatadi</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="one">{0}, {1} va yana {2} kishi bilan tanish</item>
+        <item quantity="other">{0}, {1} va yana {2} kishi bilan tanish</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="one">{0} va yana {2} kishi bilan tanish</item>
+        <item quantity="other">{0} va yana {2} kishi bilan tanish</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="one">{2} ta umumiy aloqa</item>
+        <item quantity="other">{2} ta umumiy aloqa</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="one">%s bilan tanish</item>
+        <item quantity="other">%s va yana %d kishi bilan tanish</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="one">Tanishlardan %d ta yangi post</item>
+        <item quantity="other">Tanishlardan %d ta yangi post</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="one">%d aʼzo hozir faol</item>
+        <item quantity="other">%d aʼzo hozir faol</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="one">%1$d aʼzo %2$d daqiqa oldin faol</item>
+        <item quantity="other">%1$d aʼzo %2$d daqiqa oldin faol</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="one">%d aʼzo bugun faol</item>
+        <item quantity="other">%d aʼzo bugun faol</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="one">%d nafar aʼzo</item>
+        <item quantity="other">%d nafar aʼzo</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="one">Yangi talab</item>
+        <item quantity="other">Yangi talablar</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="one">%s ta ishtirokchi</item>
+        <item quantity="other">%s ta ishtirokchi</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="one">Yana %d ishtirokchi</item>
+        <item quantity="other">Yana %d ishtirokchi</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="one">%s marta koʻrildi</item>
+        <item quantity="other">%s marta koʻrildi</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="one">Kuzatuvchi: %s</item>
+        <item quantity="other">Kuzatuvchilar: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="one">Video: %s</item>
+        <item quantity="other">Videolar: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="one">%s va yana %d kishiga yuborildi</item>
+        <item quantity="other">%s va yana %d kishiga yuborildi</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="one">%d ta Hikoya yuklanmadi. U qoralamalaringizga saqlandi.</item>
+        <item quantity="other">%d ta Hikoya yuklanmadi. U qoralamalaringizda saqlandi.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="one">Rasm yuklanmadi. Rasm qoralamalaringizga saqlandi.</item>
+        <item quantity="other">Rasmlar yuklanmadi. Rasmlar qoralamalaringizga saqlandi.</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="one">%d ta stiker</item>
+        <item quantity="other">%d ta stiker</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="one">sizni suratda zikr qildi.</item>
+        <item quantity="other">sizni suratlarda zikr qildi.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="one">%s ta yangi post</item>
+        <item quantity="other">%s ta yangi post</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="one">Harakat</item>
+        <item quantity="other">Harakatlar</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="one">%1$s, %2$s va yana %d ta tanishingiz videolarini tomosha qiling uchun ularni kuzating.</item>
+        <item quantity="other">%1$s, %2$s va yana %d ta tanishingiz videolarini tomosha qiling uchun ularni kuzating.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="one">yana %d kishi</item>
+        <item quantity="other">yana %d kishi</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="one">%1$s, %2$s va yana %3$d ta tanishingiz videolarini tomosha qiling uchun ularni kuzating.</item>
+        <item quantity="other">%1$s, %2$s va yana %3$d ta tanishingiz videolarini tomosha qiling uchun ularni kuzating.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="one">Xabar</item>
+        <item quantity="other">Xabarlar</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="one">Yangi harakat</item>
+        <item quantity="other">Yangi harakatlar</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="one">%s ishtirokchi</item>
+        <item quantity="other">%s ishtirokchi</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="one">%s ta post</item>
+        <item quantity="other">%s ta post</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="one">%d ta kalit soʻz</item>
+        <item quantity="other">%d ta kalit soʻz</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="one">%d ta JONLI efir</item>
+        <item quantity="other">%d ta JONLI efir</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="one">Tugaydi: %s kun</item>
+        <item quantity="other">Tugaydi: %s kun</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="one">Faqat %1$d tagacha media fayl tanlay olasiz</item>
+        <item quantity="other">Faqat %1$d tagacha media fayl tanlay olasiz</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="one">%d ta soʻrov</item>
+        <item quantity="other">%d ta soʻrov</item>
+    </plurals>
+    <plurals name="j0">
+        <item quantity="one">%d ta yangi bildirishnoma</item>
+        <item quantity="other">%d ta yangi bildirishnoma</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="one">Taronani yangi sifatida tanlash bekor qilinsinmi?</item>
+        <item quantity="other">Taronalarni yangi sifatida tanlash bekor qilinsinmi?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="one">%d ta taronani yangi sifatida tanlash bekor qilindi</item>
+        <item quantity="other">%d ta taronani yangi sifatida tanlash bekor qilindi</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="one">%d ta reliz</item>
+        <item quantity="other">%d ta reliz</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="one">%d ta ijrochi</item>
+        <item quantity="other">%d ta ijrochi</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="one">%d ta umumiy aloqa</item>
+        <item quantity="other">%d ta umumiy aloqa</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="one">%d ta umumiy aloqa</item>
+        <item quantity="other">%d ta umumiy aloqa</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="one">Endi %d daqiqagacha uzunlikdagi videolarni yuklashingiz mumkin!</item>
+        <item quantity="other">Endi %d daqiqagacha uzunlikdagi videolarni yuklashingiz mumkin!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="one">%d daqiqalik video bilan tanishing</item>
+        <item quantity="other">%d daqiqalik video bilan tanishing</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="one">%d ta umumiy aloqa</item>
+        <item quantity="other">%d ta umumiy aloqa</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="one">%d ta fikr</item>
+        <item quantity="other">%d ta fikr</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="one">Barcha %d ta fikrni ochish</item>
+        <item quantity="other">Barcha %d ta fikrni ochish</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="one">{nickname} va yana {number_1} kishi</item>
+        <item quantity="other">{nickname} va yana {number_1} kishi</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="one">{number} ta tanish bugungi Now postini joyladi</item>
+        <item quantity="other">{number} ta tanish bugungi Now postini joyladi</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="one">%1$s va %2$d yana kishi Now postlarini joyladi</item>
+        <item quantity="other">%1$s va %2$d yana kishi Now postlarini joyladi</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="one">{nickname} va yana {number_1} kishi</item>
+        <item quantity="other">{nickname} va yana {number_1} kishi</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="one">Tasodifiy lahzalarni ulashish uchun TikTok Nowda {number} ta tanishingizga qoʻshiling</item>
+        <item quantity="other">Tasodifiy lahzalarni ulashish uchun TikTok Nowda {number} ta tanishingizga qoʻshiling</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="one">Keyingi {number} daqiqada Now postingizni joylang</item>
+        <item quantity="other">Keyingi {number} daqiqada Now postingizni joylang</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="one">Now joylashga %d daqiqa qoldi.</item>
+        <item quantity="other">Now joylashga %d daqiqa qoldi.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="one">%d ta umumiy tanish</item>
+        <item quantity="other">%d ta umumiy tanish</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="one">%d ta layk</item>
+        <item quantity="other">%d ta layk</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="one">{1}, {2}, {3} va yana {number} kishi hozirgina Now joyladi.</item>
+        <item quantity="other">{1}, {2}, {3} va yana {number} kishi hozirgina Now joyladi.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="one">%d ta reaksiya</item>
+        <item quantity="other">%d ta reaksiya</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="one">%d marta</item>
+        <item quantity="other">%d marta</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="one">%d marta</item>
+        <item quantity="other">%d marta</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="one">%1$s va yana %2$s kishi</item>
+        <item quantity="other">%1$s va yana %2$s kishi</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="one">Lemon8 hisobidan sinxronlagan postingizda hali ovoz yoʻq. Tomoshabinlarni koʻproq jalb etish uchun postingizga tovush kiriting.</item>
+        <item quantity="other">Lemon8 hisobidan sinxronlagan postlaringizda hali ovoz yoʻq. Tomoshabinlarni koʻproq jalb etish uchun postlaringizga tovush kiriting.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="one">Postingizni sayqallash uchun tovush kiriting</item>
+        <item quantity="other">Postlaringizni sayqallash uchun tovush kiriting</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="one">suratingizga layk bosdi.</item>
+        <item quantity="other">suratlaringizga layk bosdi.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="one">suratingizga ovoz berdi.</item>
+        <item quantity="other">suratlaringizga ovoz berdi.</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="one">%d qism</item>
+        <item quantity="other">%d qism</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="one">%d qism</item>
+        <item quantity="other">%d qism</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="one">Uni yana %d marta yuborishingiz mumkin</item>
+        <item quantity="other">Uni yana %d marta yuborishingiz mumkin</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="one">%d tomoshabin soʻradi</item>
+        <item quantity="other">%d tomoshabin soʻradi</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="one">Kirish huquqi %s kundan keyin tiklanadi</item>
+        <item quantity="other">Kirish huquqi %s kundan keyin tiklanadi</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="one">1-raqamli tomoshabindan %s Tanga</item>
+        <item quantity="other">1-raqamli tomoshabindan %s Tanga</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="one">2-raqamli tomoshabindan %s Tanga</item>
+        <item quantity="other">2-raqamli tomoshabindan %s Tanga</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="one">%s kuzatuvchi</item>
+        <item quantity="other">%s kuzatuvchi</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="one">Mavjud mahsulot: %s</item>
+        <item quantity="other">Mavjud mahsulotlar: {number}</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="one">Mavjud mahsulot: %s</item>
+        <item quantity="other">Mavjud mahsulotlar: {number}</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="one">JONLI efir ijodkoriga %s Tanga berildi</item>
+        <item quantity="other">JONLI efir ijodkoriga %s Tanga berildi</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="one">%s ta layk</item>
+        <item quantity="other">%s ta layk</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="one">%s ta tomoshabin</item>
+        <item quantity="other">%s ta tomoshabin</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="one">%s marta ulashildi. Videoni ulashish</item>
+        <item quantity="other">%s marta ulashildi. Videoni ulashish</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="one">%1$s ta ovoz: %2$s</item>
+        <item quantity="other">%1$s ta ovoz: %2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="one">%2$s uchun %1$s ta, %4$s uchun %3$s ta ovoz berildi</item>
+        <item quantity="other">%2$s uchun %1$s ta, %4$s uchun %3$s ta ovoz berildi</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="one">%d daqiqada</item>
+        <item quantity="other">%d daqiqada</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="one">Darajani oshirishgacha yana %d tajriba balli</item>
+        <item quantity="other">Darajani oshirishgacha yana %d tajriba balli</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="one">Mukofotlaringiz %d kundan keyin muzlatiladi</item>
+        <item quantity="other">Mukofotlaringiz %d kundan keyin muzlatiladi</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="one">JONLI efir tugatilsinmi? %s ta tomoshabin tomosha qilmoqda.</item>
+        <item quantity="other">JONLI efir tugatilsinmi? %s ta tomoshabin tomosha qilmoqda.</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="one">JONLI efir tugatilsinmi? %s ta tomoshabin tomosha qilmoqda.</item>
+        <item quantity="other">JONLI efir tugatilsinmi? %s ta tomoshabin tomosha qilmoqda.</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="one">%s ta yangi xabar</item>
+        <item quantity="other">%s ta yangi xabar</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="one">{num} kun hamboshlovchilik qildi</item>
+        <item quantity="other">Qatorasiga {num} kun hamboshlovchilik qildi</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="one">{number} Tanga yetmayapti</item>
+        <item quantity="other">{number} Tanga yetmayapti</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="one">Oxirgi {number} kundagi rekordingiz: {amount} Tanga</item>
+        <item quantity="other">Oxirgi {number} kundagi rekordingiz: {amount} Tanga</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="one">Tavsiya etiladi: {amount} Tanga</item>
+        <item quantity="other">Tavsiya etiladi: {amount} Tanga</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="one">Hozir sizda {number} Tanga bor. Koʻproq Tanga olish uchun balansni toʻldirishingiz mumkin.</item>
+        <item quantity="other">Hozir sizda {number} Tanga bor. Koʻproq Tanga olish uchun balansni toʻldirishingiz mumkin.</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="one">Toʻgʻri taxmin: (%d)</item>
+        <item quantity="other">Toʻgʻri taxminlar: (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="one">%s ta toʻgʻri taxmin</item>
+        <item quantity="other">%s ta toʻgʻri taxmin</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="one">%s ta tomoshabin uni topdi��</item>
+        <item quantity="other">%s ta tomoshabin uni topdi ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="one">Aksariyat tomoshabinlar %s ta soʻzni topdi</item>
+        <item quantity="other">Aksariyat tomoshabinlar %s ta soʻzni topdi</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="one">Hech qaysi tomoshabin soʻzni topmadi</item>
+        <item quantity="other">Hech qaysi tomoshabin soʻzlarni topmadi</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="one">Soʻz chizish uchun %s daqiqa</item>
+        <item quantity="other">Soʻz chizish uchun %s daqiqa</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="one">�� %d ta tomoshabin %s soʻzini taxmin qildi</item>
+        <item quantity="other">�� %d ta tomoshabin %s soʻzini taxmin qildi</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="one">%s ta soʻzni topdim!</item>
+        <item quantity="other">%s ta soʻzni topdim!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="one">%s ta soʻzni topdingiz</item>
+        <item quantity="other">%s ta soʻzni topdingiz</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="one">{0:string} va yana {1:string} ta xaridor sotib olmoqda</item>
+        <item quantity="other">{0:string} va yana {1:string} ta xaridor sotib olmoqda</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="one">%d ta rasm juda kichik. Rasmlar kamida 256 x 256 piksel boʻlishi kerak.</item>
+        <item quantity="other">%d ta rasm juda kichik. Rasmlar kamida 256 x 256 piksel boʻlishi kerak.</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="one">%d ta tomoshabin</item>
+        <item quantity="other">%d ta tomoshabin</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="one">Sizda %d Tanga bor.</item>
+        <item quantity="other">Sizda %d Tanga bor.</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="one">Bu Hadyani yuborish uchun %@ ni %d Tangaga ayirboshlang.</item>
+        <item quantity="other">Bu Hadyani yuborish uchun %@ ni %d Tangaga ayirboshlang.</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="one">JONLI efir hadyalari balansi {{num}} tangaga ayirboshlandi</item>
+        <item quantity="other">JONLI efir hadyalari balansi {{num}} tangaga ayirboshlandi</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="one">Sizga %1$d Tanga yetmayapti. %2$s ni Tangaga ayirboshlab, %3$s yuborasizmi?</item>
+        <item quantity="other">Sizga %1$d Tanga yetmayapti. %2$s ni Tangaga ayirboshlab, %3$s yuborasizmi?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="one">%d Tanga ayirboshladingiz va %s yubordingiz</item>
+        <item quantity="other">%d Tanga ayirboshladingiz va %s yubordingiz</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="one">%s aʼzo</item>
+        <item quantity="other">%s aʼzo</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="one">{num} kundan buyon siz bilan</item>
+        <item quantity="other">{num} kundan buyon siz bilan</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="one">Faol holatda qolish uchun {num} soat ichida 1 aʼzo balli oling</item>
+        <item quantity="other">Faol holatda qolish uchun {num} soat ichida 1 aʼzo balli oling</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="one">Uni %1$d Tanga evaziga yana %2$d marta yuborish mumkin.</item>
+        <item quantity="other">Uni %1$d Tanga evaziga yana %2$d marta yuborish mumkin.</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="one">Hozirda %d ta kuzatuvchi faol</item>
+        <item quantity="other">Hozirda %d ta kuzatuvchi faol</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="one">{number} ta tanishingiz JONLI efirda. Uni birga JONLI efir qilishga taklif qiling!</item>
+        <item quantity="other">{number} ta tanishingiz JONLI efirda. Ularni birga JONLI efir qilishga taklif qiling!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="one">Hisobni toʻldirish orqali qoʻshimcha {num} Tanga oching</item>
+        <item quantity="other">Hisobni toʻldirish orqali qoʻshimcha {num} Tanga oching</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="one">{num} kun</item>
+        <item quantity="other">{num} kun</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="one">{num} Tanga oching</item>
+        <item quantity="other">{num} Tanga oching</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="one">{num} Tanga</item>
+        <item quantity="other">{num} Tanga</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="one">Qoʻshimcha {num} Tanga ochasiz.</item>
+        <item quantity="other">Qoʻshimcha {num} Tanga ochasiz.</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="one">Hisobni yana {num_1} Tangaga toʻldiring.</item>
+        <item quantity="other">Hisobni yana {num_1} Tangaga toʻldiring.</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="one">Qoʻshimcha {num} Tanga ochish uchun hisobni toʻldiring</item>
+        <item quantity="other">Qoʻshimcha {num} Tanga ochish uchun hisobni toʻldiring</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="one">Oxirgi {number} kun</item>
+        <item quantity="other">Oxirgi {number} kun</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="one">{gameName} va yana {number} ta oʻyin narxi oʻzgardi. Hamkorlik markazida batafsil tanishing.</item>
+        <item quantity="other">{gameName} va yana {number} ta oʻyin narxi oʻzgardi. Hamkorlik markazida batafsil tanishing.</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="one">Dastur shartlari buzilgani sababli JONLI efiringizda hadya berish %s kunga cheklandi.</item>
+        <item quantity="other">Dastur shartlari buzilgani sababli JONLI efiringizda hadya berish %s kunga cheklandi.</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="one">Bu JONLI efirda hadya berish cheklandi. U %s daqiqada tiklanadi.</item>
+        <item quantity="other">Bu JONLI efirda hadya berish cheklandi. U %s daqiqada tiklanadi.</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="one">Hadya berish {0} kunga cheklandi.</item>
+        <item quantity="other">Hadya berish {0} kunga cheklandi.</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="one">Hadya berish %s kunga cheklandi</item>
+        <item quantity="other">Hadya berish %s kunga cheklandi</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="one">%d Tanga evaziga yuborish</item>
+        <item quantity="other">%d Tanga evaziga yuborish</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="one">Hisobni toʻldirish yakunlandi va hozir sizda %d Tanga bor. Dastak berish uchun bu Hadyani yuboring!</item>
+        <item quantity="other">Hisobni toʻldirish yakunlandi va hozir sizda %d Tanga bor. Dastak berish uchun bu Hadyani yuboring!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="one">Ayirboshlash yakunlandi va hozir sizda %d Tanga bor. Dastak berish uchun bu Hadyani yuboring!</item>
+        <item quantity="other">Ayirboshlash yakunlandi va hozir sizda %d Tanga bor. Dastak berish uchun bu Hadyani yuboring!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="one">{0:user} {1:gift} ({2:string} ball) {3:string} yubordi va bu uning birinchi yuborgan Hadyasi. Oʻz minnatdorchiligingizni bildiring!</item>
+        <item quantity="other">{0:user} {1:gift} ({2:string} ball) {3:string} yubordi va bu uning birinchi yuborgan Hadyasi. Oʻz minnatdorchiligingizni bildiring!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="one">{0:user} {1:gift} ({2:string} ball) {3:string} yubordi</item>
+        <item quantity="other">{0:user} {1:gift} ({2:string} ball) {3:string} yubordi</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="one">{0:user} {1:gift} ({2:string} ball) {3:string} yubordi</item>
+        <item quantity="other">{0:user} {1:gift} ({2:string} ball) {3:string} yubordi</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="one">{0:user} {1:gift} ({2:string} ball) {3:string} yubordi va bu sayohatda birinchi marta ijodkor bilan {4:city}ga bordi!</item>
+        <item quantity="other">{0:user} {1:gift} ({2:string} ball) {3:string} yubordi va bu sayohatda birinchi marta ijodkor bilan {4:city}ga bordi!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="one">Hadya tafsilotlari (jami {{num}} ta tranzaksiya)</item>
+        <item quantity="other">Hadya tafsilotlari (jami {{num}} ta tranzaksiya)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="one">{amount} Tanga</item>
+        <item quantity="other">{amount} Tanga</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="one">Hadya</item>
+        <item quantity="other">Hadyalar</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="one">%d tanga</item>
+        <item quantity="other">%d tanga</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="one">%s ta hadya oldingiz. Rahmat aytishni unutmang.</item>
+        <item quantity="other">%s ta hadya oldingiz. Rahmat aytishni unutmang.</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="one">%s ta hadya oldingiz</item>
+        <item quantity="other">%s ta hadya oldingiz</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="one">%s tangaga ayirboshlash bajarilsinmi?</item>
+        <item quantity="other">%s tangaga ayirboshlash bajarilsinmi?</item>
+    </plurals>
+    <plurals name="lz">
+        <item quantity="one">%d tangaga ayirboshlash bajarilsinmi?</item>
+        <item quantity="other">%d tangaga ayirboshlash bajarilsinmi?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="one">JONLI efirni boshlash (%ds)</item>
+        <item quantity="other">JONLI efirni boshlash (%ds)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="one">%s ta mehmon soʻrovi</item>
+        <item quantity="other">%s ta mehmon soʻrovi</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="one">%s ta soʻrov</item>
+        <item quantity="other">%s ta soʻrov</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="one">%s ball</item>
+        <item quantity="other">%s ball</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="one">%d%2$s uchun %1$s ball qoldi</item>
+        <item quantity="other">%d%2$s uchun %1$s ball qoldi</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="one">%d tomoshabin soʻramoqda</item>
+        <item quantity="other">%d tomoshabin soʻramoqda</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="one">Mehmon sifatida JONLI efirga chiqish siz uchun %d kun davomida cheklandi</item>
+        <item quantity="other">Mehmon sifatida JONLI efirga chiqish siz uchun %d kun davomida cheklandi</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="one">Mehmon sifatida JONLI efirga chiqish siz uchun %d soat davomida cheklandi</item>
+        <item quantity="other">Mehmon sifatida JONLI efirga chiqish siz uchun %d soat davomida cheklandi</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="one">Mehmon sifatida JONLI efirga chiqish siz uchun %d daqiqa davomida cheklandi</item>
+        <item quantity="other">Mehmon sifatida JONLI efirga chiqish siz uchun %d daqiqa davomida cheklandi</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="one">Mehmon sifatida JONLI efirga chiqish siz uchun %d soniya davomida cheklandi</item>
+        <item quantity="other">Mehmon sifatida JONLI efirga chiqish siz uchun %d soniya davomida cheklandi</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="one">Vosita</item>
+        <item quantity="other">Vositalar</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="one">[username] va yana [number] ta kuzatuvchi sizga JONLI efir qilishingiz uchun turtki berdi</item>
+        <item quantity="other">[username] va yana [number] ta kuzatuvchi sizga JONLI efir qilishingiz uchun turtki berdi</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="one">[username] va yana [number] ta kuzatuvchi yaqinda sizga JONLI efir qilishingiz uchun turtki berdi</item>
+        <item quantity="other">[username] va yana [number] ta kuzatuvchi yaqinda sizga JONLI efir qilishingiz uchun turtki berdi</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="one">Agar taklifni qabul qilsangiz, bu JONLI efir ijodkori joriy hamboshlovchingizga qoʻshiladi.</item>
+        <item quantity="other">Agar taklifni qabul qilsangiz, bu JONLI efir ijodkorlari joriy hamboshlovchingizga qoʻshiladi.</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="one">{number} kun</item>
+        <item quantity="other">{number} kun</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="one">Keyingi qadamda sahifani tark etsangiz, faqat {number} kundan keyin kupondan qayta foydalanishingiz mumkin.</item>
+        <item quantity="other">Keyingi qadamda sahifani tark etsangiz, faqat {number} kundan keyin kupondan qayta foydalanishingiz mumkin.</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="one">Keyingi qadamda sahifani tark etsangiz, faqat {number} soatdan keyin kupondan qayta foydalanishingiz mumkin.</item>
+        <item quantity="other">Keyingi qadamda sahifani tark etsangiz, faqat {number} soatdan keyin kupondan qayta foydalanishingiz mumkin.</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="one">Keyingi qadamda sahifani tark etsangiz, faqat {number} daqiqadan keyin kupondan qayta foydalanishingiz mumkin.</item>
+        <item quantity="other">Keyingi qadamda sahifani tark etsangiz, faqat {number} daqiqadan keyin kupondan qayta foydalanishingiz mumkin.</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="one">Kupondan {number} kundan keyin foydalanishingiz mumkin</item>
+        <item quantity="other">Kupondan {number} kundan keyin foydalanishingiz mumkin</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="one">Kupondan {number} soatdan keyin foydalanishingiz mumkin</item>
+        <item quantity="other">Kupondan {number} soatdan keyin foydalanishingiz mumkin</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="one">Kupondan {number} daqiqadan keyin foydalanishingiz mumkin</item>
+        <item quantity="other">Kupondan {number} daqiqadan keyin foydalanishingiz mumkin</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="one">%s ta layk</item>
+        <item quantity="other">%s ta layk</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="one">ta layk</item>
+        <item quantity="other">ta layk</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="one">%s ta layk</item>
+        <item quantity="other">%s ta layk</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="one">%ds</item>
+        <item quantity="other">%ds</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="one">JONLI EFIR arizangiz tasdiqlanmadi. %d kundan keyin qayta ariza berishingiz mumkin.</item>
+        <item quantity="other">JONLI EFIR arizangiz tasdiqlanmadi. %d kundan keyin qayta ariza berishingiz mumkin.</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="one">JONLI efir qilishga ariza berdingiz, keyingi 7 kun JONLI efir qila olasiz. Doimiy foydalanish ruxsatini olish uchun Hamjamiyat qoidalariga amal qilishni unutmang va birinchi haftangizda %d soat JONLI efir qiling.</item>
+        <item quantity="other">JONLI efir qilishga ariza berdingiz, keyingi 7 kun JONLI efir qila olasiz. Doimiy foydalanish ruxsatini olish uchun Hamjamiyat qoidalariga amal qilishni unutmang va birinchi haftangizda %d soat JONLI efir qiling.</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="one">Doimiy JONLI EFIR qilish huquqini olish uchun %s gacha yana %d soat JONLI EFIR qiling</item>
+        <item quantity="other">Doimiy JONLI EFIR qilish huquqini olish uchun %s gacha yana %d soat JONLI EFIR qiling</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="one">Doimiy JONLI EFIR qilish huquqini olish uchun %2$s gacha yana %1$s soat JONLI EFIR qiling</item>
+        <item quantity="other">Doimiy JONLI EFIR qilish huquqini olish uchun %2$s gacha yana %1$s soat JONLI EFIR qiling</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="one">%s ball</item>
+        <item quantity="other">%s ball</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="one">{%s host username} ushbu haftaning #{%n} JONLI efir ijodkori boʻlishi uchun unga {%d} kerak!</item>
+        <item quantity="other">{%s host username} ushbu haftaning #{%n} JONLI efir ijodkori boʻlishi uchun unga {%d} kerak!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="one">1 kun qoldi. #3 JONLI efir ijodkori boʻlish va videoga ekskluziv nishon yutib olish uchun yana {%d} ta Olmos oling.</item>
+        <item quantity="other">1 kun qoldi. #3 JONLI efir ijodkori boʻlish va videoga ekskluziv nishon yutib olish uchun yana {%d} ta Olmos oling.</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="one">1 kun qoldi. JONLI efiringizga koʻproq ehtimoliy tomoshabinlarni jalb qilish uchun yana {%d} ta olmos oling.</item>
+        <item quantity="other">1 kun qoldi. JONLI efiringizga koʻproq ehtimoliy tomoshabinlarni jalb qilish uchun yana {%d} ta olmos oling.</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="one">1 kun qoldi. JONLI efir ijodkorlari uchun unikal mukofotlarni yutib olish uchun yana {%d} ta Olmos oling!</item>
+        <item quantity="other">1 kun qoldi. JONLI efir ijodkorlari uchun unikal mukofotlarni yutib olish uchun yana {%d} ta Olmos oling!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="one">Hozirda 1 ta kuzatuvchi faol</item>
+        <item quantity="other">Hozirda %s ta kuzatuvchi faol</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="one">%s tanga zarur</item>
+        <item quantity="other">%s tanga zarur</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="one">%d obunachi tomosha qilyapti</item>
+        <item quantity="other">%d obunachi tomosha qilyapti</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="one">3 daqiqa qoldi. #3 JONLI efir ijodkori boʻlish va ekskluziv nishon yutib olish uchun yana {%d} ta Olmos oling.</item>
+        <item quantity="other">3 daqiqa qoldi. #3 JONLI efir ijodkori boʻlish va ekskluziv nishon yutib olish uchun yana {%d} ta Olmos oling.</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="one">3 daqiqa qoldi. JONLI efiringizga koʻproq ehtimoliy tomoshabinlarni jalb qilish uchun yana {%d} ta olmos oling.</item>
+        <item quantity="other">3 daqiqa qoldi. JONLI efiringizga koʻproq ehtimoliy tomoshabinlarni jalb qilish uchun yana {%d} ta olmos oling.</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="one">3 daqiqa qoldi. Mashhur boshlovchilar uchun unikal mukofotlarni yutib olish uchun yana {%d} ta olmos oling!</item>
+        <item quantity="other">3 daqiqa qoldi. Mashhur boshlovchilar uchun unikal mukofotlarni yutib olish uchun yana {%d} ta olmos oling!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="one">%s soat %d daq</item>
+        <item quantity="other">%s soat %d daq</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="one">olmos</item>
+        <item quantity="other">olmoslar</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="one">marta koʻrildi</item>
+        <item quantity="other">marta koʻrildi</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="one">Savollarga %s daqiqadan keyin javob berish imkonsiz</item>
+        <item quantity="other">Savollarga %s daqiqadan keyin javob berish imkonsiz</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="one">%s soat oldin</item>
+        <item quantity="other">%s soat oldin</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="one">%s daq oldin</item>
+        <item quantity="other">%s daq oldin</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="one">%s 10 daqiqadan keyin boshlanadi. Tadbiringizni %d ta tomoshabin koʻrdi. Reklama kampaniyangizdan maksimal foyda olish uchun JONLI efirni boshlang!</item>
+        <item quantity="other">%s 10 daqiqadan keyin boshlanadi. Tadbiringizni %d ta tomoshabin koʻrdi. Reklama kampaniyangizdan maksimal foyda olish uchun JONLI efirni boshlang!</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="one">%s ta qoʻllanma vazifasini koʻrish</item>
+        <item quantity="other">%s ta qoʻllanma vazifasini koʻrish</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="one">Hadya beruvchilardan %d ta ustuvor soʻrov</item>
+        <item quantity="other">Hadya beruvchilardan %d ta ustuvor soʻrov</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="one">%d tanga</item>
+        <item quantity="other">%d tanga</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="one">Bu sizga %d Tangaga tushadi.</item>
+        <item quantity="other">Bu sizga %d Tangaga tushadi.</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="one">%d Tanga yubordingiz. %s</item>
+        <item quantity="other">%d Tanga yubordingiz. %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="one">JONLI efir ijodkori umumiy hisobda %d tadan ortiq Tanga yuborgan foydalanuvchilar soʻrovlariga ustuvorlik berishi mumkin.</item>
+        <item quantity="other">JONLI efir ijodkori umumiy hisobda %d tadan ortiq Tanga yuborgan foydalanuvchilar soʻrovlariga ustuvorlik berishi mumkin.</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="one">JONLI efir ijodkori siz va umumiy hisobda %d tadan ortiq Tanga yuborgan boshqa foydalanuvchilar soʻrovlariga ustuvorlik berishi mumkin.</item>
+        <item quantity="other">JONLI efir ijodkori siz va umumiy hisobda %d tadan ortiq Tanga yuborgan boshqa foydalanuvchilar soʻrovlariga ustuvorlik berishi mumkin.</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="one">Bu sizga %d Tangaga tushadi.</item>
+        <item quantity="other">Bu sizga %d Tangaga tushadi.</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="one">%2$s soniyadan keyin %1$sga kamerani qayta yoqish taklifini yuborishingiz mumkin</item>
+        <item quantity="other">%2$s soniyadan keyin %1$sga kamerani qayta yoqish taklifini yuborishingiz mumkin</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="one">%2$s soniyadan keyin %1$sga mikrofonni qayta yoqish taklifini yuborishingiz mumkin</item>
+        <item quantity="other">%2$s soniyadan keyin %1$sga mikrofonni qayta yoqish taklifini yuborishingiz mumkin</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="one">%d daqiqa</item>
+        <item quantity="other">%d daqiqa</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="one">%d soniya</item>
+        <item quantity="other">%d soniya</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="one">%d daqiqa</item>
+        <item quantity="other">%d daqiqa</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="one">%d soniya</item>
+        <item quantity="other">%d soniya</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="one">1-bosqichni yakunlash uchun %s ta topshiriq qoldi</item>
+        <item quantity="other">1-bosqichni yakunlash uchun %s ta topshiriq qoldi</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="one">2-bosqichni yakunlash uchun %s ta topshiriq qoldi</item>
+        <item quantity="other">2-bosqichni yakunlash uchun %s ta topshiriq qoldi</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="one">Maksimal %s ta moslangan bonus yaratishingiz mumkin. Yangi moslangan bonus yaratish uchun eskisini oʻchirib tashlang.</item>
+        <item quantity="other">Maksimal %s ta moslangan bonus yaratishingiz mumkin. Yangi moslangan bonus yaratish uchun eskisini oʻchirib tashlang.</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="one">Soʻrovnoma %s soniyadan keyin tugaydi</item>
+        <item quantity="other">Soʻrovnoma %s soniyadan keyin tugaydi</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="one">Ovoz berish (%s s):</item>
+        <item quantity="other">Ovoz berish (%s s):</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="one">Bugun %d tanga sarfladingiz.</item>
+        <item quantity="other">Bugun %d tanga sarfladingiz.</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="one">Hadyalarni shoshmasdan bering. %d daqiqadan keyin qayta urining.</item>
+        <item quantity="other">Hadyalarni shoshmasdan bering. %d daqiqadan keyin qayta urining.</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="one">{0:user} Portali yopildi. Portal orqali {1:string} nafar tomoshabin qoʻshildi.</item>
+        <item quantity="other">{0:user} Portali yopildi. Portal orqali {1:string} nafar tomoshabin qoʻshildi.</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="one">{0:user} Portali yopildi. Portal orqali {1:string} nafar tomoshabin qoʻshildi. Barakalla! ��</item>
+        <item quantity="other">{0:user} Portali yopildi. Portal orqali {1:string} nafar tomoshabin qoʻshildi. Barakalla! ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="one">{0:user} Portali yopildi. Portal orqali {1:string} nafar tomoshabin qoʻshildi. Ajoyib! ��</item>
+        <item quantity="other">{0:user} Portali yopildi. Portal orqali {1:string} nafar tomoshabin qoʻshildi. Ajoyib! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="one">%s marta</item>
+        <item quantity="other">%s marta</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="one">Desktop vebda {{num}} tanga xarid qilindi</item>
+        <item quantity="other">Desktop vebda {{num}} tanga xarid qilindi</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="one">Ilovada {{num}} tanga xarid qilindi</item>
+        <item quantity="other">Ilovada {{num}} tanga xarid qilindi</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="one">Mobil vebda {{num}} tanga xarid qilindi</item>
+        <item quantity="other">Mobil vebda {{num}} tanga xarid qilindi</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="one">Shikoyatingizni tekshirdik va bekor qilish muddatini oʻzgartirdik. Kompyuter yoki Mac bilan JONLI efir qilish ruxsatingiz %s kunda tiklanadi.</item>
+        <item quantity="other">Shikoyatingizni tekshirdik va bekor qilish muddatini oʻzgartirdik. Kompyuter yoki Mac bilan JONLI efir qilish ruxsatingiz %s kunda tiklanadi.</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="one">Kompyuter yoki Mac bilan JONLI efir qilish ruxsatingiz Hamjamiyat qoidalari bir necha marta buzilgani sababli %s kunga cheklandi.</item>
+        <item quantity="other">Kompyuter yoki Mac bilan JONLI efir qilish ruxsatingiz Hamjamiyat qoidalari bir necha marta buzilgani sababli %s kunga cheklandi.</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="one">Shikoyatingizni tekshirdik va Xazina qutisi ruxsatini bekor qilish muddatini %s kunga oʻzgartirdik.</item>
+        <item quantity="other">Shikoyatingizni tekshirdik va Xazina qutisi ruxsatini bekor qilish muddatini %s kunga oʻzgartirdik.</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="one">Hamjamiyat qoidalari bir necha marta buzilgani sababli Xazina qutisi ruxsati %s kunga cheklandi.</item>
+        <item quantity="other">Hamjamiyat qoidalari bir necha marta buzilgani sababli Xazina qutisi ruxsati %s kunga cheklandi.</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="one">Oxirgi 30 kunda %s tadan ortiq olmos oldingiz. Haftalik reytingga qoʻshilish uchun yaxshi ishda davom eting.</item>
+        <item quantity="other">Oxirgi 30 kunda %s tadan ortiq olmos oldingiz. Haftalik reytingga qoʻshilish uchun yaxshi ishda davom eting.</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="one">Bu reyting oxirgi 30 kunda {0:string} tadan kamroq Olmos olgan JONLI efir ijodkorlarini aks ettiradi.</item>
+        <item quantity="other">Bu reyting oxirgi 30 kunda {0:string} tadan kamroq Olmos olgan JONLI efir ijodkorlarini aks ettiradi.</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="one">Hadya berish %s kunga cheklandi</item>
+        <item quantity="other">Hadya berish %s kunga cheklandi</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="one">Hozir sizda {number_1} Tanga bor. Buyum yuborish uchun {number_2} Tanga ({amount}) toʻldirishingiz mumkin.</item>
+        <item quantity="other">Hozir sizda {number_1} Tanga bor. Buyum yuborish uchun {number_2} Tanga ({amount}) toʻldirishingiz mumkin.</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="one">%s Tanga yetmayapti</item>
+        <item quantity="other">%s Tanga yetmayapti</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="one">{number} ta taklif havolasini oldingiz</item>
+        <item quantity="other">{number} ta taklif havolasini oldingiz</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="one">%sdan obuna taklifingizni oching</item>
+        <item quantity="other">%s va boshqalardan obuna taklifingizni oching</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="one">Soʻralgan: %d daq avval</item>
+        <item quantity="other">Soʻralgan: %d daq avval</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="one">Hadya berish %s kunga cheklandi</item>
+        <item quantity="other">Hadya berish %s kunga cheklandi</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="one">Kirish huquqi %s kundan keyin tiklanadi.</item>
+        <item quantity="other">Kirish huquqi %s kundan keyin tiklanadi.</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="one">Shikoyatingizni tekshirdik va bekor qilish muddatini oʻzgartirdik. LIVE Studio ruxsatingiz %s kunda tiklanadi.</item>
+        <item quantity="other">Shikoyatingizni tekshirdik va bekor qilish muddatini oʻzgartirdik. LIVE Studio ruxsatingiz %s kunda tiklanadi.</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="one">Shikoyatingizni tekshirdik va bekor qilish muddatini oʻzgartirdik. Mobil oʻyin ruxsatingiz %s kunda tiklanadi.</item>
+        <item quantity="other">Shikoyatingizni tekshirdik va bekor qilish muddatini oʻzgartirdik. Mobil oʻyin ruxsatingiz %s kunda tiklanadi.</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="one">Shikoyatingizni tekshirdik va bekor qilish muddatini oʻzgartirdik. Kompyuter yoki Mac bilan JONLI efir qilish ruxsatingiz %s kunda tiklanadi.</item>
+        <item quantity="other">Shikoyatingizni tekshirdik va bekor qilish muddatini oʻzgartirdik. Kompyuter yoki Mac bilan JONLI efir qilish ruxsatingiz %s kunda tiklanadi.</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="one">JONLI efir qoidalari yoki Hamjamiyat qoidalari takroriy buzilgani sababli LIVE Studio ruxsatingiz %s kunga cheklandi.</item>
+        <item quantity="other">JONLI efir qoidalari yoki Hamjamiyat qoidalari takroriy buzilgani sababli LIVE Studio ruxsatingiz %s kunga cheklandi.</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="one">JONLI efir qoidalari yoki Hamjamiyat qoidalari takroriy buzilgani sababli mobil oʻyin ruxsatingiz %s kunga cheklandi.</item>
+        <item quantity="other">JONLI efir qoidalari yoki Hamjamiyat qoidalari takroriy buzilgani sababli mobil oʻyin ruxsatingiz %s kunga cheklandi.</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="one">JONLI efir qoidalari yoki Hamjamiyat qoidalari takroriy buzilgani sababli kompyuter yoki Mac bilan JONLI efir qilish ruxsatingiz %s kunga cheklandi.</item>
+        <item quantity="other">JONLI efir qoidalari yoki Hamjamiyat qoidalari takroriy buzilgani sababli kompyuter yoki Mac bilan JONLI efir qilish ruxsatingiz %s kunga cheklandi.</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="one">Maqsad: {&lt;num&gt;} ta hadya beruvchi</item>
+        <item quantity="other">Maqsad: {&lt;num&gt;} ta hadya beruvchi</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="one">Maqsad: {&lt;num&gt;} hadya balli</item>
+        <item quantity="other">Maqsad: {&lt;num&gt;} hadya balli</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="one">Maqsad: {&lt;num&gt;} ta jamoaviy hadya beruvchi</item>
+        <item quantity="other">Maqsad: {&lt;num&gt;} ta jamoaviy hadya beruvchi</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="one">Maqsad: {&lt;num&gt;} jamoa hadya balli</item>
+        <item quantity="other">Maqsad: {&lt;num&gt;} jamoa hadya balli</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="one">+ &lt;num&gt; match balli</item>
+        <item quantity="other">+ &lt;num&gt; match balli</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="one">%s nafar tomoshabin fikringizni tepada koʻradi</item>
+        <item quantity="other">%s nafar tomoshabin fikringizni tepada koʻradi</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="one">JONLI efir davomida Yulduzli fikringiz oʻchirib tashlandi va siz ushbu fikr uchun [0:string] Tangani 24 soat ichida qaytarib olasiz.</item>
+        <item quantity="other">JONLI efir davomida Yulduzli fikringiz oʻchirib tashlandi va siz ushbu fikr uchun [0:string] Tangani 24 soat ichida qaytarib olasiz.</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="one">%s ta Yulduzli fikr navbatda turibdi</item>
+        <item quantity="other">%s ta Yulduzli fikr navbatda turibdi</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="one">Yulduzli fikrlaringiz yaqinda oʻchirib tashlandi. {num} soatdan keyin qayta urining.</item>
+        <item quantity="other">Yulduzli fikrlaringiz yaqinda oʻchirib tashlandi. {num} soatdan keyin qayta urining.</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="one">Yulduzli fikrlaringiz yaqinda oʻchirib tashlandi. {num} daqiqadan keyin qayta urining.</item>
+        <item quantity="other">Yulduzli fikrlaringiz yaqinda oʻchirib tashlandi. {num} daqiqadan keyin qayta urining.</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="one">%s kundan keyin tugaydi</item>
+        <item quantity="other">%s kundan keyin tugaydi</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="one">%1$s kishi tomosha qilmoqda. Hozir faqat obunachilar uchun JONLI efirni boshlash orqali %2$s yangi ochunachiga ega boʻlishingiz mumkin.</item>
+        <item quantity="other">%1$s kishi tomosha qilmoqda. Hozir faqat obunachilar uchun JONLI efirni boshlash orqali %2$s yangi ochunachiga ega boʻlishingiz mumkin.</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="one">%s obunachi tomosha qilmoqda. Faqat obunachilar uchun JONLI efir yordamida hamjamiyatingiz bilan aloqangizni chuqurlashtirishning ayni vaqti.</item>
+        <item quantity="other">%s obunachi tomosha qilmoqda. Faqat obunachilar uchun JONLI efir yordamida hamjamiyatingiz bilan aloqangizni chuqurlashtirishning ayni vaqti.</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="one">Har oyda %2$s daqiqalik faqat obunachilar uchun JONLI efir yordamida %1$s yangi obunachiga ega boʻlishingiz mumkin.</item>
+        <item quantity="other">Har oyda %2$s daqiqalik faqat obunachilar uchun JONLI efir yordamida %1$s yangi obunachiga ega boʻlishingiz mumkin.</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="one">Fikrda %s tagacha hissiyot kiritishingiz mumkin</item>
+        <item quantity="other">Fikrda %s tagacha hissiyot kiritishingiz mumkin</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="one">%1$sning %2$s ta maxsus hissiyotidan foydalanish uchun obuna boʻling</item>
+        <item quantity="other">%1$sning %2$s ta maxsus hissiyotidan foydalanish uchun obuna boʻling</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="one">{number} dan kamroq kuzatuvchilarga ega boʻlish</item>
+        <item quantity="other">{number} dan kamroq kuzatuvchilarga ega boʻlish</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="one">{number} kuzatuvchidan kamroq boshlovchilarni taklif qilish imkonsiz</item>
+        <item quantity="other">{number} kuzatuvchidan kamroq boshlovchilarni taklif qilish imkonsiz</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="one">%d{number2} ga yetish uchun yana {number1} ta ijodkorni taklif qiling! Davom eting!</item>
+        <item quantity="other">%d{number2} ga yetish uchun yana {number1} ta ijodkorni taklif qiling! Davom eting!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="one">%d{rankminusone} ga yetish uchun yana {number} ta ijodkorni taklif qiling! Davom eting!</item>
+        <item quantity="other">%d{rankminusone} ga yetish uchun yana {number} ta ijodkorni taklif qiling! Davom eting!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="one">Faqat {number} dan ortiq kuzatuvchiga ega ijodkorlarni taklif qilishingiz mumkin.</item>
+        <item quantity="other">Faqat {number} dan ortiq kuzatuvchiga ega ijodkorlarni taklif qilishingiz mumkin.</item>
+    </plurals>
+    <plurals name="po">
+        <item quantity="one">{num} ta hissiyot tasdiqlandi</item>
+        <item quantity="other">{num} ta hissiyot tasdiqlandi</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="one">Joriy bonusingiz %d%% koʻproq obunachilarni olib kelishi mumkin.</item>
+        <item quantity="other">Joriy bonusingiz %d%% koʻproq obunachilarni olib kelishi mumkin.</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="one">%1$s hozirgina %2$d oylik obuna xarid qildi!</item>
+        <item quantity="other">%1$s hozirgina %2$d oylik obuna xarid qildi!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="one">Buni %s daqiqada yoqish yoki faolsizlantirishingiz mumkin. Keyinroq qayta urining.</item>
+        <item quantity="other">Buni %s daqiqada yoqish yoki faolsizlantirishingiz mumkin. Keyinroq qayta urining.</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="one">Sizda {num} ta obuna hadyasi bor. Ularni boshqalarga yuboring!</item>
+        <item quantity="other">Sizda {num} ta obuna hadyasi bor. Ularni boshqalarga yuboring!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="one">Sizda %d ta obuna hadyasi qoldi. Ularni boshqalarga yuboring!</item>
+        <item quantity="other">Sizda %d ta obuna hadyasi qoldi. Ularni boshqalarga yuboring!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="one">Tabriklaymiz! Kampaniya mukofotlari sifatida [number] ta obuna hadyasini oldingiz.</item>
+        <item quantity="other">Tabriklaymiz! Kampaniya mukofotlari sifatida [number] ta obuna hadyasini oldingiz.</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="one">{num} kun oldin hamboshlovchilik qildi</item>
+        <item quantity="other">{num} kun oldin hamboshlovchilik qildi</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="one">{number} kun oldin siz bilan JONLI efir qilgan</item>
+        <item quantity="other">{number} kun oldin siz bilan JONLI efir qilgan</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="one">{num} kun oldin siz bilan boshlovchilik qildi</item>
+        <item quantity="other">{num} kun oldin siz bilan boshlovchilik qildi</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="one">Xazina qutisi ruxsatingiz cheklandi. Ruxsat %s kundan keyin tiklanadi.</item>
+        <item quantity="other">Xazina qutisi ruxsatingiz cheklandi. Ruxsat %s kundan keyin tiklanadi.</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="one">top tomoshabin</item>
+        <item quantity="other">top tomoshabinlar</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="one">Top tomoshabin</item>
+        <item quantity="other">Top tomoshabinlar</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="one">Final %s soniyadan keyin boshlanadi</item>
+        <item quantity="other">Final %s soniyadan keyin boshlanadi</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="one">Final %s kundan keyin boshlanadi</item>
+        <item quantity="other">Final %s kundan keyin boshlanadi</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="one">Final %s soatdan keyin boshlanadi</item>
+        <item quantity="other">Final %s soatdan keyin boshlanadi</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="one">Final %s daqiqadan keyin boshlanadi</item>
+        <item quantity="other">Final %s daqiqadan keyin boshlanadi</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="one">Yarim final %s kundan keyin boshlanadi</item>
+        <item quantity="other">Yarim final %s kundan keyin boshlanadi</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="one">Yarim final %s soatdan keyin boshlanadi</item>
+        <item quantity="other">Yarim final %s soatdan keyin boshlanadi</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="one">Yarim final %s daqiqadan keyin boshlanadi</item>
+        <item quantity="other">Yarim final %s daqiqadan keyin boshlanadi</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="one">Yarim final %s soniyadan keyin boshlanadi</item>
+        <item quantity="other">Yarim final %s soniyadan keyin boshlanadi</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="one">#{1:string} uchun yana {0:string} Olmos zarur</item>
+        <item quantity="other">#{1:string} uchun yana {0:string} Olmos zarur</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="one">#{1:string} uchun yana {0:string} ta hadya beruvchi zarur</item>
+        <item quantity="other">#{1:string} uchun yana {0:string} ta hadya beruvchi zarur</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="one">kun</item>
+        <item quantity="other">kun</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="one">{num} tangaga {amount} ayirboshladingiz.</item>
+        <item quantity="other">{num} tangaga {amount} ayirboshladingiz.</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="one">{amount} ga {num} tanga xarid qildingiz.</item>
+        <item quantity="other">{amount} ga {num} tanga xarid qildingiz.</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="one">%d2 uchun yana {num} jamoa balli zarur</item>
+        <item quantity="other">%d2 uchun yana {num} jamoa balli zarur</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="one">+{num} jamoa balli (Jamoa Hadyasi&quot; kuniga %1$s/%2$s ta)</item>
+        <item quantity="other">+{num} jamoa balli (Jamoa Hadyasi&quot; kuniga %1$s/%2$s ta)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="one">Qidiruv orqali %s nafar tomoshabin qoʻshildi</item>
+        <item quantity="other">Qidiruv orqali %s nafar tomoshabin qoʻshildi</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="one">%d%2$s uchun yana %1$s jamoa balli zarur</item>
+        <item quantity="other">%d%2$s uchun yana %1$s jamoa balli zarur</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="one">%d%2$s uchun yana %1$s jamoa balli zarur</item>
+        <item quantity="other">%d%2$s uchun yana %1$s jamoa balli zarur</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="one">Qandaydir xatolik yuz berdi. {number} soatdan keyin qayta urining</item>
+        <item quantity="other">Qandaydir xatolik yuz berdi. {number} soatdan keyin qayta urining</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="one">Qandaydir xatolik yuz berdi. {number} daqiqadan keyin qayting</item>
+        <item quantity="other">Qandaydir xatolik yuz berdi. {number} daqiqadan keyin qayting</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="one">Tomoshabin</item>
+        <item quantity="other">Tomoshabinlar</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="one">%d ta tomoshabin</item>
+        <item quantity="other">%d ta tomoshabin</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="one">%s ta tomoshabin</item>
+        <item quantity="other">%s ta tomoshabin</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="one">%s tomoshabin hadyalar yubordi</item>
+        <item quantity="other">%s tomoshabin hadyalar yubordi</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="one">Post (%s)</item>
+        <item quantity="other">Postlar (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="one">(%s ta sharh)</item>
+        <item quantity="other">(%s ta sharh)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="one">%s ta surat yuklanmadi. Qaytadan urining.</item>
+        <item quantity="other">%s ta surat yuklanmadi. Qaytadan urining.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="one">%d ta oʻxshash ovoz</item>
+        <item quantity="other">%d ta oʻxshash ovoz</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="one">%d ta profilga tashrif</item>
+        <item quantity="other">%d ta profilga tashriflar</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="one">Kuzatuvchi</item>
+        <item quantity="other">Kuzatuvchi</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="one">%1$s %2$s ta layk oldi</item>
+        <item quantity="other">%1$s barcha videolar uchun jami %2$s ta layk oldi</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="one">profilingizni koʻrdi.</item>
+        <item quantity="other">profilingizni koʻrdi.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="one">%1$s, %2$s va yana %d kishi</item>
+        <item quantity="other">%1$s, %2$s va yana %d kishi</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="one">%s kishi profilingizni koʻrdi.</item>
+        <item quantity="other">%s kishi profilingizni koʻrdi.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="one">{0}, {1} va {2} kishi profilingizni koʻrdi.</item>
+        <item quantity="other">{0}, {1} va {2} kishi profilingizni koʻrdi.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="one">%1$s va yana %2$s ta qurilmangizga bildirishnoma yuborildi. TikTok ilovangiz ochiqligini tekshiring va hisobga kirishda davom etish uchun bildirishnomada “Ha” tugmasini bosing.</item>
+        <item quantity="other">%1$s va yana %2$s ta qurilmangizga bildirishnoma yuborildi. TikTok ilovangiz ochiqligini tekshiring va hisobga kirishda davom etish uchun bildirishnomada “Ha” tugmasini bosing.</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="one">%s ta video</item>
+        <item quantity="other">%s ta video</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="one">%d ta video</item>
+        <item quantity="other">%d ta video</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="one">%s ta yaroqsiz savol takliflaringizdan olib tashlandi</item>
+        <item quantity="other">%s ta yaroqsiz savol takliflaringizdan olib tashlandi</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="one">%s ta yangi xabar</item>
+        <item quantity="other">%s ta yangi xabar</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="one">%s ta yangi munosabat</item>
+        <item quantity="other">%s ta yangi munosabat</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="one">%d kishi tavsiya etadi</item>
+        <item quantity="other">%d kishi tavsiya etadi</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="one">%d kishi tavsiya etadi</item>
+        <item quantity="other">%d kishi tavsiya etadi</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="one">Yana %d ta tavsiyani koʻrish</item>
+        <item quantity="other">Yana %d ta tavsiyani koʻrish</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="one">%d soniyagacha tasvirga oling</item>
+        <item quantity="other">%d soniyagacha tasvirga oling</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="one">Original videodagi ovoz yordamida %d soniyagacha tasvirga oling</item>
+        <item quantity="other">Original videodagi ovoz yordamida %d soniyagacha tasvirga oling</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="one">Qoralama (%d)</item>
+        <item quantity="other">Qoralamalar (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="one">Agar bu tovushni qayta tiklashni tanlasangiz videongiz ovozsiz qilinadi.</item>
+        <item quantity="other">Agar bu tovushlarni qayta tiklashni tanlasangiz videongiz ovozsiz qilinadi.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="one">Mualliflik huquqi bor tovush qayta tiklansinmi?</item>
+        <item quantity="other">Mualliflik huquqi bor tovushlar qayta tiklansinmi?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="one">Mualliflik huquqi bor tovush olib tashlandi</item>
+        <item quantity="other">Mualliflik huquqi bor tovushlar olib tashlandi</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="one">Tovush olib tashlanmoqda</item>
+        <item quantity="other">Tovushlar olib tashlanmoqda</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="one">Tovish olib tashlandi</item>
+        <item quantity="other">Tovushlar olib tashlandi</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="one">Tovushni almashtirish</item>
+        <item quantity="other">Tovushlarni almashtirish</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="one">Mualliflik huquqi bor tovush olib tashlanmoqda...</item>
+        <item quantity="other">Mualliflik huquqi bor tovushlar olib tashlanmoqda...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="one">Biz videongizda 1 daqiqadan uzunroq mualliflik huquqini buzuvchi tovushni aniqladik va davom ettirsangiz, u tovush ovozsiz qilinadi. Tovushni almashtiring yoki videoni qisqartiring. %s</item>
+        <item quantity="other">Biz videongizda 1 daqiqadan uzunroq mualliflik huquqini buzuvchi tovushlarni aniqladik va davom ettirsangiz, u tovush ovozsiz qilinadi. Tovushni almashtiring yoki videoni qisqartiring. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="one">Tovushni almashtirish</item>
+        <item quantity="other">Tovushlarni almashtirish</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="one">Mualliflik huquqi bor tovush olib tashlanmoqda...</item>
+        <item quantity="other">Mualliflik huquqi bor tovushlar olib tashlanmoqda...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="one">Biz videongizda mualliflik huquqini buzuvchi tovush aniqladik. Agar davom ettirsangiz, videongiz ovozsiz qilinadi yoki siz tovushni almashtirishingiz mumkin. %s</item>
+        <item quantity="other">Biz videongizda mualliflik huquqini buzuvchi tovushlar aniqladik. Agar davom ettirsangiz, videongiz ovozsiz qilinadi yoki siz tovushni almashtirishingiz mumkin. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="one">Mualliflik huquqi bor tovush</item>
+        <item quantity="other">Mualliflik huquqi bor tovushlar</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="one">Mualliflik huquqi egasi bu tovushdan faqat 1 daqiqa foydalanishga ruxsat bergan.</item>
+        <item quantity="other">Mualliflik huquqi egasi bu tovushlardan faqat 1 daqiqa foydalanishga ruxsat bergan.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="one">Mualliflik huquqi egasi bu tovushdan foydalanishga ruxsat bermagan.</item>
+        <item quantity="other">Mualliflik huquqi egasi bu tovushlardan foydalanishga ruxsat bermagan.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="one">Tovushni almashtirish</item>
+        <item quantity="other">Tovushlarni almashtirish</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="one">Biz videongizda 1 daqiqadan uzunroq mualliflik huquqini buzuvchi tovushni aniqladik va davom ettirsangiz, u tovush ovozsiz qilinadi. Tovushni almashtiring yoki videoni qisqartiring. %s</item>
+        <item quantity="other">Biz videongizda 1 daqiqadan uzunroq mualliflik huquqini buzuvchi tovushlarni aniqladik va davom ettirsangiz, u tovush ovozsiz qilinadi. Tovushni almashtiring yoki videoni qisqartiring. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="one">Tovushni almashtirish</item>
+        <item quantity="other">Tovushlarni almashtirish</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="one">Biz videongizda mualliflik huquqini buzuvchi tovush aniqladik. Agar davom ettirsangiz, videongiz ovozsiz qilinadi yoki siz tovushni almashtirishingiz mumkin. %s</item>
+        <item quantity="other">Biz videongizda mualliflik huquqini buzuvchi tovushlar aniqladik. Agar davom ettirsangiz, videongiz ovozsiz qilinadi yoki siz tovushni almashtirishingiz mumkin. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="one">Videoni olib tashlash (%d)</item>
+        <item quantity="other">Videolarni olib tashlash (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="one">%d ta repost</item>
+        <item quantity="other">%d ta repost</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="one">%d kishi repost qilgan</item>
+        <item quantity="other">%d kishi repost qilgan</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="one">%d kishi repost qilgan</item>
+        <item quantity="other">%d kishi repost qilgan</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="one">Yana %d ta javobni koʻrish</item>
+        <item quantity="other">Yana %d ta javobni koʻrish</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="one">%d kun</item>
+        <item quantity="other">%d kun</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="one">%2$d ball olish uchun yana %1$d marta qidiring</item>
+        <item quantity="other">%2$d ball olish uchun yana %1$d marta qidiring</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="one">Qidiruv natijalarini %d soniya koʻrib chiqing</item>
+        <item quantity="other">Qidiruv natijalarini %d soniya koʻrib chiqing</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="one">%2$d ball olish uchun yana %1$d marta qidiring!</item>
+        <item quantity="other">%2$d ball olish uchun yana %1$d marta qidiring!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="one">%d ta oʻxshash ovoz</item>
+        <item quantity="other">%d ta oʻxshash ovoz</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="one">%d kun oldin yangilangan</item>
+        <item quantity="other">%d kun oldin yangilangan</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="one">%d soat oldin yangilangan</item>
+        <item quantity="other">%d soat oldin yangilangan</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="one">%d daqiqa oldin yangilangan</item>
+        <item quantity="other">%d daqiqa oldin yangilangan</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="one">%d soniya oldin yangilangan</item>
+        <item quantity="other">%d soniya oldin yangilangan</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="one">%d hafta oldin yangilangan</item>
+        <item quantity="other">%d hafta oldin yangilangan</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="one">Surat ulashdingiz.</item>
+        <item quantity="other">Suratlar ulashdingiz.</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="one">Tabriklaymiz! Kecha yana %d ta xarid amalga oshdi. Shu zaylda davom eting va Series natijalarini &quot;Ijodkor vositalari&quot; &gt; &quot;Series&quot; orqali kuzating.</item>
+        <item quantity="other">Tabriklaymiz! Kecha yana %d ta xarid amalga oshdi. Shu zaylda davom eting va Series natijalarini &quot;Ijodkor vositalari&quot; &gt; &quot;Series&quot; orqali kuzating.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="one">Seriesingiz oxirgi kunlarda sahifangizga %d ta tashrif toʻpladi. Series natijalarini kuzatish va xaridorlarni chorlash boʻyicha amaliy maslahatlar olish uchun &quot;Ijodkor vositalari&quot; &gt; &quot;Series&quot; orqali statistika vositalariga kirishingiz mumkin.</item>
+        <item quantity="other">Seriesingiz oxirgi kunlarda sahifangizga %d ta tashrif toʻpladi. Series natijalarini kuzatish va xaridorlarni chorlash boʻyicha amaliy maslahatlar olish uchun &quot;Ijodkor vositalari&quot; &gt; &quot;Series&quot; orqali statistika vositalariga kirishingiz mumkin.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="one">Tabriklaymiz! JONLI efiringizdagi %d ta tomoshabin kecha Seriesga kirish huquqini sotib oldi. Shu zaylda davom eting va Series natijalarini &quot;Ijodkor vositalari&quot; &gt; &quot;Series&quot; orqali kuzating.</item>
+        <item quantity="other">Tabriklaymiz! JONLI efiringizdagi %d ta tomoshabin kecha Seriesga kirish huquqini sotib oldi. Shu zaylda davom eting va Series natijalarini &quot;Ijodkor vositalari&quot; &gt; &quot;Series&quot; orqali kuzating.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="one">Tabriklaymiz! %d ta tomoshabin kecha Series havolasi bor videodan Seriesga kirish huquqini sotib oldi. Shu zaylda davom eting va Series natijalarini &quot;Ijodkor vositalari&quot; &gt; &quot;Series&quot; orqali kuzating.</item>
+        <item quantity="other">Tabriklaymiz! %d ta tomoshabin kecha Series havolasi bor videodan Seriesga kirish huquqini sotib oldi. Shu zaylda davom eting va Series natijalarini &quot;Ijodkor vositalari&quot; &gt; &quot;Series&quot; orqali kuzating.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="one">Kameraga kirish (%d)</item>
+        <item quantity="other">Kameraga kirish (%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="one">%.1f (%s ta sharh)</item>
+        <item quantity="other">%.1f (%s ta sharh)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="one">Faqat ilk xaridor</item>
+        <item quantity="other">Faqat ilk %d xaridor</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="one">Atigi %d ta qoldi</item>
+        <item quantity="other">Atigi %d ta qoldi</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="one">Yana %d kun amal qiladi</item>
+        <item quantity="other">Yana %d kun amal qiladi</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="one">%d ta video</item>
+        <item quantity="other">%d ta video</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="one">%d ta video</item>
+        <item quantity="other">%d ta video</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="one">%d ta video</item>
+        <item quantity="other">%d ta video</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="one">%s ta video</item>
+        <item quantity="other">%s ta video</item>
+    </plurals>
+    <plurals name="t7">
+        <item quantity="one">{0}, {1} va yana {2} kishi postingizni hikoyalariga kiritdi.</item>
+        <item quantity="other">{0}, {1} va yana {2} kishi postingizni hikoyalariga kiritdi.</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="one">%d marta</item>
+        <item quantity="other">%d marta</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="one">Hikoya (%d)</item>
+        <item quantity="other">Hikoyalar (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="one">{Brand} {start_date} - {end_date} sanasidagi dastlabki ruxsatlarini {num} kunga uzaytirmoqchi.</item>
+        <item quantity="other">{Brand} {start_date} - {end_date} sanasidagi dastlabki ruxsatlarini {num} kunga uzaytirmoqchi.</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="one">%d ta video kiritildi</item>
+        <item quantity="other">%d ta video kiritildi</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="one">Ijodkorlar TikTokda %d oydan koʻproq vaqt faol.</item>
+        <item quantity="other">Ijodkorlar TikTokda %d oydan koʻproq vaqt faol.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="one">Ijodkorlarning kamida %d kuzatuvchisi bor.</item>
+        <item quantity="other">Ijodkorlarning kamida %d kuzatuvchisi bor.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="one">%d ta munosabat</item>
+        <item quantity="other">%d ta munosabat</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="one">Trenddagi mavzularni kiritishning kunlik cheklovi: %d ta post</item>
+        <item quantity="other">Trenddagi mavzularni kiritishning kunlik cheklovi: %d ta post</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="one">Taxminiy tekshiruv vaqti: %d kun</item>
+        <item quantity="other">Taxminiy tekshiruv vaqti: %d kun</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="one">%@ ta video</item>
+        <item quantity="other">%@ ta video</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="one">%@ marta koʻrildi</item>
+        <item quantity="other">%@ marta koʻrildi</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="one">%d kun oldin</item>
+        <item quantity="other">%d kun oldin</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="one">Soat</item>
+        <item quantity="other">Soat</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="one">%1$d soat oldin</item>
+        <item quantity="other">%1$d soat oldin</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="one">daqiqa</item>
+        <item quantity="other">daqiqa</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="one">%1$d daqiqa oldin</item>
+        <item quantity="other">%1$d daqiqa oldin</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="one">Soat</item>
+        <item quantity="other">Soat</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="one">daqiqa</item>
+        <item quantity="other">daqiqa</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="one">s</item>
+        <item quantity="other">s</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="one">%1$d yil oldin</item>
+        <item quantity="other">%1$d yil oldin</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="one">Kechirasiz! Siz bloklangansiz\n %1$d kundan keyin yana jonli striming qilishingiz mumkin</item>
+        <item quantity="other">Kechirasiz! Siz bloklangansiz\n %1$d kundan keyin yana jonli striming qilishingiz mumkin</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="one">Kechirasiz! Siz bloklangansiz\n %1$d soatdan keyin yana jonli striming qilishingiz mumkin</item>
+        <item quantity="other">Kechirasiz! Siz bloklangansiz\n %1$d soatdan keyin yana jonli striming qilishingiz mumkin</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="one">Kechirasiz, ayni paytda bloklangansiz. \n Quyidagi vaqtdan keyin yana jonli striming qilishingiz mumkin: %1$d daqiqa</item>
+        <item quantity="other">Kechirasiz, ayni paytda bloklangansiz. \n Quyidagi vaqtdan keyin yana jonli striming qilishingiz mumkin: %1$d daqiqa</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="one">Kechirasiz! Siz bloklangansiz\n %1$d soniyadan keyin yana jonli striming qilishingiz mumkin</item>
+        <item quantity="other">Kechirasiz! Siz bloklangansiz\n %1$d soniyadan keyin yana jonli striming qilishingiz mumkin</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="one">%d ta foydalanuvchi translatsiyangizni tomosha qilmoqda, uni yopmoqchimisiz?</item>
+        <item quantity="other">%d ta foydalanuvchi translatsiyangizni tomosha qilmoqda, uni yopmoqchimisiz?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="one">%d kunda eskiradi</item>
+        <item quantity="other">%d kunda eskiradi</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="one">%d soatda eskiradi</item>
+        <item quantity="other">%d soatda eskiradi</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="one">Yana %2$d ta olish uchun hisobingizni birinchi marta %1$d ta olmosga toʻldiring!</item>
+        <item quantity="other">Yana %2$d ta olish uchun hisobingizni birinchi marta %1$d ta olmosga toʻldiring!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="one">daqiqa</item>
+        <item quantity="other">daqiqa</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="one">TikTokdagi sinov muddatingiz tugashiga %d kun qoldi</item>
+        <item quantity="other">TikTokdagi sinov muddatingiz tugashiga %d kun qoldi</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="one">%d kun</item>
+        <item quantity="other">%d kun</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="one">TikTokdagi bu funksiyadan foydalanishni yana %d kun davom ettirishingiz mumkin. Undan keyin davom etish uchun TikTok Now ilovasini yuklab oling.</item>
+        <item quantity="other">TikTokdagi bu funksiyadan foydalanishni yana %d kun davom ettirishingiz mumkin. Undan keyin davom etish uchun TikTok Now ilovasini yuklab oling.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="one">%d kunlik TikTok Now sinov muddatini boshlash uchun post joylang.</item>
+        <item quantity="other">%d kunlik TikTok Now sinov muddatini boshlash uchun post joylang.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="one">%d ta klipni tanlang yoki yozib oling</item>
+        <item quantity="other">%d ta klipni tanlang yoki yozib oling</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="one">Tugallanmagan suratni tahrirlaysizmi?</item>
+        <item quantity="other">Tugallanmagan suratlarni tahrirlaysizmi?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="one">%s ta yangi post</item>
+        <item quantity="other">%s ta yangi post</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="one">%d ta video joyladi</item>
+        <item quantity="other">%d ta video joyladi</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="one">%d yoshdamisiz?</item>
+        <item quantity="other">%d yoshdamisiz?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="one">Qirqilgan ovozdan foydalaning. %d soniyagacha yozib oling.</item>
+        <item quantity="other">Qirqilgan ovozdan foydalaning. %d soniyagacha yozib oling.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="one">%s tomoshabin</item>
+        <item quantity="other">%s tomoshabin</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="one">%s ta layk</item>
+        <item quantity="other">%s ta layk</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="one">%2$s soniyada %1$s orqali ulashiladi</item>
+        <item quantity="other">%2$s soniyada %1$s orqali ulashiladi</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="one">%d ta mahsulot</item>
+        <item quantity="other">%d ta mahsulot</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="one">Post</item>
+        <item quantity="other">Postlar</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="one">%1$s, %2$s va yana %d kishi</item>
+        <item quantity="other">%1$s, %2$s va yana %d kishi</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="one">postingizni koʻrdi.</item>
+        <item quantity="other">postingizni koʻrdi.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="one">%s ta ulashuv</item>
+        <item quantity="other">%s ta ulashuv</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="one">%s marta</item>
+        <item quantity="other">%s marta</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="one">{0}, {1} va {2} kishi postingizni koʻrdi.</item>
+        <item quantity="other">{0}, {1} va {2} kishi postingizni koʻrdi.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="one">%d Tanga</item>
+        <item quantity="other">%d Tanga</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="one">yubordi: %s</item>
+        <item quantity="other">yubordi: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="one">Rasm saqlandi</item>
+        <item quantity="other">Rasmlar saqlandi</item>
+    </plurals>
+</resources>

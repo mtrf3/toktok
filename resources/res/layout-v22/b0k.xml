@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C53700L5s
+    id="@+id/kl3"
+    paddingLeft="5dp"
+    paddingTop="2dp"
+    paddingRight="5dp"
+    paddingBottom="2dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    paddingHorizontal="5dp"
+    paddingVertical="2dp"
+    NOT_FOUND_0x11="6"
+    NOT_FOUND_0x12="2dp">
+    <LinearLayout
+        gravity="center"
+        orientation="horizontal"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <com.bytedance.tux.icon.TuxIconView
+            layout_width="12dp"
+            layout_height="12dp"
+            NOT_FOUND_0x14="@raw/icon_story_star"
+            NOT_FOUND_0x15="12dp"
+            NOT_FOUND_0x16="12dp"
+            NOT_FOUND_0x17="?attr/dj"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            ellipsize="end"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/tjl"
+            maxLines="1"
+            textAlignment="center"
+            layout_marginStart="2dp"
+            NOT_FOUND_0x13="62"/>
+    </LinearLayout>
+</X.C53700L5s>

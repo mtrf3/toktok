@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    orientation="vertical"
+    background="?attr/d6"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        gravity="center_horizontal"
+        id="@+id/l4x"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        text="@string/tfx"
+        layout_marginStart="40dp"
+        layout_marginEnd="40dp"
+        NOT_FOUND_0xa="32"/>
+</LinearLayout>

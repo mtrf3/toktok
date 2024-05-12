@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="match_parent">
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center_vertical"
+        id="@android:id/icon"
+        layout_width="20dp"
+        layout_height="20dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gx"
+        layout_gravity="center_vertical"
+        id="@android:id/text1"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginStart="4dp"
+        NOT_FOUND_0x7="52"/>
+</LinearLayout>

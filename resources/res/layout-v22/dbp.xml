@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="48dp">
+    <View
+        id="@+id/eyu"
+        background="?attr/ec"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <LinearLayout
+        orientation="horizontal"
+        id="@+id/g7c"
+        paddingLeft="12dp"
+        paddingRight="12dp"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        paddingHorizontal="12dp">
+        <androidx.appcompat.widget.AppCompatImageView
+            layout_gravity="center_vertical"
+            id="@+id/f60"
+            visibility="visible"
+            layout_width="28dp"
+            layout_height="28dp"
+            scaleType="centerCrop"
+            layout_marginEnd="8dp"/>
+        <X.U5I
+            textColor="?attr/bmu"
+            gravity="start|center_vertical"
+            id="@+id/mo0"
+            layout_width="0dp"
+            layout_height="match_parent"
+            text=""
+            layout_weight="1"
+            layout_marginEnd="8dp"
+            style="@style/ov"/>
+        <com.bytedance.android.live.design.view.icon.LiveIconView
+            layout_gravity="center_vertical"
+            id="@+id/f42"
+            layout_width="19dp"
+            layout_height="19dp"
+            NOT_FOUND_0x10="?attr/asn"
+            NOT_FOUND_0x11="#ffffff"/>
+    </LinearLayout>
+</FrameLayout>

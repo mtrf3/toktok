@@ -1,0 +1,3107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">আমরা %d মিনিটের মধ্যে আপনার অবতার তৈরি করা শুরু করব।</item>
+        <item quantity="other">আমরা %d মিনিটের মধ্যে আপনার অবতার তৈরি করা শুরু করব।</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">%dটি স্টাইল ব্যবহার করে চালিয়ে যান</item>
+        <item quantity="other">%dটি স্টাইল ব্যবহার করে চালিয়ে যান</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">একটি মানুষের মুখ সহ কমপক্ষে আরও %dটি ফটো নির্বাচন করুন</item>
+        <item quantity="other">একটি মানুষের মুখ সহ কমপক্ষে আরও %dটি ফটো নির্বাচন করুন</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">আপনি Sharp ব্যবহার করে দিনে %d বার অবতার তৈরি করতে পারবেন</item>
+        <item quantity="other">আপনি Sharp ব্যবহার করে দিনে %d বার অবতার তৈরি করতে পারবেন</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">আপনি Sharp ব্যবহার করে সপ্তাহে %d বার অবতার তৈরি করতে পারবেন</item>
+        <item quantity="other">আপনি Sharp ব্যবহার করে সপ্তাহে %d বার অবতার তৈরি করতে পারবেন</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">আপনি Speedy ব্যবহার করে দিনে %d বার অবতার তৈরি করতে পারবেন</item>
+        <item quantity="other">আপনি Speedy ব্যবহার করে দিনে %d বার অবতার তৈরি করতে পারবেন</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="one">আপনি Speedy ব্যবহার করে সপ্তাহে %d বার অবতার তৈরি করতে পারবেন</item>
+        <item quantity="other">আপনি Speedy ব্যবহার করে সপ্তাহে %d বার অবতার তৈরি করতে পারবেন</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="one">আপনি দিনে %d বার অবতার তৈরি করতে পারবেন</item>
+        <item quantity="other">আপনি দিনে %d বার অবতার তৈরি করতে পারবেন</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="one">আপনি সপ্তাহে %d বার অবতার তৈরি করতে পারবেন</item>
+        <item quantity="other">আপনি সপ্তাহে %d বার অবতার তৈরি করতে পারবেন</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="one">আমরা %d মিনিটের মধ্যে আপনার অবতার তৈরি করা শুরু করব।</item>
+        <item quantity="other">আমরা %d মিনিটের মধ্যে আপনার অবতার তৈরি করা শুরু করব।</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="one">অনুমোদিত (%d)</item>
+        <item quantity="other">অনুমোদিত (%d)</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="one">আপনি %dটি নতুন উল্লেখ পেয়েছেন।</item>
+        <item quantity="other">আপনি %dটি নতুন উল্লেখ পেয়েছেন।</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="one">আপনার কাছে %dটি অনুরোধ রয়েছে</item>
+        <item quantity="other">আপনার কাছে %dটি অনুরোধ রয়েছে</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="one">আপনার কাছে %dটি অনুরোধ রয়েছে</item>
+        <item quantity="other">আপনার কাছে %dটি অনুরোধ রয়েছে</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="one">%dটি প্রশ্ন</item>
+        <item quantity="other">%dটি প্রশ্ন</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="one">প্রথম %d দিনের জন্য, অন্যদের অবশ্যই আপনার পোস্টগুলি দেখার জন্য পোস্ট করতে হবে।</item>
+        <item quantity="other">প্রথম %d দিনের জন্য, অন্যদের অবশ্যই আপনার পোস্টগুলি দেখার জন্য পোস্ট করতে হবে।</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="one">%d দিন পরে, তারা পোস্ট না করেও আপনার পোস্টগুলি দেখতে পারেন।</item>
+        <item quantity="other">%d দিন পরে, তারা পোস্ট না করেও আপনার পোস্টগুলি দেখতে পারেন।</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="one">%d দিন পরে, শুধু আপনি আপনার পোস্টগুলি দেখতে পাবেন।</item>
+        <item quantity="other">%d দিন পরে, শুধু আপনি আপনার পোস্টগুলি দেখতে পাবেন।</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="one">প্রথম %d দিনের জন্য, অন্যদের অবশ্যই আপনার Now পোস্টগুলি দেখার জন্য পোস্ট করতে হবে।</item>
+        <item quantity="other">প্রথম %d দিনের জন্য, অন্যদের অবশ্যই আপনার Now পোস্টগুলি দেখার জন্য পোস্ট করতে হবে।</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="one">%dটি পণ্য</item>
+        <item quantity="other">%dটি পণ্য</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="one">পর্যালোচনার অধীনে (%d)</item>
+        <item quantity="other">পর্যালোচনার অধীনে (%d)</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="one">আপনার নিবন্ধন একবার অনুমোদিত হলে নিবন্ধের তথ্য %d মাস আগে পরিবর্তন করা যাবে না।</item>
+        <item quantity="other">আপনার নিবন্ধন একবার অনুমোদিত হলে নিবন্ধের তথ্য %d মাস আগে পরিবর্তন করা যাবে না।</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="one">আপনার নিবন্ধন হওয়ার %d মাস পরেই একমাত্র আপনি নিবন্ধিত তথ্য পরিবর্তন করতে পারবেন।</item>
+        <item quantity="other">আপনার নিবন্ধন হওয়ার %d মাস পরেই একমাত্র আপনি নিবন্ধিত তথ্য পরিবর্তন করতে পারবেন।</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="one">সর্বাধিক %d টি ছবি আপলোড করুন</item>
+        <item quantity="other">সর্বাধিক %d টি ছবি আপলোড করুন</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="one">{username} দিয়ে ফটো খুলুন</item>
+        <item quantity="other">{username} দিয়ে ফটোগুলি খুলুন</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="one">{number} জন ব্যক্তি এই ভিডিওটি তাদের পছন্দসই-তে যোগ করেছেন</item>
+        <item quantity="other">{number} জন ব্যক্তি এই ভিডিওটি তাদের পছন্দসই-তে যোগ করেছেন</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="one">%dটি লাইক</item>
+        <item quantity="other">%dটি লাইক</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ বিলিয়ন</item>
+        <item quantity="other">%@ বিলিয়ন</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ মিলিয়ন</item>
+        <item quantity="other">%@ মিলিয়ন</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ হাজার</item>
+        <item quantity="other">%@ হাজার</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="one">%dটি ভিউ</item>
+        <item quantity="other">%dটি ভিউ</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="one">%sটি ভিডিও মন্তব্যগুলোয় অনুমতি দেয়</item>
+        <item quantity="other">%sটি ভিডিও মন্তব্যগুলোয় অনুমতি দেয়</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="one">%sটি ভিডিও মন্তব্যগুলোয় অনুমতি দেয় না</item>
+        <item quantity="other">%sটি ভিডিওগুলি মন্তব্যগুলোয় অনুমতি দেয় না</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="one">%d জনকে ডুয়েটের অনুমতি না দিলে</item>
+        <item quantity="other">%d জনকে ডুয়েটের অনুমতি না দিলে</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="one">যে কেউ আপনার ভিডিওর সাথে ডুয়েট করতে পারবেন। আপনার %1$dটি ভিডিও ডুয়েটের অনুমতি দেয়, %2$s</item>
+        <item quantity="other">যে কেউ আপনার ভিডিওর সাথে ডুয়েট করতে পারবেন। আপনার %1$dটি ভিডিও ডুয়েটের অনুমতি দেয়, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="one">%d জনকে ডুয়েটের অনুমতি না দিলে</item>
+        <item quantity="other">%d জনকে ডুয়েটের অনুমতি না দিলে</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="one">বন্ধুরা আপনার ভিডিওর সাথে ডুয়েট করতে পারবেন। আপনার %1$dটি ভিডিও ডুয়েটের অনুমতি দেয়, %2$s</item>
+        <item quantity="other">বন্ধুরা আপনার ভিডিওর সাথে ডুয়েট করতে পারবেন। আপনার %1$dটি ভিডিও ডুয়েটের অনুমতি দেয়, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="one">%d জনকে ডুয়েটের অনুমতি না দিলে</item>
+        <item quantity="other">%d জনকে ডুয়েটের অনুমতি না দিলে</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="one">কারা আপনার ভিডিওর সাথে ডুয়েট করতে পারেন তা পর্যালোচনা করুন। আপনার %1$dটি ভিডিও ডুয়েট করার অনুমতি দেয়, %2$s</item>
+        <item quantity="other">কারা আপনার ভিডিওর সাথে ডুয়েট করতে পারেন তা পর্যালোচনা করুন। আপনার %1$dটি ভিডিও ডুয়েট করার অনুমতি দেয়, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="one">%d জনকে স্টিচের অনুমতি না দিলে</item>
+        <item quantity="other">%d জনকে স্টিচের অনুমতি না দিলে</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="one">কারা আপনার ভিডিওর সাথে স্টিচ করতে পারবেন তা পর্যালোচনা করুন। আপনার %1$dটি ভিডিও স্টিচ করার অনুমতি দেয়, %2$s</item>
+        <item quantity="other">কারা আপনার ভিডিওর সাথে স্টিচ করতে পারবেন তা পর্যালোচনা করুন। আপনার %1$dটি ভিডিও স্টিচ করার অনুমতি দেয়, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="one">%d জনকে স্টিচের অনুমতি না দিলে</item>
+        <item quantity="other">%d জনকে স্টিচের অনুমতি না দিলে</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="one">যে কেউ আপনার ভিডিওর সাথে স্টিচ করতে পারবেন। আপনার %1$dটি ভিডিও স্টিচ করার অনুমতি দেয়, %2$s</item>
+        <item quantity="other">যে কেউ আপনার ভিডিওর সাথে স্টিচ করতে পারবেন। আপনার %1$dটি ভিডিও স্টিচ করার অনুমতি দেয়, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="one">%d জনকে স্টিচের অনুমতি না দিলে</item>
+        <item quantity="other">%d জনকে স্টিচের অনুমতি না দিলে</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="one">বন্ধুরা আপনার ভিডিও স্টিচ করতে পারবেন। আপনার %1$dটি ভিডিও স্টিচের অনুমতি দেয়, %2$s</item>
+        <item quantity="other">বন্ধুরা আপনার ভিডিওর সাথে স্টিচ করতে পারবেন। আপনার %1$dটি ভিডিও স্টিচ করার অনুমতি দেয়, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="one">%sটি ভিডিও ডুয়েটের অনুমতি দেয়</item>
+        <item quantity="other">%sটি ভিডিও ডুয়েটের অনুমতি দেয়</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="one">%sটি ভিডিও ডুয়েটের অনুমতি দেয় না</item>
+        <item quantity="other">%sটি ভিডিও ডুয়েটের অনুমতি দেয় না</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="one">%sটি ভিডিও স্টিচের অনুমতি দেয়</item>
+        <item quantity="other">%sটি ভিডিও স্টিচের অনুমতি দেয়</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="one">%sটি ভিডিও স্টিচের অনুমতি দেয় না</item>
+        <item quantity="other">%sটি ভিডিও স্টিচের অনুমতি দেয় না</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="one">%d ঘন্টা আগে সক্রিয়</item>
+        <item quantity="other">%d ঘন্টা আগে সক্রিয়</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="one">%d মিনিট আগে সক্রিয়</item>
+        <item quantity="other">%d মিনিট আগে সক্রিয়</item>
+    </plurals>
+    <plurals name="ao">
+        <item quantity="one">দিন</item>
+        <item quantity="other">দিন</item>
+    </plurals>
+    <plurals name="ap">
+        <item quantity="one">ঘন্টা</item>
+        <item quantity="other">ঘন্টা</item>
+    </plurals>
+    <plurals name="aq">
+        <item quantity="one">মিনিট</item>
+        <item quantity="other">মিনিট</item>
+    </plurals>
+    <plurals name="ar">
+        <item quantity="one">সেকেন্ড</item>
+        <item quantity="other">সেকেন্ড</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="one">%dটি পার্ট</item>
+        <item quantity="other">%dটি পার্ট</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="one">%1$s · %2$dটি নতুন পোস্ট</item>
+        <item quantity="other">%1$s · %2$dটি নতুন পোস্ট</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="one">%dটি শব্দ ইম্পোর্ট করুন</item>
+        <item quantity="other">%dটি শব্দ ইম্পোর্ট করুন</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="one">%2$dটি লাইভ ভিডিও | %1$dটি Story</item>
+        <item quantity="other">%2$dটি লাইভ ভিডিও | %1$dটি Stories</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="one">%2$d লাইভ ভিডিও | %1$d Story</item>
+        <item quantity="other">%2$d লাইভ ভিডিও | %1$d Story</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="one">%dটি লাইভ ভিডিও | Story</item>
+        <item quantity="other">%dটি লাইভ ভিডিও | Story</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="one">%2$dটি লাইভ ভিডিও | %1$dটি Story</item>
+        <item quantity="other">%2$dটি লাইভ ভিডিও | %1$dটি Stories</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="one">%dটি Story</item>
+        <item quantity="other">%dটি Stories</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="one">%d জন বন্ধুকে আমন্ত্রণ জানানো হয়েছে</item>
+        <item quantity="other">%d জন বন্ধুকে আমন্ত্রণ জানানো হয়েছে</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="one">%sটি ভিডিও</item>
+        <item quantity="other">%sটি ভিডিও</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="one">%s ভিডিও যোগ করা হয়েছে</item>
+        <item quantity="other">%s ভিডিওগুলি যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="one">%sটি ভিডিও পোস্ট করা হয়েছে</item>
+        <item quantity="other">%sটি ভিডিও পোস্ট করা হয়েছে</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="one">ভিডিও যোগ করুন (%d)</item>
+        <item quantity="other">ভিডিওগুলি যোগ করুন (%d)</item>
+    </plurals>
+    <plurals name="b5">
+        <item quantity="one">%sটি ভিডিও যোগ করা হয়েছে। সম্পাদনা শেষ করতে &quot;হয়ে গেছে&quot;-তে ট্যাপ করুন।</item>
+        <item quantity="other">%sটি ভিডিও যোগ করা হয়েছে। সম্পাদনা শেষ করতে &quot;হয়ে গেছে&quot;-তে ট্যাপ করুন।</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="one">%d বছর বয়স</item>
+        <item quantity="other">%d বছর বয়স</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="one">%d বছর বয়স</item>
+        <item quantity="other">%d বছর বয়স</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="one">আপনার বয়স কি %d বছর?\n\n এটা সঠিক না হলে, আপনি TikTok এর উপযুক্ত অভিজ্ঞতা নাও পেতে পারেন। আপনি এখনই এটিকে পরিবর্তন করতে হয়তো পারবেন না।</item>
+        <item quantity="other">আপনার বয়স কি %d বছর?\n\n এটা সঠিক না হলে, আপনি TikTok এর উপযুক্ত অভিজ্ঞতা নাও পেতে পারেন। আপনি এখনই এটিকে পরিবর্তন করতে হয়তো পারবেন না।</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="one">আপনার বয়স কি %d বছর?</item>
+        <item quantity="other">আপনার বয়স কি %d বছর?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="one">আপনি আপনার বয়স %d বছর লিখেছেন। আপনার আসল জন্ম তারিখ লিখুন।</item>
+        <item quantity="other">আপনি আপনার বয়স %d বছর লিখেছেন। আপনার আসল জন্ম তারিখ লিখুন।</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="one">%d বছর বয়স</item>
+        <item quantity="other">%d বছর বয়স</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="one">%dটি শব্দ</item>
+        <item quantity="other">%dটি শব্দগুলো</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="one">সাউন্ড সিঙ্ক করা হচ্ছে...</item>
+        <item quantity="other">সাউন্ড সিঙ্ক করা হচ্ছে...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="one">%s এর শেয়ার</item>
+        <item quantity="other">%s এর শেয়ারগুলি</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="one">%s ভিয়্যু</item>
+        <item quantity="other">%s বার দেখা হয়েছে</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="one">ভয়েস এফেক্ট স্পষ্টতা হ্রাস করতে পারে</item>
+        <item quantity="other">ভয়েস এফেক্ট স্পষ্টতা হ্রাস করতে পারে</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="one">সর্বাধিক %dটি ফাইল আপলোড করুন</item>
+        <item quantity="other">সর্বাধিক %dটি ফাইল আপলোড করুন</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="one">[num]টি ভিডিও</item>
+        <item quantity="other">[num]টি ভিডিও</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="one">এই বিটা সংস্করণটির মেয়াদ %d দিনে শেষ হতে চলেছে</item>
+        <item quantity="other">এই বিটা সংস্করণটির মেয়াদ %d দিনে শেষ হতে চলেছে</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="one">মেয়াদ %d দিনে শেষ হতে চলেছে</item>
+        <item quantity="other">মেয়াদ %d দিনে শেষ হতে চলেছে</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="one">মেয়াদ %d দিনে শেষ হতে চলেছে</item>
+        <item quantity="other">মেয়াদ %d দিনে শেষ হতে চলেছে</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="one">মেয়াদ %d দিনের মধ্যে শেষ হতে চলেছে</item>
+        <item quantity="other">মেয়াদ %d দিনের মধ্যে শেষ হতে চলেছে</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="one">আপনি সর্বাধিক %dটি বই যোগ করতে পারেন</item>
+        <item quantity="other">আপনি সর্বাধিক %dটি বই যোগ করতে পারেন</item>
+    </plurals>
+    <plurals name="bn">
+        <item quantity="one">%1$d জন বন্ধু আমন্ত্রিত। আপনি আপনার পরবর্তী আমন্ত্রণের জন্য %2$s%3$d উপার্জন করতে পারেন।</item>
+        <item quantity="other">%1$d জন বন্ধু আমন্ত্রিত। আপনি আপনার পরবর্তী আমন্ত্রণের জন্য %2$s%3$d উপার্জন করতে পারেন।</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="one">%sটি ক্লিপ</item>
+        <item quantity="other">%sটি ক্লিপ</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="one">আরও %dটি দেখুন</item>
+        <item quantity="other">আরও %dটি দেখুন</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="one">%dটি উত্তর দেখুন</item>
+        <item quantity="other">%dটি উত্তর দেখুন</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="one">%d মাস</item>
+        <item quantity="other">%d মাস</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="one">%d বছর</item>
+        <item quantity="other">%d বছর</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="one">ব্লক অ্যাকাউন্ট</item>
+        <item quantity="other">ব্লক অ্যাকাউন্টগুলো</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="one">%dটি অ্যাকাউন্ট নির্বাচন করা হয়েছে।</item>
+        <item quantity="other">%dটি অ্যাকাউন্ট নির্বাচন করা হয়েছে।</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="one">আপনি একবারে সর্বাধিক %dটি অ্যাকাউন্ট নির্বাচন করতে পারবেন।</item>
+        <item quantity="other">আপনি একবারে সর্বাধিক %dটি অ্যাকাউন্ট নির্বাচন করতে পারবেন।</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="one">আপনি ব্লক করার জন্য %dটি অ্যাকাউন্ট নির্বাচন করেছেন। ব্লক করা অ্যাকাউন্টগুলো TikTok এ আর আপনার প্রোফাইল বা কন্টেন্ট দেখতে পাবে না।</item>
+        <item quantity="other">আপনি ব্লক করার জন্য %dটি অ্যাকাউন্ট নির্বাচন করেছেন। ব্লক করা অ্যাকাউন্টগুলো TikTok এ আর আপনার প্রোফাইল বা কন্টেন্ট দেখতে পাবে না।</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="one">%dটি অ্যাকাউন্ট ব্লক করবেন?</item>
+        <item quantity="other">%dটি অ্যাকাউন্ট ব্লক করবেন?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="one">মন্তব্য মুছে ফেলুন</item>
+        <item quantity="other">মন্তব্যগুলো মুছে ফেলুন</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="one">আপনি %dটি মন্তব্য নির্বাচন করেছেন।</item>
+        <item quantity="other">আপনি %dটি মন্তব্য নির্বাচন করেছেন।</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="one">%dটি মন্তব্য মুছবেন?</item>
+        <item quantity="other">%dটি মন্তব্য মুছবেন?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="one">মন্তব্য মোছা হয়েছে</item>
+        <item quantity="other">মন্তব্যগুলো মুছে ফেলা হয়েছে</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="one">%dটি মন্তব্য নির্বাচিত।</item>
+        <item quantity="other">%dটি মন্তব্য নির্বাচিত।</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="one">আপনি একবারে সর্বাধিক %dটি মন্তব্য নির্বাচন করতে পারেন।</item>
+        <item quantity="other">আপনি একবারে সর্বাধিক %dটি মন্তব্য নির্বাচন করতে পারেন।</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="one">মন্তব্যের রিপোর্ট</item>
+        <item quantity="other">মন্তব্যগুলোর রিপোর্ট</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="one">আপনি %dটি মন্তব্যের রিপোর্ট করছেন। অনুপযুক্ত কন্টেন্টের জন্য আমরা এই এই মন্তব্যটির পর্যালোচনা করব।</item>
+        <item quantity="other">আপনি %dটি মন্তব্যের রিপোর্ট করছেন। অনুপযুক্ত কন্টেন্টের জন্য আমরা এই এই মন্তব্যটির পর্যালোচনা করব।</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="one">%dটি মন্তব্যের রিপোর্ট করবেন?</item>
+        <item quantity="other">%dটি মন্তব্যের রিপোর্ট করবেন?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="one">মন্তব্যের রিপোর্ট করা হয়েছে</item>
+        <item quantity="other">মন্তব্যগুলোর রিপোর্ট করা হয়েছে</item>
+    </plurals>
+    <plurals name="c9">
+        <item quantity="one">%dটি মন্তব্য নির্বাচিত</item>
+        <item quantity="other">%dটি মন্তব্য নির্বাচিত</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="one">%sটি মন্তব্য</item>
+        <item quantity="other">%sটি মন্তব্য</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="one">%sটি ভিডিও</item>
+        <item quantity="other">%sটি ভিডিও</item>
+    </plurals>
+    <plurals name="cd">
+        <item quantity="one">আপনি %dটি নতুন নোটিফিকেশন পেয়েছেন!</item>
+        <item quantity="other">আপনি %dটি নতুন নোটিফিকেশন পেয়েছেন!</item>
+    </plurals>
+    <plurals name="ce">
+        <item quantity="one">আপনি %dটি নতুন নোটিফিকেশন পেয়েছেন!</item>
+        <item quantity="other">আপনি %dটি নতুন নোটিফিকেশন পেয়েছেন!</item>
+    </plurals>
+    <plurals name="cf">
+        <item quantity="one">আপনার অনুসরণ করেন এমন স্রষ্টাদের থেকে %dটি ভিডিও</item>
+        <item quantity="other">আপনার অনুসরণ করেন এমন স্রষ্টাদের থেকে %dটি ভিডিও</item>
+    </plurals>
+    <plurals name="cg">
+        <item quantity="one">আপনার অনুসরণ করেন এমন স্রষ্টাদের থেকে %dটি ভিডিও</item>
+        <item quantity="other">আপনার অনুসরণ করেন এমন স্রষ্টাদের থেকে %dটি ভিডিও</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="one">%s জন ব্যবহারকারী রিমাইন্ডার সেট করেছেন</item>
+        <item quantity="other">%s জন ব্যবহারকারী রিমাইন্ডারগুলি সেট করেছেন</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="one">%sটি প্রভাব</item>
+        <item quantity="other">%sটি প্রভাব</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="one">ভিডিও দর্শন</item>
+        <item quantity="other">ভিডিও দর্শন</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="one">নেট অনুসরণকারী</item>
+        <item quantity="other">নেট অনুসরণকারী</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="one">লাইক</item>
+        <item quantity="other">লাইক</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cp">
+        <item quantity="one">আপনার লাইভ পর্যন্ত 10 মিনিট: &quot;{0}&quot;। {0} জন ব্যবহারকারী রিমাইন্ডার সেট করেছেন।</item>
+        <item quantity="other">আপনার লাইভ পর্যন্ত 10 মিনিট: &quot;{0}&quot;। {0} জন ব্যবহারকারী রিমাইন্ডার সেট করেছেন।</item>
+    </plurals>
+    <plurals name="cq">
+        <item quantity="one">লাইভ এর সময় হয়েছে! {0} জন ব্যবহারকারী &quot;{0}&quot; এর রিমাইন্ডার সেট করেছেন।</item>
+        <item quantity="other">লাইভ এর সময় হয়েছে! {0} জন ব্যবহারকারী &quot;{0}&quot; এর জন্য রিমাইন্ডারগুলি সেট করেন।</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="one">%s জন ব্যবহারকারী রিমাইন্ডার সেট করেছেন</item>
+        <item quantity="other">%s জন ব্যবহারকারী রিমাইন্ডারগুলি সেট করেছেন</item>
+    </plurals>
+    <plurals name="cs">
+        <item quantity="one">অন্তত %d জন অনুসরণকারী আছে</item>
+        <item quantity="other">অন্তত %d জন অনুসরণকারী আছে</item>
+    </plurals>
+    <plurals name="ct">
+        <item quantity="one">গত %2$d দিনে অন্তত %1$dটি ভিডিও পোস্ট করেন</item>
+        <item quantity="other">গত %2$d দিনে অন্তত %1$dটি ভিডিও পোস্ট করেন</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="one">খসড়া মুছবেন?</item>
+        <item quantity="other">খসড়াগুলি মুছবেন?</item>
+    </plurals>
+    <plurals name="cv">
+        <item quantity="one">আপনার আসল ভিডিও ব্যবহার করে %dটি ডুয়েট এবং স্টিচ ভিডিও তৈরি করা হয়েছে।</item>
+        <item quantity="other">আপনার আসল ভিডিও ব্যবহার করে %dটি ডুয়েট এবং স্টিচ ভিডিও তৈরি করা হয়েছে।</item>
+    </plurals>
+    <plurals name="cw">
+        <item quantity="one">%d দিন পরে আপনি এই ভিডিওউলি অপসারণ করা বেছে নিতে পারবেন।</item>
+        <item quantity="other">%d দিন পরে আপনি এই ভিডিওউলি অপসারণ করা বেছে নিতে পারবেন।</item>
+    </plurals>
+    <plurals name="cx">
+        <item quantity="one">আপনি পরবর্তী %d দিনের মধ্যে আপনার অ্যাকাউন্ট পুনরুদ্ধার করলে, এই ভিডিওগুলি রিস্টোর করা হবে।</item>
+        <item quantity="other">আপনি পরবর্তী %d দিনের মধ্যে আপনার অ্যাকাউন্ট পুনরুদ্ধার করলে, এই ভিডিওগুলি রিস্টোর করা হবে।</item>
+    </plurals>
+    <plurals name="cy">
+        <item quantity="one">আপনার অ্যাকাউন্ট %d দিনের জন্য নিষ্ক্রিয় করা হবে এবং সর্বসমক্ষে দেখা যাবে না। নিষ্ক্রিয়করণের সময়, আপনি যে কোনও সময় আপনার TikTok অ্যাকাউন্ট পুনরায় সক্রিয় করতে পারবেন।</item>
+        <item quantity="other">আপনার অ্যাকাউন্ট %d দিনের জন্য নিষ্ক্রিয় করা হবে এবং সর্বসমক্ষে দেখা যাবে না। নিষ্ক্রিয়করণের সময়, আপনি যে কোনও সময় আপনার TikTok অ্যাকাউন্ট পুনরায় সক্রিয় করতে পারবেন।</item>
+    </plurals>
+    <plurals name="cz">
+        <item quantity="one">%d দিন পরে, আপনার অ্যাকাউন্ট এবং ডেটা স্থায়ীভাবে মুছে ফেলা হবে।</item>
+        <item quantity="other">%d দিন পরে, আপনার অ্যাকাউন্ট এবং ডেটা স্থায়ীভাবে মুছে ফেলা হবে।</item>
+    </plurals>
+    <plurals name="d0">
+        <item quantity="one">আপনার অ্যাকাউন্ট মুছে ফেলার আগে এই %dটি কাজ পর্যালোচনা করুন</item>
+        <item quantity="other">আপনার অ্যাকাউন্ট মুছে ফেলার আগে এই %dটি কাজ পর্যালোচনা করুন</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="one">%sটি পোস্ট</item>
+        <item quantity="other">%sটি পোস্ট</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="one">ভুল পাসকোড। %dটি প্রচেষ্টা বাকি আছে।</item>
+        <item quantity="other">ভুল পাসকোড। %dটি প্রচেষ্টা বাকি আছে।</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="one">অনেকবার চেষ্টা করা হয়েছে। %d মিনিট পরে আবার চেষ্টা করুন।</item>
+        <item quantity="other">অনেকবার চেষ্টা করা হয়েছে। %d মিনিট পরে আবার চেষ্টা করুন।</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="one">%dটি মেলোডি</item>
+        <item quantity="other">%dটি মেলোডি</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="one">%dটি সংগীত</item>
+        <item quantity="other">%dটি সংগীত</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="one">%dটি অংশ</item>
+        <item quantity="other">%dটি অংশ</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="one">%dটি গান</item>
+        <item quantity="other">%dটি গান</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="one">%dটি শব্দ</item>
+        <item quantity="other">%dটি শব্দগুলো</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="one">%dটি সুর</item>
+        <item quantity="other">%dটি সুর</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="one">পাঠান (%d)</item>
+        <item quantity="other">পাঠান (%d)</item>
+    </plurals>
+    <plurals name="db">
+        <item quantity="one">আপনারা দুজনেই %s এবং অন্যান্য %d জনকে অনুসরণ করেন</item>
+        <item quantity="other">আপনারা দুজনেই %s এবং অন্যান্য %d জনকে অনুসরণ করেন</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="one">%1$d অনুসরণ করছেন · %2$d জন অনুসরণকারী</item>
+        <item quantity="other">%1$d অনুসরণ করছেন · %2$d জন অনুসরণকারী</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="one">@ নতুন উল্লেখ</item>
+        <item quantity="other">@ নতুন উল্লেখ</item>
+    </plurals>
+    <plurals name="de">
+        <item quantity="one">%sটি ভিডিও</item>
+        <item quantity="other">%sটি ভিডিও</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="one">নতুন বার্তা পাঠিয়েছেন।</item>
+        <item quantity="other">নতুন বার্তা পাঠিয়েছেন।</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="one">আপনাকে নতুন বার্তা পাঠিয়েছেন।</item>
+        <item quantity="other">আপনাকে নতুন বার্তা পাঠিয়েছেন।</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="one">আপনি সর্বাধিক %d জনকে নির্বাচন করতে পারেন</item>
+        <item quantity="other">আপনি সর্বাধিক %d জনকে নির্বাচন করতে পারেন</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="one">খসড়া খারিজ করবেন?</item>
+        <item quantity="other">খসড়া খারিজ করবেন?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="one">খসড়া মুছবেন?</item>
+        <item quantity="other">খসড়াগুলি মুছবেন?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="one">খসড়া {#}টি ভিডিও</item>
+        <item quantity="other">খসড়া {#}টি ভিডিও</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="one">এই ভিডিওটি পোস্ট করা হলে %1$s এবং অন্যান্য %2$s জনকে জানানো হবে।</item>
+        <item quantity="other">এই ভিডিওটি পোস্ট করা হলে %1$s এবং অন্যান্য %2$s জনকে জানানো হবে।</item>
+    </plurals>
+    <plurals name="dm">
+        <item quantity="one">%ss</item>
+        <item quantity="other">%ss</item>
+    </plurals>
+    <plurals name="dn">
+        <item quantity="one">%dটি আইটেম</item>
+        <item quantity="other">%dটি আইটেম</item>
+    </plurals>
+    <plurals name="do">
+        <item quantity="one">{number}টি আইটেমের ওপর {value}% ছাড়</item>
+        <item quantity="other">{number}টি আইটেমের ওপর {value}% ছাড়</item>
+    </plurals>
+    <plurals name="dp">
+        <item quantity="one">{number}টি আইটেমের ওপর {value}% ছাড়, ডিসকাউন্টটি উপভোগ করতে আরও {gapvalue} যোগ করুন!</item>
+        <item quantity="other">{number}টি আইটেমের ওপর {value}% ছাড়, ডিসকাউন্টটি উপভোগ করতে আরও {gapvalue} যোগ করুন!</item>
+    </plurals>
+    <plurals name="dq">
+        <item quantity="one">{number}টি আইটেমের ওপর {value}% ছাড়ের মাধ্যমে, আপনি {currency_mark}{savevalue} সাশ্রয় করেছেন</item>
+        <item quantity="other">{number}টি আইটেমের ওপর {value}% ছাড়ের মাধ্যমে, আপনি {currency_mark}{savevalue} সাশ্রয় করেছেন</item>
+    </plurals>
+    <plurals name="dr">
+        <item quantity="one">{number}টির বেশি আইটেম কিনলে {value}% ছাড় উপভোগ করুন</item>
+        <item quantity="other">{number}টির বেশি আইটেম কিনলে {value}% ছাড় উপভোগ করুন</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="one">অন্তত %dটি আইটেম নির্বাচন করুন</item>
+        <item quantity="other">অন্তত %dটি আইটেম নির্বাচন করুন</item>
+    </plurals>
+    <plurals name="dt">
+        <item quantity="one">{{required_quantity}}+ আইটেম</item>
+        <item quantity="other">{{required_quantity}}+ আইটেম</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="one">ফলো-আপ পর্যালোচনা %d দিন পরে</item>
+        <item quantity="other">ফলো-আপ পর্যালোচনা %d দিন পরে</item>
+    </plurals>
+    <plurals name="dv">
+        <item quantity="one">অযোগ্য আইটেম</item>
+        <item quantity="other">অযোগ্য আইটেম</item>
+    </plurals>
+    <plurals name="dw">
+        <item quantity="one">{{num}} দিনের মধ্যে উপলভ্য</item>
+        <item quantity="other">{{num}} দিনের মধ্যে উপলভ্য</item>
+    </plurals>
+    <plurals name="dx">
+        <item quantity="one">একটি ব়্যাঙ্কে ওঠার জন্য আরও {count} পয়েন্ট</item>
+        <item quantity="other">একটি ব়্যাঙ্কে ওঠার জন্য আরও {count} পয়েন্ট</item>
+    </plurals>
+    <plurals name="dy">
+        <item quantity="one">একজন সেরা স্রষ্টা হয়ে উঠতে আরও {count} পয়েন্ট</item>
+        <item quantity="other">একজন সেরা স্রষ্টা হয়ে উঠতে আরও {count} পয়েন্ট</item>
+    </plurals>
+    <plurals name="dz">
+        <item quantity="one">{{num}} মিনিটের মধ্যে ফ্ল্যাশ ডিল শুরু হতে চলেছে</item>
+        <item quantity="other">{{num}} মিনিটের মধ্যে ফ্ল্যাশ ডিল শুরু হতে চলেছে</item>
+    </plurals>
+    <plurals name="e0">
+        <item quantity="one">{num} মিনিটের মধ্যে ফ্ল্যাশ ডিল শুরু হতে চলেছে</item>
+        <item quantity="other">{num} মিনিটের মধ্যে ফ্ল্যাশ ডিল শুরু হতে চলেছে</item>
+    </plurals>
+    <plurals name="e1">
+        <item quantity="one">{{num}} মিনিটের মধ্যে ফ্ল্যাশ ডিল শুরু হতে চলেছে</item>
+        <item quantity="other">{{num}} মিনিটের মধ্যে ফ্ল্যাশ ডিল শুরু হতে চলেছে</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="one">%s দিনের মধ্যে শেষ হতে চলেছে</item>
+        <item quantity="other">%s দিনের মধ্যে শেষ হতে চলেছে</item>
+    </plurals>
+    <plurals name="e3">
+        <item quantity="one">ইভেন্টটি শুরু হওয়ার %s মিনিট আগে আমরা আপনাকে একটি পুশ নোটিফিকেশন পাঠাবো।</item>
+        <item quantity="other">ইভেন্টটি শুরু হওয়ার %s মিনিট আগে আমরা আপনাকে একটি পুশ নোটিফিকেশন পাঠাবো।</item>
+    </plurals>
+    <plurals name="e4">
+        <item quantity="one">ইভেন্টটি শুরু হওয়ার %s মিনিট আগে আমরা আপনাকে একটি পুশ নোটিফিকেশন পাঠাবো।</item>
+        <item quantity="other">ইভেন্টটি শুরু হওয়ার %s মিনিট আগে আমরা আপনাকে একটি পুশ নোটিফিকেশন পাঠাবো।</item>
+    </plurals>
+    <plurals name="e5">
+        <item quantity="one">ইভেন্টটি শুরু হওয়ার %s মিনিট আগে আমরা আপনাকে একটি পুশ নোটিফিকেশন পাঠাবো</item>
+        <item quantity="other">ইভেন্টটি শুরু হওয়ার %s মিনিট আগে আমরা আপনাকে একটি পুশ নোটিফিকেশন পাঠাবো</item>
+    </plurals>
+    <plurals name="e6">
+        <item quantity="one">{{count}} দিন বাকি</item>
+        <item quantity="other">{{count}} দিন বাকি</item>
+    </plurals>
+    <plurals name="e7">
+        <item quantity="one">আপনাকে নিম্নলিখিত {{count}}টি পণ্য বিক্রির আমন্ত্রণ জানানো হচ্ছে যা বিনামূল্যের নমুনার প্রস্তাব দেয়। এটি পেতে আমন্ত্রণটি স্বীকার করুন।</item>
+        <item quantity="other">আপনাকে নিম্নলিখিত {{count}}টি পণ্য বিক্রির আমন্ত্রণ জানানো হচ্ছে যা বিনামূল্যের নমুনার প্রস্তাব দেয়। এগুলো পেতে আমন্ত্রণটি স্বীকার করুন।</item>
+    </plurals>
+    <plurals name="e8">
+        <item quantity="one">পণ্যটি উপলভ্য নয়। আমাদের সহায়তা দলের সঙ্গে যোগাযোগ করুন এবং আবার চেষ্টা করুন।</item>
+        <item quantity="other">পণ্যগুলো উপলভ্য নয়। আমাদের সহায়তা দলের সঙ্গে যোগাযোগ করুন এবং আবার চেষ্টা করুন।</item>
+    </plurals>
+    <plurals name="e9">
+        <item quantity="one">বিনামূল্যের নমুনা নিয়ে কিছু সমস্যা হয়েছে। আমাদের সহায়তা দলের সঙ্গে যোগাযোগ করুন এবং আবার চেষ্টা করুন।</item>
+        <item quantity="other">বিনামূল্যের নমুনাগুলো নিয়ে কিছু সমস্যা হয়েছে। আমাদের সহায়তা দলের সঙ্গে যোগাযোগ করুন এবং আবার চেষ্টা করুন।</item>
+    </plurals>
+    <plurals name="e_">
+        <item quantity="one">{count} দিনের মধ্যে শেষ হতে চলেছে</item>
+        <item quantity="other">{count} দিনের মধ্যে শেষ হতে চলেছে</item>
+    </plurals>
+    <plurals name="ea">
+        <item quantity="one">{count} ঘন্টায় শেষ হতে চলেছে</item>
+        <item quantity="other">{count} ঘন্টায় শেষ হতে চলেছে</item>
+    </plurals>
+    <plurals name="eb">
+        <item quantity="one">{count} মিনিটে শেষ হতে চলেছে</item>
+        <item quantity="other">{count} মিনিটে শেষ হতে চলেছে</item>
+    </plurals>
+    <plurals name="ec">
+        <item quantity="one">{count} বাকি আছে</item>
+        <item quantity="other">{count} বাকি আছে</item>
+    </plurals>
+    <plurals name="ed">
+        <item quantity="one">{count} জন অনুরোধকারী</item>
+        <item quantity="other">{count} জন অনুরোধকারী</item>
+    </plurals>
+    <plurals name="ee">
+        <item quantity="one">আপনার রিফান্ড {payment_method}-এ পাঠানও হয়েছে এবং সম্ভবত {count} দিনের মধ্যে পৌঁছে যাবে।</item>
+        <item quantity="other">আপনার রিফান্ড {payment_method}-এ পাঠানও হয়েছে এবং সম্ভবত {count} দিনের মধ্যে পৌঁছে যাবে।</item>
+    </plurals>
+    <plurals name="ef">
+        <item quantity="one">%sটি কিস্তিতে অর্থপ্রদান করুন</item>
+        <item quantity="other">%sটি কিস্তিতে অর্থপ্রদান করুন</item>
+    </plurals>
+    <plurals name="eg">
+        <item quantity="one">অবৈধ আইটেম</item>
+        <item quantity="other">অবৈধ আইটেম</item>
+    </plurals>
+    <plurals name="eh">
+        <item quantity="one">এই আইটেমটি ঠিকানাটিতে প্রেরণ করা যাবে না।</item>
+        <item quantity="other">এই আইটেমগুলো ঠিকানাটিতে প্রেরণ করা যাবে না।</item>
+    </plurals>
+    <plurals name="ei">
+        <item quantity="one">এই পণ্যটি ঠিকানাটিতে প্রেরণ করা যাবে না।</item>
+        <item quantity="other">এই পণ্যগুলো ঠিকানাটিতে প্রেরণ করা যাবে না।</item>
+    </plurals>
+    <plurals name="ej">
+        <item quantity="one">আপনি %s ঘণ্টা আগে একটি একই ধরনের অর্ডার দিয়েচ্ছে। আগের অর্ডারটি পেমেন্টের জন্য অপেক্ষারত।</item>
+        <item quantity="other">আপনি %s ঘণ্টা আগে একটি একই ধরনের অর্ডার দিয়েচ্ছে। আগের অর্ডারটি পেমেন্টের জন্য অপেক্ষারত।</item>
+    </plurals>
+    <plurals name="ek">
+        <item quantity="one">আপনি %s মিনিট আগে একটি একই ধরনের অর্ডার দিয়েচ্ছে। আগের অর্ডারটি পেমেন্টের জন্য অপেক্ষারত।</item>
+        <item quantity="other">আপনি %s মিনিট আগে একটি একই ধরনের অর্ডার দিয়েচ্ছে। আগের অর্ডারটি পেমেন্টের জন্য অপেক্ষারত।</item>
+    </plurals>
+    <plurals name="el">
+        <item quantity="one">অনুসরণকারী</item>
+        <item quantity="other">অনুসরণকারীরা</item>
+    </plurals>
+    <plurals name="em">
+        <item quantity="one">ভিউ</item>
+        <item quantity="other">ভিউ</item>
+    </plurals>
+    <plurals name="en">
+        <item quantity="one">আইনি</item>
+        <item quantity="other">আইনি</item>
+    </plurals>
+    <plurals name="eo">
+        <item quantity="one">পরামর্শ</item>
+        <item quantity="other">পরামর্শসমূহ</item>
+    </plurals>
+    <plurals name="ep">
+        <item quantity="one">{count}+টি আইটেম সমেত</item>
+        <item quantity="other">{count}+টি আইটেম সমেত</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="one">%1$sটি আইটেম, মোট %2$s</item>
+        <item quantity="other">%1$sটি আইটেম, মোট %2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="one">মোট (%sটি আইটেম)</item>
+        <item quantity="other">মোট (%sটি আইটেম)</item>
+    </plurals>
+    <plurals name="es">
+        <item quantity="one">নিম্নলিখিত %dটি পণ্য সরিয়ে দেওয়া হয়েছিল।</item>
+        <item quantity="other">নিম্নলিখিত %dটি পণ্য সরিয়ে দেওয়া হয়েছিল।</item>
+    </plurals>
+    <plurals name="et">
+        <item quantity="one">%dটি পণ্য সরিয়ে দেওয়া হয়েছিল</item>
+        <item quantity="other">%dটি পণ্য সরিয়ে দেওয়া হয়েছিল</item>
+    </plurals>
+    <plurals name="eu">
+        <item quantity="one">নিম্নলিখিত %dটি পণ্য সরিয়ে দেওয়া হয়েছিল।</item>
+        <item quantity="other">নিম্নলিখিত %dটি পণ্য সরিয়ে দেওয়া হয়েছিল।</item>
+    </plurals>
+    <plurals name="ev">
+        <item quantity="one">পণ্য সরিয়ে দেওয়া হয়েছে (%d)</item>
+        <item quantity="other">পণ্যগুলো সরিয়ে দেওয়া হয়েছে (%d)</item>
+    </plurals>
+    <plurals name="ew">
+        <item quantity="one">%dটি পণ্য সরিয়ে দেওয়া হয়েছে</item>
+        <item quantity="other">%dটি পণ্য সরিয়ে দেওয়া হয়েছে</item>
+    </plurals>
+    <plurals name="ex">
+        <item quantity="one">%dটি পণ্য সরানো হয়েছে</item>
+        <item quantity="other">%dটি পণ্য সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="ey">
+        <item quantity="one">নিম্নলিখিত %dটি পণ্য সরানো হবে। অপসারণটি নিশ্চিত করুন নতুবা {date} তারিখে এটি স্বয়ংক্রিয়ভাবে কার্যকর হবে।</item>
+        <item quantity="other">নিম্নলিখিত %dটি পণ্য সরানো হবে। অপসারণটি নিশ্চিত করুন নতুবা {date} তারিখে এটি স্বয়ংক্রিয়ভাবে কার্যকর হবে।</item>
+    </plurals>
+    <plurals name="ez">
+        <item quantity="one">%dটি পণ্য সরিয়ে দেওয়া হবে</item>
+        <item quantity="other">%dটি পণ্য সরিয়ে দেওয়া হবে</item>
+    </plurals>
+    <plurals name="f0">
+        <item quantity="one">%dটি পণ্য {date} তারিখে সরিয়ে দেওয়া হবে</item>
+        <item quantity="other">%dটি পণ্য {date} তারিখে সরিয়ে দেওয়া হবে</item>
+    </plurals>
+    <plurals name="f1">
+        <item quantity="one">%dটি পণ্য সরিয়ে দেওয়া হবে</item>
+        <item quantity="other">%dটি পণ্য সরিয়ে দেওয়া হবে</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="one">আপনি মাত্র %d বার পর্যন্ত সম্পাদনা করতে পারেন</item>
+        <item quantity="other">আপনি মাত্র %d বার পর্যন্ত সম্পাদনা করতে পারেন</item>
+    </plurals>
+    <plurals name="f3">
+        <item quantity="one">টেক্সট স্টিকারে প্রযোজ্য</item>
+        <item quantity="other">সমস্ত টেক্সট স্টিকারে প্রযোজ্য</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="one">%dসেঃ এ একটি প্রভাবের প্রিভিউ</item>
+        <item quantity="other">%dসেঃ এ একটি প্রভাবের প্রিভিউ</item>
+    </plurals>
+    <plurals name="f6">
+        <item quantity="one">%1$s: %2$s, %3$s, %4$s এবং অন্যান্যরা %5$dটি নতুন ভিডিও পোস্ট করেছেন।</item>
+        <item quantity="other">%1$s: %2$s, %3$s, %4$s এবং অন্যান্যরা %5$dটি নতুন ভিডিও পোস্ট করেছেন।</item>
+    </plurals>
+    <plurals name="f7">
+        <item quantity="one">%1$s: %2$s, %3$dটি নতুন ভিডিও পোস্ট করেছেন।</item>
+        <item quantity="other">%1$s: %2$s, %3$dটি নতুন ভিডিও পোস্ট করেছেন।</item>
+    </plurals>
+    <plurals name="f8">
+        <item quantity="one">%1$s: %2$s, %3$s এবং %4$s %5$dটি নতুন ভিডিও পোস্ট করেছেন।</item>
+        <item quantity="other">%1$s: %2$s, %3$s এবং %4$s %5$dটি নতুন ভিডিও পোস্ট করেছেন।</item>
+    </plurals>
+    <plurals name="f9">
+        <item quantity="one">%1$s: %2$s এবং %3$s %4$dটি নতুন ভিডিও পোস্ট করেছেন।</item>
+        <item quantity="other">%1$s: %2$s এবং %3$s %4$dটি নতুন ভিডিও পোস্ট করেছেন।</item>
+    </plurals>
+    <plurals name="f_">
+        <item quantity="one">আপনি %d জন নতুন অনুসরণকারী পেয়েছেন।</item>
+        <item quantity="other">আপনি %d জন নতুন অনুসরণকারী পেয়েছেন।</item>
+    </plurals>
+    <plurals name="fa">
+        <item quantity="one">আপনি %dটি নতুন লাইক পেয়েছেন।</item>
+        <item quantity="other">আপনি %dটি নতুন লাইক পেয়েছেন।</item>
+    </plurals>
+    <plurals name="fb">
+        <item quantity="one">আপনার জন্য %dটি নতুন নোটিফিকেশন অপেক্ষারত।</item>
+        <item quantity="other">আপনার জন্য %dটি নতুন নোটিফিকেশন অপেক্ষারত।</item>
+    </plurals>
+    <plurals name="fc">
+        <item quantity="one">আমরা %dটি ভিডিও পেয়েছি যা আমাদের মনে হয় আপনার পছন্দ হতে পারে।</item>
+        <item quantity="other">আমরা %dটি ভিডিও পেয়েছি যা আমাদের মনে হয় আপনার পছন্দ হতে পারে।</item>
+    </plurals>
+    <plurals name="fd">
+        <item quantity="one">%1$s: আপনার ভালো লাগতে পারে এমন %2$dটি ভিডিও।</item>
+        <item quantity="other">%1$s: আপনার ভালো লাগতে পারে এমন %2$dটি ভিডিও।</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="one">ট্যাগ করা হয়েছে</item>
+        <item quantity="other">ট্যাগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="ff">
+        <item quantity="one">%d জন নিবন্ধিত</item>
+        <item quantity="other">%d জন নিবন্ধিত</item>
+    </plurals>
+    <plurals name="fg">
+        <item quantity="one">%d জন নিবন্ধিত</item>
+        <item quantity="other">%d জন নিবন্ধিত</item>
+    </plurals>
+    <plurals name="fh">
+        <item quantity="one">এই ইভেন্টের জন্য নিবন্ধিত</item>
+        <item quantity="other">এই ইভেন্টের জন্য নিবন্ধিত</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="one">আপনি এই গ্রুপ সদস্যকে চিনতে পারেন।</item>
+        <item quantity="other">আপনি এই গ্রুপ সদস্যদের চিনতে পারেন।</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="one">%sটি ভিডিও</item>
+        <item quantity="other">%sটি ভিডিও</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="one">%s ভিডিও যোগ করা হয়েছে</item>
+        <item quantity="other">%s ভিডিওগুলি যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="fl">
+        <item quantity="one">%s থেকে %dটি ভিডিও সরিয়ে দিন</item>
+        <item quantity="other">%s থেকে %dটি ভিডিও সরিয়ে দিন</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="one">%2$s থেকে %1$dটি ভিডিও অপসারণ করুন</item>
+        <item quantity="other">%2$s থেকে %1$dটি ভিডিও অপসারণ করুন</item>
+    </plurals>
+    <plurals name="fn">
+        <item quantity="one">%d ভিডিও %s-এ সরানো হয়েছে</item>
+        <item quantity="other">%d ভিডিওগুলি %s-এ সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="one">%1$dটি ভিডিও %2$s-এ সরানো হয়েছে</item>
+        <item quantity="other">%1$dটি ভিডিও %2$s-এ সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="one">%dটি ভিডিও অপসারণ করা হয়েছে</item>
+        <item quantity="other">%dটি ভিডিও অপসারণ করা হয়েছে</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="one">%dটি নতুন প্রস্তাবিত অ্যাকাউন্ট</item>
+        <item quantity="other">%dটি নতুন প্রস্তাবিত অ্যাকাউন্ট</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="one">%s ফলো করেন</item>
+        <item quantity="other">%s + অন্যান্য %d জন ফলো করেন</item>
+    </plurals>
+    <plurals name="fs">
+        <item quantity="one">অনুসরণকারী</item>
+        <item quantity="other">অনুসরণকারীগণ</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="one">%s-কে অনুসরণ করেন</item>
+        <item quantity="other">%s + আরও %d জনকে অনুসরণ করেন</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="one">{0}, {1} এবং অন্যান্য {2} জন অনুসরণ করেন</item>
+        <item quantity="other">{0}, {1} এবং অন্যান্য {2} জন অনুসরণ করেন</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="one">{0} এবং অন্যান্য {2} জন অনুসরণ করেন</item>
+        <item quantity="other">{0} এবং অন্যান্য {2} জন অনুসরণ করেন</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="one">{0}, {1} এবং অন্যান্য {2} জনকে অনুসরণ করেন</item>
+        <item quantity="other">{0}, {1} এবং অন্যান্য {2} জনকে অনুসরণ করেন</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="one">{0} এবং অন্যান্য {2} জনকে অনুসরণ করেন</item>
+        <item quantity="other">{0} এবং অন্যান্য {2} জনকে অনুসরণ করেন</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="one">{0}, {1} এবং অন্যান্য {2} জনের সাথে বন্ধু</item>
+        <item quantity="other">{0}, {1} এবং অন্যান্য {2} জনের সাথে বন্ধু</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="one">{0} এবং অন্যান্য {2} জনের সাথে বন্ধু</item>
+        <item quantity="other">{0} এবং অন্যান্য {2} জনের সাথে বন্ধু</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="one">{2} জন পারস্পরিক পরিচিতি</item>
+        <item quantity="other">{2} জন পারস্পরিক পরিচিতি</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="one">%s এর সাথে বন্ধু</item>
+        <item quantity="other">%s + আরও %d জনের সাথে বন্ধু</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="one">বন্ধুদের থেকে %dটি নতুন পোস্ট</item>
+        <item quantity="other">বন্ধুদের থেকে %dটি নতুন পোস্ট</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="one">%d জন সদস্য এখন সক্রিয় রয়েছেন</item>
+        <item quantity="other">%d জন সদস্য এখন সক্রিয় রয়েছেন</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="one">%1$d জন সদস্য %2$d মিনিট আগে সক্রিয় ছিলেন</item>
+        <item quantity="other">%1$d জন সদস্য %2$d মিনিট আগে সক্রিয় ছিলেন</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="one">%d জন সদস্য আজ সক্রিয়</item>
+        <item quantity="other">%d জন সদস্য আজ সক্রিয়</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="one">%d জন সদস্য</item>
+        <item quantity="other">%d জন সদস্য</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="one">নতুন অনুরোধ</item>
+        <item quantity="other">নতুন অনুরোধ</item>
+    </plurals>
+    <plurals name="g8">
+        <item quantity="one">সদস্য</item>
+        <item quantity="other">সদস্যগণ</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="one">%s জন সদস্য</item>
+        <item quantity="other">%s জন সদস্য</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="one">আরও %d জন সদস্য দেখুন</item>
+        <item quantity="other">আরও %d জন সদস্য দেখুন</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="one">%s ভিয়্যু</item>
+        <item quantity="other">%s বার দেখা হয়েছে</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="one">অনুসরণকারী: %s</item>
+        <item quantity="other">অনুসরণকারীগণ: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="one">ভিডিও সংখ্যা: %s</item>
+        <item quantity="other">ভিডিও সংখ্যা: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="one">%s এবং অন্যান্য %d জনকে পাঠানো হয়েছে</item>
+        <item quantity="other">%s এবং অন্যান্য %d জনকে পাঠানো হয়েছে</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="one">%d Story আপলোড করা যায়নি। Story আপনার খসড়ায় সংরক্ষণ করা হয়েছে।</item>
+        <item quantity="other">%d Stories আপলোড করা যায়নি। Stories আপনার খসড়ায় সংরক্ষণ করা হয়েছে।</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="one">ফটো আপলোড করা যায়নি। ফটোটি আপনার খসড়ায় সংরক্ষণ করা হয়েছে।</item>
+        <item quantity="other">ফটোগুলি আপলোড করা যায়নি। ফটোগুলি আপনার খসড়ায় সংরক্ষণ করা হয়েছে।</item>
+    </plurals>
+    <plurals name="gg">
+        <item quantity="one">%s জন অনুসরণকারী</item>
+        <item quantity="other">%s জন অনুসরণকারী</item>
+    </plurals>
+    <plurals name="gh">
+        <item quantity="one">%dটি ভিডিও</item>
+        <item quantity="other">%dটি ভিডিও</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="one">%dটি স্টিকার</item>
+        <item quantity="other">%dটি স্টিকার</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="one">একটি ফটোতে আপনাকে উল্লেখ করেছেন।</item>
+        <item quantity="other">ফটোগুলিতে আপনাকে উল্লেখ করেছেন।</item>
+    </plurals>
+    <plurals name="gk">
+        <item quantity="one">%2$s এবং অন্যান্য %3$d জনকে %1$s অনুসরণ করছেন। তাদের প্রোফাইল দেখুন।</item>
+        <item quantity="other">%2$s এবং অন্যান্য %3$d জনকে %1$s অনুসরণ করছেন। তাদের প্রোফাইল দেখুন।</item>
+    </plurals>
+    <plurals name="gl">
+        <item quantity="one">%1$s-কে %2$s এবং অন্যান্য %3$d জন অনুসরণ করছেন। এদের প্রোফাইল দেখুন।</item>
+        <item quantity="other">%1$s-কে %2$s এবং অন্যান্য %3$d জন অনুসরণ করছেন। তাদের প্রোফাইল দেখুন।</item>
+    </plurals>
+    <plurals name="gm">
+        <item quantity="one">%2$s এবং অন্যান্য %3$d জনের সাথে %1$s বন্ধু। এদের প্রোফাইল দেখুন।</item>
+        <item quantity="other">%2$s এবং অন্যান্য %3$d জনের সাথে %1$s বন্ধু। তাদের প্রোফাইল দেখুন।</item>
+    </plurals>
+    <plurals name="gn">
+        <item quantity="one">%1$s-কে %2$s, %3$s এবং অন্যান্য %4$d জন অনুসরণ করছেন। এদের প্রোফাইল দেখুন।</item>
+        <item quantity="other">%1$s-কে %2$s, %3$s এবং অন্যান্য %4$d জন অনুসরণ করছেন। এদের প্রোফাইল দেখুন।</item>
+    </plurals>
+    <plurals name="go">
+        <item quantity="one">%2$s, %3$s এবং আরও %4$d জনকে %1$s অনুসরণ করছেন। এদের প্রোফাইল দেখুন।</item>
+        <item quantity="other">%2$s, %3$s এবং আরও %4$d জনকে %1$s অনুসরণ করছেন। এদের প্রোফাইল দেখুন।</item>
+    </plurals>
+    <plurals name="gp">
+        <item quantity="one">%2$s, %3$s এবং অন্যান্য %4$d জনের বন্ধু হলেন %1$s। এদের প্রোফাইল দেখুন।</item>
+        <item quantity="other">%2$s, %3$s এবং অন্যান্য %4$d জনের বন্ধু হলেন %1$s। এদের প্রোফাইল দেখুন।</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="one">%s টি নতুন পোস্ট</item>
+        <item quantity="other">%s টি নতুন পোস্ট</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="one">কার্যকলাপ</item>
+        <item quantity="other">কার্যকলাপসমূহ</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="one">%1$s, %2$s এবং আপনার পরিচিত অন্যান্য %d জনের ভিডিওগুলো দেখতে তাদের অনুসরণ করুন।</item>
+        <item quantity="other">%1$s, %2$s এবং আপনার পরিচিত অন্যান্য %d জনের ভিডিওগুলো দেখতে তাদের অনুসরণ করুন।</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="one">অন্যান্য %d জন</item>
+        <item quantity="other">অন্যান্য %d জন</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="one">%1$s, %2$s এবং আপনার পরিচিতি হতে পারেন এমন অন্যান্য %3$dজনের ভিডিওগুলি দেখতে তাদের অনুসরণ করুন।</item>
+        <item quantity="other">%1$s, %2$s এবং আপনার পরিচিতি হতে পারেন এমন অন্যান্য %3$dজনের ভিডিওগুলি দেখতে তাদের অনুসরণ করুন।</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="one">বার্তা</item>
+        <item quantity="other">বার্তাসমূহ</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="one">নতুন কার্যকলাপ</item>
+        <item quantity="other">নতুন কার্যকলাপসমূহ</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="one">%s জন সদস্য</item>
+        <item quantity="other">%s জন সদস্য</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="one">%sটি পোস্ট</item>
+        <item quantity="other">%sটি পোস্ট</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="one">%dটি কিওয়ার্ড</item>
+        <item quantity="other">%dটি কিওয়ার্ড</item>
+    </plurals>
+    <plurals name="h1">
+        <item quantity="one">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। আপনাদের {3}টি পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। আপনাদের {3}টি পারস্পরিক পরিচিতি আছে।</item>
+    </plurals>
+    <plurals name="h2">
+        <item quantity="one">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছেন।</item>
+        <item quantity="other">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছেন।</item>
+    </plurals>
+    <plurals name="h3">
+        <item quantity="one">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছেন।</item>
+        <item quantity="other">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছেন।</item>
+    </plurals>
+    <plurals name="h4">
+        <item quantity="one">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="h5">
+        <item quantity="one">আপনার ভিডিওতে মন্তব্য করেছেন। আপনার {3} জন পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">আপনার ভিডিওতে মন্তব্য করেছেন। আপনার {3} জন পারস্পরিক পরিচিতি আছে।</item>
+    </plurals>
+    <plurals name="h6">
+        <item quantity="one">আপনার ভিডিওতে মন্তব্য করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছে।</item>
+        <item quantity="other">আপনার ভিডিওতে মন্তব্য করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছে।</item>
+    </plurals>
+    <plurals name="h7">
+        <item quantity="one">আপনার ভিডিওতে মন্তব্য করেছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+        <item quantity="other">আপনার ভিডিওতে মন্তব্য করেছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+    </plurals>
+    <plurals name="h8">
+        <item quantity="one">আপনার ভিডিওতে মন্তব্য করেছেন। আপনারা দুজনেরই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">আপনার ভিডিওতে মন্তব্য করেছেন। আপনারা দুজনেরই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="h9">
+        <item quantity="one">আপনার সঙ্গে একটি ডুয়েট তৈরি করেছেন। আপনাদের {3}টি পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">আপনার সঙ্গে একটি ডুয়েট তৈরি করেছেন। আপনাদের {3}টি পারস্পরিক পরিচিতি আছে।</item>
+    </plurals>
+    <plurals name="h_">
+        <item quantity="one">আপনার সঙ্গে একটি ডুয়েট তৈরি করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছেন।</item>
+        <item quantity="other">আপনার সঙ্গে একটি ডুয়েট তৈরি করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছেন।</item>
+    </plurals>
+    <plurals name="ha">
+        <item quantity="one">আপনার সঙ্গে একটি ডুয়েট তৈরি করেছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+        <item quantity="other">আপনার সঙ্গে একটি ডুয়েট তৈরি করেছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+    </plurals>
+    <plurals name="hb">
+        <item quantity="one">আপনার সঙ্গে একটি ডুয়েট তৈরি করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">আপনার সঙ্গে একটি ডুয়েট তৈরি করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="hc">
+        <item quantity="one">আপনার ভিডিও লাইক করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">আপনার ভিডিও লাইক করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="hd">
+        <item quantity="one">আপনার ভিডিও লাইক করেছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">আপনার ভিডিও লাইক করেছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+    </plurals>
+    <plurals name="he">
+        <item quantity="one">আপনার ভিডিও লাইক করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছে।</item>
+        <item quantity="other">আপনার ভিডিও লাইক করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছে।</item>
+    </plurals>
+    <plurals name="hf">
+        <item quantity="one">আপনার ভিডিও লাইক করেছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+        <item quantity="other">আপনার ভিডিও লাইক করেছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+    </plurals>
+    <plurals name="hg">
+        <item quantity="one">একটি মন্তব্যে আপনার উল্লেখ করেছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">একটি মন্তব্যে আপনার উল্লেখ করেছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+    </plurals>
+    <plurals name="hh">
+        <item quantity="one">একটি মন্তব্যে আপনার উল্লেখ করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছে।</item>
+        <item quantity="other">একটি মন্তব্যে আপনার উল্লেখ করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছে।</item>
+    </plurals>
+    <plurals name="hi">
+        <item quantity="one">একটি মন্তব্যে আপনার উল্লেখ করেছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+        <item quantity="other">একটি মন্তব্যে আপনার উল্লেখ করেছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+    </plurals>
+    <plurals name="hj">
+        <item quantity="one">একটি মন্তব্যে আপনার উল্লেখ করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">একটি মন্তব্যে আপনার উল্লেখ করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="hk">
+        <item quantity="one">[{3} জন পারস্পরিক পরিচিতি]</item>
+        <item quantity="other">[{3} জন পারস্পরিক পরিচিতি]</item>
+    </plurals>
+    <plurals name="hl">
+        <item quantity="one">[দুজনকেই {2} এবং অন্যান্য {3} জন অনুসরণ করে]</item>
+        <item quantity="other">[দুজনকেই {2} এবং অন্যান্য {3} জন অনুসরণ করে]</item>
+    </plurals>
+    <plurals name="hm">
+        <item quantity="one">[দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন]</item>
+        <item quantity="other">[দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন]</item>
+    </plurals>
+    <plurals name="hn">
+        <item quantity="one">{0} আপনাকে অনুসরণ করতে শুরু করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">{0} আপনাকে অনুসরণ করতে শুরু করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="ho">
+        <item quantity="one">{0} আপনাকে অনুসরণ করতে শুরু করেছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">{0} আপনাকে অনুসরণ করতে শুরু করেছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+    </plurals>
+    <plurals name="hp">
+        <item quantity="one">{0} আপনাকে অনুসরণ করতে শুরু করেছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছে।</item>
+        <item quantity="other">{0} আপনাকে অনুসরণ করতে শুরু করেছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছে।</item>
+    </plurals>
+    <plurals name="hq">
+        <item quantity="one">{0} আপনাকে অনুসরণ করতে শুরু করেছেন। {2} এবং অন্যান্য {3} জন তার বন্ধু।</item>
+        <item quantity="other">{0} আপনাকে অনুসরণ করতে শুরু করেছেন। {2} এবং অন্যান্য {3} জন তার বন্ধু।</item>
+    </plurals>
+    <plurals name="hr">
+        <item quantity="one">[দুজনেই {2} এবং অন্যান্য {3} জনের বন্ধু]</item>
+        <item quantity="other">[দুজনেই {2} এবং অন্যান্য {3} জনের বন্ধু]</item>
+    </plurals>
+    <plurals name="hs">
+        <item quantity="one">{0} ({1}) আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">{0} ({1}) আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+    </plurals>
+    <plurals name="ht">
+        <item quantity="one">{0} ({1}) আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছে।</item>
+        <item quantity="other">{0} ({1}) আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছে।</item>
+    </plurals>
+    <plurals name="hu">
+        <item quantity="one">{0} ({1}) আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। {2} এবং অন্যান্য {3} জন তার বন্ধু।</item>
+        <item quantity="other">{0} ({1}) আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। {2} এবং অন্যান্য {3} জন তার বন্ধু।</item>
+    </plurals>
+    <plurals name="hv">
+        <item quantity="one">{0} ({1}) আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">{0} ({1}) আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="hw">
+        <item quantity="one">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। আপনাদের {3}টি পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। আপনাদের {3}টি পারস্পরিক পরিচিতি আছে।</item>
+    </plurals>
+    <plurals name="hx">
+        <item quantity="one">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছেন।</item>
+        <item quantity="other">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছেন।</item>
+    </plurals>
+    <plurals name="hy">
+        <item quantity="one">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছেন।</item>
+        <item quantity="other">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছেন।</item>
+    </plurals>
+    <plurals name="hz">
+        <item quantity="one">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">{0} ({1}) আপনাকে অনুসরণ করতে শুরু করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="i0">
+        <item quantity="one">{0} আপনার অনুসরণ করার অনুরোধটি স্বীকার করেছেন। আপনাদের {3} জন পারস্পরিক সংযোগ আছে।</item>
+        <item quantity="other">{0} আপনার অনুসরণ করার অনুরোধটি স্বীকার করেছেন। আপনাদের {3} জন পারস্পরিক সংযোগ আছে।</item>
+    </plurals>
+    <plurals name="i1">
+        <item quantity="one">{0} আপনার অনুসরণ করার অনুরোধটি স্বীকার করেছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছে।</item>
+        <item quantity="other">{0} আপনার অনুসরণ করার অনুরোধটি স্বীকার করেছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছে।</item>
+    </plurals>
+    <plurals name="i2">
+        <item quantity="one">{0} আপনার অনুসরণ করার অনুরোধটি স্বীকার করেছেন। {2} এবং অন্যান্য {3} জন তার বন্ধু।</item>
+        <item quantity="other">{0} আপনার অনুসরণ করার অনুরোধটি স্বীকার করেছেন। {2} এবং অন্যান্য {3} জন তার বন্ধু।</item>
+    </plurals>
+    <plurals name="i3">
+        <item quantity="one">{0} আপনার অনুসরণ করার অনুরোধটি স্বীকার করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">{0} আপনার অনুসরণ করার অনুরোধটি স্বীকার করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="i4">
+        <item quantity="one">{0} আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">{0} আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। আপনাদের {3} জন পারস্পরিক সংযোগ আছে।</item>
+    </plurals>
+    <plurals name="i5">
+        <item quantity="one">{0} আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছে।</item>
+        <item quantity="other">{0} আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছে।</item>
+    </plurals>
+    <plurals name="i6">
+        <item quantity="one">{0} আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। {2} এবং অন্যান্য {3} জন তার বন্ধু।</item>
+        <item quantity="other">{0} আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। {2} এবং অন্যান্য {3} জন তার বন্ধু।</item>
+    </plurals>
+    <plurals name="i7">
+        <item quantity="one">{0} আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">{0} আপনাকে একটি অনুসরণ করার অনুরোধ পাঠিয়েছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="i8">
+        <item quantity="one">আপনার মন্তব্যের উত্তর দিয়েছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">আপনার মন্তব্যের উত্তর দিয়েছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+    </plurals>
+    <plurals name="i9">
+        <item quantity="one">আপনার মন্তব্যের উত্তর দিয়েছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছে।</item>
+        <item quantity="other">আপনার মন্তব্যের উত্তর দিয়েছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছে।</item>
+    </plurals>
+    <plurals name="i_">
+        <item quantity="one">আপনার মন্তব্যের উত্তর দিয়েছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+        <item quantity="other">আপনার মন্তব্যের উত্তর দিয়েছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+    </plurals>
+    <plurals name="ia">
+        <item quantity="one">আপনার মন্তব্যের উত্তর দিয়েছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">আপনার মন্তব্যের উত্তর দিয়েছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="ib">
+        <item quantity="one">একটি ভিডিও সহ আপনার মন্তব্যের উত্তর দিয়েছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">একটি ভিডিও সহ আপনার মন্তব্যের উত্তর দিয়েছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+    </plurals>
+    <plurals name="ic">
+        <item quantity="one">একটি ভিডিও দিয়ে আপনার মন্তব্যের উত্তর দিয়েছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছে।</item>
+        <item quantity="other">একটি ভিডিও দিয়ে আপনার মন্তব্যের উত্তর দিয়েছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছে।</item>
+    </plurals>
+    <plurals name="id">
+        <item quantity="one">একটি ভিডিও দিয়ে আপনার মন্তব্যের উত্তর দিয়েছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+        <item quantity="other">একটি ভিডিও দিয়ে আপনার মন্তব্যের উত্তর দিয়েছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+    </plurals>
+    <plurals name="ie">
+        <item quantity="one">একটি ভিডিও দিয়ে আপনার মন্তব্যের উত্তর দিয়েছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">একটি ভিডিও দিয়ে আপনার মন্তব্যের উত্তর দিয়েছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="if">
+        <item quantity="one">একটি ভিডিওতে আপনার উল্লেখ করেছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">একটি ভিডিওতে আপনার উল্লেখ করেছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+    </plurals>
+    <plurals name="ig">
+        <item quantity="one">একটি ভিডিওতে আপনার উল্লেখ করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছে।</item>
+        <item quantity="other">একটি ভিডিওতে আপনার উল্লেখ করেছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছে।</item>
+    </plurals>
+    <plurals name="ih">
+        <item quantity="one">একটি ভিডিওতে আপনার উল্লেখ করেছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+        <item quantity="other">একটি ভিডিওতে আপনার উল্লেখ করেছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+    </plurals>
+    <plurals name="ii">
+        <item quantity="one">একটি ভিডিওতে আপনার উল্লেখ করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">একটি ভিডিওতে আপনার উল্লেখ করেছেন। আপনারা দুজনেই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="ij">
+        <item quantity="one">আপনার ভিডিওর জন্য ভোট দিয়েছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">আপনার ভিডিওর জন্য ভোট দিয়েছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+    </plurals>
+    <plurals name="ik">
+        <item quantity="one">একটি মন্তব্যতে একটি ভিডিও সহ জবাব দিয়েছেন যেখানে আপনিও উত্তর দিয়েছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+        <item quantity="other">একটি মন্তব্যতে একটি ভিডিও সহ জবাব দিয়েছেন যেখানে আপনিও উত্তর দিয়েছেন। আপনাদের {3} জন পারস্পরিক পরিচিতি আছে।</item>
+    </plurals>
+    <plurals name="il">
+        <item quantity="one">একটি মন্তব্যতে একটি ভিডিও সহ জবাব দিয়েছেন যেখানে আপনিও উত্তর দিয়েছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছে।</item>
+        <item quantity="other">একটি মন্তব্যতে একটি ভিডিও সহ জবাব দিয়েছেন যেখানে আপনিও উত্তর দিয়েছেন। {2} এবং অন্যান্য {3} জন তাকে অনুসরণ করছে।</item>
+    </plurals>
+    <plurals name="im">
+        <item quantity="one">একটি মন্তব্যতে একটি ভিডিও সহ জবাব দিয়েছেন যেখানে আপনিও উত্তর দিয়েছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু আছে।</item>
+        <item quantity="other">একটি মন্তব্যতে একটি ভিডিও সহ জবাব দিয়েছেন যেখানে আপনিও উত্তর দিয়েছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু আছে।</item>
+    </plurals>
+    <plurals name="in">
+        <item quantity="one">একটি মন্তব্যতে একটি ভিডিও সহ জবাব দিয়েছেন যেখানে আপনিও উত্তর দিয়েছেন। আপনারা দুজনেই {2} এবং {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">একটি মন্তব্যতে একটি ভিডিও সহ জবাব দিয়েছেন যেখানে আপনিও উত্তর দিয়েছেন। আপনারা দুজনেই {2} এবং {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="io">
+        <item quantity="one">আপনার ভিডিওর জন্য ভোট দিয়েছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছে।</item>
+        <item quantity="other">আপনার ভিডিওর জন্য ভোট দিয়েছেন। {2} এবং অন্যান্য {3} জন তাদের অনুসরণ করছে।</item>
+    </plurals>
+    <plurals name="ip">
+        <item quantity="one">আপনার ভিডিওর জন্য ভোট দিয়েছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+        <item quantity="other">আপনার ভিডিওর জন্য ভোট দিয়েছেন। {2} এবং অন্যান্য {3} জন তাদের বন্ধু।</item>
+    </plurals>
+    <plurals name="iq">
+        <item quantity="one">আপনার ভিডিওর জন্য ভোট দিয়েছেন। আপনারা দুজনেরই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+        <item quantity="other">আপনার ভিডিওর জন্য ভোট দিয়েছেন। আপনারা দুজনেরই {2} এবং অন্যান্য {3} জনকে অনুসরণ করেন।</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="one">%dটি লাইভ ভিডিও</item>
+        <item quantity="other">%dটি লাইভ ভিডিও</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="one">%s দিনের মধ্যে শেষ হতে চলেছে</item>
+        <item quantity="other">%s দিনের মধ্যে শেষ হতে চলেছে</item>
+    </plurals>
+    <plurals name="it">
+        <item quantity="one">%dটি আইটেম</item>
+        <item quantity="other">%dটি আইটেম</item>
+    </plurals>
+    <plurals name="iu">
+        <item quantity="one">%s এবং অন্যান্য %d জনকে পাঠানো হচ্ছে...</item>
+        <item quantity="other">%s এবং অন্যান্য %d জনকে পাঠানো হচ্ছে...</item>
+    </plurals>
+    <plurals name="iv">
+        <item quantity="one">%s এবং অন্যান্য %d জনকে পাঠানো হয়েছে</item>
+        <item quantity="other">%s এবং অন্যান্য %d জনকে পাঠানো হয়েছে</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="one">আপনি %1$dটি পর্যন্ত মিডিয়া ফাইল নির্বাচন করতে পারেন মাত্র</item>
+        <item quantity="other">আপনি %1$dটি পর্যন্ত মিডিয়া ফাইল নির্বাচন করতে পারেন মাত্র</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="one">%dটি অনুরোধ</item>
+        <item quantity="other">%dটি অনুরোধ</item>
+    </plurals>
+    <plurals name="iz">
+        <item quantity="one">আপনি আরও %dটি ভিডিও জমা দিতে পারেন</item>
+        <item quantity="other">আপনি আরও %dটি ভিডিও জমা দিতে পারেন</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="one">নতুন হিসাবে গান অনির্বাচন করবেন?</item>
+        <item quantity="other">নতুন হিসাবে গান অনির্বাচন করবেন?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="one">নতুন হিসাবে %dটি গান অনির্বাচিত</item>
+        <item quantity="other">নতুন হিসাবে %dটি গান অনির্বাচিত</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="one">%dটি রিলিজ</item>
+        <item quantity="other">%dটি রিলিজ</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="one">%d জন শিল্পী</item>
+        <item quantity="other">%d জন শিল্পী</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="one">%dটি পারষ্পরিক সম্পর্ক</item>
+        <item quantity="other">%dটি পারষ্পরিক সম্পর্ক</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="one">%d জন পারস্পরিক সংযোগ</item>
+        <item quantity="other">%d জন পারস্পরিক সংযোগ</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="one">আপনি এখন %d মিনিট দীর্ঘ ভিডিওগুলো আপলোড করতে পারেন!</item>
+        <item quantity="other">আপনি এখন %d মিনিট পর্যন্ত দীর্ঘ ভিডিওগুলি আপলোড করতে পারবেন!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="one">%d-মিনিটের ভিডিও শুরু হচ্ছে</item>
+        <item quantity="other">%d-মিনিটের ভিডিও শুরু হচ্ছে</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="one">%dটি পারষ্পরিক সম্পর্ক</item>
+        <item quantity="other">%dটি পারষ্পরিক সম্পর্ক</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="one">%dটি মন্তব্য</item>
+        <item quantity="other">%dটি মন্তব্য</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="one">%dটির সবকটি মন্তব্য দেখুন</item>
+        <item quantity="other">%dটির সবকটি মন্তব্য দেখুন</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="one">{nickname} এবং অন্যান্য {number_1} জন</item>
+        <item quantity="other">{nickname} এবং অন্যান্য {number_1} জন</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="one">{number} জন বন্ধু আজকের Now পোস্ট করেছেন</item>
+        <item quantity="other">{number} জন বন্ধু আজকের Now পোস্ট করেছেন</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="one">%1$s এবং আরও %2$d জন Now-তে পোস্ট করেছেন</item>
+        <item quantity="other">%1$s এবং আরও %2$d জন Now-তে পোস্ট করেছেন</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="one">{nickname} এবং অন্যান্য {number_1} জন</item>
+        <item quantity="other">{nickname} এবং অন্যান্য {number_1} জন</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="one">এলোমেলো মুহূর্তগুলো শেয়ার করার জন্য TikTok Now-তে {number} জন বন্ধুর সাথে যোগ দিন</item>
+        <item quantity="other">এলোমেলো মুহূর্তগুলো শেয়ার করার জন্য TikTok Now-তে {number} জন বন্ধুর সাথে যোগ দিন</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="one">পরবর্তী {number} মিনিটে আপনার Now পোস্ট করুন</item>
+        <item quantity="other">পরবর্তী {number} মিনিটে আপনার Now পোস্ট করুন</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="one">একটি Now পোস্ট করার জন্য আর %d মিনিট আছে।</item>
+        <item quantity="other">একটি Now পোস্ট করার জন্য আর %d মিনিট আছে।</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="one">%d জন মিউচুয়াল ফ্রেন্ড</item>
+        <item quantity="other">%d জন মিউচুয়াল ফ্রেন্ড</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="one">%dটি লাইক</item>
+        <item quantity="other">%dটি লাইক</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="one">{1}, {2}, {3}, এবং অন্যান্য {number} জন এইমাত্র একটি Now পোস্ট করেছেন।</item>
+        <item quantity="other">{1}, {2}, {3}, এবং অন্যান্য {number} জন এইমাত্র একটি Now পোস্ট করেছেন।</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="one">%dটি প্রতিক্রিয়া</item>
+        <item quantity="other">%dটি প্রতিক্রিয়া</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="one">%dটি ভিউ</item>
+        <item quantity="other">%dটি ভিউ</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="one">%dটি ভিউ</item>
+        <item quantity="other">%dটি ভিউ</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="one">%1$s এবং অন্যান্য %2$s জন</item>
+        <item quantity="other">%1$s এবং অন্যান্য %2$s জন</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="one">Lemon8 থেকে সিঙ্ক করা আপনার পোস্টগুলিতে এখনও শব্দ নেই৷ আপনার পোস্টগুলিকে দর্শকদের জন্য আরও আকর্ষক করতে শব্দ যোগ করুন।</item>
+        <item quantity="other">Lemon8 থেকে সিঙ্ক করা আপনার পোস্টগুলিতে এখনও শব্দ নেই৷ আপনার পোস্টগুলিকে দর্শকদের জন্য আরও আকর্ষক করতে শব্দ যোগ করুন।</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="one">আপনার পোস্ট উন্নত করতে শব্দ যোগ করুন</item>
+        <item quantity="other">আপনার পোস্ট উন্নত করতে শব্দ যোগ করুন</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="one">আপনার ফটো লাইক করেছেন।</item>
+        <item quantity="other">আপনার ফটো লাইক করেছেন।</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="one">আপনার ফটোর জন্য ভোট দিয়েছেন।</item>
+        <item quantity="other">আপনার ফটোগুলির জন্য ভোট দিয়েছেন।</item>
+    </plurals>
+    <plurals name="jt">
+        <item quantity="one">ভিডিও যোগ করুন (%s)</item>
+        <item quantity="other">ভিডিওগুলি যোগ করুন (%s)</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="one">%dটি এপিসোড</item>
+        <item quantity="other">%dটি এপিসোড</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="one">%dটি পার্ট</item>
+        <item quantity="other">%dটি পার্ট</item>
+    </plurals>
+    <plurals name="jw">
+        <item quantity="one">ভিডিও সরিয়ে দিন (%s)</item>
+        <item quantity="other">ভিডিওগুলি সরিয়ে দিন (%s)</item>
+    </plurals>
+    <plurals name="jx">
+        <item quantity="one">%s ভিয়্যু</item>
+        <item quantity="other">%s বার দেখা হয়েছে</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="one">আপনি এটি আরও %d বার পাঠাতে পারেন</item>
+        <item quantity="other">আপনি এটি আরও %d বার পাঠাতে পারেন</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="one">%d জন দর্শক অনুরোধ করেছেন</item>
+        <item quantity="other">%d জন দর্শক অনুরোধ করেছেন</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="one">%s দিনের মধ্যে অ্যাক্সেস রিস্টোর করা হবে</item>
+        <item quantity="other">%s দিনের মধ্যে অ্যাক্সেস রিস্টোর করা হবে</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="one">1 নম্বরের শীর্ষ দর্শকের কাছ থেকে %s কয়েন</item>
+        <item quantity="other">1 নম্বরের শীর্ষ দর্শকের কাছ থেকে %s কয়েন</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="one">2 নম্বরের শীর্ষ দর্শকের কাছ থেকে %s কয়েন</item>
+        <item quantity="other">2 নম্বরের শীর্ষ দর্শকের কাছ থেকে %s কয়েন</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="one">%s জন অনুসরণকারী</item>
+        <item quantity="other">%s জন অনুসরণকারী</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="one">%sটি উপলব্ধ আইটেম কিনুন</item>
+        <item quantity="other">{number}টি উপলব্ধ আইটেম কিনুন</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="one">%sটি উপলব্ধ আইটেম কিনুন</item>
+        <item quantity="other">{number}টি উপলব্ধ আইটেম কিনুন</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="one">লাইভ ক্রিয়েটরকে %sটি কয়েন দেওয়া হয়েছে</item>
+        <item quantity="other">লাইভ ক্রিয়েটরকে %sটি কয়েন দেওয়া হয়েছে</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="one">%sটি লাইক</item>
+        <item quantity="other">%sটি লাইক</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="one">%s জন দর্শক</item>
+        <item quantity="other">%s জন দর্শক</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="one">%sটি শেয়ার। ভিডিও শেয়ার করুন</item>
+        <item quantity="other">%sটি শেয়ার। ভিডিও শেয়ার করুন</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="one">%1$s %2$s-কে ভোট দিয়েছে</item>
+        <item quantity="other">%1$s %2$s-কে ভোট দিয়েছে</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="one">%1$s ভোট দিয়েছে %2$s-কে, %3$s ভোট দিয়েছে %4$s-কে</item>
+        <item quantity="other">%1$s ভোট দিয়েছে %2$s-কে, %3$s ভোট দিয়েছে %4$s-কে</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="one">%d মিনিটে</item>
+        <item quantity="other">%d মিনিটে</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="one">লেভেল বাড়ানোর জন্য আরও %dটি অভিজ্ঞতার পয়েন্ট</item>
+        <item quantity="other">লেভেল বাড়ানোর জন্য আরও %dটি অভিজ্ঞতার পয়েন্ট</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="one">আপনার পুরস্কারগুলো %d দিনের মধ্যে নিদ্রাচ্ছন্ন হবে</item>
+        <item quantity="other">আপনার পুরস্কারগুলো %d দিনের মধ্যে নিদ্রাচ্ছন্ন হবে</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="one">লাইভ শেষ হয়ে গেছে? %s জন দর্শক বর্তমানে দেখছেন।</item>
+        <item quantity="other">লাইভ শেষ হয়ে গেছে? %s জন দর্শক বর্তমানে দেখছেন।</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="one">লাইভ শেষ হয়ে গেছে? %s জন দর্শক বর্তমানে দেখছেন।</item>
+        <item quantity="other">লাইভ শেষ হয়ে গেছে? %s জন দর্শক বর্তমানে দেখছেন।</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="one">%sটি নতুন বার্তা</item>
+        <item quantity="other">%sটি নতুন বার্তা</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="one">একটি সারিতে {num} দিন সহ-আয়োজন করা হয়েছে</item>
+        <item quantity="other">একটি সারিতে {num} দিন সহ-আয়োজন করা হয়েছে</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="one">{number}টি কয়েন কম আছে</item>
+        <item quantity="other">{number}টি কয়েন কম আছে</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="one">গত {number} দিনের মধ্যে আপনার সর্বোচ্চ: {amount}টি কয়েন</item>
+        <item quantity="other">গত {number} দিনের মধ্যে আপনার সর্বোচ্চ: {amount}টি কয়েন</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="one">প্রস্তাবিত: {amount}টি কয়েন</item>
+        <item quantity="other">প্রস্তাবিত: {amount}টি কয়েন</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="one">আপনার কাছে এখন {number}টি কয়েন আছে। আপনি আরও কয়েন পেতে রিচার্জ করতে পারেন।</item>
+        <item quantity="other">আপনার কাছে এখন {number}টি কয়েন আছে। আপনি আরও কয়েন পেতে রিচার্জ করতে পারেন।</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="one">সঠিক অনুমান (%d)</item>
+        <item quantity="other">সঠিক অনুমান (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="one">%sটি সঠিক অনুমান</item>
+        <item quantity="other">%sটি সঠিক অনুমান</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="one">%s জন দর্শক এটি অনুমান করেছেন��</item>
+        <item quantity="other">%s জন দর্শক এটি অনুমান করেছেন��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="one">বেশিরভাগ দর্শক %sটি শব্দ অনুমান করেছেন</item>
+        <item quantity="other">বেশিরভাগ দর্শক %sটি শব্দ অনুমান করেছেন</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="one">কোনও দর্শক শব্দটি অনুমান করতে পারেননি</item>
+        <item quantity="other">কোনও দর্শক শব্দগুলি অনুমান করতে পারেননি</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="one">একটি শব্দ আঁকার জন্য %s মিনিট</item>
+        <item quantity="other">একটি শব্দ আঁকার জন্য %s মিনিট</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="one">�� %d জন দর্শক %s অনুমান করেছেন</item>
+        <item quantity="other">�� %d জন দর্শক %s অনুমান করেছেন</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="one">আমি %sটি শব্দ অনুমান করেছি!</item>
+        <item quantity="other">আমি %sটি শব্দ অনুমান করেছি!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="one">আপনি %sটি শব্দ অনুমান করেছেন</item>
+        <item quantity="other">আপনি %sটি শব্দ অনুমান করেছেন</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="one">{0:string} এবং অন্যান্য {1:string} জন ক্রেতা কেনাকাটা করছেন</item>
+        <item quantity="other">{0:string} এবং অন্যান্য {1:string} জন ক্রেতা কেনাকাটা করছেন</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="one">%dটি ছবি খুবই ছোটো। ছবি অবশ্যই অন্তত 256 x 256 পিক্সেল হতে হবে।</item>
+        <item quantity="other">%dটি ছবি খুবই ছোটো। ছবি অবশ্যই অন্তত 256 x 256 পিক্সেল হতে হবে।</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="one">%d জন দর্শক</item>
+        <item quantity="other">%d জন দর্শক</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="one">আপনার %dটি কয়েন আছে।</item>
+        <item quantity="other">আপনার %dটি কয়েন আছে।</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="one">এই উপহার পাঠাতে আপনি আরও %dটি কয়েনের জন্য %@ বিনিময় করতে পারবেন।</item>
+        <item quantity="other">এই উপহার পাঠাতে আপনি আরও %dটি কয়েনের জন্য %@ বিনিময় করতে পারবেন।</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="one">{{num}}টি কয়েনের জন্য লাইভ উপহারসমূহের ব্যালেন্স বিনিময় করা হয়েছে</item>
+        <item quantity="other">{{num}}টি কয়েনের জন্য লাইভ উপহারসমূহের ব্যালেন্স বিনিময় করা হয়েছে</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="one">আপনার %1$dটি কয়েন কম রয়েছে। কয়েনের জন্য %2$s বিনিময় করে %3$s পাঠাবেন?</item>
+        <item quantity="other">আপনার %1$dটি কয়েন কম রয়েছে। কয়েনের জন্য %2$s বিনিময় করে %3$s পাঠাবেন?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="one">আপনি %dটি কয়েনের জন্য বিনিময় করেছিলেন এবং %s পাঠিয়েছেন</item>
+        <item quantity="other">আপনি %dটি কয়েনের জন্য বিনিময় করেছিলেন এবং %s পাঠিয়েছেন</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="one">%s জন সদস্য</item>
+        <item quantity="other">%s জন সদস্য</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="one">{num} দিনের জন্য আপনার সঙ্গে আছে</item>
+        <item quantity="other">{num} দিনের জন্য আপনার সঙ্গে আছে</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="one">সক্রিয় থাকতে {num} ঘণ্টায় 1টি মেম্বার পয়েন্ট পান</item>
+        <item quantity="other">সক্রিয় থাকতে {num} ঘণ্টায় 1টি মেম্বার পয়েন্ট পান</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="one">%1$d কয়েন দিয়ে আরও %2$d বার পাঠানো যাবে।</item>
+        <item quantity="other">%1$d কয়েন দিয়ে আরও %2$d বার পাঠানো যাবে।</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="one">%d জন অনুসরণকারী এখন সক্রিয় রয়েছেন</item>
+        <item quantity="other">%d জন অনুসরণকারী এখন সক্রিয় রয়েছেন</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="one">আপনার বন্ধুদের {number} জন লাইভ হয়েছেন। একসাথে লাইভ হওয়ার জন্য তাদের আমন্ত্রণ জানান!</item>
+        <item quantity="other">আপনার বন্ধুদের {number} জন লাইভ হয়েছেন। একসাথে লাইভ হওয়ার জন্য তাদের আমন্ত্রণ জানান!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="one">রিচার্জ করে অতিরিক্ত {num}টি কয়েন আনলক করুন</item>
+        <item quantity="other">রিচার্জ করে অতিরিক্ত {num}টি কয়েন আনলক করুন</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="one">{num} দিন</item>
+        <item quantity="other">{num} দিন</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="one">{num}টি কয়েন আনলক করুন</item>
+        <item quantity="other">{num}টি কয়েন আনলক করুন</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="one">{num}টি কয়েন</item>
+        <item quantity="other">{num}টি কয়েন</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="one">আপনি অতিরিক্ত {num}টি কয়েন আনলক করবেন।</item>
+        <item quantity="other">আপনি অতিরিক্ত {num}টি কয়েন আনলক করবেন।</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="one">আরও {num_1}টি কয়েন রিচার্জ করুন।</item>
+        <item quantity="other">আরও {num_1}টি কয়েন রিচার্জ করুন।</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="one">অতিরিক্ত {num}টি কয়েন আনলক করতে রিচার্জ করুন</item>
+        <item quantity="other">অতিরিক্ত {num}টি কয়েন আনলক করতে রিচার্জ করুন</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="one">গত {number} দিন</item>
+        <item quantity="other">গত {number} দিন</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="one">{gameName} এবং অন্যান্য {number}টির দাম পরিবর্তিত হয়েছে। এই বিষয়ে আরও পার্টনারশিপ সেন্টারে আরও দেখুন।</item>
+        <item quantity="other">{gameName} এবং অন্যান্য {number}টির দাম পরিবর্তিত হয়েছে। এই বিষয়ে আরও পার্টনারশিপ সেন্টারে আরও দেখুন।</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="one">প্রোগ্রামের শর্তাবলী লঙ্ঘনের জন্য আপনার লাইভে %s দিনের জন্য উপহার প্রদান স্থগিত করা হয়েছে।</item>
+        <item quantity="other">প্রোগ্রামের শর্তাবলী লঙ্ঘনের জন্য আপনার লাইভে %s দিনের জন্য উপহার প্রদান স্থগিত করা হয়েছে।</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="one">এই লাইভে উপহার প্রদান স্থগিত করা হয়েছে এবং %s মিনিটের মধ্যে পুনরুদ্ধার করা হবে৷</item>
+        <item quantity="other">এই লাইভে উপহার প্রদান স্থগিত করা হয়েছে এবং %s মিনিটের মধ্যে পুনরুদ্ধার করা হবে৷</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="one">উপহার প্রদান {0} দিনের জন্য স্থগিত করা হয়েছে।</item>
+        <item quantity="other">উপহার প্রদান {0} দিনের জন্য স্থগিত করা হয়েছে।</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="one">উপহার প্রদান %s দিনের জন্য স্থগিত করা হয়েছে</item>
+        <item quantity="other">উপহার প্রদান %s দিনের জন্য স্থগিত করা হয়েছে</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="one">%dটি কয়েনের জন্য পাঠান</item>
+        <item quantity="other">%dটি কয়েনের জন্য পাঠান</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="one">রিচার্জিং সম্পন্ন হয়েছে এবং আপনার কাছে এখন %dটি কয়েন আছে। আপনার সমর্থন দেখাতে এই উপহারটি পাঠান!</item>
+        <item quantity="other">রিচার্জিং সম্পন্ন হয়েছে এবং আপনার কাছে এখন %dটি কয়েন আছে। আপনার সমর্থন দেখাতে এই উপহারটি পাঠান!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="one">বিনিময় সম্পন্ন হয়েছে এবং আপনার কাছে এখন %dটি কয়েন আছে। আপনার সমর্থন দেখাতে এই উপহারটি পাঠান!</item>
+        <item quantity="other">বিনিময় সম্পন্ন হয়েছে এবং আপনার কাছে এখন %dটি কয়েন আছে। আপনার সমর্থন দেখাতে এই উপহারটি পাঠান!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="one">{0:user} {1:gift} ({2:string} pt) {3:string} পাঠিয়েছেন, যা তাদের পাঠানো প্রথম উপহার। আপনার কৃতজ্ঞতা প্রকাশ করুন!</item>
+        <item quantity="other">{0:user} {1:gift} ({2:string} pts) {3:string} পাঠিয়েছেন, যা তাদের পাঠানো প্রথম উপহার। আপনার কৃতজ্ঞতা প্রকাশ করুন!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="one">{0:user} {1:gift} ({2:string} pt) {3:string} পাঠিয়েছেন</item>
+        <item quantity="other">{0:user} {1:gift} ({2:string} pts) {3:string} পাঠিয়েছেন</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="one">{0:user} {1:gift} ({2:string} pt) {3:string} পাঠিয়েছেন</item>
+        <item quantity="other">{0:user} {1:gift} ({2:string} pts) {3:string} পাঠিয়েছেন</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="one">{0:user} {1:gift} ({2:string} pt) {3:string} পাঠিয়েছেন এবং এই ভ্রমণে প্রথমবারের মতো স্রষ্টার সাথে {4:city}-তে গিয়েছেন!</item>
+        <item quantity="other">{0:user} {1:gift} ({2:string} pts) {3:string} পাঠিয়েছেন এবং এই ভ্রমণে প্রথমবারের মতো স্রষ্টার সাথে {4:city}-তে গিয়েছেন!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="one">উপহারের বিশদ (মোট {{num}} টি লেনদেন)</item>
+        <item quantity="other">উপহারের বিশদ (মোট {{num}} টি লেনদেন)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="one">{amount}টি কয়েন</item>
+        <item quantity="other">{amount}টি কয়েন</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="one">উপহার</item>
+        <item quantity="other">উপহারসমূহ</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="one">%dটি কয়েন</item>
+        <item quantity="other">%d কয়েন</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="one">আপনি %sটি উপহার পেয়েছেন। ধন্যবাদ জানাতে ভুলবেন না।</item>
+        <item quantity="other">আপনি %sটি উপহার পেয়েছেন। ধন্যবাদ জানাতে ভুলবেন না।</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="one">আপনি %sটি উপহার পেয়েছেন</item>
+        <item quantity="other">আপনি %sটি উপহার পেয়েছেন</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="one">%sটি কয়েনের জন্য বিনিময় সম্পূর্ণ করবেন?</item>
+        <item quantity="other">%sটি কয়েনের জন্য বিনিময় সম্পূর্ণ করবেন?</item>
+    </plurals>
+    <plurals name="lz">
+        <item quantity="one">%dটি কয়েনের জন্য বিনিময় সম্পূর্ণ করবেন?</item>
+        <item quantity="other">%dটি কয়েনের জন্য বিনিময় সম্পূর্ণ করবেন?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="one">লাইভ হন (%ds)</item>
+        <item quantity="other">লাইভ হন (%ds)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="one">%s জন অতিথির অনুরোধ</item>
+        <item quantity="other">%s জন অতিথির অনুরোধ</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="one">%sটি অনুরোধ</item>
+        <item quantity="other">%sটি অনুরোধ</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="one">%s পয়েন্ট</item>
+        <item quantity="other">%s পয়েন্ট</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="one">%2$s-এ পৌঁছাতে %1$s পয়েন্ট</item>
+        <item quantity="other">%2$s-এ পৌঁছাতে %1$s পয়েন্ট</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="one">%d জন দর্শক অনুরোধ করছেন</item>
+        <item quantity="other">%d জন দর্শক অনুরোধ করছেন</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="one">%d দিন পর্যন্ত আপনাকে একজন অতিথি হিসেবে লাইভ হওয়া থেকে স্থগিত করা হয়েছে</item>
+        <item quantity="other">%d দিন পর্যন্ত আপনাকে একজন অতিথি হিসেবে লাইভ হওয়া থেকে স্থগিত করা হয়েছে</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="one">%d ঘণ্টা পর্যন্ত আপনাকে একজন অতিথি হিসেবে লাইভ হওয়া থেকে স্থগিত করা হয়েছে</item>
+        <item quantity="other">%d ঘণ্টা পর্যন্ত আপনাকে একজন অতিথি হিসেবে লাইভ হওয়া থেকে স্থগিত করা হয়েছে</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="one">%d মিনিট পর্যন্ত আপনাকে একজন অতিথি হিসেবে লাইভ হওয়া থেকে স্থগিত করা হয়েছে</item>
+        <item quantity="other">%d মিনিট পর্যন্ত আপনাকে একজন অতিথি হিসেবে লাইভ হওয়া থেকে স্থগিত করা হয়েছে</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="one">%d সেকেন্ড পর্যন্ত আপনাকে একজন অতিথি হিসেবে লাইভ হওয়া থেকে স্থগিত করা হয়েছে</item>
+        <item quantity="other">%d সেকেন্ড পর্যন্ত আপনাকে একজন অতিথি হিসেবে লাইভ হওয়া থেকে স্থগিত করা হয়েছে</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="one">টুল</item>
+        <item quantity="other">টুল</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="one">[username] এবং [number] জন অনুসরণকারী সম্প্রতি আপনাকে লাইভ হওয়ার জন্য নাজ করেছেন</item>
+        <item quantity="other">[username] এবং [number] জন অনুসরণকারী সম্প্রতি আপনাকে লাইভ হওয়ার জন্য নাজ করেছেন</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="one">[username] এবং [number] জন অনুসরণকারী সম্প্রতি আপনাকে লাইভ হওয়ার জন্য নাজ করেছেন</item>
+        <item quantity="other">[username] এবং [number] জন অনুসরণকারী সম্প্রতি আপনাকে লাইভ হওয়ার জন্য নাজ করেছেন</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="one">আপনি আমন্ত্রণটি স্বীকার করলে, এই লাইভ ক্রিয়েটর আপনার বর্তমান সহ-আয়োজকের সাথে যোগ দেন।</item>
+        <item quantity="other">আপনি আমন্ত্রণটি স্বীকার করলে, এই লাইভ ক্রিয়েটররা আপনার বর্তমান সহ-আয়োজকের সাথে যোগ দেন।</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="one">{number} দিন</item>
+        <item quantity="other">{number} দিন</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="one">পরবর্তী ধাপে, একবার আপনি পেজটি ছেড়ে গেলে, আপনার কুপন আবার {number} দিনের মধ্যে শুধুমাত্র উপলভ্য হবে।</item>
+        <item quantity="other">পরবর্তী ধাপে, একবার আপনি পেজটি ছেড়ে গেলে, আপনার কুপন আবার {number} দিনের মধ্যে শুধুমাত্র উপলভ্য হবে।</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="one">পরবর্তী ধাপে, একবার আপনি পেজটি ছেড়ে গেলে, আপনার কুপন আবার {number} ঘণ্টার মধ্যে শুধুমাত্র উপলভ্য হবে।</item>
+        <item quantity="other">পরবর্তী ধাপে, একবার আপনি পেজটি ছেড়ে গেলে, আপনার কুপন আবার {number} ঘণ্টার মধ্যে শুধুমাত্র উপলভ্য হবে।</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="one">পরবর্তী ধাপে, একবার আপনি পেজটি ছেড়ে গেলে, আপনার কুপন আবার {number} মিনিটের মধ্যে শুধুমাত্র উপলভ্য হবে।</item>
+        <item quantity="other">পরবর্তী ধাপে, একবার আপনি পেজটি ছেড়ে গেলে, আপনার কুপন আবার {number} মিনিটের মধ্যে শুধুমাত্র উপলভ্য হবে।</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="one">আপনার কুপন আবার {number} দিনের মধ্যে উপলভ্য হবে</item>
+        <item quantity="other">কুপন আবার {number} দিনের মধ্যে উপলভ্য হবে</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="one">আপনার কুপন আবার {number} ঘণ্টার মধ্যে উপলভ্য হবে</item>
+        <item quantity="other">কুপন আবার {number} ঘণ্টার মধ্যে উপলভ্য হবে</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="one">আপনার কুপন আবার {number} মিনিটের মধ্যে উপলভ্য হবে</item>
+        <item quantity="other">কুপন আবার {number} মিনিটের মধ্যে উপলভ্য হবে</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="one">%sটি লাইক</item>
+        <item quantity="other">%sটি লাইক</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="one">লাইক</item>
+        <item quantity="other">লাইক</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="one">%sটি লাইক</item>
+        <item quantity="other">%sটি লাইক</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="one">%d সেকেন্ড</item>
+        <item quantity="other">%d সেকেন্ড</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="one">আপনার লাইভ করার আবেদন অনুমোদিত হয়নি। আপনি %d দিন পরে আবার আবেদন করতে পারেন।</item>
+        <item quantity="other">আপনার লাইভ অ্যাপ্লিকেশন অনুমোদিত হয়নি। আপনি %d দিনের মধ্যে আবার আবেদন করতে পারবেন।</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="one">আপনি লাইভ অ্যাক্সেসের জন্য আবেদন করেছেন এবং পরবর্তী 7 দিনের জন্য লাইভ হতে পারবেন। অবিরত অ্যাক্সেস পাওয়ার জন্য কমিউনিটির নিয়মকানুন অনুসরণ করার কথা মনে রাখুন এবং আপনার প্রথম সপ্তাহে %d ঘণ্টার জন্য লাইভ হন।</item>
+        <item quantity="other">আপনি লাইভ অ্যাক্সেসের জন্য আবেদন করেছেন এবং পরবর্তী 7 দিনের জন্য লাইভ হতে পারবেন। অবিরত অ্যাক্সেস পাওয়ার জন্য কমিউনিটির নিয়মকানুন অনুসরণ করার কথা মনে রাখুন এবং আপনার প্রথম সপ্তাহে %d ঘণ্টার জন্য লাইভ হন।</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="one">অবিরত লাইভ অ্যাক্সেসের জন্য %s এর মধ্যে আরও %d ঘন্টা লাইভে যান</item>
+        <item quantity="other">অবিরত লাইভ অ্যাক্সেসের জন্য %s এর মধ্যে আরও %d ঘন্টা লাইভে যান</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="one">অবিরত লাইভ অ্যাক্সেস পেতে %2$s এর মধ্যে আরো %1$s ঘণ্টার জন্য লাইভ হন</item>
+        <item quantity="other">অবিরত লাইভ অ্যাক্সেস পেতে %2$s এর মধ্যে আরো %1$s ঘণ্টার জন্য লাইভ হন</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="one">%s পয়েন্ট</item>
+        <item quantity="other">%s পয়েন্ট</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="one">এই সপ্তাহের {%n} নং লাইভ ক্রিয়েটর হওয়ার জন্য {%s আয়োজক ব্যবহারকারীর নাম}-এর {%d}টি কয়েনের প্রয়োজন!</item>
+        <item quantity="other">এই সপ্তাহের {%n} নং লাইভ ক্রিয়েটর হওয়ার জন্য {%s আয়োজক ব্যবহারকারীর নাম}-এর {%d}টি কয়েনের প্রয়োজন!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="one">1 দিন বাকি৷ 3 নং লাইভ ক্রিয়েটর হওয়ার জন্য আরও {%d}টি হীরা পান এবং আপনার ভিডিওর জন্য একটি অনন্য ব্যাজ জিতুন৷</item>
+        <item quantity="other">1 দিন বাকি৷ 3 নং লাইভ ক্রিয়েটর হওয়ার জন্য আরও {%d}টি হীরা পান এবং আপনার ভিডিওর জন্য একটি অনন্য ব্যাজ জিতুন৷</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="one">1 দিন বাকি আছে। আরও সম্ভাব্য দর্শকদের কাছে আপনার লাইভ পৌঁছে দিতে আরও {%d}টি হীরা লাভ করুন।</item>
+        <item quantity="other">1 দিন বাকি আছে। আরও সম্ভাব্য দর্শকদের কাছে আপনার লাইভ পৌঁছে দিতে আরও {%d}টি হীরা লাভ করুন।</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="one">1 দিন বাকি৷ লাইভ ক্রিয়েটরদের জন্য অনন্য পুরস্কার জিততে আরও {%d}টি হীরা পান!</item>
+        <item quantity="other">1 দিন বাকি৷ লাইভ ক্রিয়েটরদের জন্য অনন্য পুরস্কার জিততে আরও {%d}টি হীরা পান!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="one">1 জন অনুসরণকারী এখন সক্রিয় রয়েছেন</item>
+        <item quantity="other">%s জন অনুসরণকারী এখন সক্রিয় রয়েছেন</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="one">%sটি কয়েন প্রয়োজন</item>
+        <item quantity="other">%sটি কয়েন প্রয়োজন</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="one">%d জন সদস্য দেখছেন</item>
+        <item quantity="other">%d জন সদস্য দেখছেন</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="one">3 মিনিট বাকি। 3 নং লাইভ ক্রিয়েটর হওয়ার জন্য আরও {%d}টি হীরা পান এবং একটি অনন্য ব্যাজ জিতুন৷</item>
+        <item quantity="other">3 মিনিট বাকি। 3 নং লাইভ ক্রিয়েটর হওয়ার জন্য আরও {%d}টি হীরা পান এবং একটি অনন্য ব্যাজ জিতুন৷</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="one">3 মিনিট বাকি আছে। আরও সম্ভাব্য দর্শকদের কাছে আপনার লাইভ পৌঁছে দিতে আরও {%d}টি হীরা লাভ করুন।</item>
+        <item quantity="other">3 মিনিট বাকি আছে। আরও সম্ভাব্য দর্শকদের কাছে আপনার লাইভ পৌঁছে দিতে আরও {%d}টি হীরা লাভ করুন।</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="one">3 মিনিট বাকি আছে। জনপ্রিয় লাইভ ক্রিয়েটরদের জন্য অনন্য পুরস্কার জিততে আরও {%d}টি হীরা লাভ করুন!</item>
+        <item quantity="other">3 মিনিট বাকি আছে। জনপ্রিয় লাইভ ক্রিয়েটরদের জন্য অনন্য পুরস্কার জিততে আরও {%d}টি হীরা লাভ করুন!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="one">%s ঘন্টা %d মিনিট</item>
+        <item quantity="other">%s ঘন্টা %d মিনিট</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="one">হীরা</item>
+        <item quantity="other">হীরা</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="one">ভিয়্যু</item>
+        <item quantity="other">ভিউ</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="one">%s মিনিট পরে প্রশ্নগুলোর উত্তর দেওয়া যাবে না</item>
+        <item quantity="other">%s মিনিট পরে প্রশ্নগুলোর উত্তর দেওয়া যাবে না</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="one">%sঘঃ আগে</item>
+        <item quantity="other">%sঘঃ আগে</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="one">%sমিঃ আগে</item>
+        <item quantity="other">%sমিঃ আগে</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="one">10 মিনিটের মধ্যে শুরু হওয়ার জন্য %s-এর সূচী নির্ধারিত। %d জন দর্শক আপনার ইভেন্ট দেখেছেন। আপনার প্রচারণাকে সর্বাধিক ফলপ্রসু করতে এখনই লাইভ হন!</item>
+        <item quantity="other">10 মিনিটের মধ্যে শুরু হওয়ার জন্য %s-এর সূচী নির্ধারিত। %d জন দর্শক আপনার ইভেন্ট দেখেছেন। আপনার প্রচারণাকে সর্বাধিক ফলপ্রসু করতে এখনই লাইভ হন!</item>
+    </plurals>
+    <plurals name="nh">
+        <item quantity="one">%d জন ব্যবহারকারী আপনার ইভেন্ট দেখেছেন। লাইভ হওয়ার জন্য প্রস্তুত হন!</item>
+        <item quantity="other">%d জন ব্যবহারকারী আপনার ইভেন্ট দেখেছেন। লাইভ হওয়ার জন্য প্রস্তুত হন!</item>
+    </plurals>
+    <plurals name="ni">
+        <item quantity="one">{numberofviews} জন ব্যবহারকারী আপনার ইভেন্ট দেখেছেন। লাইভ হওয়ার জন্য প্রস্তুত হন!</item>
+        <item quantity="other">{numberofviews} জন ব্যবহারকারী আপনার ইভেন্ট দেখেছেন। লাইভ হওয়ার জন্য প্রস্তুত হন!</item>
+    </plurals>
+    <plurals name="nj">
+        <item quantity="one">%d জন ব্যবহারকারী আপনার ইভেন্ট দেখেছেন! সময় মতো লাইভ হওয়ার কথা মনে রাখুন।</item>
+        <item quantity="other">%d জন ব্যবহারকারী আপনার ইভেন্ট দেখেছেন! সময় মতো লাইভ হওয়ার কথা মনে রাখুন।</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="one">%sটি টিউটোরিয়াল টাস্ক দেখুন</item>
+        <item quantity="other">%sটি টিউটোরিয়াল টাস্ক দেখুন</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="one">উপহার প্রদানকারীদের কাছ থেকে %dটি অগ্রাধিকারমূলক অনুরোধ</item>
+        <item quantity="other">উপহার প্রদানকারীদের কাছ থেকে %dটি অগ্রাধিকারমূলক অনুরোধ</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="one">%dটি কয়েন</item>
+        <item quantity="other">%d কয়েন</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="one">এর জন্য আপনার %d কয়েন খরচ হবে।</item>
+        <item quantity="other">এর জন্য আপনার %d কয়েন খরচ হবে।</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="one">আপনি %dটি কয়েন পাঠিয়েছেন। %s</item>
+        <item quantity="other">আপনি %dটি কয়েন পাঠিয়েছেন। %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="one">যারা মোট %d-এর বেশি কয়েন পাঠান তাদের অনুরোধকে লাইভ ক্রিয়েটর অগ্রাধিকার দিতে পারেন।</item>
+        <item quantity="other">যারা মোট %d-এর বেশি কয়েন পাঠান তাদের অনুরোধকে লাইভ ক্রিয়েটর অগ্রাধিকার দিতে পারেন।</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="one">লাইভ ক্রিয়েটর আপনার এবং অন্যদের অনুরোধগুলিকে অগ্রাধিকার দিতে পারেন যারা মোট %d-এর বেশি কয়েন পাঠান।</item>
+        <item quantity="other">লাইভ ক্রিয়েটর আপনার এবং অন্যদের অনুরোধগুলিকে অগ্রাধিকার দিতে পারেন যারা মোট %d-এর বেশি কয়েন পাঠান।</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="one">এর জন্য আপনার %d কয়েন খরচ হবে।</item>
+        <item quantity="other">এর জন্য আপনার %d কয়েন খরচ হবে।</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="one">আপনি %1$s-কে তাদের ক্যামেরা %2$s সেকেন্ডের মধ্যে আবার চালু করতে আমন্ত্রণ জানাতে পারেন</item>
+        <item quantity="other">আপনি %1$s-কে তাদের ক্যামেরা %2$s সেকেন্ডের মধ্যে আবার চালু করতে আমন্ত্রণ জানাতে পারেন</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="one">আপনি %1$s-কে তাদের মাইক্রোফোন %2$s সেকেন্ডের মধ্যে আবার চালু করতে আমন্ত্রণ জানাতে পারেন</item>
+        <item quantity="other">আপনি %1$s-কে তাদের মাইক্রোফোন %2$s সেকেন্ডের মধ্যে আবার চালু করতে আমন্ত্রণ জানাতে পারেন</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="one">%d মিনিট</item>
+        <item quantity="other">%d মিনিট</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="one">%d সেকেন্ড</item>
+        <item quantity="other">%d সেকেন্ড</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="one">%d মিঃ</item>
+        <item quantity="other">%d মিঃ</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="one">%d সেঃ</item>
+        <item quantity="other">%d সেঃ</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="one">স্টেজ 1 সম্পূর্ণ করার জন্য %sটি কাজ রয়েছে</item>
+        <item quantity="other">স্টেজ 1 সম্পূর্ণ করার জন্য %sটি কাজ রয়েছে</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="one">স্টেজ 2 সম্পূর্ণ করার জন্য %sটি কাজ রয়েছে</item>
+        <item quantity="other">স্টেজ 2 সম্পূর্ণ করার জন্য %sটি কাজ রয়েছে</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="one">আপনি সর্বোচ্চ %sটি সুযোগ-সুবিধা তৈরি করতে পারেন। একটি নতুন তৈরি করতে আরেকটি সুযোগ মুছুন।</item>
+        <item quantity="other">আপনি সর্বোচ্চ %sটি সুযোগ-সুবিধা তৈরি করতে পারেন। একটি নতুন তৈরি করতে আরেকটি সুযোগ মুছুন।</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="one">%sসেঃ পোল শেষ হতে চলেছে</item>
+        <item quantity="other">%sসেঃ পোল শেষ হতে চলেছে</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="one">এখন ভোট দিন (%sসেঃ) :</item>
+        <item quantity="other">এখন ভোট দিন (%sসেঃ) :</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="one">আপনি আজ %dটি কয়েন খরচ করেছেন।</item>
+        <item quantity="other">আপনি আজ %dটি কয়েন খরচ করেছেন।</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="one">ধীর গতিতে উপহার দিন এবং %d মিনিট পরে আবার চেষ্টা করুন।</item>
+        <item quantity="other">ধীর গতিতে উপহার দিন এবং %d মিনিট পরে আবার চেষ্টা করুন।</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="one">{0:user}-এর পোর্টালটি বন্ধ আছে। পোর্টালটির মাধ্যমে {1:string} জন দর্শক যোগদান করেছেন৷</item>
+        <item quantity="other">{0:user}-এর পোর্টালটি বন্ধ আছে। পোর্টালটির মাধ্যমে {1:string} জন দর্শক যোগদান করেছেন৷</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="one">{0:user}-এর পোর্টালটি বন্ধ আছে। পোর্টালটির মাধ্যমে {1:string} জন দর্শক যোগদান করেছেন৷ সাবাশ! ��</item>
+        <item quantity="other">{0:user}-এর পোর্টালটি বন্ধ আছে। পোর্টালটির মাধ্যমে {1:string} জন দর্শক যোগদান করেছেন৷ সাবাশ! ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="one">{0:user}-এর পোর্টালটি বন্ধ আছে। পোর্টালটির মাধ্যমে {1:string} জন দর্শক যোগদান করেছেন৷ চমৎকার! ��</item>
+        <item quantity="other">{0:user}-এর পোর্টালটি বন্ধ আছে। পোর্টালটির মাধ্যমে {1:string} জন দর্শক যোগদান করেছেন৷ চমৎকার! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="one">%s বার দেখা হয়েছে</item>
+        <item quantity="other">%s বার দেখা হয়েছে</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="one">ডেস্কটব ওয়েবে {{num}} টি কয়েন কেনা হয়েছে</item>
+        <item quantity="other">ডেস্কটব ওয়েবে {{num}} টি কয়েন কেনা হয়েছে</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="one">অ্যাপে {{num}} টি কয়েন কেনা হয়েছে</item>
+        <item quantity="other">অ্যাপে {{num}} টি কয়েন কেনা হয়েছে</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="one">মোবাইল অ্যাপে {{num}} টি কয়েন কেনা হয়েছে</item>
+        <item quantity="other">মোবাইল অ্যাপে {{num}} টি কয়েন কেনা হয়েছে</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="one">আমরা আপনার আবেদন পর্যালোচনা করেছি এবং আপনার বাতিলকরণের সময়কাল সংশোধন করেছি। %s দিনের মধ্যে PC বা Mac দিয়ে লাইভ হওয়ার জন্য আপনার অ্যাক্সেস রিস্টোর করা হবে।</item>
+        <item quantity="other">আমরা আপনার আবেদন পর্যালোচনা করেছি এবং আপনার বাতিলকরণের সময়কাল সংশোধন করেছি। %s দিনের মধ্যে PC বা Mac দিয়ে লাইভ হওয়ার জন্য আপনার অ্যাক্সেস রিস্টোর করা হবে।</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="one">একাধিকবার কমিউনিটির নিয়মকানুন লঙ্ঘনের কারণে PC বা Mac দিয়ে আপনার লাইভ হওয়ার অ্যাক্সেস %s দিনের জন্য স্থগিত করা হয়েছে।</item>
+        <item quantity="other">একাধিকবার কমিউনিটির নিয়মকানুন লঙ্ঘনের কারণে PC বা Mac দিয়ে আপনার লাইভ হওয়ার অ্যাক্সেস %s দিনের জন্য স্থগিত করা হয়েছে।</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="one">আমরা আপনার আবেদন পর্যালোচনা করে দেখেছি এবং আপনার ট্রেজার বক্সের অ্যাক্সেস প্রত্যাহারের সময়কাল %s দিনে কমিয়ে এনেছি।</item>
+        <item quantity="other">আমরা আপনার আবেদন পর্যালোচনা করে দেখেছি এবং আপনার ট্রেজার বক্সের অ্যাক্সেস প্রত্যাহারের সময়কাল %s দিনে কমিয়ে এনেছি।</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="one">একাধিক কমিউনিটির নিয়মকানুন উল্লঙ্ঘনের কারণে আপনার ট্রেজার বক্সের অ্যাক্সেস %s দিনের জন্য স্থগিত করা হয়েছে।</item>
+        <item quantity="other">একাধিক কমিউনিটির নিয়মকানুন উল্লঙ্ঘনের কারণে আপনার ট্রেজার বক্সের অ্যাক্সেস %s দিনের জন্য স্থগিত করা হয়েছে।</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="one">গত 30 দিনে আপনি %sটির বেশি হীরা পেয়েছেন। সাপ্তাহিক র‍্যাঙ্কিংয়ে যোগদান করতে এই পারফরম্যান্স বজায় রাখুন।</item>
+        <item quantity="other">গত 30 দিনে আপনি %sটির বেশি হীরা পেয়েছেন। সাপ্তাহিক র‍্যাঙ্কিংয়ে যোগদান করতে এই পারফরম্যান্স বজায় রাখুন।</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="one">এই র‍্যাঙ্কিংটি এমন লাইভ ক্রিয়েটরদের দেখায় যারা গত 30 দিনে {0:string} হীরার চেয়ে কম পেয়েছেন।</item>
+        <item quantity="other">এই র‍্যাঙ্কিংটি এমন লাইভ ক্রিয়েটরদের দেখায় যারা গত 30 দিনে {0:string} হীরার চেয়ে কম পেয়েছেন।</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="one">উপহার প্রদান %s দিনের জন্য স্থগিত করা হয়েছে</item>
+        <item quantity="other">উপহার প্রদান %s দিনের জন্য স্থগিত করা হয়েছে</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="one">আপনার কাছে এখন {number_1}টি কয়েন আছে। আপনি আইটেমটি পাঠাতে {number_2}টি কয়েনের ({amount}) রিচার্জ করতে পারেন।</item>
+        <item quantity="other">আপনার কাছে এখন {number_1}টি কয়েন আছে। আপনি আইটেমটি পাঠাতে {number_2}টি কয়েনের ({amount}) রিচার্জ করতে পারেন।</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="one">%sটি কয়েন কম আছে</item>
+        <item quantity="other">%sটি কয়েন কম আছে</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="one">আপনি {number}টি আমন্ত্রণের লিঙ্ক পেয়েছেন</item>
+        <item quantity="other">আপনি {number}টি আমন্ত্রণের লিঙ্ক পেয়েছেন</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="one">%s এর থেকে আপনার আমন্ত্রণ খুলুন</item>
+        <item quantity="other">%s এবং অন্যান্যদের থেকে আপনার আমন্ত্রণ খুলুন</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="one">অনুরোধকৃত: %d মিঃ আগে</item>
+        <item quantity="other">অনুরোধকৃত: %d মিঃ আগে</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="one">উপহার প্রদান %s দিনের জন্য স্থগিত করা হয়েছে</item>
+        <item quantity="other">উপহার প্রদান %s দিনের জন্য স্থগিত করা হয়েছে</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="one">%s দিনের মধ্যে অ্যাক্সেস রিস্টোর করা হবে।</item>
+        <item quantity="other">%s দিনের মধ্যে অ্যাক্সেস রিস্টোর করা হবে।</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="one">আমরা আপনার আবেদন পর্যালোচনা করেছি এবং আপনার বাতিলকরণের সময়কাল সংশোধন করেছি। %s দিনের মধ্যে LIVE Studio-তে আপনার অ্যাক্সেস রিস্টোর করা হবে।</item>
+        <item quantity="other">আমরা আপনার আবেদন পর্যালোচনা করেছি এবং আপনার বাতিলকরণের সময়কাল সংশোধন করেছি। %s দিনের মধ্যে LIVE Studio-তে আপনার অ্যাক্সেস রিস্টোর করা হবে।</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="one">আমরা আপনার আবেদন পর্যালোচনা করেছি এবং আপনার বাতিলকরণের সময়কাল সংশোধন করেছি। %s দিনের মধ্যে মোবাইল গেমিংয়ে আপনার অ্যাক্সেস রিস্টোর করা হবে।</item>
+        <item quantity="other">আমরা আপনার আবেদন পর্যালোচনা করেছি এবং আপনার বাতিলকরণের সময়কাল সংশোধন করেছি। %s দিনের মধ্যে মোবাইল গেমিংয়ে আপনার অ্যাক্সেস রিস্টোর করা হবে।</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="one">আমরা আপনার আবেদন পর্যালোচনা করেছি এবং আপনার বাতিলকরণের সময়কাল সংশোধন করেছি। %s দিনের মধ্যে PC বা Mac দিয়ে লাইভ হওয়ার জন্য আপনার অ্যাক্সেস রিস্টোর করা হবে।</item>
+        <item quantity="other">আমরা আপনার আবেদন পর্যালোচনা করেছি এবং আপনার বাতিলকরণের সময়কাল সংশোধন করেছি। %s দিনের মধ্যে PC বা Mac দিয়ে লাইভ হওয়ার জন্য আপনার অ্যাক্সেস রিস্টোর করা হবে।</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="one">বারবার আমাদের লাইভের নিয়মাবলী বা কমিউনিটির নিয়মকানুন লঙ্ঘন করার জন্য LIVE Studio-তে আপনার অ্যাক্সেস %s দিনের জন্য স্থগিত করা হয়েছে।</item>
+        <item quantity="other">বারবার আমাদের লাইভের নিয়মাবলী বা কমিউনিটির নিয়মকানুন লঙ্ঘন করার জন্য LIVE Studio-তে আপনার অ্যাক্সেস %s দিনের জন্য স্থগিত করা হয়েছে।</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="one">বারবার আমাদের লাইভের নিয়মাবলী বা কমিউনিটির নিয়মকানুন লঙ্ঘন করার জন্য মোবাইল গেমিংয়ে আপনার অ্যাক্সেস %s দিনের জন্য স্থগিত করা হয়েছে।</item>
+        <item quantity="other">বারবার আমাদের লাইভের নিয়মাবলী বা কমিউনিটির নিয়মকানুন লঙ্ঘন করার জন্য মোবাইল গেমিংয়ে আপনার অ্যাক্সেস %s দিনের জন্য স্থগিত করা হয়েছে।</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="one">বারবার আমাদের লাইভের নিয়মাবলী বা কমিউনিটির নিয়মকানুন লঙ্ঘন করার জন্য PC বা Mac দিয়ে লাইভ হওয়ার জন্য আপনার অ্যাক্সেস %s দিনের জন্য স্থগিত করা হয়েছে।</item>
+        <item quantity="other">বারবার আমাদের লাইভের নিয়মাবলী বা কমিউনিটির নিয়মকানুন লঙ্ঘন করার জন্য PC বা Mac দিয়ে লাইভ হওয়ার জন্য আপনার অ্যাক্সেস %s দিনের জন্য স্থগিত করা হয়েছে।</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="one">লক্ষ্য: {&lt;num&gt;} জন উপহার প্রদানকারী</item>
+        <item quantity="other">লক্ষ্য: {&lt;num&gt;} জন উপহার প্রদানকারী</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="one">লক্ষ্য: {&lt;num&gt;} উপহার দেওয়ার পয়েন্ট</item>
+        <item quantity="other">লক্ষ্য: {&lt;num&gt;} উপহার দেওয়ার পয়েন্ট</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="one">লক্ষ্য: {&lt;num&gt;} উপহার প্রদানকারী টিম</item>
+        <item quantity="other">লক্ষ্য: {&lt;num&gt;} উপহার প্রদানকারী টিম</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="one">লক্ষ্য: {&lt;num&gt;} টিম উপহার দেওয়ার পয়েন্ট</item>
+        <item quantity="other">লক্ষ্য: {&lt;num&gt;} টিম উপহার দেওয়ার পয়েন্ট</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="one">+&lt;num&gt; ম্যাচ পয়েন্ট</item>
+        <item quantity="other">+&lt;num&gt; ম্যাচ পয়েন্ট</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="one">%s জন দর্শক আপনার মন্তব্য শীর্ষে দেখতে পাবেন</item>
+        <item quantity="other">%s জন দর্শক আপনার মন্তব্য শীর্ষে দেখতে পাবেন</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="one">লাইভ চলাকালীন আপনার স্টারদের কমেন্ট মুছে ফেলা হয়েছে, এবং আপনি 24 ঘন্টার মধ্যে এই মন্তব্যের জন্য [0:string]টি কয়েন রিফান্ড পাবেন।</item>
+        <item quantity="other">লাইভ চলাকালীন আপনার স্টারদের কমেন্ট মুছে ফেলা হয়েছে, এবং আপনি 24 ঘন্টার মধ্যে এই মন্তব্যের জন্য [0:string]টি কয়েন রিফান্ড পাবেন।</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="one">সারিতে %sটি স্টারদের কমেন্ট</item>
+        <item quantity="other">সারিতে %sটি স্টারদের কমেন্ট</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="one">আপনার স্টারদের কমেন্টগুলি সম্প্রতি মুছে ফেলা হয়েছে৷ {num} ঘণ্টা পরে আবার চেষ্টা করুন।</item>
+        <item quantity="other">আপনার স্টারদের কমেন্টগুলি সম্প্রতি মুছে ফেলা হয়েছে৷ {num} ঘণ্টা পরে আবার চেষ্টা করুন।</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="one">আপনার স্টারদের কমেন্টগুলি সম্প্রতি মুছে ফেলা হয়েছে৷ {num} মিনিট পরে আবার চেষ্টা করুন।</item>
+        <item quantity="other">আপনার স্টারদের কমেন্টগুলি সম্প্রতি মুছে ফেলা হয়েছে৷ {num} মিনিট পরে আবার চেষ্টা করুন।</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="one">%s দিনের মধ্যে শেষ হবে</item>
+        <item quantity="other">%s দিনের মধ্যে শেষ হবে</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="one">%1$s জন দর্শক দেখছেন৷ যদি আপনি এখন একটি শুধুমাত্র সদস্যদের জন্য লাইভ শুরু করেন আপনি %2$s জন নতুন সদস্য পেতে পারেন।</item>
+        <item quantity="other">%1$s জন দর্শক দেখছেন৷ যদি আপনি এখন একটি শুধুমাত্র সদস্যদের জন্য লাইভ শুরু করেন আপনি %2$s জন নতুন সদস্য পেতে পারেন।</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="one">%s জন সদস্য দেখছেন। শুধুমাত্র সদস্যদের জন্য লাইভ ব্যবহার করে আপনার কমিউনিটির সাথে আপনার সংযোগ আরও গভীর করতে এটি একটি ভালো সময়।</item>
+        <item quantity="other">%s জন সদস্য দেখছেন। শুধুমাত্র সদস্যদের জন্য লাইভ ব্যবহার করে আপনার কমিউনিটির সাথে আপনার সংযোগ আরও গভীর করতে এটি একটি ভালো সময়।</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="one">আপনি প্রতি মাসে %2$s মিনিট শুধুমাত্র সদস্যদের জন্য লাইভ করে %1$s জন নতুন সদস্য পেতে পারেন৷</item>
+        <item quantity="other">আপনি প্রতি মাসে %2$s মিনিট শুধুমাত্র সদস্যদের জন্য লাইভ করে %1$s জন নতুন সদস্য পেতে পারেন৷</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="one">একটি মন্তব্যে আপনি %sটি পর্যন্ত ইমোটি দিতে পারেন</item>
+        <item quantity="other">একটি মন্তব্যে আপনি %sটি পর্যন্ত ইমোটি দিতে পারেন</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="one">%1$s এর %2$s টি কাস্টম ইমোটি ব্যবহার করতে সদস্যতা নিন</item>
+        <item quantity="other">%1$s এর %2$s টি কাস্টম ইমোটি ব্যবহার করতে সদস্যতা নিন</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="one">{number} এর কম অনুসরণকারী আছে</item>
+        <item quantity="other">{number} এর কম অনুসরণকারী আছে</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="one">{number}-এর কম অনুসরণকারী সহ স্রষ্টাদের আমন্ত্রণ জানানো যাবে না</item>
+        <item quantity="other">{number}-এর কম অনুসরণকারী সহ স্রষ্টাদের আমন্ত্রণ জানানো যাবে না</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="one">{number2} নম্বরে পৌঁছাতে আরও {number1} জন স্রষ্টাকে আমন্ত্রণ জানান! এগিয়ে চলুন!</item>
+        <item quantity="other">{number2} নম্বরে পৌঁছাতে আরও {number1} জন স্রষ্টাকে আমন্ত্রণ জানান! এগিয়ে চলুন!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="one">{rankminusone} নম্বরে পৌঁছাতে আরও {number} জন স্রষ্টাকে আমন্ত্রণ জানান! এগিয়ে চলুন!</item>
+        <item quantity="other">{rankminusone} নম্বরে পৌঁছাতে আরও {number} জন স্রষ্টাকে আমন্ত্রণ জানান! এগিয়ে চলুন!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="one">শুধুমাত্র {number} এর বেশি অনুসরণকারী আছেন এমন স্রষ্টাদের আপনি আমন্ত্রণ জানাতে পারেন।</item>
+        <item quantity="other">শুধুমাত্র {number} এর বেশি অনুসরণকারী আছেন এমন স্রষ্টাদের আপনি আমন্ত্রণ জানাতে পারেন।</item>
+    </plurals>
+    <plurals name="po">
+        <item quantity="one">{num}টি ইমোট অনুমোদিত হয়নি</item>
+        <item quantity="other">{num}টি ইমোট অনুমোদিত হয়নি</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="one">আপনার বর্তমান সুবিধা আরও %d%% সদস্য নিয়ে আসতে পারে।</item>
+        <item quantity="other">আপনার বর্তমান সুবিধাগুলো আরও %d%% সদস্য নিয়ে আসতে পারে।</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="one">%1$s এইমাত্র একটি %2$d-মাসের সদস্যতা ক্রয় করেছেন!</item>
+        <item quantity="other">%1$s এইমাত্র একটি %2$d-মাসের সদস্যতা ক্রয় করেছেন!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="one">আপনি শুধুমাত্র %s মিনিটের মধ্যে একবার এটি চালু বা বন্ধ করতে পারবেন। পরে আবার চেষ্টা করুন।</item>
+        <item quantity="other">আপনি শুধুমাত্র %s মিনিটের মধ্যে একবার এটি চালু বা বন্ধ করতে পারবেন। পরে আবার চেষ্টা করুন।</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="one">আপনার কাছে {num}টি সদস্যতা করার উপহার আছে। এখনই অন্যান্যদের পাঠান!</item>
+        <item quantity="other">আপনার কাছে {num}টি সদস্যতা করার উপহার আছে। এখনই অন্যান্যদের পাঠান!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="one">আপনার কাছে %dটি সদস্যতার উপহার অবশিষ্ট আছে। এখনই অন্যান্যদের পাঠান!</item>
+        <item quantity="other">আপনার কাছে %dটি সদস্যতার উপহার অবশিষ্ট আছে। এখনই অন্যান্যদের পাঠান!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="one">অভিনন্দন! আপনি একটি কার্যকলাপের পুরস্কারস্বরূপ [number]টি সদস্যতা করার উপহার পেয়েছেন।</item>
+        <item quantity="other">অভিনন্দন! আপনি একটি কার্যকলাপের পুরস্কারস্বরূপ [number]টি সদস্যতা করার উপহার পেয়েছেন।</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="one">{num} দিন আগে সহ-উপস্থাপন করেছেন</item>
+        <item quantity="other">{num} দিন আগে সহ-উপস্থাপন করেছেন</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="one">{number} দিন আগে আপনার সঙ্গে লাইভ হয়েছিলেন</item>
+        <item quantity="other">{number} দিন আগে আপনার সঙ্গে লাইভ হয়েছিলেন</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="one">{num} দিন আগে আপনার সঙ্গে উপস্থাপন করেছিলেন</item>
+        <item quantity="other">{num} দিন আগে আপনার সঙ্গে উপস্থাপন করেছিলেন</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="one">আপনার ট্রেজার বক্সের অ্যাক্সেস স্থগিত করা হয়েছে। %s দিনের মধ্যে অ্যাক্সেস রিস্টোর করা হবে।</item>
+        <item quantity="other">আপনার ট্রেজার বক্সের অ্যাক্সেস স্থগিত করা হয়েছে। %s দিনের মধ্যে অ্যাক্সেস রিস্টোর করা হবে।</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="one">সেরা দর্শক</item>
+        <item quantity="other">সেরা দর্শকবৃন্দ</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="one">সেরা দর্শক</item>
+        <item quantity="other">সেরা দর্শকবৃন্দ</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="one">%s সেকেন্ডের মধ্যে ফাইনাল শুরু হবে</item>
+        <item quantity="other">%s সেকেন্ডের মধ্যে ফাইনাল শুরু হবে</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="one">%s দিনের মধ্যে ফাইনাল শুরু হবে</item>
+        <item quantity="other">%s দিনের মধ্যে ফাইনাল শুরু হবে</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="one">%s ঘন্টার মধ্যে ফাইনাল শুরু হবে</item>
+        <item quantity="other">%s ঘন্টার মধ্যে ফাইনাল শুরু হবে</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="one">%s মিনিটের মধ্যে ফাইনাল শুরু হবে</item>
+        <item quantity="other">%s মিনিটের মধ্যে ফাইনাল শুরু হবে</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="one">%s দিনের মধ্যে সেমি-ফাইনাল শুরু হবে</item>
+        <item quantity="other">%s দিনের মধ্যে সেমি-ফাইনাল শুরু হবে</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="one">%s ঘন্টার মধ্যে সেমি-ফাইনাল শুরু হবে</item>
+        <item quantity="other">%s ঘন্টার মধ্যে সেমি-ফাইনাল শুরু হবে</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="one">%s মিনিটের মধ্যে সেমি-ফাইনাল শুরু হবে</item>
+        <item quantity="other">%s মিনিটের মধ্যে সেমি-ফাইনাল শুরু হবে</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="one">%s সেকেন্ডের মধ্যে সেমি-ফাইনাল শুরু হবে</item>
+        <item quantity="other">%s সেকেন্ডের মধ্যে সেমি-ফাইনাল শুরু হবে</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="one">{1:string} নম্বরে পৌঁছাতে আরো {0:string}টি হীরা</item>
+        <item quantity="other">{1:string} নম্বরে পৌঁছাতে আরো {0:string}টি হীরা</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="one">{1:string} নম্বরে পৌঁছাতে আরও {0:string}জন উপহার প্রদানকারী</item>
+        <item quantity="other">{1:string} নম্বরে পৌঁছাতে আরও {0:string}জন উপহার প্রদানকারী</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="one">দিন</item>
+        <item quantity="other">দিন</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="one">আপনি {num} টি কয়েনের জন্য {amount} অর্থরাশি বিনিময় করেছেন।</item>
+        <item quantity="other">আপনি {num} টি কয়েনের জন্য {amount} অর্থরাশি বিনিময় করেছেন।</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="one">আপনি {amount} অর্থরাশি দিয়ে {num} টি কয়েন কিনেছেন।</item>
+        <item quantity="other">আপনি {amount} অর্থরাশি দিয়ে {num} টি কয়েন কিনেছেন।</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="one">2 নম্বর থেকে {num}টি টিম পয়েন্ট এগিয়ে</item>
+        <item quantity="other">2 নম্বর থেকে {num}টি টিম পয়েন্ট এগিয়ে</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="one">+{num}টি টিম পয়েন্ট (প্রতিদিন %1$s/%2$sটি দলের উপহার)</item>
+        <item quantity="other">+{num}টি টিম পয়েন্ট (প্রতিদিন %1$s/%2$sটি দলের উপহার)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="one">%s জন দর্শক অনুসন্ধান থেকে যোগদান করেছেন</item>
+        <item quantity="other">%s জন দর্শক অনুসন্ধান থেকে যোগদান করেছেন</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="one">%2$s নম্বরে পৌঁছাতে %1$sটি টিম পয়েন্ট</item>
+        <item quantity="other">%2$s নম্বরে পৌঁছাতে %1$sটি টিম পয়েন্ট</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="one">%2$s নম্বরে পৌঁছাতে %1$sটি টিম পয়েন্ট</item>
+        <item quantity="other">%2$s নম্বরে পৌঁছাতে %1$sটি টিম পয়েন্ট</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="one">কিছু ভুল হয়েছে। {number} ঘন্টা পরে আবার চেষ্টা করুন</item>
+        <item quantity="other">কিছু ভুল হয়েছে। {number} ঘন্টার মধ্যে আবার চেষ্টা করুন</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="one">কিছু ভুল হয়েছে। {number} মিনিট পরে ফিরে আসুন</item>
+        <item quantity="other">কিছু ভুল হয়েছে। {number} মিনিট পরে ফিরে আসুন</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="one">দর্শক</item>
+        <item quantity="other">দর্শকবৃন্দ</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="one">%d জন দর্শক</item>
+        <item quantity="other">%d জন দর্শক</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="one">%s জন দর্শক</item>
+        <item quantity="other">%s জন দর্শক</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="one">%s জন দর্শক উপহারগুলি পাঠিয়েছেন</item>
+        <item quantity="other">%s জন দর্শক উপহারগুলি পাঠিয়েছেন</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="one">পোস্ট (%sটি)</item>
+        <item quantity="other">পোস্ট (%sটি)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="one">(%sটি পর্যালোচনা)</item>
+        <item quantity="other">(%sটি পর্যালোচনা)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="one">%sটি ফটো আপলোড করা হয়নি। আবার চেষ্টা করুন।</item>
+        <item quantity="other">%sটি ফটো আপলোড করা হয়নি। আবার চেষ্টা করুন।</item>
+    </plurals>
+    <plurals name="qr">
+        <item quantity="one">%1$dটি কয়েন = %2$s%3$.2f</item>
+        <item quantity="other">%1$dটি কয়েন = %2$s%3$.2f</item>
+    </plurals>
+    <plurals name="qs">
+        <item quantity="one">%s তাদের TikTok Shoutouts ভিডিওগুলির জন্য %s কয়েনে দাম আপডেট করেছে।</item>
+        <item quantity="other">%s তাদের TikTok Shoutouts ভিডিওগুলির জন্য %sটি কয়েনে দাম আপডেট করেছে।</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="one">%dটি একই ধরনের শব্দ</item>
+        <item quantity="other">%dটি একই ধরনের শব্দ</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="one">%d বার প্রোফাইল দর্শন হয়েছে</item>
+        <item quantity="other">%d বার প্রোফাইল দর্শন হয়েছে</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="one">অনুসরণকারী</item>
+        <item quantity="other">অনুসরণকারীগণ</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="one">%1$s, %2$sটি লাইক পেয়েছেন</item>
+        <item quantity="other">%1$s, সব ভিডিওতে মোট %2$sটি লাইক পেয়েছেন</item>
+    </plurals>
+    <plurals name="qx">
+        <item quantity="one">এই ব্যবহারকারীর গোপনীয়তার সেটিংসের কারণে %dটি অ্যাকাউন্ট লুকোনো আছে</item>
+        <item quantity="other">এই ব্যবহারকারীর গোপনীয়তার সেটিংসের কারণে %dটি অ্যাকাউন্ট লুকোনো আছে</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="one">আপনার প্রোফাইল দেখেছিলেন।</item>
+        <item quantity="other">আপনার প্রোফাইল দেখেছিলেন।</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="one">%1$s, %2$s, এবং অন্যান্য %d জন</item>
+        <item quantity="other">%1$s, %2$s, এবং অন্যান্য %d জন</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="one">%s জন আপনার প্রোফাইল দেখেছেন।</item>
+        <item quantity="other">%s জন আপনার প্রোফাইল দেখেছেন।</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="one">{0}, {1} এবং অন্যান্য {2} জন আপনার প্রোফাইল দেখেছেন।</item>
+        <item quantity="other">{0}, {1} এবং অন্যান্য {2} জন আপনার প্রোফাইল দেখেছেন।</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="one">আমরা আপনার %1$s এবং অন্যান্য %2$sটি ডিভাইসে একটা নোটিফিকেশন পাঠিয়েছি। লগইন অবিরত রাখতে আপনার TikTok খোলা আছে কিনা নিশ্চিত করে নোটিফিকেশনের &quot;হ্যাঁ&quot;-তে ট্যাপ করুন।</item>
+        <item quantity="other">আমরা আপনার %1$s এবং অন্যান্য %2$sটি ডিভাইসে একটা নোটিফিকেশন পাঠিয়েছি। লগইন অবিরত রাখতে আপনার TikTok খোলা আছে কিনা নিশ্চিত করে নোটিফিকেশনের &quot;হ্যাঁ&quot;-তে ট্যাপ করুন।</item>
+    </plurals>
+    <plurals name="r3">
+        <item quantity="one">%dটি প্রশ্ন জিজ্ঞাসা করা হয়েছে</item>
+        <item quantity="other">%dটি প্রশ্ন জিজ্ঞাসা করা হয়েছে</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="one">%sটি ভিডিও</item>
+        <item quantity="other">%sটি ভিডিও</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="one">%dটি ভিডিও</item>
+        <item quantity="other">%dটি ভিডিও</item>
+    </plurals>
+    <plurals name="r6">
+        <item quantity="one">উত্তর {number}</item>
+        <item quantity="other">উত্তর {number}</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="one">%sটি অনুপলভ্য প্রশ্ন আপনার আমন্ত্রণ থেকে সরিয়ে দেওয়া হয়েছে</item>
+        <item quantity="other">%sটি অনুপলভ্য প্রশ্ন আপনার আমন্ত্রণ থেকে সরিয়ে দেওয়া হয়েছে</item>
+    </plurals>
+    <plurals name="r8">
+        <item quantity="one">%$sটি প্রশ্ন অনুপলভ্য এবং আপনার পছন্দসই থেকে অপসারণ করা হয়েছে।</item>
+        <item quantity="other">%$sটি প্রশ্ন অনুপলভ্য এবং আপনার পছন্দসই থেকে অপসারণ করা হয়েছে।</item>
+    </plurals>
+    <plurals name="r9">
+        <item quantity="one">%sটি প্রশ্ন অনুপলভ্য এবং আপনার পছন্দসই থেকে অপসারণ করা হয়েছে।</item>
+        <item quantity="other">%sটি প্রশ্ন অনুপলভ্য এবং আপনার পছন্দসই থেকে অপসারণ করা হয়েছে।</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="one">%sটি নতুন বার্তা</item>
+        <item quantity="other">%sটি নতুন বার্তা</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="one">%sটি নতুন প্রতিক্রিয়া</item>
+        <item quantity="other">%sটি নতুন প্রতিক্রিয়া</item>
+    </plurals>
+    <plurals name="rb">
+        <item quantity="one">{number}টি প্রস্তাবিত</item>
+        <item quantity="other">{number}টি প্রস্তাবিত</item>
+    </plurals>
+    <plurals name="rc">
+        <item quantity="one">%s প্রস্তাবিত</item>
+        <item quantity="other">%s প্রস্তাবিত</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="one">%d প্রস্তাবিত</item>
+        <item quantity="other">%d প্রস্তাবিত</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="one">%d প্রস্তাবিত</item>
+        <item quantity="other">%d প্রস্তাবিত</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="one">আরও %dটি সুপারিশ দেখুন</item>
+        <item quantity="other">আরও %dটি সুপারিশ দেখুন</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="one">সর্বাধিক %d সেকেন্ডের জন্য রেকর্ড করুন</item>
+        <item quantity="other">সর্বাধিক %d সেকেন্ডের জন্য রেকর্ড করুন</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="one">মূল ভিডিও থেকে শব্দ ব্যবহার করে সর্বাধিক %d সেকেন্ডের রেকর্ড করুন</item>
+        <item quantity="other">মূল ভিডিও থেকে শব্দ ব্যবহার করে সর্বাধিক %d সেকেন্ডের রেকর্ড করুন</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="one">খসড়া (%dটি)</item>
+        <item quantity="other">খসড়া (%dটি)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="one">আপনি এই শব্দটি পুনরুদ্ধার করতে চাইলে আপনার ভিডিও নিঃশব্দ করা হবে।</item>
+        <item quantity="other">আপনি এইসব শব্দ পুনরুদ্ধার করতে চাইলে আপনার ভিডিও নিঃশব্দ করা হবে।</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="one">কপিরাইটযুক্ত শব্দ ফিরিয়ে আনবেন?</item>
+        <item quantity="other">কপিরাইটযুক্ত শব্দ ফিরিয়ে আনবেন?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="one">কপিরাইটযুক্ত শব্দ অপসারণ করা হয়েছে</item>
+        <item quantity="other">কপিরাইটযুক্ত শব্দ অপসারণ করা হয়েছে</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="one">শব্দ অপসারণ করা হচ্ছে</item>
+        <item quantity="other">শব্দ অপসারণ করা হচ্ছে</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="one">শব্দ অপসারণ করা হয়েছে</item>
+        <item quantity="other">শব্দ অপসারণ করা হয়েছে</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="one">শব্দ প্রতিস্থাপন করুন</item>
+        <item quantity="other">শব্দ প্রতিস্থাপন করুন</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="one">কপিরাইটযুক্ত শব্দ অপসারণ করা হচ্ছে...</item>
+        <item quantity="other">কপিরাইটযুক্ত শব্দ অপসারণ করা হচ্ছে...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="one">আমরা শনাক্ত করছি যে আপনার ভিডিওতে 1 মিনিটের বেশি দীর্ঘ সময় ধরে কপিরাইট লঙ্ঘন করে এমন শব্দ রয়েছে এবং আপনি যদি অবিরত রাখেন তবে এটি নিঃশব্দ হয়ে যাবে। শব্দটি প্রতিস্থাপন করুন বা ভিডিও সংক্ষিপ্ত করুন। %s</item>
+        <item quantity="other">আমরা শনাক্ত করছি যে আপনার ভিডিওতে 1 মিনিটের বেশি দীর্ঘ সময় ধরে কপিরাইট লঙ্ঘন করে এমন শব্দসমূহ রয়েছে এবং আপনি যদি অবিরত রাখেন তবে এটি নিঃশব্দ হয়ে যাবে। শব্দসমূহ প্রতিস্থাপন করুন বা ভিডিও সংক্ষিপ্ত করুন। %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="one">শব্দ প্রতিস্থাপন করুন</item>
+        <item quantity="other">শব্দ প্রতিস্থাপন করুন</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="one">কপিরাইটযুক্ত শব্দ অপসারণ করা হচ্ছে...</item>
+        <item quantity="other">কপিরাইটযুক্ত শব্দ অপসারণ করা হচ্ছে...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="one">আমরা শনাক্ত করেছি যে আপনার ভিডিওতে কপিরাইট লঙ্ঘন করে এমন শব্দ রয়েছে। আপনি অবিরত রাখতে চাইলে আপনার ভিডিও নিঃশব্দ করা হবে, অথবা আপনি শব্দটি প্রতিস্থাপন করতে পারেন। %s</item>
+        <item quantity="other">আমরা শনাক্ত করেছি যে আপনার ভিডিওতে কপিরাইট লঙ্ঘন করে এমন শব্দসমূহ রয়েছে। আপনি অবিরত রাখতে চাইলে আপনার ভিডিও নিঃশব্দ করা হবে, অথবা আপনি শব্দসমূহ প্রতিস্থাপন করতে পারেন। %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="one">কপিরাইটযুক্ত শব্দ</item>
+        <item quantity="other">কপিরাইটযুক্ত শব্দ</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="one">কপিরাইট হোল্ডার শুধুমাত্র 1 মিনিটের জন্য এই শব্দটি ব্যবহার করার অনুমতি দিয়েছেন।</item>
+        <item quantity="other">কপিরাইট হোল্ডার শুধুমাত্র 1 মিনিটের জন্য এইসব শব্দ ব্যবহার করার অনুমতি দিয়েছেন।</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="one">কপিরাইট হোল্ডার এই শব্দটি ব্যবহার অনুমোদন করে না।</item>
+        <item quantity="other">কপিরাইট হোল্ডার এই শব্দটি ব্যবহার অনুমোদন করে না।</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="one">শব্দ প্রতিস্থাপন করুন</item>
+        <item quantity="other">শব্দ প্রতিস্থাপন করুন</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="one">আমরা শনাক্ত করছি যে আপনার ভিডিওতে 1 মিনিটের বেশি দীর্ঘ সময় ধরে কপিরাইট লঙ্ঘন করে এমন শব্দ রয়েছে এবং আপনি যদি অবিরত রাখেন তবে এটি নিঃশব্দ হয়ে যাবে। শব্দ প্রতিস্থাপন করুন বা ভিডিও সংক্ষিপ্ত করুন। %s</item>
+        <item quantity="other">আমরা শনাক্ত করছি যে আপনার ভিডিওতে 1 মিনিটের বেশি দীর্ঘ সময় ধরে কপিরাইট লঙ্ঘন করে এমন শব্দসমূহ রয়েছে এবং আপনি যদি অবিরত রাখেন তবে এটি নিঃশব্দ হয়ে যাবে। শব্দসমূহ প্রতিস্থাপন করুন বা ভিডিও সংক্ষিপ্ত করুন। %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="one">শব্দ প্রতিস্থাপন করুন</item>
+        <item quantity="other">শব্দ প্রতিস্থাপন করুন</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="one">আমরা শনাক্ত করেছি যে আপনার ভিডিওতে কপিরাইট লঙ্ঘন করে এমন শব্দ রয়েছে। আপনি অবিরত রাখতে চাইলে আপনার ভিডিও নিঃশব্দ করা হবে, অথবা আপনি শব্দটি প্রতিস্থাপন করতে পারেন। %s</item>
+        <item quantity="other">আমরা শনাক্ত করেছি যে আপনার ভিডিওতে কপিরাইট লঙ্ঘন করে এমন শব্দসমূহ রয়েছে। আপনি অবিরত রাখতে চাইলে আপনার ভিডিও নিঃশব্দ করা হবে, অথবা আপনি শব্দসমূহ প্রতিস্থাপন করতে পারেন। %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="one">ভিডিও (%d) সরিয়ে দিন</item>
+        <item quantity="other">ভিডিওগুলি (%d) সরিয়ে দিন</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="one">%dটি রিপোস্ট</item>
+        <item quantity="other">%dটি রিপোস্ট</item>
+    </plurals>
+    <plurals name="s3">
+        <item quantity="one">{number}টি রিপোস্ট করা হয়েছে</item>
+        <item quantity="other">{number}টি রিপোস্ট করা হয়েছে</item>
+    </plurals>
+    <plurals name="s4">
+        <item quantity="one">%s রিপোস্ট করা হয়েছে</item>
+        <item quantity="other">%s রিপোস্ট করা হয়েছে</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="one">%d রিপোস্ট করা হয়েছে</item>
+        <item quantity="other">%d রিপোস্ট করা হয়েছে</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="one">%d রিপোস্ট করা হয়েছে</item>
+        <item quantity="other">%d রিপোস্ট করা হয়েছে</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="one">আরও %dটি রিপোস্ট দেখুন</item>
+        <item quantity="other">আরও %dটি রিপোস্ট দেখুন</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="one">%d দিন</item>
+        <item quantity="other">%d দিন</item>
+    </plurals>
+    <plurals name="s9">
+        <item quantity="one">{number} ঘন্টা {number} মিনিট কাটিয়েছেন</item>
+        <item quantity="other">{number} ঘন্টা {number} মিনিট কাটিয়েছেন</item>
+    </plurals>
+    <plurals name="s_">
+        <item quantity="one">{number} বার</item>
+        <item quantity="other">{number} বার</item>
+    </plurals>
+    <plurals name="sa">
+        <item quantity="one">{number} বার খোলা হয়েছে</item>
+        <item quantity="other">{number} বার খোলা হয়েছে</item>
+    </plurals>
+    <plurals name="sb">
+        <item quantity="one">গত সপ্তাহে TikTok-এ আপনি {number} ঘণ্টা সময় কাটিয়েছেন (আগের সপ্তাহ তুলনায় {percent} কম)।</item>
+        <item quantity="other">গত সপ্তাহে TikTok-এ আপনি {number} ঘণ্টা সময় কাটিয়েছেন (আগের সপ্তাহের তুলনায় {percent} কম)।</item>
+    </plurals>
+    <plurals name="sc">
+        <item quantity="one">গত সপ্তাহে TikTok-এ আপনি {number} ঘণ্টা সময় কাটিয়েছেন (আগের সপ্তাহের তুলনায় {percent} বেশি)।</item>
+        <item quantity="other">গত সপ্তাহে TikTok-এ আপনি {number} ঘণ্টা সময় কাটিয়েছেন (আগের সপ্তাহের তুলনায় {percent} বেশি)।</item>
+    </plurals>
+    <plurals name="sd">
+        <item quantity="one">আপনি TikTok এ এই সপ্তাহে {number} ঘন্টা কাটিয়েছেন (গত সপ্তাহের তুলনায় {percent} কম)</item>
+        <item quantity="other">আপনি TikTok এ এই সপ্তাহে {number} ঘন্টা কাটিয়েছেন (গত সপ্তাহের তুলনায় {percent} কম)</item>
+    </plurals>
+    <plurals name="se">
+        <item quantity="one">আপনি TikTok এ এই সপ্তাহে {number} ঘন্টা কাটিয়েছেন (গত সপ্তাহের তুলনায় {percent} বেশি)</item>
+        <item quantity="other">আপনি TikTok এ এই সপ্তাহে {number} ঘন্টা কাটিয়েছেন (গত সপ্তাহের তুলনায় {percent} বেশি)</item>
+    </plurals>
+    <plurals name="sf">
+        <item quantity="one">আপনি TikTok এ এই সপ্তাহে {number} ঘন্টা কাটিয়েছেন (গত সপ্তাহের তুলনায় {percent} কম)</item>
+        <item quantity="other">আপনি TikTok এ এই সপ্তাহে {number} ঘন্টা কাটিয়েছেন (গত সপ্তাহের তুলনায় {percent} কম)</item>
+    </plurals>
+    <plurals name="sg">
+        <item quantity="one">আপনি TikTok এ এই সপ্তাহে {number} ঘন্টা কাটিয়েছেন (গত সপ্তাহের তুলনায় {percent} বেশি)</item>
+        <item quantity="other">আপনি TikTok এ এই সপ্তাহে {number} ঘন্টা কাটিয়েছেন (গত সপ্তাহের তুলনায় {percent} বেশি)</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="one">%2$d পয়েন্ট পেতে আরও %1$d বার অনুসন্ধান করুন</item>
+        <item quantity="other">%2$d পয়েন্ট পেতে আরও %1$d বার অনুসন্ধান করুন</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="one">%d সেকেন্ড অনুসন্ধান ফলাফল ব্রাউজ করুন</item>
+        <item quantity="other">%d সেকেন্ড অনুসন্ধান ফলাফল ব্রাউজ করুন</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="one">%2$d পয়েন্ট পেতে আরও %1$d বার অনুসন্ধান করুন!</item>
+        <item quantity="other">%2$d পয়েন্ট পেতে আরও %1$d বার অনুসন্ধান করুন!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="one">%dটি মিলে যাওয়া শব্দ</item>
+        <item quantity="other">%dটি মিলে যাওয়া শব্দ</item>
+    </plurals>
+    <plurals name="sl">
+        <item quantity="one">%s জন অনুসরণকারী</item>
+        <item quantity="other">%s জন অনুসরণকারী</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="one">%dদি আগে আপডেট করা হয়েছে</item>
+        <item quantity="other">%dদি আগে আপডেট করা হয়েছে</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="one">%dঘঃ আগে আপডেট করা হয়েছে</item>
+        <item quantity="other">%dঘঃ আগে আপডেট করা হয়েছে</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="one">%dমিঃ আগে আপডেট করা হয়েছে</item>
+        <item quantity="other">%dমিঃ আগে আপডেট করা হয়েছে</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="one">%dসেঃ আগে আপডেট করা হয়েছে</item>
+        <item quantity="other">%dসেঃ আগে আপডেট করা হয়েছে</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="one">%dসপ্তা আগে আপডেট করা হয়েছে</item>
+        <item quantity="other">%dসপ্তা আগে আপডেট করা হয়েছে</item>
+    </plurals>
+    <plurals name="sr">
+        <item quantity="one">%sটি ভিডিও</item>
+        <item quantity="other">%sটি ভিডিও</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="one">আপনি একটি ফটো শেয়ার করেছেন।</item>
+        <item quantity="other">আপনি ফটোগুলি শেয়ার করেছেন।</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="one">অভিনন্দন! আপনি গতকাল আরও %dটি কেনাকাটা পেয়েছেন। ভালো কাজ চালিয়ে যান এবং &quot;স্রষ্টার সরঞ্জামসমূহ&quot; &gt; &quot;সিরিজ&quot; থেকে আপনার সিরিজ পারফরম্যান্স ট্র্যাক করুন।</item>
+        <item quantity="other">অভিনন্দন! আপনি গতকাল আরও %dটি কেনাকাটা পেয়েছেন। ভালো কাজ চালিয়ে যান এবং &quot;স্রষ্টার সরঞ্জামসমূহ&quot; &gt; &quot;সিরিজ&quot; থেকে আপনার সিরিজ পারফরম্যান্স ট্র্যাক করুন।</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="one">আপনার সিরিজ গত কয়েক দিনে %dটি পৃষ্ঠা ভিজিট পেয়েছে। আপনার সিরিজের পারফরম্যান্স ট্র্যাক করতে এবং সম্ভাব্য ক্রেতাদের আকৃষ্ট করতে গুরুত্বপূর্ণ পরামর্শ পেতে, আপনি “স্রষ্টার সরঞ্জামসমূহ” &gt; “সিরিজ” থেকে অ্যানালিটিক্সের সরঞ্জামসমূহ অ্যাক্সেস করতে পারেন।</item>
+        <item quantity="other">আপনার সিরিজ গত কয়েক দিনে %dটি পৃষ্ঠা ভিজিট পেয়েছে। আপনার সিরিজের পারফরম্যান্স ট্র্যাক করতে এবং সম্ভাব্য ক্রেতাদের আকৃষ্ট করতে গুরুত্বপূর্ণ পরামর্শ পেতে, আপনি “স্রষ্টার সরঞ্জামসমূহ” &gt; “সিরিজ” থেকে অ্যানালিটিক্সের সরঞ্জামসমূহ অ্যাক্সেস করতে পারেন।</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="one">অভিনন্দন! গতকাল আপনার লাইভে %d জন দর্শক আপনার সিরিজের অ্যাক্সেস কিনেছেন। ভালো কাজ চালিয়ে যান এবং &quot;স্রষ্টার সরঞ্জামসমূহ&quot; &gt; &quot;সিরিজ&quot; থেকে আপনার সিরিজ পারফরম্যান্স ট্র্যাক করুন।</item>
+        <item quantity="other">অভিনন্দন! গতকাল আপনার লাইভে %d জন দর্শক আপনার সিরিজের অ্যাক্সেস কিনেছেন। ভালো কাজ চালিয়ে যান এবং &quot;স্রষ্টার সরঞ্জামসমূহ&quot; &gt; &quot;সিরিজ&quot; থেকে আপনার সিরিজ পারফরম্যান্স ট্র্যাক করুন।</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="one">অভিনন্দন! সিরিজ লিঙ্ক সহ একটি ভিডিও থেকে গতকাল %d জন দর্শক আপনার সিরিজের অ্যাক্সেস কিনেছেন। ভালো কাজ চালিয়ে যান এবং “স্রষ্টার সরঞ্জামসমূহ” &gt; “সিরিজ” থেকে আপনার সিরিজ পারফরম্যান্স ট্র্যাক করুন।</item>
+        <item quantity="other">অভিনন্দন! সিরিজ লিঙ্ক সহ একটি ভিডিও থেকে গতকাল %d জন দর্শক আপনার সিরিজের অ্যাক্সেস কিনেছেন। ভালো কাজ চালিয়ে যান এবং “স্রষ্টার সরঞ্জামসমূহ” &gt; “সিরিজ” থেকে আপনার সিরিজ পারফরম্যান্স ট্র্যাক করুন।</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="one">ক্যামেরায় চালিয়ে যান (%d)</item>
+        <item quantity="other">ক্যামেরায় চালিয়ে যান (%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="one">%.1f (%sটি পর্যালোচনা)</item>
+        <item quantity="other">%.1f (%sটি পর্যালোচনা)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="one">শুধুমাত্র প্রথম জন ক্রেতা</item>
+        <item quantity="other">শুধুমাত্র প্রথম %d জন ক্রেতা</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="one">মাত্র %dটি বাকি</item>
+        <item quantity="other">মাত্র %dটি বাকি</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="one">মেয়াদ %d দিনে শেষ হতে চলেছে</item>
+        <item quantity="other">মেয়াদ %d দিনে শেষ হতে চলেছে</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="one">%dটি ভিডিও</item>
+        <item quantity="other">%dটি ভিডিও</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="one">%dটি ভিডিও</item>
+        <item quantity="other">%dটি ভিডিও</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="one">%dটি ভিডিও</item>
+        <item quantity="other">%dটি ভিডিও</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="one">%sটি ভিডিও</item>
+        <item quantity="other">%sটি ভিডিও</item>
+    </plurals>
+    <plurals name="t7">
+        <item quantity="one">{0}, {1}, এবং অন্যান্য {2} জন আপনার পোস্ট তাদের স্টোরিতে যোগ করেছেন।</item>
+        <item quantity="other">{0}, {1}, এবং অন্যান্য {2} জন আপনার পোস্ট তাদের স্টোরিতে যোগ করেছেন।</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="one">%dটি ভিউ</item>
+        <item quantity="other">%dটি ভিউ</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="one">Story (%d)</item>
+        <item quantity="other">Stories (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="one">{Brand} নিজেদের {start_date} - {end_date}-এর আসল অনুমোদন {num} দিন বাড়াতে চায়।</item>
+        <item quantity="other">{Brand} নিজেদের {start_date} - {end_date}-এর আসল অনুমোদন {num} দিন বাড়াতে চায়।</item>
+    </plurals>
+    <plurals name="tg">
+        <item quantity="one">এই স্রষ্টাকে সমর্থন করায় ধন্যবাদ যার ফলে উনি আপনার পছন্দের কন্টেন্ট তৈরি করে যেতে পারবেন। উনি আপনার টিপ %d ঘন্টার মধ্যে পেয়ে যাবেন।</item>
+        <item quantity="other">এই স্রষ্টাকে সমর্থন করায় ধন্যবাদ যার ফলে উনি আপনার পছন্দের কন্টেন্ট তৈরি করে যেতে পারবেন। উনি আপনার টিপ %d ঘন্টার মধ্যে পেয়ে যাবেন।</item>
+    </plurals>
+    <plurals name="th">
+        <item quantity="one">%dটি টিপ পাঠিয়েছেন</item>
+        <item quantity="other">%dটি টিপ পাঠিয়েছেন</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="one">%dটি ভিডিও যোগ করা হয়েছে</item>
+        <item quantity="other">%dটি ভিডিও যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="one">কন্টেন্ট ক্রিয়েটররা %d মাসের বেশি সময় ধরে TikTok-এ আছেন।</item>
+        <item quantity="other">কন্টেন্ট ক্রিয়েটররা %d মাসের বেশি সময় ধরে TikTok-এ আছেন।</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="one">কন্টেন্ট ক্রিয়েটরদের অন্তত %d জন অনুসরণকারী রয়েছে।</item>
+        <item quantity="other">কন্টেন্ট ক্রিয়েটরদের অন্তত %d জন অনুসরণকারী রয়েছে।</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="one">%d বার ইন্টারেকশন</item>
+        <item quantity="other">%d বার ইন্টারেকশন</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="one">জনপ্রিয় বিষয় যোগ করার দৈনিক সীমা: %dটি পোস্ট</item>
+        <item quantity="other">জনপ্রিয় বিষয় যোগ করার দৈনিক সীমা: %dটি পোস্ট</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="one">পর্যালোচনার আনুমানিক সময়: %d দিন</item>
+        <item quantity="other">পর্যালোচনার আনুমানিক সময়: %d দিন</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="one">%@টি ভিডিও</item>
+        <item quantity="other">%@টি ভিডিও</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="one">%@টি ভিউ</item>
+        <item quantity="other">%@টি ভিউ</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="one">%d দিন আগে</item>
+        <item quantity="other">%d দিন আগে</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="one">ঘন্টা</item>
+        <item quantity="other">ঘন্টা</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="one">%1$d ঘন্টা আগে</item>
+        <item quantity="other">%1$d ঘন্টা আগে</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="one">মিনিট</item>
+        <item quantity="other">মিনিট</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="one">%1$d মিনিট আগে</item>
+        <item quantity="other">%1$d মিনিট আগে</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="one">ঘন্টা</item>
+        <item quantity="other">ঘন্টা</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="one">মিনিট</item>
+        <item quantity="other">মিনিট</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="one">সেঃ</item>
+        <item quantity="other">সেঃ</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="one">%1$d বছর আগে</item>
+        <item quantity="other">%1$d বছর আগে</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="one">দুঃখিত! আপনাকে নিষিদ্ধ করা হয়েছে\n আপনি আবার %1$d দিন পরে লাইভ স্ট্রিম করতে পারবেন</item>
+        <item quantity="other">দুঃখিত! আপনাকে নিষিদ্ধ করা হয়েছে\n আপনি আবার %1$d দিন পরে লাইভ স্ট্রিম করতে পারবেন</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="one">দুঃখিত! আপনাকে নিষিদ্ধ করা হয়েছে\n আপনি আবার %1$d ঘন্টা পরে লাইভ স্ট্রিম করতে পারবেন</item>
+        <item quantity="other">দুঃখিত! আপনাকে নিষিদ্ধ করা হয়েছে\n আপনি আবার %1$d ঘন্টা পরে লাইভ স্ট্রিম করতে পারবেন</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="one">দুঃখিত! আপনাকে নিষিদ্ধ করা হয়েছে। \n আপনি আবার লাইভ স্ট্রিম করতে পারবেন: %1$d মিনিটের মধ্যে</item>
+        <item quantity="other">দুঃখিত! আপনাকে নিষিদ্ধ করা হয়েছে। \n আপনি আবার লাইভ স্ট্রিম করতে পারবেন: %1$d মিনিটের মধ্যে</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="one">দুঃখিত! আপনাকে নিষিদ্ধ করা হয়েছে\n আপনি আবার %1$d সেকেন্ড পরে লাইভ স্ট্রিম করতে পারবেন</item>
+        <item quantity="other">দুঃখিত! আপনাকে নিষিদ্ধ করা হয়েছে\n আপনি আবার %1$d সেকেন্ড পরে লাইভ স্ট্রিম করতে পারবেন</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="one">%d জন ব্যবহারকারী আপনার সম্প্রচার দেখছেন, আপনি কি এটা বন্ধ করতে চান?</item>
+        <item quantity="other">%d জন ব্যবহারকারী আপনার সম্প্রচার দেখছেন, আপনি কি এটা বন্ধ করতে চান?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="one">%d দিনের মধ্যে মেয়াদ ফুরাবে</item>
+        <item quantity="other">%d দিনের মধ্যে মেয়াদ ফুরাবে</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="one">%d ঘণ্টার মধ্যে মেয়াদ ফুরাবে</item>
+        <item quantity="other">%d ঘণ্টার মধ্যে মেয়াদ ফুরাবে</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="one">আরও %2$d পেতে প্রথমবার %1$dটি হীরা রিচার্জ করুন!</item>
+        <item quantity="other">আরও %2$d পেতে প্রথমবার %1$dটি হীরা রিচার্জ করুন!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="one">মিনিট</item>
+        <item quantity="other">মিনিট</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="one">আপনার TikTok ব্যবহারের অভিজ্ঞতা এত দিনে শেষ হয়ে যাবে: %d দিন</item>
+        <item quantity="other">আপনার TikTok ব্যবহারের অভিজ্ঞতা এত দিনে শেষ হয়ে যাবে: %d দিন</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="one">%d দিন</item>
+        <item quantity="other">%d দিন</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="one">আপনি TikTok এ এই বৈশিষ্ট্য %d দিন ব্যবহার করতে পারবেন। তারপরেও ব্যবহার করা চালিয়ে যেতে TikTok Now অ্যাপ ডাউনলোড করুন।</item>
+        <item quantity="other">আপনি TikTok এ এই বৈশিষ্ট্য %d দিন ব্যবহার করতে পারবেন। তাতারপরেও ব্যবহার করা চালিয়ে যেতে TikTok Now অ্যাপ ডাউনলোড করুন।</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="one">আপনার %d-দিন ধরে TikTok Now ব্যবহারের অভিজ্ঞতা শুরু করতে পোস্ট করুন।</item>
+        <item quantity="other">আপনার %d-দিন ধরে TikTok Now ব্যবহারের অভিজ্ঞতা শুরু করতে পোস্ট করুন।</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="one">%dটি ক্লিপ নির্বাচন বা রেকর্ড করুন</item>
+        <item quantity="other">%dটি ক্লিপ নির্বাচন বা রেকর্ড করুন</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="one">অসমাপ্ত ফটোটি সম্পাদনা করবেন?</item>
+        <item quantity="other">অসমাপ্ত ফটোগুলি সম্পাদনা করবেন?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="one">%s টি নতুন পোস্ট</item>
+        <item quantity="other">%s টি নতুন পোস্ট</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="one">%dটি ভিডিও পোস্ট করেছেন</item>
+        <item quantity="other">%dটি ভিডিও পোস্ট করেছেন</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="one">আপনার বয়স কি %d বছর?</item>
+        <item quantity="other">আপনার বয়স কি %d বছর?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="one">ট্রিম করা শব্দ ব্যবহার করুন। সর্বোচ্চ %d সেকেন্ড পর্যন্ত রেকর্ড করুন।</item>
+        <item quantity="other">ট্রিম করা শব্দ ব্যবহার করুন। সর্বোচ্চ %d সেকেন্ড পর্যন্ত রেকর্ড করুন।</item>
+    </plurals>
+    <plurals name="uh">
+        <item quantity="one">%1$s সময়মতো আপনার TikTok Shoutouts ভিডিও তৈরি করতে পারেননি। 24ঘণ্টার মধ্যে %2$dটি কয়েন আপনার অ্যাকাউন্টে ফেরত দেওয়া হবে।</item>
+        <item quantity="other">%1$s সময়মতো আপনার TikTok Shoutouts ভিডিও তৈরি করতে পারেননি। 24 ঘণ্টার মধ্যে %2$dটি কয়েন আপনার অ্যাকাউন্টে ফেরত দেওয়া হবে।</item>
+    </plurals>
+    <plurals name="ui">
+        <item quantity="one">24 ঘণ্টার মধ্যে %dটি কয়েন আপনার অ্যাকাউন্টে ফেরত দেওয়া হবে।</item>
+        <item quantity="other">24 ঘণ্টার মধ্যে %dটি কয়েন আপনার অ্যাকাউন্টে ফেরত দেওয়া হবে।</item>
+    </plurals>
+    <plurals name="uj">
+        <item quantity="one">এই অর্ডারটির সময় শেষ হয়ে যাওয়ায় এটি বাতিল হয়েছে। %sটি কয়েন আপনার অ্যাকাউন্টে রিটার্ন করা হবে।</item>
+        <item quantity="other">এই অর্ডারটির সময় শেষ হয়ে যাওয়ায় এটি বাতিল হয়েছে। %sটি কয়েন আপনার অ্যাকাউন্টে রিটার্ন করা হবে।</item>
+    </plurals>
+    <plurals name="uk">
+        <item quantity="one">আপনার অনুরোধ বাতিল করা হয়েছে। 24 ঘণ্টার মধ্যে %dটি কয়েন আপনার অ্যাকাউন্টে ফেরত দেওয়া হবে।</item>
+        <item quantity="other">আপনার অনুরোধ বাতিল করা হয়েছে। 24 ঘণ্টার মধ্যে %dটি কয়েন আপনার অ্যাকাউন্টে ফেরত দেওয়া হবে।</item>
+    </plurals>
+    <plurals name="ul">
+        <item quantity="one">কয়েন</item>
+        <item quantity="other">কয়েনগুলি</item>
+    </plurals>
+    <plurals name="um">
+        <item quantity="one">%1$s আপনার অনুরোধ খারিজ করেছে। 24 ঘন্টার মধ্য়ে %2$s কয়েন আপনার অ্যাকাউন্টে ফেরত চলে যাবে।</item>
+        <item quantity="other">%1$s আপনার অনুরোধ খারিজ করেছে। 24 ঘন্টার মধ্যে %2$sটি কয়েন আপনার অ্যাকাউন্টে ফেরত চলে যাবে।</item>
+    </plurals>
+    <plurals name="un">
+        <item quantity="one">%1$s সময় মতো আপনার TikTok Shoutouts ভিডিও তৈরি করতে পারেননি। আপনার অনুরোধটির মেয়াদ শেষ হয়ে গেছে এবং 24 ঘন্টার মধ্যে %2$s কয়েন আপনার অ্যাকাউন্টে ফেরৎ চলে যাবে।</item>
+        <item quantity="other">%1$s সময় মতো আপনার TikTok Shoutouts ভিডিও তৈরি করতে পারেননি। আপনার অনুরোধটির মেয়াদ শেষ হয়ে গেছে এবং 24 ঘন্টার মধ্যে %2$sটি কয়েন আপনার অ্যাকাউন্টে ফেরৎ চলে যাবে।</item>
+    </plurals>
+    <plurals name="uo">
+        <item quantity="one">2 দিনের মধ্যে %1$s আপনার অনুরোধ স্বীকার না করলে, আমরা স্বয়ংক্রিয়ভাবে আপনার অনুরোধটি বাতিল করে দেব এবং 24 ঘন্টার মধ্যে %2$sটি কয়েন আপনার অ্যাকাউন্টে রিফান্ড করব।</item>
+        <item quantity="other">2 দিনের মধ্যে %1$s আপনার অনুরোধ স্বীকার না করলে, আমরা স্বয়ংক্রিয়ভাবে আপনার অনুরোধটি বাতিল করে দেব এবং 24 ঘন্টার মধ্যে %2$sটি কয়েন আপনার অ্যাকাউন্টে রিফান্ড করব।</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="one">%s জন দর্শক</item>
+        <item quantity="other">%s জন দর্শক</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="one">%sটি লাইক</item>
+        <item quantity="other">%sটি লাইক</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="one">%2$sসেঃ %1$s এ শেয়ার করা হচ্ছে</item>
+        <item quantity="other">%2$sসেঃ %1$s এ শেয়ার করা হচ্ছে</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="one">%dটি পণ্য</item>
+        <item quantity="other">%dটি পণ্য</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="one">পোস্ট</item>
+        <item quantity="other">পোস্ট</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="one">%1$s, %2$s, এবং অন্যান্য %d জন</item>
+        <item quantity="other">%1$s, %2$s, এবং অন্যান্য %d জন</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="one">আপনার পোস্ট দেখেছেন।</item>
+        <item quantity="other">আপনার পোস্ট দেখেছেন।</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="one">%s এর শেয়ার</item>
+        <item quantity="other">%s এর শেয়ারগুলি</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="one">%s ভিয়্যু</item>
+        <item quantity="other">%s বার দেখা হয়েছে</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="one">{0} {1}, এবং অন্যান্য {2} জন আপনার পোস্ট দেখেছেন।</item>
+        <item quantity="other">{0} {1}, এবং অন্যান্য {2} জন আপনার পোস্ট দেখেছেন।</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="one">%dটি কয়েন</item>
+        <item quantity="other">%dটি কয়েন</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="one">পাঠানো হয়েছে: %s</item>
+        <item quantity="other">পাঠানো হয়েছে: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="one">ফটো সেভ করা হয়েছে</item>
+        <item quantity="other">ফটোগুলো সেভ করা হয়েছে</item>
+    </plurals>
+    <plurals name="v2">
+        <item quantity="one">{number} জন ব্যক্তি উপহারটি দাবি করেছেন কিন্তু তাদের অ্যাকাউন্টে ডেটা যোগ করেননি। ডেটার উপহার আপনার জন্যও হয়তো শীঘ্রই উপলভ্য হবে।</item>
+        <item quantity="other">{number} জন ব্যক্তি উপহারটি দাবি করেছেন কিন্তু তাদের অ্যাকাউন্টে ডেটা যোগ করেননি। ডেটার উপহার আপনার জন্যও হয়তো শীঘ্রই উপলভ্য হবে।</item>
+    </plurals>
+    <plurals name="v3">
+        <item quantity="one">কার্যকলাপ {countdown} দিনে শেষ হতে চলেছে। সীমিত পরিমাণ। যিনি আগে আসবেন, তিনি আগে পাবেন!</item>
+        <item quantity="other">কার্যকলাপ {countdown} দিনে শেষ হতে চলেছে। সীমিত পরিমাণ। যিনি আগে আসবেন, তিনি আগে পাবেন!</item>
+    </plurals>
+    <plurals name="v4">
+        <item quantity="one">{countdown}টি উপহার বাকি আছে</item>
+        <item quantity="other">{countdown}টি উপহার বাকি আছে</item>
+    </plurals>
+</resources>

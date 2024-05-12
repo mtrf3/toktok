@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C47061t0
+        id="@+id/f3s"
+        layout_width="70dp"
+        layout_height="70dp"/>
+    <X.C47121t6
+        textSize="14dp"
+        textColor="@color/be"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="20dp"
+        text="@string/lnv"
+        layout_marginStart="32dp"
+        layout_marginEnd="32dp"
+        style="@style/a46"/>
+</LinearLayout>

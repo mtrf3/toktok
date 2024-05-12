@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/go"
+    gravity="start"
+    id="@+id/eo2"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginTop="@dimen/fl"
+    text="@string/dop"
+    NOT_FOUND_0x7="53"/>

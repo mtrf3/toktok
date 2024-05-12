@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="wrap_content"
+    layout_height="40dp">
+    <X.C41081jM
+        id="@+id/ega"
+        layout_width="49dp"
+        layout_height="40dp"
+        src="@drawable/co2"
+        NOT_FOUND_0x15="0"
+        NOT_FOUND_0x16="0"/>
+    <X.C47121t6
+        textSize="11dp"
+        textColor="#ffffff"
+        ellipsize="end"
+        gravity="start"
+        paddingLeft="6dp"
+        paddingRight="6dp"
+        layout_width="wrap_content"
+        layout_height="13dp"
+        layout_marginBottom="2dp"
+        maxWidth="70dp"
+        minWidth="37dp"
+        text="@string/oxg"
+        maxLines="1"
+        paddingHorizontal="6dp"
+        lineHeight="13dp"
+        NOT_FOUND_0x11="7"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x13="0"
+        NOT_FOUND_0x14="0"
+        NOT_FOUND_0x15="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape shape="rectangle">
+            <solid color="?attr/eg"/>
+            <size width="20dp"/>
+            <corners radius="8dp"/>
+        </shape>
+    </item>
+    <item left="20dp">
+        <shape shape="rectangle">
+            <solid color="@color/c7"/>
+            <corners radius="8dp"/>
+        </shape>
+    </item>
+    <item
+        left="8dp"
+        right="8dp">
+        <shape shape="rectangle">
+            <solid color="@color/acm"/>
+            <corners radius="8dp"/>
+        </shape>
+    </item>
+</layer-list>

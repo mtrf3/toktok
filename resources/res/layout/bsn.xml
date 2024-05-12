@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout
+    layout_width="match_parent"
+    layout_height="0dp"
+    NOT_FOUND_0x14="1"
+    NOT_FOUND_0x18="0.75">
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/cover"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x13="6"
+        NOT_FOUND_0x15="@color/ao"
+        NOT_FOUND_0x16="5"/>
+    <LinearLayout
+        gravity="bottom"
+        layout_gravity="bottom"
+        id="@+id/n66"
+        background="@drawable/bze"
+        paddingBottom="5dp"
+        layout_width="match_parent"
+        layout_height="50dp">
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            gravity="center_vertical"
+            id="@+id/me4"
+            visibility="visible"
+            layout_width="0dp"
+            layout_height="wrap_content"
+            drawablePadding="1dp"
+            layout_weight="1"
+            drawableStart="@drawable/byd"
+            textDirection="locale"
+            layout_marginStart="5dp"
+            NOT_FOUND_0x17="71"/>
+    </LinearLayout>
+    <X.C63044Ooi
+        theme="@style/uw"
+        layout_gravity="end|top"
+        id="@+id/b_o"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginTop="5dp"
+        checked="false"
+        layout_centerVertical="true"
+        layout_marginEnd="5dp"/>
+    <include layout="@layout/bsm"/>
+</com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout>

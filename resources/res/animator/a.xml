@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="true"
+        NOT_FOUND_0x5="true"
+        NOT_FOUND_0x6="false">
+        <objectAnimator
+            duration="@integer/ae"
+            valueTo="0dp"
+            valueType="floatType"
+            propertyName="elevation"/>
+    </item>
+    <item state_enabled="true">
+        <objectAnimator
+            duration="@integer/ae"
+            valueTo="@dimen/lr"
+            valueType="floatType"
+            propertyName="elevation"/>
+    </item>
+    <item>
+        <objectAnimator
+            duration="0"
+            valueTo="0"
+            valueType="floatType"
+            propertyName="elevation"/>
+    </item>
+</selector>

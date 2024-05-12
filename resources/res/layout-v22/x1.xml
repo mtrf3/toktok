@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    gravity="center_horizontal"
+    orientation="horizontal"
+    id="@+id/c6a"
+    background="@drawable/aas"
+    focusable="false"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_marginLeft="16dp"
+    layout_marginTop="24dp"
+    layout_marginRight="16dp"
+    layout_marginBottom="24dp"
+    layout_marginHorizontal="16dp"
+    layout_marginVertical="24dp">
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center"
+        id="@+id/c6_"
+        focusable="false"
+        layout_width="20dp"
+        layout_height="20dp"
+        layout_marginTop="12dp"
+        layout_marginBottom="12dp"
+        layout_marginVertical="12dp"
+        NOT_FOUND_0x12="@raw/icon_trash_bin"
+        NOT_FOUND_0x13="?attr/go"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        layout_gravity="center"
+        id="@+id/c6b"
+        focusable="false"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="12dp"
+        layout_marginBottom="12dp"
+        text="@string/f65"
+        layout_marginStart="4dp"
+        layout_marginVertical="12dp"
+        NOT_FOUND_0x11="42"/>
+</androidx.appcompat.widget.LinearLayoutCompat>

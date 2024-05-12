@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/fk6"
+    paddingLeft="@dimen/r8"
+    paddingRight="@dimen/r8"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.ies.dmt.ui.widget.DmtTextView
+        layout_gravity="center_horizontal"
+        id="@+id/m4n"
+        style="@style/a6p"/>
+</LinearLayout>

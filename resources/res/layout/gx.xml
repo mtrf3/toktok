@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    paddingTop="12dp"
+    paddingBottom="12dp"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.SY4
+        gravity="center"
+        id="@+id/ltz"
+        background="@color/cz"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x7="@integer/bw"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

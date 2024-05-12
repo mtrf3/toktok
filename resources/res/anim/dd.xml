@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <rotate
+        duration="300"
+        fromDegrees="0"
+        toDegrees="-90"
+        pivotX="50%"
+        pivotY="50%"/>
+    <alpha
+        duration="300"
+        fromAlpha="1"
+        toAlpha="0"/>
+</set>

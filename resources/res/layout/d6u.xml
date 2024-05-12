@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    id="@+id/bst"
+    background="@drawable/cg0"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginTop="4dp"
+    layout_marginBottom="4dp"
+    minHeight="42dp"
+    layout_marginStart="6dp">
+    <X.C47061t0
+        layout_gravity="center"
+        id="@+id/ecz"
+        layout_width="@dimen/acu"
+        layout_height="@dimen/acu"
+        contentDescription="share icon"
+        layout_marginStart="6dp"
+        NOT_FOUND_0xa="true"/>
+    <X.C29968BpU
+        layout_gravity="center"
+        id="@+id/b4g"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginStart="6dp"/>
+</LinearLayout>

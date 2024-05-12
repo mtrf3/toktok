@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <scale
+        duration="@android:integer/config_mediumAnimTime"
+        pivotX="0%"
+        pivotY="100%"
+        fromXScale="1"
+        toXScale="1"
+        fromYScale="0"
+        toYScale="1"/>
+</set>

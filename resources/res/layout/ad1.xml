@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/g5r"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C131975Fx
+        layout_gravity="center_horizontal"
+        id="@+id/f8i"
+        layout_width="100dp"
+        layout_height="190dp"
+        layout_marginTop="20dp"/>
+    <X.C163306b0
+        layout_gravity="center_horizontal"
+        id="@+id/f8p"
+        layout_width="92dp"
+        layout_height="156dp"
+        layout_marginTop="34dp"/>
+    <ImageView
+        layout_gravity="bottom|right"
+        id="@+id/f37"
+        background="@drawable/ajj"
+        layout_width="114dp"
+        layout_height="114dp"
+        layout_marginRight="20dp"/>
+</FrameLayout>

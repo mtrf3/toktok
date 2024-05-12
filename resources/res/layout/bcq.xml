@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.lighten.loader.SmartImageView
+    id="@+id/jd5"
+    layout_width="match_parent"
+    layout_height="match_parent"
+    NOT_FOUND_0x3="@color/ed"
+    NOT_FOUND_0x4="@color/ed"/>

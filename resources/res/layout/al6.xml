@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent"
+    paddingStart="12dp"
+    paddingEnd="12dp">
+    <X.SY4
+        textColor="?attr/dj"
+        ellipsize="end"
+        id="@+id/xb"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginBottom="1dp"
+        maxWidth="150dp"
+        maxLines="1"
+        paddingStart="12dp"
+        paddingEnd="12dp"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x10="true"
+        NOT_FOUND_0x11="2"
+        NOT_FOUND_0x12="1"
+        NOT_FOUND_0x14="@raw/icon_camera_plus_fill"
+        NOT_FOUND_0x15="?attr/eb"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        ellipsize="end"
+        id="@+id/x_"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        maxLines="1"
+        layout_marginEnd="8dp"
+        NOT_FOUND_0xb="@+id/xb"
+        NOT_FOUND_0xd="@+id/xb"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="@+id/xb"
+        NOT_FOUND_0x13="101"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

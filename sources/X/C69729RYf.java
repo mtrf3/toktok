@@ -1,0 +1,18 @@
+package X;
+
+import com.ss.android.ugc.aweme.ecommerce.core.strategy.BizIdentityMatchRule;
+
+/* renamed from: X.RYf, reason: case insensitive filesystem */
+/* loaded from: classes13.dex */
+public final class C69729RYf extends AbstractC65781Prl implements InterfaceC65784Pro<java.util.Map<BizIdentityMatchRule, InterfaceC65784Pro<? extends Object>>> {
+    public static final C69729RYf LJLIL = new C69729RYf();
+
+    public C69729RYf() {
+        super(0);
+    }
+
+    @Override // X.InterfaceC65784Pro
+    public final java.util.Map<BizIdentityMatchRule, InterfaceC65784Pro<? extends Object>> invoke() {
+        return C113554cx.LJJLIIIIJ(new OSZ(new BizIdentityMatchRule("bundle_deal", "tts", "global"), RYZ.LJLIL), new OSZ(new BizIdentityMatchRule("header", "tts", "global"), RY4.LJLIL), new OSZ(new BizIdentityMatchRule("header", "ttf", "global"), C69723RXz.LJLIL), new OSZ(new BizIdentityMatchRule("header", "ttf", "sa"), RY0.LJLIL), new OSZ(new BizIdentityMatchRule("product_info", "tts", "global"), RY8.LJLIL), new OSZ(new BizIdentityMatchRule("product_info", "ttf", "global"), C69732RYi.LJLIL), new OSZ(new BizIdentityMatchRule("product_info", "ttf", "sa"), C69733RYj.LJLIL), new OSZ(new BizIdentityMatchRule("review", "ttf", "global"), C69737RYn.LJLIL), new OSZ(new BizIdentityMatchRule("review", "ttf", "sa"), C69738RYo.LJLIL), new OSZ(new BizIdentityMatchRule("service", "tts", "global"), C69724RYa.LJLIL), new OSZ(new BizIdentityMatchRule("service", "ttf", "global"), RYU.LJLIL), new OSZ(new BizIdentityMatchRule("service", "ttf", "sa"), RYA.LJLIL), new OSZ(new BizIdentityMatchRule("shop_profile", "tts", "global"), C69726RYc.LJLIL), new OSZ(new BizIdentityMatchRule("shop_profile", "ttf", "global"), RYV.LJLIL), new OSZ(new BizIdentityMatchRule("shop_profile", "ttf", "sa"), C69728RYe.LJLIL), new OSZ(new BizIdentityMatchRule("sku", "tts", "global"), C69715RXr.LJLIL), new OSZ(new BizIdentityMatchRule("sku", "ttf", "global"), C69730RYg.LJLIL), new OSZ(new BizIdentityMatchRule("sku", "ttf", "sa"), C69731RYh.LJLIL), new OSZ(new BizIdentityMatchRule("brick_list", "*", "us"), C69720RXw.LJLIL), new OSZ(new BizIdentityMatchRule("buy_together", "*", "sa"), C69734RYk.LJLIL), new OSZ(new BizIdentityMatchRule("buy_together", "*", "global"), C69735RYl.LJLIL), new OSZ(new BizIdentityMatchRule("buy_together", "*", "us"), C69736RYm.LJLIL), new OSZ(new BizIdentityMatchRule("header", "*", "us"), RY3.LJLIL), new OSZ(new BizIdentityMatchRule("product_prop", "*", "global"), C69739RYp.LJLIL), new OSZ(new BizIdentityMatchRule("product_prop", "*", "us"), C69740RYq.LJLIL), new OSZ(new BizIdentityMatchRule("product_prop", "*", "sa"), C69741RYr.LJLIL), new OSZ(new BizIdentityMatchRule("promotion", "*", "global"), C69742RYs.LJLIL), new OSZ(new BizIdentityMatchRule("promotion", "*", "sa"), C69743RYt.LJLIL), new OSZ(new BizIdentityMatchRule("review", "*", "global"), C69744RYu.LJLIL), new OSZ(new BizIdentityMatchRule("review", "*", "us"), C69745RYv.LJLIL), new OSZ(new BizIdentityMatchRule("size_guide", "*", "global"), C69746RYw.LJLIL), new OSZ(new BizIdentityMatchRule("size_guide", "*", "us"), C69747RYx.LJLIL), new OSZ(new BizIdentityMatchRule("size_guide", "*", "sa"), C69748RYy.LJLIL), new OSZ(new BizIdentityMatchRule("sku", "*", "us"), C69716RXs.LJLIL), new OSZ(new BizIdentityMatchRule("product_info", "*", "us"), C69706RXi.LJLIL), new OSZ(new BizIdentityMatchRule("promotion", "*", "us"), C69709RXl.LJLIL), new OSZ(new BizIdentityMatchRule("service", "*", "us"), C69725RYb.LJLIL), new OSZ(new BizIdentityMatchRule("shop_profile", "*", "us"), C69727RYd.LJLIL), new OSZ(new BizIdentityMatchRule("brick_list", "*", "*"), RYX.LJLIL), new OSZ(new BizIdentityMatchRule("promotion", "*", "*"), C69749RYz.LJLIL));
+    }
+}

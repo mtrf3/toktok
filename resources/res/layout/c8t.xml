@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.LBE
+    background="?attr/b_r"
+    layout_width="0dp"
+    layout_height="match_parent"
+    layout_weight="1">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/e_q"
+        background="@color/cz"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginTop="12dp"
+        layout_centerInParent="true"
+        NOT_FOUND_0x7="?attr/go"/>
+</X.LBE>

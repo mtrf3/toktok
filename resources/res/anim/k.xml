@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alpha
+    interpolator="@android:interpolator/decelerate_quad"
+    duration="@integer/az"
+    fromAlpha="0"
+    toAlpha="1"/>

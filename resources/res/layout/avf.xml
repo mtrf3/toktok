@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout
+    layout_width="match_parent"
+    layout_height="0dp"
+    NOT_FOUND_0xb="1"
+    NOT_FOUND_0x10="0.75">
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/d5p"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0xa="6"
+        NOT_FOUND_0xc="?attr/cj"
+        NOT_FOUND_0xd="5"/>
+    <View
+        id="@+id/d5v"
+        background="?attr/cr"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        alpha="0.6"/>
+    <X.C71897SJp
+        layout_gravity="end"
+        id="@+id/d63"
+        clickable="false"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_margin="@dimen/g8"
+        checked="false"
+        NOT_FOUND_0xe="?attr/eb"
+        NOT_FOUND_0xf="?attr/dj"/>
+</com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout>

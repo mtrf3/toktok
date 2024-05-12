@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item
+        id="@android:id/background"
+        height="32dp">
+        <shape>
+            <solid color="?attr/dh"/>
+        </shape>
+    </item>
+    <item
+        id="@android:id/progress"
+        height="32dp">
+        <clip>
+            <shape>
+                <solid color="?attr/dm"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

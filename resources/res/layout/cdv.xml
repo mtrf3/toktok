@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C113604d2
+        id="@+id/dcp"
+        background="?attr/d1"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C113604d2
+        id="@+id/drl"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <X.WXF
+            id="@+id/drn"
+            visibility="gone"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+    </X.C113604d2>
+    <FrameLayout
+        id="@+id/dcc"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/dg5"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/irq"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ViewStub
+        id="@+id/hm8"
+        layout="@layout/bya"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

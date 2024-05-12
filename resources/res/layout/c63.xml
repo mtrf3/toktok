@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/h5u"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <FrameLayout
+        id="@+id/acg"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_centerHorizontal="true">
+        <X.C53691L5j
+            layout_gravity="center"
+            id="@+id/dfe"
+            layout_width="64dp"
+            layout_height="64dp">
+            <X.AP9
+                layout_gravity="center"
+                id="@+id/eye"
+                layout_width="56dp"
+                layout_height="56dp"
+                NOT_FOUND_0x8="@color/ca"
+                NOT_FOUND_0x9="6"
+                NOT_FOUND_0xa="true"/>
+        </X.C53691L5j>
+        <X.C58065Mqb
+            layout_gravity="center"
+            id="@+id/acl"
+            visibility="gone"
+            layout_width="72dp"
+            layout_height="72dp"
+            NOT_FOUND_0x6="1.5dp"
+            NOT_FOUND_0x7="15dp"
+            NOT_FOUND_0xc="92"/>
+    </FrameLayout>
+    <X.C119884nA
+        layout_gravity="center"
+        id="@+id/nco"
+        visibility="gone"
+        layout_width="56dp"
+        layout_height="56dp"
+        NOT_FOUND_0xb="2dp"/>
+</FrameLayout>

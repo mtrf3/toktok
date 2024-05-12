@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    id="@+id/eus"
+    background="@drawable/a48"
+    paddingLeft="16dp"
+    paddingRight="16dp"
+    descendantFocusability="afterDescendants"
+    layout_width="match_parent"
+    layout_height="56dp"
+    paddingHorizontal="16dp">
+    <X.C71799SFv
+        id="@+id/acf"
+        background="@drawable/bj7"
+        layout_width="40dp"
+        layout_height="40dp"/>
+    <Space
+        layout_width="12dp"
+        layout_height="match_parent"/>
+    <FrameLayout
+        background="@drawable/bj8"
+        layout_width="150dp"
+        layout_height="18dp"/>
+    <Space
+        layout_width="0dp"
+        layout_height="match_parent"
+        layout_weight="1"/>
+    <FrameLayout
+        background="@drawable/bj8"
+        layout_width="64dp"
+        layout_height="24dp"/>
+</LinearLayout>

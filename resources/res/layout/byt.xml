@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/gcd"
+    background="@color/yi"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <LinearLayout
+        gravity="center"
+        orientation="vertical"
+        id="@+id/gce"
+        background="@drawable/bq_"
+        layout_width="113dp"
+        layout_height="102dp"
+        layout_centerInParent="true">
+        <ProgressBar
+            id="@+id/ib9"
+            layout_width="16dp"
+            layout_height="16dp"
+            layout_marginTop="31dp"
+            indeterminateTint="@android:color/white"/>
+        <TextView
+            textColor="@android:color/white"
+            gravity="center"
+            id="@+id/gi3"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginTop="18dp"
+            maxWidth="102dp"
+            maxLines="3"/>
+    </LinearLayout>
+</RelativeLayout>

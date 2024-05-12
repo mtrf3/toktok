@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+    <solid color="?attr/cv"/>
+    <stroke
+        width="0.5dp"
+        color="?attr/dz"/>
+</shape>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/qy"
+    visibility="gone"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/r0"
+        background="@drawable/acn"
+        layout_width="32dp"
+        layout_height="32dp"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="@raw/icon_chevron_up_fill"
+        NOT_FOUND_0xa="14dp"
+        NOT_FOUND_0xb="true"
+        NOT_FOUND_0xc="14dp"
+        NOT_FOUND_0xd="?attr/cl"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

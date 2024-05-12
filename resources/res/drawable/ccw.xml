@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <gradient
+        startColor="#33ffafcc"
+        endColor="#33a9f5ff"
+        angle="0"
+        centerColor="#33d4d3ff"/>
+    <corners radius="4dp"/>
+</shape>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    background="?attr/cl"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/kej"
+        background="?attr/cl"
+        layout_width="match_parent"
+        layout_height="0dp"/>
+    <include layout="@layout/nr"/>
+    <View
+        layout_width="match_parent"
+        layout_height="0.5dp"/>
+    <WebView
+        id="@+id/nie"
+        layout_width="match_parent"
+        layout_height="0dp"
+        layout_weight="1"/>
+</LinearLayout>

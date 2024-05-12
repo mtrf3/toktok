@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C53691L5j
+        id="@+id/dfe"
+        layout_width="56dp"
+        layout_height="56dp">
+        <X.AP9
+            layout_gravity="center"
+            id="@+id/h4z"
+            layout_width="@dimen/h2"
+            layout_height="@dimen/h2"
+            NOT_FOUND_0xd="@color/g_"
+            NOT_FOUND_0xe="6"
+            NOT_FOUND_0xf="true"/>
+    </X.C53691L5j>
+    <X.C019105r
+        id="@+id/h4y"
+        layout_width="54dp"
+        layout_height="54dp"/>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        layout_gravity="center"
+        id="@+id/h4w"
+        visibility="gone"
+        layout_width="@dimen/h2"
+        layout_height="@dimen/h2">
+        <X.C119624mk
+            id="@+id/h51"
+            layout_width="36dp"
+            layout_height="36dp"
+            NOT_FOUND_0xa="0"
+            NOT_FOUND_0xb="0"
+            NOT_FOUND_0xc="0"/>
+        <X.C119624mk
+            id="@+id/h50"
+            background="@drawable/yj"
+            padding="2dp"
+            layout_width="40dp"
+            layout_height="40dp"
+            layout_marginTop="10dp"
+            layout_marginEnd="10dp"
+            NOT_FOUND_0x9="?attr/ck"
+            NOT_FOUND_0xa="0"
+            NOT_FOUND_0xc="0"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</merge>

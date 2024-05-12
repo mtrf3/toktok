@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <corners radius="10dp"/>
+    <solid color="@color/ar"/>
+    <padding
+        left="12dp"
+        top="12dp"
+        right="12dp"
+        bottom="12dp"/>
+</shape>

@@ -1,0 +1,19 @@
+package X;
+
+/* renamed from: X.WeA, reason: case insensitive filesystem */
+/* loaded from: classes15.dex */
+public enum EnumC82774WeA {
+    REQUIRE_CAMERA_AND_MIC_PERMISSION_STATE,
+    REQUIRE_CAMERA_PERMISSION_STATE,
+    ONLY_REQUIRE_CAMERA_PERMISSION_STATE,
+    REQUIRE_MIC_PERMISSION_STATE,
+    ONLY_REQUIRE_MIC_PERMISSION_STATE,
+    NOT_SHOW_REQUIRE_BUTTON_AND_TEXT,
+    REQUIRE_CAMERA_FOR_LIVE_TAB_STATE,
+    REQUIRE_MIC_FOR_LIVE_TAB_STATE,
+    REQUIRE_CAMERA_AND_MIC_FOR_LIVE_TAB_STATE;
+
+    public static EnumC82774WeA valueOf(String str) {
+        return (EnumC82774WeA) V0N.LJJJ(EnumC82774WeA.class, str);
+    }
+}

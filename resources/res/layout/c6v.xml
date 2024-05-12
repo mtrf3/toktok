@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/i8v"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    NOT_FOUND_0xf="0"
+    NOT_FOUND_0x10="0"
+    NOT_FOUND_0x11="0">
+    <FrameLayout
+        id="@+id/i8x"
+        background="@drawable/byx"
+        layout_width="match_parent"
+        layout_height="44dp">
+        <LinearLayout
+            orientation="vertical"
+            layout_width="wrap_content"
+            layout_height="match_parent"
+            layout_marginStart="16dp">
+            <com.bytedance.tux.input.TuxTextView
+                textColor="?attr/cu"
+                gravity="center"
+                id="@+id/i8z"
+                layout_width="wrap_content"
+                layout_height="0dp"
+                text="@string/c02"
+                layout_weight="1"
+                NOT_FOUND_0x12="33"/>
+            <View
+                background="?attr/cu"
+                layout_width="match_parent"
+                layout_height="2dp"/>
+        </LinearLayout>
+    </FrameLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        layout_gravity="center_horizontal"
+        id="@+id/i8w"
+        paddingTop="15dp"
+        paddingBottom="15dp"
+        clipToPadding="false"
+        layout_width="wrap_content"
+        layout_height="400dp"
+        overScrollMode="never"/>
+</LinearLayout>

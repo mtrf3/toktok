@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C8H7
+    textSize="15sp"
+    id="@+id/mkd"
+    paddingTop="12dp"
+    paddingBottom="12dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    drawableLeft="@drawable/c3_"
+    drawablePadding="12dp"
+    lineSpacingExtra="3dp"
+    drawableStart="@drawable/c3_"/>

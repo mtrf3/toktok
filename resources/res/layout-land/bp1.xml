@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/bs8"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C45621qg
+        id="@+id/bv5"
+        fitsSystemWindows="true"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <View
+            id="@+id/liz"
+            focusable="false"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            soundEffectsEnabled="false"
+            importantForAccessibility="no"/>
+        <X.C47141t8
+            layout_gravity="end"
+            id="@+id/c8m"
+            fitsSystemWindows="true"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            NOT_FOUND_0x8="@dimen/ww"
+            NOT_FOUND_0x9="com.bytedance.android.live.design.view.sheet.LiveBottomSheetBehavior"
+            NOT_FOUND_0xa="@dimen/ww"
+            style="?attr/aqh"/>
+    </X.C45621qg>
+</FrameLayout>

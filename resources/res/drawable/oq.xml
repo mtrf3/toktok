@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item
+        height="106dp"
+        width="106dp">
+        <shape shape="oval">
+            <solid color="#26ffffff"/>
+        </shape>
+    </item>
+    <item
+        gravity="center"
+        height="60dp"
+        width="60dp"
+        drawable="@drawable/os"/>
+</layer-list>

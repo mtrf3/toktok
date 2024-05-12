@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    gravity="center_vertical"
+    orientation="horizontal"
+    background="#fdb300"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.icon.TuxIconView
+        layout_width="12dp"
+        layout_height="12dp"
+        NOT_FOUND_0x9="@raw/icon_color_coin_small"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/cl"
+        id="@+id/m8x"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginStart="2dp"
+        NOT_FOUND_0x8="73"/>
+</merge>

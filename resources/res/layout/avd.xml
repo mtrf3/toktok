@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout
+    layout_width="match_parent"
+    layout_height="0dp"
+    NOT_FOUND_0x5="1"
+    NOT_FOUND_0x8="0.75">
+    <View
+        id="@+id/h2s"
+        background="?attr/d4"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center"
+        id="@+id/h2t"
+        layout_width="35dp"
+        layout_height="35dp"
+        NOT_FOUND_0x6="@raw/icon_camera"
+        NOT_FOUND_0x7="?attr/dj"/>
+</com.ss.android.ugc.aweme.base.widget.FixedRatioFrameLayout>

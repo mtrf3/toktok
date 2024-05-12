@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.T5T
+        gravity="start|center_vertical"
+        id="@+id/eof"
+        focusable="true"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_weight="1"
+        textAlignment="viewStart"/>
+    <FrameLayout
+        id="@+id/eoe"
+        visibility="gone"
+        layout_width="24dp"
+        layout_height="match_parent">
+        <FrameLayout
+            layout_gravity="end|center_vertical"
+            id="@+id/eog"
+            clipChildren="false"
+            layout_width="16dp"
+            layout_height="16dp"/>
+    </FrameLayout>
+</LinearLayout>

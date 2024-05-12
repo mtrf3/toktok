@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="oval">
+    <corners radius="50dp"/>
+    <solid color="@color/a1h"/>
+    <size
+        height="50dp"
+        width="50dp"/>
+</shape>

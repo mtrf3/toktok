@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    gravity="center_vertical"
+    layout_width="match_parent"
+    layout_height="22dp"
+    paddingStart="5dp"
+    paddingEnd="5dp">
+    <X.C188627ak
+        gravity="center_vertical"
+        layout_gravity="center_vertical"
+        id="@+id/ksk"
+        layout_width="wrap_content"
+        layout_height="22dp"/>
+</FrameLayout>

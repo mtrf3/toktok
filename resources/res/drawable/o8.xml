@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item
+        height="@dimen/ns"
+        width="@dimen/ns"
+        drawable="@drawable/b6d"
+        right="@dimen/nx"/>
+</layer-list>

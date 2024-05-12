@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item
+        height="156dp"
+        width="156dp">
+        <shape shape="oval">
+            <gradient
+                startColor="#15c0f9"
+                endColor="#1ae3c6"
+                angle="315"
+                centerX="0.48"
+                centerY="1"
+                centerColor="#20d5ec"/>
+        </shape>
+    </item>
+    <item
+        left="6dp"
+        top="6dp"
+        right="6dp"
+        bottom="6dp">
+        <shape shape="oval">
+            <solid color="@color/b5"/>
+        </shape>
+    </item>
+    <item
+        left="10dp"
+        top="10dp"
+        right="10dp"
+        bottom="10dp">
+        <shape shape="oval">
+            <solid color="#26ffffff"/>
+        </shape>
+    </item>
+    <item
+        gravity="center"
+        height="80dp"
+        width="80dp"
+        drawable="@drawable/or"/>
+</layer-list>

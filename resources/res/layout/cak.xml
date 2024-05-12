@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="160dp"
+    layout_height="234dp">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/c66"
+        layout_width="16dp"
+        layout_height="16dp"
+        layout_marginTop="8dp"
+        layout_alignParentTop="true"
+        layout_marginEnd="8dp"
+        layout_alignParentEnd="true"
+        NOT_FOUND_0xc="@raw/icon_x_mark_small"
+        NOT_FOUND_0xd="16dp"
+        NOT_FOUND_0xe="16dp"
+        NOT_FOUND_0xf="?attr/gv"/>
+    <include
+        id="@+id/le3"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="12dp"
+        layout_centerHorizontal="true"
+        layout_marginStart="5dp"
+        layout_marginEnd="5dp"
+        layout="@layout/can"/>
+    <include
+        id="@+id/gj9"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="8dp"
+        layout_below="@+id/le3"
+        layout_centerHorizontal="true"
+        layout_marginStart="12dp"
+        layout_marginEnd="12dp"
+        layout="@layout/cam"/>
+    <include
+        id="@+id/aop"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginBottom="12dp"
+        layout_alignParentBottom="true"
+        layout_centerHorizontal="true"
+        layout_marginStart="12dp"
+        layout_marginEnd="12dp"
+        layout="@layout/cal"/>
+</RelativeLayout>

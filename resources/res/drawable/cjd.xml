@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item id="@android:id/progress">
+        <clip>
+            <shape>
+                <corners
+                    bottomLeftRadius="10dp"
+                    bottomRightRadius="10dp"/>
+                <solid color="#992e5b"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/ldd"
+    clipChildren="false"
+    layout_width="36dp"
+    layout_height="36dp"
+    layout_marginStart="8dp">
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/ld4"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginBottom="1dp"
+        NOT_FOUND_0x9="?attr/aub"
+        NOT_FOUND_0xa="@style/i4"
+        NOT_FOUND_0xb="0.6667"
+        NOT_FOUND_0xc="@color/aat"
+        NOT_FOUND_0xd="0.6667"
+        NOT_FOUND_0xe="@color/aas"/>
+</LinearLayout>

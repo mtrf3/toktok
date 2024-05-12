@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_gravity="center_vertical"
+    layout_width="78dp"
+    layout_height="match_parent"
+    layout_marginEnd="16dp">
+    <X.C63044Ooi
+        layout_gravity="end|center_vertical"
+        id="@+id/ilr"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</FrameLayout>

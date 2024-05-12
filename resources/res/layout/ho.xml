@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="80dp"
+    layout_height="114dp">
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center_horizontal"
+        id="@+id/ebu"
+        layout_width="56dp"
+        layout_height="56dp"
+        layout_marginTop="16dp"
+        NOT_FOUND_0xb="32dp"
+        NOT_FOUND_0xc="32dp"
+        NOT_FOUND_0xd="?attr/gu"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        ellipsize="end"
+        layout_gravity="center_horizontal"
+        id="@+id/c7z"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="10dp"
+        maxWidth="72dp"
+        maxLines="1"
+        NOT_FOUND_0xa="71"/>
+</LinearLayout>

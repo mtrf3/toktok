@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <X.W5G
+        id="@+id/ggn"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C72974SkU
+        layout_gravity="top|right"
+        id="@+id/b_n"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <ImageView
+        layout_gravity="bottom|right"
+        id="@+id/ds1"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginRight="8dp"
+        layout_marginBottom="8dp"
+        src="@drawable/b07"/>
+    <TextView
+        textSize="12sp"
+        textColor="@android:color/white"
+        layout_gravity="bottom|right"
+        id="@+id/n5j"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginRight="8dp"
+        layout_marginBottom="8dp"/>
+</merge>

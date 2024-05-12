@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <LinearLayout
+        gravity="start"
+        orientation="horizontal"
+        paddingLeft="16dp"
+        layout_width="match_parent"
+        layout_height="@dimen/am"
+        paddingStart="16dp">
+        <ImageButton
+            layout_gravity="center_vertical"
+            id="@+id/be"
+            background="?attr/b_s"
+            layout_width="24dp"
+            layout_height="24dp"
+            src="?attr/ao"
+            contentDescription="@string/as"/>
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        id="@+id/bg"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</LinearLayout>

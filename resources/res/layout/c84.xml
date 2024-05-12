@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    background="@drawable/bx1"
+    layout_width="match_parent"
+    layout_height="52dp"
+    layout_marginStart="16dp"
+    layout_marginEnd="16dp">
+    <com.bytedance.tux.input.TuxTextView
+        layout_gravity="center_vertical"
+        id="@+id/ieb"
+        paddingTop="10dp"
+        paddingBottom="10dp"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        text="He/Him/His"
+        textDirection="locale"
+        paddingStart="16dp"
+        NOT_FOUND_0xc="101"/>
+</FrameLayout>

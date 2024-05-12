@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.SYL
+        id="@+id/i04"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginBottom="52dp"/>
+</androidx.appcompat.widget.LinearLayoutCompat>

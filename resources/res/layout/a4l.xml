@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="34dp"
+    layout_height="30dp"
+    paddingStart="2dp"
+    paddingEnd="2dp">
+    <FrameLayout
+        id="@+id/bs8"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <com.bytedance.lighten.loader.SmartImageView
+            id="@+id/egd"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+    </FrameLayout>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        layout_gravity="center"
+        id="@+id/gm2"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</FrameLayout>

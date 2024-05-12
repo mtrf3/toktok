@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="true"
+        drawable="@drawable/cs5"/>
+    <item
+        state_enabled="false"
+        drawable="@drawable/cs4"/>
+</selector>

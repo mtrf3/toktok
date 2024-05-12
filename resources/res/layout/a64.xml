@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent"
+    animateLayoutChanges="true">
+    <X.C223338pd
+        layout_gravity="center_horizontal"
+        id="@+id/kfk"
+        visibility="gone"
+        layout_width="36dp"
+        layout_height="36dp"
+        layout_marginTop="40dp"/>
+    <X.C73305Spp
+        layout_gravity="center_horizontal"
+        id="@+id/cyv"
+        visibility="gone"
+        layout_width="300dp"
+        layout_height="300dp"
+        NOT_FOUND_0x7="1"/>
+</FrameLayout>

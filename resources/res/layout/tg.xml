@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <View
+        id="@+id/ccz"
+        layout_width="8dp"
+        layout_height="28dp"
+        layout_centerHorizontal="true"/>
+    <X.C2S9
+        id="@+id/gyj"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        maxWidth="500dp"
+        layout_toStartOf="@+id/ccz"
+        layout_alignParentStart="true"
+        NOT_FOUND_0x9="1"
+        NOT_FOUND_0xa="1"/>
+    <X.C2S9
+        id="@+id/hy_"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        maxWidth="500dp"
+        layout_toEndOf="@+id/ccz"
+        layout_alignParentEnd="true"
+        NOT_FOUND_0x9="1"
+        NOT_FOUND_0xa="0"/>
+</RelativeLayout>

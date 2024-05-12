@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.android.live.design.view.icon.LiveIconView
+    layout_width="24dp"
+    layout_height="24dp"
+    scaleType="centerInside"
+    contentDescription="@null"
+    NOT_FOUND_0x4="@color/mu"/>

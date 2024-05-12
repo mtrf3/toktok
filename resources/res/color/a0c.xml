@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="false"
+        color="?attr/bm9"/>
+    <item
+        state_pressed="true"
+        color="?attr/bnd"/>
+    <item color="?attr/bnd"/>
+</selector>

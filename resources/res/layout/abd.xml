@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.AnonymousClass375
+        id="@+id/gj2"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <X.NRW
+        id="@+id/fti"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <X.C59948Nfs
+        id="@+id/pw"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginBottom="8dp"/>
+    <X.C59948Nfs
+        id="@+id/qt"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginBottom="2dp"/>
+    <X.C163386b8
+        id="@+id/cfa"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <X.C218518hr
+        id="@+id/gu5"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</LinearLayout>

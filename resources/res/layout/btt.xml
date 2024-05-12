@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    textAppearance="?attr/bho"
+    gravity="center"
+    layout_width="@dimen/a0t"
+    layout_height="@dimen/a0u"/>

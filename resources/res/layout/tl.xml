@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="50dp"
+    layout_height="62dp">
+    <X.C62354Oda
+        id="@+id/h5s"
+        layout_width="42dp"
+        layout_height="56dp"/>
+    <X.C119594mh
+        layout_gravity="end|bottom"
+        id="@+id/h5t"
+        layout_width="24dp"
+        layout_height="24dp"/>
+</merge>

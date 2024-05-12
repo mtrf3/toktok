@@ -1,0 +1,21 @@
+package com.ss.android.ugc.tools.infosticker.view.internal.main1;
+
+import androidx.lifecycle.GenericLifecycleObserver;
+import androidx.lifecycle.Lifecycle;
+import androidx.lifecycle.LifecycleOwner;
+import androidx.lifecycle.OnLifecycleEvent;
+
+/* loaded from: classes2.dex */
+public final class InfoStickerNewView$1 implements GenericLifecycleObserver {
+    @Override // androidx.lifecycle.LifecycleEventObserver
+    public final void onStateChanged(LifecycleOwner lifecycleOwner, Lifecycle.Event event) {
+        if (event == Lifecycle.Event.ON_DESTROY) {
+            onDestroy();
+        }
+    }
+
+    @OnLifecycleEvent(Lifecycle.Event.ON_DESTROY)
+    public final void onDestroy() {
+        throw null;
+    }
+}

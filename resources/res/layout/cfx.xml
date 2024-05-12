@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        layout_gravity="center"
+        id="@+id/aev"
+        layout_width="0dp"
+        layout_height="0dp">
+        <X.KLS
+            id="@+id/hoo"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            alpha="0"/>
+        <X.KHZ
+            id="@+id/bzz"
+            visibility="gone"
+            layout_width="0dp"
+            layout_height="0dp"
+            NOT_FOUND_0x6="@+id/hoo"
+            NOT_FOUND_0x7="@+id/hoo"
+            NOT_FOUND_0x8="@+id/hoo"
+            NOT_FOUND_0x9="@+id/hoo"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    paddingStart="16dp"
+    paddingEnd="16dp">
+    <FrameLayout
+        layout_width="match_parent"
+        layout_height="wrap_content">
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/af9"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+        <LinearLayout
+            id="@+id/hvs"
+            padding="12dp"
+            layout_width="match_parent"
+            layout_height="wrap_content">
+            <com.bytedance.tux.icon.TuxIconView
+                id="@+id/e_q"
+                layout_width="16dp"
+                layout_height="16dp"
+                NOT_FOUND_0xb="@raw/icon_shield_plus_fill"
+                NOT_FOUND_0xc="?attr/gv"/>
+            <com.bytedance.tux.input.TuxTextView
+                id="@+id/hvy"
+                layout_width="0dp"
+                layout_height="wrap_content"
+                layout_weight="1"
+                layout_marginStart="12dp"
+                NOT_FOUND_0xa="61"
+                NOT_FOUND_0xc="?attr/gv"/>
+            <com.bytedance.tux.icon.TuxIconView
+                layout_gravity="end"
+                id="@+id/a7n"
+                paddingTop="2dp"
+                layout_width="16dp"
+                layout_height="18dp"
+                layout_marginStart="8dp"
+                NOT_FOUND_0xb="@raw/icon_chevron_right_offset_ltr"
+                NOT_FOUND_0xc="?attr/gp"/>
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

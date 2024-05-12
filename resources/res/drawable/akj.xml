@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+    <solid color="?attr/gu"/>
+    <corners radius="2dp"/>
+    <size
+        height="4dp"
+        width="4dp"/>
+</shape>

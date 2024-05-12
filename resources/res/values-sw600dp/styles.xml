@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="y_" parent="@style/gf">
+        <item name="bg1">b88</item>
+        <item name="bgf">dbf</item>
+    </style>
+</resources>

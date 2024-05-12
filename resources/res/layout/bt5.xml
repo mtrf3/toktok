@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="165dp"
+    splitMotionEvents="false"
+    windowEnableSplitTouch="false">
+    <X.C62846OlW
+        id="@+id/b45"
+        background="@color/ao"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <RelativeLayout
+        id="@+id/b44"
+        layout_width="48dp"
+        layout_height="48dp"
+        layout_alignParentEnd="true">
+        <X.C02Y
+            id="@+id/b43"
+            background="@drawable/brf"
+            layout_width="24dp"
+            layout_height="24dp"
+            layout_marginTop="6dp"
+            button="@null"
+            layout_marginEnd="6dp"
+            layout_alignParentEnd="true"/>
+    </RelativeLayout>
+    <FrameLayout
+        id="@+id/b46"
+        background="?attr/d6"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/b4a"
+        layout_width="16dp"
+        layout_height="16dp"
+        layout_marginBottom="6dp"
+        layout_alignParentBottom="true"
+        layout_marginStart="6dp"/>
+</RelativeLayout>

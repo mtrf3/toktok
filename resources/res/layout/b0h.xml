@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/j83"
+    background="?attr/cl"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/de6"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

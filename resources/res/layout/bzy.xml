@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C223338pd
+        id="@+id/chz"
+        layout_width="36dp"
+        layout_height="36dp"
+        NOT_FOUND_0x4="0"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x7="0"/>
+    <View
+        layout_width="match_parent"
+        layout_height="49dp"
+        NOT_FOUND_0x6="@+id/chz"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

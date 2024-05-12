@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        id="@+id/afi"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        text="@string/rms"
+        paddingStart="@dimen/fg"
+        paddingEnd="@dimen/fg"
+        NOT_FOUND_0x8="43"/>
+    <X.AI8
+        id="@+id/afh"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x7="1"/>
+</merge>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_selected="false">
+        <shape shape="oval">
+            <solid color="#26000000"/>
+        </shape>
+    </item>
+    <item state_selected="true">
+        <shape shape="oval">
+            <solid color="@color/c7"/>
+        </shape>
+    </item>
+</selector>

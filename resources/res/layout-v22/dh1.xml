@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    minHeight="8dp">
+    <X.C47121t6
+        textColor="?attr/gp"
+        layout_gravity="center_horizontal"
+        id="@+id/a2f"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="24dp"
+        layout_marginBottom="24dp"
+        text="@string/oiq"
+        layout_marginVertical="24dp"
+        style="@style/a4b"/>
+</FrameLayout>

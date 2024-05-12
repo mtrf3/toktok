@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/fnp"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.JGI
+        layout_gravity="center"
+        id="@+id/l60"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layerType="hardware"/>
+    <FrameLayout
+        layout_gravity="end|bottom"
+        id="@+id/fkf"
+        layout_width="50dp"
+        layout_height="50dp"
+        layout_marginBottom="15dp">
+        <com.bytedance.tux.icon.TuxIconView
+            layout_gravity="end|bottom"
+            id="@+id/f6h"
+            padding="6dp"
+            visibility="gone"
+            layout_width="40dp"
+            layout_height="40dp"
+            NOT_FOUND_0x8="@raw/icon_spinner_normal"
+            NOT_FOUND_0x9="true"
+            NOT_FOUND_0xa="?attr/cl"/>
+    </FrameLayout>
+</FrameLayout>

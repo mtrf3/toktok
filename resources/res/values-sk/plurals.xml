@@ -1,0 +1,3369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">Tvojich avatarov začneme vytvárať o %d minútu.</item>
+        <item quantity="few">Tvojich avatarov začneme vytvárať o %d minúty.</item>
+        <item quantity="many">Tvojich avatarov začneme vytvárať o %d minút.</item>
+        <item quantity="other">Tvojich avatarov začneme vytvárať o %d minút.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">Pokračovať s %d štýlom</item>
+        <item quantity="few">Pokračovať s %d štýlmi</item>
+        <item quantity="many">Pokračovať s %d štýlmi</item>
+        <item quantity="other">Pokračovať s %d štýlmi</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">Vyber aspoň %d ďalšiu fotku s ľudskou tvárou</item>
+        <item quantity="few">Vyber aspoň %d ďalšie fotky s ľudskou tvárou</item>
+        <item quantity="many">Vyber aspoň %d ďalších fotiek s ľudskou tvárou</item>
+        <item quantity="other">Vyber aspoň %d ďalších fotiek s ľudskou tvárou</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">S programom Sharp môžeš vytvárať avatary %d-krát denne</item>
+        <item quantity="few">S programom Sharp môžeš vytvárať avatary %d-krát denne</item>
+        <item quantity="many">S programom Sharp môžeš vytvárať avatary %d-krát denne</item>
+        <item quantity="other">S programom Sharp môžeš vytvárať avatary %d-krát denne</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">S programom Sharp môžeš vytvárať avatary %d-krát týždenne</item>
+        <item quantity="few">S programom Sharp môžeš vytvárať avatary %d-krát týždenne</item>
+        <item quantity="many">S programom Sharp môžeš vytvárať avatary %d-krát týždenne</item>
+        <item quantity="other">S programom Sharp môžeš vytvárať avatary %d-krát týždenne</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">S programom Speedy môžeš vytvárať avatary %d-krát denne</item>
+        <item quantity="few">S programom Speedy môžeš vytvárať avatary %d-krát denne</item>
+        <item quantity="many">S programom Speedy môžeš vytvárať avatary %d-krát denne</item>
+        <item quantity="other">S programom Speedy môžeš vytvárať avatary %d-krát denne</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="one">S programom Speedy môžeš vytvárať avatary %d-krát týždenne</item>
+        <item quantity="few">S programom Speedy môžeš vytvárať avatary %d-krát týždenne</item>
+        <item quantity="many">S programom Speedy môžeš vytvárať avatary %d-krát týždenne</item>
+        <item quantity="other">S programom Speedy môžeš vytvárať avatary %d-krát týždenne</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="one">Môžeš vytvárať avatary %d-krát denne</item>
+        <item quantity="few">Môžeš vytvárať avatary %d-krát denne</item>
+        <item quantity="many">Môžeš vytvárať avatary %d-krát denne</item>
+        <item quantity="other">Môžeš vytvárať avatary %d-krát denne</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="one">Môžeš vytvárať avatary %d-krát týždenne</item>
+        <item quantity="few">Môžeš vytvárať avatary %d-krát týždenne</item>
+        <item quantity="many">Môžeš vytvárať avatary %d-krát týždenne</item>
+        <item quantity="other">Môžeš vytvárať avatary %d-krát týždenne</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="one">Tvojich avatarov začneme vytvárať o %d minútu.</item>
+        <item quantity="few">Tvojich avatarov začneme vytvárať o %d minúty.</item>
+        <item quantity="many">Tvojich avatarov začneme vytvárať o %d minút.</item>
+        <item quantity="other">Tvojich avatarov začneme vytvárať o %d minút.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="one">Máš %d žiadosť</item>
+        <item quantity="few">Máš %d žiadosti</item>
+        <item quantity="many">Máš %d žiadostí</item>
+        <item quantity="other">Máš %d žiadostí</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="one">Máš %d žiadosť</item>
+        <item quantity="few">Máš %d žiadosti</item>
+        <item quantity="many">Máš %d žiadostí</item>
+        <item quantity="other">Máš %d žiadostí</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="one">%d otázka</item>
+        <item quantity="few">%d otázky</item>
+        <item quantity="many">%d otázky</item>
+        <item quantity="other">%d otázok</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="one">Prvé %d dni musia ostatní pridávať príspevky, aby si mohli prezerať tvoje príspevky.</item>
+        <item quantity="few">Prvé %d dni musia ostatní pridávať príspevky, aby si mohli prezerať tvoje príspevky.</item>
+        <item quantity="many">Prvých %d dní musia ostatní pridávať príspevky, aby si mohli prezerať tvoje príspevky.</item>
+        <item quantity="other">Prvých %d dní musia ostatní pridávať príspevky, aby si mohli prezerať tvoje príspevky.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="one">Po %d dni si môžu prezerať tvoje príspevky bez pridávania príspevkov.</item>
+        <item quantity="few">Po %d dňoch si môžu prezerať tvoje príspevky bez pridávania príspevkov.</item>
+        <item quantity="many">Po %d dňoch si môžu prezerať tvoje príspevky bez pridávania príspevkov.</item>
+        <item quantity="other">Po %d dňoch si môžu prezerať tvoje príspevky bez pridávania príspevkov.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="one">Po %d dni môžeš svoje príspevky vidieť len ty.</item>
+        <item quantity="few">Po %d dňoch môžeš svoje príspevky vidieť len ty.</item>
+        <item quantity="many">Po %d dňoch môžeš svoje príspevky vidieť len ty.</item>
+        <item quantity="other">Po %d dňoch môžeš svoje príspevky vidieť len ty.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="one">Prvé %d dni musia ostatní pridávať príspevky, aby si mohli prezerať tvoje príspevky Now.</item>
+        <item quantity="few">Prvé %d dni musia ostatní pridávať príspevky, aby si mohli prezerať tvoje príspevky Now.</item>
+        <item quantity="many">Prvých %d dní musia ostatní pridávať príspevky, aby si mohli prezerať tvoje príspevky Now.</item>
+        <item quantity="other">Prvých %d dní musia ostatní pridávať príspevky, aby si mohli prezerať tvoje príspevky Now.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="one">%d produkt</item>
+        <item quantity="few">%d produkty</item>
+        <item quantity="many">%d produktov</item>
+        <item quantity="other">%d produktov</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="one">Otvoriť fotku od používateľa {username}</item>
+        <item quantity="few">Otvoriť fotky od používateľa {username}</item>
+        <item quantity="many">Otvoriť fotky od používateľa {username}</item>
+        <item quantity="other">Otvoriť fotky od používateľa {username}</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="one">{number} osoba pridala toto video do obľúbených</item>
+        <item quantity="few">{number} osoby pridali toto video do obľúbených</item>
+        <item quantity="many">{number} osôb pridalo toto video do obľúbených</item>
+        <item quantity="other">{number} osôb pridalo toto video do obľúbených</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="one">%d lajk</item>
+        <item quantity="few">%d lajky</item>
+        <item quantity="many">%d lajkov</item>
+        <item quantity="other">%d lajkov</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ miliarda</item>
+        <item quantity="few">%@ miliardy</item>
+        <item quantity="many">%@ miliárd</item>
+        <item quantity="other">%@ miliárd</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ milión</item>
+        <item quantity="few">%@ milióny</item>
+        <item quantity="many">%@ miliónov</item>
+        <item quantity="other">%@ miliónov</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ tisíc</item>
+        <item quantity="few">%@ tisíc</item>
+        <item quantity="many">%@ tisíc</item>
+        <item quantity="other">%@ tisíc</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="one">%d zobrazenie</item>
+        <item quantity="few">%d zobrazenia</item>
+        <item quantity="many">%d zobrazení</item>
+        <item quantity="other">%d zobrazení</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="one">%s video umožňuje komentáre</item>
+        <item quantity="few">%s videá umožňujú komentáre</item>
+        <item quantity="many">%s videí umožňuje komentáre</item>
+        <item quantity="other">%s videí umožňuje komentáre</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="one">%s video neumožňuje komentáre</item>
+        <item quantity="few">%s videá neumožňujú komentáre</item>
+        <item quantity="many">%s videí neumožňuje komentáre</item>
+        <item quantity="other">%s videí neumožňuje komentáre</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="one">kým %d nepovoľuje duet</item>
+        <item quantity="few">kým %d nepovoľujú duet</item>
+        <item quantity="many">kým %d nepovoľuje duet</item>
+        <item quantity="other">kým %d nepovoľuje duet</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="one">Ktokoľvek môže mať Duet s tvojimi videami. %1$d tvoje video Duet umožňuje, %2$s</item>
+        <item quantity="few">Ktokoľvek môže mať Duet s tvojimi videami. %1$d tvoje videá Duet umožňujú, %2$s</item>
+        <item quantity="many">Ktokoľvek môže mať Duet s tvojimi videami. %1$d tvojich videí Duet umožňuje, %2$s</item>
+        <item quantity="other">Ktokoľvek môže mať Duet s tvojimi videami. %1$d tvojich videí Duet umožňuje, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="one">kým %d nepovoľuje duet</item>
+        <item quantity="few">kým %d nepovoľujú duet</item>
+        <item quantity="many">kým %d nepovoľuje duet</item>
+        <item quantity="other">kým %d nepovoľuje duet</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="one">Priatelia môžu mať Duet s tvojimi videami. %1$d tvoje video Duet umožňuje, %2$s</item>
+        <item quantity="few">Priatelia môžu mať Duet s tvojimi videami. %1$d tvoje videá Duet umožňujú, %2$s</item>
+        <item quantity="many">Priatelia môžu mať Duet s tvojimi videami. %1$d tvojich videí Duet umožňuje, %2$s</item>
+        <item quantity="other">Priatelia môžu mať Duet s tvojimi videami. %1$d tvojich videí Duet umožňuje, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="one">kým %d nepovoľuje duet</item>
+        <item quantity="few">kým %d nepovoľujú duet</item>
+        <item quantity="many">kým %d nepovoľuje duet</item>
+        <item quantity="other">kým %d nepovoľuje duet</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="one">Skontroluj, kto môže mať Duet s tvojimi videami. %1$d tvoje video Duet umožňuje, %2$s</item>
+        <item quantity="few">Skontroluj, kto môže mať Duet s tvojimi videami. %1$d tvoje videá Duet umožňujú, %2$s</item>
+        <item quantity="many">Skontroluj, kto môže mať Duet s tvojimi videami. %1$d tvojich videí Duet umožňuje, %2$s</item>
+        <item quantity="other">Skontroluj, kto môže mať Duet s tvojimi videami. %1$d tvojich videí Duet umožňuje, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="one">kým %d nepovoľuje zošitie</item>
+        <item quantity="few">kým %d nepovoľujú zošitie</item>
+        <item quantity="many">kým %d nepovoľuje zošitie</item>
+        <item quantity="other">kým %d nepovoľuje zošitie</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="one">Skontroluj, kto môže vytvoriť Zošitie s tvojimi videami. %1$d tvoje video Zošitie umožňuje, %2$s</item>
+        <item quantity="few">Skontroluj, kto môže vytvoriť Zošitie s tvojimi videami. %1$d tvoje videá Zošitie umožňujú, %2$s</item>
+        <item quantity="many">Skontroluj, kto môže vytvoriť Zošitie s tvojimi videami. %1$d tvojich videí Zošitie umožňuje, %2$s</item>
+        <item quantity="other">Skontroluj, kto môže vytvoriť Zošitie s tvojimi videami. %1$d tvojich videí Zošitie umožňuje, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="one">kým %d nepovoľuje zošitie</item>
+        <item quantity="few">kým %d nepovoľujú zošitie</item>
+        <item quantity="many">kým %d nepovoľuje zošitie</item>
+        <item quantity="other">kým %d nepovoľuje zošitie</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="one">Ktokoľvek môže vytvoriť Zošitie s tvojimi videami. %1$d tvoje video Zošitie umožňuje, %2$s</item>
+        <item quantity="few">Ktokoľvek môže vytvoriť Zošitie s tvojimi videami. %1$d tvoje videá Zošitie umožňujú, %2$s</item>
+        <item quantity="many">Ktokoľvek môže vytvoriť Zošitie s tvojimi videami. %1$d tvojich videí Zošitie umožňuje, %2$s</item>
+        <item quantity="other">Ktokoľvek môže vytvoriť Zošitie s tvojimi videami. %1$d tvojich videí Zošitie umožňuje, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="one">kým %d nepovoľuje zošitie</item>
+        <item quantity="few">kým %d nepovoľujú zošitie</item>
+        <item quantity="many">kým %d nepovoľuje zošitie</item>
+        <item quantity="other">kým %d nepovoľuje zošitie</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="one">Priatelia môžu vytvoriť Zošitie s tvojimi videami. %1$d tvoje video Zošitie umožňuje, %2$s</item>
+        <item quantity="few">Priatelia môžu vytvoriť Zošitie s tvojimi videami. %1$d tvoje videá Zošitie umožňujú, %2$s</item>
+        <item quantity="many">Priatelia môžu vytvoriť Zošitie s tvojimi videami. %1$d tvojich videí Zošitie umožňuje, %2$s</item>
+        <item quantity="other">Priatelia môžu vytvoriť Zošitie s tvojimi videami. %1$d tvojich videí Zošitie umožňuje, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="one">%s video umožňuje Duet</item>
+        <item quantity="few">%s videá umožňujú Duet</item>
+        <item quantity="many">%s videí umožňuje Duet</item>
+        <item quantity="other">%s videí umožňuje Duet</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="one">%s video neumožňuje Duet</item>
+        <item quantity="few">%s videá neumožňujú Duet</item>
+        <item quantity="many">%s videí neumožňuje Duet</item>
+        <item quantity="other">%s videí neumožňuje Duet</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="one">%s video umožňuje Zošitie</item>
+        <item quantity="few">%s videá umožňujú Zošitie</item>
+        <item quantity="many">%s videí umožňuje Zošitie</item>
+        <item quantity="other">%s videí umožňuje Zošitie</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="one">%s video neumožňuje Zošitie</item>
+        <item quantity="few">%s videá neumožňujú Zošitie</item>
+        <item quantity="many">%s videí neumožňuje Zošitie</item>
+        <item quantity="other">%s videí neumožňuje Zošitie</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="one">Aktívny pred %d hodinou</item>
+        <item quantity="few">Aktívny pred %d hodinami</item>
+        <item quantity="many">Aktívny pred %d hodinami</item>
+        <item quantity="other">Aktívny pred %d hodinami</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="one">Aktívny pred %d minútou</item>
+        <item quantity="few">Aktívny pred %d minútami</item>
+        <item quantity="many">Aktívny pred %d minútami</item>
+        <item quantity="other">Aktívny pred %d minútami</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="one">%d časť</item>
+        <item quantity="few">%d časti</item>
+        <item quantity="many">%d častí</item>
+        <item quantity="other">%d častí</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="one">%1$s · %2$d nový príspevok</item>
+        <item quantity="few">%1$s · %2$d nové príspevky</item>
+        <item quantity="many">%1$s · %2$d nových príspevkov</item>
+        <item quantity="other">%1$s · %2$d nových príspevkov</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="one">Importovať %d zvuk</item>
+        <item quantity="few">Importovať %d zvuky</item>
+        <item quantity="many">Importovať %d zvukov</item>
+        <item quantity="other">Importovať %d zvukov</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="one">%2$d videá LIVE | %1$d Príbeh</item>
+        <item quantity="few">%2$d videá LIVE | %1$d Príbehy</item>
+        <item quantity="many">%2$d videí LIVE | %1$d Príbehov</item>
+        <item quantity="other">%2$d videí LIVE | %1$d Príbehov</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="one">%2$d video LIVE | %1$d Príbeh</item>
+        <item quantity="few">%2$d videá LIVE | %1$d Príbeh</item>
+        <item quantity="many">%2$d videa LIVE | %1$d Príbeh</item>
+        <item quantity="other">%2$d videí LIVE | %1$d Príbeh</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="one">%d video LIVE | Príbeh</item>
+        <item quantity="few">%d videá LIVE | Príbeh</item>
+        <item quantity="many">%d videa LIVE | Príbeh</item>
+        <item quantity="other">%d videí LIVE | Príbeh</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="one">%2$d video LIVE | %1$d Príbeh</item>
+        <item quantity="few">%2$d video LIVE | %1$d Príbehy</item>
+        <item quantity="many">%2$d video LIVE | %1$d Príbehov</item>
+        <item quantity="other">%2$d video LIVE | %1$d Príbehov</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="one">%d Príbeh</item>
+        <item quantity="few">%d Príbehy</item>
+        <item quantity="many">%d Príbehov</item>
+        <item quantity="other">%d Príbehov</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="one">%d pozvaný priateľ</item>
+        <item quantity="few">%d pozvaní priatelia</item>
+        <item quantity="many">%d pozvaných priateľov</item>
+        <item quantity="other">%d pozvaných priateľov</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="one">%s video</item>
+        <item quantity="few">%s videá</item>
+        <item quantity="many">%s videí</item>
+        <item quantity="other">%s videí</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="one">%s video pridané</item>
+        <item quantity="few">%s videá pridané</item>
+        <item quantity="many">%s videí pridaných</item>
+        <item quantity="other">%s videí pridaných</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="one">%s pridané video</item>
+        <item quantity="few">%s pridané videá</item>
+        <item quantity="many">%s pridaných videí</item>
+        <item quantity="other">%s pridaných videí</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="one">Pridať video (%d)</item>
+        <item quantity="few">Pridať videá (%d)</item>
+        <item quantity="many">Pridať videá (%d)</item>
+        <item quantity="other">Pridať videá (%d)</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="one">%d rok</item>
+        <item quantity="few">%d roky</item>
+        <item quantity="many">%d rokov</item>
+        <item quantity="other">%d rokov</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="one">%d rok</item>
+        <item quantity="few">%d roky</item>
+        <item quantity="many">%d rokov</item>
+        <item quantity="other">%d rokov</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="one">Máš %d rok?\n\nAk to nie je správne, nemusíš mať ten správny zážitok na platforme TikTok. Možno sa to nebude dať hneď upraviť.</item>
+        <item quantity="few">Máš %d roky?\n\nAk to nie je správne, nemusíš mať ten správny zážitok na platforme TikTok. Možno sa to nebude dať hneď upraviť.</item>
+        <item quantity="many">Máš %d rokov?\n\nAk to nie je správne, nemusíš mať ten správny zážitok na platforme TikTok. Možno sa to nebude dať hneď upraviť.</item>
+        <item quantity="other">Máš %d rokov?\n\nAk to nie je správne, nemusíš mať ten správny zážitok na platforme TikTok. Možno sa to nebude dať hneď upraviť.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="one">Máš %d rok?</item>
+        <item quantity="few">Máš %d roky?</item>
+        <item quantity="many">Máš %d rokov?</item>
+        <item quantity="other">Máš %d rokov?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="one">Zadal/-a si, že máš %d rok. Zadaj skutočný dátum narodenia.</item>
+        <item quantity="few">Zadal/-a si, že máš %d roky. Zadaj skutočný dátum narodenia.</item>
+        <item quantity="many">Zadal/-a si, že máš %d rokov. Zadaj skutočný dátum narodenia.</item>
+        <item quantity="other">Zadal/-a si, že máš %d rokov. Zadaj skutočný dátum narodenia.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="one">%d rok</item>
+        <item quantity="few">%d roky</item>
+        <item quantity="many">%d rokov</item>
+        <item quantity="other">%d rokov</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="one">%d zvuk</item>
+        <item quantity="few">%d zvuky</item>
+        <item quantity="many">%d zvuku</item>
+        <item quantity="other">%d zvukov</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="one">Synchronizuje sa zvuk...</item>
+        <item quantity="few">Synchronizujú sa zvuky...</item>
+        <item quantity="many">Synchronizujú sa zvuky...</item>
+        <item quantity="other">Synchronizujú sa zvuky...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="one">%s zdieľanie</item>
+        <item quantity="few">%s zdieľania</item>
+        <item quantity="many">%s zdieľaní</item>
+        <item quantity="other">%s zdieľaní</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="one">%s zobrazenie</item>
+        <item quantity="few">%s zobrazení</item>
+        <item quantity="many">%s zobrazení</item>
+        <item quantity="other">%s zobrazení</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="one">Hlasové efekty môžu znížiť presnosť</item>
+        <item quantity="few">Hlasové efekty môžu znížiť presnosť</item>
+        <item quantity="many">Hlasové efekty môžu znížiť presnosť</item>
+        <item quantity="other">Hlasové efekty môžu znížiť presnosť</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="one">Nahraj najviac %d súbor</item>
+        <item quantity="few">Nahraj najviac %d súbory</item>
+        <item quantity="many">Nahraj najviac %d súborov</item>
+        <item quantity="other">Nahraj najviac %d súborov</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="one">[num] video</item>
+        <item quantity="few">[num] videí</item>
+        <item quantity="many">[num] videos</item>
+        <item quantity="other">[num] videí</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="one">Táto beta verzia vyprší za %d deň</item>
+        <item quantity="few">Táto beta verzia vyprší za %d dni</item>
+        <item quantity="many">Táto beta verzia vyprší za %d dní</item>
+        <item quantity="other">Táto beta verzia vyprší za %d dní</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="one">Platnosť vyprší o %d deň</item>
+        <item quantity="few">Platnosť vyprší o %d dni</item>
+        <item quantity="many">Platnosť vyprší o %d dní</item>
+        <item quantity="other">Platnosť vyprší o %d dní</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="one">Platnosť vyprší o %d deň</item>
+        <item quantity="few">Platnosť vyprší o %d dni</item>
+        <item quantity="many">Platnosť vyprší o %d dní</item>
+        <item quantity="other">Platnosť vyprší o %d dní</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="one">Platnosť vyprší o %d deň</item>
+        <item quantity="few">Platnosť vyprší o %d dni</item>
+        <item quantity="many">Platnosť vyprší o %d dní</item>
+        <item quantity="other">Platnosť vyprší o %d dní</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="one">Pridať môžeš až %d knihu</item>
+        <item quantity="few">Pridať môžeš až %d knihy</item>
+        <item quantity="many">Pridať môžeš až %d kníh</item>
+        <item quantity="other">Pridať môžeš až %d kníh</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="one">%s klip</item>
+        <item quantity="few">%s klipy</item>
+        <item quantity="many">%s klipov</item>
+        <item quantity="other">%s klipov</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="one">Zobraziť %d ďalšie</item>
+        <item quantity="few">Zobraziť %d ďalšie</item>
+        <item quantity="many">Zobraziť %d ďalších</item>
+        <item quantity="other">Zobraziť %d ďalších</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="one">Zobraziť %d odpoveď</item>
+        <item quantity="few">Zobraziť %d odpovede</item>
+        <item quantity="many">Zobraziť %d odpovedí</item>
+        <item quantity="other">Zobraziť %d odpovedí</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="one">%d mesiac</item>
+        <item quantity="few">%d mesiace</item>
+        <item quantity="many">%d mesiaca</item>
+        <item quantity="other">%d mesiacov</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="one">%d rok</item>
+        <item quantity="few">%d roky</item>
+        <item quantity="many">%d roka</item>
+        <item quantity="other">%d rokov</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="one">Zablokovať účet</item>
+        <item quantity="few">Zablokovať účty</item>
+        <item quantity="many">Zablokovať účty</item>
+        <item quantity="other">Zablokovať účty</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="one">%d účet vybraný.</item>
+        <item quantity="few">%d účty vybrané.</item>
+        <item quantity="many">%d účtov vybraných.</item>
+        <item quantity="other">%d účtov vybraných.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="one">Naraz môžeš vybrať najviac %d účet.</item>
+        <item quantity="few">Naraz môžeš vybrať najviac %d účty.</item>
+        <item quantity="many">Naraz môžeš vybrať najviac %d účtov.</item>
+        <item quantity="other">Naraz môžeš vybrať najviac %d účtov.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="one">Vybral/-a si %d účet na zablokovanie. Zablokované účty nemôžu vidieť tvoj profil ani obsah na sieti TikTok.</item>
+        <item quantity="few">Vybral/-a si %d účty na zablokovanie. Zablokované účty nemôžu vidieť tvoj profil ani obsah na sieti TikTok.</item>
+        <item quantity="many">Vybral/-a si %d účtov na zablokovanie. Zablokované účty nemôžu vidieť tvoj profil ani obsah na sieti TikTok.</item>
+        <item quantity="other">Vybral/-a si %d účtov na zablokovanie. Zablokované účty nemôžu vidieť tvoj profil ani obsah na sieti TikTok.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="one">Zablokovať %d účet?</item>
+        <item quantity="few">Zablokovať %d účty?</item>
+        <item quantity="many">Zablokovať %d účtov?</item>
+        <item quantity="other">Zablokovať %d účtov?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="one">Odstrániť komentár</item>
+        <item quantity="few">Odstrániť komentáre</item>
+        <item quantity="many">Odstrániť komentáre</item>
+        <item quantity="other">Odstrániť komentáre</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="one">Vybral/-a si %d komentár.</item>
+        <item quantity="few">Vybral/-a si %d komentáre.</item>
+        <item quantity="many">Vybral/-a si %d komentárov.</item>
+        <item quantity="other">Vybral/-a si %d komentárov.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="one">Odstrániť %d komentár?</item>
+        <item quantity="few">Odstrániť %d komentáre?</item>
+        <item quantity="many">Odstrániť %d komentárov?</item>
+        <item quantity="other">Odstrániť %d komentárov?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="one">Komentár odstránený</item>
+        <item quantity="few">Komentáre odstránené</item>
+        <item quantity="many">Komentáre odstránené</item>
+        <item quantity="other">Komentáre odstránené</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="one">%d komentár vybraný.</item>
+        <item quantity="few">%d komentáre vybrané.</item>
+        <item quantity="many">%d komentárov vybraných.</item>
+        <item quantity="other">%d komentárov vybraných.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="one">Naraz môžeš vybrať najviac %d komentár.</item>
+        <item quantity="few">Naraz môžeš vybrať najviac %d komentáre.</item>
+        <item quantity="many">Naraz môžeš vybrať najviac %d komentárov.</item>
+        <item quantity="other">Naraz môžeš vybrať najviac %d komentárov.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="one">Nahlásiť komentár</item>
+        <item quantity="few">Nahlásiť komentáre</item>
+        <item quantity="many">Nahlásiť komentáre</item>
+        <item quantity="other">Nahlásiť komentáre</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="one">Nahlasuješ %d komentár. Posúdime tento komentár z hľadiska nevhodného obsahu.</item>
+        <item quantity="few">Nahlasuješ %d komentáre. Posúdime tieto komentára z hľadiska nevhodného obsahu.</item>
+        <item quantity="many">Nahlasuješ %d komentárov. Posúdime tieto komentára z hľadiska nevhodného obsahu.</item>
+        <item quantity="other">Nahlasuješ %d komentárov. Posúdime tieto komentára z hľadiska nevhodného obsahu.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="one">Nahlásiť %d komentár?</item>
+        <item quantity="few">Nahlásiť %d komentáre?</item>
+        <item quantity="many">Nahlásiť %d komentárov?</item>
+        <item quantity="other">Nahlásiť %d komentárov?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="one">Komentár nahlásený</item>
+        <item quantity="few">Komentáre nahlásené</item>
+        <item quantity="many">Komentáre nahlásené</item>
+        <item quantity="other">Komentáre nahlásené</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="one">%s komentár</item>
+        <item quantity="few">%s komentáre</item>
+        <item quantity="many">%s komentára</item>
+        <item quantity="other">%s komentárov</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="one">%s video</item>
+        <item quantity="few">%s videá</item>
+        <item quantity="many">%s videí</item>
+        <item quantity="other">%s videí</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="one">%s používateľ nastavil pripomenutie</item>
+        <item quantity="few">%s používatelia nastavili pripomenutia</item>
+        <item quantity="many">%s používateľa nastavilo pripomenutia</item>
+        <item quantity="other">%s používateľov nastavilo pripomenutia</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="one">%s efekt</item>
+        <item quantity="few">%s efekty</item>
+        <item quantity="many">%s efektov</item>
+        <item quantity="other">%s efektov</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="one">Zobrazenie videa</item>
+        <item quantity="few">Zobrazenia videa</item>
+        <item quantity="many">Zobrazení videa</item>
+        <item quantity="other">Zobrazení videa</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="one">%d %%</item>
+        <item quantity="few">%d %%</item>
+        <item quantity="many">%d %%</item>
+        <item quantity="other">%d %%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="one">Čistý prírastok sledujúceho</item>
+        <item quantity="few">Čistý prírastok sledujúcich</item>
+        <item quantity="many">Čistý prírastok sledujúcich</item>
+        <item quantity="other">Čistý prírastok sledujúcich</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="one">%d %%</item>
+        <item quantity="few">%d %%</item>
+        <item quantity="many">%d %%</item>
+        <item quantity="other">%d %%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="one">Lajk</item>
+        <item quantity="few">Lajky</item>
+        <item quantity="many">Lajkov</item>
+        <item quantity="other">Lajkov</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="one">%d %%</item>
+        <item quantity="few">%d %%</item>
+        <item quantity="many">%d %%</item>
+        <item quantity="other">%d %%</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="one">%s používateľ nastavil pripomenutie</item>
+        <item quantity="few">%s používatelia nastavili pripomenutia</item>
+        <item quantity="many">%s používateľa nastavilo pripomenutia</item>
+        <item quantity="other">%s používateľov nastavilo pripomenutia</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="one">Odstrániť koncept?</item>
+        <item quantity="few">Odstrániť koncepty?</item>
+        <item quantity="many">Odstrániť koncepty?</item>
+        <item quantity="other">Odstrániť koncepty?</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="one">%s príspevok</item>
+        <item quantity="few">%s príspevky</item>
+        <item quantity="many">%s príspevkov</item>
+        <item quantity="other">%s príspevkov</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="one">Nesprávny prístupový kód. Zostáva %d pokus.</item>
+        <item quantity="few">Nesprávny prístupový kód. Zostávajú %d pokusy.</item>
+        <item quantity="many">Nesprávny prístupový kód. Zostáva %d pokusu.</item>
+        <item quantity="other">Nesprávny prístupový kód. Zostáva %d pokusov.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="one">Príliš veľa pokusov. Skús to znova o %d minútu.</item>
+        <item quantity="few">Príliš veľa pokusov. Skús to znova o %d minúty.</item>
+        <item quantity="many">Príliš veľa pokusov. Skús to znova o %d minúty.</item>
+        <item quantity="other">Príliš veľa pokusov. Skús to znova o %d minút.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="one">%d melódia</item>
+        <item quantity="few">%d melódie</item>
+        <item quantity="many">%d melódie</item>
+        <item quantity="other">%d melódií</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="one">%d skladba</item>
+        <item quantity="few">%d skladby</item>
+        <item quantity="many">%d skladby</item>
+        <item quantity="other">%d skladieb</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="one">%d kus</item>
+        <item quantity="few">%d kusy</item>
+        <item quantity="many">%d kusu</item>
+        <item quantity="other">%d kusov</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="one">%d skladba</item>
+        <item quantity="few">%d skladby</item>
+        <item quantity="many">%d skladby</item>
+        <item quantity="other">%d skladieb</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="one">%d zvuk</item>
+        <item quantity="few">%d zvuky</item>
+        <item quantity="many">%d zvuku</item>
+        <item quantity="other">%d zvukov</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="one">%d pieseň</item>
+        <item quantity="few">%d piesne</item>
+        <item quantity="many">%d piesne</item>
+        <item quantity="other">%d piesní</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="one">Odoslať (%d)</item>
+        <item quantity="few">Odoslať (%d)</item>
+        <item quantity="many">Odoslať (%d)</item>
+        <item quantity="other">Odoslať (%d)</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="one">Sleduje: %1$d · Sledovatelia: %2$d</item>
+        <item quantity="few">Sleduje: %1$d · Sledovatelia: %2$d</item>
+        <item quantity="many">Sleduje: %1$d · Sledovatelia: %2$d</item>
+        <item quantity="other">Sleduje: %1$d · Sledovatelia: %2$d</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="one">@ nová zmienka</item>
+        <item quantity="few">@ nové zmienky</item>
+        <item quantity="many">@ nových zmienok</item>
+        <item quantity="other">@ nových zmienok</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="one">poslal/a nové správy.</item>
+        <item quantity="few">poslali nové správy.</item>
+        <item quantity="many">poslali nové správy.</item>
+        <item quantity="other">poslali nové správy.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="one">ti poslal/a nové správy.</item>
+        <item quantity="few">ti poslali nové správy.</item>
+        <item quantity="many">ti poslali nové správy.</item>
+        <item quantity="other">ti poslali nové správy.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="one">Môžeš vybrať najviac %d osobu</item>
+        <item quantity="few">Môžeš vybrať najviac %d osoby</item>
+        <item quantity="many">Môžeš vybrať najviac %d osôb</item>
+        <item quantity="other">Môžeš vybrať najviac %d osôb</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="one">Zahodiť koncept?</item>
+        <item quantity="few">Zahodiť koncepty?</item>
+        <item quantity="many">Zahodiť koncepty?</item>
+        <item quantity="other">Zahodiť koncepty?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="one">Odstrániť koncept?</item>
+        <item quantity="few">Odstrániť koncepty?</item>
+        <item quantity="many">Odstrániť koncepty?</item>
+        <item quantity="other">Odstrániť koncepty?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="one">Koncepty {#} videa</item>
+        <item quantity="few">Koncepty {#} videí</item>
+        <item quantity="many">Koncepty {#} videa</item>
+        <item quantity="other">Koncepty {#} videí</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="one">%1$s a %2$s ďalší dostanú pri uverejnení tohto videa oznámenie.</item>
+        <item quantity="few">%1$s a %2$s ďalší dostanú pri uverejnení tohto videa oznámenie.</item>
+        <item quantity="many">%1$s a %2$s ďalších dostane pri uverejnení tohto videa oznámenie.</item>
+        <item quantity="other">%1$s a %2$s ďalších dostane pri uverejnení tohto videa oznámenie.</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="one">Vyber aspoň %d položku</item>
+        <item quantity="few">Vyber aspoň %d položky</item>
+        <item quantity="many">Vyber aspoň %d položiek</item>
+        <item quantity="other">Vyber aspoň %d položiek</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="one">Následná recenzia o %d deň neskôr</item>
+        <item quantity="few">Následná recenzia o %d dni neskôr</item>
+        <item quantity="many">Následná recenzia o %d dní neskôr</item>
+        <item quantity="other">Následná recenzia o %d dní neskôr</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="one">Končí o %s deň</item>
+        <item quantity="few">Končí o %s dni</item>
+        <item quantity="many">Končí o %s dní</item>
+        <item quantity="other">Končí o %s dní</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="one">%1$s položka, celkom %2$s</item>
+        <item quantity="few">%1$s položky, celkom %2$s</item>
+        <item quantity="many">%1$s položiek, celkom %2$s</item>
+        <item quantity="other">%1$s položiek, celkom %2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="one">Celkom (%s položka)</item>
+        <item quantity="few">Celkom (%s položky)</item>
+        <item quantity="many">Celkom (%s položiek)</item>
+        <item quantity="other">Celkom (%s položiek)</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="one">Upraviť môžeš najviac %d-krát</item>
+        <item quantity="few">Upraviť môžeš najviac %d-krát</item>
+        <item quantity="many">Upraviť môžeš najviac %d-krát</item>
+        <item quantity="other">Upraviť môžeš najviac %d-krát</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="one">Náhľad efektu o %d s</item>
+        <item quantity="few">Náhľad efektu o %d s</item>
+        <item quantity="many">Náhľad efektu o %d s</item>
+        <item quantity="other">Náhľad efektu o %d s</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="one">Označené</item>
+        <item quantity="few">Označené</item>
+        <item quantity="many">Označené</item>
+        <item quantity="other">Označené</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="one">Tohto člena skupiny možno poznáš.</item>
+        <item quantity="few">Týchto členov skupiny možno poznáš.</item>
+        <item quantity="many">Týchto členov skupiny možno poznáš.</item>
+        <item quantity="other">Týchto členov skupiny možno poznáš.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="one">%s video</item>
+        <item quantity="few">%s videá</item>
+        <item quantity="many">%s videí</item>
+        <item quantity="other">%s videí</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="one">%s video pridané</item>
+        <item quantity="few">%s videá pridané</item>
+        <item quantity="many">%s videí pridaných</item>
+        <item quantity="other">%s videí pridaných</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="one">Odstrániť %1$d video z %2$s</item>
+        <item quantity="few">Odstrániť %1$d videá z %2$s</item>
+        <item quantity="many">Odstrániť %1$d videa z %2$s</item>
+        <item quantity="other">Odstrániť %1$d videí z %2$s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="one">%1$d video presunuté do %2$s</item>
+        <item quantity="few">%1$d videá presunuté do %2$s</item>
+        <item quantity="many">%1$d videa presunutého do %2$s</item>
+        <item quantity="other">%1$d videí presunutých do %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="one">%d video odstránené</item>
+        <item quantity="few">%d videá odstránené</item>
+        <item quantity="many">%d videa odstráneného</item>
+        <item quantity="other">%d videí odstránených</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="one">%d nový navrhovaný účet</item>
+        <item quantity="few">%d nové navrhované účty</item>
+        <item quantity="many">%d nových navrhovaných účtov</item>
+        <item quantity="other">%d nových navrhovaných účtov</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="one">Sledovaný/-á %s</item>
+        <item quantity="few">Sledovaný/-á používateľom %s + %d ďalšími</item>
+        <item quantity="many">Sledovaný/-á používateľom %s + %d ďalšími</item>
+        <item quantity="other">Sledovaný/-á používateľom %s + %d ďalšími</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="one">Sleduje %s</item>
+        <item quantity="few">Sleduje %s + %d ďalších</item>
+        <item quantity="many">Sleduje %s + %d ďalších</item>
+        <item quantity="other">Sleduje %s + %d ďalších</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="one">Sleduje {0}, {1} a {2} ďalší</item>
+        <item quantity="few">Sleduje {0}, {1} a {2} ďalší</item>
+        <item quantity="many">Sleduje {0}, {1} a {2} ďalších</item>
+        <item quantity="other">Sleduje {0}, {1} a {2} ďalších</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="one">Sleduje {0} a {2} ďalší</item>
+        <item quantity="few">Sleduje {0} a {2} ďalší</item>
+        <item quantity="many">Sleduje {0} a {2} ďalších</item>
+        <item quantity="other">Sleduje {0} a {2} ďalších</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="one">Sleduje {0}, {1} a {2} ďalší</item>
+        <item quantity="few">Sleduje {0}, {1} a {2} ďalších</item>
+        <item quantity="many">Sleduje {0}, {1} a {2} ďalších</item>
+        <item quantity="other">Sleduje {0}, {1} a {2} ďalších</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="one">Sleduje {0} a {2} ďalší</item>
+        <item quantity="few">Sleduje {0} a {2} ďalších</item>
+        <item quantity="many">Sleduje {0} a {2} ďalších</item>
+        <item quantity="other">Sleduje {0} a {2} ďalších</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="one">Priatelia s {0}, {1} a {2} ďalším</item>
+        <item quantity="few">Priatelia s {0}, {1} a {2} ďalšími</item>
+        <item quantity="many">Priatelia s {0}, {1} a {2} ďalšími</item>
+        <item quantity="other">Priatelia s {0}, {1} a {2} ďalšími</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="one">Priatelia s {0} a {2} ďalším</item>
+        <item quantity="few">Priatelia s {0} a {2} ďalšími</item>
+        <item quantity="many">Priatelia s {0} a {2} ďalšími</item>
+        <item quantity="other">Priatelia s {0} a {2} ďalšími</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="one">{2} spoločné spojenie</item>
+        <item quantity="few">{2} spoločné spojenia</item>
+        <item quantity="many">{2} spoločných spojení</item>
+        <item quantity="other">{2} spoločných spojení</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="one">Priatelia s používateľom %s</item>
+        <item quantity="few">Priatelia s používateľom %s + %d ďalšími</item>
+        <item quantity="many">Priatelia s používateľom %s + %d ďalšími</item>
+        <item quantity="other">Priatelia s používateľom %s + %d ďalšími</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="one">%d nový prípsevok od priateľov</item>
+        <item quantity="few">%d nové príspevky od priateľov</item>
+        <item quantity="many">%d nových príspevkov od priateľov</item>
+        <item quantity="other">%d nových príspevkov od priateľov</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="one">%d člen je teraz aktívny</item>
+        <item quantity="few">%d členovia sú teraz aktívni</item>
+        <item quantity="many">%d člena je teraz aktívneho</item>
+        <item quantity="other">%d členov je teraz aktívnych</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="one">%1$d člen aktívny pred %2$d minútami</item>
+        <item quantity="few">%1$d členovia aktívni pred %2$d minútami</item>
+        <item quantity="many">%1$d člena aktívneho pred %2$d minútami</item>
+        <item quantity="other">%1$d členov aktívnych pred %2$d minútami</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="one">%d člen je dnes aktívny</item>
+        <item quantity="few">%d členovia sú dnes aktívni</item>
+        <item quantity="many">%d člena je dnes aktívneho</item>
+        <item quantity="other">%d členov je dnes aktívnych</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="one">%d člen</item>
+        <item quantity="few">%d členovia</item>
+        <item quantity="many">%d členov</item>
+        <item quantity="other">%d členov</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="one">Nová žiadosť</item>
+        <item quantity="few">Nové žiadosti</item>
+        <item quantity="many">Nové žiadosti</item>
+        <item quantity="other">Nové žiadosti</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="one">%s člen</item>
+        <item quantity="few">%s členovia</item>
+        <item quantity="many">%s členov</item>
+        <item quantity="other">%s členov</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="one">Zobraziť %d ďalšieho člena</item>
+        <item quantity="few">Zobraziť %d ďalších členov</item>
+        <item quantity="many">Zobraziť %d ďalšieho člena</item>
+        <item quantity="other">Zobraziť %d ďalších členov</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="one">%s zobrazenie</item>
+        <item quantity="few">%s zobrazenia</item>
+        <item quantity="many">%s zobrazení</item>
+        <item quantity="other">%s zobrazení</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="one">Sledujúci: %s</item>
+        <item quantity="few">Sledujúci: %s</item>
+        <item quantity="many">Sledujúcich: %s</item>
+        <item quantity="other">Sledujúcich: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="one">Video: %s</item>
+        <item quantity="few">Videá: %s</item>
+        <item quantity="many">Videí: %s</item>
+        <item quantity="other">Videí: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="one">Odoslané používateľovi %s a %d ďalšiemu</item>
+        <item quantity="few">Odoslané používateľovi %s a %d ďalším</item>
+        <item quantity="many">Odoslané používateľovi %s a %d ďalším</item>
+        <item quantity="other">Odoslané používateľovi %s a %d ďalším</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="one">%d príbeh sa nepodarilo nahrať. Bol uložený medzi koncepty.</item>
+        <item quantity="few">%d príbehy sa nepodarilo nahrať. Boli uložené medzi koncepty.</item>
+        <item quantity="many">%d príbehov sa nepodarilo nahrať. Boli uložené medzi koncepty.</item>
+        <item quantity="other">%d príbehov sa nepodarilo nahrať. Boli uložené medzi koncepty.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="one">Fotku sa nepodarilo nahrať. Fotka sa uložila medzi tvoje koncepty.</item>
+        <item quantity="few">Fotky sa nepodarilo nahrať. Fotky sa uložili medzi tvoje koncepty.</item>
+        <item quantity="many">Fotky sa nepodarilo nahrať. Fotky sa uložili medzi tvoje koncepty.</item>
+        <item quantity="other">Fotky sa nepodarilo nahrať. Fotky sa uložili medzi tvoje koncepty.</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="one">%d nálepka</item>
+        <item quantity="few">%d nálepky</item>
+        <item quantity="many">%d nálepky</item>
+        <item quantity="other">%d nálepiek</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="one">ťa zmienil/-a na fotke.</item>
+        <item quantity="few">ťa zmienil/-a na fotkách.</item>
+        <item quantity="many">ťa zmienil/-a na fotkách.</item>
+        <item quantity="other">ťa zmienil/-a na fotkách.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="one">%s nový príspevok</item>
+        <item quantity="few">%s nové príspevky</item>
+        <item quantity="many">%s nových príspevkov</item>
+        <item quantity="other">%s nových príspevkov</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="one">Aktivita</item>
+        <item quantity="few">Aktivity</item>
+        <item quantity="many">Aktivity</item>
+        <item quantity="other">Aktivity</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="one">Sleduj používateľov %1$s, %2$s a %d ďalšieho, ktorých možno poznáš, a pozeraj ich videá.</item>
+        <item quantity="few">Sleduj používateľov %1$s, %2$s a %d ďalších, ktorých možno poznáš, a pozeraj ich videá.</item>
+        <item quantity="many">Sleduj používateľov %1$s, %2$s a %d ďalších, ktorých možno poznáš, a pozeraj ich videá.</item>
+        <item quantity="other">Sleduj používateľov %1$s, %2$s a %d ďalších, ktorých možno poznáš, a pozeraj ich videá.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="one">%d ďalší</item>
+        <item quantity="few">%d ďalší</item>
+        <item quantity="many">%d ďalších</item>
+        <item quantity="other">%d ďalších</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="one">Sleduj používateľov %1$s, %2$s a %3$d ďalšieho, ktorých možno poznáš, a pozeraj ich videá.</item>
+        <item quantity="few">Sleduj používateľov %1$s, %2$s a %3$d ďalších, ktorých možno poznáš, a pozeraj ich videá.</item>
+        <item quantity="many">Sleduj používateľov %1$s, %2$s a %3$d ďalších, ktorých možno poznáš, a pozeraj ich videá.</item>
+        <item quantity="other">Sleduj používateľov %1$s, %2$s a %3$d ďalších, ktorých možno poznáš, a pozeraj ich videá.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="one">Správa</item>
+        <item quantity="few">Správy</item>
+        <item quantity="many">Správy</item>
+        <item quantity="other">Správy</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="one">Nová aktivita</item>
+        <item quantity="few">Nové aktivity</item>
+        <item quantity="many">Nové aktivity</item>
+        <item quantity="other">Nové aktivity</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="one">%s člen</item>
+        <item quantity="few">%s členovia</item>
+        <item quantity="many">%s členov</item>
+        <item quantity="other">%s členov</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="one">%s príspevok</item>
+        <item quantity="few">%s príspevky</item>
+        <item quantity="many">%s príspevkov</item>
+        <item quantity="other">%s príspevkov</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="one">%d kľúčové slovo</item>
+        <item quantity="few">%d kľúčové slová</item>
+        <item quantity="many">%d kľúčového slova</item>
+        <item quantity="other">%d kľúčových slov</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="one">%d video LIVE</item>
+        <item quantity="few">%d videá LIVE</item>
+        <item quantity="many">%d videa LIVE</item>
+        <item quantity="other">%d videí LIVE</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="one">Končí o %s deň</item>
+        <item quantity="few">Končí o %s dni</item>
+        <item quantity="many">Končí o %s dní</item>
+        <item quantity="other">Končí o %s dní</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="one">Vybrať môžeš najviac %1$d súbor médií</item>
+        <item quantity="few">Vybrať môžeš najviac %1$d súbory médií</item>
+        <item quantity="many">Vybrať môžeš najviac %1$d súborov médií</item>
+        <item quantity="other">Vybrať môžeš najviac %1$d súborov médií</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="one">%d žiadosť</item>
+        <item quantity="few">%d žiadosti</item>
+        <item quantity="many">%d žiadostí</item>
+        <item quantity="other">%d žiadosti</item>
+    </plurals>
+    <plurals name="j0">
+        <item quantity="one">%d nové upozornenie</item>
+        <item quantity="few">%d nové upozornenia</item>
+        <item quantity="many">%d new notifications</item>
+        <item quantity="other">%d nových upozornení</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="one">Zrušiť výber skladby ako novej?</item>
+        <item quantity="few">Zrušiť výber skladieb ako nových?</item>
+        <item quantity="many">Zrušiť výber skladieb ako nových?</item>
+        <item quantity="other">Zrušiť výber skladieb ako nových?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="one">Zrušený výber %d skladby ako novej</item>
+        <item quantity="few">Zrušený výber %d skladieb ako nových</item>
+        <item quantity="many">Zrušený výber %d skladieb ako nových</item>
+        <item quantity="other">Zrušený výber %d skladieb ako nových</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="one">%d vydanie</item>
+        <item quantity="few">%d vydania</item>
+        <item quantity="many">%d vydaní</item>
+        <item quantity="other">%d vydaní</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="one">%d interpret</item>
+        <item quantity="few">%d interpreti</item>
+        <item quantity="many">%d interpretov</item>
+        <item quantity="other">%d interpretov</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="one">%d spoločné spojenie</item>
+        <item quantity="few">%d spoločné spojenia</item>
+        <item quantity="many">%d spoločných spojení</item>
+        <item quantity="other">%d spoločných spojení</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="one">%d spoločné spojenie</item>
+        <item quantity="few">%d spoločné spojenia</item>
+        <item quantity="many">%d spoločných spojení</item>
+        <item quantity="other">%d spoločných spojení</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="one">Teraz môžeš nahrávať videá s dĺžkou až %d minúta!</item>
+        <item quantity="few">Teraz môžeš nahrávať videá s dĺžkou až %d min.!</item>
+        <item quantity="many">Teraz môžeš nahrávať videá s dĺžkou až %d min.!</item>
+        <item quantity="other">Teraz môžeš nahrávať videá s dĺžkou až %d min.!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="one">Predstavujeme %d-minútové video</item>
+        <item quantity="few">Predstavujeme %d-minútové videá</item>
+        <item quantity="many">Predstavujeme %d-minútové videá</item>
+        <item quantity="other">Predstavujeme %d-minútové videá</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="one">%d spoločné spojenie</item>
+        <item quantity="few">%d spoločné spojenia</item>
+        <item quantity="many">%d spoločných spojení</item>
+        <item quantity="other">%d spoločných spojení</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="one">%d komentár</item>
+        <item quantity="few">%d komentáre</item>
+        <item quantity="many">%d komentárov</item>
+        <item quantity="other">%d komentárov</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="one">Zobraziť %d komentár</item>
+        <item quantity="few">Zobraziť všetky %d komentáre</item>
+        <item quantity="many">Zobraziť všetkých %d komentárov</item>
+        <item quantity="other">Zobraziť všetkých %d komentárov</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="one">{nickname} a {number_1} ďalší</item>
+        <item quantity="few">{nickname} a {number_1} ďalší</item>
+        <item quantity="many">{nickname} a {number_1} ďalší</item>
+        <item quantity="other">{nickname} a {number_1} ďalší</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="one">{number} priateľ pridal dnešné Now</item>
+        <item quantity="few">{number} priatelia pridali dnešné Now</item>
+        <item quantity="many">{number} priateľpv pridalo dnešné Now</item>
+        <item quantity="other">{number} priateľov pridalo dnešné Now</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="one">%1$s a %2$d ďalší pridali svoje Now</item>
+        <item quantity="few">%1$s a %2$d ďalší pridali svoje Now</item>
+        <item quantity="many">%1$s a%2$d ďalších pridali svoje Now</item>
+        <item quantity="other">%1$s a%2$d ďalších pridali svoje Now</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="one">{nickname} a {number_1} ďalší</item>
+        <item quantity="few">{nickname} a {number_1} ďalší</item>
+        <item quantity="many">{nickname} a {number_1} ďalší</item>
+        <item quantity="other">{nickname} a {number_1} ďalší</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="one">Pridaj sa k {number} priateľovi na TikTok Now a zdieľaj náhodné chvíle</item>
+        <item quantity="few">Pridaj sa k {number} priateľom na TikTok Now a zdieľaj náhodné chvíle</item>
+        <item quantity="many">Pridaj sa k {number} priateľom na TikTok Now a zdieľaj náhodné chvíle</item>
+        <item quantity="other">Pridaj sa k {number} priateľom na TikTok Now a zdieľaj náhodné chvíle</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="one">Pridaj svoje Now v nasledujúcej {number} minúte</item>
+        <item quantity="few">Pridaj svoje Now v nasledujúcich {number} minútach</item>
+        <item quantity="many">Pridaj svoje Now v nasledujúcich {number} minútach</item>
+        <item quantity="other">Pridaj svoje Now v nasledujúcich {number} minútach</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="one">Zostáva %d minúta na pridanie Now.</item>
+        <item quantity="few">Zostávajú %d minúty na pridanie Now.</item>
+        <item quantity="many">Zostáva %d minút na pridanie Now.</item>
+        <item quantity="other">Zostáva %d minút na pridanie Now.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="one">%d spoločný priateľ</item>
+        <item quantity="few">%d spoloční priatelia</item>
+        <item quantity="many">%d spoločných priateľov</item>
+        <item quantity="other">%d spoločných priateľov</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="one">%d lajk</item>
+        <item quantity="few">%d lajky</item>
+        <item quantity="many">%d lajkov</item>
+        <item quantity="other">%d lajkov</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="one">{1}, {2}, {3} a {number} ďalší práve pridali Now.</item>
+        <item quantity="few">{1}, {2}, {3} a {number} ďalší práve pridali Now.</item>
+        <item quantity="many">{1}, {2}, {3} a {number} ďalší práve pridali Now.</item>
+        <item quantity="other">{1}, {2}, {3} a {number} ďalší práve pridali Now.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="one">%d reakcia</item>
+        <item quantity="few">%d reakcie</item>
+        <item quantity="many">%d reakcií</item>
+        <item quantity="other">%d reakcií</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="one">%d zobrazenie</item>
+        <item quantity="few">%d zobrazenia</item>
+        <item quantity="many">%d zobrazení</item>
+        <item quantity="other">%d zobrazení</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="one">%d zobrazenie</item>
+        <item quantity="few">%d zobrazenia</item>
+        <item quantity="many">%d zobrazení</item>
+        <item quantity="other">%d zobrazení</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="one">%1$s a %2$s ďalší</item>
+        <item quantity="few">%1$s a %2$s ďalší</item>
+        <item quantity="many">%1$s a %2$s ďalších</item>
+        <item quantity="other">%1$s a %2$s ďalších</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="one">Tvoj príspevok synchronizovaný z aplikácie Lemon8 zatiaľ nemá zvuk. Pridaj zvuk, aby bol tvoj príspevok pútavejší.</item>
+        <item quantity="few">Tvoje príspevky synchronizované z aplikácie Lemon8 zatiaľ nemajú zvuk. Pridaj zvuk, aby boli tvoje príspevky pútavejšie.</item>
+        <item quantity="many">Tvoje príspevky synchronizované z aplikácie Lemon8 zatiaľ nemajú zvuk. Pridaj zvuk, aby boli tvoje príspevky pútavejšie.</item>
+        <item quantity="other">Tvoje príspevky synchronizované z aplikácie Lemon8 zatiaľ nemajú zvuk. Pridaj zvuk, aby boli tvoje príspevky pútavejšie.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="one">Pridaj zvuk a vylepši svoj príspevok</item>
+        <item quantity="few">Pridaj zvuk a vylepši svoje príspevky</item>
+        <item quantity="many">Pridaj zvuk a vylepši svoje príspevky</item>
+        <item quantity="other">Pridaj zvuk a vylepši svoje príspevky</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="one">lajkoval/-a tvoju fotku.</item>
+        <item quantity="few">lajkoval/-a tvoje fotky.</item>
+        <item quantity="many">lajkoval/-a tvoje fotky.</item>
+        <item quantity="other">lajkoval/-a tvoje fotky.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="one">hlasoval/-a za tvoju fotku.</item>
+        <item quantity="few">hlasoval/-a za tvoje fotky.</item>
+        <item quantity="many">hlasoval/-a za tvoje fotky.</item>
+        <item quantity="other">hlasoval/-a za tvoje fotky.</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="one">%d epizóda</item>
+        <item quantity="few">%d epizódy</item>
+        <item quantity="many">%d epizód</item>
+        <item quantity="other">%d epizód</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="one">%d časť</item>
+        <item quantity="few">%d časti</item>
+        <item quantity="many">%d častí</item>
+        <item quantity="other">%d častí</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="one">Môžeš ho poslať ešte %d-krát</item>
+        <item quantity="few">Môžeš ho poslať ešte %d-krát</item>
+        <item quantity="many">Môžeš ho poslať ešte %d-krát</item>
+        <item quantity="other">Môžeš ho poslať ešte %d-krát</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="one">%d divák požiadal</item>
+        <item quantity="few">%d diváci požiadali</item>
+        <item quantity="many">%d diváka požiadalo</item>
+        <item quantity="other">%d divákov požiadalo</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="one">Prístup bude obnovený o %s deň</item>
+        <item quantity="few">Prístup bude obnovený o %s dni</item>
+        <item quantity="many">Prístup bude obnovený o %s dní</item>
+        <item quantity="other">Prístup bude obnovený o %s dní</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="one">%s Minca od top diváka č. 1</item>
+        <item quantity="few">%s Mince od top diváka č. 1</item>
+        <item quantity="many">%s Mince od top diváka č. 1</item>
+        <item quantity="other">%s Mincí od top diváka č. 1</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="one">%s Minca od top diváka č. 2</item>
+        <item quantity="few">%s Mince od top diváka č. 2</item>
+        <item quantity="many">%s Mince od top diváka č. 2</item>
+        <item quantity="other">%s Mincí od top diváka č. 2</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="one">%s sledujúci</item>
+        <item quantity="few">%s sledujúci</item>
+        <item quantity="many">%s sledujúceho</item>
+        <item quantity="other">%s sledujúcich</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="one">Nakupovať %s dostupnú položku</item>
+        <item quantity="few">Nakupovať {number} dostupné položky</item>
+        <item quantity="many">Nakupovať {number} dostupnej položky</item>
+        <item quantity="other">Nakupovať {number} dostupných položiek</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="one">Nakupovať %s dostupnú položku</item>
+        <item quantity="few">Nakupovať {number} dostupné položky</item>
+        <item quantity="many">Nakupovať {number} dostupnej položky</item>
+        <item quantity="other">Nakupovať {number} dostupných položiek</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="one">%s Minca daná tvorcovi LIVE</item>
+        <item quantity="few">%s Mince dané tvorcovi LIVE</item>
+        <item quantity="many">%s Mince danej tvorcovi LIVE</item>
+        <item quantity="other">%s Mincí daných tvorcovi LIVE</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="one">%s lajk</item>
+        <item quantity="few">%s lajky</item>
+        <item quantity="many">%s lajkov</item>
+        <item quantity="other">%s lajkov</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="one">%s divák</item>
+        <item quantity="few">%s diváci</item>
+        <item quantity="many">%s divákov</item>
+        <item quantity="other">%s divákov</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="one">%s zdieľanie. Zdieľať video</item>
+        <item quantity="few">%s zdieľania. Zdieľať video</item>
+        <item quantity="many">%s zdieľania. Zdieľať video</item>
+        <item quantity="other">%s zdieľaní. Zdieľať video</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="one">%1$s hlas %2$s</item>
+        <item quantity="few">%1$s hlasy %2$s</item>
+        <item quantity="many">%1$s hlasu %2$s</item>
+        <item quantity="other">%1$s hlasov %2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="one">%2$s – počet hlasov: %1$s, %4$s – počet hlasov: %3$s</item>
+        <item quantity="few">%2$s – počet hlasov: %1$s, %4$s – počet hlasov: %3$s</item>
+        <item quantity="many">%2$s – počet hlasov: %1$s, %4$s – počet hlasov: %3$s</item>
+        <item quantity="other">%2$s – počet hlasov: %1$s, %4$s – počet hlasov: %3$s</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="one">O %d minútu</item>
+        <item quantity="few">O %d minúty</item>
+        <item quantity="many">O %d minúty</item>
+        <item quantity="other">O %d minút</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="one">Na zvýšenie úrovne potrebuješ ešte %d skúsenostný bod</item>
+        <item quantity="few">Na zvýšenie úrovne potrebuješ ešte %d skúsenostné body</item>
+        <item quantity="many">Na zvýšenie úrovne potrebuješ ešte %d skúsenostných bodov</item>
+        <item quantity="other">Na zvýšenie úrovne potrebuješ ešte %d skúsenostných bodov</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="one">Tvoje odmeny prejdú do režimu spánku o %d deň</item>
+        <item quantity="few">Tvoje odmeny prejdú do režimu spánku o %d dni</item>
+        <item quantity="many">Tvoje odmeny prejdú do režimu spánku o %d dní</item>
+        <item quantity="other">Tvoje odmeny prejdú do režimu spánku o %d dní</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="one">Ukončiť Vysielanie LIVE? %s divák práve pozerá.</item>
+        <item quantity="few">Ukončiť Vysielanie LIVE? %s diváci práve pozerajú.</item>
+        <item quantity="many">Ukončiť Vysielanie LIVE? %s divákov práve pozerá.</item>
+        <item quantity="other">Ukončiť Vysielanie LIVE? %s divákov práve pozerá.</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="one">Ukončiť Vysielanie LIVE? %s divák práve pozerá.</item>
+        <item quantity="few">Ukončiť Vysielanie LIVE? %s diváci práve pozerajú.</item>
+        <item quantity="many">Ukončiť Vysielanie LIVE? %s divákov práve pozerá.</item>
+        <item quantity="other">Ukončiť Vysielanie LIVE? %s divákov práve pozerá.</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="one">%s nová správa</item>
+        <item quantity="few">%s nové správy</item>
+        <item quantity="many">%s nových správ</item>
+        <item quantity="other">%s nových správ</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="one">Spoluhostil/-a {num} deň v rade</item>
+        <item quantity="few">Spoluhostil/-a {num} dni v rade</item>
+        <item quantity="many">Spoluhostil/-a {num} dňa v rade</item>
+        <item quantity="other">Spoluhostil/-a {num} dní v rade</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="one">Chýba {number} Minca</item>
+        <item quantity="few">Chýbajú {number} Mince</item>
+        <item quantity="many">Chýba {number} Mincí</item>
+        <item quantity="other">Chýba {number} Mincí</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="one">Tvoj najvyšší počet v uplynulých {number} dňoch: {amount} Minca</item>
+        <item quantity="few">Tvoj najvyšší počet v uplynulých {number} dňoch: {amount} Mince</item>
+        <item quantity="many">Tvoj najvyšší počet v uplynulých {number} dňoch: {amount} Mince</item>
+        <item quantity="other">Tvoj najvyšší počet v uplynulých {number} dňoch: {amount} Mincí</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="one">Navrhované: {amount} Minca</item>
+        <item quantity="few">Navrhované: {amount} Mince</item>
+        <item quantity="many">Navrhované: {amount} Mincí</item>
+        <item quantity="other">Navrhované: {amount} Mincí</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="one">Aktuálny stav tvojich Mincí je {number}. Môžeš si dobiť a získať ďalšie Mince.</item>
+        <item quantity="few">Aktuálny stav tvojich Mincí je {number}. Môžeš si dobiť a získať ďalšie Mince.</item>
+        <item quantity="many">Aktuálny stav tvojich Mincí je {number}. Môžeš si dobiť a získať ďalšie Mince.</item>
+        <item quantity="other">Aktuálny stav tvojich Mincí je {number}. Môžeš si dobiť a získať ďalšie Mince.</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="one">Správna odpoveď (%d)</item>
+        <item quantity="few">Správne odpovede (%d)</item>
+        <item quantity="many">Správne odpovede (%d)</item>
+        <item quantity="other">Správne odpovede (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="one">správna odpoveď: %s</item>
+        <item quantity="few">správne odpovede: %s</item>
+        <item quantity="many">správne odpovede: %s</item>
+        <item quantity="other">správne odpovede: %s</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="one">%s divák uhádol��</item>
+        <item quantity="few">%s diváci uhádli ��</item>
+        <item quantity="many">%s divákov uhádlo ��</item>
+        <item quantity="other">%s divákov uhádlo ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="one">Väčšina divákov uhádla %s slovo</item>
+        <item quantity="few">Väčšina divákov uhádla %s slová</item>
+        <item quantity="many">Väčšina divákov uhádla %s slov</item>
+        <item quantity="other">Väčšina divákov uhádla %s slov</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="one">Žiadny divák slovo neuhádol</item>
+        <item quantity="few">Žiadny divák slová neuhádol</item>
+        <item quantity="many">Žiadny divák slová neuhádol</item>
+        <item quantity="other">Žiadny divák slová neuhádol</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="one">%s minúta na nakreslenie slova</item>
+        <item quantity="few">%s minúty na nakreslenie slova</item>
+        <item quantity="many">%s minút na nakreslenie slova</item>
+        <item quantity="other">%s minút na nakreslenie slova</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="one">�� %d divák uhádol %s</item>
+        <item quantity="few">�� %d diváci uhádli %s</item>
+        <item quantity="many">�� %d divákov uhádlo %s</item>
+        <item quantity="other">�� %d divákov uhádlo %s</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="one">Uhádol/uhádla som %s slovo!</item>
+        <item quantity="few">Uhádol/uhádla som %s slová!</item>
+        <item quantity="many">Uhádol/uhádla som %s slov!</item>
+        <item quantity="other">Uhádol/uhádla som %s slov!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="one">Uhádol/uhádla si %s slovo</item>
+        <item quantity="few">Uhádol/uhádla si %s slová</item>
+        <item quantity="many">Uhádol/uhádla si %s slov</item>
+        <item quantity="other">Uhádol/uhádla si %s slov</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="one">{0:string} a {1:string} ďalší kupujúci nakupujú</item>
+        <item quantity="few">{0:string} a {1:string} ďalší kupujúci nakupujú</item>
+        <item quantity="many">{0:string} a {1:string} ďalších kupujúcich nakupuje</item>
+        <item quantity="other">{0:string} a {1:string} ďalších kupujúcich nakupuje</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="one">%d obrázok je príliš malý. Obrázky musía mať aspoň 256 x 256 pixelov.</item>
+        <item quantity="few">%d obrázky sú príliš malé. Obrázky musía mať aspoň 256 x 256 pixelov.</item>
+        <item quantity="many">%d obrázkov je príliš malých. Obrázky musía mať aspoň 256 x 256 pixelov.</item>
+        <item quantity="other">%d obrázkov je príliš malých. Obrázky musía mať aspoň 256 x 256 pixelov.</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="one">%d divák</item>
+        <item quantity="few">%d diváci</item>
+        <item quantity="many">%d divákov</item>
+        <item quantity="other">%d divákov</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="one">Máš %d Mincu.</item>
+        <item quantity="few">Máš %d Mince.</item>
+        <item quantity="many">Máš %d Mincí.</item>
+        <item quantity="other">Máš %d Mincí.</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="one">Môžeš zameniť %@ za %d ďalšiu Mincu a poslať tento Darček.</item>
+        <item quantity="few">Môžeš zameniť %@ za %d ďalšie Mince a poslať tento Darček.</item>
+        <item quantity="many">Môžeš zameniť %@ za %d ďalších Mincí a poslať tento Darček.</item>
+        <item quantity="other">Môžeš zameniť %@ za %d ďalších Mincí a poslať tento Darček.</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="one">Zostatok darčekov LIVE vymenený za {{num}} mincu</item>
+        <item quantity="few">Zostatok darčekov LIVE vymenený za {{num}} mince</item>
+        <item quantity="many">Zostatok darčekov LIVE vymenený za {{num}} mincí</item>
+        <item quantity="other">Zostatok darčekov LIVE vymenený za {{num}} mincí</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="one">Chýba ti %1$d Minca. Vymeniť %2$s za Mince a odoslať %3$s?</item>
+        <item quantity="few">Chýbajú ti %1$d Mince. Vymeniť %2$s za Mince a odoslať %3$s?</item>
+        <item quantity="many">Chýba ti %1$d Mince. Vymeniť %2$s za Mince a odoslať %3$s?</item>
+        <item quantity="other">Chýba ti %1$d Mincí. Vymeniť %2$s za Mince a odoslať %3$s?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="one">Zamenil/-a si za %d Mincu a odoslal/-a %s</item>
+        <item quantity="few">Zamenil/-a si za %d Mince a odoslal/-a %s</item>
+        <item quantity="many">Zamenil/-a si za %d Mince a odoslal/-a %s</item>
+        <item quantity="other">Zamenil/-a si za %d Mincí a odoslal/-a %s</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="one">%s člen</item>
+        <item quantity="few">%s členovia</item>
+        <item quantity="many">%s člena</item>
+        <item quantity="other">%s členov</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="one">Je s tebou {num} deň</item>
+        <item quantity="few">Je s tebou {num} dni</item>
+        <item quantity="many">Je s tebou {num} dňa</item>
+        <item quantity="other">Je s tebou {num} dní</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="one">Na zachovanie aktívneho stavu získaj 1 členský bod v priebehu {num} hodiny</item>
+        <item quantity="few">Na zachovanie aktívneho stavu získaj 1 členský bod v priebehu {num} hodín</item>
+        <item quantity="many">Na zachovanie aktívneho stavu získaj 1 členský bod v priebehu {num} hodiny</item>
+        <item quantity="other">Na zachovanie aktívneho stavu získaj 1 členský bod v priebehu {num} hodín</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="one">Môže byť odoslané za %1$d Mincu ešte %2$d-krát.</item>
+        <item quantity="few">Môže byť odoslané za %1$d Mincu ešte %2$d-krát.</item>
+        <item quantity="many">Môže byť odoslané za %1$d Mincu ešte %2$d-krát.</item>
+        <item quantity="other">Môže byť odoslané za %1$d Mincu ešte %2$d-krát.</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="one">%d sledujúci teraz aktívny</item>
+        <item quantity="few">%d sledujúci teraz aktívni</item>
+        <item quantity="many">%d sledujúcich teraz aktívnych</item>
+        <item quantity="other">%d sledujúcich teraz aktívnych</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="one">{number} tvoj priateľ vysiela LIVE! Pozvi ho Vysielať LIVE spolu!</item>
+        <item quantity="few">{number} tvoji priatelia vysielajú LIVE! Pozvi ich Vysielať LIVE spolu!</item>
+        <item quantity="many">{number} tvojich priateľov vysiela LIVE! Pozvi ich Vysielať LIVE spolu!</item>
+        <item quantity="other">{number} tvojich priateľov vysiela LIVE! Pozvi ich Vysielať LIVE spolu!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="one">Dobi si a odomkni {num} Mincu navyše</item>
+        <item quantity="few">Dobi si a odomkni {num} Mince navyše</item>
+        <item quantity="many">Dobi si a odomkni {num} Mince navyše</item>
+        <item quantity="other">Dobi si a odomkni {num} Mincí navyše</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="one">{num} deň</item>
+        <item quantity="few">{num} dni</item>
+        <item quantity="many">{num} dňa</item>
+        <item quantity="other">{num} dní</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="one">Odomknutie {num} Mince</item>
+        <item quantity="few">Odomknutie {num} Mincí</item>
+        <item quantity="many">Odomknutie {num} Mince</item>
+        <item quantity="other">Odomknutie {num} Mincí</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="one">{num} Minca</item>
+        <item quantity="few">{num} Mince</item>
+        <item quantity="many">{num} Mince</item>
+        <item quantity="other">{num} Mincí</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="one">Odomkneš {num} Mincu navyše.</item>
+        <item quantity="few">Odomkneš {num} Mince navyše.</item>
+        <item quantity="many">Odomkneš {num} Mince navyše.</item>
+        <item quantity="other">Odomkneš {num} Mincí navyše.</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="one">Dobi si {num_1} ďalšiu Mincu.</item>
+        <item quantity="few">Dobi si {num_1} ďalšie Mince.</item>
+        <item quantity="many">Dobi si {num_1} ďalšej Mince.</item>
+        <item quantity="other">Dobi si {num_1} ďalších Mincí.</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="one">Dobi si a odomkni {num} Mincu navyše</item>
+        <item quantity="few">Dobi si a odomkni {num} Mince navyše</item>
+        <item quantity="many">Dobi si a odomkni {num} Mince navyše</item>
+        <item quantity="other">Dobi si a odomkni {num} Mincí navyše</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="one">Posledný {number} deň</item>
+        <item quantity="few">Posledné {number} dni</item>
+        <item quantity="many">Posledných {number} dní</item>
+        <item quantity="other">Posledných {number} dní</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="one">Cena hry {gameName} a {number} ďalšej sa zmenila. Ďalšie informácie nájdeš v partnerskom centre.</item>
+        <item quantity="few">Cena hry {gameName} a {number} ďalších sa zmenila. Ďalšie informácie nájdeš v partnerskom centre.</item>
+        <item quantity="many">Cena hry {gameName} a {number} ďalších sa zmenila. Ďalšie informácie nájdeš v partnerskom centre.</item>
+        <item quantity="other">Cena hry {gameName} a {number} ďalších sa zmenila. Ďalšie informácie nájdeš v partnerskom centre.</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="one">Posielanie Darčekov je v tvojom vysielaní LIVE pozastavené na %s deň kvôli porušeniu Podmienok programu.</item>
+        <item quantity="few">Posielanie Darčekov je v tvojom vysielaní LIVE pozastavené na %s dni kvôli porušeniu Podmienok programu.</item>
+        <item quantity="many">Posielanie Darčekov je v tvojom vysielaní LIVE pozastavené na %s dňa kvôli porušeniu Podmienok programu.</item>
+        <item quantity="other">Posielanie Darčekov je v tvojom vysielaní LIVE pozastavené na %s dní kvôli porušeniu Podmienok programu.</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="one">Posielanie Darčekov je v tomto vysielaní LIVE pozastavené a bude obnovené o %s minútu.</item>
+        <item quantity="few">Posielanie Darčekov je v tomto vysielaní LIVE pozastavené a bude obnovené o %s minúty.</item>
+        <item quantity="many">Posielanie Darčekov je v tomto vysielaní LIVE pozastavené a bude obnovené o %s minúty.</item>
+        <item quantity="other">Posielanie Darčekov je v tomto vysielaní LIVE pozastavené a bude obnovené o %s minút.</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="one">Posielanie Darčekov pozastavené na {0} deň.</item>
+        <item quantity="few">Posielanie Darčekov pozastavené na {0} dni.</item>
+        <item quantity="many">Posielanie Darčekov pozastavené na {0} dňa.</item>
+        <item quantity="other">Posielanie Darčekov pozastavené na {0} dní.</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="one">Posielanie Darčekov pozastavené na %s deň</item>
+        <item quantity="few">Posielanie Darčekov pozastavené na %s dni</item>
+        <item quantity="many">Posielanie Darčekov pozastavené na %s dňa</item>
+        <item quantity="other">Posielanie Darčekov pozastavené na %s dní</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="one">Poslať za %d Mincu</item>
+        <item quantity="few">Poslať za %d Mince</item>
+        <item quantity="many">Poslať za %d Mince</item>
+        <item quantity="other">Poslať za %d Mincí</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="one">Dobitie dokončené a teraz máš %d Mincu. Prejav svoju podporu poslaním tohto Darčeka!</item>
+        <item quantity="few">Dobitie dokončené a teraz máš %d Mince. Prejav svoju podporu poslaním tohto Darčeka!</item>
+        <item quantity="many">Dobitie dokončené a teraz máš %d Mince. Prejav svoju podporu poslaním tohto Darčeka!</item>
+        <item quantity="other">Dobitie dokončené a teraz máš %d Mincí. Prejav svoju podporu poslaním tohto Darčeka!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="one">Výmena dokončená a teraz máš %d Mincu. Prejav svoju podporu poslaním tohto Darčeka!</item>
+        <item quantity="few">Výmena dokončená a teraz máš %d Mince. Prejav svoju podporu poslaním tohto Darčeka!</item>
+        <item quantity="many">Výmena dokončená a teraz máš %d Mince. Prejav svoju podporu poslaním tohto Darčeka!</item>
+        <item quantity="other">Výmena dokončená a teraz máš %d Mincí. Prejav svoju podporu poslaním tohto Darčeka!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="one">Používateľ {0:user} poslal darček {1:gift} ({2:string} bod) {3:string}. Ide o jeho vôbec prvý poslaný darček. Vyjadri svoje uznanie!</item>
+        <item quantity="few">Používateľ {0:user} poslal darček {1:gift} ({2:string} body) {3:string}. Ide o jeho vôbec prvý poslaný darček. Vyjadri svoje uznanie!</item>
+        <item quantity="many">Používateľ {0:user} poslal darček {1:gift} ({2:string} bodu) {3:string}. Ide o jeho vôbec prvý poslaný darček. Vyjadri svoje uznanie!</item>
+        <item quantity="other">Používateľ {0:user} poslal darček {1:gift} ({2:string} bodov) {3:string}. Ide o jeho vôbec prvý poslaný darček. Vyjadri svoje uznanie!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="one">Používateľ {0:user} poslal darček {1:gift} ({2:string} bod) {3:string}</item>
+        <item quantity="few">Používateľ {0:user} poslal darček {1:gift} ({2:string} body) {3:string}</item>
+        <item quantity="many">Používateľ {0:user} poslal darček {1:gift} ({2:string} bodu) {3:string}</item>
+        <item quantity="other">Používateľ {0:user} poslal darček {1:gift} ({2:string} bodov) {3:string}</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="one">Používateľ {0:user} poslal darček {1:gift} ({2:string} bod) {3:string}</item>
+        <item quantity="few">Používateľ {0:user} poslal darček {1:gift} ({2:string} body) {3:string}</item>
+        <item quantity="many">Používateľ {0:user} poslal darček {1:gift} ({2:string} bodu) {3:string}</item>
+        <item quantity="other">Používateľ {0:user} poslal darček {1:gift} ({2:string} bodov) {3:string}</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="one">Používateľ {0:user} poslal darček {1:gift} ({2:string} bod) {3:string} a s tvorcom navštívil {4:city} po prvýkrát počas tejto cesty!</item>
+        <item quantity="few">Používateľ {0:user} poslal darček {1:gift} ({2:string} body) {3:string} a s tvorcom navštívil {4:city} po prvýkrát počas tejto cesty!</item>
+        <item quantity="many">Používateľ {0:user} poslal darček {1:gift} ({2:string} bodu) {3:string} a s tvorcom navštívil {4:city} po prvýkrát počas tejto cesty!</item>
+        <item quantity="other">Používateľ {0:user} poslal darček {1:gift} ({2:string} bodov) {3:string} a s tvorcom navštívil {4:city} po prvýkrát počas tejto cesty!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="one">Podrobnosti o darčekoch ({{num}}) transakcia celkom</item>
+        <item quantity="few">Podrobnosti o darčekoch ({{num}}) transakcie celkom</item>
+        <item quantity="many">Podrobnosti o darčekoch ({{num}}) transakcií celkom</item>
+        <item quantity="other">Podrobnosti o darčekoch ({{num}}) transakcií celkom</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="one">{amount} Minca</item>
+        <item quantity="few">{amount} Mince</item>
+        <item quantity="many">{amount} Mince</item>
+        <item quantity="other">{amount} Mincí</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="one">Darček</item>
+        <item quantity="few">Darčeky</item>
+        <item quantity="many">Darčekov</item>
+        <item quantity="other">Darčekov</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="one">%d minca</item>
+        <item quantity="few">%d mince</item>
+        <item quantity="many">%d mincí</item>
+        <item quantity="other">%d mincí</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="one">Dostal/-a si %s darček. Nezabudni poďakovať.</item>
+        <item quantity="few">Dostal/-a si %s darčeky. Nezabudni poďakovať.</item>
+        <item quantity="many">Dostal/-a si %s darčekov. Nezabudni poďakovať.</item>
+        <item quantity="other">Dostal/-a si %s darčekov. Nezabudni poďakovať.</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="one">Dostal/-a si %s darček</item>
+        <item quantity="few">Dostal/-a si %s darčeky</item>
+        <item quantity="many">Dostal/-a si %s darčekov</item>
+        <item quantity="other">Dostal/-a si %s darčekov</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="one">Dokončiť zámenu za %s mincu?</item>
+        <item quantity="few">Dokončiť zámenu za %s mince?</item>
+        <item quantity="many">Dokončiť zámenu za %s mincí?</item>
+        <item quantity="other">Dokončiť zámenu za %s mincí?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="one">Vysielať LIVE (%d s)</item>
+        <item quantity="few">Vysielať LIVE (%d s)</item>
+        <item quantity="many">Vysielať LIVE (%d s)</item>
+        <item quantity="other">Vysielať LIVE (%d s)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="one">%s žiadosť hosťa</item>
+        <item quantity="few">%s žiadosti hosťa</item>
+        <item quantity="many">%s žiadostí hosťa</item>
+        <item quantity="other">%s žiadostí hosťa</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="one">%s žiadosť</item>
+        <item quantity="few">%s žiadosti</item>
+        <item quantity="many">%s žiadostí</item>
+        <item quantity="other">%s žiadostí</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="one">%s bod</item>
+        <item quantity="few">%s body</item>
+        <item quantity="many">%s bodu</item>
+        <item quantity="other">%s bodov</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="one">%1$s bod k dosiahnutiu %2$s</item>
+        <item quantity="few">%1$s body k dosiahnutiu %2$s</item>
+        <item quantity="many">%1$s bodu k dosiahnutiu %2$s</item>
+        <item quantity="other">%1$s bodov k dosiahnutiu %2$s</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="one">%d divák posiela žiadosť</item>
+        <item quantity="few">%d diváci posielajú žiadosť</item>
+        <item quantity="many">%d divákov posiela žiadosť</item>
+        <item quantity="other">%d divákov posiela žiadosť</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="one">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d dňa</item>
+        <item quantity="few">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d dní</item>
+        <item quantity="many">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d dní</item>
+        <item quantity="other">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d dní</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="one">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d hod.</item>
+        <item quantity="few">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d hod.</item>
+        <item quantity="many">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d hod.</item>
+        <item quantity="other">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d hod.</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="one">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d min.</item>
+        <item quantity="few">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d min.</item>
+        <item quantity="many">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d min.</item>
+        <item quantity="other">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d min.</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="one">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d s.</item>
+        <item quantity="few">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d s.</item>
+        <item quantity="many">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d s.</item>
+        <item quantity="other">Máš dočasne pozastavené Vysielanie LIVE ako hosť po dobu %d s.</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="one">Nástroj</item>
+        <item quantity="few">Nástroje</item>
+        <item quantity="many">Nástroje</item>
+        <item quantity="other">Nástroje</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="one">[username] a [number] sledujúci ťa štuchli, aby si Vysielal/a LIVE</item>
+        <item quantity="few">[username] a [number] sledujúci ťa štuchli, aby si Vysielal/a LIVE</item>
+        <item quantity="many">[username] a [number] sledujúcich ťa štuchlo, aby si Vysielal/a LIVE</item>
+        <item quantity="other">[username] a [number] sledujúcich ťa štuchlo, aby si Vysielal/a LIVE</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="one">[username] a [number] sledujúci ťa nedávno štuchli, aby si Vysielal/a LIVE</item>
+        <item quantity="few">[username] a [number] sledujúci ťa nedávno štuchli, aby si Vysielal/a LIVE</item>
+        <item quantity="many">[username] a [number] sledujúcich ťa nedávno štuchlo, aby si Vysielal/a LIVE</item>
+        <item quantity="other">[username] a [number] sledujúcich ťa nedávno štuchlo, aby si Vysielal/a LIVE</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="one">Ak prijmeš pozvanie, tento tvorca LIVE sa pridá k tvojmu aktuálnemu spoluhosteniu.</item>
+        <item quantity="few">Ak prijmeš pozvanie, títo tvorcovia Vysielania LIVE sa pridajú k tvojmu aktuálnemu spoluhosteniu.</item>
+        <item quantity="many">Ak prijmeš pozvanie, títo tvorcovia Vysielania LIVE sa pridajú k tvojmu aktuálnemu spoluhosteniu.</item>
+        <item quantity="other">Ak prijmeš pozvanie, títo tvorcovia Vysielania LIVE sa pridajú k tvojmu aktuálnemu spoluhosteniu.</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="one">{number} deň</item>
+        <item quantity="few">{number} dni</item>
+        <item quantity="many">{number} dňa</item>
+        <item quantity="other">{number} dní</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="one">Keď v nasledujúcom kroku odídeš zo stránky, tvoj kupón bude k dispozícii na použitie opäť o {number} deň.</item>
+        <item quantity="other">Keď v nasledujúcom kroku odídeš zo stránky, tvoj kupón bude k dispozícii na použitie opäť o {number} dní.</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="one">Keď v nasledujúcom kroku odídeš zo stránky, tvoj kupón bude k dispozícii na použitie opäť o {number} hodinu.</item>
+        <item quantity="other">Keď v nasledujúcom kroku odídeš zo stránky, tvoj kupón bude k dispozícii na použitie opäť o {number} hodín.</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="one">Keď v nasledujúcom kroku odídeš zo stránky, tvoj kupón bude k dispozícii na použitie opäť o {number} minútu.</item>
+        <item quantity="other">Keď v nasledujúcom kroku odídeš zo stránky, tvoj kupón bude k dispozícii na použitie opäť o {number} minút.</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="one">Kupón bude k dispozícii na použitie opäť o {number} deň</item>
+        <item quantity="other">Kupón bude k dispozícii na použitie opäť o {number} dní</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="one">Kupón bude k dispozícii na použitie opäť o {number} hodinu</item>
+        <item quantity="other">Kupón bude k dispozícii na použitie opäť o {number} hodín</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="one">Kupón bude k dispozícii na použitie opäť o {number} minútu</item>
+        <item quantity="other">Kupón bude k dispozícii na použitie opäť o {number} minút</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="one">%s lajk</item>
+        <item quantity="few">%s lajky</item>
+        <item quantity="many">%s lajkov</item>
+        <item quantity="other">%s lajkov</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="one">lajk</item>
+        <item quantity="few">lajky</item>
+        <item quantity="many">lajkov</item>
+        <item quantity="other">lajkov</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="one">%s lajk</item>
+        <item quantity="few">%s lajky</item>
+        <item quantity="many">%s lajkov</item>
+        <item quantity="other">%s lajkov</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="one">%d s</item>
+        <item quantity="few">%d s</item>
+        <item quantity="many">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="one">Tvoja žiadosť o vysielanie LIVE nebola schválená. Môžeš požiadať znova po %d dni.</item>
+        <item quantity="few">Tvoja žiadosť o vysielanie LIVE nebola schválená. Môžeš požiadať znova po %d dňoch.</item>
+        <item quantity="many">Tvoja žiadosť o vysielanie LIVE nebola schválená. Môžeš požiadať znova po %d dňoch.</item>
+        <item quantity="other">Tvoja žiadosť o vysielanie LIVE nebola schválená. Môžeš požiadať znova po %d dňoch.</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="one">Požiadal/a si o prístup k Vysielaniu LIVE a môžeš Vysielať LIVE nasledujúcich 7 dní. Nezabudni dodržiavať Pravidlá komunity a Vysielať LIVE %d hod. v prvom týždni, aby si získal/a trvalý prístup.</item>
+        <item quantity="few">Požiadal/a si o prístup k Vysielaniu LIVE a môžeš Vysielať LIVE nasledujúcich 7 dní. Nezabudni dodržiavať Pravidlá komunity a Vysielať LIVE %d hod. v prvom týždni, aby si získal/a trvalý prístup.</item>
+        <item quantity="many">Požiadal/a si o prístup k Vysielaniu LIVE a môžeš Vysielať LIVE nasledujúcich 7 dní. Nezabudni dodržiavať Pravidlá komunity a Vysielať LIVE %d hod. v prvom týždni, aby si získal/a trvalý prístup.</item>
+        <item quantity="other">Požiadal/a si o prístup k Vysielaniu LIVE a môžeš Vysielať LIVE nasledujúcich 7 dní. Nezabudni dodržiavať Pravidlá komunity a Vysielať LIVE %d hod. v prvom týždni, aby si získal/a trvalý prístup.</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="one">Vysielaj LIVE %d ďalšiu hodinu do %s a získaj trvalý prístup k Vysielaniu LIVE</item>
+        <item quantity="few">Vysielaj LIVE %d ďalšie hodiny do %s a získaj trvalý prístup k Vysielaniu LIVE</item>
+        <item quantity="many">Vysielaj LIVE %d ďalších hodin do %s a získaj trvalý prístup k Vysielaniu LIVE</item>
+        <item quantity="other">Vysielaj LIVE %d ďalších hodín do %s a získaj trvalý prístup k Vysielaniu LIVE</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="one">Vysielaj LIVE %1$s ďalšiu hodinu do %2$s a získaj trvalý prístup k Vysielaniu LIVE</item>
+        <item quantity="few">Vysielaj LIVE %1$s ďalšie hodiny do %2$s a získaj trvalý prístup k Vysielaniu LIVE</item>
+        <item quantity="many">Vysielaj LIVE %1$s ďalších hodín do %2$s a získaj trvalý prístup k Vysielaniu LIVE</item>
+        <item quantity="other">Vysielaj LIVE %1$s ďalších hodín do %2$s a získaj trvalý prístup k Vysielaniu LIVE</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="one">%s bod</item>
+        <item quantity="few">%s body</item>
+        <item quantity="many">%s bodu</item>
+        <item quantity="other">%s bodov</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="one">{%s host username} potrebuje {%d} Mincu, aby sa za tento týždeň stal tvorcom LIVE č. {%n}!</item>
+        <item quantity="few">{%s host username} potrebuje {%d} Mince, aby sa za tento týždeň stal tvorcom LIVE č. {%n}!</item>
+        <item quantity="many">{%s host username} potrebuje {%d} Mince, aby sa za tento týždeň stal tvorcom LIVE č. {%n}!</item>
+        <item quantity="other">{%s host username} potrebuje {%d} Mincí, aby sa za tento týždeň stal tvorcom LIVE č. {%n}!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="one">Zostáva 1 deň. Získaj ešte {%d} Diamant, staň sa tvorcom LIVE č. 3 a získaj exkluzívny odznak do svojho videa.</item>
+        <item quantity="few">Zostáva 1 deň. Získaj ešte {%d} Diamanty, staň sa tvorcom LIVE č. 3 a získaj exkluzívny odznak do svojho videa.</item>
+        <item quantity="many">Zostáva 1 deň. Získaj ešte {%d} Diamantu, staň sa tvorcom LIVE č. 3 a získaj exkluzívny odznak do svojho videa.</item>
+        <item quantity="other">Zostáva 1 deň. Získaj ešte {%d} Diamantov, staň sa tvorcom LIVE č. 3 a získaj exkluzívny odznak do svojho videa.</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="one">Zostáva 1 deň. Získaj ešte {%d} ďalší Diamant, aby sa tvoje Vysielanie LIVE dostalo k viacerým potenciálnym divákom.</item>
+        <item quantity="few">Zostáva 1 deň. Získaj ešte {%d} ďalšie Diamanty, aby sa tvoje Vysielanie LIVE dostalo k viacerým potenciálnym divákom.</item>
+        <item quantity="many">Zostáva 1 deň. Získaj ešte {%d} ďalšieho Diamantov, aby sa tvoje Vysielanie LIVE dostalo k viacerým potenciálnym divákom.</item>
+        <item quantity="other">Zostáva 1 deň. Získaj ešte {%d} ďalších Diamantov, aby sa tvoje Vysielanie LIVE dostalo k viacerým potenciálnym divákom.</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="one">Zostáva 1 deň. Získaj ešte {%d} Diamant a vyhraj jedinečné odmeny pre tvorcov LIVE!</item>
+        <item quantity="few">Zostáva 1 deň. Získaj ešte {%d} Diamanty a vyhraj jedinečné odmeny pre tvorcov LIVE!</item>
+        <item quantity="many">Zostáva 1 deň. Získaj ešte {%d} Diamantu a vyhraj jedinečné odmeny pre tvorcov LIVE!</item>
+        <item quantity="other">Zostáva 1 deň. Získaj ešte {%d} Diamantov a vyhraj jedinečné odmeny pre tvorcov LIVE!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="one">1 sledujúci teraz aktívny</item>
+        <item quantity="few">%s sledujúci teraz aktívni</item>
+        <item quantity="many">%s sledujúcich teraz aktívnych</item>
+        <item quantity="other">%s sledujúcich teraz aktívnych</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="one">%s minca potrebná</item>
+        <item quantity="few">%s mince potrebné</item>
+        <item quantity="many">%s mincí potrebných</item>
+        <item quantity="other">%s mincí potrebných</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="one">%d predplatiteľ pozerá</item>
+        <item quantity="few">%d predplatitelia pozerajú</item>
+        <item quantity="many">%d predplatiteľov pozerá</item>
+        <item quantity="other">%d predplatiteľov pozerá</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="one">Zostávajú 3 minúty. Získaj ešte {%d} Diamant, staň sa tvorcom LIVE č. 3 a získaj exkluzívny odznak.</item>
+        <item quantity="few">Zostávajú 3 minúty. Získaj ešte {%d} Diamanty, staň sa tvorcom LIVE č. 3 a získaj exkluzívny odznak.</item>
+        <item quantity="many">Zostávajú 3 minúty. Získaj ešte {%d} Diamantu, staň sa tvorcom LIVE č. 3 a získaj exkluzívny odznak.</item>
+        <item quantity="other">Zostávajú 3 minúty. Získaj ešte {%d} Diamantov, staň sa tvorcom LIVE č. 3 a získaj exkluzívny odznak.</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="one">Zostávajú 3 minúty. Získaj ešte {%d} ďalší Diamant, aby sa tvoje Vysielanie LIVE dostalo k viacerým potenciálnym divákom.</item>
+        <item quantity="few">Zostávajú 3 minúty. Získaj ešte {%d} ďalšie Diamanty, aby sa tvoje Vysielanie LIVE dostalo k viacerým potenciálnym divákom.</item>
+        <item quantity="many">Zostávajú 3 minúty. Získaj ešte {%d} ďalších Diamantov, aby sa tvoje Vysielanie LIVE dostalo k viacerým potenciálnym divákom.</item>
+        <item quantity="other">Zostávajú 3 minúty. Získaj ešte {%d} ďalších Diamantov, aby sa tvoje Vysielanie LIVE dostalo k viacerým potenciálnym divákom.</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="one">Zostávajú 3 minúty. Získaj ešte {%d} Diamant a vyhraj jedinečné odmeny pre obľúbených tvorcov LIVE!</item>
+        <item quantity="few">Zostávajú 3 minúty. Získaj ešte {%d} Diamanty a vyhraj jedinečné odmeny pre tvorcov LIVE!</item>
+        <item quantity="many">Zostávajú 3 minúty. Získaj ešte {%d} Diamantu a vyhraj jedinečné odmeny pre tvorcov LIVE!</item>
+        <item quantity="other">Zostávajú 3 minúty. Získaj ešte {%d} Diamantov a vyhraj jedinečné odmeny pre tvorcov LIVE!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="one">%s hodina %d min.</item>
+        <item quantity="few">%s hodiny %d min.</item>
+        <item quantity="many">%s hodín %d min.</item>
+        <item quantity="other">%s hodín %d min.</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="one">Diamant</item>
+        <item quantity="few">Diamanty</item>
+        <item quantity="many">Diamantov</item>
+        <item quantity="other">Diamantov</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="one">zobrazenie</item>
+        <item quantity="few">zobrazenia</item>
+        <item quantity="many">zobrazení</item>
+        <item quantity="other">zobrazení</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="one">Na otázky je možné odpovedať po %s min.</item>
+        <item quantity="few">Na otázky je možné odpovedať po %s min.</item>
+        <item quantity="many">Na otázky je možné odpovedať po %s min.</item>
+        <item quantity="other">Na otázky je možné odpovedať po %s min.</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="one">pred %s hod.</item>
+        <item quantity="few">pred %s hod.</item>
+        <item quantity="many">pred %s hod.</item>
+        <item quantity="other">pred %s hod.</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="one">pred %s min.</item>
+        <item quantity="few">pred %s min.</item>
+        <item quantity="many">pred %s min.</item>
+        <item quantity="other">pred %s min.</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="one">Udalosť %s má začať o 10 minút. %d divák videl tvoju udalosť. Vysielaj LIVE a vyťaž zo svojej propagácie maximum!</item>
+        <item quantity="few">Udalosť %s má začať o 10 minút. %d diváci videli tvoju udalosť. Vysielaj LIVE a vyťaž zo svojej propagácie maximum!</item>
+        <item quantity="many">Udalosť %s má začať o 10 minút. %d divákov videlo tvoju udalosť. Vysielaj LIVE a vyťaž zo svojej propagácie maximum!</item>
+        <item quantity="other">Udalosť %s má začať o 10 minút. %d divákov videlo tvoju udalosť. Vysielaj LIVE a vyťaž zo svojej propagácie maximum!</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="one">Zobraziť %s úlohu s výučbou</item>
+        <item quantity="few">Zobraziť %s úlohy s výučbou</item>
+        <item quantity="many">Zobraziť %s úloh s výučbou</item>
+        <item quantity="other">Zobraziť %s úloh s výučbou</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="one">%d uprednostnená žiadosť od darcov</item>
+        <item quantity="few">%d uprednostnené žiadosti od darcov</item>
+        <item quantity="many">%d uprednostnenej žiadosti od darcov</item>
+        <item quantity="other">%d uprednostnených žiadostí od darcov</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="one">%d minca</item>
+        <item quantity="few">%d mince</item>
+        <item quantity="many">%d mincí</item>
+        <item quantity="other">%d mincí</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="one">Bude ťa to stáť %d Mincu.</item>
+        <item quantity="few">Bude ťa to stáť %d Mince.</item>
+        <item quantity="many">Bude ťa to stáť %d Mince.</item>
+        <item quantity="other">Bude ťa to stáť %d Mincí.</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="one">Poslal/-a si %d Mincu. %s</item>
+        <item quantity="few">Poslal/-a si %d Mince. %s</item>
+        <item quantity="many">Poslal/-a si %d Mince. %s</item>
+        <item quantity="other">Poslal/-a si %d Mincí. %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="one">Tvorca LIVE môže uprednostniť žiadosti od tých, ktorí celkovo odošlú viac ako %d Mincu.</item>
+        <item quantity="few">Tvorca LIVE môže uprednostniť žiadosti od tých, ktorí celkovo odošlú viac ako %d Mince.</item>
+        <item quantity="many">Tvorca LIVE môže uprednostniť žiadosti od tých, ktorí celkovo odošlú viac ako %d Mince.</item>
+        <item quantity="other">Tvorca LIVE môže uprednostniť žiadosti od tých, ktorí celkovo odošlú viac ako %d Mincí.</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="one">Tvorca LIVE môže uprednostniť žiadosti od teba a iných, ktorí celkovo odošlú viac ako %d Mincu.</item>
+        <item quantity="few">Tvorca LIVE môže uprednostniť žiadosti od teba a iných, ktorí celkovo odošlú viac ako %d Mince.</item>
+        <item quantity="many">Tvorca LIVE môže uprednostniť žiadosti od teba a iných, ktorí celkovo odošlú viac ako %d Mince.</item>
+        <item quantity="other">Tvorca LIVE môže uprednostniť žiadosti od teba a iných, ktorí celkovo odošlú viac ako %d Mincí.</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="one">Bude ťa to stáť %d Mincu.</item>
+        <item quantity="few">Bude ťa to stáť %d Mince.</item>
+        <item quantity="many">Bude ťa to stáť %d Mince.</item>
+        <item quantity="other">Bude ťa to stáť %d Mincí.</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="one">Môžeš vyzvať používateľa %1$s, aby si o %2$s sekundu opäť zapol kameru</item>
+        <item quantity="few">Môžeš vyzvať používateľa %1$s, aby si o %2$s sekundy opäť zapol kameru</item>
+        <item quantity="many">Môžeš vyzvať používateľa %1$s, aby si o %2$s sekundy opäť zapol kameru</item>
+        <item quantity="other">Môžeš vyzvať používateľa %1$s, aby si o %2$s sekúnd opäť zapol kameru</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="one">Môžeš vyzvať používateľa %1$s, aby si o %2$s sekundu opäť zapol mikrofón</item>
+        <item quantity="few">Môžeš vyzvať používateľa %1$s, aby si o %2$s sekundy opäť zapol mikrofón</item>
+        <item quantity="many">Môžeš vyzvať používateľa %1$s, aby si o %2$s sekundy opäť zapol mikrofón</item>
+        <item quantity="other">Môžeš vyzvať používateľa %1$s, aby si o %2$s sekúnd opäť zapol mikrofón</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="one">%d minúta</item>
+        <item quantity="few">%d minúty</item>
+        <item quantity="many">%d minút</item>
+        <item quantity="other">%d minút</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekúnd</item>
+        <item quantity="other">%d sekúnd</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="one">%d s.</item>
+        <item quantity="few">%d s.</item>
+        <item quantity="many">%d s.</item>
+        <item quantity="other">%d s.</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="one">%s úloha na splnenie v 1. etape</item>
+        <item quantity="few">%s úlohy na splnenie v 1. etape</item>
+        <item quantity="many">%s úloh na splnenie v 1. etape</item>
+        <item quantity="other">%s úloh na splnenie v 1. etape</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="one">%s úloha na splnenie v 2. etape</item>
+        <item quantity="few">%s úlohy na splnenie v 2. etape</item>
+        <item quantity="many">%s úloh na splnenie v 2. etape</item>
+        <item quantity="other">%s úloh na splnenie v 2. etape</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="one">Môžeš vytvoriť najviac %s vlastnú výhodu. Odstráň vlastnú výhodu, ak chceš vytvoriť novú.</item>
+        <item quantity="few">Môžeš vytvoriť najviac %s vlastné výhody. Odstráň výhodu, ak chceš vytvoriť novú.</item>
+        <item quantity="many">Môžeš vytvoriť najviac %s vlastných výhod. Odstráň výhodu, ak chceš vytvoriť novú.</item>
+        <item quantity="other">Môžeš vytvoriť najviac %s vlastných výhod. Odstráň výhodu, ak chceš vytvoriť novú.</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="one">Anketa sa končí o %s s.</item>
+        <item quantity="few">Anketa sa končí o %s s.</item>
+        <item quantity="many">Anketa sa končí o %s s.</item>
+        <item quantity="other">Anketa sa končí o %s s.</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="one">Hlasovať teraz (%ss):</item>
+        <item quantity="few">Hlasovať teraz (%ss):</item>
+        <item quantity="many">Hlasovať teraz (%ss):</item>
+        <item quantity="other">Hlasovať teraz (%ss):</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="one">Dnes minuté mince: %d.</item>
+        <item quantity="few">Dnes minuté mince: %d.</item>
+        <item quantity="many">Dnes minuté mince: %d.</item>
+        <item quantity="other">Dnes minuté mince: %d.</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="one">Dávaj darčeky pomaly a skús to znova o %d min.</item>
+        <item quantity="few">Dávaj darčeky pomaly a skús to znova o %d min.</item>
+        <item quantity="many">Dávaj darčeky pomaly a skús to znova o %d min.</item>
+        <item quantity="other">Dávaj darčeky pomaly a skús to znova o %d min.</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="one">Portál používateľa {0:user} je zatvorený. {1:string} divák sa pripojil prostredníctvom Portálu.</item>
+        <item quantity="few">Portál používateľa {0:user} je zatvorený. {1:string} diváci sa pripojili prostredníctvom Portálu.</item>
+        <item quantity="many">Portál používateľa {0:user} je zatvorený. {1:string} diváka sa pripojilo prostredníctvom Portálu.</item>
+        <item quantity="other">Portál používateľa {0:user} je zatvorený. {1:string} divákov sa pripojilo prostredníctvom Portálu.</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="one">Portál používateľa {0:user} je zatvorený. {1:string} divák sa pripojil prostredníctvom Portálu. Výborne! ��</item>
+        <item quantity="few">Portál používateľa {0:user} je zatvorený. {1:string} diváci sa pripojili prostredníctvom Portálu. Výborne! ��</item>
+        <item quantity="many">Portál používateľa {0:user} je zatvorený. {1:string} diváka sa pripojilo prostredníctvom Portálu. Výborne! ��</item>
+        <item quantity="other">Portál používateľa {0:user} je zatvorený. {1:string} divákov sa pripojilo prostredníctvom Portálu. Výborne! ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="one">Portál používateľa {0:user} je zatvorený. {1:string} divák sa pripojil prostredníctvom Portálu. Vynikajúco! ��</item>
+        <item quantity="few">Portál používateľa {0:user} je zatvorený. {1:string} diváci sa pripojili prostredníctvom Portálu. Vynikajúco! ��</item>
+        <item quantity="many">Portál používateľa {0:user} je zatvorený. {1:string} diváka sa pripojilo prostredníctvom Portálu. Vynikajúco! ��</item>
+        <item quantity="other">Portál používateľa {0:user} je zatvorený. {1:string} divákov sa pripojilo prostredníctvom Portálu. Vynikajúco! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="one">%s zobrazenie</item>
+        <item quantity="few">%s zobrazenia</item>
+        <item quantity="many">%s zobrazení</item>
+        <item quantity="other">%s zobrazení</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="one">Zakúpená {{num}} minca na webe pre počítač</item>
+        <item quantity="few">Zakúpené {{num}} mince na webe pre počítač</item>
+        <item quantity="many">Zakúpených {{num}} mincí na webe pre počítač</item>
+        <item quantity="other">Zakúpených {{num}} mincí na webe pre počítač</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="one">Zakúpená {{num}} minca v aplikácii</item>
+        <item quantity="few">Zakúpené {{num}} mince v aplikácii</item>
+        <item quantity="many">Zakúpených {{num}} mincí v aplikácii</item>
+        <item quantity="other">Zakúpených {{num}} mincí v aplikácii</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="one">Zakúpená {{num}} minca na mobilnom webe</item>
+        <item quantity="few">Zakúpené {{num}} mince na mobilnom webe</item>
+        <item quantity="many">Zakúpených {{num}} mincí na mobilnom webe</item>
+        <item quantity="other">Zakúpených {{num}} mincí na mobilnom webe</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="one">Skontrolovali sme tvoju námietku a upravili trvanie zrušenia prístupu. Tvoj prístup k Vysielaniu LIVE na PC alebo Mac bude o %s deň obnovený.</item>
+        <item quantity="few">Skontrolovali sme tvoju námietku a upravili trvanie zrušenia prístupu. Tvoj prístup k Vysielaniu LIVE na PC alebo Mac bude o %s dni obnovený.</item>
+        <item quantity="many">Skontrolovali sme tvoju námietku a upravili trvanie zrušenia prístupu. Tvoj prístup k Vysielaniu LIVE na PC alebo Mac bude o %s dní obnovený.</item>
+        <item quantity="other">Skontrolovali sme tvoju námietku a upravili trvanie zrušenia prístupu. Tvoj prístup k Vysielaniu LIVE na PC alebo Mac bude o %s dní obnovený.</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="one">Tvoj prístup k Vysielaniu LIVE na PC alebo zariadení Mac je na %s deň pozastavený z dôvodu viacerých porušení Pravidiel komunity.</item>
+        <item quantity="few">Tvoj prístup k Vysielaniu LIVE na PC alebo Mac je na %s dni pozastavený z dôvodu viacerých porušení Pravidiel komunity.</item>
+        <item quantity="many">Tvoj prístup k Vysielaniu LIVE na PC alebo Mac je na %s dní pozastavený z dôvodu viacerých porušení Pravidiel komunity.</item>
+        <item quantity="other">Tvoj prístup k Vysielaniu LIVE na PC alebo Mac je na %s dní pozastavený z dôvodu viacerých porušení Pravidiel komunity.</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="one">Preskúmali sme tvoje odvolanie a upravili dobu trvania zrušenia prístupu do pokladnice na %s deň.</item>
+        <item quantity="few">Preskúmali sme tvoje odvolanie a upravili dobu trvania zrušenia prístupu do pokladnice na %s dni.</item>
+        <item quantity="many">Preskúmali sme tvoje odvolanie a upravili dobu trvania zrušenia prístupu do pokladnice na %s dní.</item>
+        <item quantity="other">Preskúmali sme tvoje odvolanie a upravili dobu trvania zrušenia prístupu do pokladnice na %s dní.</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="one">Tvoj prístup do Pokladnice je na %s deň pozastavený z dôvodu viacerých porušení Pravidiel komunity.</item>
+        <item quantity="few">Tvoj prístup do Pokladnice je na %s dni pozastavený z dôvodu viacerých porušení Pravidiel komunity.</item>
+        <item quantity="many">Tvoj prístup do Pokladnice je na %s dní pozastavený z dôvodu viacerých porušení Pravidiel komunity.</item>
+        <item quantity="other">Tvoj prístup do Pokladnice je na %s dní pozastavený z dôvodu viacerých porušení Pravidiel komunity.</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="one">V uplynulých 30 dňoch si dostal/a viac než %s Diamant. Pokračuj v dobrej práci a zapoj sa do týždenného poradia.</item>
+        <item quantity="few">V uplynulých 30 dňoch si dostal/a viac než %s Diamanty. Pokračuj v dobrej práci a zapoj sa do týždenného poradia.</item>
+        <item quantity="many">V uplynulých 30 dňoch si dostal/a viac než %s Diamantov. Pokračuj v dobrej práci a zapoj sa do týždenného poradia.</item>
+        <item quantity="other">V uplynulých 30 dňoch si dostal/a viac než %s Diamantov. Pokračuj v dobrej práci a zapoj sa do týždenného poradia.</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="one">Toto poradie ukazuje tvorcov LIVE, ktorí dostali menej než {0:string} Diamant v uplynulých 30 dňoch.</item>
+        <item quantity="few">Toto poradie ukazuje tvorcov LIVE, ktorí dostali menej než {0:string} Diamanty v uplynulých 30 dňoch.</item>
+        <item quantity="many">Toto poradie ukazuje tvorcov LIVE, ktorí dostali menej než {0:string} Diamantu v uplynulých 30 dňoch.</item>
+        <item quantity="other">Toto poradie ukazuje tvorcov LIVE, ktorí dostali menej než {0:string} Diamantov v uplynulých 30 dňoch.</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="one">Posielanie Darčekov pozastavené na %s deň</item>
+        <item quantity="few">Posielanie Darčekov pozastavené na %s dni</item>
+        <item quantity="many">Posielanie Darčekov pozastavené na %s dňa</item>
+        <item quantity="other">Posielanie Darčekov pozastavené na %s dní</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="one">Máš {number_1} Mincu. Môžeš si dobiť {number_2} Mincí ({amount}), aby si mohol/-la položku odoslať.</item>
+        <item quantity="few">Máš {number_1} Mince. Môžeš si dobiť {number_2} Mincí ({amount}), aby si mohol/-la položku odoslať.</item>
+        <item quantity="many">Máš {number_1} Mincí. Môžeš si dobiť {number_2} Mincí ({amount}), aby si mohol/-la položku odoslať.</item>
+        <item quantity="other">Máš {number_1} Mincí. Môžeš si dobiť {number_2} Mincí ({amount}), aby si mohol/-la položku odoslať.</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="one">Chýba %s Minca</item>
+        <item quantity="few">Chýbajú %s Mince</item>
+        <item quantity="many">Chýba %s Mincí</item>
+        <item quantity="other">Chýba %s Mincí</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="one">Dostal/-a si {number} odkaz na pozvánku</item>
+        <item quantity="few">Dostal/-a si {number} odkazy na pozvánku</item>
+        <item quantity="many">Dostal/-a si {number} odkazov na pozvánku</item>
+        <item quantity="other">Dostal/-a si {number} odkazov na pozvánku</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="one">Otvor svoju pozvánku na predplatné od používateľa %s</item>
+        <item quantity="few">Otvor svoju pozvánku na predplatné od používateľa %s a ďalších</item>
+        <item quantity="many">Otvor svoju pozvánku na predplatné od používateľa %s a ďalších</item>
+        <item quantity="other">Otvor svoju pozvánku na predplatné od používateľa %s a ďalších</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="one">Vyžiadané: pred %d min.</item>
+        <item quantity="few">Vyžiadané: pred %d min.</item>
+        <item quantity="many">Vyžiadané: pred %d min.</item>
+        <item quantity="other">Vyžiadané: pred %d min.</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="one">Posielanie Darčekov pozastavené na %s deň</item>
+        <item quantity="few">Posielanie Darčekov pozastavené na %s dni</item>
+        <item quantity="many">Posielanie Darčekov pozastavené na %s dňa</item>
+        <item quantity="other">Posielanie Darčekov pozastavené na %s dní</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="one">Prístup bude obnovený o %s deň.</item>
+        <item quantity="few">Prístup bude obnovený o %s dni.</item>
+        <item quantity="many">Prístup bude obnovený o %s dní.</item>
+        <item quantity="other">Prístup bude obnovený o %s dní.</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="one">Skontrolovali sme tvoje odvolanie a upravili trvanie zrušenia prístupu. Tvoj prístup k Štúdiu LIVE bude do %s dňa obnovený.</item>
+        <item quantity="few">Skontrolovali sme tvoje odvolanie a upravili trvanie zrušenia prístupu. Tvoj prístup k Štúdiu LIVE bude do %s dní obnovený.</item>
+        <item quantity="many">Skontrolovali sme tvoje odvolanie a upravili trvanie zrušenia prístupu. Tvoj prístup k Štúdiu LIVE bude do %s dní obnovený.</item>
+        <item quantity="other">Skontrolovali sme tvoje odvolanie a upravili trvanie zrušenia prístupu. Tvoj prístup k Štúdiu LIVE bude do %s dní obnovený.</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="one">Skontrolovali sme tvoje odvolanie a upravili trvanie zrušenia prístupu. Tvoj prístup k funkcii hrania na mobile bude do %s dňa obnovený.</item>
+        <item quantity="few">Skontrolovali sme tvoje odvolanie a upravili trvanie zrušenia prístupu. Tvoj prístup k funkcii hrania na mobile bude do %s dní obnovený.</item>
+        <item quantity="many">Skontrolovali sme tvoje odvolanie a upravili trvanie zrušenia prístupu. Tvoj prístup k funkcii hrania na mobile bude do %s dní obnovený.</item>
+        <item quantity="other">Skontrolovali sme tvoje odvolanie a upravili trvanie zrušenia prístupu. Tvoj prístup k funkcii hrania na mobile bude do %s dní obnovený.</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="one">Skontrolovali sme tvoju námietku a upravili trvanie zrušenia prístupu. Tvoj prístup k Vysielaniu LIVE na PC alebo Mac bude o %s deň obnovený.</item>
+        <item quantity="few">Skontrolovali sme tvoju námietku a upravili trvanie zrušenia prístupu. Tvoj prístup k Vysielaniu LIVE na PC alebo Mac bude o %s dni obnovený.</item>
+        <item quantity="many">Skontrolovali sme tvoju námietku a upravili trvanie zrušenia prístupu. Tvoj prístup k Vysielaniu LIVE na PC alebo Mac bude o %s dní obnovený.</item>
+        <item quantity="other">Skontrolovali sme tvoju námietku a upravili trvanie zrušenia prístupu. Tvoj prístup k Vysielaniu LIVE na PC alebo Mac bude o %s dní obnovený.</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="one">Tvoj prístup do Štúdia LIVE je na %s deň pozastavený z dôvodu opakovaných porušení pravidiel vysielania LIVE alebo Pravidiel komunity.</item>
+        <item quantity="few">Tvoj prístup do Štúdia LIVE je na %s dni pozastavený z dôvodu opakovaných porušení pravidiel vysielania LIVE alebo Pravidiel komunity.</item>
+        <item quantity="many">Tvoj prístup do Štúdia LIVE je na %s dní pozastavený z dôvodu opakovaných porušení pravidiel vysielania LIVE alebo Pravidiel komunity.</item>
+        <item quantity="other">Tvoj prístup do Štúdia LIVE je na %s dní pozastavený z dôvodu opakovaných porušení pravidiel vysielania LIVE alebo Pravidiel komunity.</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="one">Tvoj prístup k funkcii hrania na mobile je na %s deň pozastavený z dôvodu opakovaných porušení pravidiel vysielania LIVE alebo Pravidiel komunity.</item>
+        <item quantity="few">Tvoj prístup k funkcii hrania na mobile je na %s dni pozastavený z dôvodu opakovaných porušení pravidiel vysielania LIVE alebo Pravidiel komunity.</item>
+        <item quantity="many">Tvoj prístup k funkcii hrania na mobile je na %s dňa pozastavený z dôvodu opakovaných porušení pravidiel vysielania LIVE alebo Pravidiel komunity.</item>
+        <item quantity="other">Tvoj prístup k funkcii hrania na mobile je na %s dní pozastavený z dôvodu opakovaných porušení pravidiel vysielania LIVE alebo Pravidiel komunity.</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="one">Tvoj prístup k funkcii Vysielať LIVE na PC alebo Mac je pozastavený na %s deň z dôvodu opakovaných porušení našich pravidiel Vysielania LIVE alebo Pravidiel komunity.</item>
+        <item quantity="few">Tvoj prístup k funkcii Vysielať LIVE na PC alebo zariadení Mac je pozastavený na %s dni z dôvodu opakovaných porušení našich pravidiel Vysielania LIVE alebo Pravidiel komunity.</item>
+        <item quantity="many">Tvoj prístup k funkcii Vysielať LIVE na PC alebo zariadení Mac je pozastavený na %s dňa z dôvodu opakovaných porušení našich pravidiel Vysielania LIVE alebo Pravidiel komunity.</item>
+        <item quantity="other">Tvoj prístup k funkcii Vysielať LIVE na PC alebo zariadení Mac je pozastavený na %s dní z dôvodu opakovaných porušení našich pravidiel Vysielania LIVE alebo Pravidiel komunity.</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="one">Cieľ: {&lt;num&gt;} darca</item>
+        <item quantity="few">Cieľ: {&lt;num&gt;} darcovia</item>
+        <item quantity="many">Cieľ: {&lt;num&gt;} darcu</item>
+        <item quantity="other">Cieľ: {&lt;num&gt;} darcov</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="one">Cieľ: {&lt;num&gt;} darčekový bod</item>
+        <item quantity="few">Cieľ: {&lt;num&gt;} darčekové body</item>
+        <item quantity="many">Cieľ: {&lt;num&gt;} darčekového bodu</item>
+        <item quantity="other">Cieľ: {&lt;num&gt;} darčekových bodov</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="one">Cieľ: {&lt;num&gt;} tímový darca</item>
+        <item quantity="few">Cieľ: {&lt;num&gt;} tímoví darcovia</item>
+        <item quantity="many">Cieľ: {&lt;num&gt;} tímového darcu</item>
+        <item quantity="other">Cieľ: {&lt;num&gt;} tímových darcov</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="one">Cieľ: {&lt;num&gt;} tímový darčekový bod</item>
+        <item quantity="few">Cieľ: {&lt;num&gt;} tímové darčekové body</item>
+        <item quantity="many">Cieľ: {&lt;num&gt;} tímového darčekového bodu</item>
+        <item quantity="other">Cieľ: {&lt;num&gt;} tímových darčekových bodov</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="one">+ &lt;num&gt; bod v súboji</item>
+        <item quantity="few">+ &lt;num&gt; body v súboji</item>
+        <item quantity="many">+ &lt;num&gt; bodu v súboji</item>
+        <item quantity="other">+ &lt;num&gt; bodov v súboji</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="one">Tvoj komentár uvidí hore %s divák</item>
+        <item quantity="few">Tvoj komentár uvidia hore %s diváci</item>
+        <item quantity="many">Tvoj komentár uvidí hore %s diváka</item>
+        <item quantity="other">Tvoj komentár uvidí hore %s divákov</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="one">Tvoj Hviezdičkový komentár bol odstránený počas vysielania LIVE a peniaze v podobe [0:string] Mince za tento komentár ti vrátime do 24 hodín.</item>
+        <item quantity="few">Tvoj Hviezdičkový komentár bol odstránený počas vysielania LIVE a peniaze v podobe [0:string] Mincí za tento komentár ti vrátime do 24 hodín.</item>
+        <item quantity="many">Tvoj Hviezdičkový komentár bol odstránený počas vysielania LIVE a peniaze v podobe [0:string] Mince za tento komentár ti vrátime do 24 hodín.</item>
+        <item quantity="other">Tvoj Hviezdičkový komentár bol odstránený počas vysielania LIVE a peniaze v podobe [0:string] Mincí za tento komentár ti vrátime do 24 hodín.</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="one">%s Hviezdičkový komentár vo fronte</item>
+        <item quantity="few">%s Hviezdičkové komentáre vo fronte</item>
+        <item quantity="many">%s Hviezdičkového komentára vo fronte</item>
+        <item quantity="other">%s Hviezdičkových komentárov vo fronte</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="one">Tvoje Hviezdičkové komentáre boli nedávno odstránené. Skús to znova o {num} hodinu.</item>
+        <item quantity="few">Tvoje Hviezdičkové komentáre boli nedávno odstránené. Skús to znova o {num} hodiny.</item>
+        <item quantity="many">Tvoje Hviezdičkové komentáre boli nedávno odstránené. Skús to znova o {num} hodiny.</item>
+        <item quantity="other">Tvoje Hviezdičkové komentáre boli nedávno odstránené. Skús to znova o {num} hodín.</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="one">Tvoje Hviezdičkové komentáre boli nedávno odstránené. Skús to znova o {num} minútu.</item>
+        <item quantity="few">Tvoje Hviezdičkové komentáre boli nedávno odstránené. Skús to znova o {num} minúty.</item>
+        <item quantity="many">Tvoje Hviezdičkové komentáre boli nedávno odstránené. Skús to znova o {num} minúty.</item>
+        <item quantity="other">Tvoje Hviezdičkové komentáre boli nedávno odstránené. Skús to znova o {num} minút.</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="one">Koniec o %s deň</item>
+        <item quantity="few">Koniec o %s dni</item>
+        <item quantity="many">Koniec o %s dňa</item>
+        <item quantity="other">Koniec o %s dní</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="one">Počet pozerajúcich divákov: %1$s. Môžeš získať %2$s nového predplatiteľa, ak teraz začneš vysielanie LIVE len pre predplatiteľov.</item>
+        <item quantity="few">Počet pozerajúcich divákov: %1$s. Môžeš získať %2$s nových predplatiteľov, ak teraz začneš vysielanie LIVE len pre predplatiteľov.</item>
+        <item quantity="many">Počet pozerajúcich divákov: %1$s. Môžeš získať %2$s nového predplatiteľa, ak teraz začneš vysielanie LIVE len pre predplatiteľov.</item>
+        <item quantity="other">Počet pozerajúcich divákov: %1$s. Môžeš získať %2$s nových predplatiteľov, ak teraz začneš vysielanie LIVE len pre predplatiteľov.</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="one">Pozerá %s predplatiteľ. Toto je vhodný čas na prehĺbenie tvojho spojenia s komunitou pomocou vysielania LIVE len pre predplatiteľov.</item>
+        <item quantity="few">Pozerajú %s predplatitelia. Toto je vhodný čas na prehĺbenie tvojho spojenia s komunitou pomocou vysielania LIVE len pre predplatiteľov.</item>
+        <item quantity="many">Pozerá %s predplatiteľa. Toto je vhodný čas na prehĺbenie tvojho spojenia s komunitou pomocou vysielania LIVE len pre predplatiteľov.</item>
+        <item quantity="other">Pozerá %s predplatiteľov. Toto je vhodný čas na prehĺbenie tvojho spojenia s komunitou pomocou vysielania LIVE len pre predplatiteľov.</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="one">Každý mesiac môžeš získať %1$s nového predplatiteľa s %2$s minútami vysielania LIVE len pre predplatiteľov.</item>
+        <item quantity="few">Každý mesiac môžeš získať %1$s nových predplatiteľov s %2$s minútami vysielania LIVE len pre predplatiteľov.</item>
+        <item quantity="many">Každý mesiac môžeš získať %1$s nového predplatiteľa s %2$s minútami vysielania LIVE len pre predplatiteľov.</item>
+        <item quantity="other">Každý mesiac môžeš získať %1$s nových predplatiteľov s %2$s minútami vysielania LIVE len pre predplatiteľov.</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="one">Do komentára môžeš pridať najviac %s emotikon</item>
+        <item quantity="few">Do komentára môžeš pridať najviac %s emotikony</item>
+        <item quantity="many">Do komentára môžeš pridať najviac %s emotikonov</item>
+        <item quantity="other">Do komentára môžeš pridať najviac %s emotikonov</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="one">Predplať si a používaj %2$s vlastný emotikon používateľa %1$s</item>
+        <item quantity="few">Predplať si používaj %2$s vlastné emotikony používateľa %1$s</item>
+        <item quantity="many">Predplať si a používaj %2$s vlastných emotikonov používateľa %1$s</item>
+        <item quantity="other">Predplať si a používaj %2$s vlastných emotikonov používateľa %1$s</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="one">Menej než {number} sledujúceho</item>
+        <item quantity="few">Menej než {number} sledujúcich</item>
+        <item quantity="many">Menej než {number} sledujúcich</item>
+        <item quantity="other">Menej než {number} sledujúcich</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="one">Nedá sa pozvať tvorcov s menej ako {number} sledujúcim</item>
+        <item quantity="few">Nedá sa pozvať tvorcov s menej ako {number} sledujúcimi</item>
+        <item quantity="many">Nedá sa pozvať tvorcov s menej ako {number} sledujúcim</item>
+        <item quantity="other">Nedá sa pozvať tvorcov s menej ako {number} sledujúcimi</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="one">Pozvi {number1} ďalšieho tvorcu, ak chceš byť č. {number2}! Len tak ďalej!</item>
+        <item quantity="few">Pozvi {number1} ďalších tvorcov, ak chceš byť č. {number2}! Len tak ďalej!</item>
+        <item quantity="many">Pozvi {number1} ďalších tvorcov, ak chceš byť č. {number2}! Len tak ďalej!</item>
+        <item quantity="other">Pozvi {number1} ďalších tvorcov, ak chceš byť č. {number2}! Len tak ďalej!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="one">Pozvi {number} ďalšieho tvorcu, ak chceš byť č. {rankminusone}! Len tak ďalej!</item>
+        <item quantity="few">Pozvi {number} ďalších tvorcov, ak chceš byť č. {rankminusone}! Len tak ďalej!</item>
+        <item quantity="many">Pozvi {number} ďalších tvorcov, ak chceš byť č. {rankminusone}! Len tak ďalej!</item>
+        <item quantity="other">Pozvi {number} ďalších tvorcov, ak chceš byť č. {rankminusone}! Len tak ďalej!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="one">Môžeš pozvať iba tvorcov s viac ako {number} sledujúcim.</item>
+        <item quantity="few">Môžeš pozvať iba tvorcov s viac ako {number} sledujúcimi.</item>
+        <item quantity="many">Môžeš pozvať iba tvorcov s viac ako {number} sledujúcim.</item>
+        <item quantity="other">Môžeš pozvať iba tvorcov s viac ako {number} sledujúcimi.</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="one">Tvoja aktuálna výhoda môže priniesť o %d%% viac predplatiteľov.</item>
+        <item quantity="few">Tvoja aktuálna výhoda môže priniesť o %d%% viac predplatiteľov.</item>
+        <item quantity="many">Tvoja aktuálna výhoda môže priniesť o %d%% viac predplatiteľov.</item>
+        <item quantity="other">Tvoja aktuálna výhoda môže priniesť o %d%% viac predplatiteľov.</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="one">%1$s si práve zakúpil/-a %2$d-mesačné predplatné!</item>
+        <item quantity="few">%1$s si práve zakúpil/-a %2$d-mesačné predplatné!</item>
+        <item quantity="many">%1$s si práve zakúpil/-a %2$d-mesačné predplatné!</item>
+        <item quantity="other">%1$s si práve zakúpil/-a %2$d-mesačné predplatné!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="one">Zapnúť a vypnúť to môžeš len raz za %s min. Skús to znova neskôr.</item>
+        <item quantity="few">Zapnúť a vypnúť to môžeš len raz za %s min. Skús to znova neskôr.</item>
+        <item quantity="many">Zapnúť a vypnúť to môžeš len raz za %s min. Skús to znova neskôr.</item>
+        <item quantity="other">Zapnúť a vypnúť to môžeš len raz za %s min. Skús to znova neskôr.</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="one">Máš {num} darčekové predplatné. Pošli ho teraz iným!</item>
+        <item quantity="few">Máš {num} darčekové predplatné. Pošli ich teraz iným!</item>
+        <item quantity="many">Máš {num} darčekových predplatných. Pošli ich teraz iným!</item>
+        <item quantity="other">Máš {num} darčekových predplatných. Pošli ich teraz iným!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="one">Zostáva ti %d darčekové predplatné. Pošli ho teraz iným!</item>
+        <item quantity="few">Zostávajú ti %d darčekové predplatné. Pošli ich teraz iným!</item>
+        <item quantity="many">Zostáva ti %d darčekových predplatných. Pošli ich teraz iným!</item>
+        <item quantity="other">Zostáva ti %d darčekových predplatných. Pošli ich teraz iným!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="one">Blahoželáme! Dostávaš [number] darčekové predplatné ako odmenu za aktivitu.</item>
+        <item quantity="few">Blahoželáme! Dostávaš [number] darčekové predplatné ako odmenu za aktivitu.</item>
+        <item quantity="many">Blahoželáme! Dostávaš [number] darčekových predplatných ako odmenu za aktivitu.</item>
+        <item quantity="other">Blahoželáme! Dostávaš [number] darčekových predplatných ako odmenu za aktivitu.</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="one">Spoluhostené pred {num} dňom</item>
+        <item quantity="few">Spoluhostené pred {num} dňami</item>
+        <item quantity="many">Spoluhostené pred {num} dňami</item>
+        <item quantity="other">Spoluhostené pred {num} dňami</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="one">Začal/-a s tebou Vysielať LIVE pred {number} dňom</item>
+        <item quantity="few">Začal/-a s tebou Vysielať LIVE pred {number} dňami</item>
+        <item quantity="many">Začal/-a s tebou Vysielať LIVE pred {number} dňami</item>
+        <item quantity="other">Začal/-a s tebou Vysielať LIVE pred {number} dňami</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="one">Hostil/-a s tebou pred {num} dňom</item>
+        <item quantity="few">Hostil/-a s tebou pred {num} dňami</item>
+        <item quantity="many">Hostil/-a s tebou pred {num} dňami</item>
+        <item quantity="other">Hostil/-a s tebou pred {num} dňami</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="one">Tvoj prístup do Pokladnice je pozastavený. Prístup bude obnovený o %s deň.</item>
+        <item quantity="few">Tvoj prístup do Pokladnice je pozastavený. Prístup bude obnovený po %s dňoch.</item>
+        <item quantity="many">Tvoj prístup do Pokladnice je pozastavený. Prístup bude obnovený po %s dňoch.</item>
+        <item quantity="other">Tvoj prístup do Pokladnice je pozastavený. Prístup bude obnovený po %s dňoch.</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="one">najlepší divák</item>
+        <item quantity="few">najlepší diváci</item>
+        <item quantity="many">najlepších divákov</item>
+        <item quantity="other">najlepších divákov</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="one">Najlepší divák</item>
+        <item quantity="few">Najlepší diváci</item>
+        <item quantity="many">Najlepší diváci</item>
+        <item quantity="other">Najlepší diváci</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="one">Finále sa začne o %s sekundu</item>
+        <item quantity="few">Finále sa začne o %s sekundy</item>
+        <item quantity="many">Finále sa začne o %s sekundy</item>
+        <item quantity="other">Finále sa začne o %s sekúnd</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="one">Finále sa začne o %s deň</item>
+        <item quantity="few">Finále sa začne o %s dni</item>
+        <item quantity="many">Finále sa začne o %s dňa</item>
+        <item quantity="other">Finále sa začne o %s dní</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="one">Finále sa začne o %s hodinu</item>
+        <item quantity="few">Finále sa začne o %s hodiny</item>
+        <item quantity="many">Finále sa začne o %s hodiny</item>
+        <item quantity="other">Finále sa začne o %s hodín</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="one">Finále sa začne o %s minútu</item>
+        <item quantity="few">Finále sa začne o %s minúty</item>
+        <item quantity="many">Finále sa začne o %s minúty</item>
+        <item quantity="other">Finále sa začne o %s minút</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="one">Semifinále sa začne o %s deň</item>
+        <item quantity="few">Semifinále sa začne o %s dni</item>
+        <item quantity="many">Semifinále sa začne o %s dňa</item>
+        <item quantity="other">Semifinále sa začne o %s dní</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="one">Semifinále sa začne o %s hodinu</item>
+        <item quantity="few">Semifinále sa začne o %s hodiny</item>
+        <item quantity="many">Semifinále sa začne o %s hodiny</item>
+        <item quantity="other">Semifinále sa začne o %s hodín</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="one">Semifinále sa začne o %s minútu</item>
+        <item quantity="few">Semifinále sa začne o %s minúty</item>
+        <item quantity="many">Semifinále sa začne o %s minúty</item>
+        <item quantity="other">Semifinále sa začne o %s minút</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="one">Semifinále sa začne o %s sekundu</item>
+        <item quantity="few">Semifinále sa začne o %s sekundy</item>
+        <item quantity="many">Semifinále sa začne o %s sekundy</item>
+        <item quantity="other">Semifinále sa začne o %s sekúnd</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="one">Ešte {0:string} Diamant potrebný na dosiahnutie č. {1:string}</item>
+        <item quantity="few">Ešte {0:string} Diamanty potrebné na dosiahnutie č. {1:string}</item>
+        <item quantity="many">Ešte {0:string} Diamantu potrebného na dosiahnutie č. {1:string}</item>
+        <item quantity="other">Ešte {0:string} Diamantov potrebných na dosiahnutie č. {1:string}</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="one">Ešte {0:string} darca do dosiahnutia č. {1:string}</item>
+        <item quantity="few">Ešte {0:string} darcovia do dosiahnutia č. {1:string}</item>
+        <item quantity="many">Ešte {0:string} darcu do dosiahnutia č. {1:string}</item>
+        <item quantity="other">Ešte {0:string} darcov do dosiahnutia č. {1:string}</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="one">deň</item>
+        <item quantity="few">dni</item>
+        <item quantity="many">dní</item>
+        <item quantity="other">dní</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="one">Zamenil/-a si {amount} za {num} mincu.</item>
+        <item quantity="few">Zamenil/-a si {amount} za {num} mince.</item>
+        <item quantity="many">Zamenil/-a si {amount} za {num} mincí.</item>
+        <item quantity="other">Zamenil/-a si {amount} za {num} mincí.</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="one">Zakúpil/-a si {num} mincu za {amount}.</item>
+        <item quantity="few">Zakúpil/-a si {num} mince za {amount}.</item>
+        <item quantity="many">Zakúpil/-a si {num} mincí za {amount}.</item>
+        <item quantity="other">Zakúpil/-a si {num} mincí za {amount}.</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="one">Zostáva {num} tímový bod do dosiahnutia č. 2</item>
+        <item quantity="few">Zostávajú {num} tímové body do dosiahnutia č. 2</item>
+        <item quantity="many">Zostáva {num} tímového bodu do dosiahnutia č. 2</item>
+        <item quantity="other">Zostáva {num} tímových bodov do dosiahnutia č. 2</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="one">+{num} tímový bod (tímové Darčeky denne: %1$s/%2$s)</item>
+        <item quantity="few">+{num} tímové body (tímové Darčeky denne: %1$s/%2$s)</item>
+        <item quantity="many">+{num} tímového bodu (tímové Darčeky denne: %1$s/%2$s)</item>
+        <item quantity="other">+{num} tímových bodov (tímové Darčeky denne: %1$s/%2$s)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="one">%s divák sa pripojil z vyhľadávania</item>
+        <item quantity="few">%s diváci sa pripojili z vyhľadávania</item>
+        <item quantity="many">%s diváka sa pripojilo z vyhľadávania</item>
+        <item quantity="other">%s divákov sa pripojilo z vyhľadávania</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="one">%1$s tímový bod do dosiahnutia č. %2$s</item>
+        <item quantity="few">%1$s tímové body do dosiahnutia č. %2$s</item>
+        <item quantity="many">%1$s tímového bodu do dosiahnutia č. %2$s</item>
+        <item quantity="other">%1$s tímových bodov do dosiahnutia č. %2$s</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="one">%1$s tímový bod do dosiahnutia č. %2$s</item>
+        <item quantity="few">%1$s tímové body do dosiahnutia č. %2$s</item>
+        <item quantity="many">%1$s tímového bodu do dosiahnutia č. %2$s</item>
+        <item quantity="other">%1$s tímových bodov do dosiahnutia č. %2$s</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="one">Niečo sa pokazilo. Skús to znova o {number} hodinu</item>
+        <item quantity="few">Niečo sa pokazilo. Skús to znova o {number} hodiny</item>
+        <item quantity="many">Niečo sa pokazilo. Skús to znova o {number} hodín</item>
+        <item quantity="other">Niečo sa pokazilo. Skús to znova o {number} hodín</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="one">Niečo sa pokazilo. Vráť sa späť o {number} minútu</item>
+        <item quantity="few">Niečo sa pokazilo. Vráť sa späť o {number} minúty</item>
+        <item quantity="many">Niečo sa pokazilo. Vráť sa späť o {number} minút</item>
+        <item quantity="other">Niečo sa pokazilo. Vráť sa späť o {number} minút</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="one">Divák</item>
+        <item quantity="few">Diváci</item>
+        <item quantity="many">Divákov</item>
+        <item quantity="other">Divákov</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="one">%d divák</item>
+        <item quantity="few">%d diváci</item>
+        <item quantity="many">%d divákov</item>
+        <item quantity="other">%d divákov</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="one">%s divák</item>
+        <item quantity="few">%s diváci</item>
+        <item quantity="many">%s divákov</item>
+        <item quantity="other">%s divákov</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="one">%s divák poslal darčeky</item>
+        <item quantity="few">%s diváci poslali darčeky</item>
+        <item quantity="many">%s divákov poslalo darčeky</item>
+        <item quantity="other">%s divákov poslalo darčeky</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="one">Príspevok (%s)</item>
+        <item quantity="few">Príspevky (%s)</item>
+        <item quantity="many">Príspevkov (%s)</item>
+        <item quantity="other">Príspevkov (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="one">(%s recenzia)</item>
+        <item quantity="few">(%s recenzie)</item>
+        <item quantity="many">(%s recenzií)</item>
+        <item quantity="other">(%s recenzií)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="one">%s fotka sa nenahrala. Skús to znova.</item>
+        <item quantity="few">%s fotky sa nenahrali. Skús to znova.</item>
+        <item quantity="many">%s fotiek sa nenahralo. Skús to znova.</item>
+        <item quantity="other">%s fotiek sa nenahralo. Skús to znova.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="one">%d podobný zvuk</item>
+        <item quantity="few">%d podobné zvuky</item>
+        <item quantity="many">%d podobných zvukov</item>
+        <item quantity="other">%d podobných zvukov</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="one">%d zobrazenie profilu</item>
+        <item quantity="few">%d zobrazenia profilu</item>
+        <item quantity="many">%d zobrazení profilu</item>
+        <item quantity="other">%d zobrazení profilu</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="one">Sledujúci</item>
+        <item quantity="few">Sledujúci</item>
+        <item quantity="many">Sledujúcich</item>
+        <item quantity="other">Sledujúcich</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="one">%1$s dostal/-a %2$s lajk</item>
+        <item quantity="few">%1$s dostal/-a celkom %2$s lajky za všetky svoje videá</item>
+        <item quantity="many">%1$s dostal/-a celkom %2$s lajku za všetky svoje videá</item>
+        <item quantity="other">%1$s dostal/-a celkom %2$s lajkov za všetky svoje videá</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="one">si prezeral/-a tvoj profil.</item>
+        <item quantity="few">si prezerali tvoj profil.</item>
+        <item quantity="many">si prezeralo tvoj profil.</item>
+        <item quantity="other">si prezeralo tvoj profil.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="one">%1$s, %2$s a %d ďalší</item>
+        <item quantity="few">%1$s, %2$s a %d ďalší</item>
+        <item quantity="many">%1$s, %2$s a %d ďalších</item>
+        <item quantity="other">%1$s, %2$s a %d ďalších</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="one">%s osoba si prezerala tvoj profil.</item>
+        <item quantity="few">%s osoby si prezerali tvoj profil.</item>
+        <item quantity="many">%s osôb si prezeralo tvoj profil.</item>
+        <item quantity="other">%s osôb si prezeralo tvoj profil.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="one">{0}, {1} a {2} ďalší si prezerali tvoj profil.</item>
+        <item quantity="few">{0}, {1} a {2} ďalší si prezerali tvoj profil.</item>
+        <item quantity="many">{0}, {1} a {2} ďalší si prezerali tvoj profil.</item>
+        <item quantity="other">{0}, {1} a {2} ďalší si prezerali tvoj profil.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="one">Poslali sme oznámenie na zariadenie %1$s a %2$s ďalšie zariadenie. Nezabudni mať otvorenú aplikáciu TikTok a pokračuj v prihlásení na možnosť „Áno“ v oznámení.</item>
+        <item quantity="few">Poslali sme oznámenie na zariadenie %1$s a %2$s ďalšie zariadenia. Nezabudni mať otvorenú aplikáciu TikTok a pokračuj v prihlásení na možnosť „Áno“ v oznámení.</item>
+        <item quantity="many">Poslali sme oznámenie na zariadenie %1$s a %2$s ďalších zariadení. Nezabudni mať otvorenú aplikáciu TikTok a pokračuj v prihlásení na možnosť „Áno“ v oznámení.</item>
+        <item quantity="other">Poslali sme oznámenie na zariadenie %1$s a %2$s ďalších zariadení. Nezabudni mať otvorenú aplikáciu TikTok a pokračuj v prihlásení na možnosť „Áno“ v oznámení.</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="one">%s video</item>
+        <item quantity="few">%s videá</item>
+        <item quantity="many">%s videí</item>
+        <item quantity="other">%s videí</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="one">%d video</item>
+        <item quantity="few">%d videá</item>
+        <item quantity="many">%d videá</item>
+        <item quantity="other">%d videí</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="one">%s nedostupná otázka bola odstránená z tvojich pozvánok</item>
+        <item quantity="few">%s nedostupné otázky boli odstránené z tvojich pozvánok</item>
+        <item quantity="many">%s nedostupných otázok bolo odstránených z tvojich pozvánok</item>
+        <item quantity="other">%s nedostupných otázok bolo odstránených z tvojich pozvánok</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="one">%s nová správa</item>
+        <item quantity="few">%s nové správy</item>
+        <item quantity="many">%s nových správ</item>
+        <item quantity="other">%s nových správ</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="one">%s nová reakcia</item>
+        <item quantity="few">%s nové reakcie</item>
+        <item quantity="many">%s nových reakcií</item>
+        <item quantity="other">%s nových reakcií</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="one">%d odporúčanie</item>
+        <item quantity="few">%d odporúčania</item>
+        <item quantity="many">%d odporúčaní</item>
+        <item quantity="other">%d odporúčaní</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="one">%d odporúčanie</item>
+        <item quantity="few">%d odporúčania</item>
+        <item quantity="many">%d odporúčaní</item>
+        <item quantity="other">%d odporúčaní</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="one">Zobraziť %d ďalšie odporúčanie</item>
+        <item quantity="few">Zobraziť %d ďalšie odporúčania</item>
+        <item quantity="many">Zobraziť %d ďalších odporúčaní</item>
+        <item quantity="other">Zobraziť %d ďalších odporúčaní</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="one">Zaznamenaj najviac %d s.</item>
+        <item quantity="few">Zaznamenaj najviac %d s.</item>
+        <item quantity="many">Zaznamenaj najviac %d s.</item>
+        <item quantity="other">Zaznamenaj najviac %d s.</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="one">Zaznamenaj najviac %d s. s využitím zvuku z pôvodného videa</item>
+        <item quantity="few">Zaznamenaj najviac %d s. s využitím zvuku z pôvodného videa</item>
+        <item quantity="many">Zaznamenaj najviac %d s. s využitím zvuku z pôvodného videa</item>
+        <item quantity="other">Zaznamenaj najviac %d s. s využitím zvuku z pôvodného videa</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="one">Koncept (%d)</item>
+        <item quantity="few">Koncepty (%d)</item>
+        <item quantity="many">Koncepty (%d)</item>
+        <item quantity="other">Koncepty (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="one">Ak sa rozhodneš obnoviť tento zvuk, tvoje video bude stlmené.</item>
+        <item quantity="few">Ak sa rozhodneš obnoviť tieto zvuky, tvoje video bude stlmené.</item>
+        <item quantity="many">Ak sa rozhodneš obnoviť tieto zvuky, tvoje video bude stlmené.</item>
+        <item quantity="other">Ak sa rozhodneš obnoviť tieto zvuky, tvoje video bude stlmené.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="one">Obnoviť zvuk chránený autorskými právami?</item>
+        <item quantity="few">Obnoviť zvuky chránené autorskými právami?</item>
+        <item quantity="many">Obnoviť zvuky chránené autorskými právami?</item>
+        <item quantity="other">Obnoviť zvuky chránené autorskými právami?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="one">Zvuk chránený autorskými právami bol odstránený</item>
+        <item quantity="few">Zvuky chránené autorskými právami boli odstránené</item>
+        <item quantity="many">Zvuky chránené autorskými právami boli odstránené</item>
+        <item quantity="other">Zvuky chránené autorskými právami boli odstránené</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="one">Odstraňovanie zvuku</item>
+        <item quantity="few">Odstraňovanie zvukov</item>
+        <item quantity="many">Odstraňovanie zvukov</item>
+        <item quantity="other">Odstraňovanie zvukov</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="one">Zvuk odstránený</item>
+        <item quantity="few">Zvuky odstránené</item>
+        <item quantity="many">Zvuky odstránené</item>
+        <item quantity="other">Zvuky odstránené</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="one">Nahradiť zvuk</item>
+        <item quantity="few">Nahradiť zvuky</item>
+        <item quantity="many">Nahradiť zvuky</item>
+        <item quantity="other">Nahradiť zvuky</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="one">Odstraňuje sa zvuk chránený autorskými právami...</item>
+        <item quantity="few">Odstraňujú sa zvuky chránené autorskými právami...</item>
+        <item quantity="many">Odstraňujú sa zvuky chránené autorskými právami...</item>
+        <item quantity="other">Odstraňujú sa zvuky chránené autorskými právami...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="one">V tvojom videu sme zistili zvuk porušujúci autorské práva, ktorý je dlhší ako 1 minúta, a ak sa rozhodneš pokračovať, bude stlmený. Nahraď zvuk alebo skráť video. %s</item>
+        <item quantity="few">V tvojom videu sme zistili zvuky porušujúce autorské práva, ktoré sú dlhšie ako 1 minúta, a ak sa rozhodneš pokračovať, budú stlmené. Nahraď zvuk alebo skráť video. %s</item>
+        <item quantity="many">V tvojom videu sme zistili zvuky porušujúce autorské práva, ktoré sú dlhšie ako 1 minúta, a ak sa rozhodneš pokračovať, budú stlmené. Nahraď zvuk alebo skráť video. %s</item>
+        <item quantity="other">V tvojom videu sme zistili zvuky porušujúce autorské práva, ktoré sú dlhšie ako 1 minúta, a ak sa rozhodneš pokračovať, budú stlmené. Nahraď zvuk alebo skráť video. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="one">Nahradiť zvuk</item>
+        <item quantity="few">Nahradiť zvuky</item>
+        <item quantity="many">Nahradiť zvuky</item>
+        <item quantity="other">Nahradiť zvuky</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="one">Odstraňuje sa zvuk chránený autorskými právami...</item>
+        <item quantity="few">Odstraňujú sa zvuky chránené autorskými právami...</item>
+        <item quantity="many">Odstraňujú sa zvuky chránené autorskými právami...</item>
+        <item quantity="other">Odstraňujú sa zvuky chránené autorskými právami...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="one">V tvojom videu sme zistili zvuk porušujúci autorské práva. Ak sa rozhodneš pokračovať, tvoje video bude stlmené, alebo môžeš zvuk nahradiť. %s</item>
+        <item quantity="few">V tvojom videu sme zistili zvuky porušujúce autorské práva. Ak sa rozhodneš pokračovať, tvoje video bude stlmené, alebo môžeš zvuky nahradiť. %s</item>
+        <item quantity="many">V tvojom videu sme zistili zvuky porušujúce autorské práva. Ak sa rozhodneš pokračovať, tvoje video bude stlmené, alebo môžeš zvuky nahradiť. %s</item>
+        <item quantity="other">V tvojom videu sme zistili zvuky porušujúce autorské práva. Ak sa rozhodneš pokračovať, tvoje video bude stlmené, alebo môžeš zvuky nahradiť. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="one">Zvuk chránený autorskými právami</item>
+        <item quantity="few">Zvuky chránené autorskými právami</item>
+        <item quantity="many">Zvuky chránené autorskými právami</item>
+        <item quantity="other">Zvuky chránené autorskými právami</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="one">Držiteľ autorských práv povolil používanie tohto zvuku len na 1 minútu.</item>
+        <item quantity="few">Držitelia autorských práv povolili používanie týchto zvukov len na 1 minútu.</item>
+        <item quantity="many">Držitelia autorských práv povolili používanie týchto zvukov len na 1 minútu.</item>
+        <item quantity="other">Držitelia autorských práv povolili používanie týchto zvukov len na 1 minútu.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="one">Držiteľ autorských práv nepovoľuje používanie tohto zvuku.</item>
+        <item quantity="few">Držitelia autorských práv nepovoľujú používanie týchto zvukov.</item>
+        <item quantity="many">Držitelia autorských práv nepovoľujú používanie týchto zvukov.</item>
+        <item quantity="other">Držitelia autorských práv nepovoľujú používanie týchto zvukov.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="one">Nahradiť zvuk</item>
+        <item quantity="few">Nahradiť zvuky</item>
+        <item quantity="many">Nahradiť zvuky</item>
+        <item quantity="other">Nahradiť zvuky</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="one">V tvojom videu sme zistili zvuk porušujúci autorské práva, ktorý je dlhší ako 1 minúta, a ak sa rozhodneš pokračovať, bude stlmený. Nahraď zvuk alebo skráť video. %s</item>
+        <item quantity="few">V tvojom videu sme zistili zvuky porušujúce autorské práva, ktoré sú dlhšie ako 1 minúta, a ak sa rozhodneš pokračovať, budú stlmené. Nahraď zvuk alebo skráť video. %s</item>
+        <item quantity="many">V tvojom videu sme zistili zvuky porušujúce autorské práva, ktoré sú dlhšie ako 1 minúta, a ak sa rozhodneš pokračovať, budú stlmené. Nahraď zvuk alebo skráť video. %s</item>
+        <item quantity="other">V tvojom videu sme zistili zvuky porušujúce autorské práva, ktoré sú dlhšie ako 1 minúta, a ak sa rozhodneš pokračovať, budú stlmené. Nahraď zvuk alebo skráť video. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="one">Nahradiť zvuk</item>
+        <item quantity="few">Nahradiť zvuky</item>
+        <item quantity="many">Nahradiť zvuky</item>
+        <item quantity="other">Nahradiť zvuky</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="one">V tvojom videu sme zistili zvuk porušujúci autorské práva. Ak sa rozhodneš pokračovať, tvoje video bude stlmené, alebo môžeš zvuk nahradiť. %s</item>
+        <item quantity="few">V tvojom videu sme zistili zvuky porušujúce autorské práva. Ak sa rozhodneš pokračovať, tvoje video bude stlmené, alebo môžeš zvuky nahradiť. %s</item>
+        <item quantity="many">V tvojom videu sme zistili zvuky porušujúce autorské práva. Ak sa rozhodneš pokračovať, tvoje video bude stlmené, alebo môžeš zvuky nahradiť. %s</item>
+        <item quantity="other">V tvojom videu sme zistili zvuky porušujúce autorské práva. Ak sa rozhodneš pokračovať, tvoje video bude stlmené, alebo môžeš zvuky nahradiť. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="one">Odstrániť video (%d)</item>
+        <item quantity="few">Odstrániť videá (%d)</item>
+        <item quantity="many">Odstrániť videá (%d)</item>
+        <item quantity="other">Odstrániť videá (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="one">%d opätovne pridané</item>
+        <item quantity="few">%d opätovne pridané</item>
+        <item quantity="many">%d opätovne pridaných</item>
+        <item quantity="other">%d opätovne pridaných</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="one">%d opätovné uverejnenie</item>
+        <item quantity="few">%d opätovné uverejnenia</item>
+        <item quantity="many">%d opätovných uverejnení</item>
+        <item quantity="other">%d opätovných uverejnení</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="one">%d opätovné uverejnenie</item>
+        <item quantity="few">%d opätovné uverejnenia</item>
+        <item quantity="many">%d opätovných uverejnení</item>
+        <item quantity="other">%d opätovných uverejnení</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="one">Zobraziť %d ďalšie opätovné pridanie</item>
+        <item quantity="few">Zobraziť %d ďalšie opätovné pridania</item>
+        <item quantity="many">Zobraziť %d ďalších opätovných pridaní</item>
+        <item quantity="other">Zobraziť %d ďalších opätovných pridaní</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="one">%d deň</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dní</item>
+        <item quantity="other">%d dní</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="one">Zadaj ešte %1$d vyhľadávanie a získaj %2$d bodov</item>
+        <item quantity="few">Zadaj ešte %1$d vyhľadávania a získaj %2$d bodov</item>
+        <item quantity="many">Zadaj ešte %1$d vyhľadávaní a získaj %2$d bodov</item>
+        <item quantity="other">Zadaj ešte %1$d vyhľadávaní a získaj %2$d bodov</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="one">Prehliadaj si výsledky vyhľadávania %d sekundu</item>
+        <item quantity="few">Prehliadaj si výsledky vyhľadávania %d sekundy</item>
+        <item quantity="many">Prehliadaj si výsledky vyhľadávania %d sekúnd</item>
+        <item quantity="other">Prehliadaj si výsledky vyhľadávania %d sekúnd</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="one">Zadaj ešte %1$d vyhľadávanie a získaj %2$d bodov!</item>
+        <item quantity="few">Zadaj ešte %1$d vyhľadávania a získaj %2$d bodov!</item>
+        <item quantity="many">Zadaj ešte %1$d vyhľadávaní a získaj %2$d bodov!</item>
+        <item quantity="other">Zadaj ešte %1$d vyhľadávaní a získaj %2$d bodov!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="one">%d zhodný zvuk</item>
+        <item quantity="few">%d zhodné zvuky</item>
+        <item quantity="many">%d zhodných zvukov</item>
+        <item quantity="other">%d zhodných zvukov</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="one">Aktualizované pred %d dňom</item>
+        <item quantity="few">Aktualizované pred %d dňami</item>
+        <item quantity="many">Aktualizované pred %d dňami</item>
+        <item quantity="other">Aktualizované pred %d dňami</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="one">Aktualizované pred %d hod.</item>
+        <item quantity="few">Aktualizované pred %d hod.</item>
+        <item quantity="many">Aktualizované pred %d hod.</item>
+        <item quantity="other">Aktualizované pred %d hod.</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="one">Aktualizované pred %d min.</item>
+        <item quantity="few">Aktualizované pred %d min.</item>
+        <item quantity="many">Aktualizované pred %d min.</item>
+        <item quantity="other">Aktualizované pred %d min.</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="one">Aktualizované pred %d s.</item>
+        <item quantity="few">Aktualizované pred %d s.</item>
+        <item quantity="many">Aktualizované pred %d s.</item>
+        <item quantity="other">Aktualizované pred %d s.</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="one">Aktualizované pred %d týždňom</item>
+        <item quantity="few">Aktualizované pred %d týždňami</item>
+        <item quantity="many">Aktualizované pred %d týždňom</item>
+        <item quantity="other">Aktualizované pred %d týždňami</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="one">Zdieľal/-a si fotku.</item>
+        <item quantity="few">Zdieľal/-a si fotky.</item>
+        <item quantity="many">Zdieľal/-a si fotky.</item>
+        <item quantity="other">Zdieľal/-a si fotky.</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="one">Blahoželáme! Za včera si získal/a %d ďalší nákup. Pokračuj vo vynikajúcej práci a sleduj výkon svojej Série v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+        <item quantity="few">Blahoželáme! Za včera si získal/a %d ďalšie nákupy. Pokračuj vo vynikajúcej práci a sleduj výkon svojej Série v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+        <item quantity="many">Blahoželáme! Za včera si získal/a %d ďalších nákupov. Pokračuj vo vynikajúcej práci a sleduj výkon svojej Série v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+        <item quantity="other">Blahoželáme! Za včera si získal/a %d ďalších nákupov. Pokračuj vo vynikajúcej práci a sleduj výkon svojej Série v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="one">Tvoja Séria získala v posledných niekoľkých dňoch %d návštevu stránky. Na sledovanie výkonu svojej Série a získanie užitočných tipov na prilákanie potenciálnych kupujúcich môžeš prejsť na analytické nástroje v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+        <item quantity="few">Tvoja Séria získala v posledných niekoľkých dňoch %d návštevy stránok. Na sledovanie výkonu svojej Série a získanie užitočných tipov na prilákanie potenciálnych kupujúcich môžeš prejsť na analytické nástroje v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+        <item quantity="many">Tvoja Séria získala v posledných niekoľkých dňoch %d návštevy stránok. Na sledovanie výkonu svojej Série a získanie užitočných tipov na prilákanie potenciálnych kupujúcich môžeš prejsť na analytické nástroje v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+        <item quantity="other">Tvoja Séria získala v posledných niekoľkých dňoch %d návštev stránok. Na sledovanie výkonu svojej Série a získanie užitočných tipov na prilákanie potenciálnych kupujúcich môžeš prejsť na analytické nástroje v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="one">Blahoželáme! %d divák z tvojho vysielania LIVE si včera zakúpil prístup k tvojej Sérii. Pokračuj vo vynikajúcej práci a sleduj výkon svojej Série v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+        <item quantity="few">Blahoželáme! %d diváci z tvojho vysielania LIVE si včera zakúpili prístup k tvojej Sérii. Pokračuj vo vynikajúcej práci a sleduj výkon svojej Série v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+        <item quantity="many">Blahoželáme! %d diváka z tvojho vysielania LIVE si včera zakúpilo prístup k tvojej Sérii. Pokračuj vo vynikajúcej práci a sleduj výkon svojej Série v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+        <item quantity="other">Blahoželáme! %d divákov z tvojho vysielania LIVE si včera zakúpilo prístup k tvojej Sérii. Pokračuj vo vynikajúcej práci a sleduj výkon svojej Série v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="one">Blahoželáme! %d divák si včera zakúpil prístup k tvojej Sérii z videa s odkazom na Sériu. Pokračuj vo vynikajúcej práci a sleduj výkon svojej Série v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+        <item quantity="few">Blahoželáme! %d diváci si včera zakúpili prístup k tvojej Sérii z videa s odkazom na Sériu. Pokračuj vo vynikajúcej práci a sleduj výkon svojej Série v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+        <item quantity="many">Blahoželáme! %d divákov si včera zakúpilo prístup k tvojej Sérii z videa s odkazom na Sériu. Pokračuj vo vynikajúcej práci a sleduj výkon svojej Série v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+        <item quantity="other">Blahoželáme! %d divákov si včera zakúpilo prístup k tvojej Sérii z videa s odkazom na Sériu. Pokračuj vo vynikajúcej práci a sleduj výkon svojej Série v časti „Nástroje tvorcu“ &gt; „Séria“.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="one">Pokračovať na kameru (%d)</item>
+        <item quantity="few">Pokračovať na kameru (%d)</item>
+        <item quantity="many">Pokračovať na kameru (%d)</item>
+        <item quantity="other">Pokračovať na kameru (%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="one">%.1f (%s hodnotenie)</item>
+        <item quantity="few">%.1f (%s hodnotenia)</item>
+        <item quantity="many">%.1f (%s hodnotení)</item>
+        <item quantity="other">%.1f (%s hodnotení)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="one">Len prvý kupujúci</item>
+        <item quantity="few">Len prví %d kupujúci</item>
+        <item quantity="many">Len prvých %d kupujúcich</item>
+        <item quantity="other">Len prvých %d kupujúcich</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="one">Zostáva len %d</item>
+        <item quantity="few">Zostáva len %d</item>
+        <item quantity="many">Zostáva len %d</item>
+        <item quantity="other">Zostáva len %d</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="one">Platnosť vyprší o %d deň</item>
+        <item quantity="few">Platnosť vyprší o %d dni</item>
+        <item quantity="many">Platnosť vyprší o %d dní</item>
+        <item quantity="other">Platnosť vyprší o %d dní</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="one">%d video</item>
+        <item quantity="few">%d videá</item>
+        <item quantity="many">%d videá</item>
+        <item quantity="other">%d videí</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="one">%d video</item>
+        <item quantity="few">%d videá</item>
+        <item quantity="many">%d videá</item>
+        <item quantity="other">%d videí</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="one">%d video</item>
+        <item quantity="few">%d videá</item>
+        <item quantity="many">%d videá</item>
+        <item quantity="other">%d videí</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="one">%s video</item>
+        <item quantity="few">%s videá</item>
+        <item quantity="many">%s videí</item>
+        <item quantity="other">%s videí</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="one">%d zobrazenie</item>
+        <item quantity="few">%d zobrazenia</item>
+        <item quantity="many">%d zobrazení</item>
+        <item quantity="other">%d zobrazení</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="one">Story (%d)</item>
+        <item quantity="few">Stories (%d)</item>
+        <item quantity="many">Stories (%d)</item>
+        <item quantity="other">Stories (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="one">Značka {Brand} chce predĺžiť pôvodný termín autorizácie od {start_date} - {end_date} o {num} deň.</item>
+        <item quantity="few">Značka {Brand} chce predĺžiť pôvodný termín autorizácie od {start_date} - {end_date} o {num} dni.</item>
+        <item quantity="many">Značka {Brand} chce predĺžiť pôvodný termín autorizácie od {start_date} - {end_date} o {num} dní.</item>
+        <item quantity="other">Značka {Brand} chce predĺžiť pôvodný termín autorizácie od {start_date} - {end_date} o {num} dní.</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="one">%d video pridané</item>
+        <item quantity="few">%d videá pridané</item>
+        <item quantity="many">%d videí pridaných</item>
+        <item quantity="other">%d videí pridaných</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="one">Tvorcovia sú na TikToku viac ako %d mesiac.</item>
+        <item quantity="few">Tvorcovia sú na TikToku viac ako %d mesiace.</item>
+        <item quantity="many">Tvorcovia sú na TikToku viac ako %d mesiacov.</item>
+        <item quantity="other">Tvorcovia sú na TikToku viac ako %d mesiacov.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="one">Tvorcovia majú aspoň %d sledujúceho.</item>
+        <item quantity="few">Tvorcovia majú aspoň %d sledujúcich.</item>
+        <item quantity="many">Tvorcovia majú aspoň %d sledujúcich.</item>
+        <item quantity="other">Tvorcovia majú aspoň %d sledujúcich.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="one">%d interakcia</item>
+        <item quantity="few">%d interakcie</item>
+        <item quantity="many">%d interakcií</item>
+        <item quantity="other">%d interakcií</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="one">Denný limit na pridávanie populárnych tém: %d príspevok</item>
+        <item quantity="few">Denný limit na pridávanie populárnych tém: %d príspevky</item>
+        <item quantity="many">Denný limit na pridávanie populárnych tém: %d príspevkov</item>
+        <item quantity="other">Denný limit na pridávanie populárnych tém: %d príspevkov</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="one">Odhadovaný čas kontroly: %d deň</item>
+        <item quantity="few">Odhadovaný čas kontroly: %d dni</item>
+        <item quantity="many">Odhadovaný čas kontroly: %d dní</item>
+        <item quantity="other">Odhadovaný čas kontroly: %d dní</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="one">%@ video</item>
+        <item quantity="few">%@ videá</item>
+        <item quantity="many">%@ videí</item>
+        <item quantity="other">%@ videí</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="one">%@ zobrazenie</item>
+        <item quantity="few">%@ zobrazenia</item>
+        <item quantity="many">%@ zobrazení</item>
+        <item quantity="other">%@ zobrazení</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="one">Pred %d dňom</item>
+        <item quantity="few">Pred %d dňami</item>
+        <item quantity="many">Pred %d dňami</item>
+        <item quantity="other">Pred %d dňami</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="one">Hodina</item>
+        <item quantity="few">Hodiny</item>
+        <item quantity="many">Hodín</item>
+        <item quantity="other">Hodín</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="one">Pred %1$d hod.</item>
+        <item quantity="few">Pred %1$d hod.</item>
+        <item quantity="many">Pred %1$d hod.</item>
+        <item quantity="other">Pred %1$d hod.</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="one">minúta</item>
+        <item quantity="few">minúty</item>
+        <item quantity="many">minút</item>
+        <item quantity="other">minút</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="one">pred %1$d min.</item>
+        <item quantity="few">pred %1$d min.</item>
+        <item quantity="many">pred %1$d min.</item>
+        <item quantity="other">pred %1$d min.</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="one">Hodina</item>
+        <item quantity="few">Hodiny</item>
+        <item quantity="many">Hodín</item>
+        <item quantity="other">Hodín</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="one">minúta</item>
+        <item quantity="few">minúty</item>
+        <item quantity="many">minút</item>
+        <item quantity="other">minút</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="one">s</item>
+        <item quantity="few">s</item>
+        <item quantity="many">s</item>
+        <item quantity="other">s</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="one">Pred %1$d rokom</item>
+        <item quantity="few">Pred %1$d rokmi</item>
+        <item quantity="many">Pred %1$d rokmi</item>
+        <item quantity="other">Pred %1$d rokmi</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="one">Ľutujeme! Máš zákaz\nMôžeš znova vysielať naživo o %1$d deň</item>
+        <item quantity="few">Ľutujeme! Máš zákaz\nMôžeš znova vysielať naživo o %1$d dni</item>
+        <item quantity="many">Ľutujeme! Máš zákaz\nMôžeš znova vysielať naživo o %1$d dňa</item>
+        <item quantity="other">Ľutujeme! Máš zákaz\nMôžeš znova vysielať naživo o %1$d dní</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="one">Ľutujeme! Máš zákaz\nMôžeš znova vysielať naživo o %1$d hod.</item>
+        <item quantity="few">Ľutujeme! Máš zákaz\nMôžeš znova vysielať naživo o %1$d hod.</item>
+        <item quantity="many">Ľutujeme! Máš zákaz\nMôžeš znova vysielať naživo o %1$d hod.</item>
+        <item quantity="other">Ľutujeme! Máš zákaz\nMôžeš znova vysielať naživo o %1$d hod.</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="one">Ľutujeme, momentálne máš zákaz.\nMôžeš znova vysielať naživo o %1$d min.</item>
+        <item quantity="few">Ľutujeme, momentálne máš zákaz.\nMôžeš znova vysielať naživo o %1$d min.</item>
+        <item quantity="many">Ľutujeme, momentálne máš zákaz.\nMôžeš znova vysielať naživo o %1$d min.</item>
+        <item quantity="other">Ľutujeme, momentálne máš zákaz.\nMôžeš znova vysielať naživo o %1$d min.</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="one">Ľutujeme! Máš zákaz\nMôžeš znova vysielať naživo o %1$d s.</item>
+        <item quantity="few">Ľutujeme! Máš zákaz\nMôžeš znova vysielať naživo o %1$d s.</item>
+        <item quantity="many">Ľutujeme! Máš zákaz\nMôžeš znova vysielať naživo o %1$d s.</item>
+        <item quantity="other">Ľutujeme! Máš zákaz\nMôžeš znova vysielať naživo o %1$d s.</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="one">%d používateľ pozerá tvoje vysielanie, chceš ho ukončiť?</item>
+        <item quantity="few">%d používatelia pozerajú tvoje vysielanie, chceš ho ukončiť?</item>
+        <item quantity="many">%d používateľov pozerá tvoje vysielanie, chceš ho ukončiť?</item>
+        <item quantity="other">%d používateľov pozerá tvoje vysielanie, chceš ho ukončiť?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="one">Platnosť vyprší o %d deň</item>
+        <item quantity="few">Platnosť vyprší o %d dni</item>
+        <item quantity="many">Platnosť vyprší o %d dní</item>
+        <item quantity="other">Platnosť vyprší o %d dní</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="one">Platnosť vyprší o %d hod.</item>
+        <item quantity="few">Platnosť vyprší o %d hod.</item>
+        <item quantity="many">Platnosť vyprší o %d hod.</item>
+        <item quantity="other">Platnosť vyprší o %d hod.</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="one">Pri prvom dobití %1$d Diamantu dostaneš %2$d navyše!</item>
+        <item quantity="few">Pri prvom dobití %1$d Diamantov dostaneš %2$d navyše!</item>
+        <item quantity="many">Pri prvom dobití %1$d Diamantov dostaneš %2$d navyše!</item>
+        <item quantity="other">Pri prvom dobití %1$d Diamantov dostaneš %2$d navyše!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="one">minúta</item>
+        <item quantity="few">minúty</item>
+        <item quantity="many">minút</item>
+        <item quantity="other">minút</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="one">Tvoje skúsenosti s platformou TikTok sa skončia o: %d deň</item>
+        <item quantity="few">Tvoje skúsenosti s platformou TikTok sa skončia o: %d dni</item>
+        <item quantity="many">Tvoje skúsenosti s platformou TikTok sa skončia o: %d dní</item>
+        <item quantity="other">Tvoje skúsenosti s platformou TikTok sa skončia o: %d dní</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="one">%d deň</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dní</item>
+        <item quantity="other">%d dní</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="one">Na túto funkciu máš na TikToku %d deň. Potom si stiahni aplikáciu TikTok Now a pokračuj.</item>
+        <item quantity="few">Na túto funkciu máš na TikToku %d dni. Potom si stiahni aplikáciu TikTok Now a pokračuj.</item>
+        <item quantity="many">Na túto funkciu máš na TikToku %d dní. Potom si stiahni aplikáciu TikTok Now a pokračuj.</item>
+        <item quantity="other">Na túto funkciu máš na TikToku %d dní. Potom si stiahni aplikáciu TikTok Now a pokračuj.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="one">Pošli príspevok a začni svoju %d-dňovú TikTok Now skúsenosť.</item>
+        <item quantity="few">Pošli príspevok a začni svoju %d-dňovú TikTok Now skúsenosť.</item>
+        <item quantity="many">Pošli príspevok a začni svoju %d-dňovú TikTok Now skúsenosť.</item>
+        <item quantity="other">Pošli príspevok a začni svoju %d-dňovú TikTok Now skúsenosť.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="one">Vyber alebo nahraj %d klip</item>
+        <item quantity="few">Vyber alebo nahraj %d klipy</item>
+        <item quantity="many">Vyber alebo nahraj %d klipov</item>
+        <item quantity="other">Vyber alebo nahraj %d klipov</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="one">Upraviť nedokončenú fotku?</item>
+        <item quantity="few">Upraviť nedokončené fotky?</item>
+        <item quantity="many">Upraviť nedokončené fotky?</item>
+        <item quantity="other">Upraviť nedokončené fotky?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="one">%s nový príspevok</item>
+        <item quantity="few">%s nové príspevky</item>
+        <item quantity="many">%s nových príspevkov</item>
+        <item quantity="other">%s nových príspevkov</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="one">pridal/-a %d video</item>
+        <item quantity="few">pridal/-a %d videá</item>
+        <item quantity="many">pridal/-a %d videa</item>
+        <item quantity="other">pridal/-a %d videí</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="one">Máš %d rok?</item>
+        <item quantity="few">Máš %d roky?</item>
+        <item quantity="many">Máš %d rokov?</item>
+        <item quantity="other">Máš %d rokov?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="one">Použi orezaný zvuk. Zaznamenaj najviac %d s.</item>
+        <item quantity="few">Použi orezaný zvuk. Zaznamenaj najviac %d s.</item>
+        <item quantity="many">Použi orezaný zvuk. Zaznamenaj najviac %d s.</item>
+        <item quantity="other">Použi orezaný zvuk. Zaznamenaj najviac %d s.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="one">%s divák</item>
+        <item quantity="few">%s diváci</item>
+        <item quantity="many">%s divákov</item>
+        <item quantity="other">%s divákov</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="one">%s lajk</item>
+        <item quantity="few">%s lajky</item>
+        <item quantity="many">%s lajkov</item>
+        <item quantity="other">%s lajkov</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="one">Zdieľanie na %1$s o %2$s s</item>
+        <item quantity="few">Zdieľanie na %1$s o %2$s s</item>
+        <item quantity="many">Zdieľanie na %1$s o %2$s s</item>
+        <item quantity="other">Zdieľanie na %1$s o %2$s s</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="one">%d produkt</item>
+        <item quantity="few">%d produkty</item>
+        <item quantity="many">%d produktov</item>
+        <item quantity="other">%d produktov</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="one">Príspevok</item>
+        <item quantity="few">Príspevky</item>
+        <item quantity="many">Príspevky</item>
+        <item quantity="other">Príspevky</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="one">%1$s, %2$s a %d ďalší</item>
+        <item quantity="few">%1$s, %2$s a %d ďalší</item>
+        <item quantity="many">%1$s, %2$s a %d ďalších</item>
+        <item quantity="other">%1$s, %2$s a %d ďalších</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="one">si prezeral/-a tvoj príspevok.</item>
+        <item quantity="few">si prezerali tvoj príspevok.</item>
+        <item quantity="many">si prezeralo tvoj príspevok.</item>
+        <item quantity="other">si prezeralo tvoj príspevok.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="one">%s zdieľanie</item>
+        <item quantity="few">%s zdieľania</item>
+        <item quantity="many">%s zdieľaní</item>
+        <item quantity="other">%s zdieľaní</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="one">%s zobrazenie</item>
+        <item quantity="few">%s zobrazenia</item>
+        <item quantity="many">%s zobrazení</item>
+        <item quantity="other">%s zobrazení</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="one">{0}, {1} a {2} ďalší si pozreli tvoj príspevok.</item>
+        <item quantity="few">{0}, {1} a {2} ďalší si pozreli tvoj príspevok.</item>
+        <item quantity="many">{0}, {1} a {2} ďalší si pozreli tvoj príspevok.</item>
+        <item quantity="other">{0}, {1} a {2} ďalší si pozreli tvoj príspevok.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="one">%d Minca</item>
+        <item quantity="few">%d Mince</item>
+        <item quantity="many">%d Mincí</item>
+        <item quantity="other">%d Mincí</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="one">odoslané: %s</item>
+        <item quantity="few">odoslané: %s</item>
+        <item quantity="many">odoslané: %s</item>
+        <item quantity="other">odoslané: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="one">Fotka uložená</item>
+        <item quantity="few">Fotky uložené</item>
+        <item quantity="many">Fotky uložené</item>
+        <item quantity="other">Fotky uložené</item>
+    </plurals>
+</resources>

@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="j0">
+        <item quantity="one">%d નવું નોટિફિકેશન</item>
+        <item quantity="other">%d નવા નોટિફિકેશન</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="one">તમે તેને વધુ %d વખત મોકલી શકો છો</item>
+        <item quantity="other">તમે તેને વધુ %d વખત મોકલી શકો છો</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="one">%d દર્શકે વિનંતી કરી</item>
+        <item quantity="other">%d દર્શકો એ વિનંતી કરી</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="one">%s દિવસમાં ઍક્સેસ પુનઃસ્થાપિત કરવામાં આવશે</item>
+        <item quantity="other">%s દિવસમાં ઍક્સેસ પુનઃસ્થાપિત કરવામાં આવશે</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="one">ટોચના નંબર 1 દર્શક તરફથી %s સિક્કો</item>
+        <item quantity="other">ટોચના નંબર 1 દર્શક તરફથી %s સિક્કાઓ</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="one">ટોચના નંબર 2 દર્શક તરફથી %s સિક્કો</item>
+        <item quantity="other">ટોચના નંબર 2 દર્શક તરફથી %s સિક્કાઓ</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="one">%s અનુયાયી</item>
+        <item quantity="other">%s અનુયાયીઓ</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="one">%s ઉપલબ્ધ આઇટમ ખરીદો</item>
+        <item quantity="other">{number} ઉપલબ્ધ આઇટમ ખરીદો</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="one">%s ઉપલબ્ધ આઇટમ ખરીદો</item>
+        <item quantity="other">{number} ઉપલબ્ધ આઇટમ ખરીદો</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="one">લાઇવ નિર્માતાને %s સિક્કો આપ્યો</item>
+        <item quantity="other">લાઇવ નિર્માતાને %s સિક્કાઓ આપ્યા</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="one">%s લાઇક</item>
+        <item quantity="other">%s લાઇક્સ</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="one">%s દર્શક</item>
+        <item quantity="other">%s દર્શકો</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="one">%s વખત શેર કરેલું. વિડિયો શેર કરો</item>
+        <item quantity="other">%s શેર્સ. વિડિયો શેર કરો</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="one">%1$s એ %2$sને મત આપ્યો</item>
+        <item quantity="other">%1$s એ %2$sને મત આપ્યો</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="one">%1$s એ %2$sને મત આપ્યો, %3$s એ %4$sને મત આપ્યો</item>
+        <item quantity="other">%1$s એ %2$sને મત આપ્યો, %3$s એ %4$sને મત આપ્યો</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="one">%d મિનિટમાં</item>
+        <item quantity="other">%d મિનિટમાં</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="one">લેવલ અપ જવા માટે વધુ %d અનુભવ પોઇન્ટ</item>
+        <item quantity="other">લેવલ અપ જવા માટે વધુ %d અનુભવ પોઇન્ટ્સ</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="one">તમારા પુરસ્કારો %d દિવસમાં સ્લિપ પર જશે</item>
+        <item quantity="other">તમારા પુરસ્કારો %d દિવસમાં સ્લિપ પર જશે</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="one">લાઇવ સમાપ્ત કરીએ? %s દર્શક હાલમાં જોઈ રહ્યાં છે.</item>
+        <item quantity="other">લાઇવ સમાપ્ત કરીએ? %s દર્શકો હાલમાં જોઈ રહ્યાં છે.</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="one">લાઇવ સમાપ્ત કરીએ? %s દર્શક હાલમાં જોઈ રહ્યાં છે.</item>
+        <item quantity="other">લાઇવ સમાપ્ત કરીએ? %s દર્શકો હાલમાં જોઈ રહ્યાં છે.</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="one">%s નવો સંદેશ</item>
+        <item quantity="other">%s નવા સંદેશા</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="one">સળંગ {num} દિવસ કો-હોસ્ટ કર્યું</item>
+        <item quantity="other">સળંગ {num} દિવસ કો-હોસ્ટ કર્યું</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="one">{number} સિક્કો ઓછો</item>
+        <item quantity="other">{number} સિક્કાઓ ઓછાં</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="one">છેલ્લા {number} દિવસમાં તમારી સૌથી વધુ: {amount}સિક્કો</item>
+        <item quantity="other">છેલ્લા {number} દિવસમાં તમારી સૌથી વધુ: {amount}સિક્કાઓ</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="one">સૂચવેલ: {amount}સિક્કો</item>
+        <item quantity="other">સૂચવેલ: {amount}સિક્કાઓ</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="one">તમારી પાસે હવે {number} સિક્કો છે. તમે વધુ સિક્કાઓ મેળવવા માટે રિચાર્જ કરી શકો છો.</item>
+        <item quantity="other">તમારી પાસે હવે {number} સિક્કાઓ છે. તમે વધુ સિક્કાઓ મેળવવા માટે રિચાર્જ કરી શકો છો.</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="one">સાચું અનુમાન (%d)</item>
+        <item quantity="other">સાચા અનુમાનો (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="one">%s સાચુ અનુમાન</item>
+        <item quantity="other">%s સાચા અનુમાનો</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="one">%s દર્શકે તેનું સાચું અનુમાન લગાડ્યું ��</item>
+        <item quantity="other">%s દર્શકોએ તેનું સાચું અનુમાન લગાડ્યું ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="one">મોટા ભાગના દર્શકોએ %s શબ્દનું સાચું અનુમાન લગાડ્યું</item>
+        <item quantity="other">મોટા ભાગના દર્શકોએ %s શબ્દોનું સાચું અનુમાન લગાડ્યું</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="one">કોઈ દર્શકે શબ્દનું સાચું અનુમાન લગાડ્યું નહીં</item>
+        <item quantity="other">કોઈ દર્શકે શબ્દોનું સાચું અનુમાન લગાડ્યું નહીં</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="one">શબ્દ દોરવા માટે %s મિનિટ</item>
+        <item quantity="other">શબ્દ દોરવા માટે %s મિનિટ</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="one">�� %d દર્શકે %s નું સાચું અનુમાન લગાડ્યું</item>
+        <item quantity="other">�� %d દર્શકોએ %s નું સાચું અનુમાન લગાડ્યું</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="one">મેં %s શબ્દનું સાચું અનુમાન લગાડ્યું!</item>
+        <item quantity="other">મેં %s શબ્દોનું સાચું અનુમાન લગાડ્યું!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="one">તમે %s શબ્દનું સાચું અનુમાન લગાડ્યું</item>
+        <item quantity="other">તમે %s શબ્દોનું સાચું અનુમાન લગાડ્યું</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="one">{0:string} અને {1:string} અન્ય ખરીદદાર ખરીદી કરી રહ્યાં છે</item>
+        <item quantity="other">{0:string} અને {1:string} અન્ય ખરીદદારો ખરીદી કરી રહ્યાં છે</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="one">%d છબી ખૂબ નાની છે. છબીઓ ઓછામાં ઓછી 256 x 256 પિક્સેલની હોવી આવશ્યક છે.</item>
+        <item quantity="other">%d છબીઓ ખૂબ નાની છે. છબીઓ ઓછામાં ઓછી 256 x 256 પિક્સેલની હોવી આવશ્યક છે.</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="one">%d દર્શક</item>
+        <item quantity="other">%d દર્શકો</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="one">તમારી પાસે %d સિક્કો છે.</item>
+        <item quantity="other">તમારી પાસે %d સિક્કાઓ છે.</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="one">આ ગિફ્ટ મોકલવા માટે તમે %@ વધુ %d સિક્કાની આપલે કરી શકો છો.</item>
+        <item quantity="other">આ ગિફ્ટ મોકલવા માટે તમે %@ વધુ %d સિક્કાઓની આપલે કરી શકો છો.</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="one">લાઇવ ગિફ્ટ બેલેન્સ {{num}} સિક્કા માટે એક્સચેન્જ કર્યું</item>
+        <item quantity="other">લાઇવ ગિફ્ટ બેલેન્સ {{num}} સિક્કાઓ માટે એક્સચેન્જ કર્યું</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="one">તમને %1$d સિક્કો ઓછો પડે છે. સિક્કાઓ માટે %2$sને એક્સચેન્જ કરીને %3$s મોકલીએ?</item>
+        <item quantity="other">તમને %1$d સિક્કા ઓછા પડે છે. સિક્કાઓ માટે %2$sને એક્સચેન્જ કરીને %3$s મોકલીએ?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="one">તમે %d સિક્કા માટે એક્સચેન્જ કર્યું અને %s મોકલ્યું</item>
+        <item quantity="other">તમે %d સિક્કાઓ માટે એક્સચેન્જ કર્યું અને %s મોકલ્યું</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="one">%s સભ્ય</item>
+        <item quantity="other">%s સભ્યો</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="one">તમારી સાથે {num} દિવસથી છે</item>
+        <item quantity="other">તમારી સાથે {num} દિવસથી છે</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="one">સક્રિય રહેવા માટે {num} કલાકમાં 1 સભ્ય પોઇન્ટ મેળવો</item>
+        <item quantity="other">સક્રિય રહેવા માટે {num} કલાકમાં 1 સભ્ય પોઇન્ટ મેળવો</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="one">તે %1$d સિક્કો %2$d વધુ સમય માટે મોકલી શકાય છે.</item>
+        <item quantity="other">તે %1$d સિક્કો %2$d વધુ સમય માટે મોકલી શકાય છે.</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="one">%d અનુયાયી હમણાં સક્રિય છે</item>
+        <item quantity="other">%d અનુયાયીઓ હમણાં સક્રિય છે</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="one">તમારો {number} મિત્ર લાઇવ છે. સાથે મળીને લાઇવ થવા માટે તેને આમંત્રિત કરો!</item>
+        <item quantity="other">તમારા {number} મિત્રો લાઇવ છે. સાથે મળીને લાઇવ થવા માટે તેને આમંત્રિત કરો!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="one">રિચાર્જ કરીને વધારાનો {num} સિક્કો અનલૉક કરો</item>
+        <item quantity="other">રિચાર્જ કરીને વધારાના {num} સિક્કાઓ અનલૉક કરો</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="one">{num} દિવસ</item>
+        <item quantity="other">{num} દિવસ</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="one">{num} સિક્કો અનલૉક કરો</item>
+        <item quantity="other">{num} સિક્કાઓ અનલૉક કરો</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="one">{num} સિક્કો</item>
+        <item quantity="other">{num} સિક્કાઓ</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="one">તમે વધારાનો {num} સિક્કો અનલૉક કરશો.</item>
+        <item quantity="other">તમે વધારાના {num} સિક્કાઓ અનલૉક કરશો.</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="one">વધુ {num_1} સિક્કો રિચાર્જ કરો.</item>
+        <item quantity="other">વધુ {num_1} સિક્કાઓ રિચાર્જ કરો.</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="one">વધારાનો {num} સિક્કો અનલૉક કરવા માટે રિચાર્જ કરો</item>
+        <item quantity="other">વધારાના {num} સિક્કાઓ અનલૉક કરવા માટે રિચાર્જ કરો</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="one">છેલ્લો {number} દિવસ</item>
+        <item quantity="other">છેલ્લાં {number} દિવસ</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="one">{gameName} અને {number} અન્યની કિંમત બદલાઈ ગઈ છે. ભાગીદારી કેન્દ્રમાં વધુ જુઓ.</item>
+        <item quantity="other">{gameName} અને {number} અન્યની કિંમત બદલાઈ ગઈ છે. ભાગીદારી કેન્દ્રમાં વધુ જુઓ.</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="one">પ્રોગ્રામની શરતોના ઉલ્લંઘન બદલ તમારા લાઇવમાં %s દિવસ માટે ગિફ્ટિંગ સસ્પેન્ડ કરાયું છે.</item>
+        <item quantity="other">પ્રોગ્રામની શરતોના ઉલ્લંઘન બદલ તમારા લાઇવમાં %s દિવસ માટે ગિફ્ટિંગ સસ્પેન્ડ કરાયું છે.</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="one">આ લાઇવમાં ગિફ્ટિંગ સસ્પેન્ડ કરાયું છે અને %s દિવસ મિનિટમાં પુનઃસ્થાપિત થશે.</item>
+        <item quantity="other">આ લાઇવમાં ગિફ્ટિંગ સસ્પેન્ડ કરાયું છે અને %s દિવસ મિનિટમાં પુનઃસ્થાપિત થશે.</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="one">{0} દિવસ માટે ગિફ્ટિંગ સસ્પેન્ડ કરાયું છે.</item>
+        <item quantity="other">{0} દિવસ માટે ગિફ્ટિંગ સસ્પેન્ડ કરાયું છે.</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="one">%s દિવસ માટે ગિફ્ટિંગ સસ્પેન્ડ કરાયું છે</item>
+        <item quantity="other">%s દિવસ માટે ગિફ્ટિંગ સસ્પેન્ડ કરાયું છે</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="one">%d સિક્કા માટે મોકલો</item>
+        <item quantity="other">%d સિક્કાઓ માટે મોકલો</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="one">રિચાર્જિંગ પૂરું થયું અને તમારી પાસે હવે %d સિક્કો છે. તમારું સમર્થન બતાવવા માટે આ ગિફ્ટ મોકલો!</item>
+        <item quantity="other">રિચાર્જિંગ પૂરું થયું અને તમારી પાસે હવે %d સિક્કાઓ છે. તમારું સમર્થન બતાવવા માટે આ ગિફ્ટ મોકલો!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="one">વિનિમય પૂરું થયું અને તમારી પાસે હવે %d સિક્કો છે. તમારું સમર્થન બતાવવા માટે આ ગિફ્ટ મોકલો!</item>
+        <item quantity="other">વિનિમય પૂરું થયું અને તમારી પાસે હવે %d સિક્કાઓ છે. તમારું સમર્થન બતાવવા માટે આ ગિફ્ટ મોકલો!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="one">{0:user} એ {1:gift} ({2:string} પોઇન્ટ) {3:string} મોકલ્યો, તેમણે મોકલેલી પ્રથમ ગિફ્ટ. તમારી પ્રશંસા વ્યક્ત કરો!</item>
+        <item quantity="other">{0:user} એ {1:gift} ({2:string} પોઇન્ટ) {3:string} મોકલ્યા, તેમણે મોકલેલી પ્રથમ ગિફ્ટ. તમારી પ્રશંસા વ્યક્ત કરો!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="one">{0:user} એ {1:gift} ({2:string} પોઇન્ટ) {3:string} મોકલ્યો</item>
+        <item quantity="other">{0:user} એ {1:gift} ({2:string} પોઇન્ટ) {3:string} મોકલ્યા</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="one">{0:user} એ {1:gift} ({2:string} પોઇન્ટ) {3:string} મોકલ્યો</item>
+        <item quantity="other">{0:user} એ {1:gift} ({2:string} પોઇન્ટ) {3:string} મોકલ્યા</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="one">{0:user} એ {1:gift} ({2:string} પોઇન્ટ) {3:string} મોકલ્યો અને આ ટૂરમાં પ્રથમ વખત નિર્માતા સાથે {4:city} ગયા!</item>
+        <item quantity="other">{0:user} એ {1:gift} ({2:string} પોઇન્ટ) {3:string} મોકલ્યા અને આ ટૂરમાં પ્રથમ વખત નિર્માતા સાથે {4:city} ગયા!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="one">ગિફ્ટની વિગતો (કુલ {{num}} લેવડદેવડ)</item>
+        <item quantity="other">ગિફ્ટની વિગતો (કુલ {{num}} લેવડદેવડ)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="one">{amount}સિક્કો</item>
+        <item quantity="other">{amount}સિક્કાઓ</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="one">ગિફ્ટ</item>
+        <item quantity="other">ગિફ્ટ્સ</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="one">%d સિક્કા</item>
+        <item quantity="other">%d સિક્કાઓ</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="one">તમે %s ગિફ્ટ પ્રાપ્ત કરી છે. આભાર કહેવાનું ભૂલશો નહીં.</item>
+        <item quantity="other">તમે %s ગિફ્ટ્સ પ્રાપ્ત કરી છે. આભાર કહેવાનું ભૂલશો નહીં.</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="one">તમે %s ગિફ્ટ પ્રાપ્ત કરી છે</item>
+        <item quantity="other">તમે %s ગિફ્ટ્સ પ્રાપ્ત કરી છે</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="one">%s સિક્કા માટે એક્સચેન્જ પૂર્ણ કરીએ?</item>
+        <item quantity="other">%s સિક્કાઓ માટે એક્સચેન્જ પૂર્ણ કરીએ?</item>
+    </plurals>
+    <plurals name="lz">
+        <item quantity="one">%d સિક્કા માટે એક્સચેન્જ પૂર્ણ કરીએ?</item>
+        <item quantity="other">%d સિક્કાઓ માટે એક્સચેન્જ પૂર્ણ કરીએ?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="one">લાઇવ થાઓ (%d સેકન્ડ)</item>
+        <item quantity="other">લાઇવ થાઓ (%d સેકન્ડ)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="one">%s અતિથિની વિનંતી</item>
+        <item quantity="other">%s અતિથિની વિનંતીઓ</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="one">%s વિનંતી</item>
+        <item quantity="other">%s વિનંતી</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="one">%s પોઇન્ટ</item>
+        <item quantity="other">%s પોઇન્ટ્સ</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="one">%2$s સુધી પહોંચવા માટે %1$s પોઇન્ટ</item>
+        <item quantity="other">%2$s સુધી પહોંચવા માટે %1$s પોઇન્ટ્સ</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="one">%d દર્શક વિનંતી કરી રહ્યા છે</item>
+        <item quantity="other">%d દર્શકો વિનંતી કરી રહ્યાં છે</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="one">%d દિવસ સુધી ગેસ્ટ તરીકે લાઇવ જવા માટે તમે સસ્પેન્ડ કરવામાં આવ્યા છો</item>
+        <item quantity="other">%d દિવસ સુધી ગેસ્ટ તરીકે લાઇવ જવા માટે તમે સસ્પેન્ડ કરવામાં આવ્યા છો</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="one">%d કલાક સુધી ગેસ્ટ તરીકે લાઇવ જવા માટે તમે સસ્પેન્ડ કરવામાં આવ્યા છો</item>
+        <item quantity="other">%d કલાકો સુધી ગેસ્ટ તરીકે લાઇવ જવા માટે તમે સસ્પેન્ડ કરવામાં આવ્યા છો</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="one">%d મિનિટ સુધી ગેસ્ટ તરીકે લાઇવ જવા માટે તમે સસ્પેન્ડ કરવામાં આવ્યા છો</item>
+        <item quantity="other">%d મિનિટ સુધી ગેસ્ટ તરીકે લાઇવ જવા માટે તમે સસ્પેન્ડ કરવામાં આવ્યા છો</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="one">%d સેકન્ડ સુધી ગેસ્ટ તરીકે લાઇવ જવા માટે તમે સસ્પેન્ડ કરવામાં આવ્યા છો</item>
+        <item quantity="other">%d સેકન્ડ સુધી ગેસ્ટ તરીકે લાઇવ જવા માટે તમે સસ્પેન્ડ કરવામાં આવ્યા છો</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="one">સાધન</item>
+        <item quantity="other">સાધનો</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="one">[username] અને [number] અનુયાયીએ તમને લાઇવ થવા માટે નજ કર્યું છે</item>
+        <item quantity="other">[username] અને [number] અનુયાયીઓએ તમને લાઇવ થવા માટે નજ કર્યું છે</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="one">[username] અને [number] અનુયાયીએ તાજેતરમાં જ તમને લાઇવ થવા માટે નજ કર્યું છે</item>
+        <item quantity="other">[username] અને [number] અનુયાયીઓએ તાજેતરમાં જ તમને લાઇવ થવા માટે નજ કર્યું છે</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="one">જો તમે આમંત્રણ સ્વીકારો છો, તો આ લાઇવ નિર્માતા તમારા કો-હોસ્ટથી જોડાય છે.</item>
+        <item quantity="other">જો તમે આમંત્રણ સ્વીકારો છો, તો આ લાઇવ નિર્માતાઓ તમારા કો-હોસ્ટથી જોડાય છે.</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="one">{number} દિવસ</item>
+        <item quantity="other">{number} દિવસ</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="one">આગલા પગલામાં, એકવાર તમે પૃષ્ઠ છોડી દો તે પછી, તમારી કૂપન {number} દિવસ પછી જ ફક્ત ફરીથી ઉપયોગમાં લેવા માટે ઉપલબ્ધ થશે.</item>
+        <item quantity="other">આગલા પગલામાં, એકવાર તમે પૃષ્ઠ છોડી દો તે પછી, તમારી કૂપન {number} દિવસ પછી જ ફક્ત ફરીથી ઉપયોગમાં લેવા માટે ઉપલબ્ધ થશે.</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="one">આગલા પગલામાં, એકવાર તમે પૃષ્ઠ છોડી દો તે પછી, તમારી કૂપન {number} કલાક પછી જ ફક્ત ફરીથી ઉપયોગમાં લેવા માટે ઉપલબ્ધ થશે.</item>
+        <item quantity="other">આગલા પગલામાં, એકવાર તમે પૃષ્ઠ છોડી દો તે પછી, તમારી કૂપન {number} કલાક પછી જ ફક્ત ફરીથી ઉપયોગમાં લેવા માટે ઉપલબ્ધ થશે.</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="one">આગલા પગલામાં, એકવાર તમે પૃષ્ઠ છોડી દો તે પછી, તમારી કૂપન {number} મિનિટ પછી જ ફક્ત ફરીથી ઉપયોગમાં લેવા માટે ઉપલબ્ધ થશે.</item>
+        <item quantity="other">આગલા પગલામાં, એકવાર તમે પૃષ્ઠ છોડી દો તે પછી, તમારી કૂપન {number} મિનિટ પછી જ ફક્ત ફરીથી ઉપયોગમાં લેવા માટે ઉપલબ્ધ થશે.</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="one">કૂપન {number} દિવસમાં ફરીથી ઉપલબ્ધ થશે</item>
+        <item quantity="other">કૂપન {number} દિવસમાં ફરીથી ઉપલબ્ધ થશે</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="one">કૂપન {number} કલાકમાં ફરીથી ઉપલબ્ધ થશે</item>
+        <item quantity="other">કૂપન {number} કલાકમાં ફરીથી ઉપલબ્ધ થશે</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="one">કૂપન {number} મિનિટમાં ફરીથી ઉપલબ્ધ થશે</item>
+        <item quantity="other">કૂપન {number} મિનિટમાં ફરીથી ઉપલબ્ધ થશે</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="one">%s લાઇક</item>
+        <item quantity="other">%s લાઇક્સ</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="one">લાઇક</item>
+        <item quantity="other">લાઇક્સ</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="one">%s લાઇક</item>
+        <item quantity="other">%s લાઇક્સ</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="one">%d સેકન્ડ</item>
+        <item quantity="other">%d સેકન્ડ</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="one">તમારી લાઇવ અરજી મંજૂર કરવામાં આવી ન હતી. તમે %d દિવસમાં ફરી અરજી કરી શકો છો.</item>
+        <item quantity="other">તમારી લાઇવ અરજી મંજૂર કરવામાં આવી ન હતી. તમે %d દિવસમાં ફરી અરજી કરી શકો છો.</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="one">તમે લાઇવ એક્સેસ માટે અરજી કરી છે અને આગામી 7 દિવસ માટે લાઇવ થઈ શકો છો. સમુદાય દિશાનિર્દેશોનું અનુસરવાનું યાદ રાખો અને ચાલુ ઍક્સેસ મેળવવા માટે તમારા પ્રથમ અઠવાડિયામાં %d કલાક માટે લાઇવ રહો.</item>
+        <item quantity="other">તમે લાઇવ એક્સેસ માટે અરજી કરી છે અને આગામી 7 દિવસ માટે લાઇવ થઈ શકો છો. સમુદાય દિશાનિર્દેશોનું અનુસરવાનું યાદ રાખો અને ચાલુ ઍક્સેસ મેળવવા માટે તમારા પ્રથમ અઠવાડિયામાં %d કલાકો માટે લાઇવ રહો.</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="one">ચાલુ લાઇવ ઍક્સેસ મેળવવા માટે %s સુધીમાં વધુ %d કલાક માટે લાઇવ રહો</item>
+        <item quantity="other">ચાલુ લાઇવ ઍક્સેસ મેળવવા માટે %s સુધીમાં વધુ %d કલાકો માટે લાઇવ રહો</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="one">ચાલુ લાઇવ ઍક્સેસ મેળવવા માટે %2$s સુધીમાં વધુ %1$s કલાક માટે લાઇવ રહો</item>
+        <item quantity="other">ચાલુ લાઇવ ઍક્સેસ મેળવવા માટે %2$s સુધીમાં વધુ %1$s કલાકો માટે લાઇવ રહો</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="one">%s પોઇન્ટ</item>
+        <item quantity="other">%s પોઇન્ટ</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="one">{%s host username}ને આ અઠવાડિયાના નં. {%n} લાઇવ નિર્માતા બનવા માટે {%d} સિક્કાની જરૂર છે!</item>
+        <item quantity="other">{%s host username}ને આ અઠવાડિયાના નં. {%n} લાઇવ નિર્માતા બનવા માટે {%d} સિક્કાઓની જરૂર છે!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="one">1 દિવસ બાકી. નં. 3 લાઇવ નિર્માતા બનવા અને તમારા વિડિયો પર વિશિષ્ટ બેજ જીતવા માટે વધુ {%d} ડાયમંડ મેળવો.</item>
+        <item quantity="other">1 દિવસ બાકી. નં. 3 લાઇવ નિર્માતા બનવા અને તમારા વિડિયો પર વિશિષ્ટ બેજ જીતવા માટે વધુ {%d} ડાયમંડ મેળવો.</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="one">1 દિવસ બાકી. તમારું લાઇવ વધુ સંભવિત દર્શકો સુધી પહોંંચે તે માટે {%d} વધુ ડાયમંડ મેળવો.</item>
+        <item quantity="other">1 દિવસ બાકી. તમારું લાઇવ વધુ સંભવિત દર્શકો સુધી પહોંંચે તે માટે {%d} વધુ ડાયમંડ્સ મેળવો.</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="one">1 દિવસ બાકી. લાઇવ નિર્માતાઓ માટેના અનન્ય પુરસ્કારો જીતવા માટે વધુ {%d} ડાયમંડ મેળવો!</item>
+        <item quantity="other">1 દિવસ બાકી. લાઇવ નિર્માતાઓ માટેના અનન્ય પુરસ્કારો જીતવા માટે વધુ {%d} ડાયમંડ મેળવો!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="one">1 અનુયાયી હમણાં સક્રિય છે</item>
+        <item quantity="other">%s અનુયાયીઓ હમણાં સક્રિય છે</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="one">%s સિક્કાની જરૂર છે</item>
+        <item quantity="other">%s સિક્કાઓની જરૂર છે</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="one">%d સબ્સ્ક્રાઇબર જોઈ રહ્યાં છે</item>
+        <item quantity="other">%d સબ્સ્ક્રાઇબર્સ જોઈ રહ્યાં છે</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="one">3 મિનિટ બાકી. નં. 3 લાઇવ નિર્માતા બનવા અને વિશિષ્ટ બેજ જીતવા માટે વધુ {%d} ડાયમંડ મેળવો.</item>
+        <item quantity="other">3 મિનિટ બાકી. નં. 3 લાઇવ નિર્માતા બનવા અને વિશિષ્ટ બેજ જીતવા માટે વધુ {%d} ડાયમંડ મેળવો.</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="one">3 મિનિટ બાકી. તમારું લાઇવ વધુ સંભવિત દર્શકો સુધી પહોંંચે તે માટે {%d} વધુ ડાયમંડ મેળવો.</item>
+        <item quantity="other">3 મિનિટ બાકી. તમારું લાઇવ વધુ સંભવિત દર્શકો સુધી પહોંંચે તે માટે {%d} વધુ ડાયમંડ્સ મેળવો.</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="one">3 મિનિટ બાકી. લોકપ્રિય લાઇવ નિર્માતાઓ માટેના અનન્ય પુરસ્કારો જીતવા માટે વધુ {%d} ડાયમંડ મેળવો!</item>
+        <item quantity="other">3 મિનિટ બાકી. લોકપ્રિય લાઇવ નિર્માતાઓ માટેના અનન્ય પુરસ્કારો જીતવા માટે વધુ {%d} ડાયમંડ મેળવો!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="one">%s કલાક %d મિનિટ</item>
+        <item quantity="other">%s કલાક %d મિનિટ</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="one">ડાયમંડ</item>
+        <item quantity="other">ડાયમંડ્સ</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="one">જુઓ</item>
+        <item quantity="other">વ્યૂઝ</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="one">%s મિનિટ પછી પ્રશ્નોના જવાબ આપી શકાતા નથી</item>
+        <item quantity="other">%s મિનિટો પછી પ્રશ્નોના જવાબ આપી શકાતા નથી</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="one">%s કલાક પહેલા</item>
+        <item quantity="other">%s કલાક પહેલા</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="one">%s મિનિટ પહેલા</item>
+        <item quantity="other">%s મિનિટ પહેલા</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="one">ગિફ્ટર્સની પ્રાથમિકતા વાળી %d વિનંતી</item>
+        <item quantity="other">ગિફ્ટર્સની પ્રાથમિકતા વાળી %d વિનંતીઓ</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="one">%d સિક્કા</item>
+        <item quantity="other">%d સિક્કાઓ</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="one">આના માટે તમારો %d સિક્કો ખર્ચાશે.</item>
+        <item quantity="other">આના માટે તમારા %d સિક્કાઓ ખર્ચાશે.</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="one">તમે %d સિક્કો મોકલ્યો છે. %s</item>
+        <item quantity="other">તમે %d સિક્કાઓ મોકલ્યા છે. %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="one">કુલ %d થી વધુ સિક્કા મોકલનારની વિનંતીઓને લાઇવ નિર્માતા પ્રાથમિકતા આપી શકે છે.</item>
+        <item quantity="other">કુલ %d થી વધુ સિક્કાઓ મોકલનારની વિનંતીઓને લાઇવ નિર્માતા પ્રાથમિકતા આપી શકે છે.</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="one">તમે અને અન્ય લોકોમાંથી કુલ %d થી વધુ સિક્કા મોકલનારની વિનંતીઓને લાઇવ નિર્માતા પ્રાથમિકતા આપી શકે છે.</item>
+        <item quantity="other">તમે અને અન્ય લોકોમાંથી કુલ %d થી વધુ સિક્કાઓ મોકલનારની વિનંતીઓને લાઇવ નિર્માતા પ્રાથમિકતા આપી શકે છે.</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="one">આના માટે તમારો %d સિક્કો ખર્ચાશે.</item>
+        <item quantity="other">આના માટે તમારા %d સિક્કાઓ ખર્ચાશે.</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="one">તમે %1$sને તેમનો કૅમેરા %2$s સેકન્ડમાં ફરી ચાલુ કરવા માટે આમંત્રિત કરી શકો છો</item>
+        <item quantity="other">તમે %1$sને તેમનો કૅમેરા %2$s સેકન્ડમાં ફરી ચાલુ કરવા માટે આમંત્રિત કરી શકો છો</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="one">તમે %1$sને તેમનો માઇક્રોફોન %2$s સેકન્ડમાં ફરી ચાલુ કરવા માટે આમંત્રિત કરી શકો છો</item>
+        <item quantity="other">તમે %1$sને તેમનો માઇક્રોફોન %2$s સેકન્ડમાં ફરી ચાલુ કરવા માટે આમંત્રિત કરી શકો છો</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="one">%d મિનિટ</item>
+        <item quantity="other">%d મિનિટ</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="one">%d સેકન્ડ</item>
+        <item quantity="other">%d સેકન્ડ</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="one">%d મિનિટ</item>
+        <item quantity="other">%d મિનિટ</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="one">%d સેકન્ડ</item>
+        <item quantity="other">%d સેકન્ડ</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="one">સ્ટેજ 1માં પૂરો કરવા માટેનો %s ટાસ્ક</item>
+        <item quantity="other">સ્ટેજ 1માં પૂરા કરવા માટેના %s ટાસ્ક</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="one">સ્ટેજ 2માં પૂરો કરવા માટેનો %s ટાસ્ક</item>
+        <item quantity="other">સ્ટેજ 2માં પૂરા કરવા માટેના %s ટાસ્ક</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="one">તમે વધુમાં વધુ %s કસ્ટમાઇઝ કરેલ ભથ્થું બનાવી શકો છો. એક નવું બનાવવા માટે એક કસ્ટમાઇઝ કરેલ ભથ્થુ કાઢી નાખો.</item>
+        <item quantity="other">તમે વધુમાં વધુ %s કસ્ટમાઇઝ કરેલા ભથ્થા બનાવી શકો છો. એક નવું બનાવવા માટે એક કસ્ટમાઇઝ કરેલ ભથ્થુ કાઢી નાખો.</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="one">પોલ %s સેકન્ડમાં સમાપ્ત થાય છે</item>
+        <item quantity="other">પોલ %s સેકન્ડમાં સમાપ્ત થાય છે</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="one">હમણાં મત આપો (%ss) :</item>
+        <item quantity="other">હમણાં મત આપો (%ss) :</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="one">તમે આજે %d સિક્કો ખર્ચ કર્યો છે.</item>
+        <item quantity="other">તમે આજે %d સિક્કાઓ ખર્ચ્યા છે.</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="one">ધીમી ગતિએ ગિફ્ટ આપો અને %d મિનિટમાં ફરી પ્રયાસ કરો.</item>
+        <item quantity="other">ધીમી ગતિએ ગિફ્ટ આપો અને %d મિનિટમાં ફરી પ્રયાસ કરો.</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="one">{0:user}નું પોર્ટલ બંધ થઈ ગયું છે. પોર્ટલ દ્વારા {1:string} દર્શક જોડાયા.</item>
+        <item quantity="other">{0:user}નું પોર્ટલ બંધ થઈ ગયું છે. પોર્ટલ દ્વારા {1:string} દર્શકો જોડાયા.</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="one">{0:user}નું પોર્ટલ બંધ થઈ ગયું છે. પોર્ટલ દ્વારા {1:string} દર્શક જોડાયા. શાબાશ! ��</item>
+        <item quantity="other">{0:user}નું પોર્ટલ બંધ થઈ ગયું છે. પોર્ટલ દ્વારા {1:string} દર્શકો જોડાયા. શાબાશ! ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="one">{0:user}નું પોર્ટલ બંધ થઈ ગયું છે. પોર્ટલ દ્વારા {1:string} દર્શક જોડાયા. ઉત્તમ! ��</item>
+        <item quantity="other">{0:user}નું પોર્ટલ બંધ થઈ ગયું છે. પોર્ટલ દ્વારા {1:string} દર્શકો જોડાયા. ઉત્તમ! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="one">%s વાર જોવાયું</item>
+        <item quantity="other">%s વાર જોવાયું</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="one">ડેસ્કટૉપ વેબ પર {{num}} સિક્કો ખરીદ્યો</item>
+        <item quantity="other">ડેસ્કટૉપ વેબ પર {{num}} સિક્કાઓ ખરીદ્યા</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="one">એપ્લિકેશનમાં {{num}} સિક્કો ખરીદ્યો</item>
+        <item quantity="other">એપ્લિકેશનમાં {{num}} સિક્કાઓ ખરીદ્યા</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="one">મોબાઇલ વેબ પર {{num}} સિક્કો ખરીદ્યો</item>
+        <item quantity="other">મોબાઇલ વેબ પર {{num}} સિક્કાઓ ખરીદ્યા</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="one">અમે તમારી અપીલની સમીક્ષા કરી અને તમારી રદબાતલ અવધિને સમાયોજિત કરી. PC અથવા Mac સાથે લાઇવ થાઓની તમારી ઍક્સેસ %s દિવસમાં પુનઃસ્થાપિત કરવામાં આવશે.</item>
+        <item quantity="other">અમે તમારી અપીલની સમીક્ષા કરી અને તમારી રદબાતલ અવધિને સમાયોજિત કરી. PC અથવા Mac સાથે લાઇવ થાઓની તમારી ઍક્સેસ %s દિવસમાં પુનઃસ્થાપિત કરવામાં આવશે.</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="one">સમુદાયના દિશાનિર્દેશોના અનેકવાર ઉલ્લંઘનને કારણે PC અથવા Mac સાથે લાઇવ થાઓની તમારી ઍક્સેસ %s દિવસ માટે સસ્પેન્ડ કરવામાં આવી છે.</item>
+        <item quantity="other">સમુદાયના દિશાનિર્દેશોના અનેકવાર ઉલ્લંઘનને કારણે PC અથવા Mac સાથે લાઇવ થાઓની તમારી ઍક્સેસ %s દિવસ માટે સસ્પેન્ડ કરવામાં આવી છે.</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="one">અમે તમારી અપીલની સમીક્ષા કરી છે અને તમારી ટ્રેઝર બોક્સ ઍક્સેસ રદ કરવાની અવધિને %s દિવસથી સમાયોજિત કરી.</item>
+        <item quantity="other">અમે તમારી અપીલની સમીક્ષા કરી છે અને તમારી ટ્રેઝર બોક્સ ઍક્સેસ રદ કરવાની અવધિને %s દિવસથી સમાયોજિત કરી.</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="one">બહુવિધ સમુદાયના દિશાનિર્દેશોના ઉલ્લંઘનને કારણે તમારી ટ્રેઝર બોક્સ ઍક્સેસ %s દિવસ માટે સસ્પેન્ડ કરવામાં આવી છે.</item>
+        <item quantity="other">બહુવિધ સમુદાયના દિશાનિર્દેશોના ઉલ્લંઘનને કારણે તમારી ટ્રેઝર બોક્સ ઍક્સેસ %s દિવસ માટે સસ્પેન્ડ કરવામાં આવી છે.</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="one">છેલ્લા 30 દિવસમાં તમે %sથી વધુ ડાયમંડ પ્રાપ્ત કર્યા છે. અઠવાડિક રેન્કિંગમાં જોડાવવા માટે ઉત્તમ કાર્ય ચાલુ રાખો.</item>
+        <item quantity="other">છેલ્લા 30 દિવસમાં તમે %sથી વધુ ડાયમંડ્સ પ્રાપ્ત કર્યા છે. અઠવાડિક રેન્કિંગમાં જોડાવવા માટે ઉત્તમ કાર્ય ચાલુ રાખો.</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="one">આ રેન્કિંગ છેલ્લા 30 દિવસમાં {0:string}થી ઓછો ડાયમંડ મેળવ્યો હોય તેવા લાઇવ નિર્માતાઓ બતાવે છે.</item>
+        <item quantity="other">આ રેન્કિંગ છેલ્લા 30 દિવસમાં {0:string}થી ઓછા ડાયમંડ મેળવ્યા હોય તેવા લાઇવ નિર્માતાઓ બતાવે છે.</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="one">%s દિવસ માટે ગિફ્ટિંગ સસ્પેન્ડ કરાયું છે</item>
+        <item quantity="other">%s દિવસ માટે ગિફ્ટિંગ સસ્પેન્ડ કરાયું છે</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="one">તમારી પાસે હવે {number_1} સિક્કો છે. તમે આઇટમ મોકલવા માટે {number_2} સિક્કાઓ ({amount}) રિચાર્જ કરી શકો છો.</item>
+        <item quantity="other">તમારી પાસે હવે {number_1} સિક્કાઓ છે. તમે આઇટમ મોકલવા માટે {number_2} સિક્કાઓ ({amount}) રિચાર્જ કરી શકો છો.</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="one">%s સિક્કો ઓછો</item>
+        <item quantity="other">%s સિક્કાઓ ઓછાં</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="one">તમે {number} આમંત્રણ લિંક પ્રાપ્ત કરી છે</item>
+        <item quantity="other">તમે {number} આમંત્રણ લિંક્સ પ્રાપ્ત કરી છે</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="one">%s તરફનું તમારું સબ્સ્ક્રિપ્શન આમંત્રણ ખોલો</item>
+        <item quantity="other">%s અને અન્ય લોકો તરફનું તમારું સબ્સ્ક્રિપ્શન આમંત્રણ ખોલો</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="one">વિનંતી કરી: %d મિનિટ પહેલાં</item>
+        <item quantity="other">વિનંતી કરી: %d મિનિટ પહેલાં</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="one">%s દિવસ માટે ગિફ્ટિંગ સસ્પેન્ડ કરાયું છે</item>
+        <item quantity="other">%s દિવસ માટે ગિફ્ટિંગ સસ્પેન્ડ કરાયું છે</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="one">ઍક્સેસ %s દિવસમાં પુનઃસ્થાપિત કરવામાં આવશે.</item>
+        <item quantity="other">ઍક્સેસ %s દિવસમાં પુનઃસ્થાપિત કરવામાં આવશે.</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="one">અમે તમારી અપીલની સમીક્ષા કરી અને તમારી રદબાતલ અવધિને સમાયોજિત કરી. તમારી LIVE Studioની ઍક્સેસ %s દિવસમાં પુનઃસ્થાપિત કરવામાં આવશે.</item>
+        <item quantity="other">અમે તમારી અપીલની સમીક્ષા કરી અને તમારી રદબાતલ અવધિને સમાયોજિત કરી. તમારી LIVE Studioની ઍક્સેસ %s દિવસમાં પુનઃસ્થાપિત કરવામાં આવશે.</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="one">અમે તમારી અપીલની સમીક્ષા કરી અને તમારી રદબાતલ અવધિને સમાયોજિત કરી. તમારી મોબાઇલ ગેમિંગની ઍક્સેસ %s દિવસમાં પુનઃસ્થાપિત કરવામાં આવશે.</item>
+        <item quantity="other">અમે તમારી અપીલની સમીક્ષા કરી અને તમારી રદબાતલ અવધિને સમાયોજિત કરી. તમારી મોબાઇલ ગેમિંગની ઍક્સેસ %s દિવસમાં પુનઃસ્થાપિત કરવામાં આવશે.</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="one">અમે તમારી અપીલની સમીક્ષા કરી અને તમારી રદબાતલ અવધિને સમાયોજિત કરી. PC અથવા Mac સાથે લાઇવ થાઓની તમારી ઍક્સેસ %s દિવસમાં પુનઃસ્થાપિત કરવામાં આવશે.</item>
+        <item quantity="other">અમે તમારી અપીલની સમીક્ષા કરી અને તમારી રદબાતલ અવધિને સમાયોજિત કરી. PC અથવા Mac સાથે લાઇવ થાઓની તમારી ઍક્સેસ %s દિવસમાં પુનઃસ્થાપિત કરવામાં આવશે.</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="one">અમારા લાઇવના નિયમો અથવા સમુદાયના દિશાનિર્દેશોના વારંવાર ઉલ્લંઘનોને કારણે LIVE Studio પરની તમારી ઍક્સેસને %s દિવસ માટે સસ્પેન્ડ કરવામાં આવી છે.</item>
+        <item quantity="other">અમારા લાઇવના નિયમો અથવા સમુદાયના દિશાનિર્દેશોના વારંવાર ઉલ્લંઘનોને કારણે LIVE Studio પરની તમારી ઍક્સેસને %s દિવસ માટે સસ્પેન્ડ કરવામાં આવી છે.</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="one">અમારા લાઇવના નિયમો અથવા સમુદાયના દિશાનિર્દેશોના વારંવાર ઉલ્લંઘનોને કારણે તમારી મોબાઇલ ગેમિંગની ઍક્સેસને %s દિવસ માટે સસ્પેન્ડ કરવામાં આવી છે.</item>
+        <item quantity="other">અમારા લાઇવના નિયમો અથવા સમુદાયના દિશાનિર્દેશોના વારંવાર ઉલ્લંઘનોને કારણે તમારી મોબાઇલ ગેમિંગની ઍક્સેસને %s દિવસ માટે સસ્પેન્ડ કરવામાં આવી છે.</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="one">અમારા લાઇવના નિયમો અથવા સમુદાયના દિશાનિર્દેશના વારંવાર ઉલ્લંઘનોને કારણે તમારી PC અથવા Mac સાથે લાઇવ થાઓ માટેની ઍક્સેસને %s દિવસ માટે સસ્પેન્ડ કરવામાં આવી છે.</item>
+        <item quantity="other">અમારા લાઇવના નિયમો અથવા સમુદાયના દિશાનિર્દેશના વારંવાર ઉલ્લંઘનોને કારણે તમારી PC અથવા Mac સાથે લાઇવ થાઓ માટેની ઍક્સેસને %s દિવસ માટે સસ્પેન્ડ કરવામાં આવી છે.</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="one">લક્ષ્ય: {&lt;num&gt;} ગિફ્ટર</item>
+        <item quantity="other">લક્ષ્ય: {&lt;num&gt;} ગિફ્ટર્સ</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="one">લક્ષ્ય: {&lt;num&gt;} ગિફ્ટિંગ પોઇન્ટ</item>
+        <item quantity="other">લક્ષ્ય: {&lt;num&gt;} ગિફ્ટિંગ પોઇન્ટ</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="one">લક્ષ્ય: {&lt;num&gt;} ટીમ ગિફ્ટર</item>
+        <item quantity="other">લક્ષ્ય: {&lt;num&gt;} ટીમ ગિફ્ટર</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="one">લક્ષ્ય: {&lt;num&gt;} ટીમ ગિફ્ટિંગ પોઇન્ટ</item>
+        <item quantity="other">લક્ષ્ય: {&lt;num&gt;} ટીમ ગિફ્ટિંગ પોઇન્ટ</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="one">+ &lt;num&gt; મેચ પોઇન્ટ</item>
+        <item quantity="other">+ &lt;num&gt; મેચ પોઇન્ટ</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="one">તમારી ટિપ્પણી %s દર્શકને ટોચ પર દેખાશે</item>
+        <item quantity="other">તમારી ટિપ્પણી %s દર્શકોને ટોચ પર દેખાશે</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="one">લાઇવ દરમિયાન તમારી સ્ટાર ટિપ્પણીઓ કાઢી નાખવામાં આવી હતી અને તમને આ ટિપ્પણી માટે 24 કલાકમાં [0:string] સિક્કાનું રિફંડ મળશે.</item>
+        <item quantity="other">લાઇવ દરમિયાન તમારી સ્ટાર ટિપ્પણીઓ કાઢી નાખવામાં આવી હતી અને તમને આ ટિપ્પણી માટે 24 કલાકમાં [0:string] સિક્કાઓનું રિફંડ મળશે.</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="one">કતારમાં %s સ્ટાર ટિપ્પણી</item>
+        <item quantity="other">કતારમાં %s સ્ટાર ટિપ્પણીઓ</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="one">તમારી સ્ટાર ટિપ્પણીઓ તાજેતરમાં કાઢી નાખવામાં આવી હતી. {num} કલાકમાં ફરીથી પ્રયાસ કરો.</item>
+        <item quantity="other">તમારી સ્ટાર ટિપ્પણીઓ તાજેતરમાં કાઢી નાખવામાં આવી હતી. {num} કલાકમાં ફરીથી પ્રયાસ કરો.</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="one">તમારી સ્ટાર ટિપ્પણીઓ તાજેતરમાં કાઢી નાખવામાં આવી હતી. {num} મિનિટમાં ફરીથી પ્રયાસ કરો.</item>
+        <item quantity="other">તમારી સ્ટાર ટિપ્પણીઓ તાજેતરમાં કાઢી નાખવામાં આવી હતી. {num} મિનિટમાં ફરીથી પ્રયાસ કરો.</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="one">%s દિવસમાં સમાપ્ત થાય છે</item>
+        <item quantity="other">%s દિવસમાં સમાપ્ત થાય છે</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="one">%1$s દર્શકો જોઈ રહ્યાં છે. જો તમે હમણાં ફક્ત સબ્સ્ક્રાઇબર માટેનું લાઇવ શરુ કરો તો તમને %2$s નવા સબ્સ્ક્રાઇબર મળી શકે છે.</item>
+        <item quantity="other">%1$s દર્શકો જોઈ રહ્યાં છે. જો તમે હમણાં ફક્ત સબ્સ્ક્રાઇબર માટેનું લાઇવ શરુ કરો તો તમને %2$s નવા સબ્સ્ક્રાઇબર્સ મળી શકે છે.</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="one">%s સબ્સ્ક્રાઇબર જોઈ રહ્યાં છે. ફક્ત સબ્સ્ક્રાઇબર માટે લાઇવ કરીને તમારા સમુદાય સાથે તમારું જોડાણ વધુ ગાઢ બનાવવાનો આ સારો સમય છે.</item>
+        <item quantity="other">%s સબ્સ્ક્રાઇબર્સ જોઈ રહ્યાં છે. ફક્ત સબ્સ્ક્રાઇબર માટે લાઇવ કરીને તમારા સમુદાય સાથે તમારું જોડાણ વધુ ગાઢ બનાવવાનો આ સારો સમય છે.</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="one">તમે દર મહિને ફક્ત સબ્સ્ક્રાઇબર માટે %2$s મિનિટ લાઇવ કરી %1$s નવા સબ્સ્ક્રાઇબર મેળવી શકો છો.</item>
+        <item quantity="other">તમે દર મહિને ફક્ત સબ્સ્ક્રાઇબર માટે %2$s મિનિટ લાઇવ કરી %1$s નવા સબ્સ્ક્રાઇબર્સ મેળવી શકો છો.</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="one">તમે એક ટિપ્પણીમાં %s ઇમોટ દાખલ કરી શકો છો</item>
+        <item quantity="other">તમે એક ટિપ્પણીમાં %s જેટલા ઇમોટ્સ દાખલ કરી શકો છો</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="one">%1$sના %2$s કસ્ટમ ઇમોટનો ઉપયોગ કરવા માટે સબ્સ્ક્રાઇબ કરો</item>
+        <item quantity="other">%1$sના %2$s કસ્ટમ ઇમોટ્સનો ઉપયોગ કરવા માટે સબ્સ્ક્રાઇબ કરો</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="one">જેમની પાસે {number}થી ઓછા અનુયાયી છે</item>
+        <item quantity="other">જેમની પાસે {number}થી ઓછા અનુયાયીઓ છે</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="one">{number}થી ઓછા અનુયાયી ધરાવતા નિર્માતાઓને આમંત્રિત કરી શકાતા નથી</item>
+        <item quantity="other">{number}થી ઓછા અનુયાયી ધરાવતા નિર્માતાઓને આમંત્રિત કરી શકાતા નથી</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="one">નં. {number2} સુધી પહોંચવા વધુ {number1} નિર્માતાને આમંત્રિત કરો! ચાલુ રાખો!</item>
+        <item quantity="other">નં. {number2} સુધી પહોંચવા વધુ {number1} નિર્માતાઓને આમંત્રિત કરો! ચાલુ રાખો!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="one">નં. {rankminusone} સુધી પહોંચવા વધુ {number} નિર્માતાને આમંત્રિત કરો! ચાલુ રાખો!</item>
+        <item quantity="other">નં. {rankminusone} સુધી પહોંચવા વધુ {number} નિર્માતાઓને આમંત્રિત કરો! ચાલુ રાખો!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="one">તમે ફક્ત {number} કરતાં વધુ અનુયાયી ધરાવતા નિર્માતાઓને આમંત્રિત કરી શકો છો.</item>
+        <item quantity="other">તમે ફક્ત {number} કરતાં વધુ અનુયાયીઓ ધરાવતા નિર્માતાઓને આમંત્રિત કરી શકો છો.</item>
+    </plurals>
+    <plurals name="po">
+        <item quantity="one">{num} ઇમોટ મંજૂર કરેલ નથી</item>
+        <item quantity="other">{num} ઇમોટ્સ મંજૂર કરેલ નથી</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="one">તમારું વર્તમાન ભથ્થું %d%% વધુ સબ્સ્ક્રાઇબર્સ લાવી શકે છે.</item>
+        <item quantity="other">તમારા વર્તમાન ભથ્થા %d%% વધુ સબ્સ્ક્રાઇબર્સ લાવી શકે છે.</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="one">%1$s એ હમણાં જ %2$d-મહિનાનું સબ્સ્ક્રિપ્શન ખરીદ્યું!</item>
+        <item quantity="other">%1$s એ હમણાં જ %2$d-મહિનાનું સબ્સ્ક્રિપ્શન ખરીદ્યું!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="one">તમે %s મિનિટમાં ફક્ત એકવાર તેને ચાલુ અથવા બંધ કરી શકો છો. પછી ફરીથી પ્રયાસ કરો.</item>
+        <item quantity="other">તમે %s મિનિટમાં ફક્ત એકવાર તેને ચાલુ અથવા બંધ કરી શકો છો. પછી ફરીથી પ્રયાસ કરો.</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="one">તમારી પાસે {num} સબ્સ્ક્રિપ્શન ભેટ છે. હવે અન્ય લોકોને મોકલો!</item>
+        <item quantity="other">તમારી પાસે {num} સબ્સ્ક્રિપ્શન ભેટો છે. હવે અન્ય લોકોને મોકલો!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="one">તમારી પાસે %d સબ્સ્ક્રિપ્શન ભેટ બાકી છે. હવે અન્ય લોકોને મોકલો!</item>
+        <item quantity="other">તમારી પાસે %d સબ્સ્ક્રિપ્શન ભેટો બાકી છે. હવે અન્ય લોકોને મોકલો!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="one">અભિનંદન! તમને પ્રવૃત્તિના પુરસ્કારો તરીકે [number] સબ્સ્ક્રિપ્શન ભેટ પ્રાપ્ત થઇ છે.</item>
+        <item quantity="other">અભિનંદન! તમને પ્રવૃત્તિના પુરસ્કારો તરીકે [number] સબ્સ્ક્રિપ્શન ભેટો પ્રાપ્ત થઇ છે.</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="one">{num} દિવસ પહેલાં કો-હોસ્ટ કર્યું</item>
+        <item quantity="other">{num} દિવસ પહેલાં કો-હોસ્ટ કર્યું</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="one">{number} દિવસ પહેલાં તમારી સાથે લાઇવ થયા હતા</item>
+        <item quantity="other">{number} દિવસ પહેલાં તમારી સાથે લાઇવ થયા હતા</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="one">{num} દિવસ પહેલાં તમારી સાથે હોસ્ટ કર્યું હતું</item>
+        <item quantity="other">{num} દિવસ પહેલાં તમારી સાથે હોસ્ટ કર્યું હતું</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="one">તમારી ટ્રેઝર બોક્સ ઍક્સેસ સસ્પેન્ડ કરવામાં આવી. ઍક્સેસ %s દિવસમાં પુનઃસ્થાપિત કરવામાં આવશે.</item>
+        <item quantity="other">તમારી ટ્રેઝર બોક્સ ઍક્સેસ સસ્પેન્ડ કરવામાં આવી. ઍક્સેસ %s દિવસમાં પુનઃસ્થાપિત કરવામાં આવશે.</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="one">ટોચનો દર્શક</item>
+        <item quantity="other">ટોચના દર્શકો</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="one">ટોચનો દર્શક</item>
+        <item quantity="other">ટોચના દર્શકો</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="one">%s સેકન્ડમાં ફાઇનલ શરુ થાય છે</item>
+        <item quantity="other">%s સેકન્ડમાં ફાઇનલ શરુ થાય છે</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="one">%s દિવસમાં ફાઇનલ શરુ થાય છે</item>
+        <item quantity="other">%s દિવસમાં ફાઇનલ શરુ થાય છે</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="one">%s કલાકમાં ફાઇનલ શરુ થાય છે</item>
+        <item quantity="other">%s કલાકમાં ફાઇનલ શરુ થાય છે</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="one">%s મિનિટમાં ફાઇનલ શરુ થાય છે</item>
+        <item quantity="other">%s મિનિટમાં ફાઇનલ શરુ થાય છે</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="one">%s દિવસમાં સેમી-ફાઇનલ શરુ થાય છે</item>
+        <item quantity="other">%s દિવસમાં સેમી-ફાઇનલ શરુ થાય છે</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="one">%s કલાકમાં સેમી-ફાઇનલ શરુ થાય છે</item>
+        <item quantity="other">%s કલાકમાં સેમી-ફાઇનલ શરુ થાય છે</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="one">%s મિનિટમાં સેમી-ફાઇનલ શરુ થાય છે</item>
+        <item quantity="other">%s મિનિટમાં સેમી-ફાઇનલ શરુ થાય છે</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="one">%s સેકન્ડમાં સેમી-ફાઇનલ શરુ થાય છે</item>
+        <item quantity="other">%s સેકન્ડમાં સેમી-ફાઇનલ શરુ થાય છે</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="one">નં. {1:string} પર પહોંચવા માટે વધુ {0:string} ડાયમંડ</item>
+        <item quantity="other">નં. {1:string} પર પહોંચવા માટે વધુ {0:string} ડાયમંડ</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="one">નં. {1:string} પર પહોંચવા માટે વધુ {0:string} ગિફ્ટર</item>
+        <item quantity="other">નં. {1:string} પર પહોંચવા માટે વધુ {0:string} ગિફ્ટર્સ</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="one">દિવસ</item>
+        <item quantity="other">દિવસો</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="one">તમે {num} સિક્કા માટે {amount} એક્સચેન્જ કર્યા.</item>
+        <item quantity="other">તમે {num} સિક્કાઓ માટે {amount} એક્સચેન્જ કર્યા.</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="one">તમે {amount}માં {num} સિક્કો ખરીદ્યો.</item>
+        <item quantity="other">તમે {amount}માં {num} સિક્કાઓ ખરીદ્યા.</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="one">નં. 2 થી {num} ટીમ પોઇન્ટ આગળ</item>
+        <item quantity="other">નં. 2 થી {num} ટીમ પોઇન્ટ આગળ</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="one">+{num} ટીમ પોઇન્ટ (દરરોજ %1$s/%2$s ટીમ ગિફ્ટ)</item>
+        <item quantity="other">+{num} ટીમ પોઇન્ટ (દરરોજ %1$s/%2$s ટીમ ગિફ્ટ)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="one">%s દર્શક શોધમાંથી જોડાયા</item>
+        <item quantity="other">%s દર્શકો શોધમાંથી જોડાયા</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="one">નં. %2$s પર પહોંચવા માટે %1$s ટીમ પોઇન્ટ</item>
+        <item quantity="other">નં. %2$s પર પહોંચવા માટે %1$s ટીમ પોઇન્ટ</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="one">નં. %2$s પર પહોંચવા માટે %1$s ટીમ પોઇન્ટ</item>
+        <item quantity="other">નં. %2$s પર પહોંચવા માટે %1$s ટીમ પોઇન્ટ</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="one">કંઈક ખોટું થયું. {number} કલાકમાં ફરીથી પ્રયાસ કરો</item>
+        <item quantity="other">કંઈક ખોટું થયું. {number} કલાકમાં ફરીથી પ્રયાસ કરો</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="one">કંઈક ખોટું થયું. {number} મિનિટમાં પાછા આવો</item>
+        <item quantity="other">કંઈક ખોટું થયું. {number} મિનિટમાં પાછા આવો</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="one">દર્શક</item>
+        <item quantity="other">દર્શકો</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="one">%d દર્શક</item>
+        <item quantity="other">%d દર્શકો</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="one">%s દર્શક</item>
+        <item quantity="other">%s દર્શકો</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="one">%s દર્શકે ગિફ્ટ્સ મોકલી</item>
+        <item quantity="other">%s દર્શકોએ ગિફ્ટ્સ મોકલી</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="one">%d દિવસ પહેલા</item>
+        <item quantity="other">%d દિવસ પહેલા</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="one">કલાક</item>
+        <item quantity="other">કલાકો</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="one">%1$d કલાક પહેલા</item>
+        <item quantity="other">%1$d કલાક પહેલાં</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="one">મિનિટ</item>
+        <item quantity="other">મિનિટ</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="one">%1$d મિનિટ પહેલાં</item>
+        <item quantity="other">%1$d મિનિટ પહેલાં</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="one">કલાક</item>
+        <item quantity="other">કલાકો</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="one">મિનિટ</item>
+        <item quantity="other">મિનિટ</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="one">સે</item>
+        <item quantity="other">સે</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="one">%1$d વર્ષ પહેલાં</item>
+        <item quantity="other">%1$d વર્ષ પહેલાં</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="one">માફ કરશો! તમને પ્રતિબંધિત કરવામાં આવ્યા છે\n તમે %1$d દિવસમાં સ્ટ્રીમને ફરીથી લાઇવ કરી શકો છો</item>
+        <item quantity="other">માફ કરશો! તમને પ્રતિબંધિત કરવામાં આવ્યા છે\n તમે %1$d દિવસમાં સ્ટ્રીમને ફરીથી લાઇવ કરી શકો છો</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="one">માફ કરશો! તમને પ્રતિબંધિત કરવામાં આવ્યા છે\n તમે %1$d કલાકમાં સ્ટ્રીમને ફરીથી લાઇવ કરી શકો છો</item>
+        <item quantity="other">માફ કરશો! તમને પ્રતિબંધિત કરવામાં આવ્યા છે\n તમે %1$d કલાકોમાં સ્ટ્રીમને ફરીથી લાઇવ કરી શકો છો</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="one">માફ કરશો, તમે હાલમાં પ્રતિબંધિત છો. \n તમે આટલા સમયમાં સ્ટ્રીમને ફરીથી લાઇવ કરી શકો છો: %1$d મિનિટ</item>
+        <item quantity="other">માફ કરશો, તમે હાલમાં પ્રતિબંધિત છો. \n તમે આટલા સમયમાં સ્ટ્રીમને ફરીથી લાઇવ કરી શકો છો: %1$d મિનિટ</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="one">માફ કરશો! તમને પ્રતિબંધિત કરવામાં આવ્યા છે\n તમે %1$d સેકન્ડમાં ફરીથી લાઇવ સ્ટ્રીમ કરી શકો છો</item>
+        <item quantity="other">માફ કરશો! તમને પ્રતિબંધિત કરવામાં આવ્યા છે\n તમે %1$d સેકન્ડમાં ફરીથી લાઇવ સ્ટ્રીમ કરી શકો છો</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="one">%d વપરાશકર્તા તમારું બ્રોડકાસ્ટ જોઈ રહ્યાં છે, શું તમે તેને બંધ કરવા માંગો છો?</item>
+        <item quantity="other">%d વપરાશકર્તાઓ તમારું બ્રોડકાસ્ટ જોઈ રહ્યાં છે, શું તમે તેને બંધ કરવા માંગો છો?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="one">%d દિવસમાં સમાપ્ત થાય છે</item>
+        <item quantity="other">%d દિવસમાં સમાપ્ત થાય છે</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="one">%d કલાકમાં સમાપ્ત થાય છે</item>
+        <item quantity="other">%d કલાકોમાં સમાપ્ત થાય છે</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="one">%2$d વધુ મેળવવા માટે પ્રથમ વખત %1$d ડાયમંડ રિચાર્જ કરો!</item>
+        <item quantity="other">%2$d વધુ મેળવવા માટે પ્રથમ વખત %1$d ડાયમંડ્સ રિચાર્જ કરો!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="one">મિનિટ</item>
+        <item quantity="other">મિનિટ</item>
+    </plurals>
+</resources>

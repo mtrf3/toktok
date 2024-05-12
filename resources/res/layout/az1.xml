@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.WXF
+    id="@+id/drq"
+    saveEnabled="false"
+    clipChildren="false"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C164106cI
+        id="@+id/is3"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/irq"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <FrameLayout
+            id="@+id/irj"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+        <FrameLayout
+            id="@+id/iri"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+    </FrameLayout>
+    <FrameLayout
+        id="@+id/j83"
+        clipChildren="false"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <FrameLayout
+            id="@+id/fkp"
+            background="@color/cz"
+            fitsSystemWindows="true"
+            layout_width="match_parent"
+            layout_height="match_parent">
+            <FrameLayout
+                id="@+id/fkn"
+                layout_width="match_parent"
+                layout_height="match_parent"/>
+            <FrameLayout
+                id="@+id/fko"
+                layout_width="match_parent"
+                layout_height="match_parent"/>
+        </FrameLayout>
+    </FrameLayout>
+</X.WXF>

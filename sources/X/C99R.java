@@ -1,0 +1,18 @@
+package X;
+
+import com.ss.android.ugc.aweme.experiment.FollowFeedViewStubExperiment;
+
+/* renamed from: X.99R, reason: invalid class name */
+/* loaded from: classes5.dex */
+public final class C99R extends AbstractC65781Prl implements InterfaceC65784Pro<Boolean> {
+    public static final C99R LJLIL = new C99R();
+
+    public C99R() {
+        super(0);
+    }
+
+    @Override // X.InterfaceC65784Pro
+    public final Boolean invoke() {
+        return C278517l.LIZ(FollowFeedViewStubExperiment.REPO_NAME, "first_feed_msg_focus_send_opt", true);
+    }
+}

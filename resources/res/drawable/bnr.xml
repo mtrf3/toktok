@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape shape="rectangle">
+            <solid color="@color/b5"/>
+        </shape>
+    </item>
+    <item
+        top="80.5dp"
+        bottom="253dp">
+        <bitmap
+            gravity="center"
+            src="@drawable/bnq"/>
+    </item>
+</layer-list>

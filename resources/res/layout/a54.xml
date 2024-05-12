@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C45631qh
+        id="@+id/jcz"
+        layout_width="match_parent"
+        layout_height="0dp"
+        layout_weight="1">
+        <LinearLayout
+            orientation="vertical"
+            id="@+id/jci"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            layout_marginTop="24dp"/>
+    </X.C45631qh>
+    <LinearLayout
+        layout_gravity="bottom"
+        orientation="vertical"
+        id="@+id/n0g"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="36dp"/>
+</LinearLayout>

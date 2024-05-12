@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/cud"
+        layout_width="@dimen/vi"
+        layout_height="@dimen/vi"
+        NOT_FOUND_0x3="@drawable/bjo"
+        NOT_FOUND_0x4="@drawable/bjo"/>
+</FrameLayout>

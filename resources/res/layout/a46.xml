@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/bo7"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C27517Ar3
+        id="@+id/jlc"
+        paddingLeft="@dimen/jw"
+        paddingTop="@dimen/jw"
+        paddingRight="@dimen/jw"
+        paddingBottom="@dimen/jw"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        paddingStart="@dimen/jw"
+        paddingEnd="@dimen/jw"/>
+</FrameLayout>

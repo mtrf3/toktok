@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="oval">
+    <solid color="?attr/cf"/>
+    <stroke
+        width="2dp"
+        color="?attr/eb"
+        dashWidth="4dp"
+        dashGap="6dp"/>
+    <size
+        height="50dp"
+        width="50dp"/>
+</shape>

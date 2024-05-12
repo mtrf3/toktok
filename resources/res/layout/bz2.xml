@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/hby"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <FrameLayout
+        layout_gravity="center"
+        id="@+id/hbx"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <X.W5G
+            layout_gravity="center"
+            id="@+id/hbz"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_margin="2dp"
+            scaleType="center"/>
+        <X.TDV
+            layout_gravity="center"
+            id="@+id/iac"
+            visibility="gone"
+            layout_width="32dp"
+            layout_height="32dp"
+            NOT_FOUND_0x7="4dp"
+            NOT_FOUND_0x8="16dp"/>
+    </FrameLayout>
+</FrameLayout>

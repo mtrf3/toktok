@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.W5G
+        layout_gravity="center"
+        id="@+id/ai7"
+        visibility="gone"
+        layout_width="24dp"
+        layout_height="24dp"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center"
+        id="@+id/ai8"
+        layout_width="24dp"
+        layout_height="24dp"/>
+</FrameLayout>

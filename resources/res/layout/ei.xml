@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/d7m"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <fragment
+        name="com.ss.android.ugc.aweme.feed.landscape.LandscapeFeedFragment"
+        id="@+id/dm2"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    background="?attr/cl"
+    paddingTop="10dp"
+    paddingBottom="10dp"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center"
+        id="@+id/itp"
+        layout_width="18dp"
+        layout_height="18dp"/>
+</LinearLayout>

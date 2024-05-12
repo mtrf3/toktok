@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Internetinė garsų biblioteka</item>
+        <item>Mano garsas</item>
+    </array>
+    <array name="l">
+        <item>Tuščia</item>
+    </array>
+    <array name="q">
+        <item>Šalinti</item>
+        <item>Atšaukti</item>
+    </array>
+    <array name="r">
+        <item>Populiaru</item>
+        <item>Naujausi</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="v">
+        <item>Pasirink iš galerijos</item>
+    </array>
+    <array name="a3">
+        <item>Sekmadienis</item>
+        <item>Pirmadienis</item>
+        <item>Antradienis</item>
+        <item>Trečiadienis</item>
+        <item>Ketvirtadienis</item>
+        <item>Penktadienis</item>
+        <item>Šeštadienis</item>
+    </array>
+    <array name="a5">
+        <item>Supaprastinta kinų</item>
+        <item>Tradicinė kinų</item>
+        <item>Anglų</item>
+        <item>Japonų</item>
+        <item>Korėjiečių</item>
+        <item>Rusų</item>
+        <item>Indoneziečių</item>
+        <item>Malajų</item>
+        <item>Portugalų</item>
+        <item>Tailandiečių</item>
+        <item>Vietnamiečių</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Normalus</item>
+        <item>Nespalvotas</item>
+        <item>Menai</item>
+        <item>Senovinis</item>
+        <item>Retrolux</item>
+        <item>Sodrus</item>
+        <item>Chrominis</item>
+    </array>
+    <array name="aa">
+        <item>Sau</item>
+        <item>Vas</item>
+        <item>Kov</item>
+        <item>Bal</item>
+        <item>Geg</item>
+        <item>Bir</item>
+        <item>Lie</item>
+        <item>Rgp</item>
+        <item>Rug</item>
+        <item>Spa</item>
+        <item>Lap</item>
+        <item>Gru</item>
+    </array>
+    <array name="ad">
+        <item>Pirmenybė duomenų taupymui</item>
+        <item>Pirmenybė didelei skiriamajai gebai</item>
+    </array>
+    <array name="ae">
+        <item>Visi</item>
+        <item>Tik draugai</item>
+    </array>
+    <array name="bi">
+        <item>Pirmadienis</item>
+        <item>Antradienis</item>
+        <item>Trečiadienis</item>
+        <item>Ketvirtadienis</item>
+        <item>Penktadienis</item>
+        <item>Šeštadienis</item>
+        <item>Sekmadienis</item>
+    </array>
+</resources>

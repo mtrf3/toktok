@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_selected="true">
+        <shape shape="rectangle">
+            <stroke
+                width="2dp"
+                color="#fe2c55"/>
+            <corners radius="14dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape shape="rectangle">
+            <corners radius="12dp"/>
+            <solid color="#e6ffffff"/>
+        </shape>
+    </item>
+</selector>

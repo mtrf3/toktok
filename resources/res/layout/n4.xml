@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/gv"
+    gravity="center"
+    id="@+id/text"
+    paddingLeft="8dp"
+    paddingTop="@dimen/g8"
+    paddingRight="8dp"
+    paddingBottom="@dimen/g8"
+    layout_width="wrap_content"
+    layout_height="28dp"
+    layout_marginLeft="8dp"
+    layout_marginTop="@dimen/fl"
+    layout_marginBottom="@dimen/fl"
+    cropToPadding="true"
+    paddingStart="8dp"
+    paddingEnd="8dp"
+    layout_marginStart="8dp"/>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C47121t6
+    textColor="?attr/gp"
+    gravity="center"
+    id="@android:id/text1"
+    background="@drawable/ckm"
+    paddingLeft="12dp"
+    paddingRight="12dp"
+    layout_width="wrap_content"
+    layout_height="match_parent"
+    paddingHorizontal="12dp"
+    style="@style/a4d"/>

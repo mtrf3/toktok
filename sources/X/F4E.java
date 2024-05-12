@@ -1,0 +1,18 @@
+package X;
+
+/* loaded from: classes7.dex */
+public enum F4E {
+    INLINE_MAIN_FRAME_POST_ERROR,
+    INLINE_CSP_ERROR,
+    INLINE_MAIN_FRAME_RESOURCE_FAIL,
+    INLINE_MAIN_FRAME_RESOURCE_EMPTY_DATA,
+    INLINE_SCRIPT_RESOURCE_FAIL,
+    WHITE_LIST_CHECK_FAIL,
+    BLOCK_BY_GLOBAL_INTERCEPTOR,
+    BLOCK_BY_BUSINESS_INTERCEPTOR,
+    BLOCH_BY_EMPTY_CONFIG;
+
+    public static F4E valueOf(String str) {
+        return (F4E) V0N.LJJJ(F4E.class, str);
+    }
+}

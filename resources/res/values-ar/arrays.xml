@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>مكتبة الأصوات عبر الإنترنت</item>
+        <item>الصوت الخاص بي</item>
+    </array>
+    <array name="l">
+        <item>مسح</item>
+    </array>
+    <array name="q">
+        <item>حذف</item>
+        <item>إلغاء</item>
+    </array>
+    <array name="r">
+        <item>متصدر</item>
+        <item>الأخير</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>الأحد</item>
+        <item>الاثنين</item>
+        <item>الثلاثاء</item>
+        <item>الأربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
+    </array>
+    <array name="a5">
+        <item>الصينية المبسطة</item>
+        <item>الصينية التقليدية</item>
+        <item>الإنجليزية</item>
+        <item>اليابانية</item>
+        <item>الكورية</item>
+        <item>الروسية</item>
+        <item>الإندونيسية</item>
+        <item>الملايوية</item>
+        <item>البرتغالية</item>
+        <item>التايلاندية</item>
+        <item>الفييتنامية</item>
+        <item>الهندية</item>
+    </array>
+    <array name="a7">
+        <item>عادي</item>
+        <item>أسود/أبيض</item>
+        <item>الفنون</item>
+        <item>عتيق</item>
+        <item>ريترولوكس</item>
+        <item>مشبع</item>
+        <item>كروم</item>
+    </array>
+    <array name="aa">
+        <item>يناير</item>
+        <item>فبراير</item>
+        <item>مارس</item>
+        <item>أبريل</item>
+        <item>مايو</item>
+        <item>يونيو</item>
+        <item>يوليو</item>
+        <item>أغسطس</item>
+        <item>سبتمبر</item>
+        <item>أكتوبر</item>
+        <item>نوفمبر</item>
+        <item>ديسمبر</item>
+    </array>
+    <array name="ad">
+        <item>توفير البيانات أولًا</item>
+        <item>الدقة العالية أولًا</item>
+    </array>
+    <array name="ae">
+        <item>الجميع</item>
+        <item>الأصدقاء فقط</item>
+    </array>
+    <array name="bi">
+        <item>الاثنين</item>
+        <item>الثلاثاء</item>
+        <item>الأربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
+        <item>الأحد</item>
+    </array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape>
+            <solid color="?attr/cl"/>
+        </shape>
+    </item>
+    <item
+        left="-2dp"
+        top="0dp"
+        right="-2dp"
+        bottom="-2dp">
+        <shape>
+            <stroke
+                width="0.5dp"
+                color="?attr/dw"/>
+        </shape>
+    </item>
+</layer-list>

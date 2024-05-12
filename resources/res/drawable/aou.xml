@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="oval">
+    <solid color="?attr/cj"/>
+    <size
+        height="120dp"
+        width="120dp"/>
+</shape>

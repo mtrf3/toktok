@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C47121t6
+        textSize="12sp"
+        textColor="@color/bc"
+        id="@+id/jkp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <X.C02Z
+        layout_gravity="center"
+        id="@+id/jkq"
+        background="@color/cz"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        maxHeight="3dp"
+        progressDrawable="@drawable/ckc"
+        thumb="@drawable/da1"/>
+</FrameLayout>

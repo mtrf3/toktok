@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <FrameLayout
+        id="@+id/v0"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="52dp">
+        <X.C170466mY
+            textSize="13sp"
+            textStyle="bold"
+            textColor="?attr/dj"
+            layout_gravity="center"
+            id="@+id/jmy"
+            paddingLeft="6dp"
+            paddingTop="3dp"
+            paddingRight="6dp"
+            paddingBottom="3dp"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            alpha="0"/>
+    </FrameLayout>
+    <X.C82866Wfe
+        id="@+id/n41"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x13="72dp"
+        NOT_FOUND_0x14="4dp"
+        NOT_FOUND_0x16="36dp"/>
+    <X.C170466mY
+        textSize="10dp"
+        gravity="center"
+        layout_gravity="center_horizontal"
+        id="@+id/k4c"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="20dp"
+        text="ddd"
+        shadowColor="?attr/ei"
+        shadowRadius="2"
+        NOT_FOUND_0x15="false"/>
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C80401Vgz
+    orientation="horizontal"
+    id="@+id/gfw"
+    background="?attr/a4y"
+    visibility="gone"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    NOT_FOUND_0xa="@+id/gfu"
+    NOT_FOUND_0xb="true"
+    NOT_FOUND_0xc="true">
+    <Button
+        id="@+id/gfu"
+        layout_width="0dp"
+        text="@string/i0i"
+        layout_weight="1"
+        insetTop="4dp"
+        insetBottom="4dp"
+        style="?attr/azk"/>
+    <Button
+        id="@+id/gfv"
+        layout_width="0dp"
+        text="@string/i0m"
+        layout_weight="1"
+        insetTop="4dp"
+        insetBottom="4dp"
+        style="?attr/azk"/>
+</X.C80401Vgz>

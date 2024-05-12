@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Online-Soundbibliothek</item>
+        <item>Mein Sound</item>
+    </array>
+    <array name="q">
+        <item>Löschen</item>
+        <item>Abbrechen</item>
+    </array>
+    <array name="r">
+        <item>Angesagt</item>
+        <item>Neueste</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>Sonntag</item>
+        <item>Montag</item>
+        <item>Dienstag</item>
+        <item>Mittwoch</item>
+        <item>Donnerstag</item>
+        <item>Freitag</item>
+        <item>Samstag</item>
+    </array>
+    <array name="a5">
+        <item>Vereinfachtes Chinesisch</item>
+        <item>Traditionelles Chinesisch</item>
+        <item>Englisch</item>
+        <item>Japanisch</item>
+        <item>Koreanisch</item>
+        <item>Russisch</item>
+        <item>Indonesisch</item>
+        <item>Malaiisch</item>
+        <item>Portugiesisch</item>
+        <item>Thailändisch</item>
+        <item>Vietnamesisch</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Normal</item>
+        <item>Schwarz/Weiß</item>
+        <item>Kunst</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Gesättigt</item>
+        <item>Chrom</item>
+    </array>
+    <array name="aa">
+        <item>Jan.</item>
+        <item>Feb.</item>
+        <item>März</item>
+        <item>Apr.</item>
+        <item>Mai</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Aug.</item>
+        <item>Sept.</item>
+        <item>Okt.</item>
+        <item>Nov.</item>
+        <item>Dez.</item>
+    </array>
+    <array name="ad">
+        <item>Sparen von Daten geht vor</item>
+        <item>Hohe Auflösung geht vor</item>
+    </array>
+    <array name="ae">
+        <item>Alle</item>
+        <item>Nur Freunde</item>
+    </array>
+    <array name="bi">
+        <item>Montag</item>
+        <item>Dienstag</item>
+        <item>Mittwoch</item>
+        <item>Donnerstag</item>
+        <item>Freitag</item>
+        <item>Samstag</item>
+        <item>Sonntag</item>
+    </array>
+</resources>

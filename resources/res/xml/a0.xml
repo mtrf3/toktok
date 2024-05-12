@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-cache-path
+        name="ttlive_provider_path"
+        path="live/"/>
+    <cache-path
+        name="ttlive_provider_cache_path"
+        path="live/"/>
+    <external-cache-path
+        name="ttlive_provider_path_v2"
+        path="ttlive/"/>
+    <cache-path
+        name="ttlive_provider_cache_path_v2"
+        path="ttlive/"/>
+</paths>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/bst"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C80261Vej
+        id="@+id/lp9"
+        layout_width="match_parent"
+        layout_height="46dp"
+        layout_marginStart="16dp"
+        layout_marginEnd="16dp"
+        NOT_FOUND_0x6="@color/a02"
+        NOT_FOUND_0x7="@color/a02"
+        NOT_FOUND_0x8="@style/ad1"
+        NOT_FOUND_0x9="@color/a7o"/>
+    <androidx.viewpager.widget.ViewPager
+        id="@+id/lp_"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/d4"
+    layout_gravity="center"
+    id="@+id/cus"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    minWidth="@dimen/r3"
+    minHeight="@dimen/r3"
+    NOT_FOUND_0x7="11"/>

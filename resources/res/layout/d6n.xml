@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/g67"
+    background="@color/abc"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C47121t6
+        textSize="14sp"
+        textColor="@color/a84"
+        gravity="center_horizontal"
+        id="@+id/m0b"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginTop="20dp"
+        text="@string/sra"/>
+</LinearLayout>

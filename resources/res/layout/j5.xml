@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C81232VuO
+        layout_gravity="center"
+        id="@+id/gl6"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x4="true"
+        NOT_FOUND_0x5="false"
+        NOT_FOUND_0x6="false"
+        NOT_FOUND_0x7="false"
+        NOT_FOUND_0x8="false"
+        NOT_FOUND_0x9="34dp"
+        NOT_FOUND_0xa="34dp"
+        NOT_FOUND_0xb="true"
+        NOT_FOUND_0xc="5dp"
+        NOT_FOUND_0xd="@drawable/blc"
+        NOT_FOUND_0xe="true"/>
+</FrameLayout>

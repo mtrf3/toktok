@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    background="@drawable/cdz"
+    padding="2dp"
+    layout_width="wrap_content"
+    layout_height="@dimen/ac7">
+    <X.C47061t0
+        id="@+id/a1p"
+        layout_width="28dp"
+        layout_height="28dp"/>
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        id="@+id/bts"
+        visibility="gone"
+        layout_width="16dp"
+        layout_height="16dp"
+        layout_marginStart="2dp"
+        NOT_FOUND_0xe="?attr/av7"
+        NOT_FOUND_0xf="?attr/ar7"/>
+    <X.C47121t6
+        textColor="?attr/ar7"
+        ellipsize="none"
+        gravity="center"
+        id="@+id/bug"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/l9j"
+        singleLine="true"
+        layout_marginStart="2dp"
+        layout_marginEnd="10dp"
+        style="@style/a48"/>
+</LinearLayout>

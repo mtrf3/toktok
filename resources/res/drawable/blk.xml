@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+    <gradient
+        startColor="#15c0f9"
+        endColor="#1ae3c6"
+        angle="-45"
+        type="linear"
+        centerColor="#20d5ec"/>
+    <size
+        height="25.2dp"
+        width="25.2dp"/>
+    <corners radius="13dp"/>
+</shape>

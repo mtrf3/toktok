@@ -1,0 +1,18 @@
+package com.bytedance.android.live.liveinteract.multilive.model;
+
+import X.InterfaceC65349Pkn;
+import webcast.data.multi_guest_play.ShowConfig;
+
+/* loaded from: classes14.dex */
+public final class GetShowSettingsResponse {
+
+    @InterfaceC65349Pkn("data")
+    public ResponseData data;
+
+    /* loaded from: classes14.dex */
+    public static final class ResponseData {
+
+        @InterfaceC65349Pkn("show_settings")
+        public ShowConfig showSettings;
+    }
+}

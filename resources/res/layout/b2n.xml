@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <FrameLayout
+        id="@+id/nn"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="wrap_content">
+        <androidx.recyclerview.widget.RecyclerView
+            id="@+id/j9g"
+            clipToPadding="false"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            paddingStart="@dimen/sx"
+            paddingEnd="@dimen/sx"/>
+    </FrameLayout>
+</merge>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/c3v"
+    visibility="gone"
+    layout_width="match_parent"
+    layout_height="400dp">
+    <ScrollView
+        id="@+id/c40"
+        paddingLeft="15dp"
+        paddingTop="50dp"
+        paddingRight="15dp"
+        paddingBottom="15dp"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dk"
+            id="@+id/c46"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            NOT_FOUND_0x11="42"/>
+    </ScrollView>
+    <X.SY4
+        textColor="?attr/dk"
+        layout_gravity="end|bottom"
+        id="@+id/c48"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="Caption Debug View"
+        layout_marginEnd="72dp"
+        backgroundTint="#bfbfbb"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xe="@+id/id3"
+        NOT_FOUND_0xf="1"
+        NOT_FOUND_0x10="1"
+        NOT_FOUND_0x12="@raw/icon_effect_fill"
+        NOT_FOUND_0x13="?attr/dk"/>
+</FrameLayout>

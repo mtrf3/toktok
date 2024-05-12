@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C47121t6
+        textColor="@color/bc"
+        id="@+id/bud"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        style="@style/a4e"/>
+</LinearLayout>

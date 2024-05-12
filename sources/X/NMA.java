@@ -1,0 +1,84 @@
+package X;
+
+/* loaded from: classes11.dex */
+public final class NMA extends N09 {
+    public static final NMA LIZ = new NMA();
+    public static final C58653N0f LIZIZ;
+    public static final C58653N0f LIZJ;
+    public static final C58653N0f LIZLLL;
+    public static final C58653N0f LJ;
+    public static final C58653N0f LJFF;
+    public static final C58653N0f LJI;
+    public static final C58653N0f LJII;
+    public static final C58653N0f LJIIIIZZ;
+    public static final C58653N0f LJIIIZ;
+    public static final C58653N0f LJIIJ;
+    public static final C58653N0f LJIIJJI;
+    public static final C58653N0f LJIIL;
+    public static final C58653N0f LJIILIIL;
+    public static final C58653N0f LJIILJJIL;
+    public static final C58653N0f LJIILL;
+    public static final C58653N0f LJIILLIIL;
+    public static final C58653N0f LJIIZILJ;
+    public static final C58653N0f LJIJ;
+    public static final C58653N0f LJIJI;
+    public static final C58653N0f LJIJJ;
+    public static final C58653N0f LJIJJLI;
+    public static final C58653N0f LJIL;
+    public static final C58653N0f LJJ;
+    public static final C58653N0f LJJI;
+    public static final C58653N0f LJJIFFI;
+    public static final C58653N0f LJJII;
+    public static final C58653N0f LJJIII;
+    public static final C58653N0f LJJIIJ;
+    public static final C58653N0f LJJIIJZLJL;
+    public static final C58653N0f LJJIIZ;
+
+    static {
+        C58653N0f LIZJ2;
+        C58653N0f LIZJ3;
+        C58653N0f LIZJ4;
+        C58653N0f LIZJ5;
+        NMB.LIZ.getClass();
+        C56593MIz c56593MIz = NMB.LIZJ;
+        LIZIZ = N09.LIZIZ("draw_ad", "download_video_start", null, new InterfaceC58602MzG[]{N09.LJ(NMB.LIZIZ, c56593MIz)});
+        C56593MIz c56593MIz2 = NMB.LIZLLL;
+        LIZJ = N09.LIZIZ("draw_ad", "download_video_succeed", null, new InterfaceC58602MzG[]{N09.LJ(c56593MIz2, NMB.LJ, NMB.LJFF, c56593MIz)});
+        LIZLLL = N09.LIZIZ("draw_ad", "download_video_failed", null, new InterfaceC58602MzG[]{N09.LJ(NMB.LJI, NMB.LJII, c56593MIz2, c56593MIz, NMB.LJIIIIZZ, NMB.LJIIIZ)});
+        LJ = N09.LIZIZ("draw_ad", "download_video_no_download", null, new InterfaceC58602MzG[]{N09.LJ(NMB.LJIIJ)});
+        LJFF = N09.LIZIZ("draw_ad", "download_video_prepare", null, new InterfaceC58602MzG[0]);
+        LJI = N09.LIZIZ("draw_ad", "download_video_start_sdk", null, new InterfaceC58602MzG[0]);
+        LJII = N09.LIZIZ("draw_ad", "download_video_start_first_sdk", null, new InterfaceC58602MzG[0]);
+        LIZJ2 = N09.LIZJ("draw_ad", "download_video_cancel", new InterfaceC58602MzG[0]);
+        LJIIIIZZ = LIZJ2;
+        LIZJ3 = N09.LIZJ("draw_ad", "download_video_count", new InterfaceC58602MzG[0]);
+        LJIIIZ = LIZJ3;
+        LIZJ4 = N09.LIZJ("draw_ad", "download_video_count_splash_sdk", new InterfaceC58602MzG[0]);
+        LJIIJ = LIZJ4;
+        LIZJ5 = N09.LIZJ("draw_ad", "data_invalid", new InterfaceC58602MzG[0]);
+        LJIIJJI = LIZJ5;
+        LJIIL = N09.LIZIZ("draw_ad", "show_failed", null, new InterfaceC58602MzG[]{N09.LJ(NMB.LJIIJJI, NMB.LJIIL, NMB.LJIILIIL, NMB.LJIILJJIL)});
+        LJIILIIL = N09.LIZIZ("draw_ad", "splash_pick", null, new InterfaceC58602MzG[]{N09.LJ(NMB.LJIIZILJ, NMB.LJIJ, NMB.LJIJI)});
+        LJIILJJIL = N09.LIZIZ("draw_ad", "topview_detail_update_success", null, new InterfaceC58602MzG[0]);
+        C56593MIz c56593MIz3 = NMB.LJIJJLI;
+        LJIILL = N09.LIZIZ("draw_ad", "topview_detail_update_fail", null, new InterfaceC58602MzG[]{N09.LJ(c56593MIz3)});
+        LJIILLIIL = N09.LIZIZ("draw_ad", "splash_click", null, new InterfaceC58602MzG[]{N09.LJ(NMB.LJIILL, NMB.LJIILLIIL)});
+        LJIIZILJ = N09.LIZIZ("splash_ad", "topview_over_delivery_record", null, new InterfaceC58602MzG[]{N09.LJ(NMB.LJIJJ)});
+        C56592MIy c56592MIy = NMB.LJIL;
+        LJIJ = N09.LIZIZ("draw_ad", "othershow_fail", "shake_guidance", new InterfaceC58602MzG[]{N09.LJ(c56593MIz3, c56592MIy)});
+        LJIJI = N09.LIZIZ("draw_ad", "othershow", "shake_guidance", new InterfaceC58602MzG[]{N09.LJ(c56592MIy)});
+        LJIJJ = N09.LIZIZ("draw_ad", "interaction_card_close", "shake_guidance", new InterfaceC58602MzG[0]);
+        LJIJJLI = N09.LIZIZ("draw_ad", "open_url_h5", null, new InterfaceC58602MzG[0]);
+        N21<NLL, String> n21 = NMB.LJJ;
+        LJIL = N09.LIZIZ("draw_ad", "shake_egg_timing", null, new InterfaceC58602MzG[]{N09.LJ(c56592MIy, n21)});
+        LJJ = N09.LIZIZ("draw_ad", "vibrate_fail", null, new InterfaceC58602MzG[0]);
+        C56593MIz c56593MIz4 = NMB.LJJI;
+        LJJI = N09.LIZIZ("draw_ad", "load_success", "egg", new InterfaceC58602MzG[]{N09.LJ(c56593MIz4)});
+        LJJIFFI = N09.LIZIZ("draw_ad", "load_fail", "egg", new InterfaceC58602MzG[]{N09.LJ(c56593MIz4, c56593MIz3)});
+        LJJII = N09.LIZIZ("draw_ad", "othershow_fail", "gesture_guidance", new InterfaceC58602MzG[]{N09.LJ(c56593MIz3, c56592MIy)});
+        LJJIII = N09.LIZIZ("draw_ad", "othershow", "gesture_guidance", new InterfaceC58602MzG[]{N09.LJ(c56592MIy)});
+        LJJIIJ = N09.LIZIZ("draw_ad", "interaction_ad", null, new InterfaceC58602MzG[]{N09.LJ(c56592MIy, n21)});
+        LJJIIJZLJL = N09.LIZIZ("draw_ad", "load_success", "interactive_gesture", new InterfaceC58602MzG[]{N09.LJ(c56593MIz4)});
+        LJJIIZ = N09.LIZIZ("draw_ad", "load_fail", "interactive_gesture", new InterfaceC58602MzG[]{N09.LJ(c56593MIz4, c56593MIz3)});
+    }
+}

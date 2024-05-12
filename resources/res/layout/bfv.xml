@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_horizontal"
+    orientation="vertical"
+    id="@+id/ixe"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <androidx.recyclerview.widget.RecyclerView
+        id="@+id/ixd"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <include
+        id="@+id/iwy"
+        visibility="invisible"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="8dp"
+        layout="@layout/bft"/>
+</LinearLayout>

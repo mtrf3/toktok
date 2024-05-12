@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/j71"
+    paddingBottom="32dp"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <include
+        id="@+id/e3i"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginLeft="32dp"
+        layout_marginRight="32dp"
+        layout_marginStart="32dp"
+        layout_marginEnd="32dp"
+        layout="@layout/bew"/>
+    <androidx.cardview.widget.CardView
+        id="@+id/n4q"
+        layout_width="376dp"
+        layout_height="376dp"
+        NOT_FOUND_0x11="@+id/kdu"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x13="0"
+        NOT_FOUND_0x14="0"
+        NOT_FOUND_0x15="0"
+        NOT_FOUND_0x16="@+id/e3i"
+        NOT_FOUND_0x17="0.4"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/kdu"
+        background="@drawable/a71"
+        padding="12dp"
+        visibility="invisible"
+        layout_width="match_parent"
+        layout_height="44dp"
+        layout_marginLeft="32dp"
+        layout_marginRight="32dp"
+        text="@string/ino"
+        layout_marginStart="32dp"
+        layout_marginEnd="32dp"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x18="43"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        gravity="center"
+        id="@+id/h8z"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        text="Already have an account? %s"
+        layout_alignParentBottom="true"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x18="41"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <FrameLayout
+        layout_gravity="center"
+        layout_width="144dp"
+        layout_height="80dp"
+        layout_marginTop="32dp"
+        layout_marginBottom="16dp">
+        <com.ss.android.ugc.aweme.base.ui.SmartAvatarImageView
+            layout_gravity="start|center_vertical"
+            id="@+id/abh"
+            layout_width="80dp"
+            layout_height="80dp"
+            NOT_FOUND_0x6="@drawable/bia"/>
+        <com.ss.android.ugc.aweme.base.ui.SmartAvatarImageView
+            layout_gravity="end|center_vertical"
+            id="@+id/gbk"
+            layout_width="80dp"
+            layout_height="80dp"
+            NOT_FOUND_0x6="@drawable/bia"/>
+    </FrameLayout>
+</FrameLayout>

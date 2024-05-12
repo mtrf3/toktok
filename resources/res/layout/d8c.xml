@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C47121t6
+        textSize="13sp"
+        textColor="?attr/gv"
+        gravity="center_vertical"
+        id="@+id/mhl"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="12dp"
+        layout_marginBottom="4dp"
+        layout_marginStart="16dp"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x13="0"
+        style="@style/a4a"/>
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        layout_gravity="center_vertical"
+        id="@+id/f9y"
+        layout_width="11dp"
+        layout_height="11dp"
+        layout_marginTop="17dp"
+        layout_marginStart="4dp"
+        NOT_FOUND_0xd="?attr/atw"
+        NOT_FOUND_0xe="?attr/gx"
+        NOT_FOUND_0x11="@+id/mhl"
+        NOT_FOUND_0x13="0"/>
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        id="@+id/e_7"
+        visibility="visible"
+        layout_width="16dp"
+        layout_height="16dp"
+        layout_marginEnd="16dp"
+        NOT_FOUND_0xd="?attr/asi"
+        NOT_FOUND_0xe="?attr/go"
+        NOT_FOUND_0xf="@+id/mhl"
+        NOT_FOUND_0x10="0"
+        NOT_FOUND_0x13="@+id/mhl"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

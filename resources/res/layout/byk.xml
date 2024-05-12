@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center_vertical"
+        id="@+id/jtu"
+        layout_width="24dp"
+        layout_height="24dp"
+        NOT_FOUND_0x4="@raw/icon_ellipsis_horizontal"
+        NOT_FOUND_0x5="?attr/dj"/>
+</merge>

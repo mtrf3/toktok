@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C47121t6
+        textColor="@color/bc"
+        id="@+id/bud"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxWidth="220dp"
+        text="@string/ox7"
+        maxLines="4"
+        singleLine="false"
+        NOT_FOUND_0xa="0"
+        style="@style/a4e"/>
+</LinearLayout>

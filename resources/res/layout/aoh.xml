@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C71510S4s
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <X.C73062Slu
+            id="@+id/player_view"
+            layout_width="0dp"
+            layout_height="0dp"
+            layout_centerInParent="true"
+            NOT_FOUND_0x5="0"
+            NOT_FOUND_0x6="0"
+            NOT_FOUND_0x7="0"
+            NOT_FOUND_0x8="0"/>
+        <X.C73044Slc
+            id="@+id/hst"
+            layout_width="0dp"
+            layout_height="0dp"
+            layout_centerInParent="true"
+            NOT_FOUND_0x4="1"
+            NOT_FOUND_0x5="0"
+            NOT_FOUND_0x6="0"
+            NOT_FOUND_0x7="0"
+            NOT_FOUND_0x8="0"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</X.C71510S4s>

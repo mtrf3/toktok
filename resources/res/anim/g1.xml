@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <translate
+        duration="300"
+        fromXDelta="0"
+        toXDelta="-100%p"
+        fromYDelta="0"
+        toYDelta="-100%p"/>
+</set>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    background="@drawable/cjl"
+    paddingLeft="8dp"
+    paddingRight="8dp"
+    layout_width="match_parent"
+    layout_height="28dp">
+    <ImageView
+        layout_gravity="center_vertical"
+        id="@+id/l01"
+        layout_width="13dp"
+        layout_height="wrap_content"
+        src="@drawable/ctd"/>
+    <X.C47121t6
+        textColor="?attr/bmw"
+        ellipsize="end"
+        gravity="center_vertical"
+        layout_gravity="center_vertical"
+        id="@+id/l07"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="4dp"
+        text="@string/me3"
+        maxLines="1"
+        includeFontPadding="false"
+        layout_marginStart="4dp"
+        NOT_FOUND_0x10="true"
+        style="@style/a4a"/>
+</LinearLayout>

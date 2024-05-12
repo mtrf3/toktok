@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape>
+            <solid color="?attr/dj"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                startColor="?attr/ee"
+                endColor="?attr/ed"
+                angle="90"/>
+        </shape>
+    </item>
+</layer-list>

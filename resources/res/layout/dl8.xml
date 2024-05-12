@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    orientation="horizontal"
+    clipChildren="false"
+    clipToPadding="false"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layoutDirection="ltr"
+    NOT_FOUND_0x7="0"
+    NOT_FOUND_0x8="0"/>

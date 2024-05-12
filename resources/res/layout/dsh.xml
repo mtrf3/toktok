@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    paddingLeft="2dp"
+    paddingRight="2dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        ellipsize="end"
+        gravity="center"
+        id="@+id/lia"
+        background="@drawable/c4j"
+        layout_width="wrap_content"
+        layout_height="30dp"
+        maxLines="1"
+        NOT_FOUND_0xa="true"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="2"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x10="1"
+        NOT_FOUND_0x11="62"/>
+</FrameLayout>

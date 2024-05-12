@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/cjj"
+        background="@drawable/as4"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x7="@+id/lj2"/>
+    <FrameLayout
+        id="@+id/lj2"
+        layout_width="match_parent"
+        layout_height="182dp"
+        NOT_FOUND_0x7="@+id/cjk"/>
+    <View
+        id="@+id/aq1"
+        layout_width="match_parent"
+        layout_height="64dp"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"/>
+    <X.C48295IxP
+        id="@+id/cjk"
+        clipChildren="false"
+        clipToPadding="false"
+        layout_width="match_parent"
+        layout_height="64dp"
+        NOT_FOUND_0x6="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

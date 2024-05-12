@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/j83"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.ss.android.ugc.aweme.tablet.impl.business.bookmode.split.DrawerLayout
+        id="@+id/chi"
+        background="?attr/d4"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <FrameLayout
+            id="@+id/bse"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+        <FrameLayout
+            layout_gravity="end"
+            id="@+id/bsq"
+            layout_width="50dp"
+            layout_height="match_parent"/>
+    </com.ss.android.ugc.aweme.tablet.impl.business.bookmode.split.DrawerLayout>
+</FrameLayout>

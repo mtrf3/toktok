@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    orientation="vertical"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <FrameLayout
+        id="@+id/eto"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <RelativeLayout
+            layout_width="60dp"
+            layout_height="60dp">
+            <ImageView
+                id="@+id/f2f"
+                visibility="gone"
+                layout_width="@dimen/em"
+                layout_height="@dimen/em"
+                layout_marginRight="5dp"
+                layout_marginBottom="5dp"
+                src="@drawable/tf"
+                scaleType="fitXY"
+                layout_alignParentRight="true"
+                layout_alignParentBottom="true"
+                layout_alignParentEnd="true"/>
+        </RelativeLayout>
+    </FrameLayout>
+</LinearLayout>

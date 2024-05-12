@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_selected="true">
+        <shape shape="rectangle">
+            <solid color="#33ffffff"/>
+            <corners radius="4dp"/>
+        </shape>
+    </item>
+    <item state_selected="false">
+        <shape shape="rectangle">
+            <solid color="#fe2c55"/>
+            <corners radius="4dp"/>
+        </shape>
+    </item>
+</selector>

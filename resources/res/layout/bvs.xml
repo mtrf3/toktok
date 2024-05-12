@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.SYL
+        id="@+id/i04"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xc="0"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gv"
+        gravity="center"
+        id="@+id/api"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="34dp"
+        text="@string/hpg"
+        layout_marginStart="@dimen/nt"
+        layout_marginEnd="@dimen/nt"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="@+id/i04"
+        NOT_FOUND_0xd="61"/>
+    <X.C73305Spp
+        id="@+id/kf_"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

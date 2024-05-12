@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="top|center_horizontal"
+        id="@+id/gm2"
+        layout_width="12dp"
+        layout_height="12dp"
+        layout_marginTop="34dp"
+        layout_marginBottom="22dp"
+        NOT_FOUND_0x7="@raw/icon_chevron_down"
+        NOT_FOUND_0x8="?attr/go"/>
+</LinearLayout>

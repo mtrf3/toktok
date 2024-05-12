@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item id="@android:id/background">
+        <shape>
+            <solid color="#1fffffff"/>
+            <corners radius="4dp"/>
+        </shape>
+    </item>
+    <item id="@android:id/progress">
+        <scale
+            drawable="@drawable/cpd"
+            scaleWidth="100%"/>
+    </item>
+</layer-list>

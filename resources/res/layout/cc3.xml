@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.ViewOnTouchListenerC141755hL
+        id="@+id/bbc"
+        layout_width="wrap_content"
+        layout_height="48dp"
+        NOT_FOUND_0x5="48dp"
+        NOT_FOUND_0x6="30dp"/>
+    <X.C131735Ez
+        id="@+id/hdj"
+        layout_width="match_parent"
+        layout_height="48dp"
+        layout_alignStart="@+id/bbc"
+        layout_alignEnd="@+id/bbc"/>
+    <X.C131735Ez
+        id="@+id/ir1"
+        layout_width="match_parent"
+        layout_height="48dp"
+        layout_alignStart="@+id/bbc"
+        layout_alignEnd="@+id/bbc"/>
+</RelativeLayout>

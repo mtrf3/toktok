@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C57392Nb
+        id="@+id/h6u"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <View
+        layout_gravity="bottom"
+        id="@+id/h6t"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="0dp"/>
+</FrameLayout>

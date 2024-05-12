@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    id="@+id/d5j"
+    focusable="false"
+    focusableInTouchMode="false"
+    clipChildren="false"
+    layout_width="wrap_content"
+    layout_height="48dp">
+    <FrameLayout
+        id="@+id/d59"
+        focusable="false"
+        focusableInTouchMode="false"
+        clipChildren="false"
+        layout_width="24dp"
+        layout_height="32dp">
+        <X.C203397yZ
+            layout_gravity="center"
+            id="@+id/d56"
+            focusable="false"
+            focusableInTouchMode="false"
+            layout_width="24dp"
+            layout_height="24dp"
+            scaleType="centerInside"/>
+    </FrameLayout>
+    <com.bytedance.tux.input.TuxTextView
+        id="@+id/d5_"
+        focusable="false"
+        focusableInTouchMode="false"
+        maxLines="1"
+        importantForAccessibility="no"
+        layout_marginStart="4dp"
+        NOT_FOUND_0xd="62"
+        style="@style/a6b"/>
+</LinearLayout>

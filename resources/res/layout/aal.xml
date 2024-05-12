@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C71898SJq
+        id="@+id/dad"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_above="@+id/jiy"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0.45"
+        NOT_FOUND_0x8="?attr/d4"
+        NOT_FOUND_0x9="0"/>
+    <X.C71898SJq
+        id="@+id/jiy"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_alignParentBottom="true"
+        NOT_FOUND_0x6="0.45"
+        NOT_FOUND_0x7="0.95"
+        NOT_FOUND_0x8="?attr/d4"
+        NOT_FOUND_0x9="0"/>
+    <View
+        id="@+id/ha0"
+        background="@drawable/a66"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</RelativeLayout>

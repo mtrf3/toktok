@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/g3y"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <include
+        id="@+id/coz"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout="@layout/b7y"/>
+    <include
+        id="@+id/jo_"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout="@layout/b7x"/>
+</LinearLayout>

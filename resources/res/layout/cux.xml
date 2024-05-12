@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C47121t6
+    textSize="60dp"
+    textColor="@color/acm"
+    gravity="center"
+    layout_gravity="center"
+    background="@drawable/cbm"
+    visibility="gone"
+    layout_width="100dp"
+    layout_height="100dp"
+    style="@style/a3y"/>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    padding="9dp"
+    layout_width="74dp"
+    layout_height="74dp">
+    <ImageView
+        layout_gravity="center"
+        id="@+id/ek0"
+        layout_width="60dp"
+        layout_height="60dp"
+        src="@drawable/a7k"/>
+    <X.W5G
+        layout_gravity="center"
+        id="@+id/ek1"
+        layout_width="50dp"
+        layout_height="50dp"
+        scaleType="fitXY"
+        NOT_FOUND_0x9="@drawable/b5i"/>
+    <ImageView
+        layout_gravity="end|bottom"
+        id="@+id/ek3"
+        visibility="visible"
+        layout_width="18dp"
+        layout_height="18dp"
+        layout_margin="3dp"
+        src="@drawable/vu"
+        scaleType="fitXY"/>
+</FrameLayout>

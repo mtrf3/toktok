@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alpha
+    interpolator="@android:anim/accelerate_interpolator"
+    duration="200"
+    fillAfter="true"
+    fromAlpha="1"
+    toAlpha="0"/>

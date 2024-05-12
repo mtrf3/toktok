@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C74291TDr
+    layout_width="match_parent"
+    layout_height="match_parent"
+    NOT_FOUND_0x3="14dp">
+    <FrameLayout
+        id="@+id/dgn"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C222108ne
+        id="@+id/nep"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/dh1"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</X.C74291TDr>

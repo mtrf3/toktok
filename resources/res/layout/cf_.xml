@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="36dp"
+    layout_height="36dp">
+    <X.JON
+        layout_gravity="center"
+        id="@+id/k7p"
+        padding="8dp"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="@raw/icon_speaker_2_ltr"
+        NOT_FOUND_0x8="?attr/dj"
+        NOT_FOUND_0x9="@raw/icon_speaker_x_mark_ltr"
+        NOT_FOUND_0xa="?attr/dj"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"/>
+</FrameLayout>

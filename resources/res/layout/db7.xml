@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    paddingTop="12dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    paddingStart="12dp">
+    <X.C47121t6
+        textColor="@color/abg"
+        id="@+id/ett"
+        layout_width="140dp"
+        layout_height="wrap_content"
+        style="@style/a49"/>
+    <X.C47121t6
+        textColor="@color/a8j"
+        id="@+id/ets"
+        layout_width="140dp"
+        layout_height="wrap_content"
+        text="@string/nhl"
+        style="@style/a3z"/>
+</LinearLayout>

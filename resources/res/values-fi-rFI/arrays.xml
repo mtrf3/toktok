@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Online-äänikirjasto</item>
+        <item>Oma ääni</item>
+    </array>
+    <array name="l">
+        <item>Tyhjennä</item>
+    </array>
+    <array name="q">
+        <item>Poista</item>
+        <item>Peruuta</item>
+    </array>
+    <array name="r">
+        <item>Nousussa</item>
+        <item>Uusimmat</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>Sunnuntai</item>
+        <item>Maanantai</item>
+        <item>Tiistai</item>
+        <item>Keskiviikko</item>
+        <item>Torstai</item>
+        <item>Perjantai</item>
+        <item>Lauantai</item>
+    </array>
+    <array name="a5">
+        <item>Yksinkertaistettu kiina</item>
+        <item>Perinteinen kiina</item>
+        <item>Englanti</item>
+        <item>Japani</item>
+        <item>Korea</item>
+        <item>Venäjä</item>
+        <item>Indonesia</item>
+        <item>Malaiji</item>
+        <item>Portugali</item>
+        <item>Thai</item>
+        <item>Vietnamin kieli</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Normaali</item>
+        <item>Mustavalkoinen</item>
+        <item>Taide</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Kyllästetty</item>
+        <item>Chrome</item>
+    </array>
+    <array name="aa">
+        <item>Tammi</item>
+        <item>Helmi</item>
+        <item>Maalis</item>
+        <item>Huhti</item>
+        <item>Touko</item>
+        <item>Kesä</item>
+        <item>Heinä</item>
+        <item>Elo</item>
+        <item>Syys</item>
+        <item>Loka</item>
+        <item>Marras</item>
+        <item>Joulu</item>
+    </array>
+    <array name="ad">
+        <item>Datan säästö ensin</item>
+        <item>Korkea resoluutio ensin</item>
+    </array>
+    <array name="ae">
+        <item>Kaikki</item>
+        <item>Vain kavereille</item>
+    </array>
+    <array name="bi">
+        <item>Maanantai</item>
+        <item>Tiistai</item>
+        <item>Keskiviikko</item>
+        <item>Torstai</item>
+        <item>Perjantai</item>
+        <item>Lauantai</item>
+        <item>Sunnuntai</item>
+    </array>
+</resources>

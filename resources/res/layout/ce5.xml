@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_gravity="bottom|center_horizontal"
+    id="@+id/ce7"
+    padding="@dimen/eq"
+    focusable="true"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginBottom="260dp"
+    scaleType="centerInside">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dl"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/ce8"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/emv"
+        NOT_FOUND_0xb="41"/>
+</FrameLayout>

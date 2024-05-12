@@ -1,0 +1,2122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">Tosóidh muid ag cruthú d&apos;abhatáranna i gceann %d nóiméad.</item>
+        <item quantity="two">Tosóidh muid ag cruthú d&apos;abhatáranna i gceann %d nóiméad.</item>
+        <item quantity="few">Tosóidh muid ag cruthú d&apos;abhatáranna i gceann %d nóiméad.</item>
+        <item quantity="many">Tosóidh muid ag cruthú d&apos;abhatáranna i gceann %d nóiméad.</item>
+        <item quantity="other">Cuirfimid tús le cruthú d&apos;abhatár i gceann %d nóiméad.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">Lean ar aghaidh leis an stíl %d</item>
+        <item quantity="two">Lean ar aghaidh leis an stíl %d</item>
+        <item quantity="few">Lean ar aghaidh leis an stíl %d</item>
+        <item quantity="many">Lean ar aghaidh leis an stíl %d</item>
+        <item quantity="other">Lean ar aghaidh leis na stíleanna %d</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">Roghnaigh ar a laghad %d ghrianghraf eile a bhfuil aghaidh daonna ann</item>
+        <item quantity="two">Roghnaigh ar a laghad %d ghrianghraf eile a bhfuil aghaidh daonna ann</item>
+        <item quantity="few">Roghnaigh ar a laghad %d ghrianghraf eile a bhfuil aghaidh daonna ann</item>
+        <item quantity="many">Roghnaigh ar a laghad %d ngrianghraf eile a bhfuil aghaidh daonna ann</item>
+        <item quantity="other">Roghnaigh ar a laghad %d grianghraf eile a bhfuil aghaidh daonna ann</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">Is féidir leat abhatáranna a chruthú %d uair sa lá le Sharp</item>
+        <item quantity="two">Is féidir leat abhatáranna a chruthú %d uair sa lá le Sharp</item>
+        <item quantity="few">Is féidir leat abhatáranna a chruthú %d uair sa lá le Sharp</item>
+        <item quantity="many">Is féidir leat abhatáranna a chruthú %d uair sa lá le Sharp</item>
+        <item quantity="other">Is féidir leat abhatáranna a chruthú %d uair sa lá le Sharp</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">Is féidir leat abhatáranna a chruthú %d uair sa tseachtain le Sharp</item>
+        <item quantity="two">Is féidir leat abhatáranna a chruthú %d uair sa tseachtain le Sharp</item>
+        <item quantity="few">Is féidir leat abhatáranna a chruthú %d uair sa tseachtain le Sharp</item>
+        <item quantity="many">Is féidir leat abhatáranna a chruthú %d uair sa tseachtain le Sharp</item>
+        <item quantity="other">Is féidir leat abhatáranna a chruthú %d uair sa tseachtain le Sharp</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">Is féidir leat abhatáranna a chruthú %d uair sa lá le Tapaidh</item>
+        <item quantity="two">Is féidir leat abhatáranna a chruthú %d uair sa lá le Tapaidh</item>
+        <item quantity="few">Is féidir leat abhatáranna a chruthú %d huaire sa lá le Tapaidh</item>
+        <item quantity="many">Is féidir leat abhatáranna a chruthú %d uaire sa lá le Tapaidh</item>
+        <item quantity="other">Is féidir leat abhatáranna a chruthú %d uaire sa lá le Tapaidh</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="one">Is féidir leat abhatáranna a chruthú %d uair sa tseachtain le Tapaidh</item>
+        <item quantity="two">Is féidir leat abhatáranna a chruthú %d uair sa tseachtain le Tapaidh</item>
+        <item quantity="few">Is féidir leat abhatáranna a chruthú %d huaire sa tseachtain le Tapaidh</item>
+        <item quantity="many">Is féidir leat abhatáranna a chruthú %d uaire sa tseachtain le Tapaidh</item>
+        <item quantity="other">Is féidir leat abhatáranna a chruthú %d uaire sa tseachtain le Tapaidh</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="one">Is féidir leat abhatáranna a chruthú %d uair sa lá</item>
+        <item quantity="two">Is féidir leat abhatáranna a chruthú %d uair sa lá</item>
+        <item quantity="few">Is féidir leat abhatáranna a chruthú %d uair sa lá</item>
+        <item quantity="many">Is féidir leat abhatáranna a chruthú %d uair sa lá</item>
+        <item quantity="other">Is féidir leat abhatáranna a chruthú %d uair sa lá</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="one">Is féidir leat abhatáranna a chruthú %d uair sa tseachtain</item>
+        <item quantity="two">Is féidir leat abhatáranna a chruthú %d uair sa tseachtain</item>
+        <item quantity="few">Is féidir leat abhatáranna a chruthú %d huaire sa tseachtain</item>
+        <item quantity="many">Is féidir leat abhatáranna a chruthú %d uair sa tseachtain</item>
+        <item quantity="other">Is féidir leat abhatáranna a chruthú %d uair sa tseachtain</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="one">Tosóimid ag cruthú d&apos;abhatáranna i gceann %d nóiméad.</item>
+        <item quantity="two">Tosóimid ag cruthú d&apos;abhatáranna i gceann %d nóiméad.</item>
+        <item quantity="few">Tosóimid ag cruthú d&apos;abhatáranna i gceann %d nóiméad.</item>
+        <item quantity="many">Tosóimid ag cruthú d&apos;abhatáranna i gceann %d nóiméad.</item>
+        <item quantity="other">Tosóimid ag cruthú d&apos;abhatáranna i gceann %d nóiméad.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="one">Tá %d iarratas agat</item>
+        <item quantity="two">Tá %d iarratas agat</item>
+        <item quantity="few">Tá %d iarratas agat</item>
+        <item quantity="many">Tá %d iarratas agat</item>
+        <item quantity="other">Tá %d iarratas agat</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="one">Tá %d iarratas agat</item>
+        <item quantity="two">Tá %d iarratas agat</item>
+        <item quantity="few">Tá %d iarratas agat</item>
+        <item quantity="many">Tá %d iarratas agat</item>
+        <item quantity="other">Tá %d iarratas agat</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="one">%d ceist</item>
+        <item quantity="two">%d ceisteanna</item>
+        <item quantity="few">%d ceisteanna</item>
+        <item quantity="many">%d ceisteanna</item>
+        <item quantity="other">%d ceisteanna</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="one">Don chéad %d lá, caithfidh daoine eile postáil chun féachaint ar do phostálacha.</item>
+        <item quantity="two">Don chéad %d lá, caithfidh daoine eile postáil chun féachaint ar do phostálacha.</item>
+        <item quantity="few">Don chéad %d lá, caithfidh daoine eile postáil chun féachaint ar do phostálacha.</item>
+        <item quantity="many">Don chéad %d lá, caithfidh daoine eile postáil chun féachaint ar do phostálacha.</item>
+        <item quantity="other">Don chéad %d lá, caithfidh daoine eile postáil chun féachaint ar do phostálacha.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="one">Tar éis %d lá, is féidir leo féachaint ar do phostálacha gan phostáil.</item>
+        <item quantity="two">Tar éis %d lá, is féidir leo féachaint ar do phostálacha gan phostáil.</item>
+        <item quantity="few">Tar éis %d lá, is féidir leo féachaint ar do phostálacha gan phostáil.</item>
+        <item quantity="many">Tar éis %d lá, is féidir leo féachaint ar do phostálacha gan phostáil.</item>
+        <item quantity="other">Tar éis %d lá, is féidir leo féachaint ar do phostálacha gan phostáil.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="one">Tar éis %d lá, ní féidir ach leatsa amháin do phostálacha a fheiceáil.</item>
+        <item quantity="two">Tar éis %d lá, ní féidir ach leatsa amháin do phostálacha a fheiceáil.</item>
+        <item quantity="few">Tar éis %d lá, ní féidir ach leatsa amháin do phostálacha a fheiceáil.</item>
+        <item quantity="many">Tar éis %d lá, ní féidir ach leatsa amháin do phostálacha a fheiceáil.</item>
+        <item quantity="other">Tar éis %d lá, ní féidir ach leatsa amháin do phostálacha a fheiceáil.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="one">Don chéad %d lá, ní mór do dhaoine eile a bheith ag postáil chun do phostálacha Anois a fheiceáil.</item>
+        <item quantity="two">Don chéad %d lá, ní mór do dhaoine eile a bheith ag postáil chun do phostálacha Anois a fheiceáil.</item>
+        <item quantity="few">Don chéad %d lá, ní mór do dhaoine eile a bheith ag postáil chun do phostálacha Anois a fheiceáil.</item>
+        <item quantity="many">Don chéad %d lá, ní mór do dhaoine eile a bheith ag postáil chun do phostálacha Anois a fheiceáil.</item>
+        <item quantity="other">Don chéad %d lá, ní mór do dhaoine eile a bheith ag postáil chun do phostálacha Anois a fheiceáil.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="one">Táirge %d</item>
+        <item quantity="two">Táirge %d</item>
+        <item quantity="few">Táirge %d</item>
+        <item quantity="many">Táirge %d</item>
+        <item quantity="other">Táirgí %d</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="one">Oscail grianghraf le {username}</item>
+        <item quantity="two">Oscail grianghraif le {username}</item>
+        <item quantity="few">Oscail grianghraif le {username}</item>
+        <item quantity="many">Oscail grianghraif le {username}</item>
+        <item quantity="other">Oscail grianghraif le {username}</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="one">Chuir {number} duine an físeán seo lena Cheanáin</item>
+        <item quantity="two">Chuir {number} an físeán seo lena gCeanáin</item>
+        <item quantity="few">Chuir {number} an físeán seo lena gCeanáin</item>
+        <item quantity="many">Chuir {number} an físeán seo lena gCeanáin</item>
+        <item quantity="other">Chuir {number} an físeán seo lena gCeanáin</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="one">%d &apos;is maith liom&apos;</item>
+        <item quantity="two">%d &apos;is maith liom&apos;</item>
+        <item quantity="few">%d &apos;is maith liom&apos;</item>
+        <item quantity="many">%d &apos;is maith liom&apos;</item>
+        <item quantity="other">%d &apos;is maith liom&apos;</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ billion</item>
+        <item quantity="other">%@ billion</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ million</item>
+        <item quantity="other">%@ million</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ míle</item>
+        <item quantity="other">%@ míle</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="one">%d amharc</item>
+        <item quantity="two">%d amharc</item>
+        <item quantity="few">%d amharc</item>
+        <item quantity="many">%d amharc</item>
+        <item quantity="other">%d amharc</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="one">Ceadaíonn %s fhíseán trácht</item>
+        <item quantity="two">Ceadaíonn %s fhíseán trácht</item>
+        <item quantity="few">Ceadaíonn %s físeán trácht</item>
+        <item quantity="many">Ceadaíonn %s físeán trácht</item>
+        <item quantity="other">Ceadaíonn %s físeán trácht</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="one">Ní cheadaíonn %s fhíseán trácht</item>
+        <item quantity="two">Ní cheadaíonn %s fhíseán trácht</item>
+        <item quantity="few">Ní cheadaíonn %s físeántrácht</item>
+        <item quantity="many">Ní cheadaíonn %s físeán trácht</item>
+        <item quantity="other">Ní cheadaíonn %s físeán trácht</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="one">cé nach gceadaíonn %d Dísréad</item>
+        <item quantity="two">cé nach gceadaíonn %d Dísréad</item>
+        <item quantity="few">cé nach gceadaíonn %d Dísréad</item>
+        <item quantity="many">cé nach gceadaíonn %d Dísréad</item>
+        <item quantity="other">cé nach gceadaíonn %d Dísréad</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="one">Is féidir le duine ar bith Dísréad a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+        <item quantity="two">Is féidir le duine ar bith Dísréad a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+        <item quantity="few">Is féidir le duine ar bith Dísréad a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+        <item quantity="many">Is féidir le duine ar bith Dísréad a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+        <item quantity="other">Is féidir le duine ar bith Duet a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Duet, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="one">cé nach gceadaíonn %d Dísréad</item>
+        <item quantity="two">cé nach gceadaíonn %d Dísréad</item>
+        <item quantity="few">cé nach gceadaíonn %d Dísréad</item>
+        <item quantity="many">cé nach gceadaíonn %d Dísréad</item>
+        <item quantity="other">cé nach gceadaíonn %d Dísréad</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="one">Is féidir le cairde Dísreád a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+        <item quantity="two">Is féidir le cairde Dísreád a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+        <item quantity="few">Is féidir le cairde Dísreád a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+        <item quantity="many">Is féidir le cairde Dísreád a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+        <item quantity="other">Is féidir le cairde Dísreád a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="one">cé nach gceadaíonn %d Dísréad</item>
+        <item quantity="two">cé nach gceadaíonn %d Dísréad</item>
+        <item quantity="few">cé nach gceadaíonn %d Dísréad</item>
+        <item quantity="many">cé nach gceadaíonn %d Dísréad</item>
+        <item quantity="other">cé nach gceadaíonn %d Dísréad</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="one">Déan athbhreithniú ar cé atá in ann Dísréad a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+        <item quantity="two">Déan athbhreithniú ar cé atá in ann Dísréad a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+        <item quantity="few">Déan athbhreithniú ar cé atá in ann Dísréad a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+        <item quantity="many">Déan athbhreithniú ar cé atá in ann Dísréad a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+        <item quantity="other">Déan athbhreithniú ar cé atá in ann Dísréad a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Dísréad, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="one">cé nach gceadaíonn %d Greamaigh</item>
+        <item quantity="two">cé nach gceadaíonn %d Greamaigh</item>
+        <item quantity="few">cé nach gceadaíonn %d Greamaigh</item>
+        <item quantity="many">cé nach gceadaíonn %d Greamaigh</item>
+        <item quantity="other">cé nach gceadaíonn %d Greamaigh</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="one">Seiceáil cé atá in ann do chuid físeáin a fhuáil. Ligeann %1$d de d&apos;fhíseáin fuála, %2$s</item>
+        <item quantity="two">Déan athbhreithniú ar cé atá in ann Greamaigh le do chuid físeáin. Ceadaíonn %1$d de d&apos;fhíseáin Greamaigh, %2$s</item>
+        <item quantity="few">Déan athbhreithniú ar cé atá in ann Greamaigh le do chuid físeáin. Ceadaíonn %1$d de d&apos;fhíseáin Greamaigh, %2$s</item>
+        <item quantity="many">Déan athbhreithniú ar cé atá in ann Greamaigh le do chuid físeáin. Ceadaíonn %1$d de d&apos;fhíseáin Greamaigh, %2$s</item>
+        <item quantity="other">Seiceáil cé atá in ann do chuid físeáin a fhuáil. Ligeann %1$d de d&apos;fhíseáin fuála, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="one">cé nach gceadaíonn %d Greamaigh</item>
+        <item quantity="two">cé nach gceadaíonn %d Greamaigh</item>
+        <item quantity="few">cé nach gceadaíonn %d Greamaigh</item>
+        <item quantity="many">cé nach gceadaíonn %d Greamaigh</item>
+        <item quantity="other">cé nach gceadaíonn %d Greamaigh</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="one">Is féidir le duine ar bith Stitch a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Stitch, %2$s</item>
+        <item quantity="two">Is féidir le duine ar bith Stitch a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Stitch, %2$s</item>
+        <item quantity="few">Is féidir le duine ar bith Stitch a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Stitch, %2$s</item>
+        <item quantity="many">Is féidir le duine ar bith Stitch a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Stitch, %2$s</item>
+        <item quantity="other">Is féidir le duine ar bith Stitch a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Stitch, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="one">cé nach gceadaíonn %d Greamaigh</item>
+        <item quantity="two">cé nach gceadaíonn %d Greamaigh</item>
+        <item quantity="few">cé nach gceadaíonn %d Greamaigh</item>
+        <item quantity="many">cé nach gceadaíonn %d Greamaigh</item>
+        <item quantity="other">cé nach gceadaíonn %d Greamaigh</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="one">Is féidir le cairde Stitch a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Stitch, %2$s</item>
+        <item quantity="two">Is féidir le cairde Stitch a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Stitch, %2$s</item>
+        <item quantity="few">Is féidir le cairde Stitch a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Stitch, %2$s</item>
+        <item quantity="many">Is féidir le cairde Stitch a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Stitch, %2$s</item>
+        <item quantity="other">Is féidir le cairde Stitch a dhéanamh le d&apos;fhíseáin. Ceadaíonn %1$d de d&apos;fhíseáin Stitch, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="one">Ceadaíonn %s fhíseán Dísréad</item>
+        <item quantity="two">Ceadaíonn %s fhíseán Dísréad</item>
+        <item quantity="few">Ceadaíonn %s físeán Dísréad</item>
+        <item quantity="many">Ceadaíonn %s físeán Dísréad</item>
+        <item quantity="other">Ceadaíonn %s físeán Dísréad</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="one">Ní cheadaíonn %s fhíseán Dísréad</item>
+        <item quantity="two">Ní cheadaíonn %s fhíseán Dísréad</item>
+        <item quantity="few">Ní cheadaíonn %s físeán Dísréad</item>
+        <item quantity="many">Ní cheadaíonn %s físeán Dísréad</item>
+        <item quantity="other">Ní cheadaíonn %s físeán Dísréad</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="one">Ceadaíonn %s fhíseán Greamaigh</item>
+        <item quantity="two">Ceadaíonn %s fhíseán Greamaigh</item>
+        <item quantity="few">Ceadaíonn %s físeán Greamaigh</item>
+        <item quantity="many">Ceadaíonn %s físeán Greamaigh</item>
+        <item quantity="other">Ceadaíonn %s físeán Greamaigh</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="one">Ní cheadaíonn %s fhíseán Greamaigh</item>
+        <item quantity="two">Ní cheadaíonn %s fhíseán Greamaigh</item>
+        <item quantity="few">Ní cheadaíonn %s físeán Greamaigh</item>
+        <item quantity="many">Ní cheadaíonn %s físeán Greamaigh</item>
+        <item quantity="other">Ní cheadaíonn %s físeán Greamaigh</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="one">Gníomhach %d uair ó shin</item>
+        <item quantity="two">Gníomhach %d uair ó shin</item>
+        <item quantity="few">Gníomhach %d uair ó shin</item>
+        <item quantity="many">Gníomhach %d uair ó shin</item>
+        <item quantity="other">Gníomhach %d uair ó shin</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="one">Gníomhach %d nóiméad ó shin</item>
+        <item quantity="two">Gníomhach %d nóiméad ó shin</item>
+        <item quantity="few">Gníomhach %d nóiméad ó shin</item>
+        <item quantity="many">Gníomhach %d nóiméad ó shin</item>
+        <item quantity="other">Gníomhach %d nóiméad ó shin</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="one">%d mhír</item>
+        <item quantity="two">%d mhír</item>
+        <item quantity="few">%d mír</item>
+        <item quantity="many">%d mír</item>
+        <item quantity="other">%d mír</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="one">%1$s · %2$d phostáil nua</item>
+        <item quantity="two">%1$s · %2$d phostáil nua</item>
+        <item quantity="few">%1$s · %2$d postáil nua</item>
+        <item quantity="many">%1$s · %2$d postáil nua</item>
+        <item quantity="other">%1$s · %2$d postáil nua</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="one">Iompórtáil %d fhuaim</item>
+        <item quantity="two">Iompórtáil %d fhuaim</item>
+        <item quantity="few">Iompórtáil %d fuaim</item>
+        <item quantity="many">Iompórtáil %d fuaim</item>
+        <item quantity="other">Iompórtáil %d fuaim</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="one">%2$d fhíseán BEO | %1$d Scéal</item>
+        <item quantity="two">%2$d fhíseán BEO | %1$d Scéal</item>
+        <item quantity="few">%2$d físeán BEO | %1$d Scéal</item>
+        <item quantity="many">%2$d físeán BEO | %1$d Scéal</item>
+        <item quantity="other">%2$d físeán BEO | %1$d Scéal</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="one">%2$d Físeán BEO | %1$d Scéal</item>
+        <item quantity="two">%2$d Físeáin BEO | %1$d Scéalta</item>
+        <item quantity="few">%2$d Físeáin BEO | %1$d Scéalta</item>
+        <item quantity="many">%2$d Físeáin BEO | %1$d Scéalta</item>
+        <item quantity="other">%2$d Físeáin BEO | %1$d Scéalta</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="one">%d Físeán BEO | Scéal</item>
+        <item quantity="two">%d Físeáin BEO | Scéalta</item>
+        <item quantity="few">%d Físeáin BEO | Scéalta</item>
+        <item quantity="many">%d Físeáin BEO | Scéalta</item>
+        <item quantity="other">%d Físeáin BEO | Scéalta</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="one">%2$d fhíseán BEO | %1$d Scéal</item>
+        <item quantity="two">%2$d fhíseán BEO | %1$d Scéal</item>
+        <item quantity="few">%2$d fhíseán BEO | %1$d Scéal</item>
+        <item quantity="many">%2$d fhíseán BEO | %1$d Scéal</item>
+        <item quantity="other">%2$d fhíseán BEO | %1$d Scéal</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="one">%d Scéal</item>
+        <item quantity="two">%d Scéal</item>
+        <item quantity="few">%d Scéal</item>
+        <item quantity="many">%d Scéal</item>
+        <item quantity="other">%d Scéal</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="one">Tugadh cuireadh do %d chara</item>
+        <item quantity="two">Tugadh cuireadh do %d chairde</item>
+        <item quantity="few">Tugadh cuireadh do %d cairde</item>
+        <item quantity="many">Tugadh cuireadh do %d cairde</item>
+        <item quantity="other">Tugadh cuireadh do %d cairde</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="one">%s fhíseán</item>
+        <item quantity="two">%s fhíseáin</item>
+        <item quantity="few">%s fhíseáin</item>
+        <item quantity="many">%s bhfíseáin</item>
+        <item quantity="other">%s físeán</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="one">%s fhíseán curtha leis</item>
+        <item quantity="two">%s fhíseán curtha leis</item>
+        <item quantity="few">%s físeán curtha leis</item>
+        <item quantity="many">%s físeán curtha leis</item>
+        <item quantity="other">%s físeán curtha leis</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="one">%s fhíseán postáilte</item>
+        <item quantity="two">%s fhíseán postáilte</item>
+        <item quantity="few">%s físeán postáilte</item>
+        <item quantity="many">%s físeán postáilte</item>
+        <item quantity="other">%s físeán postáilte</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="one">Cuir físeán le (%d)</item>
+        <item quantity="two">Cuir físeáin le (%d)</item>
+        <item quantity="few">Cuir físeáin (%d)</item>
+        <item quantity="many">Cuir físeáin (%d)</item>
+        <item quantity="other">Cuir físeáin le (%d)</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="one">%d bhliain d&apos;aois</item>
+        <item quantity="two">%d bhliain d&apos;aois</item>
+        <item quantity="few">%d bhliana d&apos;aois</item>
+        <item quantity="many">%d mbliana d&apos;aois</item>
+        <item quantity="other">%d bliain d&apos;aois</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="one">%d bhliain d&apos;aois</item>
+        <item quantity="two">%d bhliain d&apos;aois</item>
+        <item quantity="few">%d bhliana d&apos;aois</item>
+        <item quantity="many">%d mbliana d&apos;aois</item>
+        <item quantity="other">%d bliain d&apos;aois</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="one">An bhfuil tú %d bliain d&apos;aois?\\n\n Mura bhfuil sé seo ceart, seans nach mbeidh tú in ann leas iomlán a bhaint as TikTok. Seans nach mbeidh tú in ann é a athrú láithreach.</item>
+        <item quantity="two">An bhfuil tú %d bliain d&apos;aois?\\n\n Mura bhfuil sé seo ceart, seans nach mbeidh tú in ann leas iomlán a bhaint as TikTok. Seans nach mbeidh tú in ann é a athrú láithreach.</item>
+        <item quantity="few">An bhfuil tú %d bliain d&apos;aois?\\n\n Mura bhfuil sé seo ceart, seans nach mbeidh tú in ann leas iomlán a bhaint as TikTok. Seans nach mbeidh tú in ann é a athrú láithreach.</item>
+        <item quantity="many">An bhfuil tú %d bliain d&apos;aois?\\n\n Mura bhfuil sé seo ceart, seans nach mbeidh tú in ann leas iomlán a bhaint as TikTok. Seans nach mbeidh tú in ann é a athrú láithreach.</item>
+        <item quantity="other">An bhfuil tú %d bliain d&apos;aois?\\n\n Mura bhfuil sé seo ceart, seans nach mbeidh tú in ann leas iomlán a bhaint as TikTok. Seans nach mbeidh tú in ann é a athrú láithreach.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="one">An bhfuil tú %d bliain d&apos;aois?</item>
+        <item quantity="two">An bhfuil tú %d bliana d&apos;aois?</item>
+        <item quantity="few">An bhfuil tú %d bliana d&apos;aois?</item>
+        <item quantity="many">An bhfuil tú %d bliana d&apos;aois?</item>
+        <item quantity="other">An bhfuil tú %d bliana d&apos;aois?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="one">Chuir tú isteach %d bhliain d&apos;aois. Cuir isteach d&apos;fhíor-dháta breithe.</item>
+        <item quantity="two">Chuir tú isteach %d bhliain d&apos;aois. Cuir isteach d&apos;fhíor-dháta breithe.</item>
+        <item quantity="few">Chuir tú isteach %d bliana d&apos;aois. Cuir isteach d&apos;fhíor-dháta breithe.</item>
+        <item quantity="many">Chuir tú isteach %d (m)bliana d&apos;aois. Cuir isteach d&apos;fhíor-dháta breithe.</item>
+        <item quantity="other">Chuir tú isteach %d (m)bliana d&apos;aois. Cuir isteach d&apos;fhíor-dháta breithe.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="one">%d bhliain d&apos;aois</item>
+        <item quantity="two">%d bhliain d&apos;aois</item>
+        <item quantity="few">%d bhliana d&apos;aois</item>
+        <item quantity="many">%d mbliana d&apos;aois</item>
+        <item quantity="other">%d bliain d&apos;aois</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="one">%d fhuaim</item>
+        <item quantity="two">%d fhuaim</item>
+        <item quantity="few">%d fhuaim</item>
+        <item quantity="many">%d bhfuaim</item>
+        <item quantity="other">%d fuaim</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="one">Fuaim á sioncronú...</item>
+        <item quantity="two">Fuaimeanna á sioncronú...</item>
+        <item quantity="few">Fuaimeanna á sioncronú...</item>
+        <item quantity="many">Fuaimeanna á sioncronú...</item>
+        <item quantity="other">Fuaimeanna á sioncronú...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="one">%s roinnt</item>
+        <item quantity="two">%s roinnt</item>
+        <item quantity="few">%s roinnt</item>
+        <item quantity="many">%s roinnt</item>
+        <item quantity="other">%s roinnt</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="one">%s amharc</item>
+        <item quantity="two">%s amhairc</item>
+        <item quantity="few">%s amhairc</item>
+        <item quantity="many">%s amhairc</item>
+        <item quantity="other">%s amharc</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="one">D&apos;fhéadfadh éifeachtaí gutha cruinneas a laghdú</item>
+        <item quantity="two">D&apos;fhéadfadh éifeachtaí gutha cruinneas a laghdú</item>
+        <item quantity="few">D&apos;fhéadfadh éifeachtaí gutha cruinneas a laghdú</item>
+        <item quantity="many">D&apos;fhéadfadh éifeachtaí gutha cruinneas a laghdú</item>
+        <item quantity="other">D&apos;fhéadfadh éifeachtaí gutha cruinneas a laghdú</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="one">Uaslódáil suas le %d chomhad</item>
+        <item quantity="two">Uaslódáil suas le %d chomhad</item>
+        <item quantity="few">Uaslódáil suas le %d comhad</item>
+        <item quantity="many">Uaslódáil suas le %d comhad</item>
+        <item quantity="other">Uaslódáil suas le %d comhad</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="one">An leagan béite seo téann sé in éag i gceann %d lá</item>
+        <item quantity="two">An leagan béite seo téann sé in éag i gceann %d lá</item>
+        <item quantity="few">An leagan béite seo téann sé in éag i gceann %d lá</item>
+        <item quantity="many">An leagan béite seo téann sé in éag i gceann %d lá</item>
+        <item quantity="other">An leagan béite seo téann sé in éag i gceann %d lá</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="one">Téann sé in éag i gceann %d lá</item>
+        <item quantity="two">Téann sé in éag i gceann %d lá</item>
+        <item quantity="few">Téann sé in éag i gceann %d lá</item>
+        <item quantity="many">Téann sé in éag i gceann %d lá</item>
+        <item quantity="other">Téann sé in éag i gceann %d lá</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="one">Téann sé in éag i gceann %d lá</item>
+        <item quantity="two">Téann sé in éag i gceann %d lá</item>
+        <item quantity="few">Téann sé in éag i gceann %d lá</item>
+        <item quantity="many">Téann sé in éag i gceann %d lá</item>
+        <item quantity="other">Téann sé in éag i gceann %d lá</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="one">Téann sé in éag i gceann %d lá</item>
+        <item quantity="two">Téann sé in éag i gceann %d lá</item>
+        <item quantity="few">Téann sé in éag i gceann %d lá</item>
+        <item quantity="many">Téann sé in éag i gceann %d lá</item>
+        <item quantity="other">Téann sé in éag i gceann %d lá</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="one">Is féidir leat suas le %d leabhar a chur leis</item>
+        <item quantity="two">Is féidir leat suas le %d leabhar a chur leis</item>
+        <item quantity="few">Is féidir leat suas le %d leabhar a chur leis</item>
+        <item quantity="many">Is féidir leat suas le %d leabhar a chur leis</item>
+        <item quantity="other">Is féidir leat suas le %d leabhair a chur leis</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="one">%s ghearrthóg</item>
+        <item quantity="two">%s ghearrthóg</item>
+        <item quantity="few">%s gearrthóg</item>
+        <item quantity="many">%s gearrthóg</item>
+        <item quantity="other">%s gearrthóg</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="one">Féach %d níos mó</item>
+        <item quantity="two">Féach %d níos mó</item>
+        <item quantity="few">Féach %d níos mó</item>
+        <item quantity="many">Féach %d níos mó</item>
+        <item quantity="other">Féach %d níos mó</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="one">Féach %d fhreagra</item>
+        <item quantity="two">Féach %d fhreagra</item>
+        <item quantity="few">Féach %d fhreagra</item>
+        <item quantity="many">Féach %d fhreagra</item>
+        <item quantity="other">Féach %d freagraí</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="one">%d mí</item>
+        <item quantity="two">%d míonna</item>
+        <item quantity="few">%d míonna</item>
+        <item quantity="many">%d míonna</item>
+        <item quantity="other">%d míonna</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="one">%d bliain</item>
+        <item quantity="two">%d blianta</item>
+        <item quantity="few">%d blianta</item>
+        <item quantity="many">%d blianta</item>
+        <item quantity="other">%d blianta</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="one">Cuir bac ar chuntas</item>
+        <item quantity="two">Cuir bac ar chuntais</item>
+        <item quantity="few">Cuir bac ar chuntais</item>
+        <item quantity="many">Cuir bac ar chuntais</item>
+        <item quantity="other">Cuir bac ar chuntais</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="one">%d cuntas roghnaithe.</item>
+        <item quantity="two">%d chuntais roghnaithe.</item>
+        <item quantity="few">%d chuntais roghnaithe.</item>
+        <item quantity="many">%d gcuntais roghnaithe.</item>
+        <item quantity="other">%d cuntas roghnaithe.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="one">Is féidir leat suas le %d chuntas a roghnú ag an am.</item>
+        <item quantity="two">Is féidir leat suas le %d chuntais a roghnú ag an am.</item>
+        <item quantity="few">Is féidir leat suas le %d chuntais a roghnú ag an am.</item>
+        <item quantity="many">Is féidir leat suas le %d gcuntais a roghnú ag an am.</item>
+        <item quantity="other">Is féidir leat suas le %d cuntas a roghnú ag an am.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="one">Roghnaigh tú %d chuntas le blocáil. Ní bheidh cuntais bhactha in ann do phróifíl nó d&apos;ábhar a fheiceáil ar TikTok.</item>
+        <item quantity="two">Roghnaigh tú %d chuntais le blocáil. Ní bheidh cuntais bhactha in ann do phróifíl nó d&apos;ábhar a fheiceáil ar TikTok.</item>
+        <item quantity="few">Roghnaigh tú %d chuntais le blocáil. Ní bheidh cuntais bhactha in ann do phróifíl nó d&apos;ábhar a fheiceáil ar TikTok.</item>
+        <item quantity="many">Roghnaigh tú %d gcuntais le blocáil. Ní bheidh cuntais bhactha in ann do phróifíl nó d&apos;ábhar a fheiceáil ar TikTok.</item>
+        <item quantity="other">Roghnaigh tú %d cuntas le blocáil. Ní bheidh cuntais bhactha in ann do phróifíl nó d&apos;ábhar a fheiceáil ar TikTok.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="one">Cuir bac ar %d chuntas?</item>
+        <item quantity="two">Cuir bac ar %d chuntais?</item>
+        <item quantity="few">Cuir bac ar %d chuntais?</item>
+        <item quantity="many">Cuir bac ar %d gcuntais?</item>
+        <item quantity="other">Cuir bac ar %d cuntas?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="one">Scrios trácht</item>
+        <item quantity="two">Scrios tráchtanna</item>
+        <item quantity="few">Scrios tráchtanna</item>
+        <item quantity="many">Scrios tráchtanna</item>
+        <item quantity="other">Scrios tráchtanna</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="one">Roghnaigh tú %d thrácht.</item>
+        <item quantity="two">Roghnaigh tú %d thráchta.</item>
+        <item quantity="few">Roghnaigh tú %d thráchta.</item>
+        <item quantity="many">Roghnaigh tú %d dtráchta.</item>
+        <item quantity="other">Roghnaigh tú %d trácht.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="one">Scrios %d thrácht?</item>
+        <item quantity="two">Scrios %d thráchta?</item>
+        <item quantity="few">Scrios %d thráchta?</item>
+        <item quantity="many">Scrios %d dtráchta?</item>
+        <item quantity="other">Scrios %d trácht?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="one">Trácht scriosta</item>
+        <item quantity="two">Tráchtanna scriosta</item>
+        <item quantity="few">Tráchtanna scriosta</item>
+        <item quantity="many">Tráchtanna scriosta</item>
+        <item quantity="other">Tráchtanna scriosta</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="one">%d thrácht roghnaithe.</item>
+        <item quantity="two">%d thráchta roghnaithe.</item>
+        <item quantity="few">%d thráchta roghnaithe.</item>
+        <item quantity="many">%d dtráchta roghnaithe.</item>
+        <item quantity="other">%d trácht roghnaithe.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="one">Is féidir leat suas le %d thrácht a roghnú ag an am.</item>
+        <item quantity="two">Is féidir leat suas le %d thráchta a roghnú ag an am.</item>
+        <item quantity="few">Is féidir leat suas le %d thráchta a roghnú ag an am.</item>
+        <item quantity="many">Is féidir leat suas le %d dtráchta a roghnú ag an am.</item>
+        <item quantity="other">Is féidir leat suas le %d trácht a roghnú ag an am.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="one">Tuairiscigh trácht</item>
+        <item quantity="two">Tuairiscigh tráchtanna</item>
+        <item quantity="few">Tuairiscigh tráchtanna</item>
+        <item quantity="many">Tuairiscigh tráchtanna</item>
+        <item quantity="other">Tuairiscigh tráchtanna</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="one">Tá tú ag tuairisciú %d thrácht. Déanfaimid athbhreithniú ar an trácht seo le haghaidh ábhar míchuí.</item>
+        <item quantity="two">Tá tú ag tuairisciú %d thráchta. Déanfaimid athbhreithniú ar na tráchta seo le haghaidh ábhar míchuí.</item>
+        <item quantity="few">Tá tú ag tuairisciú %d thráchta. Déanfaimid athbhreithniú ar na tráchta seo le haghaidh ábhar míchuí.</item>
+        <item quantity="many">Tá tú ag tuairisciú %d dtráchta. Déanfaimid athbhreithniú ar na tráchta seo le haghaidh ábhar míchuí.</item>
+        <item quantity="other">Tá tú ag tuairisciú %d trácht. Déanfaimid athbhreithniú ar an trácht seo le haghaidh ábhar míchuí.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="one">Tuairiscigh %d thrácht?</item>
+        <item quantity="two">Tuairiscigh %d thráchta?</item>
+        <item quantity="few">Tuairiscigh %d thráchta?</item>
+        <item quantity="many">Tuairiscigh %d thráchta?</item>
+        <item quantity="other">Tuairiscigh %d thráchta?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="one">Trácht tuairiscithe</item>
+        <item quantity="two">Tráchtanna tuairiscithe</item>
+        <item quantity="few">Tráchtanna tuairiscithe</item>
+        <item quantity="many">Tráchtanna tuairiscithe</item>
+        <item quantity="other">Tráchtanna tuairiscithe</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="one">%s trácht</item>
+        <item quantity="two">%s tráchtanna</item>
+        <item quantity="few">%s tráchtanna</item>
+        <item quantity="many">%s tráchtanna</item>
+        <item quantity="other">%s tráchtanna</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="one">%s físeán</item>
+        <item quantity="two">%s físeán</item>
+        <item quantity="few">%s físeáin</item>
+        <item quantity="many">%s físeáin</item>
+        <item quantity="other">%s físeáin</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="one">Meabhrúchán socraithe ag %s úsáideoir</item>
+        <item quantity="two">Meabhrúcháin socraithe ag %s úsáideoirí</item>
+        <item quantity="few">Meabhrúcháin socraithe ag %s úsáideoirí</item>
+        <item quantity="many">Meabhrúcháin socraithe ag %s úsáideoirí</item>
+        <item quantity="other">Meabhrúcháin socraithe ag %s úsáideoirí</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="one">%s éifeacht</item>
+        <item quantity="two">%s éifeachtaí</item>
+        <item quantity="few">%s éifeachtaí</item>
+        <item quantity="many">%s éifeachtaí</item>
+        <item quantity="other">%s éifeachtaí</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="one">Amharc físeáin</item>
+        <item quantity="two">Amhairc físeáin</item>
+        <item quantity="few">Amhairc físeáin</item>
+        <item quantity="many">Amhairc físeáin</item>
+        <item quantity="other">Amhairc físeáin</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="one">Glanleantóir</item>
+        <item quantity="two">Glanleantóirí</item>
+        <item quantity="few">Glanleantóirí</item>
+        <item quantity="many">Glanleantóirí</item>
+        <item quantity="other">Glanleantóirí</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="one">Is maith liom</item>
+        <item quantity="two">Is maith liom</item>
+        <item quantity="few">Is maith liom</item>
+        <item quantity="many">Is maith liom</item>
+        <item quantity="other">Is maith liom</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="one">Tá meabhrúchán socraithe ag %s úsáideoir</item>
+        <item quantity="two">Tá meabhrúcháin socraithe ag %s úsáideoirí</item>
+        <item quantity="few">Tá meabhrúcháin socraithe ag %s úsáideoirí</item>
+        <item quantity="many">Tá meabhrúcháin socraithe ag %s úsáideoirí</item>
+        <item quantity="other">Tá meabhrúcháin socraithe ag %s úsáideoirí</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="one">Scrios dréacht?</item>
+        <item quantity="two">Scrios dréachtaí?</item>
+        <item quantity="few">Scrios dréachtaí?</item>
+        <item quantity="many">Scrios dréachtaí?</item>
+        <item quantity="other">Scrios dréacht?</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="one">%s postáil</item>
+        <item quantity="two">%s postáil</item>
+        <item quantity="few">%s postáil</item>
+        <item quantity="many">%s postáil</item>
+        <item quantity="other">%s postáil</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="one">Paschód mícheart. %d iarracht fágtha.</item>
+        <item quantity="two">Paschód mícheart. %d iarrachtaí fágtha.</item>
+        <item quantity="few">Paschód mícheart. %d iarrachtaí fágtha.</item>
+        <item quantity="many">Paschód mícheart. %d iarrachtaí fágtha.</item>
+        <item quantity="other">Paschód mícheart. %d iarrachtaí fágtha.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="one">An iomarca iarrachtaí. Bain triail eile as i %d nóiméad.</item>
+        <item quantity="two">An iomarca iarrachtaí. Bain triail eile as i %d nóiméid.</item>
+        <item quantity="few">An iomarca iarrachtaí. Bain triail eile as i %d nóiméid.</item>
+        <item quantity="many">An iomarca iarrachtaí. Bain triail eile as i %d nóiméid.</item>
+        <item quantity="other">An iomarca iarrachtaí. Bain triail eile as i %d nóiméid.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="one">%d séis</item>
+        <item quantity="two">%d séiseanna</item>
+        <item quantity="few">%d séiseanna</item>
+        <item quantity="many">%d séiseanna</item>
+        <item quantity="other">%d séiseanna</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="one">%d ceol</item>
+        <item quantity="two">%d ceolta</item>
+        <item quantity="few">%d ceolta</item>
+        <item quantity="many">%d ceolta</item>
+        <item quantity="other">%d ceolta</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="one">%d píosa</item>
+        <item quantity="two">%d píosaí</item>
+        <item quantity="few">%d píosaí</item>
+        <item quantity="many">%d píosaí</item>
+        <item quantity="other">%d píosaí</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="one">%d amhrán</item>
+        <item quantity="two">%d amhráin</item>
+        <item quantity="few">%d amhráin</item>
+        <item quantity="many">%d amhráin</item>
+        <item quantity="other">%d amhráin</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="one">%d fhuaim</item>
+        <item quantity="two">%d fhuaim</item>
+        <item quantity="few">%d fhuaim</item>
+        <item quantity="many">%d bhfuaim</item>
+        <item quantity="other">%d fuaim</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="one">%d fonn</item>
+        <item quantity="two">%d foinn</item>
+        <item quantity="few">%d foinn</item>
+        <item quantity="many">%d foinn</item>
+        <item quantity="other">%d foinn</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="one">Seol (%d)</item>
+        <item quantity="two">Seol (%d)</item>
+        <item quantity="few">Seol (%d)</item>
+        <item quantity="many">Seol (%d)</item>
+        <item quantity="other">Seol (%d)</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="one">%1$d á leanúint · %2$d leantóir</item>
+        <item quantity="two">%1$d á leanúint · %2$d leantóirí</item>
+        <item quantity="few">%1$d á leanúint · %2$d leantóirí</item>
+        <item quantity="many">%1$d á leanúint · %2$d leantóirí</item>
+        <item quantity="other">%1$d á leanúint · %2$d leantóirí</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="one">@ tagairt nua</item>
+        <item quantity="two">@ tagairtí nua</item>
+        <item quantity="few">@ tagairtí nua</item>
+        <item quantity="many">@ tagairtí nua</item>
+        <item quantity="other">@ tagairtí nua</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="one">sheol sé/sí teachtaireachtaí nua.</item>
+        <item quantity="two">sheol sé/sí teachtaireachtaí nua.</item>
+        <item quantity="few">sheol sé/sí teachtaireachtaí nua.</item>
+        <item quantity="many">sheol sé/sí teachtaireachtaí nua.</item>
+        <item quantity="other">sheol sé/sí teachtaireachtaí nua.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="one">sheol sé/sí teachtaireachtaí nua chugat.</item>
+        <item quantity="two">sheol sé/sí teachtaireachtaí nua chugat.</item>
+        <item quantity="few">sheol sé/sí teachtaireachtaí nua chugat.</item>
+        <item quantity="many">sheol sé/sí teachtaireachtaí nua chugat.</item>
+        <item quantity="other">sheol sé/sí teachtaireachtaí nua chugat.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="one">Is féidir leat suas le %d duine a roghnú</item>
+        <item quantity="two">Is féidir leat suas le %d a roghnú</item>
+        <item quantity="few">Is féidir leat suas le %d a roghnú</item>
+        <item quantity="many">Is féidir leat suas le %d a roghnú</item>
+        <item quantity="other">Is féidir leat suas le %d a roghnú</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="one">Faigh réitithe de dhréacht?</item>
+        <item quantity="two">Faigh réitithe de dhréachtaí?</item>
+        <item quantity="few">Faigh réitithe de dhréachtaí?</item>
+        <item quantity="many">Faigh réitithe de dhréachtaí?</item>
+        <item quantity="other">Faigh réitithe de dhréachtaí?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="one">Scrios dréacht?</item>
+        <item quantity="two">Scrios dréacht?</item>
+        <item quantity="few">Scrios dréacht?</item>
+        <item quantity="many">Scrios dréacht?</item>
+        <item quantity="other">Scrios dréachtaí?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="one">Dréachtaí {#} físeán</item>
+        <item quantity="two">Dréachtaí {#} físeáin</item>
+        <item quantity="few">Dréachtaí {#} físeáin</item>
+        <item quantity="many">Dréachtaí {#} físeáin</item>
+        <item quantity="other">Dréachtaí {#} físeáin</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="one">Cuirfear %1$s agus %2$s eile ar an eolas nuair a phostálfar an físeán seo.</item>
+        <item quantity="two">Cuirfear %1$s agus %2$s eile ar an eolas nuair a phostálfar an físeán seo.</item>
+        <item quantity="few">Cuirfear %1$s agus %2$s eile ar an eolas nuair a phostálfar an físeán seo.</item>
+        <item quantity="many">Cuirfear %1$s agus %2$s eile ar an eolas nuair a phostálfar an físeán seo.</item>
+        <item quantity="other">Cuirfear %1$s agus %2$s eile ar an eolas nuair a phostálfar an físeán seo.</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="one">Roghnaigh ar a laghad %d earra</item>
+        <item quantity="two">Roghnaigh ar a laghad %d earraí</item>
+        <item quantity="few">Roghnaigh ar a laghad %d earraí</item>
+        <item quantity="many">Roghnaigh ar a laghad %d earraí</item>
+        <item quantity="other">Roghnaigh ar a laghad %d earraí</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="one">Críochnaíonn sé i %s lá</item>
+        <item quantity="two">Críochnaíonn sé i %s laethanta</item>
+        <item quantity="few">Críochnaíonn sé i %s laethanta</item>
+        <item quantity="many">Críochnaíonn sé i %s laethanta</item>
+        <item quantity="other">Críochnaíonn sé i %s laethanta</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="one">Is féidir eagarthóireacht a dhéanamh ar suas le %d d&apos;am</item>
+        <item quantity="two">Ní féidir leat ach suas le %d uair a chur in eagar</item>
+        <item quantity="few">Ní féidir leat ach suas le %d uair a chur in eagar</item>
+        <item quantity="many">Ní féidir leat ach suas le %d uair a chur in eagar</item>
+        <item quantity="other">Ní féidir leat ach suas le %d uair a chur in eagar</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="one">Réamhamharc éifeacht in %ds</item>
+        <item quantity="two">Réamhamharc maisíocht in %ds</item>
+        <item quantity="few">Réamhamharc maisíocht in %ds</item>
+        <item quantity="many">Réamhamharc maisíocht in %ds</item>
+        <item quantity="other">Réamhamharc maisíocht in %ds</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="one">Clibeáilte</item>
+        <item quantity="two">Clibeáilte</item>
+        <item quantity="few">Clibeáilte</item>
+        <item quantity="many">Clibeáilte</item>
+        <item quantity="other">Clibeáilte</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="one">Seans go bhfuil aithne agat ar an mball seo den ghrúpa.</item>
+        <item quantity="two">Seans go bhfuil aithne agat ar na baill seo den ghrúpa.</item>
+        <item quantity="few">Seans go bhfuil aithne agat ar na baill seo den ghrúpa.</item>
+        <item quantity="many">Seans go bhfuil aithne agat ar na baill seo den ghrúpa.</item>
+        <item quantity="other">Seans go bhfuil aithne agat ar na baill seo den ghrúpa.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="one">%s fhíseán</item>
+        <item quantity="two">%s fhíseáin</item>
+        <item quantity="few">%s fhíseáin</item>
+        <item quantity="many">%s bhfíseáin</item>
+        <item quantity="other">%s físeán</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="one">%s fhíseán curtha leis</item>
+        <item quantity="two">%s fhíseán curtha leis</item>
+        <item quantity="few">%s físeán curtha leis</item>
+        <item quantity="many">%s físeán curtha leis</item>
+        <item quantity="other">%s físeán curtha leis</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="one">Bain %1$d físeán ó %2$s</item>
+        <item quantity="two">Bain %1$d físeáin ó %2$s</item>
+        <item quantity="few">Bain %1$d físeáin ó %2$s</item>
+        <item quantity="many">Bain %1$d físeáin ó %2$s</item>
+        <item quantity="other">Bain %1$d físeáin ó %2$s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="one">Bogadh %1$d físeán chuig %2$s</item>
+        <item quantity="two">Bogadh %1$d físeáin chuig %2$s</item>
+        <item quantity="few">Bogadh %1$d físeáin chuig %2$s</item>
+        <item quantity="many">Bogadh %1$d físeáin chuig %2$s</item>
+        <item quantity="other">Bogadh %1$d físeáin chuig %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="one">%d físeán bainte</item>
+        <item quantity="two">%d físeáin bainte</item>
+        <item quantity="few">%d físeáin bainte</item>
+        <item quantity="many">%d físeáin bainte</item>
+        <item quantity="other">%d físeáin bainte</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="one">%d cuntas molta nua</item>
+        <item quantity="two">%d chuntas molta nua</item>
+        <item quantity="few">%d cuntas molta nua</item>
+        <item quantity="many">%d cuntas molta nua</item>
+        <item quantity="other">%d cuntas molta nua</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="one">A leanúint ag {0}, {1} agus {2} eile</item>
+        <item quantity="two">A leanúint ag {0}, {1} agus {2} eile</item>
+        <item quantity="few">A leanúint ag {0}, {1} agus {2} eile</item>
+        <item quantity="many">A leanúint ag {0}, {1} agus {2} eile</item>
+        <item quantity="other">A leanúint ag {0}, {1} agus {2} eile</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="one">A leanúint ag {0} agus {2} eile</item>
+        <item quantity="two">A leanúint ag {0}, agus {2} eile</item>
+        <item quantity="few">A leanúint ag {0} agus {2} eile</item>
+        <item quantity="many">A leanúint ag {0} agus {2} eile</item>
+        <item quantity="other">A leanúint ag {0} agus {2} eile</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="one">Ag leanúint ag {0}, {1} agus {2} eile</item>
+        <item quantity="two">Ag leanúint ag {0}, {1} agus {2} eile</item>
+        <item quantity="few">Ag leanúint ag {0}, {1} agus {2} eile</item>
+        <item quantity="many">Ag leanúint ag {0}, {1} agus {2} eile</item>
+        <item quantity="other">Ag leanúint ag {0}, {1} agus {2} eile</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="one">Leanann {0} agus {2} eile</item>
+        <item quantity="two">Leanann {0} agus {2} eile</item>
+        <item quantity="few">Leanann {0} agus {2} eile</item>
+        <item quantity="many">Leanann {0} agus {2} eile</item>
+        <item quantity="other">Leanann {0} agus {2} eile</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="one">Cairde le {0}, {1} agus {2} eile</item>
+        <item quantity="two">Cairde le {0}, {1}, agus {2} duine eile</item>
+        <item quantity="few">Cairde le {0}, {1}, agus {2} duine eile</item>
+        <item quantity="many">Cairde le {0}, {1}, agus {2} duine eile</item>
+        <item quantity="other">Cairde le {0}, {1}, agus {2} duine eile</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="one">Cairde le {0} agus {2} eile</item>
+        <item quantity="two">Cairde le {0} agus {2} eile</item>
+        <item quantity="few">Cairde le {0} agus {2} eile</item>
+        <item quantity="many">Cairde le {0} agus {2} eile</item>
+        <item quantity="other">Cairde le {0} agus {2} eile</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="one">{2} Cheangal fhrithpháirteacha</item>
+        <item quantity="two">{2} Cheangal fhrithpháirteacha</item>
+        <item quantity="few">{2} Cheangal fhrithpháirteacha</item>
+        <item quantity="many">{2} Cheangal fhrithpháirteacha</item>
+        <item quantity="other">{2} Cheangail frithpháirteacha</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="one">%d postáil nua ó chairde</item>
+        <item quantity="two">%d phostálil nua ó chairde</item>
+        <item quantity="few">%d postáil nua ó chairde</item>
+        <item quantity="many">%d postálacha nua ó chairde</item>
+        <item quantity="other">%d postálacha nua ó chairde</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="one">%d ball gníomhach anois</item>
+        <item quantity="two">%d baill gníomhacha anois</item>
+        <item quantity="few">%d baill gníomhacha anois</item>
+        <item quantity="many">%d baill gníomhacha anois</item>
+        <item quantity="other">%d baill gníomhacha anois</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="one">%1$d ball gníomhach %2$d nóiméad ó shin</item>
+        <item quantity="two">%1$d baill gníomhacha %2$d nóiméid ó shin</item>
+        <item quantity="few">%1$d baill gníomhacha %2$d nóiméid ó shin</item>
+        <item quantity="many">%1$d baill gníomhacha %2$d nóiméid ó shin</item>
+        <item quantity="other">%1$d baill gníomhacha %2$d nóiméid ó shin</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="one">%d ball gníomhach inniu</item>
+        <item quantity="two">%d baill gníomhacha inniu</item>
+        <item quantity="few">%d baill gníomhacha inniu</item>
+        <item quantity="many">%d baill gníomhacha inniu</item>
+        <item quantity="other">%d baill gníomhacha inniu</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="one">%d ball</item>
+        <item quantity="two">%d ball</item>
+        <item quantity="few">%d ball</item>
+        <item quantity="many">%d ball</item>
+        <item quantity="other">%d baill</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="one">Iarratas nua</item>
+        <item quantity="two">Iarratais nua</item>
+        <item quantity="few">Iarratais nua</item>
+        <item quantity="many">Iarratais nua</item>
+        <item quantity="other">Iarratais nua</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="one">%s bhall</item>
+        <item quantity="two">%s bhall</item>
+        <item quantity="few">%s ball</item>
+        <item quantity="many">%s ball</item>
+        <item quantity="other">%s ball</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="one">Féach %d ball eile</item>
+        <item quantity="two">Féach %d baill eile</item>
+        <item quantity="few">Féach %d baill eile</item>
+        <item quantity="many">Féach %d baill eile</item>
+        <item quantity="other">Féach %d baill eile</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="one">%s amharc</item>
+        <item quantity="two">%s hamhairc</item>
+        <item quantity="few">%s hamhairc</item>
+        <item quantity="many">%s n-amhairc</item>
+        <item quantity="other">%s amharc</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="one">Leantóir: %s</item>
+        <item quantity="two">Leantóirí: %s</item>
+        <item quantity="few">Leantóirí: %s</item>
+        <item quantity="many">Leantóirí: %s</item>
+        <item quantity="other">Leantóirí: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="one">Físeán: %s</item>
+        <item quantity="two">Físeáin: %s</item>
+        <item quantity="few">Físeáin: %s</item>
+        <item quantity="many">Físeáin: %s</item>
+        <item quantity="other">Físeáin: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="one">Seolta chuig %s agus %d eile</item>
+        <item quantity="two">Seolta chuig %s agus %d eile</item>
+        <item quantity="few">Seolta chuig %s agus %d eile</item>
+        <item quantity="many">Seolta chuig %s agus %d eile</item>
+        <item quantity="other">Seolta chuig %s agus %d eile</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="one">Níorbh fhéidir Scéal %d a uaslódáil. Sábháladh an Scéal chuig do dhréachtaí.</item>
+        <item quantity="two">Níorbh fhéidir Scéalta %d a uaslódáil. Sábháladh na Scéalta chuig do dhréachtaí.</item>
+        <item quantity="few">Níorbh fhéidir Scéalta %d a uaslódáil. Sábháladh na Scéalta chuig do dhréachtaí.</item>
+        <item quantity="many">Níorbh fhéidir Scéalta %d a uaslódáil. Sábháladh na Scéalta chuig do dhréachtaí.</item>
+        <item quantity="other">Níorbh fhéidir Scéalta %d a uaslódáil. Sábháladh na Scéalta chuig do dhréachtaí.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="one">Níorbh fhéidir grianghraf a uaslódáil. Sábháladh grianghraf le do dhréachtaí.</item>
+        <item quantity="two">Níorbh fhéidir&apos; grianghraif a uaslódáil. Sábháladh grianghraif le do dhréachtaí.</item>
+        <item quantity="few">Níorbh fhéidir&apos; grianghraif a uaslódáil. Sábháladh grianghraif le do dhréachtaí.</item>
+        <item quantity="many">Níorbh fhéidir&apos; grianghraif a uaslódáil. Sábháladh grianghraif le do dhréachtaí.</item>
+        <item quantity="other">Níorbh fhéidir&apos; grianghraif a uaslódáil. Sábháladh grianghraif le do dhréachtaí.</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="one">%d greamán</item>
+        <item quantity="two">%d greamáin</item>
+        <item quantity="few">%d greamáin</item>
+        <item quantity="many">%d greamáin</item>
+        <item quantity="other">%d greamáin</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="one">thagair sé/sí duit i ngrianghraf.</item>
+        <item quantity="two">thagair sé/sí duit i ngrianghraif.</item>
+        <item quantity="few">thagair sé/sí duit i ngrianghraif.</item>
+        <item quantity="many">thagair sé/sí duit i ngrianghraif.</item>
+        <item quantity="other">thagair sé/sí duit i ngrianghraif.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="one">%s phostáil nua</item>
+        <item quantity="two">%s phostáil nua</item>
+        <item quantity="few">%s postáil nua</item>
+        <item quantity="many">%s postáil nua</item>
+        <item quantity="other">%s postáil nua</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="one">Gníomhaíocht</item>
+        <item quantity="two">Gníomhaíocht</item>
+        <item quantity="few">Gníomhaíocht</item>
+        <item quantity="many">Gníomhaíocht</item>
+        <item quantity="other">Gníomhaíochtaí</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="one">Lean %1$s, %2$s, agus %d duine eile a bhfuil aithne agat air chun féachaint ar a bhfíseáin.</item>
+        <item quantity="two">Lean %1$s, %2$s, agus %d duine eile a bhfuil aithne agat air chun féachaint ar a bhfíseáin.</item>
+        <item quantity="few">Lean %1$s, %2$s, agus %d duine eile a bhfuil aithne agat air chun féachaint ar a bhfíseáin.</item>
+        <item quantity="many">Lean %1$s, %2$s, agus %d duine eile a bhfuil aithne agat air chun féachaint ar a bhfíseáin.</item>
+        <item quantity="other">Lean %1$s, %2$s, agus %d duine eile a bhfuil aithne agat air chun féachaint ar a bhfíseáin.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="one">%d eile</item>
+        <item quantity="two">%d eile</item>
+        <item quantity="few">%d eile</item>
+        <item quantity="many">%d eile</item>
+        <item quantity="other">%d eile</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="one">Lean %1$s, %2$s, agus %3$d duine eile a bhfuil aithne agat air chun féachaint ar a bhfíseáin.</item>
+        <item quantity="two">Lean %1$s, %2$s, agus %3$d duine eile a bhfuil aithne agat air chun féachaint ar a bhfíseáin.</item>
+        <item quantity="few">Lean %1$s, %2$s, agus %3$d duine eile a bhfuil aithne agat air chun féachaint ar a bhfíseáin.</item>
+        <item quantity="many">Lean %1$s, %2$s, agus %3$d duine eile a bhfuil aithne agat air chun féachaint ar a bhfíseáin.</item>
+        <item quantity="other">Lean %1$s, %2$s, agus %3$d duine eile a bhfuil aithne agat air chun féachaint ar a bhfíseáin.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="one">Teachtaireacht</item>
+        <item quantity="two">Teachtaireacht</item>
+        <item quantity="few">Teachtaireacht</item>
+        <item quantity="many">Teachtaireacht</item>
+        <item quantity="other">Teachtaireachtaí</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="one">Gníomhaíocht nua</item>
+        <item quantity="two">Gníomhaíocht nua</item>
+        <item quantity="few">Gníomhaíocht nua</item>
+        <item quantity="many">Gníomhaíocht nua</item>
+        <item quantity="other">Gníomhaíochtaí nua</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="one">%s bhall</item>
+        <item quantity="two">%s bhall</item>
+        <item quantity="few">%s ball</item>
+        <item quantity="many">%s ball</item>
+        <item quantity="other">%s ball</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="one">%s postáil</item>
+        <item quantity="two">%s postáil</item>
+        <item quantity="few">%s postáil</item>
+        <item quantity="many">%s postáil</item>
+        <item quantity="other">%s postáil</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="one">%d eochairfhocal</item>
+        <item quantity="two">%d eochairfhocail</item>
+        <item quantity="few">%d eochairfhocail</item>
+        <item quantity="many">%d eochairfhocail</item>
+        <item quantity="other">%d eochairfhocail</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="one">%d Físeán BEO</item>
+        <item quantity="two">%d Físeáin BEO</item>
+        <item quantity="few">%d Físeáin BEO</item>
+        <item quantity="many">%d Físeáin BEO</item>
+        <item quantity="other">%d Físeáin BEO</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="one">Críochnaíonn sé i %s lá</item>
+        <item quantity="two">Críochnaíonn sé i %s laethanta</item>
+        <item quantity="few">Críochnaíonn sé i %s laethanta</item>
+        <item quantity="many">Críochnaíonn sé i %s laethanta</item>
+        <item quantity="other">Críochnaíonn sé i %s laethanta</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="one">%d Iarratas</item>
+        <item quantity="two">%d Iarratas</item>
+        <item quantity="few">%d Iarratas</item>
+        <item quantity="many">%d Iarratas</item>
+        <item quantity="other">%d Iarratais</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="one">Díroghnaigh amhrán mar amhrán nua?</item>
+        <item quantity="two">Díroghnaigh amhráin mar amhráin nua?</item>
+        <item quantity="few">Díroghnaigh amhráin mar amhráin nua?</item>
+        <item quantity="many">Díroghnaigh amhráin mar amhráin nua?</item>
+        <item quantity="other">Díroghnaigh amhráin mar amhráin nua?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="one">%d amhrán díroghnaithe mar amhrán nua</item>
+        <item quantity="two">%d amhrán díroghnaithe mar amhráin nua</item>
+        <item quantity="few">%d amhrán díroghnaithe mar amhráin nua</item>
+        <item quantity="many">%d amhrán díroghnaithe mar amhráin nua</item>
+        <item quantity="other">%d amhrán díroghnaithe mar amhráin nua</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="one">%d eisiúint</item>
+        <item quantity="two">%d eisiúint</item>
+        <item quantity="few">%d eisiúint</item>
+        <item quantity="many">%d eisiúint</item>
+        <item quantity="other">%d eisiúint</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="one">%d Ealaíontóir</item>
+        <item quantity="two">%d Ealaíontóir</item>
+        <item quantity="few">%d Ealaíontóir</item>
+        <item quantity="many">%d Ealaíontóir</item>
+        <item quantity="other">%d Ealaíontóirí</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="one">%d chomhchara</item>
+        <item quantity="two">%d chomhchairde</item>
+        <item quantity="few">%d comhchairde</item>
+        <item quantity="many">%d comhchairde</item>
+        <item quantity="other">%d comhchairde</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="one">%d chomhchara</item>
+        <item quantity="two">%d chomhchairde</item>
+        <item quantity="few">%d comhchairde</item>
+        <item quantity="many">%d comhchairde</item>
+        <item quantity="other">%d comhchairde</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="one">Is féidir leat físeáin suas le %d nóiméad ar fad a uaslódáil anois!</item>
+        <item quantity="two">Is féidir leat físeáin suas le %d nóiméid ar fad a uaslódáil anois!</item>
+        <item quantity="few">Is féidir leat físeáin suas le %d nóiméid ar fad a uaslódáil anois!</item>
+        <item quantity="many">Is féidir leat físeáin suas le %d nóiméid ar fad a uaslódáil anois!</item>
+        <item quantity="other">Is féidir leat físeáin suas le %d nóiméid ar fad a uaslódáil anois!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="one">Físeán %d-nóiméad á thabhairt isteach</item>
+        <item quantity="two">Físeán %d-nóiméad á thabhairt isteach</item>
+        <item quantity="few">Físeán %d-nóiméad á thabhairt isteach</item>
+        <item quantity="many">Físeán %d-nóiméad á thabhairt isteach</item>
+        <item quantity="other">Físeán %d-nóiméad á thabhairt isteach</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="one">%d chomhchara</item>
+        <item quantity="two">%d chomhchairde</item>
+        <item quantity="few">%d comhchairde</item>
+        <item quantity="many">%d comhchairde</item>
+        <item quantity="other">%d comhchairde</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="one">%d trácht</item>
+        <item quantity="two">%d thrácht</item>
+        <item quantity="few">%d trácht</item>
+        <item quantity="many">%d trácht</item>
+        <item quantity="other">%d trácht</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="one">Féach ar gach %d trácht</item>
+        <item quantity="two">Féach ar gach %d thrácht</item>
+        <item quantity="few">Féach ar gach %d trácht</item>
+        <item quantity="many">Féach ar gach %d trácht</item>
+        <item quantity="other">Féach ar gach %d trácht</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="one">{nickname} agus {number_1} eile</item>
+        <item quantity="two">{nickname} agus {number_1} eile</item>
+        <item quantity="few">{nickname} agus {number_1} eile</item>
+        <item quantity="many">{nickname} agus {number_1} eile</item>
+        <item quantity="other">{nickname} agus {number_1} eile</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="one">Phostáil {number} chara Anois an lae inniu</item>
+        <item quantity="two">Phostáil {number} chairde Anois an lae inniu</item>
+        <item quantity="few">Phostáil {number} cairde Anois an lae inniu</item>
+        <item quantity="many">Phostáil {number} cairde Anois an lae inniu</item>
+        <item quantity="other">Phostáil {number} cairde Anois an lae inniu</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="one">phostáil %1$s agus %2$d eile a Anois</item>
+        <item quantity="two">phostáil %1$s agus %2$d eile a Anois</item>
+        <item quantity="few">phostáil %1$s agus %2$d eile a Anois</item>
+        <item quantity="many">phostáil %1$s agus %2$d eile a Anois</item>
+        <item quantity="other">phostáil %1$s agus %2$d eile a Anois</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="one">{nickname} agus {number_1} eile</item>
+        <item quantity="two">{nickname} agus {number_1} eile</item>
+        <item quantity="few">{nickname} agus {number_1} eile</item>
+        <item quantity="many">{nickname} agus {number_1} eile</item>
+        <item quantity="other">{nickname} agus {number_1} eile</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="one">Bí le {number} chara ar TikTok Now chun cuimhní randamacha a roinnt</item>
+        <item quantity="two">Bí le {number} chairde ar TikTok Now chun cuimhní randamacha a roinnt</item>
+        <item quantity="few">Bí le {number} cairde ar TikTok Now chun cuimhní randamacha a roinnt</item>
+        <item quantity="many">Bí le {number} chairde ar TikTok Now chun cuimhní randamacha a roinnt</item>
+        <item quantity="other">Bí le {number} chairde ar TikTok Now chun cuimhní randamacha a roinnt</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="one">Postáil d&apos;Anois sa {number} nóiméad eile</item>
+        <item quantity="two">Postáil d&apos;Anois sna {number} nóiméad eile</item>
+        <item quantity="few">Postáil d&apos;Anois sna {number} nóiméad eile</item>
+        <item quantity="many">Postáil d&apos;Anois sna {number} nóiméad eile</item>
+        <item quantity="other">Postáil d&apos;Anois sna {number} nóiméad eile</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="one">%d nóiméad fágtha chun Anois a phostáil.</item>
+        <item quantity="two">%d nóiméad fágtha chun Anois a phostáil.</item>
+        <item quantity="few">%d nóiméad fágtha chun Anois a phostáil.</item>
+        <item quantity="many">%d nóiméad fágtha chun Anois a phostáil.</item>
+        <item quantity="other">%d nóiméad fágtha chun Anois a phostáil.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="one">%d Cara frithpháirteach</item>
+        <item quantity="two">%d Cara frithpháirteach</item>
+        <item quantity="few">%d Cara frithpháirteach</item>
+        <item quantity="many">%d Cara frithpháirteach</item>
+        <item quantity="other">%d Cairde frithpháirteacha</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="one">%d &apos;is maith liom&apos;</item>
+        <item quantity="two">%d &apos;is maith liom&apos;</item>
+        <item quantity="few">%d &apos;is maith liom&apos;</item>
+        <item quantity="many">%d &apos;is maith liom&apos;</item>
+        <item quantity="other">%d &apos;is maith liom&apos;</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="one">Tá Anois postáilte ag {1}, {2}, {3}, agus {number} eile.</item>
+        <item quantity="two">Tá Anois postáilte ag {1}, {2}, {3}, agus {number} eile.</item>
+        <item quantity="few">Tá Anois postáilte ag {1}, {2}, {3}, agus {number} eile.</item>
+        <item quantity="many">Tá Anois postáilte ag {1}, {2}, {3}, agus {number} eile.</item>
+        <item quantity="other">Tá Anois postáilte ag {1}, {2}, {3}, agus {number} eile.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="one">%d freagairt</item>
+        <item quantity="two">%d fhreagairt</item>
+        <item quantity="few">%d freagairt</item>
+        <item quantity="many">%d freagairt</item>
+        <item quantity="other">%d freagairt</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="one">%d amharc</item>
+        <item quantity="two">%d amharc</item>
+        <item quantity="few">%d amharc</item>
+        <item quantity="many">%d amharc</item>
+        <item quantity="other">%d amharc</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="one">%d amharc</item>
+        <item quantity="two">%d amharc</item>
+        <item quantity="few">%d amharc</item>
+        <item quantity="many">%d amharc</item>
+        <item quantity="other">%d amharc</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="one">%1$s Agus %2$s eile</item>
+        <item quantity="two">%1$s Agus %2$s eile</item>
+        <item quantity="few">%1$s Agus %2$s eile</item>
+        <item quantity="many">%1$s Agus %2$s eile</item>
+        <item quantity="other">%1$s Agus %2$s eile</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="one">Níl fuaim ag do phostáil sioncronaithe ó Lemon8 go fóill. Cuir fuaim leis chun do phostáil a dhéanamh níos tarraingtí don lucht féachana.</item>
+        <item quantity="two">Níl fuaim ag do phostálacha sioncronaithe ó Lemon8 go fóill. Cuir fuaim leis chun do phostáil a dhéanamh níos tarraingtí don lucht féachana.</item>
+        <item quantity="few">Níl fuaim ag do phostálacha sioncronaithe ó Lemon8 go fóill. Cuir fuaim leis chun do phostáil a dhéanamh níos tarraingtí don lucht féachana.</item>
+        <item quantity="many">Níl fuaim ag do phostálacha sioncronaithe ó Lemon8 go fóill. Cuir fuaim leis chun do phostáil a dhéanamh níos tarraingtí don lucht féachana.</item>
+        <item quantity="other">Níl fuaim ag do phostálacha sioncronaithe ó Lemon8 go fóill. Cuir fuaim leis chun do phostáil a dhéanamh níos tarraingtí don lucht féachana.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="one">Cuir fuaim leis chun do phostáil a fheabhsú</item>
+        <item quantity="two">Cuir fuaim leis chun do phostáil a fheabhsú</item>
+        <item quantity="few">Cuir fuaim leis chun do phostáil a fheabhsú</item>
+        <item quantity="many">Cuir fuaim leis chun do phostáil a fheabhsú</item>
+        <item quantity="other">Cuir fuaim leis chun do phostálacha a fheabhsú</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="one">thug sé/sí &apos;is maith liom&apos; do do ghrianghraf.</item>
+        <item quantity="two">thug sé/sí &apos;is maith liom&apos; do do ghrianghraif.</item>
+        <item quantity="few">thug sé/sí &apos;is maith liom&apos; do do ghrianghraif.</item>
+        <item quantity="many">thug sé/sí &apos;is maith liom&apos; do do ghrianghraif.</item>
+        <item quantity="other">thug sé/sí &apos;is maith liom&apos; do do ghrianghraif.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="one">vótáil sé/sí do do ghrianghraf.</item>
+        <item quantity="two">vótáil sé/sí do do ghrianghraif.</item>
+        <item quantity="few">vótáil sé/sí do do ghrianghraif.</item>
+        <item quantity="many">vótáil sé/sí do do ghrianghraif.</item>
+        <item quantity="other">vótáil sé/sí do do ghrianghraif.</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="one">Eipeasóid %d</item>
+        <item quantity="two">Eipeasóid %d</item>
+        <item quantity="few">Eipeasóid %d</item>
+        <item quantity="many">Eipeasóid %d</item>
+        <item quantity="other">Eipeasóidí %d</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="one">%d mhír</item>
+        <item quantity="two">%d mhír</item>
+        <item quantity="few">%d mír</item>
+        <item quantity="many">%d mír</item>
+        <item quantity="other">%d mír</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="one">Tá %s le tosú i 10 nóim. Tá d&apos;imeacht feicthe ag %d amharcóir. Téigh BEO anois chun an leas is fearr a bhaint as do chur chun cinn!</item>
+        <item quantity="two">Tá %s le tosú i 10 nóim. Tá d&apos;imeacht feicthe ag %d amharcóir. Téigh BEO anois chun an leas is fearr a bhaint as do chur chun cinn!</item>
+        <item quantity="few">Tá %s le tosú i 10 nóim. Tá d&apos;imeacht feicthe ag %d amharcóir. Téigh BEO anois chun an leas is fearr a bhaint as do chur chun cinn!</item>
+        <item quantity="many">Tá %s le tosú i 10 nóim. Tá d&apos;imeacht feicthe ag %d amharcóir. Téigh BEO anois chun an leas is fearr a bhaint as do chur chun cinn!</item>
+        <item quantity="other">Tá %s le tosú i 10 nóim. Tá d&apos;imeacht feicthe ag %d amharcóirí. Téigh BEO anois chun an leas is fearr a bhaint as do chur chun cinn!</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="one">Amharc air thasc teagaisc %s</item>
+        <item quantity="two">Amharc air thasc teagaisc %s</item>
+        <item quantity="few">Amharc air thasc teagaisc %s</item>
+        <item quantity="many">Amharc air thasc teagaisc %s</item>
+        <item quantity="other">Amharc air thasc teagaisc %s</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="one">Postáil (%s)</item>
+        <item quantity="two">Postálacha (%s)</item>
+        <item quantity="few">Postálacha (%s)</item>
+        <item quantity="many">Postálacha (%s)</item>
+        <item quantity="other">Postálacha (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="one">(%s léirmheas)</item>
+        <item quantity="two">(%s léirmheas)</item>
+        <item quantity="few">(%s léirmheas)</item>
+        <item quantity="many">(%s léirmheas)</item>
+        <item quantity="other">(%s léirmheas)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="one">Níor uaslódáladh %s grianghraf. Déan iarracht arís.</item>
+        <item quantity="two">Níor uaslódáladh %s grianghraf. Déan iarracht arís.</item>
+        <item quantity="few">Níor uaslódáladh %s grianghraf. Déan iarracht arís.</item>
+        <item quantity="many">Níor uaslódáladh %s grianghraf. Déan iarracht arís.</item>
+        <item quantity="other">Níorbh fhéidir na grianghraif %s a íoslódáil. Déan iarracht arís.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="one">%d fuaim chomhchosúil</item>
+        <item quantity="two">%d fuaim chomhchosúil</item>
+        <item quantity="few">%d fuaim chomhchosúil</item>
+        <item quantity="many">%d fuaim chomhchosúil</item>
+        <item quantity="other">%d fuaim chomhchosúil</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="one">%d amharc próifíle</item>
+        <item quantity="two">%d amharc próifíle</item>
+        <item quantity="few">%d amharc próifíle</item>
+        <item quantity="many">%d amharc próifíle</item>
+        <item quantity="other">%d amharc próifíle</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="one">Leantóir</item>
+        <item quantity="two">Leantóir</item>
+        <item quantity="few">Leantóir</item>
+        <item quantity="many">Leantóirí</item>
+        <item quantity="other">Leantóirí</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="one">Fuair %1$s %2$s toghanna</item>
+        <item quantity="two">Fuair %1$s %2$s toghanna san iomlán i ngach físeán</item>
+        <item quantity="few">Fuair %1$s %2$s toghanna san iomlán i ngach físeán</item>
+        <item quantity="many">Fuair %1$s %2$s toghanna san iomlán i ngach físeán</item>
+        <item quantity="other">Fuair %1$s %2$s toghanna san iomlán i ngach físeán</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="one">d&apos;amharc ar do phróifíl.</item>
+        <item quantity="two">d&apos;amharc ar do phróifíl.</item>
+        <item quantity="few">d&apos;amharc ar do phróifíl.</item>
+        <item quantity="many">d&apos;amharc ar do phróifíl.</item>
+        <item quantity="other">d&apos;amharc ar do phróifíl.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="one">%1$s, %2$s agus %d eile</item>
+        <item quantity="two">%1$s, %2$s agus %d eile</item>
+        <item quantity="few">%1$s, %2$s agus %d eile</item>
+        <item quantity="many">%1$s, %2$s agus %d eile</item>
+        <item quantity="other">%1$s, %2$s agus %d eile</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="one">D&apos;amharc %s duine ar do phróifíl.</item>
+        <item quantity="two">D&apos;amharc %s duine ar do phróifíl.</item>
+        <item quantity="few">D&apos;amharc %s duine ar do phróifíl.</item>
+        <item quantity="many">D&apos;amharc %s duine ar do phróifíl.</item>
+        <item quantity="other">D&apos;amharc %s daoine ar do phróifíl.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="one">D&apos;amharc {0}, {1}, agus {2} eile ar do phróifíl.</item>
+        <item quantity="two">D&apos;amharc {0}, {1}, agus {2} eile ar do phróifíl.</item>
+        <item quantity="few">D&apos;amharc {0}, {1}, agus {2} eile ar do phróifíl.</item>
+        <item quantity="many">D&apos;amharc {0}, {1}, agus {2} eile ar do phróifíl.</item>
+        <item quantity="other">D&apos;amharc {0}, {1}, agus {2} eile ar do phróifíl.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="one">Sheolamar fógra chuig do ghléas eile %1$s agus %2$s. Bí cinnte go bhfuil TikTok oscailte agus tapáil &quot;Tá&quot; san fhógra chun leanúint ar aghaidh ag logáil isteach.</item>
+        <item quantity="two">Sheolamar fógra chuig do ghléas eile %1$s agus %2$s. Bí cinnte go bhfuil TikTok oscailte agus tapáil &quot;Tá&quot; san fhógra chun leanúint ar aghaidh ag logáil isteach.</item>
+        <item quantity="few">Sheolamar fógra chuig do ghléas eile %1$s agus %2$s. Bí cinnte go bhfuil TikTok oscailte agus tapáil &quot;Tá&quot; san fhógra chun leanúint ar aghaidh ag logáil isteach.</item>
+        <item quantity="many">Sheolamar fógra chuig do ghléas eile %1$s agus %2$s. Bí cinnte go bhfuil TikTok oscailte agus tapáil &quot;Tá&quot; san fhógra chun leanúint ar aghaidh ag logáil isteach.</item>
+        <item quantity="other">Sheolamar fógra chuig do ghléas eile %1$s agus %2$s. Bí cinnte go bhfuil TikTok oscailte agus tapáil &quot;Tá&quot; san fhógra chun leanúint ar aghaidh ag logáil isteach.</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="one">%s físeán</item>
+        <item quantity="two">%s físeán</item>
+        <item quantity="few">%s físeán</item>
+        <item quantity="many">%s físeán</item>
+        <item quantity="other">%s físeáin</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="one">%d físeán</item>
+        <item quantity="two">%d físeán</item>
+        <item quantity="few">%d físeán</item>
+        <item quantity="many">%d físeán</item>
+        <item quantity="other">%d físeáin</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="one">Baineadh %s ceist nach raibh ar fáil de do chuirí</item>
+        <item quantity="two">Baineadh %s ceist nach raibh ar fáil de do chuirí</item>
+        <item quantity="few">Baineadh %s ceist nach raibh ar fáil de do chuirí</item>
+        <item quantity="many">Baineadh %s ceist nach raibh ar fáil de do chuirí</item>
+        <item quantity="other">Baineadh %s ceist nach raibh ar fáil de do chuirí</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="one">%s teachtaireacht nua</item>
+        <item quantity="two">%s theachtaireacht nua</item>
+        <item quantity="few">%s teachtaireacht nua</item>
+        <item quantity="many">%s teachtaireacht nua</item>
+        <item quantity="other">%s teachtaireacht nua</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="one">%s fhreagairt nua</item>
+        <item quantity="two">%s fhreagairt nua</item>
+        <item quantity="few">%s freagairt nua</item>
+        <item quantity="many">%s freagairt nua</item>
+        <item quantity="other">%s freagairt nua</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="one">%d molta</item>
+        <item quantity="two">%d molta</item>
+        <item quantity="few">%d molta</item>
+        <item quantity="many">%d molta</item>
+        <item quantity="other">%d molta</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="one">%d Molta</item>
+        <item quantity="two">%d Molta</item>
+        <item quantity="few">%d Molta</item>
+        <item quantity="many">%d Molta</item>
+        <item quantity="other">%d Molta</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="one">Amharc air %d molta níos mó</item>
+        <item quantity="two">Amharc air %d molta níos mó</item>
+        <item quantity="few">Amharc air %d molta níos mó</item>
+        <item quantity="many">Amharc air %d molta níos mó</item>
+        <item quantity="other">Amharc air %d molta níos mó</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="one">Taifead suas le %d shoicind</item>
+        <item quantity="two">Taifead suas le %d shoicind</item>
+        <item quantity="few">Taifead suas le %d shoicind</item>
+        <item quantity="many">Taifead suas le %d soicind</item>
+        <item quantity="other">Taifead suas le %d soicind</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="one">Taifead suas le %d shoicind le fuaim ón mbunfhíseán</item>
+        <item quantity="two">Taifead suas le %d shoicind le fuaim ón mbunfhíseán</item>
+        <item quantity="few">Taifead suas le %d shoicind le fuaim ón mbunfhíseán</item>
+        <item quantity="many">Taifead suas le %d soicind le fuaim ón mbunfhíseán</item>
+        <item quantity="other">Taifead suas le %d soicind le fuaim ón mbunfhíseán</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="one">Dréacht (%d)</item>
+        <item quantity="two">Dréachtaí (%d)</item>
+        <item quantity="few">Dréachtaí (%d)</item>
+        <item quantity="many">Dréachtaí (%d)</item>
+        <item quantity="other">Dréachtaí (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="one">Balbhófar d&apos;fhíseán má roghnaíonn tú an fhuaim seo a aischur.</item>
+        <item quantity="two">Balbhófar d’fhíseán má roghnaíonn tú na fuaimeanna seo a aischur.</item>
+        <item quantity="few">Balbhófar d’fhíseán má roghnaíonn tú na fuaimeanna seo a aischur.</item>
+        <item quantity="many">Balbhófar d’fhíseán má roghnaíonn tú na fuaimeanna seo a aischur.</item>
+        <item quantity="other">Balbhófar d’fhíseán má roghnaíonn tú na fuaimeanna seo a aischur.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="one">Aischuir an fhuaim faoi chóipcheart?</item>
+        <item quantity="two">Aischuir na fuaimeanna faoi chóipcheart?</item>
+        <item quantity="few">Aischuir na fuaimeanna faoi chóipcheart?</item>
+        <item quantity="many">Aischuir na fuaimeanna faoi chóipcheart?</item>
+        <item quantity="other">Aischuir na fuaimeanna faoi chóipcheart?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="one">Baineadh an fhuaim faoi chóipcheart</item>
+        <item quantity="two">Baineadh na fuaimeanna faoi chóipcheart</item>
+        <item quantity="few">Baineadh na fuaimeanna faoi chóipcheart</item>
+        <item quantity="many">Baineadh na fuaimeanna faoi chóipcheart</item>
+        <item quantity="other">Baineadh na fuaimeanna faoi chóipcheart</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="one">Bain fuaim</item>
+        <item quantity="two">Bain fuaim</item>
+        <item quantity="few">Bain fuaim</item>
+        <item quantity="many">Bain fuaim</item>
+        <item quantity="other">Bain fuaimeanna</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="one">Baintear fuaim</item>
+        <item quantity="two">Baintear fuaim</item>
+        <item quantity="few">Baintear fuaim</item>
+        <item quantity="many">Baintear fuaimeanna</item>
+        <item quantity="other">Baintear fuaimeanna</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="one">Athraigh fuaim</item>
+        <item quantity="two">Athraigh fuaimeanna</item>
+        <item quantity="few">Athraigh fuaimeanna</item>
+        <item quantity="many">Athraigh fuaimeanna</item>
+        <item quantity="other">Athraigh fuaimeanna</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="one">Ag baint na fuaime faoi chóipcheart...</item>
+        <item quantity="two">Ag baint na bhfuaimeanna faoi chóipcheart...</item>
+        <item quantity="few">Ag baint na bhfuaimeanna faoi chóipcheart...</item>
+        <item quantity="many">Ag baint na bhfuaimeanna faoi chóipcheart...</item>
+        <item quantity="other">Ag baint na bhfuaimeanna faoi chóipcheart...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="one">Bhraitheamar fuaim sáraithe cóipchirt níos faide ná 1 nóiméad i d&apos;fhíseán agus balbhófar í má roghnaíonn tú leanúint ar aghaidh. Ionadaigh an fhuaim, nó giorrú an físeán. %s</item>
+        <item quantity="two">Bhraitheamar fuaim sáraithe cóipchirt níos faide ná 1 nóiméad i d&apos;fhíseán agus balbhófar í má roghnaíonn tú leanúint ar aghaidh. Ionadaigh an fhuaim, nó giorrú an físeán. %s</item>
+        <item quantity="few">Bhraitheamar fuaim sáraithe cóipchirt níos faide ná 1 nóiméad i d&apos;fhíseán agus balbhófar í má roghnaíonn tú leanúint ar aghaidh. Ionadaigh an fhuaim, nó giorrú an físeán. %s</item>
+        <item quantity="many">Bhraitheamar fuaim sáraithe cóipchirt níos faide ná 1 nóiméad i d&apos;fhíseán agus balbhófar í má roghnaíonn tú leanúint ar aghaidh. Ionadaigh an fhuaim, nó giorrú an físeán. %s</item>
+        <item quantity="other">Bhraitheamar fuaim sáraithe cóipchirt níos faide ná 1 nóiméad i d&apos;fhíseán agus balbhófar í má roghnaíonn tú leanúint ar aghaidh. Ionadaigh an fhuaim, nó giorrú an físeán. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="one">Athraigh fuaim</item>
+        <item quantity="two">Athraigh fuaimeanna</item>
+        <item quantity="few">Athraigh fuaimeanna</item>
+        <item quantity="many">Athraigh fuaimeanna</item>
+        <item quantity="other">Athraigh fuaimeanna</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="one">Ag baint na fuaime faoi chóipcheart...</item>
+        <item quantity="two">Ag baint na bhfuaimeanna faoi chóipcheart...</item>
+        <item quantity="few">Ag baint na bhfuaimeanna faoi chóipcheart...</item>
+        <item quantity="many">Ag baint na bhfuaimeanna faoi chóipcheart...</item>
+        <item quantity="other">Ag baint na bhfuaimeanna faoi chóipcheart...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="one">Tá fuaim aimsithe againn i d’fhíseán a sháraíonn cóipcheart. Déanfar d’fhíseán a bhalbhú má roghnaíonn tú leanúint ar aghaidh, nó is féidir leat an fhuaim a athrú. %s</item>
+        <item quantity="two">Tá fuaimeanna aimsithe againn i d’fhíseán a sháraíonn cóipcheart. Déanfar d’fhíseán a bhalbhú má roghnaíonn tú leanúint ar aghaidh, nó is féidir leat na fuaimeanna a athrú. %s</item>
+        <item quantity="few">Tá fuaimeanna aimsithe againn i d’fhíseán a sháraíonn cóipcheart. Déanfar d’fhíseán a bhalbhú má roghnaíonn tú leanúint ar aghaidh, nó is féidir leat na fuaimeanna a athrú. %s</item>
+        <item quantity="many">Tá fuaimeanna aimsithe againn i d’fhíseán a sháraíonn cóipcheart. Déanfar d’fhíseán a bhalbhú má roghnaíonn tú leanúint ar aghaidh, nó is féidir leat na fuaimeanna a athrú. %s</item>
+        <item quantity="other">Tá fuaimeanna aimsithe againn i d’fhíseán a sháraíonn cóipcheart. Déanfar d’fhíseán a bhalbhú má roghnaíonn tú leanúint ar aghaidh, nó is féidir leat na fuaimeanna a athrú. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="one">Fuaim faoi chóipcheart</item>
+        <item quantity="two">Fuaimeanna faoi chóipcheart</item>
+        <item quantity="few">Fuaimeanna faoi chóipcheart</item>
+        <item quantity="many">Fuaimeanna faoi chóipcheart</item>
+        <item quantity="other">Fuaimeanna faoi chóipcheart</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="one">Níor údaraigh sealbhóir an chóipchirt úsáid na fuaime seo ach ar feadh 1 nóiméad.</item>
+        <item quantity="two">Níor údaraigh sealbhóirí an chóipchirt úsáid na bhfuaimeanna seo ach ar feadh 1 nóiméad.</item>
+        <item quantity="few">Níor údaraigh sealbhóirí an chóipchirt úsáid na bhfuaimeanna seo ach ar feadh 1 nóiméad.</item>
+        <item quantity="many">Níor údaraigh sealbhóirí an chóipchirt úsáid na bhfuaimeanna seo ach ar feadh 1 nóiméad.</item>
+        <item quantity="other">Níor údaraigh sealbhóirí an chóipchirt úsáid na bhfuaimeanna seo ach ar feadh 1 nóiméad.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="one">Ní údaraíonn sealbhóir an chóipchirt úsáid na fuaime seo.</item>
+        <item quantity="two">Ní údaraíonn sealbhóirí an chóipchirt úsáid na bhfuaimeanna seo.</item>
+        <item quantity="few">Ní údaraíonn sealbhóirí an chóipchirt úsáid na bhfuaimeanna seo.</item>
+        <item quantity="many">Ní údaraíonn sealbhóirí an chóipchirt úsáid na bhfuaimeanna seo.</item>
+        <item quantity="other">Ní údaraíonn sealbhóirí an chóipchirt úsáid na bhfuaimeanna seo.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="one">Athraigh fuaim</item>
+        <item quantity="two">Athraigh fuaimeanna</item>
+        <item quantity="few">Athraigh fuaimeanna</item>
+        <item quantity="many">Athraigh fuaimeanna</item>
+        <item quantity="other">Athraigh fuaimeanna</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="one">Tá fuaim níos faide ná nóiméad amháin 1 braite againn i d’fhíseán a sháraíonn cóipcheart. Balbhófar an fhuaim seo má roghnaíonn tú leanúint ar aghaidh. Ionadaigh an fhuaim nó giorraigh an físeán. %s</item>
+        <item quantity="two">Tá fuaim níos faide ná nóiméad amháin 1 braite againn i d’fhíseán a sháraíonn cóipcheart. Balbhófar an fhuaim seo má roghnaíonn tú leanúint ar aghaidh. Ionadaigh an fhuaim nó giorraigh an físeán. %s</item>
+        <item quantity="few">Tá fuaim sáraithe cóipchirt tugtha faoi deara againn ar feadh níos mó ná 1 nóiméad i d’fhíseán agus balbhófar é má shocraíonn tú leanúint ar aghaidh. Cuir fuaimeanna in ionad nó giorrú an físeán. %s</item>
+        <item quantity="many">Tá fuaim sáraithe cóipchirt tugtha faoi deara againn ar feadh níos mó ná 1 nóiméad i d’fhíseán agus balbhófar é má shocraíonn tú leanúint ar aghaidh. Cuir fuaimeanna in ionad nó giorrú an físeán. %s</item>
+        <item quantity="other">Tá fuaim sáraithe cóipchirt tugtha faoi deara againn ar feadh níos mó ná 1 nóiméad i d’fhíseán agus balbhófar é má shocraíonn tú leanúint ar aghaidh. Cuir fuaimeanna in ionad nó giorrú an físeán. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="one">Athraigh fuaim</item>
+        <item quantity="two">Athraigh fuaimeanna</item>
+        <item quantity="few">Athraigh fuaimeanna</item>
+        <item quantity="many">Athraigh fuaimeanna</item>
+        <item quantity="other">Athraigh fuaimeanna</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="one">Tá fuaim aimsithe againn i d’fhíseán a sháraíonn cóipcheart. Déanfar d’fhíseán a bhalbhú má roghnaíonn tú leanúint ar aghaidh, nó is féidir leat an fhuaim a athrú. %s</item>
+        <item quantity="two">Tá fuaimeanna aimsithe againn i d’fhíseán a sháraíonn cóipcheart. Déanfar d’fhíseán a bhalbhú má roghnaíonn tú leanúint ar aghaidh, nó is féidir leat na fuaimeanna a athrú. %s</item>
+        <item quantity="few">Tá fuaimeanna aimsithe againn i d’fhíseán a sháraíonn cóipcheart. Déanfar d’fhíseán a bhalbhú má roghnaíonn tú leanúint ar aghaidh, nó is féidir leat na fuaimeanna a athrú. %s</item>
+        <item quantity="many">Tá fuaimeanna aimsithe againn i d’fhíseán a sháraíonn cóipcheart. Déanfar d’fhíseán a bhalbhú má roghnaíonn tú leanúint ar aghaidh, nó is féidir leat na fuaimeanna a athrú. %s</item>
+        <item quantity="other">Tá fuaimeanna aimsithe againn i d’fhíseán a sháraíonn cóipcheart. Déanfar d’fhíseán a bhalbhú má roghnaíonn tú leanúint ar aghaidh, nó is féidir leat na fuaimeanna a athrú. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="one">Bain físeán (%d)</item>
+        <item quantity="two">Bain físeáin (%d)</item>
+        <item quantity="few">Bain físeáin (%d)</item>
+        <item quantity="many">Bain físeáin (%d)</item>
+        <item quantity="other">Bain físeáin (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="one">%d athphostáil</item>
+        <item quantity="two">%d athphostáilacha</item>
+        <item quantity="few">%d athphostáilacha</item>
+        <item quantity="many">%d athphostáilacha</item>
+        <item quantity="other">%d athphostáilacha</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="one">d&apos;athphoistáil %d</item>
+        <item quantity="two">d&apos;athphoistáil %d</item>
+        <item quantity="few">d&apos;athphoistáil %d</item>
+        <item quantity="many">d&apos;athphoistáil %d</item>
+        <item quantity="other">d&apos;athphoistáil %d</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="one">d&apos;athphoistáil %d</item>
+        <item quantity="two">d&apos;athphoistáil %d</item>
+        <item quantity="few">d&apos;athphoistáil %d</item>
+        <item quantity="many">d&apos;athphoistáil %d</item>
+        <item quantity="other">d&apos;athphoistáil %d</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="one">Féach ar %d athphostáil eile</item>
+        <item quantity="two">Féach ar %d athphostáil eile</item>
+        <item quantity="few">Féach ar %d athphostáil eile</item>
+        <item quantity="many">Féach ar %d athphostáil eile</item>
+        <item quantity="other">Féach ar %d athphostáil eile</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="one">%d lá</item>
+        <item quantity="two">%d lá</item>
+        <item quantity="few">%d lá</item>
+        <item quantity="many">%d lá</item>
+        <item quantity="other">%d lá</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="one">Déan %1$d chuardach eile chun %2$d pointe a fháil</item>
+        <item quantity="two">Déan %1$d chuardach eile chun %2$d pointe a fháil</item>
+        <item quantity="few">Déan %1$d cuardach eile chun %2$d pointe a fháil</item>
+        <item quantity="many">Déan %1$d cuardach eile chun %2$d pointe a fháil</item>
+        <item quantity="other">Déan %1$d cuardach eile chun %2$d pointe a fháil</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="one">Brabhsáil torthaí cuardaigh le haghaidh %d soicind</item>
+        <item quantity="two">Brabhsáil torthaí cuardaigh le haghaidh %d soicind</item>
+        <item quantity="few">Brabhsáil torthaí cuardaigh le haghaidh %d soicind</item>
+        <item quantity="many">Brabhsáil torthaí cuardaigh le haghaidh %d soicind</item>
+        <item quantity="other">Brabhsáil torthaí cuardaigh le haghaidh %d soicind</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="one">Déan %1$d chuardach eile chun %2$d pointe a fháil!</item>
+        <item quantity="two">Déan %1$d chuardach eile chun %2$d pointe a fháil!</item>
+        <item quantity="few">Déan %1$d cuardach eile chun %2$d pointe a fháil!</item>
+        <item quantity="many">Déan %1$d cuardach eile chun %2$d pointe a fháil!</item>
+        <item quantity="other">Déan %1$d cuardach eile chun %2$d pointe a fháil!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="one">%d fhuaim mheaitseáilte</item>
+        <item quantity="two">%d fhuaim mheaitseáilte</item>
+        <item quantity="few">%d fuaim mheaitseáilte</item>
+        <item quantity="many">%d fuaim mheaitseáilte</item>
+        <item quantity="other">%d fuaim mheaitseáilte</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="one">Nuashonraithe %dd ó shin</item>
+        <item quantity="two">Nuashonraithe %dd ó shin</item>
+        <item quantity="few">Nuashonraithe %dd ó shin</item>
+        <item quantity="many">Nuashonraithe %dd ó shin</item>
+        <item quantity="other">Nuashonraithe %dd ó shin</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="one">Nuashonraithe %dh ó shin</item>
+        <item quantity="two">Nuashonraithe %dh ó shin</item>
+        <item quantity="few">Nuashonraithe %dh ó shin</item>
+        <item quantity="many">Nuashonraithe %dh ó shin</item>
+        <item quantity="other">Nuashonraithe %dh ó shin</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="one">Nuashonraithe %dm ó shin</item>
+        <item quantity="two">Nuashonraithe %dm ó shin</item>
+        <item quantity="few">Nuashonraithe %dm ó shin</item>
+        <item quantity="many">Nuashonraithe %dm ó shin</item>
+        <item quantity="other">Nuashonraithe %dm ó shin</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="one">Nuashonraithe %ds ó shin</item>
+        <item quantity="two">Nuashonraithe %ds ó shin</item>
+        <item quantity="few">Nuashonraithe %ds ó shin</item>
+        <item quantity="many">Nuashonraithe %ds ó shin</item>
+        <item quantity="other">Nuashonraithe %ds ó shin</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="one">Nuashonraithe %dw ó shin</item>
+        <item quantity="two">Nuashonraithe %dw ó shin</item>
+        <item quantity="few">Nuashonraithe %dw ó shin</item>
+        <item quantity="many">Nuashonraithe %dw ó shin</item>
+        <item quantity="other">Nuashonraithe %dw ó shin</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="one">Comhghairdeachas! Fuair ​​tú %d ceannachán eile inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="two">Comhghairdeachas! Fuair ​​tú %d ceannacháin eile inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="few">Comhghairdeachas! Fuair ​​tú %d ceannacháin eile inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="many">Comhghairdeachas! Fuair ​​tú %d ceannacháin eile inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="other">Comhghairdeachas! Fuair ​​tú %d ceannacháin eile inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="one">Fuair do Shraith %d cuairt leathanach le cúpla lá anuas. Chun feidhmíocht do Shraith a rianú agus leideanna úsáideacha a fháil chun ceannaitheoirí ionchasacha a mhealladh, is féidir leat rochtain a fháil ar na huirlisí anailíse ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="two">Fuair do Shraith %d cuairteanna leathanaigh le cúpla lá anuas. Chun feidhmíocht do Shraith a rianú agus leideanna úsáideacha a fháil chun ceannaitheoirí ionchasacha a mhealladh, is féidir leat rochtain a fháil ar na huirlisí anailíse ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="few">Fuair do Shraith %d cuairteanna leathanaigh le cúpla lá anuas. Chun feidhmíocht do Shraith a rianú agus leideanna úsáideacha a fháil chun ceannaitheoirí ionchasacha a mhealladh, is féidir leat rochtain a fháil ar na huirlisí anailíse ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="many">Fuair do Shraith %d cuairteanna leathanaigh le cúpla lá anuas. Chun feidhmíocht do Shraith a rianú agus leideanna úsáideacha a fháil chun ceannaitheoirí ionchasacha a mhealladh, is féidir leat rochtain a fháil ar na huirlisí anailíse ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="other">Fuair do Shraith %d cuairteanna leathanaigh le cúpla lá anuas. Chun feidhmíocht do Shraith a rianú agus leideanna úsáideacha a fháil chun ceannaitheoirí ionchasacha a mhealladh, is féidir leat rochtain a fháil ar na huirlisí anailíse ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="one">Comhghairdeachas! Cheannaigh %d amharcóir i do BEO rochtain ar do Shraith inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="two">Comhghairdeachas! Cheannaigh %d amharcóirí i do BEO rochtain ar do Shraith inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="few">Comhghairdeachas! Cheannaigh %d amharcóirí i do BEO rochtain ar do Shraith inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="many">Comhghairdeachas! Cheannaigh %d amharcóirí i do BEO rochtain ar do Shraith inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="other">Comhghairdeachas! Cheannaigh %d amharcóirí i do BEO rochtain ar do Shraith inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="one">Comhghairdeachas! Cheannaigh %d amharcóir rochtain ar do Shraith inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="two">Comhghairdeachas! Cheannaigh %d amharcóirí rochtain ar do Shraith inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="few">Comhghairdeachas! Cheannaigh %d amharcóirí rochtain ar do Shraith inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="many">Comhghairdeachas! Cheannaigh %d amharcóirí rochtain ar do Shraith inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+        <item quantity="other">Comhghairdeachas! Cheannaigh %d amharcóirí rochtain ar do Shraith inné. Lean ort leis an obair iontach agus rianaigh do fheidhmíocht Sraith ó “Uirlisí cruthaitheoir” &gt; “Sraith”.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="one">Lean go Ceamara (%d)</item>
+        <item quantity="two">Lean go Ceamara (%d)</item>
+        <item quantity="few">Lean go Ceamara (%d)</item>
+        <item quantity="many">Lean go Ceamara (%d)</item>
+        <item quantity="other">Lean go Ceamara (%d)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="one">An chéad cheannaitheoir amháin</item>
+        <item quantity="two">An chéad %d ceannaitheoirí amháin</item>
+        <item quantity="few">An chéad %d ceannaitheoirí amháin</item>
+        <item quantity="many">An chéad %d ceannaitheoirí amháin</item>
+        <item quantity="other">An chéad %d ceannaitheoirí amháin</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="one">Níl ach %d fágtha</item>
+        <item quantity="two">Níl ach %d fágtha</item>
+        <item quantity="few">Níl ach %d fágtha</item>
+        <item quantity="many">Níl ach %d fágtha</item>
+        <item quantity="other">Níl ach %d fágtha</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="one">Téann sé in éag i gceann %d lá</item>
+        <item quantity="two">Téann sé in éag i gceann %d lá</item>
+        <item quantity="few">Téann sé in éag i gceann %d lá</item>
+        <item quantity="many">Téann sé in éag i gceann %d lá</item>
+        <item quantity="other">Téann sé in éag i gceann %d lá</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="one">%d físeán</item>
+        <item quantity="two">%d fhíseán</item>
+        <item quantity="few">%d físeán</item>
+        <item quantity="many">%d Bhfíseán</item>
+        <item quantity="other">%d físeáin</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="one">%d Físeán</item>
+        <item quantity="two">%d fhíseáin</item>
+        <item quantity="few">%d fhíseáin</item>
+        <item quantity="many">%d bhfíseáin</item>
+        <item quantity="other">%d físeán</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="one">%d Físeán</item>
+        <item quantity="two">%d fhíseán</item>
+        <item quantity="few">%d Físeáin</item>
+        <item quantity="many">%d bhfíseán</item>
+        <item quantity="other">%d físeán</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="one">%s fhíseán</item>
+        <item quantity="two">%s fhíseáin</item>
+        <item quantity="few">%s fhíseáin</item>
+        <item quantity="many">%s bhfíseáin</item>
+        <item quantity="other">%s físeán</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="one">%d amharc</item>
+        <item quantity="two">%d amharc</item>
+        <item quantity="few">%d amharc</item>
+        <item quantity="many">%d amharc</item>
+        <item quantity="other">%d amharc</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="one">Scéal (%d)</item>
+        <item quantity="two">Scéalta (%d)</item>
+        <item quantity="few">Scéalta (%d)</item>
+        <item quantity="many">Scéalta (%d)</item>
+        <item quantity="other">Scéalta (%d)</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="one">%d fhíseán curtha</item>
+        <item quantity="two">%d fhíseán curtha</item>
+        <item quantity="few">%d fhíseán curtha</item>
+        <item quantity="many">%d bhfíseán curtha</item>
+        <item quantity="other">%d físeán curtha</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="one">Tá cruthaitheoirí ar TikTok ar feadh níos mó ná %d mhí.</item>
+        <item quantity="two">Tá cruthaitheoirí ar TikTok ar feadh níos mó ná %d mhí.</item>
+        <item quantity="few">Tá cruthaitheoirí ar TikTok ar feadh níos mó ná %d mí.</item>
+        <item quantity="many">Tá cruthaitheoirí ar TikTok ar feadh níos mó ná %d mí.</item>
+        <item quantity="other">Tá cruthaitheoirí ar TikTok ar feadh níos mó ná %d mí.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="one">Tá ar a laghad %d leantóir ag cruthaitheoirí.</item>
+        <item quantity="two">Tá ar a laghad %d leantóirí ag cruthaitheoirí.</item>
+        <item quantity="few">Tá ar a laghad %d leantóirí ag cruthaitheoirí.</item>
+        <item quantity="many">Tá ar a laghad %d leantóirí ag cruthaitheoirí.</item>
+        <item quantity="other">Tá ar a laghad %d leantóirí ag cruthaitheoirí.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="one">%d idirghníomhaíocht</item>
+        <item quantity="two">%d idirghníomhaíocht</item>
+        <item quantity="few">%d idirghníomhaíocht</item>
+        <item quantity="many">%d idirghníomhaíocht</item>
+        <item quantity="other">%d idirghníomhaíocht</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="one">Teorainn laethúil chun topaicí treochta a chur leis: %d phostáil</item>
+        <item quantity="two">Teorainn laethúil chun topaicí treochta a chur leis: %d phostáil</item>
+        <item quantity="few">Teorainn laethúil chun topaicí treochta a chur leis: %d postáil</item>
+        <item quantity="many">Teorainn laethúil chun topaicí treochta a chur leis: %d postáil</item>
+        <item quantity="other">Teorainn laethúil chun topaicí treochta a chur leis: %d postáil</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="one">Am athbhreithnithe measta: %d lá</item>
+        <item quantity="two">Am athbhreithnithe measta: %d lá</item>
+        <item quantity="few">Am athbhreithnithe measta: %d lá</item>
+        <item quantity="many">Am athbhreithnithe measta: %d lá</item>
+        <item quantity="other">Am athbhreithnithe measta: %d lá</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="one">%@ fhíseán</item>
+        <item quantity="two">%@ fhíseán</item>
+        <item quantity="few">%@ físeán</item>
+        <item quantity="many">%@ físeán</item>
+        <item quantity="other">%@ físeán</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="one">%@ amharc</item>
+        <item quantity="two">%@ amharc</item>
+        <item quantity="few">%@ amharc</item>
+        <item quantity="many">%@ amharc</item>
+        <item quantity="other">%@ amharc</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="one">%d lá</item>
+        <item quantity="two">%d lá</item>
+        <item quantity="few">%d lá</item>
+        <item quantity="many">%d lá</item>
+        <item quantity="other">%d lá</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="one">Tá %d lá agat chun taithí a fháil ar an ngné seo ar TikTok. Tar éis sin, íoslódáil an aip TikTok Anois chun leanúint ar aghaidh.</item>
+        <item quantity="two">Tá %d lá agat chun taithí a fháil ar an ngné seo ar TikTok. Tar éis sin, íoslódáil an aip TikTok Anois chun leanúint ar aghaidh.</item>
+        <item quantity="few">Tá %d lá agat chun taithí a fháil ar an ngné seo ar TikTok. Tar éis sin, íoslódáil an aip TikTok Anois chun leanúint ar aghaidh.</item>
+        <item quantity="many">Tá %d lá agat chun taithí a fháil ar an ngné seo ar TikTok. Tar éis sin, íoslódáil an aip TikTok Anois chun leanúint ar aghaidh.</item>
+        <item quantity="other">Tá %d lá agat chun taithí a fháil ar an ngné seo ar TikTok. Tar éis sin, íoslódáil an aip TikTok Anois chun leanúint ar aghaidh.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="one">Postáil chun d&apos;eispéireas %d-lá TikTok Anois a thosú.</item>
+        <item quantity="two">Postáil chun d&apos;eispéireas %d-lá TikTok Anois a thosú.</item>
+        <item quantity="few">Postáil chun d&apos;eispéireas %d-lá TikTok Anois a thosú.</item>
+        <item quantity="many">Postáil chun d&apos;eispéireas %d-lá TikTok Anois a thosú.</item>
+        <item quantity="other">Postáil chun d&apos;eispéireas %d-lá TikTok Anois a thosú.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="one">Roghnaigh nó taifead %d ghearrthóg</item>
+        <item quantity="two">Roghnaigh nó taifead %d ghearrthóg</item>
+        <item quantity="few">Roghnaigh nó taifead %d gearrthóg</item>
+        <item quantity="many">Roghnaigh nó taifead %d gearrthóg</item>
+        <item quantity="other">Roghnaigh nó taifead %d gearrthóg</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="one">Cuir grianghraf neamhchríochnaithe in eagar?</item>
+        <item quantity="two">Cuir grianghraif neamhchríochnaithe in eagar?</item>
+        <item quantity="few">Cuir grianghraif neamhchríochnaithe in eagar?</item>
+        <item quantity="many">Cuir grianghraif neamhchríochnaithe in eagar?</item>
+        <item quantity="other">Cuir grianghraif neamhchríochnaithe in eagar?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="one">%s phostáil nua</item>
+        <item quantity="two">%s phostáil nua</item>
+        <item quantity="few">%s postáil nua</item>
+        <item quantity="many">%s postáil nua</item>
+        <item quantity="other">%s postáil nua</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="one">phostáil %d físeán</item>
+        <item quantity="two">phostáil %d físeáin</item>
+        <item quantity="few">phostáil %d físeáin</item>
+        <item quantity="many">phostáil %d físeáin</item>
+        <item quantity="other">phostáil %d físeáin</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="one">An bhfuil tú %d bliain d&apos;aois?</item>
+        <item quantity="two">An bhfuil tú %d bliana d&apos;aois?</item>
+        <item quantity="few">An bhfuil tú %d bliana d&apos;aois?</item>
+        <item quantity="many">An bhfuil tú %d bliana d&apos;aois?</item>
+        <item quantity="other">An bhfuil tú %d bliana d&apos;aois?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="one">Bain úsáid as fuaim bhearrtha. Taifead suas le %d soicind.</item>
+        <item quantity="two">Bain úsáid as fuaim bhearrtha. Taifead suas le %d soicind.</item>
+        <item quantity="few">Bain úsáid as fuaim bhearrtha. Taifead suas le %d soicind.</item>
+        <item quantity="many">Bain úsáid as fuaim bhearrtha. Taifead suas le %d soicind.</item>
+        <item quantity="other">Bain úsáid as fuaim bhearrtha. Taifead suas le %d soicind.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="one">%s breathnóir</item>
+        <item quantity="two">%s lucht féachana</item>
+        <item quantity="few">%s lucht féachana</item>
+        <item quantity="many">%s lucht féachana</item>
+        <item quantity="other">%s lucht féachana</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="one">%s togha</item>
+        <item quantity="two">%s toghanna</item>
+        <item quantity="few">%s toghanna</item>
+        <item quantity="many">%s toghanna</item>
+        <item quantity="other">%s toghanna</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="one">Ag roinnt le %1$s i %2$ss</item>
+        <item quantity="two">Ag roinnt le %1$s i %2$ss</item>
+        <item quantity="few">Ag roinnt le %1$s i %2$ss</item>
+        <item quantity="many">Ag roinnt le %1$s i %2$ss</item>
+        <item quantity="other">Ag roinnt le %1$s i %2$ss</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="one">%d táirgí</item>
+        <item quantity="two">%d Táirge</item>
+        <item quantity="few">%d Táirge</item>
+        <item quantity="many">%d táirgí</item>
+        <item quantity="other">%d táirgí</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="one">Postáil</item>
+        <item quantity="two">Postálacha</item>
+        <item quantity="few">Postálacha</item>
+        <item quantity="many">Postálacha</item>
+        <item quantity="other">Postálacha</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="one">%1$s, %2$s agus %d eile</item>
+        <item quantity="two">%1$s, %2$s, agus %d eile</item>
+        <item quantity="few">%1$s, %2$s agus %d eile</item>
+        <item quantity="many">%1$s, %2$s agus %d eile</item>
+        <item quantity="other">%1$s, %2$s agus %d eile</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="one">d&apos;fhéach ar do phostáil.</item>
+        <item quantity="two">d&apos;fhéach ar do phostáil.</item>
+        <item quantity="few">d&apos;fhéach ar do phostáil.</item>
+        <item quantity="many">d&apos;fhéach ar do phostáil.</item>
+        <item quantity="other">d&apos;fhéach ar do phostáil.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="one">%s roinnt</item>
+        <item quantity="two">%s roinnt</item>
+        <item quantity="few">%s roinnt</item>
+        <item quantity="many">%s roinnt</item>
+        <item quantity="other">%s roinnt</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="one">%s amharc</item>
+        <item quantity="two">%s amharc</item>
+        <item quantity="few">%s amharc</item>
+        <item quantity="many">%s amharc</item>
+        <item quantity="other">%s amhairc</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="one">D&apos;amharc {0}, {1}, agus {2} eile ar do phostáil.</item>
+        <item quantity="two">D&apos;amharc {0}, {1}, agus {2} eile ar do phróifíl.</item>
+        <item quantity="few">D&apos;amharc {0}, {1}, agus {2} eile ar do phróifíl.</item>
+        <item quantity="many">D&apos;amharc {0}, {1}, agus {2} eile ar do phróifíl.</item>
+        <item quantity="other">D&apos;amharc {0}, {1}, agus {2} eile ar do phróifíl.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="one">%d Bhonn</item>
+        <item quantity="two">%d Bhonn</item>
+        <item quantity="few">%d Bonn</item>
+        <item quantity="many">%d Bonn</item>
+        <item quantity="other">%d Bonn</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="one">seolta: %s</item>
+        <item quantity="two">seolta: %s</item>
+        <item quantity="few">seolta: %s</item>
+        <item quantity="many">seolta: %s</item>
+        <item quantity="other">seolta: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="one">Sábháladh grianghraf</item>
+        <item quantity="two">Sábháladh grianghraif</item>
+        <item quantity="few">Sábháladh grianghraif</item>
+        <item quantity="many">Sábháladh grianghraif</item>
+        <item quantity="other">Sábháladh grianghraif</item>
+    </plurals>
+</resources>

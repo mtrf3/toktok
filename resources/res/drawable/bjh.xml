@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate
+    drawable="@drawable/biy"
+    fromDegrees="0"
+    toDegrees="1440"
+    pivotX="50%"
+    pivotY="50%"/>

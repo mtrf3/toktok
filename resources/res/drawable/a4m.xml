@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <solid color="?attr/cl"/>
+    <corners radius="100dp"/>
+    <stroke
+        width="1dp"
+        color="?attr/dw"
+        dashGap="0dp"/>
+</shape>

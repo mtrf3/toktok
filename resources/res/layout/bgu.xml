@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ss.android.ugc.aweme.feed.widget.FeedSwipeRefreshLayout
+    id="@+id/itq"
+    background="?attr/d4"
+    layout_width="match_parent"
+    layout_height="match_parent"
+    keepScreenOn="true">
+    <X.C55108Lk0
+        id="@+id/g99"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <LinearLayout
+            orientation="vertical"
+            layout_width="match_parent"
+            layout_height="match_parent">
+            <X.C80796VnM
+                layout_gravity="top"
+                id="@+id/ncx"
+                layout_width="match_parent"
+                layout_height="0dp"
+                layout_weight="1"/>
+        </LinearLayout>
+        <X.C5WY
+            id="@+id/c_y"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            layout_centerInParent="true"/>
+        <X.C223338pd
+            layout_gravity="center"
+            id="@+id/b0u"
+            visibility="gone"
+            layout_width="48dp"
+            layout_height="48dp"/>
+    </X.C55108Lk0>
+</com.ss.android.ugc.aweme.feed.widget.FeedSwipeRefreshLayout>

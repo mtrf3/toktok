@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="@drawable/cbk"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C31597Caf
+        id="@+id/fcd"
+        layout_width="32dp"
+        layout_height="32dp"
+        layout_marginLeft="1.5dp"
+        layout_marginTop="1.5dp"
+        layout_marginRight="1.5dp"
+        layout_marginBottom="1.5dp"
+        scaleType="fitXY"
+        layout_marginHorizontal="1.5dp"
+        layout_marginVertical="1.5dp"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xe="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

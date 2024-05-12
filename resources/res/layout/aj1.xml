@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        layout_gravity="center"
+        id="@+id/n9f"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="start|bottom"
+        id="@+id/bhh"
+        background="@drawable/a6d"
+        visibility="gone"
+        layout_width="36dp"
+        layout_height="36dp"
+        layout_margin="16dp"
+        NOT_FOUND_0x7="20dp"
+        NOT_FOUND_0x8="20dp"
+        NOT_FOUND_0x9="?attr/dj"/>
+</FrameLayout>

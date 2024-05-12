@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <androidx.recyclerview.widget.RecyclerView
+        id="@+id/bh3"
+        clipToPadding="false"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginTop="8dp"/>
+    <X.C73305Spp
+        id="@+id/kf_"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x6="0"/>
+</FrameLayout>

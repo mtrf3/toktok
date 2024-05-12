@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C2A8
+        gravity="center"
+        layout_gravity="center_horizontal"
+        id="@+id/d0z"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        style="@style/a43"/>
+    <X.C41051jJ
+        textColor="?attr/bnz"
+        layout_gravity="center_horizontal"
+        id="@+id/b_d"
+        paddingLeft="7dp"
+        paddingRight="7dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="20dp"
+        layout_marginBottom="5dp"
+        style="@style/a3m"/>
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="50dp"
+    android:width="230dp"
+    android:viewportWidth="230"
+    android:viewportHeight="50">
+    <group android:name="couponGroup">
+        <path
+            android:fillColor="#08fe2c55"
+            android:pathData="             M5,1             h220,0             q4,0 4,4             v17             a3,3 0 0,0 0,6             v17             q0,4 -4,4             h-220,0             q-4,0 -4,-4             v-17             a3,3 0 0,0 0,-6             v-17             q0,-4 4,-4"
+            android:strokeColor="#30fe2c55"
+            android:strokeWidth="0.5"/>
+    </group>
+</vector>

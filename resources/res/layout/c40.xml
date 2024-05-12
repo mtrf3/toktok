@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <ScrollView
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        fillViewport="true">
+        <X.C73305Spp
+            id="@+id/kf_"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            layout_marginTop="@dimen/fx"
+            NOT_FOUND_0x9="40dp"/>
+    </ScrollView>
+    <X.C223338pd
+        layout_gravity="center_horizontal"
+        id="@+id/kfk"
+        visibility="gone"
+        layout_width="36dp"
+        layout_height="36dp"
+        layout_marginTop="40dp"/>
+    <ViewStub
+        layout_gravity="center_horizontal"
+        id="@+id/d5q"
+        layout="@layout/avc"
+        layout_width="match_parent"
+        layout_height="75dp"/>
+    <X.C191487fM
+        id="@+id/j_w"
+        clipToPadding="false"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <ViewStub
+        id="@+id/kmq"
+        visibility="invisible"
+        layout="@layout/c8l"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</FrameLayout>

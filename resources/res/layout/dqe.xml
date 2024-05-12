@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C2UY
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <View
+        id="@+id/am2"
+        layout_width="match_parent"
+        layout_height="0dp"
+        NOT_FOUND_0x7="@+id/hhk"
+        NOT_FOUND_0x8="0"/>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        orientation="vertical"
+        id="@+id/hhk"
+        layout_width="match_parent"
+        layout_height="66dp"
+        layout_marginStart="8dp"
+        layout_marginEnd="8dp"
+        NOT_FOUND_0x6="0">
+        <ViewStub
+            id="@+id/hhj"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            NOT_FOUND_0x6="0"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</X.C2UY>

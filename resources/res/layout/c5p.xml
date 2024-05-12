@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.SY4
+    textColor="?attr/go"
+    gravity="center"
+    id="@+id/eu3"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginTop="10dp"
+    layout_marginBottom="10dp"
+    maxWidth="1000dp"
+    minWidth="88dp"
+    NOT_FOUND_0x9="2"
+    NOT_FOUND_0xa="1"
+    NOT_FOUND_0xb="@raw/icon_playlist"
+    NOT_FOUND_0xc="?attr/go"/>

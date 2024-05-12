@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_gravity="center"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <ImageView
+        id="@+id/f4m"
+        layout_width="22.5dp"
+        layout_height="22.5dp"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"/>
+    <ImageView
+        id="@+id/f4n"
+        background="@drawable/ckk"
+        layout_width="24dp"
+        layout_height="24dp"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

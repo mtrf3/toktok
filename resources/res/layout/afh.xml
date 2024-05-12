@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C2303492g
+    textSize="16sp"
+    textColor="@color/ry"
+    id="@+id/mhp"
+    visibility="gone"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginTop="100dp"
+    shadowColor="@color/ar"
+    shadowDy="1"
+    shadowRadius="1"
+    layout_marginStart="15dp"/>

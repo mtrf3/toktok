@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.IrM, reason: case insensitive filesystem */
+/* loaded from: classes9.dex */
+public interface InterfaceC47920IrM {
+    void LIZ();
+
+    void LIZIZ();
+}

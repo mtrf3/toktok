@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/cng"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="end"
+        id="@+id/f0h"
+        layout_width="20dp"
+        layout_height="20dp"
+        layout_marginTop="20dp"
+        layout_marginEnd="20dp"
+        NOT_FOUND_0x8="@raw/icon_x_mark_small"
+        NOT_FOUND_0x9="?attr/go"/>
+    <ViewStub
+        id="@+id/cnh"
+        layout="@layout/c3w"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ViewStub
+        id="@+id/cp8"
+        layout="@layout/c3y"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ViewStub
+        id="@+id/abn"
+        layout="@layout/c3h"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ViewStub
+        id="@+id/abm"
+        layout="@layout/c3g"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</LinearLayout>

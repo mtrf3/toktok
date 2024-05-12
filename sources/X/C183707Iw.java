@@ -1,0 +1,38 @@
+package X;
+
+import kotlin.jvm.internal.o;
+
+/* renamed from: X.7Iw, reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes4.dex */
+public final class C183707Iw implements C33Q {
+    public final C43I<Boolean> LJLIL;
+
+    public C183707Iw() {
+        this(null);
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        return (obj instanceof C183707Iw) && o.LJ(this.LJLIL, ((C183707Iw) obj).LJLIL);
+    }
+
+    public final int hashCode() {
+        C43I<Boolean> c43i = this.LJLIL;
+        if (c43i == null) {
+            return 0;
+        }
+        return c43i.hashCode();
+    }
+
+    public final String toString() {
+        StringBuilder LIZ = X1D.LIZ();
+        LIZ.append("AvoidUpvoteState(isRecTag=");
+        return C61845OOz.LIZIZ(LIZ, this.LJLIL, ')', LIZ);
+    }
+
+    public C183707Iw(C43I<Boolean> c43i) {
+        this.LJLIL = c43i;
+    }
+}

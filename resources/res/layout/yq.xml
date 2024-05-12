@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="@color/h6"
+    ellipsize="end"
+    gravity="center_vertical"
+    id="@+id/esz"
+    layout_width="match_parent"
+    layout_height="51.5dp"
+    maxLines="1"
+    textDirection="locale"
+    NOT_FOUND_0x8="41"/>

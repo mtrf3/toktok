@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="py">17dp</dimen>
+    <dimen name="pz">19dp</dimen>
+    <dimen name="q0">20dp</dimen>
+    <dimen name="q1">10dp</dimen>
+    <dimen name="q2">20dp</dimen>
+    <dimen name="q5">20dp</dimen>
+    <dimen name="q6">20dp</dimen>
+    <dimen name="q9">86dp</dimen>
+    <dimen name="qb">16dp</dimen>
+    <dimen name="qc">53dp</dimen>
+    <dimen name="qe">16dp</dimen>
+    <dimen name="qf">80dp</dimen>
+    <dimen name="qh">320dp</dimen>
+    <dimen name="qj">22dp</dimen>
+    <dimen name="qk">18dp</dimen>
+    <dimen name="ql">327dp</dimen>
+    <dimen name="qm">202dp</dimen>
+    <dimen name="qn">211dp</dimen>
+    <dimen name="qo">123dp</dimen>
+    <dimen name="qt">70dp</dimen>
+</resources>

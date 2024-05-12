@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <translate
+        duration="500"
+        fromYDelta="0"
+        toYDelta="50%"/>
+    <alpha
+        duration="300"
+        fromAlpha="1"
+        toAlpha="0"/>
+</set>

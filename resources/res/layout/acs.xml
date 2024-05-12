@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/iwt"
+    background="@drawable/ahs"
+    visibility="invisible"
+    layout_width="28dp"
+    layout_height="28dp"
+    layout_marginBottom="24dp"
+    layout_marginEnd="17dp">
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="center"
+        layout_width="16dp"
+        layout_height="16dp"
+        NOT_FOUND_0x8="@raw/icon_flag"
+        NOT_FOUND_0x9="@color/bf"/>
+</FrameLayout>

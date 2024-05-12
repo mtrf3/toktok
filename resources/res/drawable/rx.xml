@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item
+        top="4dp"
+        bottom="4dp">
+        <shape>
+            <solid color="#66252525"/>
+            <corners radius="24dp"/>
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="@dimen/afu">
+    <X.C4CO
+        orientation="horizontal"
+        id="@+id/isn"
+        paddingLeft="12dp"
+        paddingRight="12dp"
+        clipToPadding="false"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x7="androidx.recyclerview.widget.LinearLayoutManager"/>
+</FrameLayout>

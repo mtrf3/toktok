@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Veebipõhine heliteek</item>
+        <item>Minu heli</item>
+    </array>
+    <array name="l">
+        <item>Tühi</item>
+    </array>
+    <array name="q">
+        <item>Kustuta</item>
+        <item>Tühista</item>
+    </array>
+    <array name="r">
+        <item>Populaarne</item>
+        <item>Viimased</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="v">
+        <item>Vali galeriist</item>
+    </array>
+    <array name="a3">
+        <item>Pühapäev</item>
+        <item>Esmaspäev</item>
+        <item>Teisipäev</item>
+        <item>Kolmapäev</item>
+        <item>Neljapäev</item>
+        <item>Reede</item>
+        <item>Laupäev</item>
+    </array>
+    <array name="a5">
+        <item>hiina (lihtsustatud)</item>
+        <item>hiina (traditsiooniline)</item>
+        <item>inglise</item>
+        <item>jaapani</item>
+        <item>korea</item>
+        <item>vene</item>
+        <item>indoneesia</item>
+        <item>malai</item>
+        <item>portugali</item>
+        <item>tai</item>
+        <item>vietnami</item>
+        <item>hindi</item>
+    </array>
+    <array name="a7">
+        <item>Tavaline</item>
+        <item>Mustvalge</item>
+        <item>Kunstiline</item>
+        <item>Retro</item>
+        <item>Retrolux</item>
+        <item>Küllastatud</item>
+        <item>Kroom</item>
+    </array>
+    <array name="aa">
+        <item>Jaan</item>
+        <item>Veebr</item>
+        <item>Märts</item>
+        <item>Apr</item>
+        <item>Mai</item>
+        <item>Juuni</item>
+        <item>Juuli</item>
+        <item>Aug</item>
+        <item>Sept</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dets</item>
+    </array>
+    <array name="ad">
+        <item>Väikese andmemahuga esmalt</item>
+        <item>Suure eraldusvõimega esmalt</item>
+    </array>
+    <array name="ae">
+        <item>Igaüks</item>
+        <item>Üksnes sõbrad</item>
+    </array>
+    <array name="bi">
+        <item>Esmaspäev</item>
+        <item>Teisipäev</item>
+        <item>Kolmapäev</item>
+        <item>Neljapäev</item>
+        <item>Reede</item>
+        <item>Laupäev</item>
+        <item>Pühapäev</item>
+    </array>
+</resources>

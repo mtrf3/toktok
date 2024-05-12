@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <androidx.recyclerview.widget.RecyclerView
+        id="@+id/gax"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="@color/cs"
+        id="@+id/met"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="8dp"
+        NOT_FOUND_0x6="61"/>
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="wrap_content"
+    layout_height="52dp">
+    <FrameLayout
+        id="@+id/mrp"
+        paddingLeft="8dp"
+        paddingRight="8dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginRight="12dp"
+        minWidth="64dp"
+        minHeight="28dp"
+        layout_centerVertical="true"
+        paddingStart="8dp"
+        paddingEnd="8dp"
+        layout_marginEnd="12dp">
+        <X.C1555468o
+            textSize="14dp"
+            textColor="?attr/dj"
+            gravity="center"
+            layout_gravity="center"
+            id="@+id/lap"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            minWidth="48dp"
+            maxLines="1"/>
+    </FrameLayout>
+    <ImageView
+        layout_gravity="end|bottom"
+        id="@+id/kf0"
+        layout_width="18dp"
+        layout_height="18dp"
+        layout_marginRight="-5dp"
+        layout_marginBottom="-5dp"
+        src="@drawable/b9i"
+        layout_alignRight="@+id/mrp"
+        layout_alignBottom="@+id/mrp"
+        layout_marginEnd="-5dp"
+        layout_alignEnd="@+id/mrp"/>
+</RelativeLayout>

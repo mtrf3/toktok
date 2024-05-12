@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/fnp"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.JGI
+        layout_gravity="center"
+        id="@+id/l60"
+        background="?attr/d4"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layerType="hardware"/>
+    <ImageView
+        id="@+id/bxj"
+        background="?attr/d4"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C164086cG
+        layout_gravity="center"
+        id="@+id/cover"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x7="7"/>
+    <FrameLayout
+        layout_gravity="center"
+        id="@+id/bxx"
+        background="@drawable/ahd"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <com.bytedance.tux.icon.TuxIconView
+            layout_gravity="center"
+            layout_width="32dp"
+            layout_height="32dp"
+            NOT_FOUND_0x8="@raw/icon_eye_slash"
+            NOT_FOUND_0x9="?attr/dj"/>
+    </FrameLayout>
+</FrameLayout>

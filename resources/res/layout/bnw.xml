@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/mus"
+    layout_width="24dp"
+    layout_height="35dp">
+    <X.W5X
+        id="@+id/fc6"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_margin="1dp"
+        antialias="true"
+        NOT_FOUND_0x6="4dp"/>
+    <ImageView
+        layout_width="match_parent"
+        layout_height="match_parent"
+        src="@drawable/a7x"/>
+</FrameLayout>

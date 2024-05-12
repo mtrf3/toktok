@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C47121t6
+        textSize="13dp"
+        textColor="?attr/bnz"
+        layout_gravity="center"
+        paddingLeft="16dp"
+        paddingRight="16dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="20dp"
+        text="@string/mnv"
+        paddingHorizontal="16dp"
+        style="@style/a4a"/>
+    <androidx.recyclerview.widget.RecyclerView
+        id="@+id/lic"
+        paddingTop="10dp"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</LinearLayout>

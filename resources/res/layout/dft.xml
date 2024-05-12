@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/j83"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C47061t0
+        id="@+id/hb4"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        scaleType="fitXY"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"/>
+    <X.C47061t0
+        id="@+id/hb1"
+        visibility="gone"
+        layout_width="70dp"
+        layout_height="70dp"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"/>
+    <X.C47121t6
+        textColor="@color/acm"
+        gravity="center"
+        id="@+id/m35"
+        visibility="gone"
+        layout_width="70dp"
+        layout_height="70dp"
+        NOT_FOUND_0x7="@+id/hb1"
+        NOT_FOUND_0x9="@+id/hb1"
+        NOT_FOUND_0xa="@+id/hb1"
+        NOT_FOUND_0xc="@+id/hb1"
+        style="@style/a3w"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C47061t0
+        id="@+id/mtn"
+        background="@drawable/cex"
+        layout_width="28dp"
+        layout_height="28dp"/>
+    <X.C47121t6
+        textSize="13dp"
+        layout_gravity="center_vertical"
+        id="@+id/mto"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginStart="6dp"
+        style="@style/ov"/>
+</LinearLayout>

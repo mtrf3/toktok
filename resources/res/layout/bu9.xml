@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    gravity="start|bottom"
+    layout_gravity="start|top"
+    id="@+id/goe"
+    paddingBottom="@dimen/a1b"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    NOT_FOUND_0x6="@dimen/a1f"
+    NOT_FOUND_0x7="@dimen/a11"
+    style="?attr/azt"/>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <LinearLayout
+        gravity="center"
+        layout_gravity="center"
+        orientation="horizontal"
+        id="@+id/g44"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        paddingStart="2dp"
+        paddingEnd="2dp">
+        <com.bytedance.tux.input.TuxTextView
+            gravity="center"
+            layout_gravity="center"
+            id="@+id/cue"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            NOT_FOUND_0xb="61"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/go"
+            gravity="center"
+            layout_gravity="center"
+            id="@+id/iot"
+            visibility="gone"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginStart="4dp"
+            NOT_FOUND_0xb="61"/>
+    </LinearLayout>
+</merge>

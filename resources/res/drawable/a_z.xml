@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+    <solid color="#fffafafa"/>
+    <corners
+        topLeftRadius="@dimen/j2"
+        topRightRadius="@dimen/j2"
+        bottomLeftRadius="0dp"
+        bottomRightRadius="0dp"/>
+</shape>

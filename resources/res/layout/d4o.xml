@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/fwm"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/ux"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ImageView
+        layout_gravity="end|top"
+        id="@+id/af0"
+        padding="4dp"
+        layout_width="32dp"
+        layout_height="32dp"
+        layout_marginTop="10dp"
+        layout_marginRight="4dp"
+        src="@drawable/d7y"
+        scaleType="fitXY"
+        layout_marginEnd="4dp"/>
+</FrameLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/kau"
+    clipToPadding="false"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.ss.android.ugc.aweme.ecommerce.core.view.speclayoutv2.SpecListLayoutV2
+        id="@+id/k9c"
+        clipChildren="false"
+        clipToPadding="false"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="24dp"
+        paddingStart="16dp"
+        paddingEnd="16dp"/>
+</LinearLayout>

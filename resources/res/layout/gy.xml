@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="@dimen/ds">
+    <X.W5G
+        id="@+id/a09"
+        layout_width="40dp"
+        layout_height="40dp"
+        layout_marginLeft="16dp"
+        layout_centerVertical="true"
+        layout_marginStart="16dp"
+        NOT_FOUND_0x11="2dp"/>
+    <TextView
+        textSize="16sp"
+        textColor="?attr/v9"
+        ellipsize="end"
+        id="@+id/a0d"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="8dp"
+        maxLines="1"
+        layout_toRightOf="@+id/a09"
+        layout_alignTop="@+id/a09"
+        layout_marginStart="8dp"
+        layout_toEndOf="@+id/a09"/>
+    <TextView
+        textSize="14sp"
+        textColor="?attr/v8"
+        ellipsize="end"
+        id="@+id/a0c"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="4dp"
+        maxLines="1"
+        layout_toRightOf="@+id/a09"
+        layout_below="@+id/a0d"
+        layout_alignLeft="@+id/a0d"
+        layout_toEndOf="@+id/a09"
+        layout_alignStart="@+id/a0d"/>
+</RelativeLayout>

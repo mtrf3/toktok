@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C41051jJ
+    textAppearance="@style/on"
+    textSize="15sp"
+    textColor="?attr/gu"
+    layout_gravity="center_horizontal"
+    id="@+id/b7e"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    checked="false"
+    text="@string/nhx"
+    paddingStart="8dp"
+    paddingEnd="8dp"
+    style="@style/a3m"/>

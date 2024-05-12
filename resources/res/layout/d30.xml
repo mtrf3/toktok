@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="@drawable/cs9"
+    layout_width="50dp"
+    layout_height="50dp">
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        layout_width="20dp"
+        layout_height="20dp"
+        scaleType="centerInside"
+        NOT_FOUND_0x7="true"
+        NOT_FOUND_0x8="?attr/as7"
+        NOT_FOUND_0x9="?attr/ar7"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0"/>
+    <View
+        id="@+id/jl2"
+        background="@drawable/cr4"
+        visibility="invisible"
+        layout_width="46dp"
+        layout_height="46dp"
+        layout_centerInParent="true"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

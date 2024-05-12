@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    theme="@style/uw"
+    id="@+id/nag"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C223338pd
+        layout_gravity="center"
+        id="@+id/g91"
+        visibility="invisible"
+        layout_width="36dp"
+        layout_height="36dp"/>
+    <X.C2QX
+        layout_gravity="center"
+        orientation="vertical"
+        id="@+id/k27"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C161806Wq
+        id="@+id/j_y"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C73305Spp
+        id="@+id/kfo"
+        visibility="invisible"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x9="0"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dm"
+        layout_gravity="center"
+        id="@+id/cvz"
+        visibility="invisible"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/pui"/>
+</FrameLayout>

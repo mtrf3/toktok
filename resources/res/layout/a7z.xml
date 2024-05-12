@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    id="@+id/py"
+    visibility="gone"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gv"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/b9l"
+        layout_marginEnd="4dp"
+        NOT_FOUND_0xe="61"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gu"
+        id="@+id/px"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        singleLine="true"
+        NOT_FOUND_0xe="61"/>
+    <ImageView
+        id="@+id/q7"
+        layout_width="5dp"
+        layout_height="12dp"
+        layout_marginLeft="4dp"
+        layout_marginTop="1dp"
+        src="@drawable/awy"
+        layout_marginStart="4dp"/>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    background="@drawable/a26"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        layout_width="match_parent"
+        layout_height="wrap_content">
+        <ImageView
+            id="@+id/bf7"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginTop="14dp"
+            src="@drawable/bid"
+            layout_marginEnd="16dp"
+            NOT_FOUND_0x8="0"
+            NOT_FOUND_0x9="0"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

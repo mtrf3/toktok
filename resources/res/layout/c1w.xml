@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.recyclerview.widget.RecyclerView
+    id="@+id/hz5"
+    paddingTop="8dp"
+    paddingBottom="8dp"
+    layout_width="0dp"
+    layout_height="28dp"
+    paddingStart="16dp"
+    paddingEnd="7dp"/>

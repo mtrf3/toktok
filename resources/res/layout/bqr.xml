@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <LinearLayout
+        gravity="center_horizontal"
+        orientation="vertical"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0.3">
+        <com.bytedance.tux.icon.TuxIconView
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_centerHorizontal="true"
+            NOT_FOUND_0xf="@raw/icon_large_wifi_slash"
+            NOT_FOUND_0x10="72dp"
+            NOT_FOUND_0x11="72dp"
+            NOT_FOUND_0x12="?attr/gp"/>
+        <com.bytedance.tux.input.TuxTextView
+            layout_width="wrap_content"
+            layout_height="match_parent"
+            layout_marginTop="25dp"
+            text="@string/oas"
+            layout_centerHorizontal="true"
+            NOT_FOUND_0xe="33"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/do"
+            layout_width="wrap_content"
+            layout_height="match_parent"
+            layout_marginTop="12dp"
+            text="@string/oat"
+            layout_centerHorizontal="true"
+            NOT_FOUND_0xe="51"/>
+        <X.SY4
+            id="@+id/izm"
+            layout_width="240dp"
+            layout_height="match_parent"
+            layout_marginTop="20dp"
+            text="@string/oau"
+            layout_centerHorizontal="true"
+            NOT_FOUND_0xc="3"
+            NOT_FOUND_0xd="1"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

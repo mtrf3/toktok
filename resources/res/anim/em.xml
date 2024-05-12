@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate
+    interpolator="@anim/ek"
+    duration="400"
+    fromYDelta="100%p"
+    toYDelta="0%p"/>

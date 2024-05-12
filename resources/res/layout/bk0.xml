@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    paddingTop="20dp"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C2A7
+        id="@+id/jr4"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_margin="10dp"
+        text="Setting Manager"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x9="0"
+        style="@style/a2z"/>
+    <X.C2A7
+        id="@+id/fds"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_margin="10dp"
+        text="Keva Manager"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="@+id/jr4"
+        style="@style/a2z"/>
+    <LinearLayout
+        orientation="horizontal"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="@+id/fds">
+        <X.C2A7
+            id="@+id/g9x"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            layout_margin="10dp"
+            text="Log Level Verbose"
+            style="@style/a2z"/>
+    </LinearLayout>
+    <FrameLayout
+        id="@+id/bs8"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

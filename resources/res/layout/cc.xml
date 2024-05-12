@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    orientation="vertical"
+    id="@+id/gce"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C8IC
+        id="@+id/luv"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="end|top"
+        id="@+id/bfr"
+        paddingTop="4dp"
+        paddingBottom="20dp"
+        visibility="visible"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        importantForAccessibility="no"
+        paddingStart="20dp"
+        paddingEnd="4dp"
+        NOT_FOUND_0xb="20dp"
+        NOT_FOUND_0xc="20dp"/>
+</FrameLayout>

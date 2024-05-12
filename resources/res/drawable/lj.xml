@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_focused="true"
+        drawable="@drawable/lp"/>
+    <item
+        state_pressed="true"
+        drawable="@drawable/lp"/>
+    <item drawable="@android:color/transparent"/>
+</selector>

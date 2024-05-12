@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="99px"
+    layout_height="49px">
+    <X.C47121t6
+        textSize="33px"
+        textColor="#ffffffff"
+        ellipsize="end"
+        id="@+id/hy5"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxWidth="90px"
+        maxLines="1"
+        includeFontPadding="true"
+        layout_marginStart="12px"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

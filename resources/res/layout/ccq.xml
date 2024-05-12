@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/jbe"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <RelativeLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        layout_gravity="start|bottom"
+        orientation="vertical"
+        id="@+id/jbk"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        app:NOT_FOUND_0x6="true">
+        <RelativeLayout
+            id="@+id/ks8"
+            layout_width="match_parent"
+            layout_height="match_parent"/>
+    </RelativeLayout>
+    <FrameLayout
+        layout_gravity="bottom"
+        id="@+id/g34"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        translationZ="50dp"/>
+</FrameLayout>

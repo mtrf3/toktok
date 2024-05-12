@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="um" parent="@style/ul">
+        <item name="android:navigationBarColor">@color/b5</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="bxw">false</item>
+    </style>
+    <style name="uo" parent="@style/uk">
+        <item name="android:windowBackground">@drawable/bnr</item>
+        <item name="android:autoCompleteTextViewStyle">@style/a2f</item>
+        <item name="android:listSelector">?attr/b_r</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:navigationBarColor">@color/b5</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="a3p">?attr/b_r</item>
+        <item name="a4i">@color/ce</item>
+        <item name="bxw">false</item>
+    </style>
+</resources>

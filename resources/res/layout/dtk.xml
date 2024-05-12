@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/j74"
+    visibility="invisible"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <TextView
+        textColor="?attr/d4"
+        ellipsize="end"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/l5p"
+        visibility="invisible"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</FrameLayout>

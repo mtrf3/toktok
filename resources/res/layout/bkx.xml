@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/j71"
+    background="?attr/cl"
+    focusable="true"
+    clickable="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C252709vu
+        id="@+id/gwg"
+        layout_width="match_parent"
+        layout_height="52dp"
+        NOT_FOUND_0xa="?attr/dv"/>
+    <LinearLayout
+        orientation="vertical"
+        id="@+id/nat"
+        paddingBottom="24dp"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <androidx.recyclerview.widget.RecyclerView
+            id="@+id/a3t"
+            clipToPadding="false"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            layout_marginTop="8dp"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_gravity="bottom"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_marginBottom="10dp"
+    layout_marginStart="12dp"
+    layout_marginEnd="12dp">
+    <FrameLayout
+        id="@+id/dq5"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/gb_"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_marginLeft="16dp"
+    layout_marginTop="8dp"
+    layout_marginRight="16dp"
+    layout_marginHorizontal="16dp"/>

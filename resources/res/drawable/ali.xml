@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_pressed="true">
+        <shape>
+            <solid color="#80008dea"/>
+            <corners radius="2dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid color="?attr/eg"/>
+            <corners radius="2dp"/>
+        </shape>
+    </item>
+</selector>

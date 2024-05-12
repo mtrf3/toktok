@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="@dimen/e1"
+    layout_centerVertical="true">
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/e8w"
+        layout_width="@dimen/e0"
+        layout_height="@dimen/dz"
+        layout_centerVertical="true"
+        NOT_FOUND_0xf="2"
+        NOT_FOUND_0x10="@color/ar"
+        NOT_FOUND_0x11="2dp"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        ellipsize="end"
+        id="@+id/lwu"
+        layout_width="@dimen/e3"
+        layout_height="@dimen/e2"
+        layout_marginTop="25dp"
+        text="@string/bog"
+        maxLines="2"
+        maxEms="15"
+        textDirection="locale"
+        textAlignment="viewStart"
+        layout_marginStart="12dp"
+        layout_toEndOf="@+id/e8w"
+        NOT_FOUND_0x13="42"/>
+    <X.SY4
+        id="@+id/aur"
+        layout_width="88dp"
+        layout_height="29dp"
+        text="@string/qg8"
+        layout_centerVertical="true"
+        layout_alignParentEnd="true"
+        NOT_FOUND_0x12="1"/>
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    orientation="horizontal"
+    layout_width="match_parent"
+    layout_height="25dp">
+    <X.C47121t6
+        textColor="?attr/gu"
+        id="@+id/man"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/luw"
+        style="@style/ov"/>
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        id="@+id/e9p"
+        layout_width="18dp"
+        layout_height="17dp"
+        NOT_FOUND_0x7="?attr/art"/>
+</LinearLayout>

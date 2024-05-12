@@ -1,0 +1,127 @@
+package X;
+
+import android.graphics.Canvas;
+import android.graphics.Path;
+import kotlin.jvm.internal.o;
+
+/* loaded from: classes7.dex */
+public final class DEQ extends AbstractC39455Fe7 {
+    public DEQ() {
+        DIJ p = this.LIZJ;
+        o.LJIIIZ(p, "p");
+        p.LJIIIIZZ(25.5f, 6.5f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, true, -3.0f, 0.0f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, true, 3.0f, 0.0f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(13.0f, 24.0f);
+        C32856Cuy.m7(this.LIZJ);
+        this.LIZJ.LJIILIIL(11.0f, -13.0f);
+        this.LIZJ.LJIIIZ(13.0f, 13.0f, true, false, 0.0f, 26.0f);
+        this.LIZJ.LJIIIZ(13.0f, 13.0f, false, false, 0.0f, -26.0f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIILIIL(-3.0f, 13.0f);
+        this.LIZJ.LJIIIZ(3.0f, 3.0f, true, true, 6.0f, 0.0f);
+        this.LIZJ.LJIIIZ(3.0f, 3.0f, false, true, -6.0f, 0.0f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIILIIL(3.0f, -5.0f);
+        C32856Cuy.Gd(this.LIZJ);
+        this.LIZJ.LJIILIIL(0.0f, 24.0f);
+        C32856Cuy.I3(this.LIZJ);
+        this.LIZJ.LJIIIIZZ(34.05f, 9.6f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, true, -2.6f, -1.5f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, true, 2.6f, 1.5f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(14.5f, 40.44f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, false, 1.5f, -2.6f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, false, -1.5f, 2.6f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(29.98f, 7.48f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, true, -2.9f, -0.77f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, true, 2.9f, 0.77f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIILIIL(-10.9f, 34.87f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, false, 0.78f, -2.9f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, false, -0.78f, 2.9f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(9.6f, 13.95f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, true, -1.5f, 2.6f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, true, 1.5f, -2.6f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(40.45f, 33.5f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, false, -2.6f, -1.5f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, false, 2.6f, 1.5f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(12.7f, 10.56f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, true, -2.13f, 2.13f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, true, 2.13f, -2.13f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIILIIL(24.74f, 26.88f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, false, -2.12f, -2.13f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, false, 2.12f, 2.13f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(16.55f, 8.09f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, true, -2.6f, 1.5f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, true, 2.6f, -1.5f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(33.5f, 40.45f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, false, -1.5f, -2.6f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, false, 1.5f, 2.6f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(20.92f, 6.71f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, true, -2.9f, 0.77f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, true, 2.9f, -0.77f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIILIIL(8.0f, 35.64f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, false, -0.78f, -2.9f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, false, 0.78f, 2.9f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(7.48f, 18.02f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, true, -0.77f, 2.9f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, true, 0.77f, -2.9f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIILIIL(34.87f, 10.9f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, false, -2.9f, -0.78f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, false, 2.9f, 0.78f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIILIIL(-31.79f, 6.4f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, true, 2.13f, 2.12f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, true, -2.13f, -2.13f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIILIIL(26.88f, -24.76f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, false, -2.13f, 2.13f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, false, 2.13f, -2.13f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(8.09f, 31.46f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, true, 1.5f, 2.59f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, true, -1.5f, -2.6f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(40.45f, 14.5f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, false, -2.6f, 1.5f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, false, 2.6f, -1.5f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(6.71f, 27.08f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, true, 0.77f, 2.9f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, true, -0.77f, -2.9f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIILIIL(35.64f, -8.0f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, false, -2.9f, 0.78f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, false, 2.9f, -0.78f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(6.5f, 22.5f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, true, 0.0f, 3.0f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, true, 0.0f, -3.0f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIIIZZ(43.0f, 24.0f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, true, false, -3.0f, 0.0f);
+        this.LIZJ.LJIIIZ(1.5f, 1.5f, false, false, 3.0f, 0.0f);
+        this.LIZJ.LIZLLL();
+        this.LIZJ.LJIIZILJ(Path.FillType.WINDING);
+    }
+
+    @Override // X.AbstractC39455Fe7
+    public final void LIZ(Canvas canvas) {
+        o.LJIIIZ(canvas, "canvas");
+        LIZIZ(48.0f, 48.0f, canvas);
+        canvas.drawPath(this.LIZJ.LIZ, this.LIZIZ);
+    }
+}

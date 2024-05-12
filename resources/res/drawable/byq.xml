@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    shape="ring"
+    thicknessRatio="2"
+    useLevel="false"
+    innerRadius="0dp">
+    <solid color="@android:color/transparent"/>
+    <stroke
+        width="2dp"
+        color="@color/ft"/>
+</shape>

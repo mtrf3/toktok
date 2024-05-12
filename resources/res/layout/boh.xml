@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C7G8
+        id="@+id/feed_multi_tag_layout"
+        focusable="true"
+        visibility="gone"
+        clickable="true"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</LinearLayout>

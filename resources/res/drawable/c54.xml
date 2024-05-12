@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="oval">
+    <solid color="@color/yc"/>
+    <stroke
+        width="1px"
+        color="?attr/dw"/>
+</shape>

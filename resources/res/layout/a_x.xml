@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/rv"
+    background="@drawable/agt"
+    layout_width="wrap_content"
+    layout_height="28dp">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/cl"
+        gravity="start"
+        id="@+id/ru"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        layout_marginTop="7dp"
+        layout_marginBottom="7dp"
+        text="Ad starts in 5"
+        layout_marginStart="12dp"
+        layout_marginEnd="12dp"
+        NOT_FOUND_0xb="82"/>
+</FrameLayout>

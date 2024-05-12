@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="@drawable/cbk"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C47121t6
+        textColor="@color/bg"
+        gravity="center"
+        id="@+id/i_t"
+        layout_width="30dp"
+        layout_height="30dp"
+        layout_marginLeft="1dp"
+        layout_marginTop="1dp"
+        layout_marginRight="1dp"
+        layout_marginBottom="1dp"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0"
+        style="@style/a48"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/c7a"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <FrameLayout
+        id="@+id/c7j"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="#7d7e83"
+        layout_gravity="center_horizontal"
+        id="@+id/m4n"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x10="61"/>
+    <LinearLayout
+        gravity="center_vertical"
+        orientation="horizontal"
+        id="@+id/d1a"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="-18dp"
+        layout_marginRight="4dp"
+        layout_below="@+id/m4n"
+        layout_alignParentRight="true"
+        layout_marginEnd="4dp"
+        layout_alignParentEnd="true">
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/gu"
+            layout_gravity="end|bottom"
+            id="@+id/m6d"
+            visibility="gone"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginRight="2dp"
+            text="@string/g7k"
+            layout_marginEnd="2dp"
+            NOT_FOUND_0x10="62"/>
+        <ImageView
+            id="@+id/f2r"
+            visibility="gone"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            src="@drawable/boi"/>
+    </LinearLayout>
+</RelativeLayout>

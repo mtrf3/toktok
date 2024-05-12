@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    gravity="center"
+    orientation="vertical"
+    background="@drawable/cd8"
+    paddingTop="3dp"
+    paddingBottom="3dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    paddingStart="5dp"
+    paddingEnd="5dp"
+    layout_marginStart="4dp"
+    layout_marginEnd="4dp">
+    <X.C2A8
+        textAppearance="@style/abe"
+        gravity="center_horizontal"
+        id="@+id/lod"
+        layout_width="wrap_content"
+        layout_height="17dp"
+        NOT_FOUND_0xd="true"/>
+</FrameLayout>

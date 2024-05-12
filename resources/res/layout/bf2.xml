@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/eqo"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <LinearLayout
+        id="@+id/eqn"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <com.bytedance.lighten.loader.SmartImageView
+            id="@+id/eiq"
+            layout_width="20dp"
+            layout_height="20dp"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/go"
+            id="@+id/text"
+            layout_width="wrap_content"
+            layout_height="20dp"
+            layout_marginLeft="12dp"
+            layout_toRightOf="@+id/eiq"
+            layout_marginStart="12dp"
+            layout_toEndOf="@+id/eiq"
+            NOT_FOUND_0xa="33"/>
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        id="@+id/li7"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginTop="16dp"
+        layout_below="@+id/eqn"/>
+</RelativeLayout>

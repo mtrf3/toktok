@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    orientation="horizontal"
+    paddingTop="@dimen/o2"
+    paddingBottom="@dimen/o2"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    paddingVertical="@dimen/o2">
+    <include
+        id="@+id/dam"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_weight="0.5"
+        layout="@layout/xh"/>
+    <include
+        id="@+id/ffs"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_weight="0.5"
+        layout_marginStart="16dp"
+        layout="@layout/xh"/>
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Biblioteca de sonidos en línea</item>
+        <item>Mi sonido</item>
+    </array>
+    <array name="q">
+        <item>Eliminar</item>
+        <item>Cancelar</item>
+    </array>
+    <array name="r">
+        <item>Popular</item>
+        <item>Recientes</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>Domingo</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+    </array>
+    <array name="a5">
+        <item>Chino simplificado</item>
+        <item>Chino tradicional</item>
+        <item>Inglés</item>
+        <item>Japonés</item>
+        <item>Coreano</item>
+        <item>Ruso</item>
+        <item>Indonesio</item>
+        <item>Malayo</item>
+        <item>Portugués</item>
+        <item>Tailandés</item>
+        <item>Vietnamita</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Normal</item>
+        <item>Blanco/Negro</item>
+        <item>Arte</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Saturado</item>
+        <item>Chrome</item>
+    </array>
+    <array name="aa">
+        <item>Ene</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Abr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ago</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dic</item>
+    </array>
+    <array name="ad">
+        <item>Guardado de datos primero</item>
+        <item>Alta resolución primero</item>
+    </array>
+    <array name="ae">
+        <item>Todos</item>
+        <item>Solo amigos</item>
+    </array>
+    <array name="bi">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+    </array>
+</resources>

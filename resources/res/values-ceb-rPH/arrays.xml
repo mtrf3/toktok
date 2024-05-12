@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Librarya sa online nga tingog</item>
+        <item>Akong Tingog</item>
+    </array>
+    <array name="q">
+        <item>Papasa</item>
+        <item>Kanselaha</item>
+    </array>
+    <array name="r">
+        <item>Nag-trending</item>
+        <item>Pinakaulahi</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="v">
+        <item>Pagpili gikan sa Gallery</item>
+    </array>
+    <array name="a3">
+        <item>Dominggo</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miyerkules</item>
+        <item>Huwebes</item>
+        <item>Biyernes</item>
+        <item>Sabado</item>
+    </array>
+    <array name="a5">
+        <item>Gipasayon nga Inintsik</item>
+        <item>Tradisyonal nga Inintsik</item>
+        <item>Ingles</item>
+        <item>Japanese</item>
+        <item>Koreano</item>
+        <item>Russian</item>
+        <item>Indonesian</item>
+        <item>Malay</item>
+        <item>Portuguese</item>
+        <item>Thai</item>
+        <item>Vietnamese</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Normal</item>
+        <item>Itom/Puti</item>
+        <item>Arts</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Saturated</item>
+        <item>Chrome</item>
+    </array>
+    <array name="aa">
+        <item>Ene</item>
+        <item>Peb</item>
+        <item>Mar</item>
+        <item>Abr</item>
+        <item>May</item>
+        <item>Hun</item>
+        <item>Hul</item>
+        <item>Ago</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nob</item>
+        <item>Dis</item>
+    </array>
+    <array name="ad">
+        <item>Unahon ang data-saving</item>
+        <item>Unahon ang taas-og-resolusyon</item>
+    </array>
+    <array name="ae">
+        <item>Matag usa</item>
+        <item>Mga higala lang</item>
+    </array>
+    <array name="bi">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miyerkules</item>
+        <item>Huwebes</item>
+        <item>Biyernes</item>
+        <item>Sabado</item>
+        <item>Dominggo</item>
+    </array>
+</resources>

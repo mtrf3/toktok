@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    id="@+id/lqb"
+    background="@drawable/cdb"
+    paddingLeft="8dp"
+    paddingRight="8dp"
+    layout_width="wrap_content"
+    layout_height="match_parent"
+    layout_marginStart="8dp">
+    <X.C41061jK
+        id="@+id/lot"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        checked="false"
+        style="@style/a3r"/>
+    <X.C47121t6
+        textSize="14dp"
+        textColor="@color/bd"
+        id="@+id/los"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginStart="4dp"/>
+</LinearLayout>

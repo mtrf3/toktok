@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="false"
+        drawable="@drawable/x2"/>
+    <item drawable="@drawable/x3"/>
+</selector>

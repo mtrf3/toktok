@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_enabled="false"
+        color="?attr/a4q"
+        alpha="0.38"/>
+    <item
+        color="?attr/a4q"
+        alpha="0.6"/>
+</selector>

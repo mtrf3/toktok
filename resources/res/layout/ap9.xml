@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    theme="@style/ul"
+    orientation="horizontal"
+    id="@+id/dfz"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/eht"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        ellipsize="end"
+        layout_gravity="bottom"
+        id="@+id/mes"
+        background="@drawable/ap5"
+        paddingTop="2dp"
+        paddingBottom="2dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text=""
+        maxLines="1"
+        paddingStart="4dp"
+        paddingEnd="4dp"/>
+</FrameLayout>

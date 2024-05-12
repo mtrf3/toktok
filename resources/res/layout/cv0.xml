@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    paddingTop="@dimen/ac3"
+    visibility="invisible"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C47121t6
+        textSize="@dimen/ac6"
+        textColor="@color/a1l"
+        gravity="center"
+        id="@+id/d_d"
+        layout_width="192dp"
+        layout_height="wrap_content"
+        text="@string/t19"
+        maxLines="2"
+        shadowColor="@color/a47"
+        shadowDx="1"
+        shadowDy="1"
+        lineSpacingExtra="8sp"
+        NOT_FOUND_0x15="0"
+        NOT_FOUND_0x16="0"
+        NOT_FOUND_0x18="0"/>
+    <X.C41081jM
+        id="@+id/na7"
+        visibility="gone"
+        layout_width="@dimen/ac4"
+        layout_height="@dimen/ac4"
+        layout_marginRight="@dimen/ac5"
+        src="@drawable/d7m"
+        layout_marginEnd="@dimen/ac5"
+        NOT_FOUND_0x13="@+id/d_d"
+        NOT_FOUND_0x14="@+id/d_d"
+        NOT_FOUND_0x18="@+id/d_d"/>
+    <X.C41081jM
+        id="@+id/na8"
+        visibility="gone"
+        layout_width="@dimen/ac4"
+        layout_height="@dimen/ac4"
+        layout_marginLeft="@dimen/ac5"
+        src="@drawable/d7o"
+        layout_marginStart="@dimen/ac5"
+        NOT_FOUND_0x13="@+id/d_d"
+        NOT_FOUND_0x17="@+id/d_d"
+        NOT_FOUND_0x18="@+id/d_d"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

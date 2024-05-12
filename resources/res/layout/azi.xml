@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/dx4"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.AIT
+        id="@+id/ncx"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C54134LMk
+        layout_gravity="bottom"
+        id="@+id/gbw"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="@dimen/w4"/>
+    <include layout="@layout/azx"/>
+    <ViewStub
+        id="@+id/rq"
+        layout="@layout/a_y"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ViewStub
+        id="@+id/rk"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ViewStub
+        id="@+id/ro"
+        layout="@layout/azj"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ViewStub
+        id="@+id/bq3"
+        layout="@layout/aah"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ViewStub
+        id="@+id/ekr"
+        layout="@layout/bph"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

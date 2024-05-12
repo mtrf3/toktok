@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <WebView
+        id="@+id/mr7"
+        visibility="invisible"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ProgressBar
+        id="@+id/mr6"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_centerInParent="true"/>
+</RelativeLayout>

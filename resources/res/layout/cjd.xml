@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        ellipsize="end"
+        layout_gravity="center_vertical"
+        id="@+id/jfx"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        maxLines="2"
+        textAlignment="viewStart"
+        layout_marginStart="16dp"
+        layout_marginEnd="@dimen/nt"
+        NOT_FOUND_0xb="13"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gx"
+        id="@+id/jfy"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="8dp"
+        textAlignment="viewStart"
+        layout_marginStart="@dimen/nt"
+        layout_marginEnd="@dimen/nt"
+        NOT_FOUND_0xb="61"/>
+</merge>

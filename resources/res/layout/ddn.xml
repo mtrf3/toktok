@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="end"
+    orientation="vertical"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C47121t6
+        textSize="15dp"
+        textColor="@color/bc"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/o6l"/>
+    <X.C47121t6
+        textSize="11dp"
+        textColor="@color/bc"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/owo"
+        alpha="0.8"/>
+</LinearLayout>

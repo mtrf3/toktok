@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C80955Vpv
+    clipChildren="true"
+    layout_width="40dp"
+    layout_height="40dp">
+    <View
+        id="@+id/afd"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C47061t0
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C47121t6
+        layout_gravity="top|right"
+        id="@+id/isz"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <X.C47121t6
+        textSize="8dp"
+        textColor="?attr/bmu"
+        layout_gravity="bottom|center_horizontal"
+        id="@+id/bwf"
+        background="@drawable/clh"
+        paddingRight="4dp"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        alpha="0.8"
+        paddingStart="4dp"/>
+</X.C80955Vpv>

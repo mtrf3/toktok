@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    orientation="horizontal"
+    id="@+id/j4o"
+    visibility="gone"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <ScrollView
+        id="@+id/kw7"
+        background="@color/ca"
+        padding="8dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</RelativeLayout>

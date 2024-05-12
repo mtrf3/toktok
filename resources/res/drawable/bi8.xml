@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape
+            dither="true"
+            shape="rectangle">
+            <size
+                height="165dp"
+                width="165dp"/>
+            <corners radius="2dp"/>
+            <solid color="?attr/cf"/>
+        </shape>
+    </item>
+    <item
+        gravity="center"
+        drawable="@drawable/bj3">
+        <shape shape="rectangle">
+            <size
+                height="82.5dp"
+                width="82.5dp"/>
+        </shape>
+    </item>
+</layer-list>

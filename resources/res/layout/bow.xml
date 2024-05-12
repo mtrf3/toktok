@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/den"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C47061t0
+        id="@+id/fv6"
+        background="@drawable/cx6"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        foreground="@color/c_"
+        scaleType="centerCrop"/>
+    <X.CVT
+        layout_gravity="center"
+        id="@+id/fxs"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        layout_gravity="end|top"
+        id="@+id/fvo"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginTop="14dp"
+        layout_marginEnd="8dp"
+        NOT_FOUND_0xa="?attr/aw0"
+        NOT_FOUND_0xb="@color/a8s"/>
+</FrameLayout>

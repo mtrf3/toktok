@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C41081jM
+        id="@+id/du3"
+        background="@drawable/ct4"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginStart="8dp"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x15="0"
+        NOT_FOUND_0x16="0"/>
+    <X.C41081jM
+        id="@+id/du2"
+        layout_width="24dp"
+        layout_height="48dp"
+        src="@drawable/cev"
+        scaleType="centerInside"
+        paddingEnd="5dp"
+        layout_marginEnd="8dp"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x16="0"/>
+    <X.C109194Qh
+        textColor="@color/a4c"
+        ellipsize="marquee"
+        id="@+id/du4"
+        focusable="true"
+        focusableInTouchMode="true"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        text="@string/l8y"
+        singleLine="true"
+        layout_weight="1"
+        marqueeRepeatLimit="marquee_forever"
+        layout_marginStart="8dp"
+        layout_marginEnd="16dp"
+        NOT_FOUND_0x11="0"
+        NOT_FOUND_0x13="@+id/du2"
+        NOT_FOUND_0x14="@+id/du3"
+        NOT_FOUND_0x16="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

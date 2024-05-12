@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set ordering="sequentially">
+    <objectAnimator
+        interpolator="@android:anim/linear_interpolator"
+        duration="300"
+        valueFrom="0"
+        valueTo="0.12"
+        propertyName="alpha"
+        startDelay="500"/>
+    <objectAnimator
+        interpolator="@android:anim/linear_interpolator"
+        duration="300"
+        startOffset="800"
+        valueFrom="0.12"
+        valueTo="0"
+        propertyName="alpha"/>
+</set>

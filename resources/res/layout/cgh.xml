@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C51309KBt
+        id="@+id/jg5"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ViewStub
+        id="@+id/jg7"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

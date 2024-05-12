@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="@drawable/cjj"
+    layout_width="wrap_content"
+    layout_height="42px">
+    <X.C47121t6
+        textSize="30px"
+        textColor="@color/abc"
+        ellipsize="end"
+        id="@+id/hy4"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxWidth="192px"
+        maxLines="1"
+        includeFontPadding="true"
+        paddingStart="12px"
+        paddingEnd="12px"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xe="0"
+        style="@style/p4"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

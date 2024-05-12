@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.SG4
+        textColor="?attr/gu"
+        ellipsize="end"
+        gravity="start"
+        id="@+id/i6m"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        textAlignment="viewStart"
+        NOT_FOUND_0xa="@+id/jtc"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xe="42"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/jtc"
+        layout_width="@dimen/nw"
+        layout_height="@dimen/nw"
+        layout_marginStart="6dp"
+        layout_marginEnd="16dp"
+        NOT_FOUND_0xa="@+id/d5c"
+        NOT_FOUND_0xb="@+id/i6m"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xf="@raw/icon_arrow_turn_up_right"
+        NOT_FOUND_0x10="?attr/go"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/d5c"
+        layout_width="@dimen/nw"
+        layout_height="@dimen/nw"
+        NOT_FOUND_0x9="0"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xf="@raw/icon_bookmark"
+        NOT_FOUND_0x10="?attr/go"/>
+</merge>

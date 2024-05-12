@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        id="@+id/bc5"
+        background="@drawable/bhv"
+        paddingTop="12dp"
+        paddingBottom="12dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        paddingStart="16dp"
+        paddingEnd="16dp">
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/go"
+            ellipsize="end"
+            id="@+id/lxe"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            maxLines="1"
+            NOT_FOUND_0xe="0"
+            NOT_FOUND_0x10="0"
+            NOT_FOUND_0x11="42"/>
+        <com.bytedance.tux.icon.TuxIconView
+            id="@+id/ea9"
+            layout_width="14dp"
+            layout_height="14dp"
+            NOT_FOUND_0xc="@+id/lwm"
+            NOT_FOUND_0xe="0"
+            NOT_FOUND_0x10="@+id/lwm"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/gx"
+            ellipsize="end"
+            id="@+id/lwm"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            maxLines="1"
+            layout_marginStart="3dp"
+            NOT_FOUND_0xd="@+id/ea9"
+            NOT_FOUND_0xf="@+id/lxe"
+            NOT_FOUND_0x11="61"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="36dp">
+    <X.SY4
+        id="@+id/azh"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        text="@string/ti4"
+        NOT_FOUND_0x9="2"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xc="@raw/icon_video_fill"/>
+    <LinearLayout
+        gravity="center"
+        orientation="horizontal"
+        id="@+id/azg"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <com.bytedance.lighten.loader.SmartImageView
+            id="@+id/f2g"
+            layout_width="24dp"
+            layout_height="24dp"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            text="@string/ti4"
+            layout_marginStart="6dp"
+            NOT_FOUND_0xb="52"/>
+    </LinearLayout>
+</FrameLayout>

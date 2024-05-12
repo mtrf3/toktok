@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    background="@drawable/a4h"
+    padding="8dp"
+    layout_width="160dp"
+    layout_height="44dp">
+    <X.C62846OlW
+        id="@+id/f0c"
+        layout_width="28dp"
+        layout_height="28dp"
+        scaleType="fitCenter"
+        NOT_FOUND_0xc="2"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        ellipsize="end"
+        id="@+id/m2d"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxLines="1"
+        layout_marginStart="8dp"
+        NOT_FOUND_0xd="61"/>
+</LinearLayout>

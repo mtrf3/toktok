@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/j7b"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.SYL
+        id="@+id/d3m"
+        visibility="invisible"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"/>
+    <FrameLayout
+        id="@+id/player_view"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"/>
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/cover"
+        background="@drawable/bof"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        scaleType="centerCrop"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"/>
+    <FrameLayout
+        id="@+id/e0x"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

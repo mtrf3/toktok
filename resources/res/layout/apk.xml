@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <FrameLayout
+        layout_gravity="start|bottom"
+        id="@+id/fgw"
+        layout_width="1dp"
+        layout_height="1dp"/>
+</merge>

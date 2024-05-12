@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_gravity="center"
+    layout_width="28dp"
+    layout_height="28dp">
+    <ImageView
+        id="@+id/f1g"
+        background="@drawable/cl4"
+        layout_width="22dp"
+        layout_height="22dp"
+        scaleType="centerCrop"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0"/>
+    <ProgressBar
+        id="@+id/nbf"
+        layout_width="28dp"
+        layout_height="28dp"
+        indeterminate="false"
+        indeterminateOnly="false"
+        progressDrawable="@drawable/chx"
+        rotationY="180"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

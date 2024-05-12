@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C232579Av
+        id="@+id/h34"
+        background="?attr/cl"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <X.C3GB
+        id="@+id/gz5"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</FrameLayout>

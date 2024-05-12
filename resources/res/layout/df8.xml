@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="@color/z1"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C47121t6
+        textSize="13sp"
+        textColor="?attr/gu"
+        id="@+id/dvs"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_marginBottom="8dp"
+        text="@string/n7o"
+        paddingStart="20dp"
+        paddingEnd="20dp"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

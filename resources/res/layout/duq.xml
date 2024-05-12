@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <X.C94446ah8
+        id="@+id/nnb"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        src="@color/adm"
+        scaleType="fitXY"/>
+</FrameLayout>

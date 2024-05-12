@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Pustaka bunyi dalam talian</item>
+        <item>Bunyi Saya</item>
+    </array>
+    <array name="q">
+        <item>Padam</item>
+        <item>Batal</item>
+    </array>
+    <array name="r">
+        <item>Sohor kini</item>
+        <item>Terkini</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>Ahad</item>
+        <item>Isnin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Khamis</item>
+        <item>Jumaat</item>
+        <item>Sabtu</item>
+    </array>
+    <array name="a5">
+        <item>Bahasa Cina Mudah</item>
+        <item>Cina Tradisional</item>
+        <item>Bahasa Inggeris</item>
+        <item>Jepun</item>
+        <item>Korea</item>
+        <item>Rusia</item>
+        <item>Indonesia</item>
+        <item>Melayu</item>
+        <item>Portugis</item>
+        <item>Thai</item>
+        <item>Vietnam</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Normal</item>
+        <item>Hitam/Putih</item>
+        <item>Seni</item>
+        <item>Vintaj</item>
+        <item>Retro</item>
+        <item>Tepu</item>
+        <item>Krom</item>
+    </array>
+    <array name="aa">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mac</item>
+        <item>Apr</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ogo</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dis</item>
+    </array>
+    <array name="ad">
+        <item>Utamakan penjimatan data</item>
+        <item>Utamakan resolusi tinggi</item>
+    </array>
+    <array name="ae">
+        <item>Semua orang</item>
+        <item>Rakan Sahaja</item>
+    </array>
+    <array name="bi">
+        <item>Isnin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Khamis</item>
+        <item>Jumaat</item>
+        <item>Sabtu</item>
+        <item>Ahad</item>
+    </array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/fk6"
+    paddingLeft="@dimen/r8"
+    paddingRight="@dimen/r8"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <ImageView
+        layout_gravity="center_horizontal"
+        id="@+id/f2l"
+        layout_width="@dimen/li"
+        layout_height="@dimen/lh"/>
+    <include layout="@layout/dsr"/>
+</LinearLayout>

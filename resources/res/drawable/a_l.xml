@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape shape="rectangle">
+    <corners
+        topLeftRadius="@dimen/au"
+        topRightRadius="@dimen/au"/>
+    <gradient
+        startColor="?attr/cl"
+        endColor="?attr/cl"
+        angle="0"/>
+</shape>

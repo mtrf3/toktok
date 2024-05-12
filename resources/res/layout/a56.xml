@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/bs8"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        layout_gravity="top|center_horizontal"
+        id="@+id/and"
+        layout_width="match_parent"
+        layout_height="0dp"
+        NOT_FOUND_0x7="com.google.android.material.bottomsheet.BottomSheetBehavior"
+        NOT_FOUND_0x9="@+id/agt"
+        NOT_FOUND_0xa="0"/>
+    <FrameLayout
+        layout_gravity="top|center_horizontal"
+        id="@+id/j0g"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0x7="com.google.android.material.bottomsheet.BottomSheetBehavior"/>
+    <FrameLayout
+        layout_gravity="top"
+        id="@+id/e3u"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0xa="0"/>
+    <FrameLayout
+        id="@+id/hqu"
+        visibility="invisible"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x8="0"/>
+    <FrameLayout
+        layout_gravity="bottom"
+        id="@+id/aov"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        NOT_FOUND_0x8="0"/>
+    <X.C1AF
+        id="@+id/agt"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x5="2"
+        NOT_FOUND_0x6="hqu,aov"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

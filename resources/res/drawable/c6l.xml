@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape shape="rectangle">
+            <solid color="?attr/ca"/>
+        </shape>
+    </item>
+    <item
+        gravity="top"
+        drawable="?attr/ca"
+        bottom="95dp"/>
+    <item bottom="25dp">
+        <bitmap
+            gravity="bottom|center_horizontal"
+            src="@drawable/splash_activity_banner"/>
+    </item>
+    <item
+        top="30dp"
+        right="30dp">
+        <bitmap
+            gravity="top|right"
+            src="@drawable/splash"/>
+    </item>
+</layer-list>

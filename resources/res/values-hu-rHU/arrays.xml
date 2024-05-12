@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Online hangkönyvtár</item>
+        <item>Saját hangok</item>
+    </array>
+    <array name="q">
+        <item>Törlés</item>
+        <item>Mégse</item>
+    </array>
+    <array name="r">
+        <item>Trendi</item>
+        <item>Legújabb</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>Vasárnap</item>
+        <item>Hétfő</item>
+        <item>Kedd</item>
+        <item>Szerda</item>
+        <item>Csütörtök</item>
+        <item>Péntek</item>
+        <item>Szombat</item>
+    </array>
+    <array name="a5">
+        <item>Egyszerűsített kínai</item>
+        <item>Hagyományos kínai</item>
+        <item>Angol</item>
+        <item>Japán</item>
+        <item>Koreai</item>
+        <item>Orosz</item>
+        <item>Indonéz</item>
+        <item>Maláj</item>
+        <item>Portugál</item>
+        <item>Thai</item>
+        <item>Vietnámi</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Normál</item>
+        <item>Fekete-fehér</item>
+        <item>Művészetek</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Telített</item>
+        <item>Króm</item>
+    </array>
+    <array name="aa">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Már</item>
+        <item>Ápr</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>Aug</item>
+        <item>Szep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </array>
+    <array name="ad">
+        <item>Adattakarékosság előnyben</item>
+        <item>Nagy felbontás előnyben</item>
+    </array>
+    <array name="ae">
+        <item>Mindenki</item>
+        <item>Csak ismerősök</item>
+    </array>
+    <array name="bi">
+        <item>Hétfő</item>
+        <item>Kedd</item>
+        <item>Szerda</item>
+        <item>Csütörtök</item>
+        <item>Péntek</item>
+        <item>Szombat</item>
+        <item>Vasárnap</item>
+    </array>
+</resources>

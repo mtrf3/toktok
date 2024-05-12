@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    background="@color/qo"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C172126pE
+        id="@+id/n46"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginLeft="@dimen/ajo"
+        layout_marginRight="@dimen/ajo"/>
+    <ImageView
+        id="@+id/n47"
+        background="@color/qo"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginLeft="@dimen/ajo"
+        layout_marginRight="@dimen/ajo"/>
+    <ProgressBar
+        id="@+id/n43"
+        visibility="gone"
+        layout_width="40dp"
+        layout_height="40dp"
+        layout_centerInParent="true"/>
+    <TextView
+        textSize="14sp"
+        textColor="#f5f5f5"
+        id="@+id/n42"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_centerInParent="true"/>
+    <ImageView
+        id="@+id/f8u"
+        visibility="gone"
+        layout_width="45dp"
+        layout_height="45dp"
+        scaleType="centerInside"
+        layout_centerInParent="true"/>
+</RelativeLayout>

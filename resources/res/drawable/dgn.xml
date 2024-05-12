@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_checked="true"
+        drawable="@drawable/dgp"/>
+    <item
+        state_checked="false"
+        drawable="@drawable/dgo"/>
+    <item drawable="@drawable/dgo"/>
+</selector>

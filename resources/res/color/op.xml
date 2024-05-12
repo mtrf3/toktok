@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item
+        state_selected="true"
+        color="?attr/a4q"
+        alpha="0.38"/>
+    <item
+        state_focused="true"
+        color="?attr/a4q"
+        alpha="0.38"/>
+    <item
+        color="?attr/a4q"
+        alpha="0.16"
+        state_hovered="true"/>
+    <item
+        color="@android:color/transparent"
+        alpha="1"/>
+</selector>

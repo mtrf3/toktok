@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    clipChildren="false"
+    layout_width="44dp"
+    layout_height="36dp">
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        layout_gravity="center"
+        id="@+id/ecz"
+        layout_width="36dp"
+        layout_height="36dp"/>
+</FrameLayout>

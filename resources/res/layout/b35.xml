@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C62846OlW
+        id="@+id/cud"
+        layout_width="90dp"
+        layout_height="90dp"
+        layout_marginLeft="8dp"
+        layout_marginRight="8dp"
+        layout_marginStart="8dp"
+        layout_marginEnd="8dp"
+        NOT_FOUND_0x8="2"
+        NOT_FOUND_0x9="?attr/cl"
+        NOT_FOUND_0xa="2dp"/>
+</LinearLayout>

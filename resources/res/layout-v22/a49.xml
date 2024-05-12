@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C45631qh
+        id="@+id/jcz"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <LinearLayout
+            orientation="vertical"
+            id="@+id/jx9"
+            paddingLeft="16dp"
+            paddingTop="@dimen/o2"
+            paddingRight="16dp"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            paddingHorizontal="16dp"/>
+    </X.C45631qh>
+</FrameLayout>

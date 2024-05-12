@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/i6y"
+    background="?attr/cl"
+    visibility="gone"
+    layout_width="0dp"
+    layout_height="match_parent"
+    alpha="0">
+    <X.C71799SFv
+        id="@+id/e3q"
+        layout_width="28dp"
+        layout_height="28dp"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x13="0"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        ellipsize="end"
+        gravity="start"
+        id="@+id/e4f"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_marginLeft="8dp"
+        layout_marginRight="8dp"
+        maxLines="1"
+        layout_marginHorizontal="8dp"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0x10="@+id/iuh"
+        NOT_FOUND_0x11="@+id/e3q"
+        NOT_FOUND_0x13="0"
+        NOT_FOUND_0x16="42"/>
+    <com.ss.android.ugc.aweme.relation.follow.ui.RelationButton
+        id="@+id/iuh"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        minWidth="88dp"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x13="0"
+        NOT_FOUND_0x14="1"
+        NOT_FOUND_0x15="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

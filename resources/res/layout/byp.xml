@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    gravity="center_vertical"
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <ImageView
+        id="@+id/eyr"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+    <X.C58049MqL
+        id="@+id/mgo"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        maxLines="2"/>
+</merge>

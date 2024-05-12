@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Онлайн-бібліотека аудіозаписів</item>
+        <item>Мій аудіозапис</item>
+    </array>
+    <array name="q">
+        <item>Видалити</item>
+        <item>Скасувати</item>
+    </array>
+    <array name="r">
+        <item>У тренді</item>
+        <item>Останнє</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>Неділя</item>
+        <item>Понеділок</item>
+        <item>Вівторок</item>
+        <item>Середа</item>
+        <item>Четвер</item>
+        <item>П’ятниця</item>
+        <item>Субота</item>
+    </array>
+    <array name="a5">
+        <item>Спрощена китайська</item>
+        <item>Китайська (традиційна)</item>
+        <item>Англійська</item>
+        <item>Японська</item>
+        <item>Корейська</item>
+        <item>Російська</item>
+        <item>Індонезійська</item>
+        <item>Малайська</item>
+        <item>Португальська</item>
+        <item>Тайська</item>
+        <item>В’єтнамська</item>
+        <item>Хінді</item>
+    </array>
+    <array name="a7">
+        <item>Нормальний</item>
+        <item>Чорно-білий</item>
+        <item>Мистецтво</item>
+        <item>Старовинний</item>
+        <item>Ретролюкс</item>
+        <item>Насичений</item>
+        <item>Хром</item>
+    </array>
+    <array name="aa">
+        <item>Січ.</item>
+        <item>Лют.</item>
+        <item>Бер.</item>
+        <item>Квіт.</item>
+        <item>Трав.</item>
+        <item>Черв.</item>
+        <item>Лип.</item>
+        <item>Серп.</item>
+        <item>Вер.</item>
+        <item>Жовт.</item>
+        <item>Лист.</item>
+        <item>Груд.</item>
+    </array>
+    <array name="ad">
+        <item>Пріоритет економії трафіку</item>
+        <item>Пріоритет якості зображення</item>
+    </array>
+    <array name="ae">
+        <item>Усі</item>
+        <item>Лише друзі</item>
+    </array>
+    <array name="bi">
+        <item>Понеділок</item>
+        <item>Вівторок</item>
+        <item>Середа</item>
+        <item>Четвер</item>
+        <item>П’ятниця</item>
+        <item>Субота</item>
+        <item>Неділя</item>
+    </array>
+</resources>

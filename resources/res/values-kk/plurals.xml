@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">Біз аватарларыңызды %d минуттан кейін жасай бастаймыз.</item>
+        <item quantity="other">Біз аватарларыңызды %d минуттан кейін жасай бастаймыз.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">%d стильмен жалғастыру</item>
+        <item quantity="other">%d стильмен жалғастыру</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">Адам беті бар тағы %d фотосурет таңдаңыз</item>
+        <item quantity="other">Адам беті бар тағы %d фотосурет таңдаңыз</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">Sharp арқылы аватарларды күніне %d рет жасай аласыз</item>
+        <item quantity="other">Sharp арқылы аватарларды күніне %d рет жасай аласыз</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">Sharp арқылы аватарларды аптасына %d рет жасай аласыз</item>
+        <item quantity="other">Sharp арқылы аватарларды аптасына %d рет жасай аласыз</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">Speedy арқылы аватарларды күніне %d рет жасай аласыз</item>
+        <item quantity="other">Speedy арқылы аватарларды күніне %d рет жасай аласыз</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="one">Speedy арқылы аватарларды аптасына %d рет жасай аласыз</item>
+        <item quantity="other">Speedy арқылы аватарларды аптасына %d рет жасай аласыз</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="one">Аватарларды күніне %d рет жасай аласыз</item>
+        <item quantity="other">Аватарларды күніне %d рет жасай аласыз</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="one">Аватарларды аптасына %d рет жасауға болады</item>
+        <item quantity="other">Аватарларды аптасына %d рет жасауға болады</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="one">Біз аватарларыңызды %d минуттан кейін жасай бастаймыз.</item>
+        <item quantity="other">Біз аватарларыңызды %d минуттан кейін жасай бастаймыз.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="one">Сізде %d сұрау бар</item>
+        <item quantity="other">Сізде %d сұрау бар</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="one">Сізде %d сұрау бар</item>
+        <item quantity="other">Сізде %d сұрау бар</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="one">%d сұрақ</item>
+        <item quantity="other">%d сұрақ</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="one">Жазбаларыңызды көру үшін басқа пайдаланушылар алғашқы %d күн ішінде жазба жариялауы керек.</item>
+        <item quantity="other">Жазбаларыңызды көру үшін басқа пайдаланушылар алғашқы %d күн ішінде жазба жариялауы керек.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="one">%d күннен кейін, олар жазбаларыңызды ештеңе жарияламай көре алады.</item>
+        <item quantity="other">%d күннен кейін, олар жазбаларыңызды ештеңе жарияламай көре алады.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="one">%d күннен кейін, жазбаларыңызды тек өзіңіз көре аласыз.</item>
+        <item quantity="other">%d күннен кейін, жазбаларыңызды тек өзіңіз көре аласыз.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="one">Now жазбаларыңызды көру үшін басқа пайдаланушылар алғашқы %d күн ішінде мазмұн жариялауы керек.</item>
+        <item quantity="other">Now жазбаларыңызды көру үшін басқа пайдаланушылар алғашқы %d күн ішінде мазмұн жариялауы керек.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="one">%d өнім</item>
+        <item quantity="other">%d өнім</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="one">{username} пайдаланушысының суретін ашу</item>
+        <item quantity="other">{username} пайдаланушысының суреттерін ашу</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="one">{number} адам осы бейнені Таңдаулыларына қосты</item>
+        <item quantity="other">{number} адам осы бейнені Таңдаулыларына қосты</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="one">%d лайк</item>
+        <item quantity="other">%d лайк</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ млрд</item>
+        <item quantity="other">%@ млрд</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ млн</item>
+        <item quantity="other">%@ млн</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ мың</item>
+        <item quantity="other">%@ мың</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="one">%d көрілім</item>
+        <item quantity="other">%d көрілім</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="one">%s бейне пікірлерге рұқсат етті</item>
+        <item quantity="other">%s бейне пікірлерге рұқсат етті</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="one">%s бейнеге пікір жазуға рұқсат етілмейді</item>
+        <item quantity="other">%s бейнеге пікір жазуға рұқсат етілмейді</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="one">%d бейнемен дуэт жасауға рұқсат етілмеген</item>
+        <item quantity="other">%d бейнемен дуэт жасауға рұқсат етілмеген</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="one">Кез келген адам бейнелеріңізбен Дуэт түсіре алады. %1$d бейнеңізге Дуэт жасау рұқсаты берілген, %2$s</item>
+        <item quantity="other">Кез келген адам бейнелеріңізбен Дуэт түсіре алады. %1$d бейнеңізге Дуэт жасау рұқсаты берілген, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="one">%d бейнемен дуэт жасауға рұқсат етілмеген</item>
+        <item quantity="other">%d бейнемен дуэт жасауға рұқсат етілмеген</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="one">Достар сіздің бейнелеріңізбен Дуэт түсіре алады. %1$d бейнеңізге Дуэт жасау рұқсаты берілген, %2$s</item>
+        <item quantity="other">Достар сіздің бейнелеріңізбен Дуэт түсіре алады. %1$d бейнеңізге Дуэт жасау рұқсаты берілген, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="one">%d бейнемен дуэт жасауға рұқсат етілмеген</item>
+        <item quantity="other">%d бейнемен дуэт жасауға рұқсат етілмеген</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="one">Сіздің бейнеңізбен кім Дуэт түсіре алатынын көріңіз. %1$d бейнеңізге Дуэт жасау рұқсаты берілген, %2$s</item>
+        <item quantity="other">Сіздің бейнеңізбен кім Дуэт түсіре алатынын көріңіз. %1$d бейнеңізге Дуэт жасау рұқсаты берілген, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="one">%d бейнені біріктіруге рұқсат етілмеген</item>
+        <item quantity="other">%d бейнені біріктіруге рұқсат етілмеген</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="one">Сіздің бейнеңізді өздерінікімен кім біріктіре алатынын тексеріңіз. %1$d бейнеңізді біріктіруге рұқсат берілген, %2$s</item>
+        <item quantity="other">Сіздің бейнеңізді өздерінікімен кім біріктіре алатынын тексеріңіз. %1$d бейнеңізді біріктіруге рұқсат берілген, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="one">%d бейнені біріктіруге рұқсат етілмеген</item>
+        <item quantity="other">%d бейнені біріктіруге рұқсат етілмеген</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="one">Кез келген адам сіздің бейнеңізді өзінікімен біріктіре алады. %1$d бейнеңізді біріктіруге рұқсат берілген, %2$s</item>
+        <item quantity="other">Кез келген адам сіздің бейнеңізді өзінікімен біріктіре алады. %1$d бейнеңізді біріктіруге рұқсат берілген, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="one">%d бейнені біріктіруге рұқсат етілмеген</item>
+        <item quantity="other">%d бейнені біріктіруге рұқсат етілмеген</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="one">Достар сіздің бейнеңізді өздерінікімен біріктіре алады. %1$d бейнеңізді біріктіруге рұқсат берілген, %2$s</item>
+        <item quantity="other">Достар сіздің бейнеңізді өздерінікімен біріктіре алады. %1$d бейнеңізді біріктіруге рұқсат берілген, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="one">%s бейнемен дует жасауға рұқсат етілген</item>
+        <item quantity="other">%s бейнемен дует жасауға рұқсат етілген</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="one">%s бейнемен дует жасауға рұқсат етілмеген</item>
+        <item quantity="other">%s бейнемен дует жасауға рұқсат етілмеген</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="one">%s бейнені біріктіруге рұқсат етілген</item>
+        <item quantity="other">%s бейнені біріктіруге рұқсат етілген</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="one">%s бейнені біріктіруге рұқсат етілмеген</item>
+        <item quantity="other">%s бейнені біріктіруге рұқсат етілмеген</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="one">Соңғы белсенділік %d сағат бұрын</item>
+        <item quantity="other">Соңғы белсенділік %d сағат бұрын</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="one">Соңғы белсенділік %d минут бұрын</item>
+        <item quantity="other">Соңғы белсенділік %d минут бұрын</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="one">%d бөлік</item>
+        <item quantity="other">%d бөлік</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="one">%1$s · %2$d жаңа жазба</item>
+        <item quantity="other">%1$s · %2$d жаңа жазба</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="one">%d дыбысты импорттау</item>
+        <item quantity="other">%d дыбысты импорттау</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="one">%2$d тікелей эфир бейнесі | %1$d оқиға</item>
+        <item quantity="other">%2$d тікелей эфир бейнесі | %1$d оқиға</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="one">%2$d эфир бейнесі | %1$d оқиға</item>
+        <item quantity="other">%2$d эфир бейнесі | %1$d оқиға</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="one">%d эфир бейнесі | оқиға</item>
+        <item quantity="other">%d эфир бейнесі | оқиға</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="one">%2$d тікелей эфир бейнесі | %1$d оқиға</item>
+        <item quantity="other">%2$d тікелей эфир бейнесі | %1$d оқиға</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="one">%d оқиға</item>
+        <item quantity="other">%d оқиға</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="one">%d дос шақырылды</item>
+        <item quantity="other">%d дос шақырылды</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="one">%s бейне</item>
+        <item quantity="other">%s бейне</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="one">%s бейне қосылды</item>
+        <item quantity="other">%s бейне қосылды</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="one">%s бейне жарияланды</item>
+        <item quantity="other">%s бейне жарияланды</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="one">Бейне қосу (%d)</item>
+        <item quantity="other">Бейнелер қосу (%d)</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="one">%d жаста</item>
+        <item quantity="other">%d жаста</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="one">%d жаста</item>
+        <item quantity="other">%d жаста</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="one">Сіз %d жастасыз ба?\n\nЕгер жас дұрыс көрсетілмесе, кейбір TikTok мүмкіндіктері қолжетімсіз болуы мүмкін. Туған күнді кейінірек өзгертуге болады.</item>
+        <item quantity="other">Сіз %d жастасыз ба?\n\nЕгер жас дұрыс көрсетілмесе, кейбір TikTok мүмкіндіктері қолжетімсіз болуы мүмкін. Туған күнді кейінірек өзгертуге болады.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="one">Сіз %d жасқа толғансыз ба?</item>
+        <item quantity="other">Сіз %d жасқа толғансыз ба?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="one">Сіз жасыңызды %d жас деп көрсеттіңіз. Шынайы туған күніңізді енгізіңіз.</item>
+        <item quantity="other">Сіз жасыңызды %d жас деп көрсеттіңіз. Шынайы туған күніңізді енгізіңіз.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="one">%d жаста</item>
+        <item quantity="other">%d жаста</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="one">%d дыбыс</item>
+        <item quantity="other">%d дыбыс</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="one">Дыбыс синхрондалуда...</item>
+        <item quantity="other">Дыбыстар синхрондалуда...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="one">%s бөлісу</item>
+        <item quantity="other">%s бөлісу</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="one">%s көру</item>
+        <item quantity="other">%s көру</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="one">Дауыстық әсерлер дәлдікті төмендетуі мүмкін</item>
+        <item quantity="other">Дауыстық әсерлер дәлдікті төмендетуі мүмкін</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="one">%d файлға дейін жүктеп салыңыз</item>
+        <item quantity="other">%d файлға дейін жүктеп салыңыз</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="one">Бұл бета нұсқаның мерзімі %d күннен кейін аяқталады</item>
+        <item quantity="other">Бұл бета нұсқаның мерзімі %d күннен кейін аяқталады</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="one">%d күннен кейін бітеді</item>
+        <item quantity="other">%d күннен кейін бітеді</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="one">%d күннен кейін бітеді</item>
+        <item quantity="other">%d күннен кейін бітеді</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="one">%d күннен кейін бітеді</item>
+        <item quantity="other">%d күннен кейін бітеді</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="one">%d кітапқа дейін қосуға болады</item>
+        <item quantity="other">%d кітапқа дейін қосуға болады</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="one">%s клип</item>
+        <item quantity="other">%s клип</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="one">Тағы %d бейне көріңіз</item>
+        <item quantity="other">Тағы %d бейне көріңіз</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="one">%d жауапты көру</item>
+        <item quantity="other">%d жауапты көру</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="one">%d ай</item>
+        <item quantity="other">%d ай</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="one">%d жыл</item>
+        <item quantity="other">%d жыл</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="one">Аккаунтты бұғаттау</item>
+        <item quantity="other">Аккаунттарды бұғаттау</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="one">%d аккаунт таңдалды.</item>
+        <item quantity="other">%d аккаунт таңдалды.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="one">Сіз бір уақытта ең көбі %d аккаунт таңдай аласыз.</item>
+        <item quantity="other">Сіз бір уақытта ең көбі %d аккаунт таңдай аласыз.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="one">Сіз бұғаттағыңыз келетін %d аккаунтты таңдадыңыз. Бұғатталған аккаунттардың иелері TikTok қолданбасында профиліңіз бен мазмұныңызды көре алмайтын болады.</item>
+        <item quantity="other">Сіз бұғаттағыңыз келетін %d аккаунтты таңдадыңыз. Бұғатталған аккаунттардың иелері TikTok қолданбасында профиліңіз бен мазмұныңызды көре алмайтын болады.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="one">%d аккаунтты бұғаттау керек пе?</item>
+        <item quantity="other">%d аккаунтты бұғаттау керек пе?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="one">Пікірді жою</item>
+        <item quantity="other">Пікірлерді жою</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="one">Сіз %d пікір таңдадыңыз.</item>
+        <item quantity="other">Сіз %d пікір таңдадыңыз.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="one">Пікірді жою (%d)?</item>
+        <item quantity="other">Пікірді жою (%d)?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="one">Пікір жойылды</item>
+        <item quantity="other">Пікірлер жойылды</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="one">%d пікір таңдалды.</item>
+        <item quantity="other">%d пікір таңдалды.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="one">Сіз бір уақытта ең көбі %d пікір таңдай аласыз.</item>
+        <item quantity="other">Сіз бір уақытта ең көбі %d пікір таңдай аласыз.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="one">Пікірге шағымдану</item>
+        <item quantity="other">Пікірлерге шағымдану</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="one">Сіз %d пікірге шағымданып жатырсыз. Біз оның ішінде орынсыз мазмұнның бар-жоғын тексереміз.</item>
+        <item quantity="other">Сіз %d пікірге шағымданып жатырсыз. Біз олардың ішінде орынсыз мазмұнның бар-жоғын тексереміз.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="one">Пікірге шағымдану (%d)?</item>
+        <item quantity="other">Пікірге шағымдану (%d)?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="one">Пікірге шағымдар жіберілді</item>
+        <item quantity="other">Пікірлерге шағымдар жіберілді</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="one">%s пікір</item>
+        <item quantity="other">%s пікір</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="one">%s бейне</item>
+        <item quantity="other">%s бейне</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="one">Еске салғышты %s пайдаланушы орнатты</item>
+        <item quantity="other">Еске салғышты %s пайдаланушы орнатты</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="one">%s әсер</item>
+        <item quantity="other">%s әсер</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="one">бейне көрілімі</item>
+        <item quantity="other">бейне көрілімі</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="one">таза жазылушы</item>
+        <item quantity="other">таза жазылушы</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="one">Лайк</item>
+        <item quantity="other">Лайк</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="one">%d%%</item>
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="one">Еске салғышты %s пайдаланушы орнатты</item>
+        <item quantity="other">Еске салғышты %s пайдаланушы орнатты</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="one">Жобаны жою керек пе?</item>
+        <item quantity="other">Жобаларды жою керек пе?</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="one">%s жазба</item>
+        <item quantity="other">%s жазба</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="one">Кіру коды дұрыс емес. %d әрекет қалды.</item>
+        <item quantity="other">Кіру коды дұрыс емес. %d әрекет қалды.</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="one">Тым көп талпыныс. %d минуттан кейін қайталаңыз.</item>
+        <item quantity="other">Тым көп талпыныс. %d минуттан кейін қайталаңыз.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="one">%d мелодия</item>
+        <item quantity="other">%d мелодия</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="one">%d трек</item>
+        <item quantity="other">%d трек</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="one">%d фрагмент</item>
+        <item quantity="other">%d фрагмент</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="one">%d өлең</item>
+        <item quantity="other">%d өлең</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="one">%d дыбыс</item>
+        <item quantity="other">%d дыбыс</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="one">%d джингл</item>
+        <item quantity="other">%d джингл</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="one">Жіберу (%d)</item>
+        <item quantity="other">Жіберу (%d)</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="one">%1$d жазылым · %2$d жазылушы</item>
+        <item quantity="other">%1$d жазылым · %2$d жазылушы</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="one">@ жаңа сілтеме</item>
+        <item quantity="other">@ жаңа сілтеме</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="one">жаңа хабарламалар жіберді.</item>
+        <item quantity="other">жаңа хабарламалар жіберді.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="one">сізге жаңа хабарламалар жіберді.</item>
+        <item quantity="other">сізге жаңа хабарламалар жіберді.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="one">%d адамға дейін таңдай аласыз</item>
+        <item quantity="other">%d адамға дейін таңдай аласыз</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="one">Шимай жазбаны жою керек пе?</item>
+        <item quantity="other">Шимай жазбаларды жою керек пе?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="one">Жобаны жою керек пе?</item>
+        <item quantity="other">Жобаларды жою керек пе?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="one">Шимайлар {#} бейне</item>
+        <item quantity="other">Шимайлар {#} бейне</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="one">%1$s және %2$s бұл бейне жарияланғаннан кейін хабарландыру алады.</item>
+        <item quantity="other">%1$s және %2$s бұл бейне жарияланғаннан кейін хабарландыру алады.</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="one">Кемінде %d тауар таңдаңыз</item>
+        <item quantity="other">Кемінде %d тауар таңдаңыз</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="one">%s күн ішінде аяқталады</item>
+        <item quantity="other">%s күн ішінде аяқталады</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="one">%d ретке дейін өңдей аласыз</item>
+        <item quantity="other">%d ретке дейін өңдей аласыз</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="one">%d сек. кейін әсерді алдын ала көру</item>
+        <item quantity="other">%d сек. кейін әсерді алдын ала көру</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="one">Белгіленген</item>
+        <item quantity="other">Белгіленген</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="one">Сіз осы топ мүшесін білуіңіз мүмкін.</item>
+        <item quantity="other">Сіз осы топ мүшелерін білуіңіз мүмкін.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="one">%s бейне</item>
+        <item quantity="other">%s бейне</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="one">%s бейне қосылды</item>
+        <item quantity="other">%s бейне қосылды</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="one">«%2$s» жинағынан %1$d бейнені жою</item>
+        <item quantity="other">«%2$s» жинағынан %1$d бейнені жою</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="one">«%2$s» жинағына %1$d бейне жылжытылды</item>
+        <item quantity="other">«%2$s» жинағына %1$d бейне жылжытылды</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="one">%d бейне жойылды</item>
+        <item quantity="other">%d бейне жойылды</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="one">%d жаңа ұсынылған аккаунт</item>
+        <item quantity="other">%d жаңа ұсынылған аккаунт</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="one">{0}, {1} және тағы {2} адам жазылған</item>
+        <item quantity="other">{0}, {1} және тағы {2} адам жазылған</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="one">{0} және тағы {2} адам жазылған</item>
+        <item quantity="other">{0} және тағы {2} адам жазылған</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="one">{0}, {1} және тағы {2} адамға жазылған</item>
+        <item quantity="other">{0}, {1} және тағы {2} адамға жазылған</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="one">{0} және тағы {2} адамға жазылған</item>
+        <item quantity="other">{0} және тағы {2} адамға жазылған</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="one">{0}, {1} және тағы {2} адаммен дос</item>
+        <item quantity="other">{0}, {1} және тағы {2} адаммен дос</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="one">Келесілермен дос: {0} және тағы {2} адам</item>
+        <item quantity="other">Келесілермен дос: {0} және тағы {2} адам</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="one">{2} ортақ контакт</item>
+        <item quantity="other">{2} ортақ контакт</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="one">Достарыңыздан %d жаңа жазба</item>
+        <item quantity="other">Достарыңыздан %d жаңа жазба</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="one">%d қатысушы қазір белсенді</item>
+        <item quantity="other">%d қатысушы қазір белсенді</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="one">%1$d қатысушы %2$d минут бұрын белсенді болды</item>
+        <item quantity="other">%1$d қатысушы %2$d минут бұрын белсенді болды</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="one">%d қатысушы бүгін белсенді</item>
+        <item quantity="other">%d қатысушы бүгін белсенді</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="one">%d қатысушы</item>
+        <item quantity="other">%d қатысушы</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="one">Жаңа сұрау</item>
+        <item quantity="other">Жаңа сұраулар</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="one">%s мүше</item>
+        <item quantity="other">%s мүше</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="one">Тағы %d қатысушыны көру</item>
+        <item quantity="other">Тағы %d қатысушыны көру</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="one">%s көру</item>
+        <item quantity="other">%s көру</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="one">Жазылушы: %s</item>
+        <item quantity="other">Жазылушылар: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="one">Бейне: %s</item>
+        <item quantity="other">Бейнелер: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="one">%s және тағы %d адамға жіберілді</item>
+        <item quantity="other">%s және тағы %d адамға жіберілді</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="one">%d оқиғаны жүктеп салу мүмкін емес. Оқиға «Шимайлар» қалтасында сақталды.</item>
+        <item quantity="other">%d оқиғаны жүктеп салу мүмкін емес. Оқиға «Шимайлар» қалтасында сақталды.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="one">Фотосуретті жүктеп салу мүмкін емес. Фотосурет шимайларға сақталды.</item>
+        <item quantity="other">Фотосуреттерді жүктеп салу мүмкін емес. Фотосуреттер шимайларға сақталды.</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="one">%d стикер</item>
+        <item quantity="other">%d стикер</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="one">сізді суретте белгіледі.</item>
+        <item quantity="other">сізді суреттерде белгіледі.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="one">%s жаңа жазба</item>
+        <item quantity="other">%s жаңа жазбалар</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="one">Белсенділік</item>
+        <item quantity="other">Белсенділіктер</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="one">%1$s, %2$s және басқа да %d танысыңызға жазылып, олардың бейнелерін көріңіз.</item>
+        <item quantity="other">%1$s, %2$s және басқа да %d танысыңызға жазылып, олардың бейнелерін көріңіз.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="one">басқа %d</item>
+        <item quantity="other">басқа %d</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="one">%1$s, %2$s және басқа да %3$d танысыңызға жазылып, олардың бейнелерін көріңіз.</item>
+        <item quantity="other">%1$s, %2$s және басқа да %3$d танысыңызға жазылып, олардың бейнелерін көріңіз.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="one">Хабарлама</item>
+        <item quantity="other">Хабарламалар</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="one">Жаңа белсенділік</item>
+        <item quantity="other">Жаңа белсенділіктер</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="one">%s мүше</item>
+        <item quantity="other">%s мүше</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="one">%s жазба</item>
+        <item quantity="other">%s жазба</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="one">%d кілт сөз</item>
+        <item quantity="other">%d кілт сөз</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="one">%d эфир</item>
+        <item quantity="other">%d эфир</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="one">%s күн ішінде аяқталады</item>
+        <item quantity="other">%s күн ішінде аяқталады</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="one">Сіз тек %1$d файлға дейін таңдай аласыз</item>
+        <item quantity="other">Сіз тек %1$d файлға дейін таңдай аласыз</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="one">%d сұрау</item>
+        <item quantity="other">%d сұрау</item>
+    </plurals>
+    <plurals name="j0">
+        <item quantity="one">%d жаңа хабарландыру</item>
+        <item quantity="other">%d жаңа хабарландыру</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="one">Әнді жаңа ретінде таңдаудан бас тарту керек пе?</item>
+        <item quantity="other">Әндерді жаңа ретінде таңдаудан бас тарту керек пе?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="one">%d әннен «жаңа» белгісі алып тасталды</item>
+        <item quantity="other">%d әннен «жаңа» белгісі алып тасталды</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="one">%d жаңа шығарылым</item>
+        <item quantity="other">%d жаңа шығарылым</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="one">%d орындаушы</item>
+        <item quantity="other">%d орындаушы</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="one">%d ортақ контакт</item>
+        <item quantity="other">%d ортақ контакт</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="one">%d ортақ контакт</item>
+        <item quantity="other">%d ортақ контакт</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="one">Енді %d минутқа дейінгі бейнелерді жүктеп салуға болады!</item>
+        <item quantity="other">Енді %d минутқа дейінгі бейнелерді жүктеп салуға болады!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="one">Ұзақтығы %d минутқа дейінгі бейнелерді ұсынамыз</item>
+        <item quantity="other">Ұзақтығы %d минутқа дейінгі бейнелерді ұсынамыз</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="one">%d ортақ контакт</item>
+        <item quantity="other">%d ортақ контакт</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="one">%d пікір</item>
+        <item quantity="other">%d пікір</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="one">Барлық %d пікірді көру</item>
+        <item quantity="other">Барлық %d пікірлерді көру</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="one">{nickname} және {number_1} басқа</item>
+        <item quantity="other">{nickname} және {number_1} басқа</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="one">{number} досыңыз бүгінгі Now бейнесін жариялады</item>
+        <item quantity="other">{number} досыңыз бүгінгі Now бейнесін жариялады</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="one">%1$s және тағы %2$d адам Now жариялады</item>
+        <item quantity="other">%1$s және тағы %2$d адам Now жариялады</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="one">{nickname} және {number_1} басқа</item>
+        <item quantity="other">{nickname} және {number_1} басқа</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="one">{number} досыңызға қосылып, өміріңіздегі кездейсоқ сәттерді TikTok Now ішінде жариялаңыз</item>
+        <item quantity="other">{number} досыңызға қосылып, өміріңіздегі кездейсоқ сәттерді TikTok Now ішінде жариялаңыз</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="one">Өзіңіздің Now бейнеңізді {number} минутта жариялаңыз</item>
+        <item quantity="other">Өзіңіздің Now бейнеңізді {number} минутта жариялаңыз</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="one">Now жариялап үлгеріңіз: %d минут қалды.</item>
+        <item quantity="other">Now жариялап үлгеріңіз: %d минут қалды.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="one">%d ортақ дос</item>
+        <item quantity="other">%d ортақ дос</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="one">%d лайк</item>
+        <item quantity="other">%d лайк</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="one">{1}, {2}, {3} және басқа {number} пайдаланушы жаңа ғана Now жазбасын жариялады.</item>
+        <item quantity="other">{1}, {2}, {3} және басқа {number} пайдаланушы жаңа ғана Now жазбасын жариялады.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="one">%d еске алу</item>
+        <item quantity="other">%d еске алулар</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="one">%d көрілім</item>
+        <item quantity="other">%d көрілім</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="one">%d көрілім</item>
+        <item quantity="other">%d көрілім</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="one">%1$s және тағы %2$s кісі</item>
+        <item quantity="other">%1$s және тағы %2$s кісі</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="one">Lemon8-тен синхрондалған жазбаңыздың дыбысы әлі жоқ. Жазбаңыз көрермендерге қызық болуы үшін дыбыстар қосыңыз.</item>
+        <item quantity="other">Lemon8-тен синхрондалған жазбаларыңыздың дыбысы әлі жоқ. Жазбаларыңыз көрермендерге қызық болуы үшін дыбыстар қосыңыз.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="one">Жазбаны дыбыспен толықтырыңыз</item>
+        <item quantity="other">Жазбаларды дыбыспен толықтырыңыз</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="one">фотоңызға лайк басты.</item>
+        <item quantity="other">фотоларыңызға лайк басты.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="one">суретіңізге дауыс берді.</item>
+        <item quantity="other">суреттеріңізге дауыс берді.</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="one">%d бөлім</item>
+        <item quantity="other">%d бөлім</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="one">%d бөлік</item>
+        <item quantity="other">%d бөлік</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="one">«%s» іс-шарасы 10 минуттан кейін басталады. Іс-шараңыз %d рет көрілді. Жарнамалық науқаннан максималды пайда алу үшін тікелей эфирге шығыңыз!</item>
+        <item quantity="other">«%s» іс-шарасы 10 минуттан кейін басталады. Іс-шараңыз %d рет көрілді. Жарнамалық науқаннан максималды пайда алу үшін тікелей эфирге шығыңыз!</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="one">%s оқу тапсырмасын көріңіз</item>
+        <item quantity="other">%s оқу тапсырмасын көріңіз</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="one">Жазба (%s)</item>
+        <item quantity="other">Жазбалар (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="one">(%s шолу)</item>
+        <item quantity="other">(%s шолу)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="one">%s фотосуретті жүктеп салынбады. Әрекетті қайталаңыз.</item>
+        <item quantity="other">%s фотосуретті жүктеп салынбады. Әрекетті қайталаңыз.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="one">%d ұқсас дыбыс</item>
+        <item quantity="other">%d ұқсас дыбыс</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="one">%d профильді қарау</item>
+        <item quantity="other">%d профильді қарау</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="one">Жазылушы</item>
+        <item quantity="other">Жазылушылар</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="one">%1$s %2$s лайк алды</item>
+        <item quantity="other">%1$s %2$s лайк алды</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="one">профиліңізді көрді.</item>
+        <item quantity="other">профиліңізді көрді.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="one">%1$s, %2$s және басқа %d кісі</item>
+        <item quantity="other">%1$s, %2$s және басқа %d кісі</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="one">%s адам профиліңізді қарады.</item>
+        <item quantity="other">%s адам профиліңізді қарады.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="one">{0}, {1} және тағы {2} адам профиліңізді көрді.</item>
+        <item quantity="other">{0}, {1} және тағы {2} адам профиліңізді көрді.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="one">Біз сіздің %1$s құрылғыңызға және басқа %2$s құрылғыға push-хабарландыруын жібердік. TikTok қолданбасын ашып, жүйеге кіру үшін хабарландырудағы «Иә» мәнін басыңыз.</item>
+        <item quantity="other">Біз сіздің %1$s құрылғыңызға және басқа %2$s құрылғыға push-хабарландыруын жібердік. TikTok қолданбасын ашып, жүйеге кіру үшін хабарландырудағы «Иә» мәнін басыңыз.</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="one">%s бейне</item>
+        <item quantity="other">%s бейне</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="one">%d бейне</item>
+        <item quantity="other">%d бейне</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="one">Шақырулардан %s қолжетімсіз сұрақ жойылды</item>
+        <item quantity="other">Шақырулардан %s қолжетімсіз сұрақ жойылды</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="one">%s жаңа хабарлама</item>
+        <item quantity="other">%s жаңа хабарлама</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="one">%s жаңа реакция</item>
+        <item quantity="other">%s жаңа реакция</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="one">%d кісі ұсынады</item>
+        <item quantity="other">%d кісі ұсынады</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="one">%d кісі ұсынады</item>
+        <item quantity="other">%d кісі ұсынады</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="one">Тағы %d ұсынысты қараңыз</item>
+        <item quantity="other">Тағы %d ұсынысты қараңыз</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="one">Ұзақтығы ең көбі %d с бейне түсіріңіз</item>
+        <item quantity="other">Ұзақтығы ең көбі %d с бейне түсіріңіз</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="one">Түпнұсқа бейнедегі дыбыспен %d секунд арттырмай жазыңыз</item>
+        <item quantity="other">Түпнұсқа бейнедегі дыбыспен %d секунд арттырмай жазыңыз</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="one">Шимай (%d)</item>
+        <item quantity="other">Шимайлар (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="one">Егер сіз дыбысты қалпына келтірсеңіз, бейненің дыбысы өшіріледі.</item>
+        <item quantity="other">Егер сіз дыбыстарды қалпына келтірсеңіз, бейненің дыбысы өшіріледі.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="one">Авторлық құқықпен қорғалған дыбысты қалпына келтіру керек пе?</item>
+        <item quantity="other">Авторлық құқықпен қорғалған дыбыстарды қалпына келтіру керек пе?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="one">Авторлық құқықпен қорғалған дыбыс жойылды</item>
+        <item quantity="other">Авторлық құқықпен қорғалған дыбыстар жойылды</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="one">Дыбысты алып тастау</item>
+        <item quantity="other">Дыбыстарды алып тастау</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="one">Дыбыс жойылды</item>
+        <item quantity="other">Дыбыстар жойылды</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="one">Дыбысты алмастыру</item>
+        <item quantity="other">Дыбыстарды алмастыру</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="one">Авторлық құқықпен қорғалған дыбыс жойылуда...</item>
+        <item quantity="other">Авторлық құқықпен қорғалған дыбыстар жойылуда...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="one">Сіз бейнеңізде авторлық құқықты бұзатын 1 минуттан асатын дыбыс анықталды. Егер жалғастырсаңыз, бейненің дыбысы өшіріледі. Дыбысты алмастырыңыз немесе бейнені қысқартыңыз. %s</item>
+        <item quantity="other">Сіз бейнеңізде авторлық құқықты бұзатын 1 минуттан асатын дыбыстар анықталды. Егер жалғастырсаңыз, бейненің дыбысы өшіріледі. Дыбысты алмастырыңыз немесе бейнені қысқартыңыз. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="one">Дыбысты алмастыру</item>
+        <item quantity="other">Дыбыстарды алмастыру</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="one">Авторлық құқықпен қорғалған дыбыс жойылуда...</item>
+        <item quantity="other">Авторлық құқықпен қорғалған дыбыстар жойылуда...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="one">Сіздің бейнеңізде авторлық құқықты бұзатын дыбыс анықталды. Егер жалғастырсаңыз, бейненің дыбысы өшіріледі. Сіз дыбысты алмастыра аласыз. %s</item>
+        <item quantity="other">Сіздің бейнеңізде авторлық құқықты бұзатын дыбыстар анықталды. Егер жалғастырсаңыз, бейненің дыбысы өшіріледі. Сіз дыбысты алмастыра аласыз. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="one">Авторлық құқықпен қорғалған дыбыс</item>
+        <item quantity="other">Авторлық құқықпен қорғалған дыбыстар</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="one">Авторлық құқық иесі бұл дыбысты тек 1 минутқа пайдалануды рұқсат етті.</item>
+        <item quantity="other">Авторлық құқық иесі бұл дыбыстарды тек 1 минутқа пайдалануды рұқсат етті.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="one">Авторлық құқық иесі бұл дыбысты пайдалануды рұқсат етпеді.</item>
+        <item quantity="other">Авторлық құқық иесі бұл дыбыстарды пайдалануды рұқсат етпеді.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="one">Дыбысты алмастыру</item>
+        <item quantity="other">Дыбыстарды алмастыру</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="one">Сіз бейнеңізде авторлық құқықты бұзатын 1 минуттан асатын дыбыс анықталды. Егер жалғастырсаңыз, бейненің дыбысы өшіріледі. Дыбысты алмастырыңыз немесе бейнені қысқартыңыз. %s</item>
+        <item quantity="other">Сіз бейнеңізде авторлық құқықты бұзатын 1 минуттан асатын дыбыстар анықталды. Егер жалғастырсаңыз, бейненің дыбысы өшіріледі. Дыбысты алмастырыңыз немесе бейнені қысқартыңыз. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="one">Дыбысты алмастыру</item>
+        <item quantity="other">Дыбыстарды алмастыру</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="one">Сіздің бейнеңізде авторлық құқықты бұзатын дыбыс анықталды. Егер жалғастырсаңыз, бейненің дыбысы өшіріледі. Сіз дыбысты алмастыра аласыз. %s</item>
+        <item quantity="other">Сіздің бейнеңізде авторлық құқықты бұзатын дыбыстар анықталды. Егер жалғастырсаңыз, бейненің дыбысы өшіріледі. Сіз дыбысты алмастыра аласыз. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="one">Бейнені жою (%d)</item>
+        <item quantity="other">Бейнелерді жою (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="one">%d репост</item>
+        <item quantity="other">%d репост</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="one">%d бөлісті</item>
+        <item quantity="other">%d бөлісті</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="one">%d бөлісті</item>
+        <item quantity="other">%d бөлісті</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="one">Тағы %d репостты қарау</item>
+        <item quantity="other">Тағы %d репостты қарау</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="one">%d күн</item>
+        <item quantity="other">%d күн</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="one">Тағы %1$d рет іздеу жасап, %2$d ұпай алыңыз</item>
+        <item quantity="other">Тағы %1$d рет іздеу жасап, %2$d ұпай алыңыз</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="one">%d секунд ішінде іздеу нәтижелерін алыңыз</item>
+        <item quantity="other">%d секунд ішінде іздеу нәтижелерін алыңыз</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="one">Тағы %1$d рет іздеу жасап, %2$d ұпай алыңыз!</item>
+        <item quantity="other">Тағы %1$d рет іздеу жасап, %2$d ұпай алыңыз!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="one">%d ұқсас дыбыс</item>
+        <item quantity="other">%d ұқсас дыбыс</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="one">%d күн бұрын жаңартылды</item>
+        <item quantity="other">%d күн бұрын жаңартылды</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="one">%d сағат бұрын жаңартылды</item>
+        <item quantity="other">%d сағат бұрын жаңартылды</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="one">%d минут бұрын жаңартылды</item>
+        <item quantity="other">%d минут бұрын жаңартылды</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="one">%d сек. бұрын жаңартылды</item>
+        <item quantity="other">%d сек. бұрын жаңартылды</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="one">%d апта бұрын жаңартылды</item>
+        <item quantity="other">%d апта бұрын жаңартылды</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="one">Құттықтаймыз! Кеше тағы %d Серия сатылды. Осылай жалғастыра беріңіз және Сериялар жинағының нәтижелілігін «Авторлар құралдары» &gt; «TikTok Сериялары» бөлімінен бақылаңыз.</item>
+        <item quantity="other">Құттықтаймыз! Кеше тағы %d Серия сатылды. Осылай жалғастыра беріңіз және Сериялар жинағының нәтижелілігін «Авторлар құралдары» &gt; «TikTok Сериялары» бөлімінен бақылаңыз.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="one">Соңғы бірнеше күнде Серияларыңыздың бетіне %d адам кірді. Сериялардың қаншалықты нәтижелі екенін бақылау және тұтынушыларды тарту бойынша пайдалы кеңес алу үшін, аналитика құралын пайдалана аласыз. Бұл үшін «Авторлар құралдары» &gt; «TikTok Сериялары» бөліміне өтіңіз.</item>
+        <item quantity="other">Соңғы бірнеше күнде Серияларыңыздың бетіне %d адам кірді. Сериялардың қаншалықты нәтижелі екенін бақылау және тұтынушыларды тарту бойынша пайдалы кеңес алу үшін, аналитика құралын пайдалана аласыз. Бұл үшін «Авторлар құралдары» &gt; «TikTok Сериялары» бөліміне өтіңіз.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="one">Құттықтаймыз! Кеше эфиріңіздегі %d көрермен Серияларыңызды көру рұқсатын сатып алды. Осылай жалғастыра беріңіз және Сериялар жинағының нәтижелілігін «Авторлар құралдары» &gt; «TikTok Сериялары» бөлімінен бақылаңыз.</item>
+        <item quantity="other">Құттықтаймыз! Кеше эфиріңіздегі %d көрермен Серияларыңызды көру рұқсатын сатып алды. Осылай жалғастыра беріңіз және Сериялар жинағының нәтижелілігін «Авторлар құралдары» &gt; «TikTok Сериялары» бөлімінен бақылаңыз.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="one">Құттықтаймыз! Кеше %d көрермен Серия сілтемесі бар бейнеден Серияңызды көру рұқсатын сатып алды. Осылай жалғастыра беріңіз және Сериялар жинағының нәтижелілігін «Авторлар құралдары» &gt; «TikTok Сериялары» бөлімінен бақылаңыз.</item>
+        <item quantity="other">Құттықтаймыз! Кеше %d көрермен Сериялар сілтемелері бар бейнелерден Серияларыңызды көру рұқсатын сатып алды. Осылай жалғастыра беріңіз және Сериялар жинағының нәтижелілігін «Авторлар құралдары» &gt; «TikTok Сериялары» бөлімінен бақылаңыз.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="one">Камераға өту (%d)</item>
+        <item quantity="other">Камераға өту (%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="one">%.1f (%s шолу)</item>
+        <item quantity="other">%.1f (%s шолу)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="one">Тек алғашқы сатып алушы үшін</item>
+        <item quantity="other">Тек алғашқы %d сатып алушы үшін</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="one">Тек %d қалды</item>
+        <item quantity="other">Тек %d қалды</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="one">%d күннен кейін бітеді</item>
+        <item quantity="other">%d күннен кейін бітеді</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="one">%d бейне</item>
+        <item quantity="other">%d бейне</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="one">%d бейне</item>
+        <item quantity="other">%d бейне</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="one">%d бейне</item>
+        <item quantity="other">%d бейне</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="one">%s бейне</item>
+        <item quantity="other">%s бейне</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="one">%d көрілім</item>
+        <item quantity="other">%d көрілім</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="one">Оқиға (%d)</item>
+        <item quantity="other">Оқиғалар (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="one">«{Brand}» бренді {start_date} - {end_date} аралығындағы рұқсаттың мерзімін {num} күнге ұзартқысы келеді.</item>
+        <item quantity="other">«{Brand}» бренді {start_date} - {end_date} аралығындағы рұқсаттың мерзімін {num} күнге ұзартқысы келеді.</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="one">%d бейне қосылды</item>
+        <item quantity="other">%d бейне қосылды</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="one">Авторлар TikTok қолданбасын %d айдан астам пайдалануда.</item>
+        <item quantity="other">Авторлар TikTok қолданбасын %d айдан астам пайдалануда.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="one">Авторларда кемінде %d жазылушы болуы тиіс.</item>
+        <item quantity="other">Авторларда кемінде %d жазылушы болуы тиіс.</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="one">%d өзара әрекеттесу</item>
+        <item quantity="other">%d өзара әрекеттесулер</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="one">Өзекті тақырыптарды қосу бойыншы күнделікті шектеу: %d жазба</item>
+        <item quantity="other">Өзекті тақырыптарды қосу бойыншы күнделікті шектеу: %d жазба</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="one">Болжалды тексеру уақыты: %d күн</item>
+        <item quantity="other">Болжалды тексеру уақыты: %d күн</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="one">%@ бейне</item>
+        <item quantity="other">%@ бейне</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="one">%@ көрілім</item>
+        <item quantity="other">%@ көрілім</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="one">TikTok қолданбасының сынақ мерзімі %d күннен кейін аяқталады</item>
+        <item quantity="other">TikTok қолданбасының сынақ мерзімі %d күннен кейін аяқталады</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="one">%d күн</item>
+        <item quantity="other">%d күн</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="one">TikTok қолданбасындағы бұл функцияны пайдалану уақыты %d күннен кейін аяқталады. Пайдалануды жалғастыру үшін TikTok Now қолданбасын жүктеп алыңыз.</item>
+        <item quantity="other">TikTok қолданбасындағы бұл функцияны пайдалану уақыты %d күннен кейін аяқталады. Пайдалануды жалғастыру үшін TikTok Now қолданбасын жүктеп алыңыз.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="one">TikTok Now қолданбасын %d күнге сынақ түрде пайдалануды бастау үшін жазба жариялаңыз.</item>
+        <item quantity="other">TikTok Now қолданбасын %d күнге сынақ түрде пайдалануды бастау үшін жазба жариялаңыз.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="one">%d клипті таңдау немесе түсіру</item>
+        <item quantity="other">%d клипті таңдау немесе түсіру</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="one">Аяқталмаған фотосуретке өзгеріс енгізу керек пе?</item>
+        <item quantity="other">Аяқталмаған фотосуреттерге өзгеріс енгізу керек пе?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="one">%s жаңа жазба</item>
+        <item quantity="other">%s жаңа жазбалар</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="one">%d бейне жариялады</item>
+        <item quantity="other">%d бейне жариялады</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="one">Сіз %d жасқа толғансыз ба?</item>
+        <item quantity="other">Сіз %d жасқа толғансыз ба?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="one">Қиылған дыбысты пайдаланыңыз. Ең көбі %d секунд жазыңыз.</item>
+        <item quantity="other">Қиылған дыбысты пайдаланыңыз. Ең көбі %d секунд жазыңыз.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="one">%s көрермен</item>
+        <item quantity="other">%s көрермен</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="one">%s лайк</item>
+        <item quantity="other">%s лайк</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="one">%2$s сек. кейін келесімен бөлісу: %1$s</item>
+        <item quantity="other">%2$s сек. кейін келесімен бөлісу: %1$s</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="one">%d өнім</item>
+        <item quantity="other">%d өнім</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="one">Жазба</item>
+        <item quantity="other">Жазба</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="one">%1$s, %2$s және басқа %d кісі</item>
+        <item quantity="other">%1$s, %2$s және басқа %d кісі</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="one">жазбаңызды қарады.</item>
+        <item quantity="other">жазбаңызды қарады.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="one">%s бөлісу</item>
+        <item quantity="other">%s бөлісу</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="one">%s көру</item>
+        <item quantity="other">%s көру</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="one">{0} {1} және тағы {2} адам жазбаңызды көрді.</item>
+        <item quantity="other">{0} {1} және тағы {2} адам жазбаңызды көрді.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="one">%d Тиын</item>
+        <item quantity="other">%d Тиын</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="one">жіберілді: %s</item>
+        <item quantity="other">жіберілді: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="one">Фото сақталды</item>
+        <item quantity="other">Фотолар сақталды</item>
+    </plurals>
+</resources>

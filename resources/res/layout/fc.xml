@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    background="?attr/cl"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <include layout="@layout/dtl"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gp"
+        gravity="center"
+        layout_width="match_parent"
+        layout_height="20dp"
+        layout_marginTop="20dp"
+        text="@string/qa2"
+        NOT_FOUND_0x13="51"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/go"
+        gravity="top"
+        id="@+id/m2v"
+        paddingLeft="20dp"
+        paddingRight="20dp"
+        layout_width="match_parent"
+        layout_height="0dp"
+        layout_marginLeft="20dp"
+        layout_marginTop="12dp"
+        layout_weight="1"
+        paddingStart="20dp"
+        paddingEnd="20dp"
+        layout_marginStart="20dp"
+        NOT_FOUND_0x13="41"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/cl"
+        gravity="center"
+        layout_gravity="center_horizontal"
+        id="@+id/m2x"
+        background="?attr/go"
+        layout_width="335dp"
+        layout_height="44dp"
+        text="@string/dw4"
+        NOT_FOUND_0x13="41"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gp"
+        layout_gravity="center_horizontal"
+        id="@+id/mcg"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="20dp"
+        layout_marginBottom="20dp"
+        text="@string/qa0"
+        NOT_FOUND_0x13="71"/>
+</LinearLayout>

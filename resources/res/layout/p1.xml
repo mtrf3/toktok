@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/j83"
+    background="?attr/d4"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <com.bytedance.lighten.loader.SmartImageView
+        layout_gravity="center"
+        id="@+id/bki"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        NOT_FOUND_0xa="0"/>
+    <X.C73305Spp
+        theme="@style/vp"
+        id="@+id/kf_"
+        visibility="visible"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <com.bytedance.tux.icon.TuxIconView
+        layout_gravity="start|top"
+        id="@+id/aej"
+        padding="14dp"
+        layout_width="52dp"
+        layout_height="52dp"
+        layout_marginStart="4dp"
+        NOT_FOUND_0xb="@raw/icon_arrow_left_ltr"
+        NOT_FOUND_0xc="?attr/cl"/>
+</FrameLayout>

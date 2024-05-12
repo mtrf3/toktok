@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center"
+    orientation="vertical"
+    padding="16dp"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gu"
+        gravity="center"
+        layout_width="match_parent"
+        layout_height="wrap_content"
+        layout_margin="8dp"
+        text="@string/hnj"
+        maxLines="1"
+        NOT_FOUND_0xb="71"/>
+    <ImageView
+        id="@+id/fdf"
+        layout_width="match_parent"
+        layout_height="80dp"
+        scaleType="fitCenter"/>
+</LinearLayout>

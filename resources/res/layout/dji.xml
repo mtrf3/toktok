@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    id="@+id/o0"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C2A7
+        id="@+id/ftp"
+        visibility="gone"
+        layout_width="0dp"
+        layout_height="match_parent"
+        layout_weight="1"
+        layout_marginStart="16dp"
+        NOT_FOUND_0x7="?attr/ato"
+        NOT_FOUND_0x8="false"
+        NOT_FOUND_0x9="?attr/go"
+        style="@style/a3a"/>
+    <X.C2A7
+        id="@+id/a9_"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        layout_weight="1"
+        layout_marginStart="8dp"
+        NOT_FOUND_0x7="?attr/as0"
+        NOT_FOUND_0x8="false"
+        NOT_FOUND_0x9="?attr/go"
+        style="@style/a3c"/>
+</LinearLayout>

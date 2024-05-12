@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="center_vertical"
+    paddingLeft="24dp"
+    paddingRight="12dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    minHeight="48dp"
+    splitMotionEvents="false"
+    paddingStart="24dp"
+    paddingEnd="12dp">
+    <ImageView
+        gravity="center"
+        layout_width="24dp"
+        layout_height="24dp"
+        src="?attr/ak"
+        scaleType="center"/>
+    <X.C90572Zge
+        id="@+id/bp"
+        clickable="true"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        maxHeight="48dp"
+        minHeight="48dp"
+        layout_weight="1"
+        contentDescription="@string/b2"/>
+    <X.C90571Zgd
+        id="@+id/ba"
+        background="?attr/b_s"
+        padding="12dp"
+        visibility="gone"
+        layout_width="48dp"
+        layout_height="48dp"/>
+</LinearLayout>

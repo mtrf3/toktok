@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginStart="-4dp">
+    <androidx.appcompat.widget.AppCompatImageView
+        layout_gravity="start|bottom"
+        id="@+id/gnq"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0xc="@drawable/bip"/>
+    <X.C1045348j
+        orientation="vertical"
+        id="@+id/gnv"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <X.C208208Fc
+            textColor="?attr/go"
+            textColorHighlight="@color/cz"
+            id="@+id/gnu"
+            padding="12dp"
+            clickable="false"
+            longClickable="false"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            NOT_FOUND_0xd="101"/>
+    </X.C1045348j>
+</LinearLayout>

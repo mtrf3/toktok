@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        id="@+id/sq"
+        layout_width="wrap_content"
+        layout_height="wrap_content">
+        <X.C59948Nfs
+            id="@+id/sp"
+            visibility="gone"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginTop="3dp"
+            NOT_FOUND_0x8="0"
+            NOT_FOUND_0x9="0"/>
+        <X.C7Z1
+            id="@+id/so"
+            visibility="gone"
+            layout_width="wrap_content"
+            layout_height="17dp"
+            layout_marginStart="@dimen/o2"
+            NOT_FOUND_0x6="@+id/sp"
+            NOT_FOUND_0x7="@+id/sp"
+            NOT_FOUND_0x9="@+id/sp"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <FrameLayout
+        id="@+id/ad_live_product_banner_container"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="35dp"
+        layout_marginTop="8dp"/>
+</FrameLayout>

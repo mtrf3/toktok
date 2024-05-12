@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+    <corners radius="9dp"/>
+    <solid color="?attr/eb"/>
+    <padding
+        left="5dp"
+        right="5dp"/>
+    <size height="15dp"/>
+</shape>

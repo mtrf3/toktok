@@ -1,0 +1,3363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">Po %d min. pradėsime kurti tavo avatarus.</item>
+        <item quantity="few">Po %d min. pradėsime kurti tavo avatarus.</item>
+        <item quantity="many">Po %d min. pradėsime kurti tavo avatarus.</item>
+        <item quantity="other">Po %d min. pradėsime kurti tavo avatarus.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">Tęsti su %d stiliumi</item>
+        <item quantity="few">Tęsti su %d stiliais</item>
+        <item quantity="many">Tęsti su %d stilių</item>
+        <item quantity="other">Tęsti su %d stiliais (-ių)</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">Pasirink dar bent %d nuotrauką su žmogaus veidu</item>
+        <item quantity="few">Pasirink dar bent %d nuotraukas su žmogaus veidu</item>
+        <item quantity="many">Pasirink dar bent %d nuotraukų su žmogaus veidu</item>
+        <item quantity="other">Pasirink dar bent %d nuotraukas (-ų) su žmogaus veidu</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">Avatarus su Sharp gali kurti %d kartą per dieną</item>
+        <item quantity="few">Avatarus su Sharp gali kurti %d kartus per dieną</item>
+        <item quantity="many">Avatarus su Sharp gali kurti %d kartų per dieną</item>
+        <item quantity="other">Avatarus su Sharp gali kurti %d kartų per dieną</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">Avatarus su Sharp gali kurti %d kartą per savaitę</item>
+        <item quantity="few">Avatarus su Sharp gali kurti %d kartus per savaitę</item>
+        <item quantity="many">Avatarus su Sharp gali kurti %d kartų per savaitę</item>
+        <item quantity="other">Avatarus su Sharp gali kurti %d kartų per savaitę</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">Avatarus su Speedy gali kurti %d kartą per dieną</item>
+        <item quantity="few">Avatarus su Speedy gali kurti %d kartus per dieną</item>
+        <item quantity="many">Avatarus su Speedy gali kurti %d kartų per dieną</item>
+        <item quantity="other">Avatarus su Speedy gali kurti %d kartų per dieną</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="one">Avatarus su Speedy gali kurti %d kartą per savaitę</item>
+        <item quantity="few">Avatarus su Speedy gali kurti %d kartus per savaitę</item>
+        <item quantity="many">Avatarus su Speedy gali kurti %d kartų per savaitę</item>
+        <item quantity="other">Avatarus su Speedy gali kurti %d kartų per savaitę</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="one">Avatarus gali kurti %d kartą per dieną</item>
+        <item quantity="few">Avatarus gali kurti %d kartus per dieną</item>
+        <item quantity="many">Avatarus gali kurti %d kartų per dieną</item>
+        <item quantity="other">Avatarus gali kurti %d k. per dieną</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="one">Avatarus gali kurti %d kartą per savaitę</item>
+        <item quantity="few">Avatarus gali kurti %d kartus per savaitę</item>
+        <item quantity="many">Avatarus gali kurti %d kartų per savaitę</item>
+        <item quantity="other">Avatarus gali kurti %d k. per savaitę</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="one">Po %d min. pradėsime kurti tavo avatarus.</item>
+        <item quantity="few">Po %d min. pradėsime kurti tavo avatarus.</item>
+        <item quantity="many">Po %d min. pradėsime kurti tavo avatarus.</item>
+        <item quantity="other">Po %d min. pradėsime kurti tavo avatarus.</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="one">Turi %d užklausą</item>
+        <item quantity="few">Turi %d užklausas</item>
+        <item quantity="many">Turi %d užklausų</item>
+        <item quantity="other">Turi %d užklausas (-ų)</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="one">Turi %d užklausą</item>
+        <item quantity="few">Turi %d užklausas</item>
+        <item quantity="many">Turi %d užklausų</item>
+        <item quantity="other">Turi %d užklausas (-ų)</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="one">%d klausimas</item>
+        <item quantity="few">%d klausimai</item>
+        <item quantity="many">%d klausimų</item>
+        <item quantity="other">%d klausimai (-ų)</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="one">%d pirmąją dieną kiti turi paskelbti, kad galėtų peržiūrėti tavo įrašus.</item>
+        <item quantity="few">%d pirmąsias dienas kiti turi paskelbti, kad galėtų peržiūrėti tavo įrašus.</item>
+        <item quantity="many">%d pirmųjų dienų kiti turi paskelbti, kad galėtų peržiūrėti tavo įrašus.</item>
+        <item quantity="other">%d pirmųjų dienų kiti turi paskelbti, kad galėtų peržiūrėti tavo įrašus.</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="one">Po %d dienos jie galės peržiūrėti tavo įrašus neskelbdami.</item>
+        <item quantity="few">Po %d dienų jie galės peržiūrėti tavo įrašus neskelbdami.</item>
+        <item quantity="many">Po %d dienų jie galės peržiūrėti tavo įrašus neskelbdami.</item>
+        <item quantity="other">Po %d d. jie galės peržiūrėti tavo įrašus neskelbdami.</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="one">Po %d dienos tik tu galėsi matyti savo įrašus.</item>
+        <item quantity="few">Po %d dienų tik tu galėsi matyti savo įrašus.</item>
+        <item quantity="many">Po %d dienų tik tu galėsi matyti savo įrašus.</item>
+        <item quantity="other">Po %d dienų tik tu galėsi matyti savo įrašus.</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="one">%d pirmąją dieną kiti turi paskelbti, kad galėtų peržiūrėti tavo Now įrašus.</item>
+        <item quantity="few">%d pirmąsias dienas kiti turi paskelbti, kad galėtų peržiūrėti tavo Now įrašus.</item>
+        <item quantity="many">%d pirmųjų dienų kiti turi paskelbti, kad galėtų peržiūrėti tavo Now įrašus.</item>
+        <item quantity="other">%d pirmųjų dienų kiti turi paskelbti, kad galėtų peržiūrėti tavo Now įrašus.</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="one">%d produktas</item>
+        <item quantity="few">%d produktai</item>
+        <item quantity="many">%d produktų</item>
+        <item quantity="other">%d produktų</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="one">Atverk {username} nuotrauką</item>
+        <item quantity="few">Atverk {username} nuotraukas</item>
+        <item quantity="many">Atverk {username} nuotraukų</item>
+        <item quantity="other">Atverk {username} nuotraukas</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="one">{number} žmogus pridėjo šį video prie savo parankinių</item>
+        <item quantity="few">{number} žmonės pridėjo šį video prie savo parankinių</item>
+        <item quantity="many">{number} žmonių pridėjo šį video prie savo parankinių</item>
+        <item quantity="other">{number} žmonės (-ių) pridėjo šį video prie savo parankinių</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="one">%d patiktukas</item>
+        <item quantity="few">%d patiktukai</item>
+        <item quantity="many">%d patiktukų</item>
+        <item quantity="other">Patiktukų: %d</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ billion</item>
+        <item quantity="other">%@ billion</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ million</item>
+        <item quantity="other">%@ million</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ thousand</item>
+        <item quantity="other">%@ thousand</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="one">%d peržiūra</item>
+        <item quantity="few">%d peržiūros</item>
+        <item quantity="many">%d peržiūrų</item>
+        <item quantity="other">Peržiūrų: %d</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="one">%s video leidžia komentarus</item>
+        <item quantity="few">%s video leidžia komentarus</item>
+        <item quantity="many">%s video leidžia komentarus</item>
+        <item quantity="other">%s video leidžia komentarus</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="one">%s video neleidžia komentarų</item>
+        <item quantity="few">%s video neleidžia komentarų</item>
+        <item quantity="many">%s video neleidžia komentarų</item>
+        <item quantity="other">%s video neleidžia komentarų</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="one">o %d neleidžia kurti dueto</item>
+        <item quantity="few">%d neleidžia kurti dueto</item>
+        <item quantity="many">%d neleidžia kurti dueto</item>
+        <item quantity="other">%d neleidžia kurti dueto</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="one">Bet kas gali kurti duetą su tavo video. Su %1$d iš tavo video galima kurti duetą, %2$s</item>
+        <item quantity="few">Bet kas gali kurti duetą su tavo video. Su %1$d iš tavo video galima kurti duetą, %2$s</item>
+        <item quantity="many">Bet kas gali kurti duetą su tavo video. Su %1$d iš tavo video galima kurti duetą, %2$s</item>
+        <item quantity="other">Bet kas gali kurti duetą su tavo video. Su %1$d iš tavo video galima kurti duetą, %2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="one">%d neleidžia kurti dueto</item>
+        <item quantity="few">%d neleidžia kurti dueto</item>
+        <item quantity="many">%d neleidžia kurti dueto</item>
+        <item quantity="other">%d neleidžia kurti dueto</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="one">Draugai gali kurti duetą su tavo video. Su %1$d iš tavo video galima kurti duetą, %2$s</item>
+        <item quantity="few">Draugai gali kurti duetą su tavo video. Su %1$d iš tavo video galima kurti duetą, %2$s</item>
+        <item quantity="many">Draugai gali kurti duetą su tavo video. Su %1$d iš tavo video galima kurti duetą, %2$s</item>
+        <item quantity="other">Draugai gali kurti duetą su tavo video. Su %1$d iš tavo video galima kurti duetą, %2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="one">%d neleidžia kurti dueto</item>
+        <item quantity="few">%d neleidžia kurti dueto</item>
+        <item quantity="many">%d neleidžia kurti dueto</item>
+        <item quantity="other">%d neleidžia kurti dueto</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="one">Peržiūrėk, kas gali kurti duetą su tavo video. Su %1$d iš tavo video galima kurti duetą, %2$s</item>
+        <item quantity="few">Peržiūrėk, kas gali kurti duetą su tavo video. Su %1$d iš tavo video galima kurti duetą, %2$s</item>
+        <item quantity="many">Peržiūrėk, kas gali kurti duetą su tavo video. Su %1$d iš tavo video galima kurti duetą, %2$s</item>
+        <item quantity="other">Peržiūrėk, kas gali kurti duetą su tavo video. Su %1$d iš tavo video galima kurti duetą, %2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="one">%d neleidžia sujungti</item>
+        <item quantity="few">%d neleidžia sujungti</item>
+        <item quantity="many">%d neleidžia sujungti</item>
+        <item quantity="other">%d neleidžia sujungti</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="one">Peržiūrėk, kas gali kurti sujungimą su tavo video. Su %1$d iš tavo video galima kurti sujungimą, %2$s</item>
+        <item quantity="few">Peržiūrėk, kas gali kurti sujungimą su tavo video. Su %1$d iš tavo video galima kurti sujungimą, %2$s</item>
+        <item quantity="many">Peržiūrėk, kas gali kurti sujungimą su tavo video. Su %1$d iš tavo video galima kurti sujungimą, %2$s</item>
+        <item quantity="other">Peržiūrėk, kas gali kurti sujungimą su tavo video. Su %1$d iš tavo video galima kurti sujungimą, %2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="one">%d neleidžia sujungti</item>
+        <item quantity="few">%d neleidžia sujungti</item>
+        <item quantity="many">%d neleidžia sujungti</item>
+        <item quantity="other">%d neleidžia sujungti</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="one">Bet kas gali kurti sujungimą su tavo video. Su %1$d iš tavo video galima kurti sujungimą, %2$s</item>
+        <item quantity="few">Bet kas gali kurti sujungimą su tavo video. Su %1$d iš tavo video galima kurti sujungimą, %2$s</item>
+        <item quantity="many">Bet kas gali kurti sujungimą su tavo video. Su %1$d iš tavo video galima kurti sujungimą, %2$s</item>
+        <item quantity="other">Bet kas gali kurti sujungimą su tavo video. Su %1$d iš tavo video galima kurti sujungimą, %2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="one">o %d neleidžia sujungti</item>
+        <item quantity="few">o %d neleidžia sujungti</item>
+        <item quantity="many">o %d neleidžia sujungti</item>
+        <item quantity="other">o %d neleidžia sujungti</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="one">Draugai gali kurti sujungimą su tavo video. Su %1$d iš tavo video galima kurti sujungimą, %2$s</item>
+        <item quantity="few">Draugai gali kurti sujungimą su tavo video. Su %1$d iš tavo video galima kurti sujungimą, %2$s</item>
+        <item quantity="many">Draugai gali kurti sujungimą su tavo video. Su %1$d iš tavo video galima kurti sujungimą, %2$s</item>
+        <item quantity="other">Draugai gali kurti sujungimą su tavo video. Su %1$d iš tavo video galima kurti sujungimą, %2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="one">%s video leidžia kurti duetą</item>
+        <item quantity="few">%s video leidžia kurti duetą</item>
+        <item quantity="many">%s video leidžia kurti duetą</item>
+        <item quantity="other">%s video leidžia kurti duetą</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="one">%s video neleidžia kurti dueto</item>
+        <item quantity="few">%s video neleidžia kurti dueto</item>
+        <item quantity="many">%s video neleidžia kurti dueto</item>
+        <item quantity="other">%s video neleidžia kurti dueto</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="one">%s video leidžia sujungti</item>
+        <item quantity="few">%s video leidžia sujungti</item>
+        <item quantity="many">%s video leidžia sujungti</item>
+        <item quantity="other">%s video leidžia sujungti</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="one">%s video neleidžia sujungti</item>
+        <item quantity="few">%s video neleidžia sujungti</item>
+        <item quantity="many">%s video neleidžia sujungti</item>
+        <item quantity="other">%s video neleidžia sujungti</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="one">Aktyvus (-i) prieš %d val.</item>
+        <item quantity="few">Aktyvus (-i) prieš %d val.</item>
+        <item quantity="many">Aktyvus (-i) prieš %d val.</item>
+        <item quantity="other">Aktyvus (-i) prieš %d val.</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="one">Aktyvus (-i) prieš %d min.</item>
+        <item quantity="few">Aktyvus (-i) prieš %d min.</item>
+        <item quantity="many">Aktyvus (-i) prieš %d min.</item>
+        <item quantity="other">Aktyvus (-i) prieš %d min.</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="one">%d dalis</item>
+        <item quantity="few">%d dalys</item>
+        <item quantity="many">%d dalių</item>
+        <item quantity="other">Dalių: %d</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="one">%1$s · %2$d naujas įrašas</item>
+        <item quantity="few">%1$s · %2$d nauji įrašai</item>
+        <item quantity="many">%1$s · %2$d naujų įrašų</item>
+        <item quantity="other">%1$s · %2$d nauji (-ų) įrašai (-ų)</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="one">Importuok %d garsą</item>
+        <item quantity="few">Importuok %d garsus</item>
+        <item quantity="many">Importuok %d garsų</item>
+        <item quantity="other">Importuok %d garsus (-ų)</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="one">%2$d TIESIOGINĖS transliacijos video | %1$d istorija</item>
+        <item quantity="few">%2$d TIESIOGINĖS transliacijos video | %1$d istorijos</item>
+        <item quantity="many">%2$d TIESIOGINĖS transliacijos video | %1$d istorijų</item>
+        <item quantity="other">%2$d TIESIOGINĖS transliacijos video | %1$d istorijų</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="one">%2$d TIESIOGINIS video | %1$d istorija</item>
+        <item quantity="few">%2$d TIESIOGINIAI video | %1$d istorija</item>
+        <item quantity="many">%2$d TIESIOGINIŲ video | %1$d istorija</item>
+        <item quantity="other">%2$d TIESIOGINIAI (-IŲ) video | %1$d istorija</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="one">%d TIESIOGINIS video | Istorija</item>
+        <item quantity="few">%d TIESIOGINIAI video | Istorija</item>
+        <item quantity="many">%d TIESIOGINIŲ video | Istorija</item>
+        <item quantity="other">%d TIESIOGINIŲ video | Istorija</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="one">%2$d TIESIOGINĖS transliacijos video | %1$d istorija</item>
+        <item quantity="few">%2$d TIESIOGINĖS transliacijos video | %1$d istorijos</item>
+        <item quantity="many">%2$d TIESIOGINĖS transliacijos video | %1$d istorijų</item>
+        <item quantity="other">%2$d TIESIOGINĖS transliacijos video | %1$d istorijų</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="one">%d istorija</item>
+        <item quantity="few">%d istorijos</item>
+        <item quantity="many">%d istorijų</item>
+        <item quantity="other">%d istorijų</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="one">Pakviestas %d draugas</item>
+        <item quantity="few">Pakviesti %d draugai</item>
+        <item quantity="many">Pakviesta %d draugų</item>
+        <item quantity="other">Pakviesta %d draugų</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="one">%s video</item>
+        <item quantity="few">%s video</item>
+        <item quantity="many">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="one">pridėtas %s video</item>
+        <item quantity="few">pridėti %s video</item>
+        <item quantity="many">pridėta %s video</item>
+        <item quantity="other">pridėta %s video</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="one">Paskelbtas %s video</item>
+        <item quantity="few">Paskelbti %s video</item>
+        <item quantity="many">Paskelbta %s video</item>
+        <item quantity="other">Paskelbta %s video</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="one">Pridėti video (%d)</item>
+        <item quantity="few">Pridėti video (%d)</item>
+        <item quantity="many">Pridėti video (%d)</item>
+        <item quantity="other">Pridėti video (%d)</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="one">%d m. amžiaus</item>
+        <item quantity="few">%d m. amžiaus</item>
+        <item quantity="many">%d m. amžiaus</item>
+        <item quantity="other">%d m. amžiaus</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="one">%d m. amžiaus</item>
+        <item quantity="few">%d m. amžiaus</item>
+        <item quantity="many">%d m. amžiaus</item>
+        <item quantity="other">%d m. amžiaus</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="one">Tau yra %d m.?\n\n Jei data nėra teisinga, gali negauti tokios TikTok patirties, kokios tikiesi. Datą pakeisti gali pavykti ne iš karto.</item>
+        <item quantity="few">Tau yra %d m.?\n\n Jei data nėra teisinga, gali negauti tokios TikTok patirties, kokios tikiesi. Datą pakeisti gali pavykti ne iš karto.</item>
+        <item quantity="many">Tau yra %d m.?\n\n Jei data nėra teisinga, gali negauti tokios TikTok patirties, kokios tikiesi. Datą pakeisti gali pavykti ne iš karto.</item>
+        <item quantity="other">Tau yra %d m.?\n\n Jei data nėra teisinga, gali negauti tokios TikTok patirties, kokios tikiesi. Datą pakeisti gali pavykti ne iš karto.</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="one">Ar tau %d m.?</item>
+        <item quantity="few">Ar tau %d m.?</item>
+        <item quantity="many">Ar tau %d m.?</item>
+        <item quantity="other">Ar tau %d m.?</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="one">Įvedei, kad tau %d m. Įvesk tikrąją savo gimimo datą.</item>
+        <item quantity="few">Įvedei, kad tau %d m. Įvesk tikrąją savo gimimo datą.</item>
+        <item quantity="many">Įvedei, kad tau %d m. Įvesk tikrąją savo gimimo datą.</item>
+        <item quantity="other">Įvedei, kad tau %d m. Įvesk tikrąją savo gimimo datą.</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="one">%d m. amžiaus</item>
+        <item quantity="few">%d m. amžiaus</item>
+        <item quantity="many">%d m. amžiaus</item>
+        <item quantity="other">%d m. amžiaus</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="one">%d garsas</item>
+        <item quantity="few">%d garsai</item>
+        <item quantity="many">%d garsų</item>
+        <item quantity="other">%d garsų</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="one">Sinchronizuojamas garsas...</item>
+        <item quantity="few">Sinchronizuojami garsai...</item>
+        <item quantity="many">Sinchronizuojama garsų...</item>
+        <item quantity="other">Sinchronizuojama garsai...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="one">%s bendrinimas</item>
+        <item quantity="few">%s bendrinimai</item>
+        <item quantity="many">%s bendrinimų</item>
+        <item quantity="other">%s bendrinimų</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="one">%s peržiūra</item>
+        <item quantity="few">%s peržiūros</item>
+        <item quantity="many">%s peržiūrų</item>
+        <item quantity="other">%s peržiūrų</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="one">Balso efektai gali sumažinti tikslumą</item>
+        <item quantity="few">Balso efektai gali sumažinti tikslumą</item>
+        <item quantity="many">Balso efektai gali sumažinti tikslumą</item>
+        <item quantity="other">Balso efektai gali sumažinti tikslumą</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="one">Įkelkite daugiausiai %d failą</item>
+        <item quantity="few">Įkelkite daugiausiai %d failus</item>
+        <item quantity="many">Įkelkite daugiausiai %d failų</item>
+        <item quantity="other">Įkelkite daugiausiai %d failus (-ų)</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="one">[num] vaizdo įrašas</item>
+        <item quantity="few">[num] vaizdo įrašai</item>
+        <item quantity="many">[num] vaizdo įrašų</item>
+        <item quantity="other">[num] vaizdo įrašai</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="one">Šios beta versijos galiojimo laikas baigiasi po %d d.</item>
+        <item quantity="few">Šios beta versijos galiojimo laikas baigiasi po %d d.</item>
+        <item quantity="many">Šios beta versijos galiojimo laikas baigiasi po %d d.</item>
+        <item quantity="other">Šios beta versijos galiojimo laikas baigiasi po %d d.</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="one">Galiojimas baigiasi po %d d.</item>
+        <item quantity="few">Galiojimas baigiasi po %d d.</item>
+        <item quantity="many">Galiojimas baigiasi po %d d.</item>
+        <item quantity="other">Galiojimas baigiasi po %d d.</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="one">Galiojimas baigiasi po %d d.</item>
+        <item quantity="few">Galiojimas baigiasi po %d d.</item>
+        <item quantity="many">Galiojimas baigiasi po %d d.</item>
+        <item quantity="other">Galiojimas baigiasi po %d d.</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="one">Galiojimas baigiasi po %d d.</item>
+        <item quantity="few">Galiojimas baigiasi po %d d.</item>
+        <item quantity="many">Galiojimas baigiasi po %d d.</item>
+        <item quantity="other">Galiojimas baigiasi po %d d.</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="one">Gali pridėti iki %d knygos</item>
+        <item quantity="few">Gali pridėti iki %d knygų</item>
+        <item quantity="many">Gali pridėti iki %d knygų</item>
+        <item quantity="other">Gali pridėti iki %d knygų</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="one">%s klipas</item>
+        <item quantity="few">%s klipai (-ų)</item>
+        <item quantity="many">%s klipai (-ų)</item>
+        <item quantity="other">%s klipai (-ų)</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="one">Žiūrėk dar %d</item>
+        <item quantity="few">Žiūrėk dar %d</item>
+        <item quantity="many">Žiūrėk dar %d</item>
+        <item quantity="other">Žiūrėk dar %d</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="one">Peržiūrėk %d atsakymą</item>
+        <item quantity="few">Peržiūrėk %d atsakymus</item>
+        <item quantity="many">Peržiūrėk %d atsakymų</item>
+        <item quantity="other">Peržiūrėk %d atsakymų</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="one">%d mėnuo</item>
+        <item quantity="few">%d mėnesiai</item>
+        <item quantity="many">%d mėnesių</item>
+        <item quantity="other">%d mėn.</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="one">%d metai</item>
+        <item quantity="few">%d metai</item>
+        <item quantity="many">%d metų</item>
+        <item quantity="other">%d m.</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="one">Užblokuoti paskyrą</item>
+        <item quantity="few">Užblokuoti paskyras</item>
+        <item quantity="many">Užblokuoti paskyras</item>
+        <item quantity="other">Užblokuoti paskyras</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="one">pasirinkta %d paskyra.</item>
+        <item quantity="few">pasirinktos %d paskyros.</item>
+        <item quantity="many">pasirinkta %d paskyrų.</item>
+        <item quantity="other">pasirinkta %d paskyrų.</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="one">Vienu metu gali pasirinkti iki %d paskyros.</item>
+        <item quantity="few">Vienu metu gali pasirinkti iki %d paskyrų.</item>
+        <item quantity="many">Vienu metu gali pasirinkti iki %d paskyrų.</item>
+        <item quantity="other">Vienu metu gali pasirinkti iki %d paskyrų.</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="one">Pasirinkai %d paskyrą, kurią nori blokuoti. Užblokuotos paskyros negalės matyti tavo profilio ar turinio TikTok.</item>
+        <item quantity="few">Pasirinkai %d paskyras, kurias nori blokuoti. Užblokuotos paskyros negalės matyti tavo profilio ar turinio TikTok.</item>
+        <item quantity="many">Pasirinkai %d paskyrų, kurias nori blokuoti. Užblokuotos paskyros negalės matyti tavo profilio ar turinio TikTok.</item>
+        <item quantity="other">Pasirinkai %d paskyrų, kurias nori blokuoti. Užblokuotos paskyros negalės matyti tavo profilio ar turinio TikTok.</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="one">Užblokuoti %d paskyrą?</item>
+        <item quantity="few">Užblokuoti %d paskyras?</item>
+        <item quantity="many">Užblokuoti %d paskyrų?</item>
+        <item quantity="other">Užblokuoti %d paskyrų?</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="one">Pašalinti komentarą</item>
+        <item quantity="few">Pašalinti komentarus</item>
+        <item quantity="many">Pašalinti komentarus</item>
+        <item quantity="other">Pašalinti komentarus</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="one">Pasirinkai %d komentarą.</item>
+        <item quantity="few">Pasirinkai %d komentarus.</item>
+        <item quantity="many">Pasirinkai %d komentarų.</item>
+        <item quantity="other">Pasirinkai %d komentarų.</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="one">Pašalinti %d komentarą?</item>
+        <item quantity="few">Pašalinti %d komentarus?</item>
+        <item quantity="many">Pašalinti %d komentarų?</item>
+        <item quantity="other">Pašalinti %d komentarų?</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="one">Komentaras pašalintas</item>
+        <item quantity="few">Komentarai pašalinti</item>
+        <item quantity="many">Komentarai pašalinti</item>
+        <item quantity="other">Komentarai pašalinti</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="one">pasirinktas %d komentaras.</item>
+        <item quantity="few">pasirinkti %d komentarai.</item>
+        <item quantity="many">pasirinkta %d komentarų.</item>
+        <item quantity="other">pasirinkta %d komentarų.</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="one">Vienu metu gali pasirinkti iki %d komentaro.</item>
+        <item quantity="few">Vienu metu gali pasirinkti iki %d komentarų.</item>
+        <item quantity="many">Vienu metu gali pasirinkti iki %d komentarų.</item>
+        <item quantity="other">Vienu metu gali pasirinkti iki %d komentarų.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="one">Pranešti apie komentarą</item>
+        <item quantity="few">Pranešti apie komentarus</item>
+        <item quantity="many">Pranešti apie komentarus</item>
+        <item quantity="other">Pranešti apie komentarus</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="one">Praneši apie %d komentarą. Peržiūrėsime šį komentarą dėl netinkamo turinio.</item>
+        <item quantity="few">Praneši apie %d komentarus. Peržiūrėsime šiuos komentarus dėl netinkamo turinio.</item>
+        <item quantity="many">Praneši apie %d komentarų. Peržiūrėsime šiuos komentarus dėl netinkamo turinio.</item>
+        <item quantity="other">Praneši apie %d komentarų. Peržiūrėsime šiuos komentarus dėl netinkamo turinio.</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="one">Pranešti apie %d komentarą?</item>
+        <item quantity="few">Pranešti apie %d komentarus?</item>
+        <item quantity="many">Pranešti apie %d komentarų?</item>
+        <item quantity="other">Pranešti apie %d komentarų?</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="one">Apie komentarą pranešta</item>
+        <item quantity="few">Apie komentarus pranešta</item>
+        <item quantity="many">Apie komentarus pranešta</item>
+        <item quantity="other">Apie komentarus pranešta</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="one">%s komentaras</item>
+        <item quantity="few">%s komentarai</item>
+        <item quantity="many">%s komentarų</item>
+        <item quantity="other">%s komentarai (-ų)</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="one">%s video</item>
+        <item quantity="few">%s video</item>
+        <item quantity="many">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="one">Priminimą nustatė %s naudotojas</item>
+        <item quantity="few">Priminimą nustatė %s naudotojai</item>
+        <item quantity="many">Priminimą nustatė %s naudotojų</item>
+        <item quantity="other">Priminimą nustatė %s naudotojai (-ų)</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="one">%s efektas</item>
+        <item quantity="few">%s efektai</item>
+        <item quantity="many">%s efektų</item>
+        <item quantity="other">%s efektų</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="one">video peržiūra</item>
+        <item quantity="few">video peržiūros</item>
+        <item quantity="many">video peržiūrų</item>
+        <item quantity="other">video peržiūrų</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="one">%d %%</item>
+        <item quantity="few">%d %%</item>
+        <item quantity="many">%d %%</item>
+        <item quantity="other">%d %%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="one">stebėtojas</item>
+        <item quantity="few">stebėtojai</item>
+        <item quantity="many">stebėtojų</item>
+        <item quantity="other">stebėtojų</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="one">%d %%</item>
+        <item quantity="few">%d %%</item>
+        <item quantity="many">%d %%</item>
+        <item quantity="other">%d %%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="one">patiktuką</item>
+        <item quantity="few">patiktukus</item>
+        <item quantity="many">patiktukų</item>
+        <item quantity="other">patiktukus (-ų)</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="one">%d %%</item>
+        <item quantity="few">%d %%</item>
+        <item quantity="many">%d %%</item>
+        <item quantity="other">%d %%</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="one">Priminimą nustatė %s naudotojas</item>
+        <item quantity="few">Priminimus nustatė %s naudotojai</item>
+        <item quantity="many">Priminimus nustatė %s naudotojų</item>
+        <item quantity="other">Priminimus nustatė %s naudotojai (-ų)</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="one">Pašalinti juodraštį?</item>
+        <item quantity="few">Pašalinti juodraščius?</item>
+        <item quantity="many">Pašalinti juodraščius?</item>
+        <item quantity="other">Pašalinti juodraščius?</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="one">%s įrašas</item>
+        <item quantity="few">%s įrašai</item>
+        <item quantity="many">%s įrašų</item>
+        <item quantity="other">%s įrašų</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="one">Neteisingas slaptasis kodas. Liko %d bandymas.</item>
+        <item quantity="few">Neteisingas slaptasis kodas. Liko %d bandymai.</item>
+        <item quantity="many">Neteisingas slaptasis kodas. Liko %d bandymų.</item>
+        <item quantity="other">Neteisingas slaptasis kodas. Liko %d bandymai (-ų).</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="one">Per daug bandymų. Bandyk dar kartą po %d minutės.</item>
+        <item quantity="few">Per daug bandymų. Bandyk dar kartą po %d minučių.</item>
+        <item quantity="many">Per daug bandymų. Bandyk dar kartą po %d minučių.</item>
+        <item quantity="other">Per daug bandymų. Bandyk dar kartą po %d minučių.</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="one">%d melodija</item>
+        <item quantity="few">%d melodijos</item>
+        <item quantity="many">%d melodijų</item>
+        <item quantity="other">%d melodijos (-ų)</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="one">%d muzikos kūrinys</item>
+        <item quantity="few">%d muzikos kūriniai</item>
+        <item quantity="many">%d muzikos kūrinių</item>
+        <item quantity="other">%d muzikos kūrinių</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="one">%d kūrinys</item>
+        <item quantity="few">%d kūriniai</item>
+        <item quantity="many">%d kūrinių</item>
+        <item quantity="other">%d kūriniai (-ių)</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="one">%d daina</item>
+        <item quantity="few">%d dainos</item>
+        <item quantity="many">%d dainų</item>
+        <item quantity="other">%d dainos (-ų)</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="one">%d garsas</item>
+        <item quantity="few">%d garsai</item>
+        <item quantity="many">%d garsų</item>
+        <item quantity="other">%d garsų</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="one">%d melodija</item>
+        <item quantity="few">%d melodijos</item>
+        <item quantity="many">%d melodijų</item>
+        <item quantity="other">%d melodijos (-ų)</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="one">Siųsti (%d)</item>
+        <item quantity="few">Siųsti (%d)</item>
+        <item quantity="many">Siųsti (%d)</item>
+        <item quantity="other">Siųsti (%d)</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="one">%1$d stebimas · %2$d stebėtojas</item>
+        <item quantity="few">%1$d stebimi · %2$d stebėtojai</item>
+        <item quantity="many">%1$d stebimų · %2$d stebėtojų</item>
+        <item quantity="other">%1$d stebimų · %2$d stebėtojų</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="one">@ naujas paminėjimas</item>
+        <item quantity="few">@ nauji paminėjimai</item>
+        <item quantity="many">@ nauji paminėjimai</item>
+        <item quantity="other">@ nauji paminėjimai</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="one">atsiuntė naujų žinučių.</item>
+        <item quantity="few">atsiuntė naujų žinučių.</item>
+        <item quantity="many">atsiuntė naujų žinučių.</item>
+        <item quantity="other">atsiuntė naujų žinučių.</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="one">atsiuntė tau naujų žinučių.</item>
+        <item quantity="few">atsiuntė tau naujų žinučių.</item>
+        <item quantity="many">atsiuntė tau naujų žinučių.</item>
+        <item quantity="other">atsiuntė tau naujų žinučių.</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="one">Gali pasirinkti iki %d žmogaus</item>
+        <item quantity="few">Gali pasirinkti iki %d žmonių</item>
+        <item quantity="many">Gali pasirinkti iki %d žmonių</item>
+        <item quantity="other">Gali pasirinkti iki %d žmonių</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="one">Atsisakyti juodraščio?</item>
+        <item quantity="few">Atsisakyti juodraščių?</item>
+        <item quantity="many">Atsisakyti juodraščių?</item>
+        <item quantity="other">Atsisakyti juodraščių?</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="one">Pašalinti juodraštį?</item>
+        <item quantity="few">Pašalinti juodraščius?</item>
+        <item quantity="many">Pašalinti juodraščius?</item>
+        <item quantity="other">Pašalinti juodraščius?</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="one">Juodraščiai {#} video</item>
+        <item quantity="few">Juodraščiai {#} video</item>
+        <item quantity="many">Juodraščiai {#} video</item>
+        <item quantity="other">Juodraščiai {#} video</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="one">%1$s ir dar %2$s bus pranešta, kai šis video bus paskelbtas.</item>
+        <item quantity="few">%1$s ir dar %2$s bus pranešta, kai šis video bus paskelbtas.</item>
+        <item quantity="many">%1$s ir dar %2$s bus pranešta, kai šis video bus paskelbtas.</item>
+        <item quantity="other">%1$s ir dar %2$s bus pranešta, kai šis video bus paskelbtas.</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="one">Pasirink bent %d prekę</item>
+        <item quantity="few">Pasirink bent %d prekes</item>
+        <item quantity="many">Pasirink bent %d prekių</item>
+        <item quantity="other">Pasirink bent %d prekių</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="one">Tolesnė peržiūra po %d d.</item>
+        <item quantity="few">Tolesnė peržiūra po %d d.</item>
+        <item quantity="many">Tolesnė peržiūra po %d d.</item>
+        <item quantity="other">Tolesnė peržiūra po %d d.</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="one">Baigiasi po %s dienos</item>
+        <item quantity="few">Baigiasi po %s dienų</item>
+        <item quantity="many">Baigiasi po %s dienų</item>
+        <item quantity="other">Baigiasi po %s dienų</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="one">%1$s prekė, iš viso %2$s</item>
+        <item quantity="few">%1$s prekės, iš viso %2$s</item>
+        <item quantity="many">%1$s prekių, iš viso %2$s</item>
+        <item quantity="other">%1$s prekių, iš viso %2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="one">Iš viso (%s prekė)</item>
+        <item quantity="few">Iš viso (%s prekės)</item>
+        <item quantity="many">Iš viso (%s prekių)</item>
+        <item quantity="other">Iš viso (%s prekių)</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="one">Gali redaguoti tik %d kartą</item>
+        <item quantity="few">Gali redaguoti tik iki %d kartų</item>
+        <item quantity="many">Gali redaguoti tik iki %d kartų</item>
+        <item quantity="other">Gali redaguoti tik iki %d kartų</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="one">Peržiūrėk efektą per %d sek.</item>
+        <item quantity="few">Peržiūrėk efektą per %d sek.</item>
+        <item quantity="many">Peržiūrėk efektą per %d sek.</item>
+        <item quantity="other">Peržiūrėk efektą per %d sek.</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="one">Pažymėtas</item>
+        <item quantity="few">Pažymėti</item>
+        <item quantity="many">Pažymėtų</item>
+        <item quantity="other">Pažymėtų</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="one">Gali pažinoti šį grupės narį.</item>
+        <item quantity="few">Gali pažinoti šiuos grupės narius.</item>
+        <item quantity="many">Gali pažinoti šiuos grupės narius.</item>
+        <item quantity="other">Gali pažinoti šiuos grupės narius.</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="one">%s video</item>
+        <item quantity="few">%s video</item>
+        <item quantity="many">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="one">pridėtas %s video</item>
+        <item quantity="few">pridėti %s video</item>
+        <item quantity="many">pridėta %s video</item>
+        <item quantity="other">pridėta %s video</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="one">Pašalinti %1$d video iš %2$s</item>
+        <item quantity="few">Pašalinti %1$d video iš %2$s</item>
+        <item quantity="many">Pašalinti %1$d video iš %2$s</item>
+        <item quantity="other">Pašalinti %1$d video iš %2$s</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="one">%1$d video perkeltas į %2$s</item>
+        <item quantity="few">%1$d video perkelti į %2$s</item>
+        <item quantity="many">%1$d video perkelta į %2$s</item>
+        <item quantity="other">%1$d video perkelti (-a) į %2$s</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="one">Pašalintas %d video</item>
+        <item quantity="few">Pašalinti %d video</item>
+        <item quantity="many">Pašalinta %d video</item>
+        <item quantity="other">Pašalinti (-a) %d video</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="one">%d nauja siūloma paskyra</item>
+        <item quantity="few">%d naujos siūlomos paskyros</item>
+        <item quantity="many">%d naujų siūlomų paskyrų</item>
+        <item quantity="other">Naujų siūlomų paskyrų: %d</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="one">Stebimas (-a) %s</item>
+        <item quantity="few">Stebimas (-a) %s + dar %d</item>
+        <item quantity="many">Stebimas (-a) %s + dar %d</item>
+        <item quantity="other">Stebimas (-a) %s + dar %d</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="one">Stebi %s</item>
+        <item quantity="few">Stebi %s + dar %d</item>
+        <item quantity="many">Stebi %s + dar %d</item>
+        <item quantity="other">Stebi %s + dar %d</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="one">Stebėjo {0}, {1} ir dar {2}</item>
+        <item quantity="few">Stebėjo {0}, {1} ir dar {2} kiti</item>
+        <item quantity="many">Stebėjo {0}, {1} ir dar {2} kitų</item>
+        <item quantity="other">Stebėjo {0}, {1} ir dar {2} kitų</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="one">Stebėjo {0} ir {2}</item>
+        <item quantity="few">Stebėjo {0} ir dar {2} kiti</item>
+        <item quantity="many">Stebėjo {0} ir dar {2} kitų</item>
+        <item quantity="other">Stebėjo {0} ir dar {2} kitų</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="one">Stebi {0}, {1} ir dar {2}</item>
+        <item quantity="few">Stebi {0}, {1} ir dar {2} kiti</item>
+        <item quantity="many">Stebi {0}, {1} ir dar {2} kitų</item>
+        <item quantity="other">Stebi {0}, {1} ir dar {2} kitų</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="one">Stebi {0} ir {2}</item>
+        <item quantity="few">Stebi {0} ir dar {2} kiti</item>
+        <item quantity="many">Stebi {0} ir dar {2} kitų</item>
+        <item quantity="other">Stebi {0} ir dar {2} kitų</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="one">Draugauja su {0}, {1} ir {2}</item>
+        <item quantity="few">Draugauja su {0}, {1} ir dar {2} kitais</item>
+        <item quantity="many">Draugauja su {0}, {1} ir dar {2} kitų</item>
+        <item quantity="other">Draugauja su {0}, {1} ir dar {2} kitų</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="one">Draugauja su {0} ir {2}</item>
+        <item quantity="few">Draugauja su {0} ir dar {2} kitais</item>
+        <item quantity="many">Draugauja su {0} ir dar {2} kitų</item>
+        <item quantity="other">Draugauja su {0} ir dar {2} kitų</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="one">{2} bendras draugas</item>
+        <item quantity="few">{2} bendri draugai</item>
+        <item quantity="many">{2} bendrų draugų</item>
+        <item quantity="other">{2} bendrų draugų</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="one">Draugauja su %s</item>
+        <item quantity="few">Draugauja su %s + dar %d</item>
+        <item quantity="many">Draugauja su %s + dar %d</item>
+        <item quantity="other">Draugauja su %s + dar %d</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="one">%d naujas video iš draugų</item>
+        <item quantity="few">%d nauji video iš draugų</item>
+        <item quantity="many">%d naujų video iš draugų</item>
+        <item quantity="other">%d naujų video iš draugų</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="one">Dabar aktyvus %d narys</item>
+        <item quantity="few">Dabar aktyvūs %d nariai</item>
+        <item quantity="many">Dabar aktyvūs %d narių</item>
+        <item quantity="other">Dabar aktyvūs %d narių</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="one">%1$d narys buvo aktyvus prieš %2$d min.</item>
+        <item quantity="few">%1$d nariai buvo aktyvūs prieš %2$d min.</item>
+        <item quantity="many">%1$d narių buvo aktyvūs prieš %2$d min.</item>
+        <item quantity="other">%1$d narių buvo aktyvūs prieš %2$d min.</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="one">Šiandien buvo aktyvus %d narys</item>
+        <item quantity="few">Šiandien buvo aktyvūs %d nariai</item>
+        <item quantity="many">Šiandien buvo aktyvūs %d narių</item>
+        <item quantity="other">Šiandien buvo aktyvūs %d narių</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="one">%d narys</item>
+        <item quantity="few">%d nariai</item>
+        <item quantity="many">%d narių</item>
+        <item quantity="other">%d nariai (-ių)</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="one">Nauja užklausa</item>
+        <item quantity="few">Naujos užklausos</item>
+        <item quantity="many">Naujos užklausos</item>
+        <item quantity="other">Naujos užklausos</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="one">%s narys</item>
+        <item quantity="few">%s nariai</item>
+        <item quantity="many">%s narių</item>
+        <item quantity="other">%s narių</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="one">Rodyti dar %d narį</item>
+        <item quantity="few">Rodyti dar %d narius</item>
+        <item quantity="many">Rodyti dar %d narių</item>
+        <item quantity="other">Rodyti dar %d narius (-ių)</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="one">%s peržiūra</item>
+        <item quantity="few">%s peržiūros</item>
+        <item quantity="many">%s peržiūrų</item>
+        <item quantity="other">%s peržiūrų</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="one">Stebėtojas: %s</item>
+        <item quantity="few">Stebėtojai: %s</item>
+        <item quantity="many">Stebėtojų: %s</item>
+        <item quantity="other">Stebėtojai: %s</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="one">Video: %s</item>
+        <item quantity="few">Video: %s</item>
+        <item quantity="many">Video: %s</item>
+        <item quantity="other">Video: %s</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="one">Nusiųsta %s ir dar %d</item>
+        <item quantity="few">Nusiųsta %s ir dar %d</item>
+        <item quantity="many">Nusiųsta %s ir dar %d</item>
+        <item quantity="other">Nusiųsta %s ir dar %d</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="one">%d istorijos įkelti nepavyko. Istorija išsaugota tavo juodraščiuose.</item>
+        <item quantity="few">%d istorijų įkelti nepavyko. Istorijos išsaugotos tavo juodraščiuose.</item>
+        <item quantity="many">%d istorijų įkelti nepavyko. Istorijos išsaugotos tavo juodraščiuose.</item>
+        <item quantity="other">%d istorijų įkelti nepavyko. Istorijos išsaugotos tavo juodraščiuose.</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="one">Nuotraukos įkelti nepavyko. Ji išsaugota tavo juodraščiuose.</item>
+        <item quantity="few">Nuotraukų įkelti nepavyko. Jos išsaugotos tavo juodraščiuose.</item>
+        <item quantity="many">Nuotraukų įkelti nepavyko. Jos išsaugotos tavo juodraščiuose.</item>
+        <item quantity="other">Nuotraukų įkelti nepavyko. Jos išsaugotos tavo juodraščiuose.</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="one">%d lipdukas</item>
+        <item quantity="few">%d lipdukai</item>
+        <item quantity="many">%d lipdukų</item>
+        <item quantity="other">%d lipdukai (-ų)</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="one">paminėjo tave nuotraukoje.</item>
+        <item quantity="few">paminėjo tave nuotraukose.</item>
+        <item quantity="many">paminėjo tave nuotraukose.</item>
+        <item quantity="other">paminėjo tave nuotraukose.</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="one">%s naujas įrašas</item>
+        <item quantity="few">%s nauji įrašai</item>
+        <item quantity="many">%s naujų įrašų</item>
+        <item quantity="other">Naujų įrašų: %s</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="one">Veikla</item>
+        <item quantity="few">Veiklos</item>
+        <item quantity="many">Veiklų</item>
+        <item quantity="other">Veiklų</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="one">Stebėk %1$s, %2$s ir dar %d, kuriuos galbūt pažįsti, ir žiūrėk jų video.</item>
+        <item quantity="few">Stebėk %1$s, %2$s ir dar %d, kuriuos galbūt pažįsti, ir žiūrėk jų video.</item>
+        <item quantity="many">Stebėk %1$s, %2$s ir dar %d, kuriuos galbūt pažįsti, ir žiūrėk jų video.</item>
+        <item quantity="other">Stebėk %1$s, %2$s ir dar %d, kuriuos galbūt pažįsti, ir žiūrėk jų video.</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="one">dar %d</item>
+        <item quantity="few">dar %d</item>
+        <item quantity="many">dar %d</item>
+        <item quantity="other">dar %d</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="one">Stebėk %1$s, %2$s ir dar %3$d, kuriuos galbūt pažįsti, ir žiūrėk jų video.</item>
+        <item quantity="few">Stebėk %1$s, %2$s ir dar %3$d, kuriuos galbūt pažįsti, ir žiūrėk jų video.</item>
+        <item quantity="many">Stebėk %1$s, %2$s ir dar %3$d, kuriuos galbūt pažįsti, ir žiūrėk jų video.</item>
+        <item quantity="other">Stebėk %1$s, %2$s ir dar %3$d, kuriuos galbūt pažįsti, ir žiūrėk jų video.</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="one">Žinutė</item>
+        <item quantity="few">Žinutės</item>
+        <item quantity="many">Žinutės</item>
+        <item quantity="other">Žinutės</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="one">Nauja veikla</item>
+        <item quantity="few">Naujos veiklos</item>
+        <item quantity="many">Naujų veiklų</item>
+        <item quantity="other">Naujų veiklų</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="one">%s narys</item>
+        <item quantity="few">%s nariai</item>
+        <item quantity="many">%s narių</item>
+        <item quantity="other">%s narių</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="one">%s įrašas</item>
+        <item quantity="few">%s įrašai</item>
+        <item quantity="many">%s įrašų</item>
+        <item quantity="other">Įrašų: %s</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="one">%d raktažodis</item>
+        <item quantity="few">%d raktažodžiai</item>
+        <item quantity="many">%d raktažodžių</item>
+        <item quantity="other">%d raktažodžiai (-ių)</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="one">%d TIESIOGINIS video</item>
+        <item quantity="few">%d TIESIOGINIAI video</item>
+        <item quantity="many">%d TIESIOGINIŲ video</item>
+        <item quantity="other">%d TIESIOGINIAI (-IŲ) video</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="one">Baigiasi po %s dienos</item>
+        <item quantity="few">Baigiasi po %s dienų</item>
+        <item quantity="many">Baigiasi po %s dienų</item>
+        <item quantity="other">Baigiasi po %s dienų</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="one">Gali pasirinkti tik iki %1$d medijos failo</item>
+        <item quantity="few">Gali pasirinkti tik iki %1$d medijos failų</item>
+        <item quantity="many">Gali pasirinkti tik iki %1$d medijos failų</item>
+        <item quantity="other">Gali pasirinkti tik iki %1$d medijos failų</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="one">%d užklausa</item>
+        <item quantity="few">%d užklausos</item>
+        <item quantity="many">%d užklausų</item>
+        <item quantity="other">%d užklausų</item>
+    </plurals>
+    <plurals name="j0">
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+        <item quantity="other">%d naujų pranešimų</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="one">Nežymėti dainos kaip naujos?</item>
+        <item quantity="few">Nežymėti dainų kaip naujų?</item>
+        <item quantity="many">Nežymėti dainų kaip naujų?</item>
+        <item quantity="other">Nežymėti dainų kaip naujų?</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="one">%d daina nebežymima kaip nauja</item>
+        <item quantity="few">%d dainos nebežymimos kaip naujos</item>
+        <item quantity="many">%d dainų nebežymimos kaip naujos</item>
+        <item quantity="other">%d dainų nebežymimos kaip naujos</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="one">%d leidimas</item>
+        <item quantity="few">%d leidimai</item>
+        <item quantity="many">%d leidimų</item>
+        <item quantity="other">Leidimų: %d</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="one">%d atlikėjas</item>
+        <item quantity="few">%d atlikėjai</item>
+        <item quantity="many">%d atlikėjų</item>
+        <item quantity="other">%d atlikėjų</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="one">%d bendras draugas</item>
+        <item quantity="few">%d bendri draugai</item>
+        <item quantity="many">%d bendrų draugų</item>
+        <item quantity="other">%d bendrų draugų</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="one">%d bendras ryšys</item>
+        <item quantity="few">%d bendri ryšiai</item>
+        <item quantity="many">%d bendrų ryšių</item>
+        <item quantity="other">%d bendrų ryšių</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="one">Dabar gali įkelti iki %d min. trukmės video!</item>
+        <item quantity="few">Dabar gali įkelti iki %d min. trukmės video!</item>
+        <item quantity="many">Dabar gali įkelti iki %d min. trukmės video!</item>
+        <item quantity="other">Dabar gali įkelti iki %d min. trukmės video!</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="one">Pristatome %d minutės video</item>
+        <item quantity="few">Pristatome %d minučių video</item>
+        <item quantity="many">Pristatome %d minučių video</item>
+        <item quantity="other">Pristatome %d minučių video</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="one">%d bendras draugas</item>
+        <item quantity="few">%d bendri draugai</item>
+        <item quantity="many">%d bendrų draugų</item>
+        <item quantity="other">%d bendrų draugų</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="one">%d komentaras</item>
+        <item quantity="few">%d komentarai</item>
+        <item quantity="many">%d komentarų</item>
+        <item quantity="other">%d komentarų</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="one">Peržiūrėti %d komentarą</item>
+        <item quantity="few">Peržiūrėti %d komentarus</item>
+        <item quantity="many">Peržiūrėti visus %d komentarų</item>
+        <item quantity="other">Peržiūrėti visus %d komentarų</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="one">{nickname} ir dar {number_1}</item>
+        <item quantity="few">{nickname} ir {number_1} kiti</item>
+        <item quantity="many">{nickname} ir {number_1} kitų</item>
+        <item quantity="other">{nickname} ir {number_1} kitų</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="one">{number} draugas paskelbė šiandienos Now</item>
+        <item quantity="few">{number} draugai paskelbė šiandienos Now</item>
+        <item quantity="many">{number} draugų paskelbė šiandienos Now</item>
+        <item quantity="other">{number} draugų paskelbė šiandienos Now</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="one">%1$s ir %2$d paskelbė savo Now</item>
+        <item quantity="few">%1$s ir dar %2$d kiti (-ų) paskelbė savo Now</item>
+        <item quantity="many">%1$s ir dar %2$d kiti (-ų) paskelbė savo Now</item>
+        <item quantity="other">%1$s ir dar %2$d kiti (-ų) paskelbė savo Now</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="one">{nickname} ir dar {number_1}</item>
+        <item quantity="few">{nickname} ir {number_1} kiti</item>
+        <item quantity="many">{nickname} ir {number_1} kitų</item>
+        <item quantity="other">{nickname} ir {number_1} kitų</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="one">Prisijunk prie {number} draugo TikTok Now ir bendrink atsitiktines akimirkas</item>
+        <item quantity="few">Prisijunk prie {number} draugų TikTok Now ir bendrink atsitiktines akimirkas</item>
+        <item quantity="many">Prisijunk prie {number} draugų TikTok Now ir bendrink atsitiktines akimirkas</item>
+        <item quantity="other">Prisijunk prie {number} draugų TikTok Now ir bendrink atsitiktines akimirkas</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="one">Savo Now paskelbk per {number} min.</item>
+        <item quantity="few">Savo Now paskelbk per {number} min.</item>
+        <item quantity="many">Savo Now paskelbk per {number} min.</item>
+        <item quantity="other">Savo Now paskelbk per {number} min.</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="one">Iki Now paskelbimo liko %d minutė.</item>
+        <item quantity="few">Iki Now paskelbimo liko %d minutės.</item>
+        <item quantity="many">Iki Now paskelbimo liko %d minučių.</item>
+        <item quantity="other">Iki Now paskelbimo liko %d minučių.</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="one">%d bendras draugas</item>
+        <item quantity="few">Bendrų draugų: %d</item>
+        <item quantity="many">Bendrų draugų: %d</item>
+        <item quantity="other">Bendrų draugų: %d</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="one">%d patiktukas</item>
+        <item quantity="few">%d patiktukai</item>
+        <item quantity="many">%d patiktukų</item>
+        <item quantity="other">%d patiktukų</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="one">{1}, {2}, {3} ir dar {number} ką tik paskelbė Now.</item>
+        <item quantity="few">{1}, {2}, {3} ir dar {number} kiti ką tik paskelbė Now.</item>
+        <item quantity="many">{1}, {2}, {3} ir dar {number} kitų ką tik paskelbė Now.</item>
+        <item quantity="other">{1}, {2}, {3} ir dar {number} kitų ką tik paskelbė Now.</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="one">%d reakcija</item>
+        <item quantity="few">%d reakcijos</item>
+        <item quantity="many">%d reakcijų</item>
+        <item quantity="other">%d reakcijos (-ų)</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="one">%d peržiūra</item>
+        <item quantity="few">%d peržiūros</item>
+        <item quantity="many">%d peržiūrų</item>
+        <item quantity="other">Peržiūrų: %d</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="one">%d peržiūra</item>
+        <item quantity="few">%d peržiūros</item>
+        <item quantity="many">%d peržiūrų</item>
+        <item quantity="other">Peržiūrų: %d</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="one">%1$s ir dar %2$s</item>
+        <item quantity="few">%1$s ir dar %2$s kiti</item>
+        <item quantity="many">%1$s ir dar %2$s kitų</item>
+        <item quantity="other">%1$s ir dar %2$s kitų</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="one">Tavo įrašas, sinchronizuotas iš Lemon8, dar yra be garso. Pridėk prie įrašo garsą, kad žiūrovams būtų lengviau įsitraukti.</item>
+        <item quantity="few">Tavo įrašai, sinchronizuoti iš Lemon8, dar yra be garso. Pridėk prie įrašų garsą, kad žiūrovams būtų lengviau įsitraukti.</item>
+        <item quantity="many">Tavo įrašai, sinchronizuoti iš Lemon8, dar yra be garso. Pridėk prie įrašų garsą, kad žiūrovams būtų lengviau įsitraukti.</item>
+        <item quantity="other">Tavo įrašai, sinchronizuoti iš Lemon8, dar yra be garso. Pridėk prie įrašų garsą, kad žiūrovams būtų lengviau įsitraukti.</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="one">Pridėk garsą ir patobulink savo įrašą</item>
+        <item quantity="few">Pridėk garsą ir patobulink savo įrašus</item>
+        <item quantity="many">Pridėk garsą ir patobulink savo įrašus</item>
+        <item quantity="other">Pridėk garsą ir patobulink savo įrašus</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="one">pamėgo tavo nuotrauką.</item>
+        <item quantity="few">pamėgo tavo nuotraukas.</item>
+        <item quantity="many">pamėgo tavo nuotraukas.</item>
+        <item quantity="other">pamėgo tavo nuotraukas.</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="one">balsavo už tavo nuotrauką.</item>
+        <item quantity="few">balsavo už tavo nuotraukas.</item>
+        <item quantity="many">balsavo už tavo nuotraukas.</item>
+        <item quantity="other">balsavo už tavo nuotraukas.</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="one">%d epizodas</item>
+        <item quantity="few">%d epizodai</item>
+        <item quantity="many">%d epizodų</item>
+        <item quantity="other">%d epizodų</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="one">%d dalis</item>
+        <item quantity="few">%d dalys</item>
+        <item quantity="many">%d dalių</item>
+        <item quantity="other">Dalių: %d</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="one">Gali išsiųsti dar %d kartą</item>
+        <item quantity="few">Gali išsiųsti dar %d kartus</item>
+        <item quantity="many">Gali išsiųsti dar %d kartų</item>
+        <item quantity="other">Gali išsiųsti dar %d kartų</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="one">%d žiūrovas paprašė</item>
+        <item quantity="few">%d žiūrovai paprašė</item>
+        <item quantity="many">%d žiūrovų paprašė</item>
+        <item quantity="other">%d žiūrovų paprašė</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="one">Prieiga bus atkurta per %s dieną</item>
+        <item quantity="few">Prieiga bus atkurta per %s dienas</item>
+        <item quantity="many">Prieiga bus atkurta per %s dienų</item>
+        <item quantity="other">Prieiga bus atkurta per %s dienų</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="one">%s Moneta nuo 1 vietos populiariausio žiūrovo</item>
+        <item quantity="few">%s Monetos nuo 1 vietos populiariausio žiūrovo</item>
+        <item quantity="many">%s Monetų nuo 1 vietos populiariausio žiūrovo</item>
+        <item quantity="other">%s Monetų nuo 1 vietos populiariausio žiūrovo</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="one">%s Moneta nuo 2 vietos populiariausio žiūrovo</item>
+        <item quantity="few">%s Monetos nuo 2 vietos populiariausio žiūrovo</item>
+        <item quantity="many">%s Monetų nuo 2 vietos populiariausio žiūrovo</item>
+        <item quantity="other">%s Monetų nuo 2 vietos populiariausio žiūrovo</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="one">%s stebėtojas</item>
+        <item quantity="few">%s stebėtojai</item>
+        <item quantity="many">%s stebėtojų</item>
+        <item quantity="other">%s stebėtojų</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="one">Pirk %s galimą prekę</item>
+        <item quantity="few">Pirk {number} galimas prekes</item>
+        <item quantity="many">Pirk {number} galimų prekių</item>
+        <item quantity="other">Pirk {number} galimų prekių</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="one">Pirk %s galimą prekę</item>
+        <item quantity="few">Pirk {number} galimas prekes</item>
+        <item quantity="many">Pirk {number} galimų prekių</item>
+        <item quantity="other">Pirk {number} galimų prekių</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="one">TIESIOGINIŲ transliacijų kūrėjui įteikta %s Moneta</item>
+        <item quantity="few">TIESIOGINIŲ transliacijų kūrėjui įteiktos %s Monetos</item>
+        <item quantity="many">TIESIOGINIŲ transliacijų kūrėjui įteikta %s Monetų</item>
+        <item quantity="other">TIESIOGINIŲ transliacijų kūrėjui įteikta %s Monetų</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="one">%s patiktukas</item>
+        <item quantity="few">%s patiktukai</item>
+        <item quantity="many">%s patiktukų</item>
+        <item quantity="other">%s patiktukų</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="one">%s žiūrovas</item>
+        <item quantity="few">%s žiūrovai</item>
+        <item quantity="many">%s žiūrovų</item>
+        <item quantity="other">%s žiūrovų</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="one">%s bendrinimas. Bendrink video</item>
+        <item quantity="few">%s bendrinimai. Bendrink video</item>
+        <item quantity="many">%s bendrinimų. Bendrink video</item>
+        <item quantity="other">%s bendrinimų. Bendrink video</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="one">%1$s balsavo už %2$s</item>
+        <item quantity="few">%1$s balsavo už %2$s</item>
+        <item quantity="many">%1$s balsavo už %2$s</item>
+        <item quantity="other">%1$s balsavo už %2$s</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="one">%1$s balsavo, kad %2$s, %3$s balsavo, kad %4$s</item>
+        <item quantity="few">%1$s balsavo, kad %2$s, %3$s balsavo, kad %4$s</item>
+        <item quantity="many">%1$s balsavo, kad %2$s, %3$s balsavo, kad %4$s</item>
+        <item quantity="other">%1$s balsavo, kad %2$s, %3$s balsavo, kad %4$s</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="one">Po %d minutės</item>
+        <item quantity="few">Po %d minučių</item>
+        <item quantity="many">Po %d minučių</item>
+        <item quantity="other">Po %d minučių</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="one">%d patirties taškas lygiui pakelti</item>
+        <item quantity="few">%d patirties taškai lygiui pakelti</item>
+        <item quantity="many">%d patirties taškų lygiui pakelti</item>
+        <item quantity="other">%d patirties taškų lygiui pakelti</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="one">Tavo atlygiai užmigs po %d d.</item>
+        <item quantity="few">Tavo atlygiai užmigs po %d d.</item>
+        <item quantity="many">Tavo atlygiai užmigs po %d d.</item>
+        <item quantity="other">Tavo atlygiai užmigs po %d d.</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="one">Baigti TIESIOGINĘ transliaciją? Šiuo metu žiūri %s žiūrovas.</item>
+        <item quantity="few">Baigti TIESIOGINĘ transliaciją? Šiuo metu žiūri %s žiūrovai.</item>
+        <item quantity="many">Baigti TIESIOGINĘ transliaciją? Šiuo metu žiūri %s žiūrovų.</item>
+        <item quantity="other">Baigti TIESIOGINĘ transliaciją? Šiuo metu žiūri %s žiūrovų.</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="one">Baigti TIESIOGINĘ transliaciją? Šiuo metu žiūri %s žiūrovas.</item>
+        <item quantity="few">Baigti TIESIOGINĘ transliaciją? Šiuo metu žiūri %s žiūrovai.</item>
+        <item quantity="many">Baigti TIESIOGINĘ transliaciją? Šiuo metu žiūri %s žiūrovų.</item>
+        <item quantity="other">Baigti TIESIOGINĘ transliaciją? Šiuo metu žiūri %s žiūrovų.</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="one">%s nauja žinutė</item>
+        <item quantity="few">%s naujos žinutės</item>
+        <item quantity="many">%s naujų žinučių</item>
+        <item quantity="other">%s naujos (-ų) žinutės (-ių)</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="one">Bendrai transliavo {num} dieną iš eilės</item>
+        <item quantity="few">Bendrai transliavo {num} dienas iš eilės</item>
+        <item quantity="many">Bendrai transliavo {num} dienų iš eilės</item>
+        <item quantity="other">Bendrai transliavo {num} dienų iš eilės</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="one">Trūksta {number} Monetos</item>
+        <item quantity="few">Trūksta {number} Monetų</item>
+        <item quantity="many">Trūksta {number} Monetų</item>
+        <item quantity="other">Trūksta {number} Monetų</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="one">Tavo didžiausia suma per pastarąsias {number} d.: {amount} Moneta</item>
+        <item quantity="few">Tavo didžiausia suma per pastarąsias {number} d.: {amount} Monetos</item>
+        <item quantity="many">Tavo didžiausia suma per pastarąsias {number} d.: {amount} Monetos</item>
+        <item quantity="other">Tavo didžiausia suma per pastarąsias {number} d.: {amount} Monetų</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="one">Pasiūlyta: {amount} Moneta</item>
+        <item quantity="few">Pasiūlyta: {amount} Monetos</item>
+        <item quantity="many">Pasiūlyta: {amount} Monetos</item>
+        <item quantity="other">Pasiūlyta: {amount} Monetų</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="one">Dabar turi {number} Monetą. Gali papildyti, kad gautum daugiau Monetų.</item>
+        <item quantity="few">Dabar turi {number} Monetas. Gali papildyti, kad gautum daugiau Monetų.</item>
+        <item quantity="many">Dabar turi {number} Monetų. Gali papildyti, kad gautum daugiau Monetų.</item>
+        <item quantity="other">Dabar turi {number} Monetų. Gali papildyti, kad gautum daugiau Monetų.</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="one">Teisingas spėjimas: (%d)</item>
+        <item quantity="few">Teisingų spėjimų: (%d)</item>
+        <item quantity="many">Teisingų spėjimų: (%d)</item>
+        <item quantity="other">Teisingų spėjimų: (%d)</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="one">%s teisingas spėjimas</item>
+        <item quantity="few">%s teisingi spėjimai</item>
+        <item quantity="many">%s teisingų spėjimų</item>
+        <item quantity="other">%s teisingų spėjimų</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="one">Žiūrovų atspėjo: %s ��</item>
+        <item quantity="few">Žiūrovų atspėjo: %s ��</item>
+        <item quantity="many">Žiūrovų atspėjo: %s ��</item>
+        <item quantity="other">Žiūrovų atspėjo: %s ��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="one">Dauguma žiūrovų atspėjo žodžių: %s</item>
+        <item quantity="few">Dauguma žiūrovų atspėjo žodžių: %s</item>
+        <item quantity="many">Dauguma žiūrovų atspėjo žodžių: %s</item>
+        <item quantity="other">Dauguma žiūrovų atspėjo žodžių: %s</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="one">Nė vienas žiūrovas žodžio neatspėjo</item>
+        <item quantity="few">Nė vienas žiūrovas žodžių neatspėjo</item>
+        <item quantity="many">Nė vienas žiūrovas žodžių neatspėjo</item>
+        <item quantity="other">Nė vienas žiūrovas žodžių neatspėjo</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="one">%s minutė žodžiui nupiešti</item>
+        <item quantity="few">%s minutės žodžiui nupiešti</item>
+        <item quantity="many">%s minučių žodžiui nupiešti</item>
+        <item quantity="other">%s minučių žodžiui nupiešti</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="one">�� %d žiūrovas atspėjo %s</item>
+        <item quantity="few">�� %d žiūrovai atspėjo %s</item>
+        <item quantity="many">�� %d žiūrovų atspėjo %s</item>
+        <item quantity="other">�� %d žiūrovų atspėjo %s</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="one">Atspėjau žodžių: %s!</item>
+        <item quantity="few">Atspėjau žodžių: %s!</item>
+        <item quantity="many">Atspėjau žodžių: %s!</item>
+        <item quantity="other">Atspėjau žodžių: %s!</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="one">Atspėjai žodžių: %s</item>
+        <item quantity="few">Atspėjai žodžių: %s</item>
+        <item quantity="many">Atspėjai žodžių: %s</item>
+        <item quantity="other">Atspėjai žodžių: %s</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="one">Perka {0:string} ir dar {1:string} pirkėjas</item>
+        <item quantity="few">Perka {0:string} ir dar {1:string} kiti pirkėjai</item>
+        <item quantity="many">Perka {0:string} ir dar {1:string} kitų pirkėjų</item>
+        <item quantity="other">Perka {0:string} ir dar {1:string} kitų pirkėjų</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="one">%d vaizdas per mažas. Jis turi būti bent 256 x 256 pikselių.</item>
+        <item quantity="few">%d vaizdai per maži. Jie turi būti bent 256 x 256 pikselių.</item>
+        <item quantity="many">%d vaizdų per maži. Jie turi būti bent 256 x 256 pikselių.</item>
+        <item quantity="other">%d vaizdų per maži. Jie turi būti bent 256 x 256 pikselių.</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="one">%d žiūrovas</item>
+        <item quantity="few">%d žiūrovai</item>
+        <item quantity="many">%d žiūrovų</item>
+        <item quantity="other">%d žiūrovų</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="one">Turi %d monetą.</item>
+        <item quantity="few">Turi %d monetas.</item>
+        <item quantity="many">Turi %d monetų.</item>
+        <item quantity="other">Turi %d monetų.</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="one">%@ gali iškeisti į %d Monetą, kad išsiųstum šią Dovaną.</item>
+        <item quantity="few">%@ gali iškeisti į dar %d Monetas, kad išsiųstum šią Dovaną.</item>
+        <item quantity="many">%@ gali iškeisti į dar %d Monetų, kad išsiųstum šią Dovaną.</item>
+        <item quantity="other">%@ gali iškeisti į dar %d Monetų, kad išsiųstum šią Dovaną.</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="one">TIESIOGINIŲ transliacijų metu gautų Dovanų likutis pakeistas į {{num}} Monetą</item>
+        <item quantity="few">TIESIOGINIŲ transliacijų metu gautų Dovanų likutis pakeistas į {{num}} Monetas</item>
+        <item quantity="many">TIESIOGINIŲ transliacijų metu gautų Dovanų likutis pakeistas į {{num}} Monetų</item>
+        <item quantity="other">TIESIOGINIŲ transliacijų metu gautų Dovanų likutis pakeistas į {{num}} Monetų</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="one">Trūksta %1$d Monetos. Keisti %2$s į Monetas ir siųsti %3$s?</item>
+        <item quantity="few">Trūksta %1$d Monetų. Keisti %2$s į Monetas ir siųsti %3$s?</item>
+        <item quantity="many">Trūksta %1$d Monetų. Keisti %2$s į Monetas ir siųsti %3$s?</item>
+        <item quantity="other">Trūksta %1$d Monetų. Keisti %2$s į Monetas ir siųsti %3$s?</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="one">Iškeitei į %d Monetą ir nusiuntei %s</item>
+        <item quantity="few">Iškeitei į %d Monetas ir nusiuntei %s</item>
+        <item quantity="many">Iškeitei į %d Monetų ir nusiuntei %s</item>
+        <item quantity="other">Iškeitei į %d Monetų ir nusiuntei %s</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="one">%s narys</item>
+        <item quantity="few">%s nariai</item>
+        <item quantity="many">%s narių</item>
+        <item quantity="other">%s narių</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="one">Su tavimi {num} dieną</item>
+        <item quantity="few">Su tavimi {num} dienas</item>
+        <item quantity="many">Su tavimi {num} dienų</item>
+        <item quantity="other">Su tavimi {num} dienų</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="one">Gauk 1 nario tašką per {num} valandą, kad išsaugotum aktyvumą</item>
+        <item quantity="few">Gauk 1 nario tašką per {num} valandas, kad išsaugotum aktyvumą</item>
+        <item quantity="many">Gauk 1 nario tašką per {num} valandų, kad išsaugotum aktyvumą</item>
+        <item quantity="other">Gauk 1 nario tašką per {num} valandų, kad išsaugotum aktyvumą</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="one">Tai gali siųsti už %1$d Monetą dar %2$d kartą.</item>
+        <item quantity="few">Tai gali siųsti už %1$d Monetą dar %2$d kartus.</item>
+        <item quantity="many">Tai gali siųsti už %1$d Monetą dar %2$d karto.</item>
+        <item quantity="other">Tai gali siųsti už %1$d Monetą dar %2$d kartų.</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="one">Dabar yra %d aktyvus stebėtojas</item>
+        <item quantity="few">Dabar aktyvių stebėtojų: %d</item>
+        <item quantity="many">Dabar aktyvių stebėtojų: %d</item>
+        <item quantity="other">Dabar aktyvių stebėtojų: %d</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="one">{number} iš tavo draugų transliuoja TIESIOGIAI. Pakviesk jį (ją) kartu transliuoti TIESIOGIAI!</item>
+        <item quantity="few">{number} iš tavo draugų transliuoja TIESIOGIAI. Pakviesk juos kartu transliuoti TIESIOGIAI!</item>
+        <item quantity="many">{number} iš tavo draugų transliuoja TIESIOGIAI. Pakviesk juos kartu transliuoti TIESIOGIAI!</item>
+        <item quantity="other">{number} iš tavo draugų transliuoja TIESIOGIAI. Pakviesk juos kartu transliuoti TIESIOGIAI!</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="one">Papildyk, kad atrakintum {num} papildomą Monetą</item>
+        <item quantity="few">Papildyk, kad atrakintum {num} papildomas Monetas</item>
+        <item quantity="many">Papildyk, kad atrakintum {num} papildomų Monetų</item>
+        <item quantity="other">Papildyk, kad atrakintum {num} papildomų Monetų</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="one">{num} diena</item>
+        <item quantity="few">{num} dienos</item>
+        <item quantity="many">{num} dienų</item>
+        <item quantity="other">{num} dienų</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="one">Atrakink {num} Monetą</item>
+        <item quantity="few">Atrakink {num} Monetas</item>
+        <item quantity="many">Atrakink {num} Monetų</item>
+        <item quantity="other">Atrakink {num} Monetų</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="one">{num} Moneta</item>
+        <item quantity="few">{num} Monetos</item>
+        <item quantity="many">{num} Monetų</item>
+        <item quantity="other">{num} Monetų</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="one">Atrakinsi {num} papildomą Monetą.</item>
+        <item quantity="few">Atrakinsi {num} papildomas Monetas.</item>
+        <item quantity="many">Atrakinsi {num} papildomų Monetų.</item>
+        <item quantity="other">Atrakinsi {num} papildomų Monetų.</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="one">Papildyk dar {num_1} Moneta.</item>
+        <item quantity="few">Papildyk dar {num_1} Monetomis.</item>
+        <item quantity="many">Papildyk dar {num_1} Monetų.</item>
+        <item quantity="other">Papildyk dar {num_1} Monetų.</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="one">Papildyk, kad atrakintum {num} papildomą Monetą</item>
+        <item quantity="few">Papildyk, kad atrakintum {num} papildomas Monetas</item>
+        <item quantity="many">Papildyk, kad atrakintum {num} papildomų Monetų</item>
+        <item quantity="other">Papildyk, kad atrakintum {num} papildomų Monetų</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="one">Paskutinė {number} diena</item>
+        <item quantity="few">Paskutinės {number} dienos</item>
+        <item quantity="many">Paskutinės {number} dienų</item>
+        <item quantity="other">Paskutinės {number} dienų</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="one">Pasikeitė {gameName} ir {number} kito kaina. Žr. daugiau partnerystės centre.</item>
+        <item quantity="few">Pasikeitė {gameName} ir {number} kitų kaina. Žr. daugiau partnerystės centre.</item>
+        <item quantity="many">Pasikeitė {gameName} ir {number} kitų kaina. Žr. daugiau partnerystės centre.</item>
+        <item quantity="other">Pasikeitė {gameName} ir {number} kitų kaina. Žr. daugiau partnerystės centre.</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="one">Dėl Programos sąlygų pažeidimo dovanojimo funkcija tavo TIESIOGINĖJE transliacijoje užblokuota %s dienai.</item>
+        <item quantity="few">Dėl Programos sąlygų pažeidimo dovanojimo funkcija tavo TIESIOGINĖJE transliacijoje užblokuota %s dienoms.</item>
+        <item quantity="many">Dėl Programos sąlygų pažeidimo dovanojimo funkcija tavo TIESIOGINĖJE transliacijoje užblokuota %s dienų.</item>
+        <item quantity="other">Dėl Programos sąlygų pažeidimo dovanojimo funkcija tavo TIESIOGINĖJE transliacijoje užblokuota %s dienų.</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="one">Dovanojimo funkcija šioje TIESIOGINĖJE transliacijoje užblokuota. Ji bus atkurta po %s minutės.</item>
+        <item quantity="few">Dovanojimo funkcija šioje TIESIOGINĖJE transliacijoje užblokuota. Ji bus atkurta po %s minučių.</item>
+        <item quantity="many">Dovanojimo funkcija šioje TIESIOGINĖJE transliacijoje užblokuota. Ji bus atkurta po %s minučių.</item>
+        <item quantity="other">Dovanojimo funkcija šioje TIESIOGINĖJE transliacijoje užblokuota. Ji bus atkurta po %s minučių.</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="one">Dovanojimo funkcija užblokuota {0} dienai.</item>
+        <item quantity="few">Dovanojimo funkcija užblokuota {0} dienoms.</item>
+        <item quantity="many">Dovanojimo funkcija užblokuota {0} dienų.</item>
+        <item quantity="other">Dovanojimo funkcija užblokuota {0} dienų.</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="one">Dovanojimo funkcija užblokuota %s dienai</item>
+        <item quantity="few">Dovanojimo funkcija užblokuota %s dienoms</item>
+        <item quantity="many">Dovanojimo funkcija užblokuota %s dienų</item>
+        <item quantity="other">Dovanojimo funkcija užblokuota %s dienų</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="one">Siųsti už %d Monetą</item>
+        <item quantity="few">Siųsti už %d Monetas</item>
+        <item quantity="many">Siųsti už %d Monetų</item>
+        <item quantity="other">Siųsti už %d Monetų</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="one">Papildymas atliktas ir dabar turi %d Monetą. Išsiųsk šią Dovaną ir parodyk savo palaikymą!</item>
+        <item quantity="few">Papildymas atliktas ir dabar turi %d Monetas. Išsiųsk šią Dovaną ir parodyk savo palaikymą!</item>
+        <item quantity="many">Papildymas atliktas ir dabar turi %d Monetų. Išsiųsk šią Dovaną ir parodyk savo palaikymą!</item>
+        <item quantity="other">Papildymas atliktas ir dabar turi %d Monetų. Išsiųsk šią Dovaną ir parodyk savo palaikymą!</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="one">Keitimas atliktas ir dabar turi %d Monetą. Išsiųsk šią Dovaną ir parodyk savo palaikymą!</item>
+        <item quantity="few">Keitimas atliktas ir dabar turi %d Monetas. Išsiųsk šią Dovaną ir parodyk savo palaikymą!</item>
+        <item quantity="many">Keitimas atliktas ir dabar turi %d Monetų. Išsiųsk šią Dovaną ir parodyk savo palaikymą!</item>
+        <item quantity="other">Keitimas atliktas ir dabar turi %d Monetų. Išsiųsk šią Dovaną ir parodyk savo palaikymą!</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="one">{0:user} išsiuntė {1:gift} ({2:string} taškas) {3:string} – tai pirmoji jo (jos) kada nors išsiųsta Dovana! Būtinai padėkok!</item>
+        <item quantity="few">{0:user} išsiuntė {1:gift} ({2:string} taškai) {3:string} – tai pirmoji jo (jos) kada nors išsiųsta Dovana! Būtinai padėkok!</item>
+        <item quantity="many">{0:user} išsiuntė {1:gift} ({2:string} taškų) {3:string} – tai pirmoji jo (jos) kada nors išsiųsta Dovana! Būtinai padėkok!</item>
+        <item quantity="other">{0:user} išsiuntė {1:gift} ({2:string} taškų) {3:string} – tai pirmoji jo (jos) kada nors išsiųsta Dovana! Būtinai padėkok!</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="one">{0:user} išsiuntė {1:gift} ({2:string} taškas) {3:string}</item>
+        <item quantity="few">{0:user} išsiuntė {1:gift} ({2:string} taškai) {3:string}</item>
+        <item quantity="many">{0:user} išsiuntė {1:gift} ({2:string} taškų) {3:string}</item>
+        <item quantity="other">{0:user} išsiuntė {1:gift} ({2:string} taškų) {3:string}</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="one">{0:user} išsiuntė {1:gift} ({2:string} taškas) {3:string}</item>
+        <item quantity="few">{0:user} išsiuntė {1:gift} ({2:string} taškai) {3:string}</item>
+        <item quantity="many">{0:user} išsiuntė {1:gift} ({2:string} taškų) {3:string}</item>
+        <item quantity="other">{0:user} išsiuntė {1:gift} ({2:string} taškų) {3:string}</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="one">{0:user} išsiuntė {1:gift} ({2:string} taškas) {3:string} ir pirmą kartą šiame ture keliavo į {4:city} su kūrėju!</item>
+        <item quantity="few">{0:user} išsiuntė {1:gift} ({2:string} taškai) {3:string} ir pirmą kartą šiame ture keliavo į {4:city} su kūrėju!</item>
+        <item quantity="many">{0:user} išsiuntė {1:gift} ({2:string} taškų) {3:string} ir pirmą kartą šiame ture keliavo į {4:city} su kūrėju!</item>
+        <item quantity="other">{0:user} išsiuntė {1:gift} ({2:string} taškų) {3:string} ir pirmą kartą šiame ture keliavo į {4:city} su kūrėju!</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="one">Dovanos informacija (iš viso {{num}} operacija)</item>
+        <item quantity="few">Dovanos informacija (iš viso {{num}} operacijos)</item>
+        <item quantity="many">Dovanos informacija (iš viso {{num}} operacijų)</item>
+        <item quantity="other">Dovanos informacija (iš viso {{num}} operacijų)</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="one">{amount} Moneta</item>
+        <item quantity="few">{amount} Monetos</item>
+        <item quantity="many">{amount} Monetos</item>
+        <item quantity="other">{amount} Monetų</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="one">Dovana</item>
+        <item quantity="few">Dovanos</item>
+        <item quantity="many">Dovanų</item>
+        <item quantity="other">Dovanų</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="one">%d moneta</item>
+        <item quantity="few">%d monetos</item>
+        <item quantity="many">%d monetų</item>
+        <item quantity="other">%d monetų</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="one">Gavai %s dovaną. Nepamiršk padėkoti.</item>
+        <item quantity="few">Gavai %s dovanas. Nepamiršk padėkoti.</item>
+        <item quantity="many">Gavai %s dovanų. Nepamiršk padėkoti.</item>
+        <item quantity="other">Gavai %s dovanų. Nepamiršk padėkoti.</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="one">Gavai %s dovaną</item>
+        <item quantity="few">Gavai %s dovanas</item>
+        <item quantity="many">Gavai %s dovanų</item>
+        <item quantity="other">Gavai %s dovanų</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="one">Užbaigti keitimą į %s monetą?</item>
+        <item quantity="few">Užbaigti keitimą į %s monetas?</item>
+        <item quantity="many">Užbaigti keitimą į %s monetų?</item>
+        <item quantity="other">Užbaigti keitimą į %s monetų?</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="one">Transliuoti TIESIOGIAI (%d sek.)</item>
+        <item quantity="few">Transliuoti TIESIOGIAI (%d sek.)</item>
+        <item quantity="many">Transliuoti TIESIOGIAI (%d sek.)</item>
+        <item quantity="other">Transliuoti TIESIOGIAI (%d sek.)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="one">%s svečio užklausa</item>
+        <item quantity="few">%s svečio užklausos</item>
+        <item quantity="many">%s svečio užklausų</item>
+        <item quantity="other">%s svečio užklausų</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="one">%s užklausa</item>
+        <item quantity="few">%s užklausos</item>
+        <item quantity="many">%s užklausų</item>
+        <item quantity="other">%s užklausų</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="one">%s taškas</item>
+        <item quantity="few">%s taškai</item>
+        <item quantity="many">%s taškų</item>
+        <item quantity="other">%s taškų</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="one">%1$s taškas, kad pasiektum %2$s</item>
+        <item quantity="few">%1$s taškai, kad pasiektum %2$s</item>
+        <item quantity="many">%1$s taškų, kad pasiektum %2$s</item>
+        <item quantity="other">%1$s taškų, kad pasiektum %2$s</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="one">%d žiūrovas prašo</item>
+        <item quantity="few">%d žiūrovai prašo</item>
+        <item quantity="many">%d žiūrovų prašo</item>
+        <item quantity="other">%d žiūrovų prašo</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="one">Tau iki %d d. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+        <item quantity="few">Tau iki %d d. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+        <item quantity="many">Tau iki %d d. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+        <item quantity="other">Tau iki %d d. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="one">Tau iki %d val. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+        <item quantity="few">Tau iki %d val. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+        <item quantity="many">Tau iki %d val. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+        <item quantity="other">Tau iki %d val. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="one">Tau iki %d min. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+        <item quantity="few">Tau iki %d min. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+        <item quantity="many">Tau iki %d min. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+        <item quantity="other">Tau iki %d min. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="one">Tau iki %d sek. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+        <item quantity="few">Tau iki %d sek. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+        <item quantity="many">Tau iki %d sek. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+        <item quantity="other">Tau iki %d sek. užblokuota galimybė transliuoti TIESIOGIAI kaip svečiui</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="one">Įrankis</item>
+        <item quantity="few">Įrankiai</item>
+        <item quantity="many">Įrankių</item>
+        <item quantity="other">Įrankių</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="one">[username] ir [number] stebėtojas paragino tave transliuoti TIESIOGIAI</item>
+        <item quantity="few">[username] ir [number] stebėtojai paragino tave transliuoti TIESIOGIAI</item>
+        <item quantity="many">[username] ir [number] stebėtojų paragino tave transliuoti TIESIOGIAI</item>
+        <item quantity="other">[username] ir [number] stebėtojų paragino tave transliuoti TIESIOGIAI</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="one">[username] ir [number] stebėtojas neseniai paragino tave transliuoti TIESIOGIAI</item>
+        <item quantity="few">[username] ir [number] stebėtojai neseniai paragino tave transliuoti TIESIOGIAI</item>
+        <item quantity="many">[username] ir [number] stebėtojų neseniai paragino tave transliuoti TIESIOGIAI</item>
+        <item quantity="other">[username] ir [number] stebėtojų neseniai paragino tave transliuoti TIESIOGIAI</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="one">Jei priimsi kvietimą, šis TIESIOGINĖS transliacijos kūrėjas prisijungs prie tavo dabartinio bendro transliavimo.</item>
+        <item quantity="few">Jei priimsi kvietimą, šie TIESIOGINĖS transliacijos kūrėjai prisijungs prie tavo dabartinio bendro transliavimo.</item>
+        <item quantity="many">Jei priimsi kvietimą, šie TIESIOGINĖS transliacijos kūrėjų prisijungs prie tavo dabartinio bendro transliavimo.</item>
+        <item quantity="other">Jei priimsi kvietimą, šie TIESIOGINĖS transliacijos kūrėjų prisijungs prie tavo dabartinio bendro transliavimo.</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="one">{number} diena</item>
+        <item quantity="few">{number} dienos</item>
+        <item quantity="many">{number} dienų</item>
+        <item quantity="other">{number} dienų</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="one">Kitame žingsnyje, kai išeisi iš puslapio, savo kuponą vėl panaudoti galėsi tik po {number} dienos.</item>
+        <item quantity="other">Kitame žingsnyje, kai išeisi iš puslapio, savo kuponą vėl panaudoti galėsi tik po {number} dienų.</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="one">Kitame žingsnyje, kai išeisi iš puslapio, savo kuponą vėl panaudoti galėsi tik po {number} valandos.</item>
+        <item quantity="other">Kitame žingsnyje, kai išeisi iš puslapio, savo kuponą vėl panaudoti galėsi tik po {number} valandų.</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="one">Kitame žingsnyje, kai išeisi iš puslapio, savo kuponą vėl panaudoti galėsi tik po {number} minutės.</item>
+        <item quantity="other">Kitame žingsnyje, kai išeisi iš puslapio, savo kuponą vėl panaudoti galėsi tik po {number} minučių.</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="one">Kuponą vėl galėsi panaudoti po {number} dienos</item>
+        <item quantity="other">Kuponą vėl galėsi panaudoti po {number} dienų</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="one">Kuponą vėl galėsi panaudoti po {number} valandos</item>
+        <item quantity="other">Kuponą vėl galėsi panaudoti po {number} valandų</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="one">Kuponą vėl galėsi panaudoti po {number} minutės</item>
+        <item quantity="other">Kuponą vėl galėsi panaudoti po {number} minučių</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="one">%s patiktukas</item>
+        <item quantity="few">%s patiktukai</item>
+        <item quantity="many">%s patiktukų</item>
+        <item quantity="other">%s patiktukų</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="one">patiktukas</item>
+        <item quantity="few">patiktukai</item>
+        <item quantity="many">patiktukų</item>
+        <item quantity="other">patiktukų</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="one">%s patiktukas</item>
+        <item quantity="few">%s patiktukai</item>
+        <item quantity="many">%s patiktukų</item>
+        <item quantity="other">%s patiktukų</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="one">%d sek.</item>
+        <item quantity="few">%d sek.</item>
+        <item quantity="many">%d sek.</item>
+        <item quantity="other">%d sek.</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="one">Tavo TIESIOGINĖS transliacijos prašymas nebuvo patvirtintas. Prašymą teikti dar kartą gali po %d d.</item>
+        <item quantity="few">Tavo TIESIOGINĖS transliacijos prašymas nebuvo patvirtintas. Prašymą teikti dar kartą gali po %d d.</item>
+        <item quantity="many">Tavo TIESIOGINĖS transliacijos prašymas nebuvo patvirtintas. Prašymą teikti dar kartą gali po %d d.</item>
+        <item quantity="other">Tavo TIESIOGINĖS transliacijos prašymas nebuvo patvirtintas. Prašymą teikti dar kartą gali po %d d.</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="one">Pateikei prašymą TIESIOGINĖS transliacijos prieigai gauti ir gali transliuoti tiesiogiai ateinančias 7 d. Nepamiršk vadovautis Bendruomenės gairėmis ir pirmąją savaitę transliuok TIESIOGIAI %d val., kad gautum tolesnę prieigą.</item>
+        <item quantity="few">Pateikei prašymą TIESIOGINĖS transliacijos prieigai gauti ir gali transliuoti tiesiogiai ateinančias 7 d. Nepamiršk vadovautis Bendruomenės gairėmis ir pirmąją savaitę transliuok TIESIOGIAI %d val., kad gautum tolesnę prieigą.</item>
+        <item quantity="many">Pateikei prašymą TIESIOGINĖS transliacijos prieigai gauti ir gali transliuoti tiesiogiai ateinančias 7 d. Nepamiršk vadovautis Bendruomenės gairėmis ir pirmąją savaitę transliuok TIESIOGIAI %d val., kad gautum tolesnę prieigą.</item>
+        <item quantity="other">Pateikei prašymą TIESIOGINĖS transliacijos prieigai gauti ir gali transliuoti tiesiogiai ateinančias 7 d. Nepamiršk vadovautis Bendruomenės gairėmis ir pirmąją savaitę transliuok TIESIOGIAI %d val., kad gautum tolesnę prieigą.</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="one">Transliuok TIESIOGIAI dar %d val. iki %s, kad gautum prieigą prie vykstančios TIESIOGINĖS transliacijos</item>
+        <item quantity="few">Transliuok TIESIOGIAI dar %d val. iki %s, kad gautum prieigą prie vykstančios TIESIOGINĖS transliacijos</item>
+        <item quantity="many">Transliuok TIESIOGIAI dar %d val. iki %s, kad gautum prieigą prie vykstančios TIESIOGINĖS transliacijos</item>
+        <item quantity="other">Transliuok TIESIOGIAI dar %d val. iki %s, kad gautum prieigą prie vykstančios TIESIOGINĖS transliacijos</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="one">Transliuok TIESIOGIAI dar %1$s val. iki %2$s, kad gautum prieigą prie vykstančios TIESIOGINĖS transliacijos</item>
+        <item quantity="few">Transliuok TIESIOGIAI dar %1$s val. iki %2$s, kad gautum prieigą prie vykstančios TIESIOGINĖS transliacijos</item>
+        <item quantity="many">Transliuok TIESIOGIAI dar %1$s val. iki %2$s, kad gautum prieigą prie vykstančios TIESIOGINĖS transliacijos</item>
+        <item quantity="other">Transliuok TIESIOGIAI dar %1$s val. iki %2$s, kad gautum prieigą prie vykstančios TIESIOGINĖS transliacijos</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="one">%s taškas</item>
+        <item quantity="few">%s taškai</item>
+        <item quantity="many">%s taškų</item>
+        <item quantity="other">%s taškų</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="one">{%s host username} reikia {%d} Monetos, kad užimtų %n vietą tarp populiariausių savaitės TIESIOGINIŲ transliacijų kūrėjų!</item>
+        <item quantity="few">{%s host username} reikia {%d} Monetų, kad užimtų %n vietą tarp populiariausių savaitės TIESIOGINIŲ transliacijų kūrėjų!</item>
+        <item quantity="many">{%s host username} reikia {%d} Monetų, kad užimtų %n vietą tarp populiariausių savaitės TIESIOGINIŲ transliacijų kūrėjų!</item>
+        <item quantity="other">{%s host username} reikia {%d} Monetų, kad užimtų %n vietą tarp populiariausių savaitės TIESIOGINIŲ transliacijų kūrėjų!</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="one">Liko 1 diena. Gauk dar {%d} Deimantą, kad užimtum 3 vietą tarp populiariausių kūrėjų ir laimėtum išskirtinį ženklą savo video.</item>
+        <item quantity="few">Liko 1 diena. Gauk dar {%d} Deimantus, kad užimtum 3 vietą tarp populiariausių kūrėjų ir laimėtum išskirtinį ženklą savo video.</item>
+        <item quantity="many">Liko 1 diena. Gauk dar {%d} Deimantų, kad užimtum 3 vietą tarp populiariausių kūrėjų ir laimėtum išskirtinį ženklą savo video.</item>
+        <item quantity="other">Liko 1 diena. Gauk dar {%d} Deimantų, kad užimtum 3 vietą tarp populiariausių kūrėjų ir laimėtum išskirtinį ženklą savo video.</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="one">Liko 1 diena. Gauk dar {%d} deimantą, kad tavo TIESIOGINĖ transliacija pasiektų daugiau potencialių žiūrovų.</item>
+        <item quantity="few">Liko 1 diena. Gauk dar {%d} deimantus, kad tavo TIESIOGINĖ transliacija pasiektų daugiau potencialių žiūrovų.</item>
+        <item quantity="many">Liko 1 diena. Gauk dar {%d} deimantų, kad tavo TIESIOGINĖ transliacija pasiektų daugiau potencialių žiūrovų.</item>
+        <item quantity="other">Liko 1 diena. Gauk dar {%d} deimantų, kad tavo TIESIOGINĖ transliacija pasiektų daugiau potencialių žiūrovų.</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="one">Liko 1 diena. Gauk dar {%d} Deimantą, kad pelnytum unikalų atlygį, skirtą TIESIOGINIŲ transliacijų kūrėjams!</item>
+        <item quantity="few">Liko 1 diena. Gauk dar {%d} Deimantus, kad pelnytum unikalų atlygį, skirtą TIESIOGINIŲ transliacijų kūrėjams!</item>
+        <item quantity="many">Liko 1 diena. Gauk dar {%d} Deimantų, kad pelnytum unikalų atlygį, skirtą TIESIOGINIŲ transliacijų kūrėjams!</item>
+        <item quantity="other">Liko 1 diena. Gauk dar {%d} Deimantų, kad pelnytum unikalų atlygį, skirtą TIESIOGINIŲ transliacijų kūrėjams!</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="one">Dabar yra aktyvus 1 stebėtojas</item>
+        <item quantity="few">Dabar aktyvių stebėtojų: %s</item>
+        <item quantity="many">Dabar aktyvių stebėtojų: %s</item>
+        <item quantity="other">Dabar aktyvių stebėtojų: %s</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="one">reikia %s monetos</item>
+        <item quantity="few">reikia %s monetų</item>
+        <item quantity="many">reikia %s monetų</item>
+        <item quantity="other">reikia %s monetų</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="one">Stebi %d prenumeratorius</item>
+        <item quantity="few">Stebi %d prenumeratoriai</item>
+        <item quantity="many">Stebi %d prenumeratoriaus</item>
+        <item quantity="other">Stebi %d prenumeratorių</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="one">Liko 3 min. Gauk dar {%d} Deimantą, kad užimtum 3 vietą tarp populiariausių TIESIOGINIŲ transliacijų kūrėjų ir laimėtum išskirtinį ženklą.</item>
+        <item quantity="few">Liko 3 min. Gauk dar {%d} Deimantus, kad užimtum 3 vietą tarp populiariausių TIESIOGINIŲ transliacijų kūrėjų ir laimėtum išskirtinį ženklą.</item>
+        <item quantity="many">Liko 3 min. Gauk dar {%d} Deimantų, kad užimtum 3 vietą tarp populiariausių TIESIOGINIŲ transliacijų kūrėjų ir laimėtum išskirtinį ženklą.</item>
+        <item quantity="other">Liko 3 min. Gauk dar {%d} Deimantų, kad užimtum 3 vietą tarp populiariausių TIESIOGINIŲ transliacijų kūrėjų ir laimėtum išskirtinį ženklą.</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="one">Liko 3 min. Gauk dar {%d} deimantą, kad tavo TIESIOGINĖ transliacija pasiektų daugiau potencialių žiūrovų.</item>
+        <item quantity="few">Liko 3 min. Gauk dar {%d} deimantus, kad tavo TIESIOGINĖ transliacija pasiektų daugiau potencialių žiūrovų.</item>
+        <item quantity="many">Liko 3 min. Gauk dar {%d} deimantų, kad tavo TIESIOGINĖ transliacija pasiektų daugiau potencialių žiūrovų.</item>
+        <item quantity="other">Liko 3 min. Gauk dar {%d} deimantų, kad tavo TIESIOGINĖ transliacija pasiektų daugiau potencialių žiūrovų.</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="one">Liko 3 min. Gauk dar {%d} Deimantą, kad pelnytum unikalų atlygį, skirtą populiariems TIESIOGINIŲ transliacijų kūrėjams!</item>
+        <item quantity="few">Liko 3 min. Gauk dar {%d} Deimantus, kad pelnytum unikalų atlygį, skirtą populiariems TIESIOGINIŲ transliacijų kūrėjams!</item>
+        <item quantity="many">Liko 3 min. Gauk dar {%d} Deimantų, kad pelnytum unikalų atlygį, skirtą populiariems TIESIOGINIŲ transliacijų kūrėjams!</item>
+        <item quantity="other">Liko 3 min. Gauk dar {%d} Deimantų, kad pelnytum unikalų atlygį, skirtą populiariems TIESIOGINIŲ transliacijų kūrėjams!</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="one">%s val. %d min.</item>
+        <item quantity="few">%s val. %d min.</item>
+        <item quantity="many">%s val. %d min.</item>
+        <item quantity="other">%s val. %d min.</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="one">deimantas</item>
+        <item quantity="few">deimantai</item>
+        <item quantity="many">deimantų</item>
+        <item quantity="other">deimantų</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="one">peržiūra</item>
+        <item quantity="few">peržiūros</item>
+        <item quantity="many">peržiūrų</item>
+        <item quantity="other">peržiūrų</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="one">Po %s min. į klausimus atsakyti jau nebus galima</item>
+        <item quantity="few">Po %s min. į klausimus atsakyti jau nebus galima</item>
+        <item quantity="many">Po %s min. į klausimus atsakyti jau nebus galima</item>
+        <item quantity="other">Po %s min. į klausimus atsakyti jau nebus galima</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="one">prieš %s val.</item>
+        <item quantity="few">prieš %s val.</item>
+        <item quantity="many">prieš %s val.</item>
+        <item quantity="other">prieš %s val.</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="one">prieš %s min.</item>
+        <item quantity="few">prieš %s min.</item>
+        <item quantity="many">prieš %s min.</item>
+        <item quantity="other">prieš %s min.</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="one">Suplanuota, kad %s prasidės po 10 min. %d žiūrovas matė tavo įvykį. Jei nori gauti kuo daugiau naudos iš savo reklamos, dabar pat pradėk TIESIOGINĘ transliaciją!</item>
+        <item quantity="few">Suplanuota, kad %s prasidės po 10 min. %d žiūrovai matė tavo įvykį. Jei nori gauti kuo daugiau naudos iš savo reklamos, dabar pat pradėk TIESIOGINĘ transliaciją!</item>
+        <item quantity="many">Suplanuota, kad %s prasidės po 10 min. %d žiūrovų matė tavo įvykį. Jei nori gauti kuo daugiau naudos iš savo reklamos, dabar pat pradėk TIESIOGINĘ transliaciją!</item>
+        <item quantity="other">Suplanuota, kad %s prasidės po 10 min. %d žiūrovų matė tavo įvykį. Jei nori gauti kuo daugiau naudos iš savo reklamos, dabar pat pradėk TIESIOGINĘ transliaciją!</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="one">Peržiūrėti %s mokomosios medžiagos užduotį</item>
+        <item quantity="few">Peržiūrėti %s mokomosios medžiagos užduotis</item>
+        <item quantity="many">Peržiūrėti %s mokomosios medžiagos užduočių</item>
+        <item quantity="other">Peržiūrėti %s mokomosios medžiagos užduočių</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="one">%d suteikė pirmenybę dovanotojų užklausai</item>
+        <item quantity="few">%d suteikė pirmenybę dovanotojų užklausoms</item>
+        <item quantity="many">%d suteikė pirmenybę dovanotojų užklausoms</item>
+        <item quantity="other">%d suteikė pirmenybę dovanotojų užklausoms</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="one">%d moneta</item>
+        <item quantity="few">%d monetos</item>
+        <item quantity="many">%d monetų</item>
+        <item quantity="other">%d monetų</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="one">Tai kainuos %d Monetą.</item>
+        <item quantity="few">Tai kainuos %d Monetas.</item>
+        <item quantity="many">Tai kainuos %d Monetų.</item>
+        <item quantity="other">Tai kainuos %d Monetų.</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="one">Išsiuntei %d Monetą. %s</item>
+        <item quantity="few">Išsiuntei %d Monetas. %s</item>
+        <item quantity="many">Išsiuntei %d Monetų. %s</item>
+        <item quantity="other">Išsiuntei %d Monetų. %s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="one">TIESIOGINIŲ transliacijų kūrėjas gali teikti pirmenybę naudotojų, iš viso siunčiančių daugiau nei %d Monetą, užklausoms.</item>
+        <item quantity="few">TIESIOGINIŲ transliacijų kūrėjas gali teikti pirmenybę naudotojų, iš viso siunčiančių daugiau nei %d Monetas, užklausoms.</item>
+        <item quantity="many">TIESIOGINIŲ transliacijų kūrėjas gali teikti pirmenybę naudotojų, iš viso siunčiančių daugiau nei %d Monetų, užklausoms.</item>
+        <item quantity="other">TIESIOGINIŲ transliacijų kūrėjas gali teikti pirmenybę naudotojų, iš viso siunčiančių daugiau nei %d Monetų, užklausoms.</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="one">TIESIOGINIŲ transliacijų kūrėjas gali teikti pirmenybę tavo ir kitų naudotojų, iš viso siunčiančių daugiau nei %d Monetą, užklausoms.</item>
+        <item quantity="few">TIESIOGINIŲ transliacijų kūrėjas gali teikti pirmenybę tavo ir kitų naudotojų, iš viso siunčiančių daugiau nei %d Monetas, užklausoms.</item>
+        <item quantity="many">TIESIOGINIŲ transliacijų kūrėjas gali teikti pirmenybę tavo ir kitų naudotojų, iš viso siunčiančių daugiau nei %d Monetų, užklausoms.</item>
+        <item quantity="other">TIESIOGINIŲ transliacijų kūrėjas gali teikti pirmenybę tavo ir kitų naudotojų, iš viso siunčiančių daugiau nei %d Monetų, užklausoms.</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="one">Tai kainuos %d Monetą.</item>
+        <item quantity="few">Tai kainuos %d Monetas.</item>
+        <item quantity="many">Tai kainuos %d Monetų.</item>
+        <item quantity="other">Tai kainuos %d Monetų.</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="one">Gali pakviesti %1$s, kad vėl įjungtų savo kamerą po %2$s sekundės</item>
+        <item quantity="few">Gali pakviesti %1$s, kad vėl įjungtų savo kamerą po %2$s sekundžių</item>
+        <item quantity="many">Gali pakviesti %1$s, kad vėl įjungtų savo kamerą po %2$s sekundžių</item>
+        <item quantity="other">Gali pakviesti %1$s, kad vėl įjungtų savo kamerą po %2$s sekundžių</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="one">Gali pakviesti %1$s, kad vėl įjungtų savo mikrofoną po %2$s sekundės</item>
+        <item quantity="few">Gali pakviesti %1$s, kad vėl įjungtų savo mikrofoną po %2$s sekundžių</item>
+        <item quantity="many">Gali pakviesti %1$s, kad vėl įjungtų savo mikrofoną po %2$s sekundžių</item>
+        <item quantity="other">Gali pakviesti %1$s, kad vėl įjungtų savo mikrofoną po %2$s sekundžių</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="one">%d sek.</item>
+        <item quantity="few">%d sek.</item>
+        <item quantity="many">%d sek.</item>
+        <item quantity="other">%d sek.</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="one">%d sek.</item>
+        <item quantity="few">%d sek.</item>
+        <item quantity="many">%d sek.</item>
+        <item quantity="other">%d sek.</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="one">%s užduotis, kurią reikia atlikti 1 etape</item>
+        <item quantity="few">%s užduotys, kurias reikia atlikti 1 etape</item>
+        <item quantity="many">%s užduočių, kurias reikia atlikti 1 etape</item>
+        <item quantity="other">%s užduočių, kurias reikia atlikti 1 etape</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="one">%s užduotis, kurią reikia atlikti 2 etape</item>
+        <item quantity="few">%s užduotys, kurias reikia atlikti 2 etape</item>
+        <item quantity="many">%s užduočių, kurias reikia atlikti 2 etape</item>
+        <item quantity="other">%s užduočių, kurias reikia atlikti 2 etape</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="one">Gali sukurti ne daugiau nei %s pritaikytą priedą. Pašalink pritaikytą priedą, kad sukurtum naują.</item>
+        <item quantity="few">Gali sukurti ne daugiau nei %s pritaikytus priedus. Pašalink pritaikytą priedą, kad sukurtum naują.</item>
+        <item quantity="many">Gali sukurti ne daugiau nei %s pritaikytų priedų. Pašalink pritaikytą priedą, kad sukurtum naują.</item>
+        <item quantity="other">Gali sukurti ne daugiau nei %s pritaikytų priedų. Pašalink pritaikytą priedą, kad sukurtum naują.</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="one">Apklausa baigsis po %s s</item>
+        <item quantity="few">Apklausa baigsis po %s s</item>
+        <item quantity="many">Apklausa baigsis po %s s</item>
+        <item quantity="other">Apklausa baigsis po %s s</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="one">Balsuoti dabar (%s sek.):</item>
+        <item quantity="few">Balsuoti dabar (%s sek.):</item>
+        <item quantity="many">Balsuoti dabar (%s sek.):</item>
+        <item quantity="other">Balsuoti dabar (%s sek.):</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="one">Šiandien išleidai %d monetą.</item>
+        <item quantity="few">Šiandien išleidai monetų: %d.</item>
+        <item quantity="many">Šiandien išleidai monetų: %d.</item>
+        <item quantity="other">Šiandien išleidai monetų: %d.</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="one">Dovanas teik lėčiau ir bandyk dar kartą po %d min.</item>
+        <item quantity="few">Dovanas teik lėčiau ir bandyk dar kartą po %d min.</item>
+        <item quantity="many">Dovanas teik lėčiau ir bandyk dar kartą po %d min.</item>
+        <item quantity="other">Dovanas teik lėčiau ir bandyk dar kartą po %d min.</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="one">{0:user} Portalas uždarytas. Per Portalą prisijungė {1:string} žiūrovas.</item>
+        <item quantity="few">{0:user} Portalas uždarytas. Per Portalą prisijungė {1:string} žiūrovai.</item>
+        <item quantity="many">{0:user} Portalas uždarytas. Per Portalą prisijungė {1:string} žiūrovų.</item>
+        <item quantity="other">{0:user} Portalas uždarytas. Per Portalą prisijungė {1:string} žiūrovų.</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="one">{0:user} Portalas uždarytas. Per Portalą prisijungė {1:string} žiūrovas! Puikiai padirbėta! ��</item>
+        <item quantity="few">{0:user} Portalas uždarytas. Per Portalą prisijungė {1:string} žiūrovai! Puikiai padirbėta! ��</item>
+        <item quantity="many">{0:user} Portalas uždarytas. Per Portalą prisijungė {1:string} žiūrovų! Puikiai padirbėta! ��</item>
+        <item quantity="other">{0:user} Portalas uždarytas. Per Portalą prisijungė {1:string} žiūrovų! Puikiai padirbėta! ��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="one">{0:user} Portalas uždarytas. Per Portalą prisijungė {1:string} žiūrovas! Puiku! ��</item>
+        <item quantity="few">{0:user} Portalas uždarytas. Per Portalą prisijungė {1:string} žiūrovai! Puiku! ��</item>
+        <item quantity="many">{0:user} Portalas uždarytas. Per Portalą prisijungė {1:string} žiūrovų! Puiku! ��</item>
+        <item quantity="other">{0:user} Portalas uždarytas. Per Portalą prisijungė {1:string} žiūrovų! Puiku! ��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="one">%s peržiūra</item>
+        <item quantity="few">%s peržiūros</item>
+        <item quantity="many">%s peržiūrų</item>
+        <item quantity="other">%s peržiūrų</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="one">Darbalaukio žiniatinklyje įsigijau {{num}} monetą</item>
+        <item quantity="few">Darbalaukio žiniatinklyje įsigijau {{num}} monetas</item>
+        <item quantity="many">Darbalaukio žiniatinklyje įsigijau {{num}} monetų</item>
+        <item quantity="other">Darbalaukio žiniatinklyje įsigijau {{num}} monetų</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="one">Programėlėje įsigijau {{num}} monetą</item>
+        <item quantity="few">Programėlėje įsigijau {{num}} monetas</item>
+        <item quantity="many">Programėlėje įsigijau {{num}} monetų</item>
+        <item quantity="other">Programėlėje įsigijau {{num}} monetų</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="one">Žiniatinklyje mobiliesiems įsigijau {{num}} monetą</item>
+        <item quantity="few">Žiniatinklyje mobiliesiems įsigijau {{num}} monetas</item>
+        <item quantity="many">Žiniatinklyje mobiliesiems įsigijau {{num}} monetų</item>
+        <item quantity="other">Žiniatinklyje mobiliesiems įsigijau {{num}} monetų</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="one">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga transliuoti TIESIOGIAI naudojant kompiuterį arba Mac bus atkurta per %s dieną.</item>
+        <item quantity="few">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga transliuoti TIESIOGIAI naudojant kompiuterį arba Mac bus atkurta per %s dienas.</item>
+        <item quantity="many">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga transliuoti TIESIOGIAI naudojant kompiuterį arba Mac bus atkurta per %s dienų.</item>
+        <item quantity="other">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga transliuoti TIESIOGIAI naudojant kompiuterį arba Mac bus atkurta per %s dienų.</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="one">Dėl daugkartinių Bendruomenės gairių pažeidimų tavo prieiga transliuoti TIESIOGIAI naudojant kompiuterį arba Mac užblokuota %s d.</item>
+        <item quantity="few">Dėl daugkartinių Bendruomenės gairių pažeidimų, tavo prieiga transliuoti TIESIOGIAI naudojant kompiuterį arba Mac užblokuota %s d.</item>
+        <item quantity="many">Dėl daugkartinių Bendruomenės gairių pažeidimų tavo prieiga transliuoti TIESIOGIAI naudojant kompiuterį arba Mac užblokuota %s d.</item>
+        <item quantity="other">Dėl daugkartinių Bendruomenės gairių pažeidimų tavo prieiga transliuoti TIESIOGIAI naudojant kompiuterį arba Mac užblokuota %s d.</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="one">Peržiūrėjome prašymą ir pakeitėme tavo lobių skrynios prieigos atšaukimo trukmę į %s dieną.</item>
+        <item quantity="few">Peržiūrėjome prašymą ir pakeitėme tavo lobių skrynios prieigos atšaukimo trukmę į %s dienas.</item>
+        <item quantity="many">Peržiūrėjome prašymą ir pakeitėme tavo lobių skrynios prieigos atšaukimo trukmę į %s dienų.</item>
+        <item quantity="other">Peržiūrėjome prašymą ir pakeitėme tavo lobių skrynios prieigos atšaukimo trukmę į %s dienų.</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="one">Tavo prieiga prie lobių skrynios užblokuota %s d. dėl daugkartinių Bendruomenės gairių pažeidimų.</item>
+        <item quantity="few">Tavo prieiga prie lobių skrynios užblokuota %s d. dėl daugkartinių Bendruomenės gairių pažeidimų.</item>
+        <item quantity="many">Tavo prieiga prie lobių skrynios užblokuota %s d. dėl daugkartinių Bendruomenės gairių pažeidimų.</item>
+        <item quantity="other">Tavo prieiga prie lobių skrynios užblokuota %s d. dėl daugkartinių Bendruomenės gairių pažeidimų.</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="one">Per pastarąsias 30 dienų gavai daugiau nei %s deimantą. Taip ir toliau, kad galėtum patekti į savaitės reitingą.</item>
+        <item quantity="few">Per pastarąsias 30 dienų gavai daugiau nei %s deimantus. Taip ir toliau, kad galėtum patekti į savaitės reitingą.</item>
+        <item quantity="many">Per pastarąsias 30 dienų gavai daugiau nei %s deimantų. Taip ir toliau, kad galėtum patekti į savaitės reitingą.</item>
+        <item quantity="other">Per pastarąsias 30 dienų gavai daugiau nei %s deimantų. Taip ir toliau, kad galėtum patekti į savaitės reitingą.</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="one">Šiame reitinge rodomi TIESIOGINIŲ transliacijų kūrėjai, per pastarąsias 30 d. gavę mažiau nei {0:string} Deimantą.</item>
+        <item quantity="few">Šiame reitinge rodomi TIESIOGINIŲ transliacijų kūrėjai, per pastarąsias 30 d. gavę mažiau nei {0:string} Deimantus.</item>
+        <item quantity="many">Šiame reitinge rodomi TIESIOGINIŲ transliacijų kūrėjai, per pastarąsias 30 d. gavę mažiau nei {0:string} Deimantų.</item>
+        <item quantity="other">Šiame reitinge rodomi TIESIOGINIŲ transliacijų kūrėjai, per pastarąsias 30 d. gavę mažiau nei {0:string} Deimantų.</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="one">Dovanojimo funkcija užblokuota %s dienai</item>
+        <item quantity="few">Dovanojimo funkcija užblokuota %s dienoms</item>
+        <item quantity="many">Dovanojimo funkcija užblokuota %s dienų</item>
+        <item quantity="other">Dovanojimo funkcija užblokuota %s dienų</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="one">Dabar turi {number_1} Monetą. Norint išsiųsti prekę, reikia papildyti {number_2} ({amount}) Monetomis.</item>
+        <item quantity="few">Dabar turi {number_1} Monetas. Norint išsiųsti prekę, reikia papildyti {number_2} ({amount}) Monetomis.</item>
+        <item quantity="many">Dabar turi {number_1} Monetų. Norint išsiųsti prekę, reikia papildyti {number_2} ({amount}) Monetomis.</item>
+        <item quantity="other">Dabar turi {number_1} Monetų. Norint išsiųsti prekę, reikia papildyti {number_2} ({amount}) Monetomis.</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="one">Trūksta %s monetos</item>
+        <item quantity="few">Trūksta %s monetų</item>
+        <item quantity="many">Trūksta %s monetų</item>
+        <item quantity="other">Trūksta %s monetų</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="one">Gavai {number} kvietimo nuorodą</item>
+        <item quantity="few">Gavai {number} kvietimo nuorodas</item>
+        <item quantity="many">Gavai {number} kvietimo nuorodų</item>
+        <item quantity="other">Gavai {number} kvietimo nuorodų</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="one">Atverk prenumeratos kvietimą, kurį gavai nuo %s</item>
+        <item quantity="few">Atverk prenumeratos kvietimus, kuriuos gavai nuo %s ir kitų</item>
+        <item quantity="many">Atverk prenumeratos kvietimų, kuriuos gavai nuo %s ir kitų</item>
+        <item quantity="other">Atverk prenumeratos kvietimų, kuriuos gavai nuo %s ir kitų</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="one">Paprašyta: prieš %d min.</item>
+        <item quantity="few">Paprašyta: prieš %d min.</item>
+        <item quantity="many">Paprašyta: prieš %d min.</item>
+        <item quantity="other">Paprašyta: prieš %d min.</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="one">Dovanojimo funkcija užblokuota %s dienai</item>
+        <item quantity="few">Dovanojimo funkcija užblokuota %s dienoms</item>
+        <item quantity="many">Dovanojimo funkcija užblokuota %s dienų</item>
+        <item quantity="other">Dovanojimo funkcija užblokuota %s dienų</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="one">Prieiga bus atkurta per %s dieną.</item>
+        <item quantity="few">Prieiga bus atkurta per %s dienas.</item>
+        <item quantity="many">Prieiga bus atkurta per %s dienų.</item>
+        <item quantity="other">Prieiga bus atkurta per %s dienų.</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="one">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga prie LIVE Studio bus atkurta per %s dieną.</item>
+        <item quantity="few">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga prie LIVE Studio bus atkurta per %s dienas.</item>
+        <item quantity="many">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga prie LIVE Studio bus atkurta per %s dienų.</item>
+        <item quantity="other">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga prie LIVE Studio bus atkurta per %s dienų.</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="one">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga prie mobiliųjų žaidimų bus atkurta per %s dieną.</item>
+        <item quantity="few">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga prie mobiliųjų žaidimų bus atkurta per %s dienas.</item>
+        <item quantity="many">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga prie mobiliųjų žaidimų bus atkurta per %s dienų.</item>
+        <item quantity="other">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga prie mobiliųjų žaidimų bus atkurta per %s dienų.</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="one">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga transliuoti TIESIOGIAI naudojant kompiuterį arba Mac bus atkurta per %s dieną.</item>
+        <item quantity="few">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga transliuoti TIESIOGIAI naudojant kompiuterį arba Mac bus atkurta per %s dienas.</item>
+        <item quantity="many">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga transliuoti TIESIOGIAI naudojant kompiuterį arba Mac bus atkurta per %s dienų.</item>
+        <item quantity="other">Gavome tavo skundą ir pakoregavome atšaukimo trukmę. Tavo prieiga transliuoti TIESIOGIAI naudojant kompiuterį arba Mac bus atkurta per %s dienų.</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="one">Tavo prieiga prie LIVE Studio užblokuota %s dienai dėl pakartotinių TIESIOGINIŲ transliacijų taisyklių ar Bendruomenės gairių pažeidimų.</item>
+        <item quantity="few">Tavo prieiga prie LIVE Studio užblokuota %s dienoms dėl pakartotinių TIESIOGINIŲ transliacijų taisyklių ar Bendruomenės gairių pažeidimų.</item>
+        <item quantity="many">Tavo prieiga prie LIVE Studio užblokuota %s dienos dėl pakartotinių TIESIOGINIŲ transliacijų taisyklių ar Bendruomenės gairių pažeidimų.</item>
+        <item quantity="other">Tavo prieiga prie LIVE Studio užblokuota %s dienų dėl pakartotinių TIESIOGINIŲ transliacijų taisyklių ar Bendruomenės gairių pažeidimų.</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="one">Tavo prieiga prie žaidimo mobiliajame įrenginyje funkcijos užblokuota %s dienai dėl pakartotinių TIESIOGINIŲ transliacijų taisyklių ar Bendruomenės gairių pažeidimų.</item>
+        <item quantity="few">Tavo prieiga prie žaidimo mobiliajame įrenginyje funkcijos užblokuota %s dienoms dėl pakartotinių TIESIOGINIŲ transliacijų taisyklių ar Bendruomenės gairių pažeidimų.</item>
+        <item quantity="many">Tavo prie žaidimo mobiliajame įrenginyje funkcijos užblokuota %s dienos dėl pakartotinių TIESIOGINIŲ transliacijų taisyklių ar Bendruomenės gairių pažeidimų.</item>
+        <item quantity="other">Tavo prieiga prie žaidimo mobiliajame įrenginyje funkcijos užblokuota %s dienų dėl pakartotinių TIESIOGINIŲ transliacijų taisyklių ar Bendruomenės gairių pažeidimų.</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="one">Tavo prieiga prie transliavimo TIESIOGIAI naudojant kompiuterį ar Mac funkcijos užblokuota %s dienai dėl pakartotinių TIESIOGINIŲ transliacijų taisyklių ar Bendruomenės gairių pažeidimų.</item>
+        <item quantity="few">Tavo prieiga prie transliavimo TIESIOGIAI naudojant kompiuterį ar Mac funkcijos užblokuota %s dienoms dėl pakartotinių TIESIOGINIŲ transliacijų taisyklių ar Bendruomenės gairių pažeidimų.</item>
+        <item quantity="many">Tavo prie transliavimo TIESIOGIAI naudojant kompiuterį ar Mac funkcijos užblokuota %s dienos dėl pakartotinių TIESIOGINIŲ transliacijų taisyklių ar Bendruomenės gairių pažeidimų.</item>
+        <item quantity="other">Tavo prieiga prie transliavimo TIESIOGIAI naudojant kompiuterį ar Mac funkcijos užblokuota %s dienų dėl pakartotinių TIESIOGINIŲ transliacijų taisyklių ar Bendruomenės gairių pažeidimų.</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="one">Tikslas: {&lt;num&gt;} dovanotojas</item>
+        <item quantity="few">Tikslas: {&lt;num&gt;} dovanotojai</item>
+        <item quantity="many">Tikslas: {&lt;num&gt;} dovanotojų</item>
+        <item quantity="other">Tikslas: {&lt;num&gt;} dovanotojų</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="one">Tikslas: {&lt;num&gt;} dovanojimo taškas</item>
+        <item quantity="few">Tikslas: {&lt;num&gt;} dovanojimo taškai</item>
+        <item quantity="many">Tikslas: {&lt;num&gt;} dovanojimo taškų</item>
+        <item quantity="other">Tikslas: {&lt;num&gt;} dovanojimo taškų</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="one">Tikslas: {&lt;num&gt;} komandos dovanotojas</item>
+        <item quantity="few">Tikslas: {&lt;num&gt;} komandos dovanotojai</item>
+        <item quantity="many">Tikslas: {&lt;num&gt;} komandos dovanotojų</item>
+        <item quantity="other">Tikslas: {&lt;num&gt;} komandos dovanotojų</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="one">Tikslas: {&lt;num&gt;} komandos dovanojimo taškas</item>
+        <item quantity="few">Tikslas: {&lt;num&gt;} komandos dovanojimo taškai</item>
+        <item quantity="many">Tikslas: {&lt;num&gt;} komandos dovanojimo taškų</item>
+        <item quantity="other">Tikslas: {&lt;num&gt;} komandos dovanojimo taškų</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="one">+ &lt;num&gt; varžybų taškas</item>
+        <item quantity="few">+ &lt;num&gt; varžybų taškai</item>
+        <item quantity="many">+ &lt;num&gt; varžybų taškų</item>
+        <item quantity="other">+ &lt;num&gt; varžybų taškų</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="one">Tavo komentarą viršuje matys %s žiūrovas</item>
+        <item quantity="few">Tavo komentarą viršuje matys %s žiūrovai</item>
+        <item quantity="many">Tavo komentarą viršuje matys %s žiūrovų</item>
+        <item quantity="other">Tavo komentarą viršuje matys %s žiūrovų</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="one">Tavo komentaras su žvaigždute pašalintas TIESIOGINĖS transliacijos metu, už jį per 24 val. tau bus grąžinta [0:string] Moneta.</item>
+        <item quantity="few">Tavo komentaras su žvaigždute pašalintas TIESIOGINĖS transliacijos metu, už jį per 24 val. tau bus grąžintos [0:string] Monetos.</item>
+        <item quantity="many">Tavo komentaras su žvaigždute pašalintas TIESIOGINĖS transliacijos metu, už jį per 24 val. tau bus grąžinta [0:string] Monetų.</item>
+        <item quantity="other">Tavo komentaras su žvaigždute pašalintas TIESIOGINĖS transliacijos metu, už jį per 24 val. tau bus grąžinta [0:string] Monetų.</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="one">Eilėje %s komentaras su žvaigždute</item>
+        <item quantity="few">Eilėje %s komentarai su žvaigždute</item>
+        <item quantity="many">Eilėje %s komentarų su žvaigždute</item>
+        <item quantity="other">Eilėje %s komentarų su žvaigždute</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="one">Tavo komentarai su žvaigždute neseniai buvo pašalinti. Pabandyk dar kartą po {num} valandos.</item>
+        <item quantity="few">Tavo komentarai su žvaigždute neseniai buvo pašalinti. Pabandyk dar kartą po {num} valandų.</item>
+        <item quantity="many">Tavo komentarai su žvaigždute neseniai buvo pašalinti. Pabandyk dar kartą po {num} valandų.</item>
+        <item quantity="other">Tavo komentarai su žvaigždute neseniai buvo pašalinti. Pabandyk dar kartą po {num} valandų.</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="one">Tavo komentarai su žvaigždute neseniai buvo pašalinti. Pabandyk dar kartą po {num} minutės.</item>
+        <item quantity="few">Tavo komentarai su žvaigždute neseniai buvo pašalinti. Pabandyk dar kartą po {num} minučių.</item>
+        <item quantity="many">Tavo komentarai su žvaigždute neseniai buvo pašalinti. Pabandyk dar kartą po {num} minučių.</item>
+        <item quantity="other">Tavo komentarai su žvaigždute neseniai buvo pašalinti. Pabandyk dar kartą po {num} minučių.</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="one">Baigiasi po %s dienos</item>
+        <item quantity="few">Baigiasi po %s dienų</item>
+        <item quantity="many">Baigiasi po %s dienų</item>
+        <item quantity="other">Baigiasi po %s dienų</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="one">Žiūri tiek žiūrovų: %1$s. Jei dabar pradėsi tik prenumeratoriams skirtą TIESIOGINĘ transliaciją, gali pritraukti %2$s naują prenumeratorių.</item>
+        <item quantity="few">Žiūri tiek žiūrovų: %1$s. Jei dabar pradėsi tik prenumeratoriams skirtą TIESIOGINĘ transliaciją, gali pritraukti %2$s naujus prenumeratorius.</item>
+        <item quantity="many">Žiūri tiek žiūrovų: %1$s. Jei dabar pradėsi tik prenumeratoriams skirtą TIESIOGINĘ transliaciją, gali pritraukti %2$s naujų prenumeratorių.</item>
+        <item quantity="other">Žiūri tiek žiūrovų: %1$s. Jei dabar pradėsi tik prenumeratoriams skirtą TIESIOGINĘ transliaciją, gali pritraukti %2$s naujų prenumeratorių.</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="one">Žiūri %s prenumeratorius. Dabar puikus laikas sutvirtinti ryšį su bendruomene transliuojant TIESIOGIAI tik prenumeratoriams.</item>
+        <item quantity="few">Žiūri %s prenumeratoriai. Dabar puikus laikas sutvirtinti ryšį su bendruomene transliuojant TIESIOGIAI tik prenumeratoriams.</item>
+        <item quantity="many">Žiūri %s prenumeratorių. Dabar puikus laikas sutvirtinti ryšį su bendruomene transliuojant TIESIOGIAI tik prenumeratoriams.</item>
+        <item quantity="other">Žiūri %s prenumeratorių. Dabar puikus laikas sutvirtinti ryšį su bendruomene transliuojant TIESIOGIAI tik prenumeratoriams.</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="one">Gali pritraukti %1$s naują prenumeratorių, jei kiekvieną mėnesį %2$s min. transliuosi TIESIOGIAI tik prenumeratoriams.</item>
+        <item quantity="few">Gali pritraukti %1$s naujus prenumeratorius, jei kiekvieną mėnesį %2$s min. transliuosi TIESIOGIAI tik prenumeratoriams.</item>
+        <item quantity="many">Gali pritraukti %1$s naujų prenumeratorių, jei kiekvieną mėnesį %2$s min. transliuosi TIESIOGIAI tik prenumeratoriams.</item>
+        <item quantity="other">Gali pritraukti %1$s naujų prenumeratorių, jei kiekvieną mėnesį %2$s min. transliuosi TIESIOGIAI tik prenumeratoriams.</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="one">Komentare gali įvesti %s jaustuką</item>
+        <item quantity="few">Komentare gali įvesti iki %s jaustukų</item>
+        <item quantity="many">Komentare gali įvesti iki %s jaustukų</item>
+        <item quantity="other">Komentare gali įvesti iki %s jaustukų</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="one">Prenumeruok, kad galėtum naudoti %1$s %2$s pritaikytą jaustuką</item>
+        <item quantity="few">Prenumeruok, kad galėtum naudoti %1$s %2$s pritaikytus jaustukus</item>
+        <item quantity="many">Prenumeruok, kad galėtum naudoti %1$s %2$s pritaikytų jaustukų</item>
+        <item quantity="other">Prenumeruok, kad galėtum naudoti %1$s %2$s pritaikytų jaustukų</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="one">Turi mažiau nei {number} stebėtoją</item>
+        <item quantity="few">Turi mažiau nei {number} stebėtojus</item>
+        <item quantity="many">Turi mažiau nei {number} stebėtojų</item>
+        <item quantity="other">Turi mažiau nei {number} stebėtojų</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="one">Negalima pakviesti kūrėjų, turinčių mažiau nei {number} stebėtoją</item>
+        <item quantity="few">Negalima pakviesti kūrėjų, turinčių mažiau nei {number} stebėtojus</item>
+        <item quantity="many">Negalima pakviesti kūrėjų, turinčių mažiau nei {number} stebėtojų</item>
+        <item quantity="other">Negalima pakviesti kūrėjų, turinčių mažiau nei {number} stebėtojų</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="one">Pakviesk dar {number1} kūrėją, kad užimtum {number2} vietą! Taip ir toliau!</item>
+        <item quantity="few">Pakviesk dar {number1} kūrėjus, kad užimtum {number2} vietą! Taip ir toliau!</item>
+        <item quantity="many">Pakviesk dar {number1} kūrėjų, kad užimtum {number2} vietą! Taip ir toliau!</item>
+        <item quantity="other">Pakviesk dar {number1} kūrėjų, kad užimtum {number2} vietą! Taip ir toliau!</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="one">Pakviesk dar {number} kūrėją, kad užimtum {rankminusone} vietą! Taip ir toliau!</item>
+        <item quantity="few">Pakviesk dar {number} kūrėjus, kad užimtum {rankminusone} vietą! Taip ir toliau!</item>
+        <item quantity="many">Pakviesk dar {number} kūrėjų, kad užimtum {rankminusone} vietą! Taip ir toliau!</item>
+        <item quantity="other">Pakviesk dar {number} kūrėjų, kad užimtum {rankminusone} vietą! Taip ir toliau!</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="one">Gali kviesti tik kūrėjus, turinčius daugiau nei {number} stebėtoją.</item>
+        <item quantity="few">Gali kviesti tik kūrėjus, turinčius daugiau nei {number} stebėtojus.</item>
+        <item quantity="many">Gali kviesti tik kūrėjus, turinčius daugiau nei {number} stebėtojų.</item>
+        <item quantity="other">Gali kviesti tik kūrėjus, turinčius daugiau nei {number} stebėtojų.</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="one">Tavo dabartinis priedas gali pritraukti %d%% daugiau prenumeratorių.</item>
+        <item quantity="few">Tavo dabartiniai priedai gali pritraukti %d%% daugiau prenumeratorių.</item>
+        <item quantity="many">Tavo dabartiniai priedai gali pritraukti %d%% daugiau prenumeratorių.</item>
+        <item quantity="other">Tavo dabartiniai priedai gali pritraukti %d%% daugiau prenumeratorių.</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="one">%1$s tik ką įsigijo %2$d mėnesio prenumeratą!</item>
+        <item quantity="few">%1$s tik ką įsigijo %2$d mėnesių prenumeratą!</item>
+        <item quantity="many">%1$s tik ką įsigijo %2$d mėnesių prenumeratą!</item>
+        <item quantity="other">%1$s tik ką įsigijo %2$d mėnesių prenumeratą!</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="one">Tai gali įjungti arba išjungti vieną kartą per %s minutę. Bandyk dar kartą vėliau.</item>
+        <item quantity="few">Tai gali įjungti arba išjungti vieną kartą per %s minutes. Bandyk dar kartą vėliau.</item>
+        <item quantity="many">Tai gali įjungti arba išjungti vieną kartą per %s minučių. Bandyk dar kartą vėliau.</item>
+        <item quantity="other">Tai gali įjungti arba išjungti vieną kartą per %s minučių. Bandyk dar kartą vėliau.</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="one">Turi {num} prenumeratos dovaną. Siųsk kitiems dabar!</item>
+        <item quantity="few">Turi {num} prenumeratos dovanas. Siųsk kitiems dabar!</item>
+        <item quantity="many">Turi {num} prenumeratos dovanų. Siųsk kitiems dabar!</item>
+        <item quantity="other">Turi {num} prenumeratos dovaną. Siųsk kitiems dabar!</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="one">Tau liko %d prenumeratos dovana. Siųsk kitiems dabar!</item>
+        <item quantity="few">Tau liko %d prenumeratos dovanos. Siųsk kitiems dabar!</item>
+        <item quantity="many">Tau liko %d prenumeratos dovanų. Siųsk kitiems dabar!</item>
+        <item quantity="other">Tau liko %d prenumeratos dovanų. Siųsk kitiems dabar!</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="one">Sveikiname! Gavai [number] prenumeratos dovaną kaip atlygį už veiklą.</item>
+        <item quantity="few">Sveikiname! Gavai [number] prenumeratos dovanas kaip atlygį už veiklą.</item>
+        <item quantity="many">Sveikiname! Gavai [number] prenumeratos dovanų kaip atlygį už veiklą.</item>
+        <item quantity="other">Sveikiname! Gavai [number] prenumeratos dovanų kaip atlygį už veiklą.</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="one">Transliavote kartu prieš {num} dieną</item>
+        <item quantity="few">Transliavote kartu prieš {num} dienas</item>
+        <item quantity="many">Transliavote kartu prieš {num} dienų</item>
+        <item quantity="other">Transliavote kartu prieš {num} dienų</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="one">TIESIOGIAI transliavo su tavimi prieš {number} dieną</item>
+        <item quantity="few">TIESIOGIAI transliavo su tavimi prieš {number} dienas</item>
+        <item quantity="many">TIESIOGIAI transliavo su tavimi prieš {number} dienų</item>
+        <item quantity="other">TIESIOGIAI transliavo su tavimi prieš {number} dienų</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="one">Transliavo su tavimi prieš {num} dieną</item>
+        <item quantity="few">Transliavo su tavimi prieš {num} dienas</item>
+        <item quantity="many">Transliavo su tavimi prieš {num} dienų</item>
+        <item quantity="other">Transliavo su tavimi prieš {num} dienų</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="one">Tavo lobių skrynios prieiga užblokuota. Prieiga bus atkurta per %s d.</item>
+        <item quantity="few">Tavo lobių skrynios prieiga užblokuota. Prieiga bus atkurta per %s d.</item>
+        <item quantity="many">Tavo lobių skrynios prieiga užblokuota. Prieiga bus atkurta per %s d.</item>
+        <item quantity="other">Tavo lobių skrynios prieiga užblokuota. Prieiga bus atkurta per %s d.</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="one">populiariausias žiūrovas</item>
+        <item quantity="few">populiariausi žiūrovai</item>
+        <item quantity="many">populiariausių žiūrovų</item>
+        <item quantity="other">populiariausių žiūrovų</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="one">Populiariausias žiūrovas</item>
+        <item quantity="few">Populiariausi žiūrovai</item>
+        <item quantity="many">Populiariausi žiūrovai</item>
+        <item quantity="other">Populiariausi žiūrovai</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="one">Finalas prasideda po %s sekundės</item>
+        <item quantity="few">Finalas prasideda po %s sekundžių</item>
+        <item quantity="many">Finalas prasideda po %s sekundžių</item>
+        <item quantity="other">Finalas prasideda po %s sekundžių</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="one">Finalas prasideda po %s dienos</item>
+        <item quantity="few">Finalas prasideda po %s dienų</item>
+        <item quantity="many">Finalas prasideda po %s dienų</item>
+        <item quantity="other">Finalas prasideda po %s dienų</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="one">Finalas prasideda po %s valandos</item>
+        <item quantity="few">Finalas prasideda po %s valandų</item>
+        <item quantity="many">Finalas prasideda po %s valandų</item>
+        <item quantity="other">Finalas prasideda po %s valandų</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="one">Finalas prasideda po %s minutės</item>
+        <item quantity="few">Finalas prasideda po %s minučių</item>
+        <item quantity="many">Finalas prasideda po %s minučių</item>
+        <item quantity="other">Finalas prasideda po %s minučių</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="one">Pusfinalis prasideda po %s dienos</item>
+        <item quantity="few">Pusfinalis prasideda po %s dienų</item>
+        <item quantity="many">Pusfinalis prasideda po %s dienų</item>
+        <item quantity="other">Pusfinalis prasideda po %s dienų</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="one">Pusfinalis prasideda po %s valandos</item>
+        <item quantity="few">Pusfinalis prasideda po %s valandų</item>
+        <item quantity="many">Pusfinalis prasideda po %s valandų</item>
+        <item quantity="other">Pusfinalis prasideda po %s valandų</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="one">Pusfinalis prasideda po %s minutės</item>
+        <item quantity="few">Pusfinalis prasideda po %s minučių</item>
+        <item quantity="many">Pusfinalis prasideda po %s minučių</item>
+        <item quantity="other">Pusfinalis prasideda po %s minučių</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="one">Pusfinalis prasideda po %s sekundės</item>
+        <item quantity="few">Pusfinalis prasideda po %s sekundžių</item>
+        <item quantity="many">Pusfinalis prasideda po %s sekundžių</item>
+        <item quantity="other">Pusfinalis prasideda po %s sekundžių</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="one">Kad pakiltum į {1:string} vietą, reikia dar {0:string} Deimanto</item>
+        <item quantity="few">Kad pakiltum į {1:string} vietą, reikia dar {0:string} Deimantų</item>
+        <item quantity="many">Kad pakiltum į {1:string} vietą, reikia dar {0:string} Deimantų</item>
+        <item quantity="other">Kad pakiltum į {1:string} vietą, reikia dar {0:string} Deimantų</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="one">Kad pakiltum į {1:string} vietą, reikia dar {0:string} dovanotojo</item>
+        <item quantity="few">Kad pakiltum į {1:string} vietą, reikia dar {0:string} dovanotojų</item>
+        <item quantity="many">Kad pakiltum į {1:string} vietą, reikia dar {0:string} dovanotojų</item>
+        <item quantity="other">Kad pakiltum į {1:string} vietą, reikia dar {0:string} dovanotojų</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="one">diena</item>
+        <item quantity="few">dienos</item>
+        <item quantity="many">dienų</item>
+        <item quantity="other">dienų</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="one">Iškeitei {amount} į {num} monetą.</item>
+        <item quantity="few">Iškeitei {amount} į {num} monetas.</item>
+        <item quantity="many">Iškeitei {amount} į {num} monetų.</item>
+        <item quantity="other">Iškeitei {amount} į {num} monetų.</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="one">Įsigijai {num} monetą už {amount}.</item>
+        <item quantity="few">Įsigijai {num} monetas už {amount}.</item>
+        <item quantity="many">Įsigijai {num} monetų už {amount}.</item>
+        <item quantity="other">Įsigijai {num} monetų už {amount}.</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="one">Iki 2 vietos trūksta {num} komandos taško</item>
+        <item quantity="few">Iki 2 vietos trūksta {num} komandos taškų</item>
+        <item quantity="many">Iki 2 vietos trūksta {num} komandos taškų</item>
+        <item quantity="other">Iki 2 vietos trūksta {num} komandos taškų</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="one">+{num} nario taškas (%1$s/%2$s komandos Dovanų kasdien)</item>
+        <item quantity="few">+{num} nario taškai (%1$s/%2$s komandos Dovanų kasdien)</item>
+        <item quantity="many">+{num} nario taškų (%1$s/%2$s komandos Dovanų kasdien)</item>
+        <item quantity="other">+{num} nario taškų (%1$s/%2$s komandos Dovanų kasdien)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="one">%s žiūrovas prisijungė per paiešką</item>
+        <item quantity="few">%s žiūrovai prisijungė per paiešką</item>
+        <item quantity="many">%s žiūrovų prisijungė per paiešką</item>
+        <item quantity="other">%s žiūrovų prisijungė per paiešką</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="one">Kad pakiltum į %2$s vietą, reikia %1$s komandos taško</item>
+        <item quantity="few">Kad pakiltum į %2$s vietą, reikia %1$s komandos taškų</item>
+        <item quantity="many">Kad pakiltum į %2$s vietą, reikia %1$s komandos taškų</item>
+        <item quantity="other">Kad pakiltum į %2$s vietą, reikia %1$s komandos taškų</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="one">Kad pakiltum į %2$s vietą, reikia %1$s komandos taško</item>
+        <item quantity="few">Kad pakiltum į %2$s vietą, reikia %1$s komandos taškų</item>
+        <item quantity="many">Kad pakiltum į %2$s vietą, reikia %1$s komandos taškų</item>
+        <item quantity="other">Kad pakiltum į %2$s vietą, reikia %1$s komandos taškų</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="one">Kažkas nepavyko. Bandyk dar kartą po {number} valandos</item>
+        <item quantity="few">Kažkas nepavyko. Bandyk dar kartą po {number} valandų</item>
+        <item quantity="many">Kažkas nepavyko. Bandyk dar kartą po {number} valandų</item>
+        <item quantity="other">Kažkas nepavyko. Bandyk dar kartą po {number} valandų</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="one">Kažkas nepavyko. Vėl apsilankyk po {number} minutės</item>
+        <item quantity="few">Kažkas nepavyko. Vėl apsilankyk po {number} minučių</item>
+        <item quantity="many">Kažkas nepavyko. Vėl apsilankyk po {number} minučių</item>
+        <item quantity="other">Kažkas nepavyko. Vėl apsilankyk po {number} minučių</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="one">Žiūrovas</item>
+        <item quantity="few">Žiūrovai</item>
+        <item quantity="many">Žiūrovų</item>
+        <item quantity="other">Žiūrovų</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="one">%d žiūrovas</item>
+        <item quantity="few">%d žiūrovai</item>
+        <item quantity="many">%d žiūrovų</item>
+        <item quantity="other">%d žiūrovų</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="one">%s žiūrovas</item>
+        <item quantity="few">%s žiūrovai</item>
+        <item quantity="many">%s žiūrovų</item>
+        <item quantity="other">%s žiūrovų</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="one">%s žiūrovas atsiuntė dovanų</item>
+        <item quantity="few">%s žiūrovai atsiuntė dovanų</item>
+        <item quantity="many">%s žiūrovų atsiuntė dovanų</item>
+        <item quantity="other">%s žiūrovų atsiuntė dovanų</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="one">Įrašas (%s)</item>
+        <item quantity="few">Įrašai (%s)</item>
+        <item quantity="many">Įrašai (%s)</item>
+        <item quantity="other">Įrašai (%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="one">(%s peržiūra)</item>
+        <item quantity="few">(%s peržiūros)</item>
+        <item quantity="many">(%s peržiūrų)</item>
+        <item quantity="other">(%s peržiūrų)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="one">%s nuotrauka neįkelta. Bandyk dar kartą.</item>
+        <item quantity="few">%s nuotraukos neįkeltos. Bandyk dar kartą.</item>
+        <item quantity="many">%s nuotraukų neįkelta. Bandyk dar kartą.</item>
+        <item quantity="other">%s nuotraukos (-ų) neįkelta. Bandyk dar kartą.</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="one">%d panašus garsas</item>
+        <item quantity="few">%d panašūs garsai</item>
+        <item quantity="many">%d panašių garsų</item>
+        <item quantity="other">%d panašūs (-ių) garsai (-ų)</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="one">%d profilio peržiūra</item>
+        <item quantity="few">%d profilio peržiūros</item>
+        <item quantity="many">%d profilio peržiūrų</item>
+        <item quantity="other">%d profilio peržiūros (-ų)</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="one">Stebėtojas</item>
+        <item quantity="few">Stebėtojai</item>
+        <item quantity="many">Stebėtojų</item>
+        <item quantity="other">Stebėtojų</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="one">%1$s gavo %2$s patiktuką</item>
+        <item quantity="few">%1$s gavo iš viso %2$s patiktukus iš visų video</item>
+        <item quantity="many">%1$s gavo iš viso %2$s patiktukų iš visų video</item>
+        <item quantity="other">%1$s gavo iš viso %2$s patiktukus (-ų) iš visų video</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="one">peržiūrėjo tavo profilį.</item>
+        <item quantity="few">peržiūrėjo tavo profilį.</item>
+        <item quantity="many">peržiūrėjo tavo profilį.</item>
+        <item quantity="other">peržiūrėjo tavo profilį.</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="one">%1$s, %2$s ir dar %d kitas</item>
+        <item quantity="few">%1$s, %2$s ir dar %d kiti</item>
+        <item quantity="many">%1$s, %2$s ir dar %d kitų</item>
+        <item quantity="other">%1$s, %2$s ir dar %d kitų</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="one">Tavo profilį peržiūrėjo %s žmogus.</item>
+        <item quantity="few">Tavo profilį peržiūrėjo %s žmonės.</item>
+        <item quantity="many">Tavo profilį peržiūrėjo %s žmonių.</item>
+        <item quantity="other">Tavo profilį peržiūrėjo %s žmonių.</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="one">Tavo profilį peržiūrėjo {0}, {1} ir dar {2}.</item>
+        <item quantity="few">Tavo profilį peržiūrėjo {0}, {1} ir dar {2}.</item>
+        <item quantity="many">Tavo profilį peržiūrėjo {0}, {1} ir dar {2}.</item>
+        <item quantity="other">Tavo profilį peržiūrėjo {0}, {1} ir dar {2}.</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="one">Išsiuntėme tau pranešimą į %1$s ir %2$s kitą įrenginį. Įsitikink, kad TikTok programėlė atverta, ir spustelėk „Taip“ gautame pranešime, kad galėtum tęsti prisijungimą.</item>
+        <item quantity="few">Išsiuntėme tau pranešimą į %1$s ir %2$s kitus įrenginius. Įsitikink, kad TikTok programėlė atverta, ir spustelėk „Taip“ gautame pranešime, kad galėtum tęsti prisijungimą.</item>
+        <item quantity="many">Išsiuntėme tau pranešimą į %1$s ir %2$s kitų įrenginių. Įsitikink, kad TikTok programėlė atverta, ir spustelėk „Taip“ gautame pranešime, kad galėtum tęsti prisijungimą.</item>
+        <item quantity="other">Išsiuntėme tau pranešimą į %1$s ir %2$s kitų įrenginių. Įsitikink, kad TikTok programėlė atverta, ir spustelėk „Taip“ gautame pranešime, kad galėtum tęsti prisijungimą.</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="one">%s video</item>
+        <item quantity="few">%s video</item>
+        <item quantity="many">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="one">%d video</item>
+        <item quantity="few">%d video</item>
+        <item quantity="many">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="one">%s negalimas klausimas buvo pašalintas iš tavo kvietimų</item>
+        <item quantity="few">%s negalimi klausimai buvo pašalinti iš tavo kvietimų</item>
+        <item quantity="many">%s negalimų klausimų buvo pašalintų iš tavo kvietimų</item>
+        <item quantity="other">%s negalimų klausimų buvo pašalintų iš tavo kvietimų</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="one">%s nauja žinutė</item>
+        <item quantity="few">%s naujos žinutės</item>
+        <item quantity="many">%s naujų žinučių</item>
+        <item quantity="other">%s naujos (-ų) žinutės (-ių)</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="one">%s nauja reakcija</item>
+        <item quantity="few">%s naujos reakcijos</item>
+        <item quantity="many">%s naujos reakcijos</item>
+        <item quantity="other">%s naujų reakcijų</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="one">%d rekomendavo</item>
+        <item quantity="few">%d rekomendavo</item>
+        <item quantity="many">%d rekomendavo</item>
+        <item quantity="other">%d rekomendavo</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="one">%d rekomendavo</item>
+        <item quantity="few">%d rekomendavo</item>
+        <item quantity="many">%d rekomendavo</item>
+        <item quantity="other">%d rekomendavo</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="one">Peržiūrėk dar %d rekomendaciją</item>
+        <item quantity="few">Peržiūrėk dar %d rekomendacijas</item>
+        <item quantity="many">Peržiūrėk dar %d rekomendacijų</item>
+        <item quantity="other">Peržiūrėk dar %d rekomendacijų</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="one">Įrašyti iki %d sek.</item>
+        <item quantity="few">Įrašyti iki %d sek.</item>
+        <item quantity="many">Įrašyti iki %d sek.</item>
+        <item quantity="other">Įrašyti iki %d sek.</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="one">Įrašyk iki %d sek., naudodamas (-a) pirminio video garsą</item>
+        <item quantity="few">Įrašyk iki %d sek., naudodamas (-a) pirminio video garsą</item>
+        <item quantity="many">Įrašyk iki %d sek., naudodamas (-a) pirminio video garsą</item>
+        <item quantity="other">Įrašyk iki %d sek., naudodamas (-a) pirminio video garsą</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="one">Juodraštis (%d)</item>
+        <item quantity="few">Juodraščiai (%d)</item>
+        <item quantity="many">Juodraščiai (%d)</item>
+        <item quantity="other">Juodraščiai (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="one">Jei pasirinksi atkurti šį garsą, tavo video bus nutildytas.</item>
+        <item quantity="few">Jei pasirinksi atkurti šiuos garsus, tavo video bus nutildytas.</item>
+        <item quantity="many">Jei pasirinksi atkurti šiuos garsus, tavo video bus nutildytas.</item>
+        <item quantity="other">Jei pasirinksi atkurti šiuos garsus, tavo video bus nutildytas.</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="one">Atkurti autorių teisių saugomą garsą?</item>
+        <item quantity="few">Atkurti autorių teisių saugomus garsus?</item>
+        <item quantity="many">Atkurti autorių teisių saugomus garsus?</item>
+        <item quantity="other">Atkurti autorių teisių saugomus garsus?</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="one">Autorių teisių saugomas garsas pašalintas</item>
+        <item quantity="few">Autorių teisių saugomi garsai pašalinti</item>
+        <item quantity="many">Autorių teisių saugomi garsai pašalinti</item>
+        <item quantity="other">Autorių teisių saugomi garsai pašalinti</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="one">Šalinamas garsas</item>
+        <item quantity="few">Šalinami garsai</item>
+        <item quantity="many">Šalinami garsai</item>
+        <item quantity="other">Šalinami garsai</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="one">Garsas pašalintas</item>
+        <item quantity="few">Garsai pašalinti</item>
+        <item quantity="many">Garsai pašalinti</item>
+        <item quantity="other">Garsai pašalinti</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="one">Pakeisti garsą</item>
+        <item quantity="few">Pakeisti garsus</item>
+        <item quantity="many">Pakeisti garsus</item>
+        <item quantity="other">Pakeisti garsus</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="one">Šalinamas autorių teisių saugomas garsas...</item>
+        <item quantity="few">Šalinami autorių teisių saugomi garsai...</item>
+        <item quantity="many">Šalinami autorių teisių saugomi garsai...</item>
+        <item quantity="other">Šalinami autorių teisių saugomi garsai...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="one">Tavo video aptikome ilgesnį kaip 1 minutės trukmės autorių teises pažeidžiantį garsą, jei pasirinksi tęsti, jis bus nutildytas. Pakeisk garsą arba sutrumpink video. %s</item>
+        <item quantity="few">Tavo video aptikome ilgesnių kaip 1 minutės trukmės autorių teises pažeidžiančių garsų, jei pasirinksi tęsti, jie bus nutildyti. Pakeisk garsus arba sutrumpink video. %s</item>
+        <item quantity="many">Tavo video aptikome ilgesnių kaip 1 minutės trukmės autorių teises pažeidžiančių garsų, jei pasirinksi tęsti, jie bus nutildyti. Pakeisk garsus arba sutrumpink video. %s</item>
+        <item quantity="other">Tavo video aptikome ilgesnių kaip 1 minutės trukmės autorių teises pažeidžiančių garsų, jei pasirinksi tęsti, jie bus nutildyti. Pakeisk garsus arba sutrumpink video. %s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="one">Pakeisti garsą</item>
+        <item quantity="few">Pakeisti garsus</item>
+        <item quantity="many">Pakeisti garsus</item>
+        <item quantity="other">Pakeisti garsus</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="one">Šalinamas autorių teisių saugomas garsas...</item>
+        <item quantity="few">Šalinami autorių teisių saugomi garsai...</item>
+        <item quantity="many">Šalinami autorių teisių saugomi garsai...</item>
+        <item quantity="other">Šalinami autorių teisių saugomi garsai...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="one">Tavo video aptikome autorių teises pažeidžiantį garsą. Tavo video bus nutildytas, jei pasirinksi tęsti, taip pat gali garsą pakeisti. %s</item>
+        <item quantity="few">Tavo video aptikome autorių teises pažeidžiančių garsų. Tavo video bus nutildytas, jei pasirinksi tęsti, taip pat gali garsus pakeisti. %s</item>
+        <item quantity="many">Tavo video aptikome autorių teises pažeidžiančių garsų. Tavo video bus nutildytas, jei pasirinksi tęsti, taip pat gali garsus pakeisti. %s</item>
+        <item quantity="other">Tavo video aptikome autorių teises pažeidžiančių garsų. Tavo video bus nutildytas, jei pasirinksi tęsti, taip pat gali garsus pakeisti. %s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="one">Autorių teisių saugomas garsas</item>
+        <item quantity="few">Autorių teisių saugomi garsai</item>
+        <item quantity="many">Autorių teisių saugomi garsai</item>
+        <item quantity="other">Autorių teisių saugomi garsai</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="one">Autorių teisių turėtojas suteikė leidimą šį garsą naudoti tik 1 minutę.</item>
+        <item quantity="few">Autorių teisių turėtojai suteikė leidimą šiuos garsus naudoti tik 1 minutę.</item>
+        <item quantity="many">Autorių teisių turėtojai suteikė leidimą šiuos garsus naudoti tik 1 minutę.</item>
+        <item quantity="other">Autorių teisių turėtojai suteikė leidimą šiuos garsus naudoti tik 1 minutę.</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="one">Autorių teisių turėtojas nesuteikė leidimo naudoti šį garsą.</item>
+        <item quantity="few">Autorių teisių turėtojai nesuteikė leidimo naudoti šiuos garsus.</item>
+        <item quantity="many">Autorių teisių turėtojai nesuteikė leidimo naudoti šių garsų.</item>
+        <item quantity="other">Autorių teisių turėtojai nesuteikė leidimo naudoti šių garsų.</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="one">Pakeisti garsą</item>
+        <item quantity="few">Pakeisti garsus</item>
+        <item quantity="many">Pakeisti garsus</item>
+        <item quantity="other">Pakeisti garsus</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="one">Tavo video aptikome ilgesnį kaip 1 minutės trukmės autorių teises pažeidžiantį garsą, jei pasirinksi tęsti, jis bus nutildytas. Pakeisk garsą arba sutrumpink video. %s</item>
+        <item quantity="few">Tavo video aptikome ilgesnių kaip 1 minutės trukmės autorių teises pažeidžiančių garsų, jei pasirinksi tęsti, jie bus nutildyti. Pakeisk garsus arba sutrumpink video. %s</item>
+        <item quantity="many">Tavo video aptikome ilgesnių kaip 1 minutės trukmės autorių teises pažeidžiančių garsų, jei pasirinksi tęsti, jie bus nutildyti. Pakeisk garsus arba sutrumpink video. %s</item>
+        <item quantity="other">Tavo video aptikome ilgesnių kaip 1 minutės trukmės autorių teises pažeidžiančių garsų, jei pasirinksi tęsti, jie bus nutildyti. Pakeisk garsus arba sutrumpink video. %s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="one">Pakeisti garsą</item>
+        <item quantity="few">Pakeisti garsus</item>
+        <item quantity="many">Pakeisti garsus</item>
+        <item quantity="other">Pakeisti garsus</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="one">Tavo video aptikome autorių teises pažeidžiantį garsą. Tavo video bus nutildytas, jei pasirinksi tęsti, taip pat gali garsą pakeisti. %s</item>
+        <item quantity="few">Tavo video aptikome autorių teises pažeidžiančių garsų. Tavo video bus nutildytas, jei pasirinksi tęsti, taip pat gali garsus pakeisti. %s</item>
+        <item quantity="many">Tavo video aptikome autorių teises pažeidžiančių garsų. Tavo video bus nutildytas, jei pasirinksi tęsti, taip pat gali garsus pakeisti. %s</item>
+        <item quantity="other">Tavo video aptikome autorių teises pažeidžiančių garsų. Tavo video bus nutildytas, jei pasirinksi tęsti, taip pat gali garsus pakeisti. %s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="one">Pašalinti video (%d)</item>
+        <item quantity="few">Pašalinti video (%d)</item>
+        <item quantity="many">Pašalinti video (%d)</item>
+        <item quantity="other">Pašalinti video (%d)</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="one">%d paskelbimas iš naujo</item>
+        <item quantity="few">%d paskelbimai iš naujo</item>
+        <item quantity="many">%d paskelbimų iš naujo</item>
+        <item quantity="other">%d paskelbimų iš naujo</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="one">%d paskelbė iš naujo</item>
+        <item quantity="few">%d paskelbė iš naujo</item>
+        <item quantity="many">%d paskelbė iš naujo</item>
+        <item quantity="other">%d paskelbė iš naujo</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="one">%d paskelbė iš naujo</item>
+        <item quantity="few">%d paskelbė iš naujo</item>
+        <item quantity="many">%d paskelbė iš naujo</item>
+        <item quantity="other">%d paskelbė iš naujo</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="one">Peržiūrėti dar %d iš naujo paskelbtą įrašą</item>
+        <item quantity="few">Peržiūrėti dar %d iš naujo paskelbtus įrašus</item>
+        <item quantity="many">Peržiūrėti dar %d iš naujo paskelbtų įrašų</item>
+        <item quantity="other">Peržiūrėti dar %d iš naujo paskelbtų įrašų</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="one">%d diena</item>
+        <item quantity="few">%d dienos</item>
+        <item quantity="many">%d dienų</item>
+        <item quantity="other">%d dienų</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="one">Atlik dar %1$d paiešką, kad gautum %2$d taškus (-ų)</item>
+        <item quantity="few">Atlik dar %1$d paiešką, kad gautum %2$d taškus (-ų)</item>
+        <item quantity="many">Atlik dar %1$d paiešką, kad gautum %2$d taškus (-ų)</item>
+        <item quantity="other">Atlik dar %1$d paiešką, kad gautum %2$d taškus (-ų)</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="one">Naršyk paieškos rezultatus %d sek.</item>
+        <item quantity="few">Naršyk paieškos rezultatus %d sek.</item>
+        <item quantity="many">Naršyk paieškos rezultatus %d sek.</item>
+        <item quantity="other">Naršyk paieškos rezultatus %d sek.</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="one">Atlik dar %1$d paiešką, kad gautum %2$d taškus (-ų)!</item>
+        <item quantity="few">Atlik dar %1$d paiešką, kad gautum %2$d taškus (-ų)!</item>
+        <item quantity="many">Atlik dar %1$d paiešką, kad gautum %2$d taškus (-ų)!</item>
+        <item quantity="other">Atlik dar %1$d paiešką, kad gautum %2$d taškus (-ų)!</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="one">%d atitinkantis garsas</item>
+        <item quantity="few">%d atitinkantys garsai</item>
+        <item quantity="many">%d atitinkančių garsų</item>
+        <item quantity="other">%d atitinkančių garsų</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="one">Atnaujinta prieš %d d.</item>
+        <item quantity="few">Atnaujinta prieš %d d.</item>
+        <item quantity="many">Atnaujinta prieš %d d.</item>
+        <item quantity="other">Atnaujinta prieš %d d.</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="one">Atnaujinta prieš %d val.</item>
+        <item quantity="few">Atnaujinta prieš %d val.</item>
+        <item quantity="many">Atnaujinta prieš %d val.</item>
+        <item quantity="other">Atnaujinta prieš %d val.</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="one">Atnaujinta prieš %d min.</item>
+        <item quantity="few">Atnaujinta prieš %d min.</item>
+        <item quantity="many">Atnaujinta prieš %d min.</item>
+        <item quantity="other">Atnaujinta prieš %d min.</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="one">Atnaujinta prieš %d s</item>
+        <item quantity="few">Atnaujinta prieš %d s</item>
+        <item quantity="many">Atnaujinta prieš %d s</item>
+        <item quantity="other">Atnaujinta prieš %d s</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="one">Atnaujinta prieš %d sav.</item>
+        <item quantity="few">Atnaujinta prieš %d sav.</item>
+        <item quantity="many">Atnaujinta prieš %d sav.</item>
+        <item quantity="other">Atnaujinta prieš %d sav.</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="one">Bendrinai nuotrauką.</item>
+        <item quantity="few">Bendrinai nuotraukas.</item>
+        <item quantity="many">Bendrinai nuotraukas.</item>
+        <item quantity="other">Bendrinai nuotraukas.</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="one">Sveikinam! Vakar pasiekei dar %d pardavimą. Išlaikyk kartelę ir stebėk, kaip sekasi tavo serijoms skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+        <item quantity="few">Sveikinam! Vakar pasiekei dar %d pardavimus. Išlaikyk kartelę ir stebėk, kaip sekasi tavo serijoms skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+        <item quantity="many">Sveikinam! Vakar pasiekei dar %d pardavimų. Išlaikyk kartelę ir stebėk, kaip sekasi tavo serijoms skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+        <item quantity="other">Sveikinam! Vakar pasiekei dar %d pardavimų. Išlaikyk kartelę ir stebėk, kaip sekasi tavo serijoms skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="one">Tavo serijų puslapyje per pastarąsias kelias dienas apsilankyta %d kartą. Naudojant analitikos įrankius galima stebėti, kaip sekasi serijoms ir sužinoti naudingų patarimų, kaip pritraukti potencialių pirkėjų. Įrankius rasi skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+        <item quantity="few">Tavo serijų puslapyje per pastarąsias kelias dienas apsilankyta %d kartus. Naudojant analitikos įrankius galima stebėti, kaip sekasi serijoms ir sužinoti naudingų patarimų, kaip pritraukti potencialių pirkėjų. Įrankius rasi skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+        <item quantity="many">Tavo serijų puslapyje per pastarąsias kelias dienas apsilankyta %d kartų. Naudojant analitikos įrankius galima stebėti, kaip sekasi serijoms ir sužinoti naudingų patarimų, kaip pritraukti potencialių pirkėjų. Įrankius rasi skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+        <item quantity="other">Tavo serijų puslapyje per pastarąsias kelias dienas apsilankyta %d kartus (-ų). Naudojant analitikos įrankius galima stebėti, kaip sekasi serijoms ir sužinoti naudingų patarimų, kaip pritraukti potencialių pirkėjų. Įrankius rasi skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="one">Sveikinam! Vakar TIESIOGINĖS transliacijos metu %d žiūrovas įsigijo prieigą prie tavo serijų. Išlaikyk kartelę ir stebėk, kaip sekasi tavo serijoms skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+        <item quantity="few">Sveikinam! Vakar TIESIOGINĖS transliacijos metu %d žiūrovai įsigijo prieigą prie tavo serijų. Išlaikyk kartelę ir stebėk, kaip sekasi tavo serijoms skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+        <item quantity="many">Sveikinam! Vakar TIESIOGINĖS transliacijos metu %d žiūrovų įsigijo prieigą prie tavo serijų. Išlaikyk kartelę ir stebėk, kaip sekasi tavo serijoms skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+        <item quantity="other">Sveikinam! Vakar TIESIOGINĖS transliacijos metu %d žiūrovų įsigijo prieigą prie tavo serijų. Išlaikyk kartelę ir stebėk, kaip sekasi tavo serijoms skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="one">Sveikinam! Vakar %d žiūrovas įsigijo prieigą prie tavo serijų per video nuorodą. Išlaikyk kartelę ir stebėk, kaip sekasi tavo serijoms skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+        <item quantity="few">Sveikinam! Vakar %d žiūrovai įsigijo prieigą prie tavo serijų per video nuorodą. Išlaikyk kartelę ir stebėk, kaip sekasi tavo serijoms skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+        <item quantity="many">Sveikinam! Vakar %d žiūrovų įsigijo prieigą prie tavo serijų per video nuorodą. Išlaikyk kartelę ir stebėk, kaip sekasi tavo serijoms skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+        <item quantity="other">Sveikinam! Vakar %d žiūrovų įsigijo prieigą prie tavo serijų per video nuorodą. Išlaikyk kartelę ir stebėk, kaip sekasi tavo serijoms skiltyje „Kūrėjo įrankiai“ &gt; „Serijos“.</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="one">Pereiti prie kameros (%d)</item>
+        <item quantity="few">Pereiti prie kameros (%d)</item>
+        <item quantity="many">Pereiti prie kameros (%d)</item>
+        <item quantity="other">Pereiti prie kameros (%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="one">%.1f (%s atsiliepimas)</item>
+        <item quantity="few">%.1f (%s atsiliepimai)</item>
+        <item quantity="many">%.1f (%s atsiliepimų)</item>
+        <item quantity="other">%.1f (%s atsiliepimai (-ų))</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="one">Tik pirmajam pirkėjui</item>
+        <item quantity="few">Tik %d pirmiesiems pirkėjams</item>
+        <item quantity="many">Tik %d pirmųjų pirkėjų</item>
+        <item quantity="other">Tik %d pirmųjų pirkėjų</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="one">Liko tik %d</item>
+        <item quantity="few">Liko tik %d</item>
+        <item quantity="many">Liko tik %d</item>
+        <item quantity="other">Liko tik %d</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="one">Galiojimas baigiasi po %d d.</item>
+        <item quantity="few">Galiojimas baigiasi po %d d.</item>
+        <item quantity="many">Galiojimas baigiasi po %d d.</item>
+        <item quantity="other">Galiojimas baigiasi po %d d.</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="one">%d video</item>
+        <item quantity="few">%d video</item>
+        <item quantity="many">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="one">%d video</item>
+        <item quantity="few">%d video</item>
+        <item quantity="many">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="one">%d video</item>
+        <item quantity="few">%d video</item>
+        <item quantity="many">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="one">%s video</item>
+        <item quantity="few">%s video</item>
+        <item quantity="many">%s video</item>
+        <item quantity="other">%s video</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="one">%d peržiūra</item>
+        <item quantity="few">%d peržiūros</item>
+        <item quantity="many">%d peržiūrų</item>
+        <item quantity="other">Peržiūrų: %d</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="one">Istorija (%d)</item>
+        <item quantity="few">Istorijos (%d)</item>
+        <item quantity="many">Istorijų (%d)</item>
+        <item quantity="other">Istorijų (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="one">{Brand} pageidauja pratęsti ankstesnį autorizacijos laikotarpį {start_date}–{end_date} {num} d.</item>
+        <item quantity="few">{Brand} pageidauja pratęsti ankstesnį autorizacijos laikotarpį {start_date}–{end_date} {num} d.</item>
+        <item quantity="many">{Brand} pageidauja pratęsti ankstesnį autorizacijos laikotarpį {start_date}–{end_date} {num} d.</item>
+        <item quantity="other">{Brand} pageidauja pratęsti ankstesnį autorizacijos laikotarpį {start_date}–{end_date} {num} d.</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="one">pridėtas %d video</item>
+        <item quantity="few">pridėti %d video</item>
+        <item quantity="many">pridėta %d video</item>
+        <item quantity="other">pridėta %d video</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="one">Kūrėjai platformoje TikTok yra daugiau kaip %d mėnesį.</item>
+        <item quantity="few">Kūrėjai platformoje TikTok yra daugiau kaip %d mėn.</item>
+        <item quantity="many">Kūrėjai platformoje TikTok yra daugiau kaip %d mėn.</item>
+        <item quantity="other">Kūrėjai platformoje TikTok yra daugiau kaip %d mėn.</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="one">Kūrėjai turi bent %d stebėtoją.</item>
+        <item quantity="few">Kūrėjai turi bent %d stebėtojus.</item>
+        <item quantity="many">Kūrėjai turi bent %d stebėtojų.</item>
+        <item quantity="other">Kūrėjai turi bent %d stebėtojus (-ų).</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="one">%d sąveika</item>
+        <item quantity="few">%d sąveikos</item>
+        <item quantity="many">%d sąveikų</item>
+        <item quantity="other">%d sąveikų</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="one">Dienos limitas populiarioms temoms pridėti: %d įrašas</item>
+        <item quantity="few">Dienos limitas populiarioms temoms pridėti: %d įrašai</item>
+        <item quantity="many">Dienos limitas populiarioms temoms pridėti: %d įrašų</item>
+        <item quantity="other">Dienos limitas populiarioms temoms pridėti: %d įrašai (-ų)</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="one">Numatomas peržiūros laikas: %d diena</item>
+        <item quantity="few">Numatomas peržiūros laikas: %d dienos</item>
+        <item quantity="many">Numatomas peržiūros laikas: %d dienų</item>
+        <item quantity="other">Numatomas peržiūros laikas: %d d.</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="one">%@ video</item>
+        <item quantity="few">%@ video</item>
+        <item quantity="many">%@ video</item>
+        <item quantity="other">%@ video</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="one">%@ peržiūra</item>
+        <item quantity="few">%@ peržiūros</item>
+        <item quantity="many">%@ peržiūrų</item>
+        <item quantity="other">Peržiūrų: %@</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="one">Prieš %d d.</item>
+        <item quantity="few">Prieš %d d.</item>
+        <item quantity="many">Prieš %d d.</item>
+        <item quantity="other">Prieš %d d.</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="one">val.</item>
+        <item quantity="few">val.</item>
+        <item quantity="many">val.</item>
+        <item quantity="other">val.</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="one">Prieš %1$d val.</item>
+        <item quantity="few">Prieš %1$d val.</item>
+        <item quantity="many">Prieš %1$d val.</item>
+        <item quantity="other">Prieš %1$d val.</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="one">min.</item>
+        <item quantity="few">min.</item>
+        <item quantity="many">min.</item>
+        <item quantity="other">min.</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="one">Prieš %1$d min.</item>
+        <item quantity="few">Prieš %1$d min.</item>
+        <item quantity="many">Prieš %1$d min.</item>
+        <item quantity="other">Prieš %1$d min.</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="one">val.</item>
+        <item quantity="few">val.</item>
+        <item quantity="many">val.</item>
+        <item quantity="other">val.</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="one">min.</item>
+        <item quantity="few">min.</item>
+        <item quantity="many">min.</item>
+        <item quantity="other">min.</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="one">sek.</item>
+        <item quantity="few">sek.</item>
+        <item quantity="many">sek.</item>
+        <item quantity="other">sek.</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="one">Prieš %1$d metus</item>
+        <item quantity="few">Prieš %1$d metus</item>
+        <item quantity="many">Prieš %1$d metų</item>
+        <item quantity="other">Prieš %1$d metų</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="one">Atsiprašome! Esi užblokuotas (-a)\n Vėl transliuoti tiesiogiai galėsi po %1$d d.</item>
+        <item quantity="few">Atsiprašome! Esi užblokuotas (-a)\n Vėl transliuoti tiesiogiai galėsi po %1$d d.</item>
+        <item quantity="many">Atsiprašome! Esi užblokuotas (-a)\n Vėl transliuoti tiesiogiai galėsi po %1$d d.</item>
+        <item quantity="other">Atsiprašome! Esi užblokuotas (-a)\n Vėl transliuoti tiesiogiai galėsi po %1$d d.</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="one">Atsiprašome! Esi užblokuotas (-a)\n Vėl transliuoti tiesiogiai galėsi po %1$d val.</item>
+        <item quantity="few">Atsiprašome! Esi užblokuotas (-a)\n Vėl transliuoti tiesiogiai galėsi po %1$d val.</item>
+        <item quantity="many">Atsiprašome! Esi užblokuotas (-a)\n Vėl transliuoti tiesiogiai galėsi po %1$d val.</item>
+        <item quantity="other">Atsiprašome! Esi užblokuotas (-a)\n Vėl transliuoti tiesiogiai galėsi po %1$d val.</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="one">Atsiprašome, šiuo metu esi užblokuotas (-a). \n Vėl transliuoti tiesiogiai galėsi po %1$d min.</item>
+        <item quantity="few">Atsiprašome, šiuo metu esi užblokuotas (-a). \n Vėl transliuoti tiesiogiai galėsi po %1$d min.</item>
+        <item quantity="many">Atsiprašome, šiuo metu esi užblokuotas (-a). \n Vėl transliuoti tiesiogiai galėsi po %1$d min.</item>
+        <item quantity="other">Atsiprašome, šiuo metu esi užblokuotas (-a). \n Vėl transliuoti tiesiogiai galėsi po %1$d min.</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="one">Atsiprašome! Esi užblokuotas (-a)\n Vėl transliuoti tiesiogiai galėsi po %1$d s</item>
+        <item quantity="few">Atsiprašome! Esi užblokuotas (-a)\n Vėl transliuoti tiesiogiai galėsi po %1$d s</item>
+        <item quantity="many">Atsiprašome! Esi užblokuotas (-a)\n Vėl transliuoti tiesiogiai galėsi po %1$d s</item>
+        <item quantity="other">Atsiprašome! Esi užblokuotas (-a)\n Vėl transliuoti tiesiogiai galėsi po %1$d s</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="one">%d naudotojas žiūri tavo tiesioginę transliaciją, nori ją užverti?</item>
+        <item quantity="few">%d naudotojai žiūri tavo tiesioginę transliaciją, nori ją užverti?</item>
+        <item quantity="many">%d naudotojų žiūri tavo tiesioginę transliaciją, nori ją užverti?</item>
+        <item quantity="other">%d naudotojų žiūri tavo tiesioginę transliaciją, nori ją užverti?</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="one">Nebegalios po %d d.</item>
+        <item quantity="few">Nebegalios po %d d.</item>
+        <item quantity="many">Nebegalios po %d d.</item>
+        <item quantity="other">Nebegalios po %d d.</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="one">Nebegalios po %d val.</item>
+        <item quantity="few">Nebegalios po %d val.</item>
+        <item quantity="many">Nebegalios po %d val.</item>
+        <item quantity="other">Nebegalios po %d val.</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="one">Pirmą kartą papildyk %1$d deimantu ir gauk dar %2$d!</item>
+        <item quantity="few">Pirmą kartą papildyk %1$d deimantais ir gauk dar %2$d!</item>
+        <item quantity="many">Pirmą kartą papildyk %1$d deimantų ir gauk dar %2$d!</item>
+        <item quantity="other">Pirmą kartą papildyk %1$d deimantų ir gauk dar %2$d!</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="one">min.</item>
+        <item quantity="few">min.</item>
+        <item quantity="many">min.</item>
+        <item quantity="other">min.</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="one">Tavo patirtis TikTok baigsis už %d d.</item>
+        <item quantity="few">Tavo patirtis TikTok baigsis už %d d.</item>
+        <item quantity="many">Tavo patirtis TikTok baigsis už %d d.</item>
+        <item quantity="other">Tavo patirtis TikTok baigsis už %d d.</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="one">%d dienos</item>
+        <item quantity="few">%d dienų</item>
+        <item quantity="many">%d dienų</item>
+        <item quantity="other">%d dienų</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="one">Šiai funkcijai išbandyti TikTok turi %d d. Jei praėjus šiam laikui norėsi tęsti, atsisiųsk programėlę TikTok Now.</item>
+        <item quantity="few">Šiai funkcijai išbandyti TikTok turi %d d. Jei praėjus šiam laikui norėsi tęsti, atsisiųsk programėlę TikTok Now.</item>
+        <item quantity="many">Šiai funkcijai išbandyti TikTok turi %d d. Jei praėjus šiam laikui norėsi tęsti, atsisiųsk programėlę TikTok Now.</item>
+        <item quantity="other">Šiai funkcijai išbandyti TikTok turi %d d. Jei praėjus šiam laikui norėsi tęsti, atsisiųsk programėlę TikTok Now.</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="one">Paskelbk, kad pradėtum savo %d dienos TikTok Now patirtį.</item>
+        <item quantity="few">Paskelbk, kad pradėtum savo %d dienų TikTok Now patirtį.</item>
+        <item quantity="many">Paskelbk, kad pradėtum savo %d dienų TikTok Now patirtį.</item>
+        <item quantity="other">Paskelbk, kad pradėtum savo %d dienų TikTok Now patirtį.</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="one">Pasirink arba įrašyk %d klipą</item>
+        <item quantity="few">Pasirink arba įrašyk %d klipus</item>
+        <item quantity="many">Pasirink arba įrašyk %d klipų</item>
+        <item quantity="other">Pasirink arba įrašyk %d klipų</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="one">Redaguoti nebaigtą nuotrauką?</item>
+        <item quantity="few">Redaguoti nebaigtas nuotraukas?</item>
+        <item quantity="many">Redaguoti nebaigtas nuotraukas?</item>
+        <item quantity="other">Redaguoti nebaigtas nuotraukas?</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="one">%s naujas įrašas</item>
+        <item quantity="few">%s nauji įrašai</item>
+        <item quantity="many">%s naujų įrašų</item>
+        <item quantity="other">Naujų įrašų: %s</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="one">paskelbė %d video</item>
+        <item quantity="few">paskelbė %d video</item>
+        <item quantity="many">paskelbė %d video</item>
+        <item quantity="other">paskelbė %d video</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="one">Ar tau %d m.?</item>
+        <item quantity="few">Ar tau %d m.?</item>
+        <item quantity="many">Ar tau %d m.?</item>
+        <item quantity="other">Ar tau %d m.?</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="one">Naudok koreguotos pradžios / pabaigos garsą. Įrašyk iki %d s.</item>
+        <item quantity="few">Naudok koreguotos pradžios / pabaigos garsą. Įrašyk iki %d s.</item>
+        <item quantity="many">Naudok koreguotos pradžios / pabaigos garsą. Įrašyk iki %d s.</item>
+        <item quantity="other">Naudok koreguotos pradžios / pabaigos garsą. Įrašyk iki %d s.</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="one">%s žiūrovas</item>
+        <item quantity="few">%s žiūrovai</item>
+        <item quantity="many">%s žiūrovų</item>
+        <item quantity="other">%s žiūrovų</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="one">%s patiktukas</item>
+        <item quantity="few">%s patiktukai</item>
+        <item quantity="many">%s patiktukų</item>
+        <item quantity="other">%s patiktukų</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="one">Bendrinama %1$s per %2$s sek.</item>
+        <item quantity="few">Bendrinama %1$s per %2$s sek.</item>
+        <item quantity="many">Bendrinama %1$s per %2$s sek.</item>
+        <item quantity="other">Bendrinama %1$s per %2$s sek.</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="one">%d produktas</item>
+        <item quantity="few">%d produktai</item>
+        <item quantity="many">%d produktų</item>
+        <item quantity="other">%d produktų</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="one">Įrašas</item>
+        <item quantity="few">Įrašai</item>
+        <item quantity="many">Įrašai</item>
+        <item quantity="other">Įrašai</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="one">%1$s, %2$s ir dar %d</item>
+        <item quantity="few">%1$s, %2$s ir %d kiti</item>
+        <item quantity="many">%1$s, %2$s ir %d kitų</item>
+        <item quantity="other">%1$s, %2$s ir %d kitų</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="one">peržiūrėjo tavo skelbimą.</item>
+        <item quantity="few">peržiūrėjo tavo skelbimą.</item>
+        <item quantity="many">peržiūrėjo tavo skelbimą.</item>
+        <item quantity="other">peržiūrėjo tavo skelbimą.</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="one">%s bendrinimas</item>
+        <item quantity="few">%s bendrinimai</item>
+        <item quantity="many">%s bendrinimų</item>
+        <item quantity="other">%s bendrinimų</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="one">%s peržiūra</item>
+        <item quantity="few">%s peržiūros</item>
+        <item quantity="many">%s peržiūrų</item>
+        <item quantity="other">%s peržiūrų</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="one">{0} {1} ir dar {2} peržiūrėjo tavo įrašą.</item>
+        <item quantity="few">{0} {1} ir dar {2} kiti peržiūrėjo tavo įrašą.</item>
+        <item quantity="many">{0} {1} ir dar {2} kitų peržiūrėjo tavo įrašą.</item>
+        <item quantity="other">{0} {1} ir dar {2} kitų peržiūrėjo tavo įrašą.</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="one">%d Moneta</item>
+        <item quantity="few">%d Monetos</item>
+        <item quantity="many">%d Monetų</item>
+        <item quantity="other">%d Monetų</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="one">atsiuntė: %s</item>
+        <item quantity="few">atsiuntė: %s</item>
+        <item quantity="many">atsiuntė: %s</item>
+        <item quantity="other">atsiuntė: %s</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="one">Nuotrauka išsaugota</item>
+        <item quantity="few">Nuotraukos išsaugotos</item>
+        <item quantity="many">Nuotraukų išsaugota</item>
+        <item quantity="other">Nuotraukų išsaugota</item>
+    </plurals>
+</resources>

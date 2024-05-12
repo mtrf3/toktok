@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_pressed="true">
+        <shape
+            shape="rectangle"
+            alpha="0.4">
+            <corners radius="16dp"/>
+            <solid color="?attr/dx"/>
+            <stroke
+                width="1px"
+                color="?attr/dv"/>
+        </shape>
+    </item>
+    <item>
+        <shape shape="rectangle">
+            <corners radius="16dp"/>
+            <stroke
+                width="1px"
+                color="?attr/dv"/>
+        </shape>
+    </item>
+</selector>

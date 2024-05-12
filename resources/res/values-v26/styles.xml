@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="cm" parent="@style/ei">
+    </style>
+    <style name="ct" parent="@style/ej">
+    </style>
+    <style name="ei" parent="@style/eg">
+        <item name="a4k">?android:attr/colorError</item>
+    </style>
+    <style name="ej" parent="@style/eh">
+        <item name="a4k">?android:attr/colorError</item>
+    </style>
+    <style name="ek" parent="@style/eu">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="gd" parent="@style/ek">
+    </style>
+    <style name="ul" parent="@style/uk">
+        <item name="android:colorBackground">@color/ar</item>
+        <item name="android:windowBackground">@color/ar</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:indeterminateDuration">1500</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:navigationBarColor">@color/ar</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="a4e">#ff4081</item>
+        <item name="a4i">#0f161823</item>
+        <item name="a4r">@color/ar</item>
+        <item name="a4s">@color/ar</item>
+        <item name="bxp">false</item>
+        <item name="bxw">true</item>
+    </style>
+    <style name="y2" parent="@android:style/Widget">
+        <item name="android:background">?attr/a4r</item>
+        <item name="android:stateListAnimator">@animator/a</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+</resources>

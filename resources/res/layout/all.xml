@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/dj"
+    layout_gravity="center"
+    id="@+id/msg"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    text="@string/to1"
+    textAlignment="center"
+    NOT_FOUND_0x7="61"/>

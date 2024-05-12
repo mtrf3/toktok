@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/j71"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C84E
+        gravity="center_vertical"
+        layout_gravity="bottom|center_horizontal"
+        id="@+id/cf7"
+        paddingTop="49dp"
+        paddingBottom="49dp"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginBottom="82dp"
+        paddingStart="66dp"
+        paddingEnd="66dp"/>
+</FrameLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    background="@drawable/a0_"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        layout_gravity="bottom|center_horizontal"
+        id="@+id/mbf"
+        paddingTop="10dp"
+        paddingBottom="10dp"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="Add a meme"
+        paddingStart="16dp"
+        paddingEnd="16dp"
+        NOT_FOUND_0xb="52"/>
+</FrameLayout>

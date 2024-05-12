@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Онлайн-библиотека звуков</item>
+        <item>Моя музыка</item>
+    </array>
+    <array name="q">
+        <item>Удалить</item>
+        <item>Отмена</item>
+    </array>
+    <array name="r">
+        <item>В тренде</item>
+        <item>Недавние</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="a3">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </array>
+    <array name="a5">
+        <item>Китайский (упрощенный)</item>
+        <item>Традиционный китайский</item>
+        <item>Английский</item>
+        <item>Японский</item>
+        <item>Корейский</item>
+        <item>Русский</item>
+        <item>Индонезийский</item>
+        <item>Малайский</item>
+        <item>Португальский</item>
+        <item>Тайский</item>
+        <item>Вьетнамский</item>
+        <item>Хинди</item>
+    </array>
+    <array name="a7">
+        <item>Обычный</item>
+        <item>Черно-белый</item>
+        <item>Живопись</item>
+        <item>Винтаж</item>
+        <item>Ретро-люкс</item>
+        <item>Контрастный</item>
+        <item>Хроматический</item>
+    </array>
+    <array name="aa">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </array>
+    <array name="ad">
+        <item>Экономия трафика</item>
+        <item>Высокое разрешение</item>
+    </array>
+    <array name="ae">
+        <item>Все</item>
+        <item>Только для друзей</item>
+    </array>
+    <array name="bi">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </array>
+</resources>

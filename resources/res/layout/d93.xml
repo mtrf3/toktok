@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    background="@drawable/d_o"
+    paddingLeft="12dp"
+    paddingTop="2dp"
+    paddingRight="12dp"
+    paddingBottom="2dp"
+    layout_width="wrap_content"
+    layout_height="28dp">
+    <X.C47121t6
+        textColor="?attr/bmv"
+        gravity="center"
+        id="@+id/ikp"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        singleLine="true"
+        style="@style/a48"/>
+</FrameLayout>

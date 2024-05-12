@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.tux.input.TuxTextView
+    textColor="?attr/dj"
+    ellipsize="end"
+    layout_gravity="start|bottom"
+    id="@+id/ib_"
+    paddingLeft="8dp"
+    paddingRight="8dp"
+    paddingBottom="5.5dp"
+    visibility="gone"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    text="@string/pha"
+    maxLines="3"
+    paddingStart="8dp"
+    paddingEnd="8dp"
+    NOT_FOUND_0xe="71"/>

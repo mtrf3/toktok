@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item state_checked="false">
+        <shape>
+            <corners radius="73dp"/>
+            <stroke
+                width="2dp"
+                color="#bfffffff"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid color="#57ffffff"/>
+            <corners radius="73dp"/>
+            <stroke
+                width="2dp"
+                color="#fff"/>
+        </shape>
+    </item>
+</selector>

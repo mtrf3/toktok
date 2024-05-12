@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Leabharlann fuaime ar líne</item>
+        <item>Mo Fhuaim</item>
+    </array>
+    <array name="l">
+        <item>Glan</item>
+    </array>
+    <array name="q">
+        <item>Scrios</item>
+        <item>Cealaigh</item>
+    </array>
+    <array name="r">
+        <item>Treochtáil</item>
+        <item>Is déanaí</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>Céad 20</item>
+        <item>Céad 40</item>
+        <item>Céad 60</item>
+        <item>Céad 80</item>
+        <item>Céad 100</item>
+    </array>
+    <array name="v">
+        <item>Roghnaigh ón nGailearaí</item>
+    </array>
+    <array name="a3">
+        <item>Dé Domhnaigh</item>
+        <item>Dé Luain</item>
+        <item>Dé Máirt</item>
+        <item>Dé Céadaoin</item>
+        <item>Déardaoin</item>
+        <item>Dé hAoine</item>
+        <item>Dé Sathairn</item>
+    </array>
+    <array name="a5">
+        <item>Sínis shimplithe</item>
+        <item>Sínis thraidisiúnta</item>
+        <item>Béarla</item>
+        <item>Seapáinis</item>
+        <item>Cóiréis</item>
+        <item>Rúisis</item>
+        <item>Indinéisis</item>
+        <item>Malaeis</item>
+        <item>Portaingéilis</item>
+        <item>Téalainnis</item>
+        <item>Vítneaimis</item>
+        <item>Hiondúis</item>
+    </array>
+    <array name="a7">
+        <item>Gnáth</item>
+        <item>Dubh/Bán</item>
+        <item>Na hEalaíon</item>
+        <item>Seanré</item>
+        <item>Retrolux</item>
+        <item>Sáithithe</item>
+        <item>Cróm</item>
+    </array>
+    <array name="aa">
+        <item>Eanáir</item>
+        <item>Feabhra</item>
+        <item>Márta</item>
+        <item>Aibreán</item>
+        <item>Bealtaine</item>
+        <item>Meitheamh</item>
+        <item>Iúil</item>
+        <item>Lúnasa</item>
+        <item>Méan Fómhair</item>
+        <item>Deireadh Fómhair</item>
+        <item>Samhain</item>
+        <item>Nollaig</item>
+    </array>
+    <array name="ad">
+        <item>Sábháil sonraí ar dtús</item>
+        <item>Ardtaifeach ar dtús</item>
+    </array>
+    <array name="ae">
+        <item>Gach duine</item>
+        <item>Cairde amháin</item>
+    </array>
+    <array name="bi">
+        <item>Dé Luain</item>
+        <item>Dé Máirt</item>
+        <item>Dé Céadaoin</item>
+        <item>Déardaoin</item>
+        <item>Dé hAoine</item>
+        <item>Dé Sathairn</item>
+        <item>Dé Domhnaigh</item>
+    </array>
+</resources>

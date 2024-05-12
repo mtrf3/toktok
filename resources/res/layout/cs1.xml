@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="40dp">
+    <X.C8HN
+        textColor="@color/wl"
+        id="@+id/khv"
+        paddingLeft="16dp"
+        paddingTop="20dp"
+        layout_width="match_parent"
+        layout_height="40dp"
+        text="@string/qda"
+        lineSpacingExtra="3sp"
+        paddingStart="16dp"
+        NOT_FOUND_0x9="7"
+        style="@style/a_y"/>
+</FrameLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    id="@+id/gfr"
+    background="?attr/a4y"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginTop="8dp"
+    baselineAligned="false"
+    layoutDirection="ltr"
+    NOT_FOUND_0x8="0"
+    NOT_FOUND_0x9="0"
+    NOT_FOUND_0xa="0">
+    <include
+        id="@+id/gfy"
+        layout="@layout/brv"/>
+    <include layout="@layout/bro"/>
+    <include
+        id="@+id/gg1"
+        layout="@layout/brv"/>
+</LinearLayout>

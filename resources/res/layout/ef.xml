@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/eij"
+    background="?attr/d4"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/nbw"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ImageView
+        layout_gravity="center"
+        id="@+id/ifs"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

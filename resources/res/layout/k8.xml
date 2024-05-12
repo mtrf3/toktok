@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.TDW
+    gravity="center"
+    paddingLeft="0dp"
+    paddingTop="0dp"
+    paddingRight="12dp"
+    paddingBottom="0dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    paddingStart="0dp"
+    paddingEnd="12dp"
+    NOT_FOUND_0x12="false">
+    <X.C116464he
+        layout_gravity="center_vertical"
+        id="@+id/egd"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        src="@drawable/b7y"
+        NOT_FOUND_0x13="false"/>
+    <X.C8HN
+        textSize="15sp"
+        ellipsize="end"
+        layout_gravity="center_vertical"
+        id="@+id/text"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="4dp"
+        text="@string/byt"
+        maxLines="1"
+        layout_marginStart="4dp"/>
+</X.TDW>

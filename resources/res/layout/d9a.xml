@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    gravity="center_vertical"
+    orientation="horizontal"
+    background="@color/ak"
+    layout_width="match_parent"
+    layout_height="@dimen/afy"
+    NOT_FOUND_0x16="0"
+    NOT_FOUND_0x17="0"
+    NOT_FOUND_0x18="0">
+    <X.C47061t0
+        id="@+id/ezj"
+        visibility="visible"
+        layout_width="@dimen/ag0"
+        layout_height="@dimen/afz"
+        layout_centerVertical="true"
+        layout_marginStart="@dimen/ag1"
+        layout_alignParentStart="true"/>
+    <X.C109184Qg
+        textColor="@color/cu"
+        ellipsize="none"
+        gravity="center_vertical"
+        id="@+id/mb4"
+        focusable="false"
+        visibility="visible"
+        fadingEdge="none"
+        fadingEdgeLength="@dimen/afx"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        singleLine="true"
+        layout_centerVertical="true"
+        marqueeRepeatLimit="marquee_forever"
+        requiresFadingEdge="none"
+        layout_marginStart="7dp"
+        layout_marginEnd="@dimen/ag1"
+        layout_toEndOf="@+id/ezj"
+        style="@style/a46"/>
+    <X.C47061t0
+        id="@+id/ezk"
+        visibility="gone"
+        layout_width="@dimen/afx"
+        layout_height="23dp"
+        scaleType="fitXY"
+        layout_centerVertical="true"
+        layout_alignEnd="@+id/mb4"/>
+</RelativeLayout>

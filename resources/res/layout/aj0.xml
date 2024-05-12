@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C252709vu
+        id="@+id/j0m"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <androidx.compose.ui.platform.ComposeView
+        id="@+id/dpc"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+</LinearLayout>

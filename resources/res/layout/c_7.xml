@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.T5T
+        id="@+id/iie"
+        visibility="gone"
+        layout_width="200dp"
+        layout_height="80dp"
+        NOT_FOUND_0x4="0"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0"/>
+    <include layout="@layout/c_2"/>
+    <X.C74140T7w
+        id="@+id/ktf"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/ktk"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

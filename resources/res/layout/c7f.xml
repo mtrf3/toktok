@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    layout_gravity="center"
+    background="@drawable/bz0"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/kdw"
+        layout_width="0dp"
+        layout_height="0dp"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="H,1:1"
+        NOT_FOUND_0x7="0"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0x9="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

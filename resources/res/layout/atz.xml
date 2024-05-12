@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="61dp"
+    layout_height="61dp">
+    <androidx.recyclerview.widget.RecyclerView
+        layout_gravity="center"
+        id="@+id/ftq"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginBottom="2dp"/>
+</FrameLayout>

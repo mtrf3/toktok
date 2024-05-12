@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/jdr"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C58852N7w
+        id="@+id/i0x"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginTop="8dp"
+        layout_marginBottom="@dimen/a6j"
+        layout_marginStart="8dp"
+        layout_marginEnd="8dp"/>
+</FrameLayout>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Biblioteca de sons en línia</item>
+        <item>El meu so</item>
+    </array>
+    <array name="l">
+        <item>পরিষ্কার</item>
+    </array>
+    <array name="q">
+        <item>Suprimeix</item>
+        <item>Cancel·la</item>
+    </array>
+    <array name="r">
+        <item>Popular</item>
+        <item>Recents</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="v">
+        <item>Selecciona de la Galeria</item>
+    </array>
+    <array name="a3">
+        <item>diumenge</item>
+        <item>dilluns</item>
+        <item>dimarts</item>
+        <item>dimecres</item>
+        <item>dijous</item>
+        <item>divendres</item>
+        <item>dissabte</item>
+    </array>
+    <array name="a5">
+        <item>Xinès simplificat</item>
+        <item>Xinès tradicional</item>
+        <item>Anglès</item>
+        <item>Japonès</item>
+        <item>Coreà</item>
+        <item>Rus</item>
+        <item>Indonesi</item>
+        <item>Malai</item>
+        <item>Portuguès</item>
+        <item>Tailandès</item>
+        <item>Vietnamita</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Normal</item>
+        <item>Blanc/negre</item>
+        <item>Art</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Saturat</item>
+        <item>Chrome</item>
+    </array>
+    <array name="aa">
+        <item>Gen</item>
+        <item>Febr</item>
+        <item>Març</item>
+        <item>Abr</item>
+        <item>Maig</item>
+        <item>Juny</item>
+        <item>Jul</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Des</item>
+    </array>
+    <array name="ad">
+        <item>Prioritat a l\'estalvi de dades</item>
+        <item>Prioritat a l\'alta resolució</item>
+    </array>
+    <array name="ae">
+        <item>Tothom</item>
+        <item>Només amistats</item>
+    </array>
+    <array name="bi">
+        <item>dilluns</item>
+        <item>dimarts</item>
+        <item>dimecres</item>
+        <item>dijous</item>
+        <item>divendres</item>
+        <item>Dissabte</item>
+        <item>Diumenge</item>
+    </array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    orientation="vertical"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <com.bytedance.lighten.loader.SmartImageView
+        id="@+id/fb8"
+        background="@drawable/a6t"
+        layout_width="100dp"
+        layout_height="100dp"
+        NOT_FOUND_0x8="12dp"/>
+    <X.C71897SJp
+        layout_gravity="end|bottom"
+        id="@+id/fb9"
+        layout_width="24dp"
+        layout_height="24dp"
+        layout_marginBottom="8dp"
+        layout_marginEnd="8dp"/>
+</FrameLayout>

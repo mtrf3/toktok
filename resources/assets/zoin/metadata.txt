@@ -1,0 +1,11 @@
+moduleName:media
+moduleType:0
+abiName:armeabi-v7a
+files:libeffect.so|libmedia_1.so|0|15192772|493087284|0|15192772:
+dependencies:
+blocks:libmedia.so|libmedia_1.so|0|5132088:
+abiName:arm64-v8a
+files:libeffect.so|libmedia_1.so|0|22130640|758947637|0|22130640:
+dependencies:
+blocks:libmedia.so|libmedia_1.so|0|5303506:
+

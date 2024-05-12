@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <X.C74050T4k
+        id="@+id/mcm"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        paddingStart="1dp"
+        paddingEnd="1dp"/>
+    <X.C74050T4k
+        id="@+id/mcn"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        paddingStart="1dp"
+        paddingEnd="1dp"/>
+</merge>

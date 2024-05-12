@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    id="@+id/mwr"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    layout_marginBottom="16dp">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/gv"
+        id="@+id/hd7"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="51"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/hd5"
+        visibility="gone"
+        layout_width="16dp"
+        layout_height="16dp"
+        layout_marginStart="4dp"
+        NOT_FOUND_0x7="@+id/hd7"
+        NOT_FOUND_0x9="@+id/hd7"
+        NOT_FOUND_0xb="@+id/hd7"
+        NOT_FOUND_0xd="@raw/icon_info_circle"
+        NOT_FOUND_0xe="?attr/gv"/>
+    <com.bytedance.tux.input.TuxTextView
+        id="@+id/hd6"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        NOT_FOUND_0x7="@+id/hd7"
+        NOT_FOUND_0x8="0"
+        NOT_FOUND_0xb="@+id/hd7"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

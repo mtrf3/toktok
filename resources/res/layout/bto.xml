@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/ldz"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <LinearLayout
+        id="@+id/lah"
+        style="?attr/azi">
+        <ImageView
+            id="@android:id/icon"
+            style="?attr/azh"/>
+        <X.C39871hP
+            id="@+id/a0f"
+            style="?attr/azj"/>
+    </LinearLayout>
+    <android.widget.Space
+        id="@+id/l9m"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="@dimen/ca"/>
+</LinearLayout>

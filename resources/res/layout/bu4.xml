@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    gravity="end"
+    orientation="horizontal"
+    id="@+id/c3n"
+    paddingRight="@dimen/a0l"
+    layout_width="match_parent"
+    layout_height="@dimen/a0k"
+    paddingEnd="@dimen/a0l">
+    <Button
+        layout_gravity="center_vertical"
+        id="@+id/b3s"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        text="@string/i9u"
+        style="?attr/a09"/>
+    <Button
+        layout_gravity="center_vertical"
+        id="@+id/br1"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        minWidth="@dimen/a0j"
+        text="@string/i9v"
+        style="?attr/a0a"/>
+</LinearLayout>

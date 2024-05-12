@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="horizontal"
+    id="@+id/n7l"
+    background="@color/cz"
+    paddingTop="10dp"
+    paddingBottom="10dp"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    paddingStart="12dp"
+    paddingEnd="12dp">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/n7n"
+        layout_width="16dp"
+        layout_height="16dp"
+        layout_marginEnd="4dp"
+        NOT_FOUND_0x10="@raw/icon_exclamation_mark_circle_fill"
+        NOT_FOUND_0x11="?attr/dj"/>
+    <com.bytedance.tux.input.TuxTextView
+        textColor="?attr/dj"
+        ellipsize="end"
+        id="@+id/n7o"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        text="@string/phb"
+        layout_weight="1"
+        layout_marginEnd="8dp"
+        NOT_FOUND_0xf="62"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/n7m"
+        visibility="gone"
+        layout_width="16dp"
+        layout_height="16dp"
+        NOT_FOUND_0x10="@raw/icon_chevron_right_offset_ltr"
+        NOT_FOUND_0x11="?attr/dj"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/elv"
+        visibility="gone"
+        layout_width="16dp"
+        layout_height="16dp"
+        NOT_FOUND_0x10="@raw/icon_info_circle"
+        NOT_FOUND_0x11="?attr/dm"/>
+</LinearLayout>

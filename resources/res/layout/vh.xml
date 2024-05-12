@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    background="?attr/gy"
+    layout_width="match_parent"
+    layout_height="wrap_content"
+    minHeight="44dp">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/m8n"
+        layout_width="32dp"
+        layout_height="32dp"
+        layout_marginStart="20dp"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0x12="0"
+        NOT_FOUND_0x13="0"
+        NOT_FOUND_0x15="@raw/icon_tv_fill"
+        NOT_FOUND_0x16="?attr/c9"/>
+    <androidx.appcompat.widget.LinearLayoutCompat
+        orientation="vertical"
+        layout_width="0dp"
+        layout_height="wrap_content"
+        NOT_FOUND_0x10="@+id/eap"
+        NOT_FOUND_0x11="@+id/m8n"
+        NOT_FOUND_0x13="0">
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dj"
+            id="@+id/m57"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginTop="5dp"
+            text="This is a test this is a test"
+            maxLines="2"
+            layout_marginStart="10dp"
+            NOT_FOUND_0x14="61"/>
+        <com.bytedance.tux.input.TuxTextView
+            textColor="?attr/dl"
+            id="@+id/m4z"
+            layout_width="wrap_content"
+            layout_height="wrap_content"
+            layout_marginBottom="5dp"
+            text="View devices"
+            layout_marginStart="10dp"
+            NOT_FOUND_0x14="81"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/me8"
+        padding="@dimen/o1"
+        layout_width="25dp"
+        layout_height="25dp"
+        layout_marginEnd="20dp"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x13="0"
+        NOT_FOUND_0x15="@raw/icon_color_pause"
+        NOT_FOUND_0x16="?attr/dk"/>
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/eap"
+        padding="@dimen/o1"
+        layout_width="25dp"
+        layout_height="25dp"
+        layout_marginEnd="10dp"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0x10="@+id/me8"
+        NOT_FOUND_0x13="0"
+        NOT_FOUND_0x15="@raw/icon_auto_scroll_off"
+        NOT_FOUND_0x16="?attr/dj"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

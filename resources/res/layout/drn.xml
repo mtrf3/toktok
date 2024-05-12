@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C119254m9
+    orientation="vertical"
+    layout_width="match_parent"
+    layout_height="64dp">
+    <RelativeLayout
+        paddingTop="6dp"
+        paddingBottom="6dp"
+        layout_width="wrap_content"
+        layout_height="64dp"
+        paddingStart="16dp"
+        paddingEnd="16dp">
+        <X.C71895SJn
+            id="@+id/ei3"
+            background="?attr/d2"
+            layout_width="48dp"
+            layout_height="48dp"
+            NOT_FOUND_0xd="48dp"
+            NOT_FOUND_0xe="true"
+            NOT_FOUND_0xf="2dp"
+            NOT_FOUND_0x10="48dp"/>
+        <X.C71895SJn
+            id="@+id/fse"
+            background="?attr/d2"
+            layout_width="168dp"
+            layout_height="18dp"
+            layout_marginStart="12dp"
+            layout_toEndOf="@+id/ei3"
+            NOT_FOUND_0xd="18dp"
+            NOT_FOUND_0xe="true"
+            NOT_FOUND_0x10="168dp"/>
+        <X.C71895SJn
+            id="@+id/fsf"
+            background="?attr/d2"
+            layout_width="100dp"
+            layout_height="14dp"
+            layout_marginTop="6dp"
+            layout_below="@+id/fse"
+            layout_marginStart="12dp"
+            layout_toEndOf="@+id/ei3"
+            NOT_FOUND_0xd="14dp"
+            NOT_FOUND_0xe="true"
+            NOT_FOUND_0x10="100dp"/>
+    </RelativeLayout>
+</X.C119254m9>

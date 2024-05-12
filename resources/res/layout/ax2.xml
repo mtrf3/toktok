@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/kup"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/i3j"
+        background="#ff121212"
+        visibility="invisible"
+        layout_width="match_parent"
+        layout_height="match_parent">
+        <androidx.appcompat.widget.AppCompatImageView
+            id="@+id/i3i"
+            layout_width="match_parent"
+            layout_height="match_parent"
+            scaleType="fitCenter"/>
+    </FrameLayout>
+    <X.C87230YLi
+        id="@+id/dro"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

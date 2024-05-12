@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    gravity="center_vertical"
+    orientation="horizontal"
+    id="@+id/g1a"
+    background="@drawable/c1z"
+    paddingTop="7dp"
+    paddingBottom="7dp"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    paddingStart="12dp"
+    paddingEnd="12dp">
+    <com.bytedance.tux.icon.TuxIconView
+        id="@+id/ex3"
+        layout_width="16dp"
+        layout_height="16dp"
+        NOT_FOUND_0xb="7"
+        NOT_FOUND_0xc="0"
+        NOT_FOUND_0xd="0"
+        NOT_FOUND_0xe="0"
+        NOT_FOUND_0xf="0"
+        NOT_FOUND_0x11="@raw/icon_arrow_left_ltr"
+        NOT_FOUND_0x12="?attr/gu"/>
+    <com.bytedance.tux.input.TuxTextView
+        id="@+id/ly1"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginStart="4dp"
+        NOT_FOUND_0x10="52"/>
+</androidx.appcompat.widget.LinearLayoutCompat>

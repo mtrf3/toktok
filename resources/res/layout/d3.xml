@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    id="@+id/ldz"
+    layout_width="match_parent"
+    layout_height="wrap_content">
+    <LinearLayout
+        gravity="start|center_vertical"
+        orientation="horizontal"
+        id="@+id/lah"
+        paddingLeft="?attr/a9z"
+        paddingTop="@dimen/c_"
+        paddingRight="?attr/a9z"
+        layout_width="match_parent"
+        layout_height="wrap_content">
+        <ImageView
+            id="@android:id/icon"
+            layout_width="32dp"
+            layout_height="32dp"
+            layout_marginRight="8dp"
+            src="@null"
+            scaleType="fitCenter"
+            layout_marginEnd="8dp"/>
+        <X.C39871hP
+            ellipsize="end"
+            layout_gravity="start"
+            id="@+id/a0f"
+            layout_width="match_parent"
+            layout_height="wrap_content"
+            singleLine="true"
+            textAlignment="viewStart"
+            style="?android:attr/windowTitleStyle"/>
+    </LinearLayout>
+    <android.widget.Space
+        id="@+id/l9m"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="@dimen/ca"/>
+</LinearLayout>

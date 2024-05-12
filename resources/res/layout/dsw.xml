@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/j5x"
+    layout_width="0dp"
+    layout_height="match_parent"
+    layout_weight="1">
+    <com.bytedance.tux.input.TuxTextView
+        textColor="@color/ob"
+        gravity="center"
+        layout_gravity="center"
+        id="@+id/mmo"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_centerInParent="true"
+        NOT_FOUND_0xd="42"/>
+    <View
+        id="@+id/n2f"
+        background="@drawable/a79"
+        visibility="gone"
+        layout_width="6dp"
+        layout_height="6dp"
+        layout_toRightOf="@+id/mmo"
+        layout_alignTop="@+id/mmo"
+        layout_toEndOf="@+id/mmo"/>
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    orientation="vertical"
+    fitsSystemWindows="true"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C252709vu
+        id="@+id/j94"
+        layout_width="match_parent"
+        layout_height="wrap_content"/>
+    <FrameLayout
+        id="@+id/j90"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <FrameLayout
+        id="@+id/j93"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</LinearLayout>

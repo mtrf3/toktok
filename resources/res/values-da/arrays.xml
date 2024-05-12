@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="k">
+        <item>Online lydbibliotek</item>
+        <item>Min Lyd</item>
+    </array>
+    <array name="l">
+        <item>Blank</item>
+    </array>
+    <array name="q">
+        <item>Slet</item>
+        <item>Annullér</item>
+    </array>
+    <array name="r">
+        <item>Trender</item>
+        <item>Seneste</item>
+        <item>...</item>
+        <item>...</item>
+        <item>...</item>
+    </array>
+    <array name="t">
+        <item>First 20</item>
+        <item>First 40</item>
+        <item>First 60</item>
+        <item>First 80</item>
+        <item>First 100</item>
+    </array>
+    <array name="v">
+        <item>Vælg fra galleriet</item>
+    </array>
+    <array name="a3">
+        <item>Søndag</item>
+        <item>Mandag</item>
+        <item>Tirsdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lørdag</item>
+    </array>
+    <array name="a5">
+        <item>Forenklet kinesisk</item>
+        <item>Traditionelt kinesisk</item>
+        <item>Engelsk</item>
+        <item>Japansk</item>
+        <item>Koreansk</item>
+        <item>Russisk</item>
+        <item>Indonesisk</item>
+        <item>Malaysisk</item>
+        <item>Portugisisk</item>
+        <item>Thailandsk</item>
+        <item>Vietnamesisk</item>
+        <item>Hindi</item>
+    </array>
+    <array name="a7">
+        <item>Normal</item>
+        <item>Sort/hvid</item>
+        <item>Kunst</item>
+        <item>Vintage</item>
+        <item>Retrolux</item>
+        <item>Mættet</item>
+        <item>Krom</item>
+    </array>
+    <array name="aa">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Maj</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </array>
+    <array name="ad">
+        <item>Gem data først</item>
+        <item>Høj opløsning først</item>
+    </array>
+    <array name="ae">
+        <item>Alle</item>
+        <item>Kun venner</item>
+    </array>
+    <array name="bi">
+        <item>Mandag</item>
+        <item>Tirsdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lørdag</item>
+        <item>Søndag</item>
+    </array>
+</resources>

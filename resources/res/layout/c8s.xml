@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C55960Lxk
+    background="?attr/b_r"
+    layout_width="0dp"
+    layout_height="match_parent"
+    layout_weight="1">
+    <com.bytedance.tux.badge.TuxAlertBadgeLayout
+        id="@+id/a0h"
+        layout_width="34dp"
+        layout_height="28dp"
+        layout_centerInParent="true"
+        NOT_FOUND_0x7="0">
+        <com.bytedance.tux.icon.TuxIconView
+            layout_gravity="bottom|center_horizontal"
+            id="@+id/e_q"
+            background="@color/cz"
+            layout_width="24dp"
+            layout_height="24dp"
+            NOT_FOUND_0x8="?attr/go"/>
+    </com.bytedance.tux.badge.TuxAlertBadgeLayout>
+</X.C55960Lxk>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    id="@+id/gg4"
+    layout_width="wrap_content"
+    layout_height="wrap_content">
+    <include
+        id="@+id/gfr"
+        layout="@layout/brn"/>
+    <include
+        id="@+id/gfw"
+        layout="@layout/brp"/>
+    <X.C74059T4t
+        layout_gravity="center"
+        id="@+id/gfs"
+        layout_width="@dimen/yn"
+        layout_height="@dimen/yn"
+        layout_marginTop="36dp"
+        NOT_FOUND_0x5="0"
+        NOT_FOUND_0x6="0"
+        NOT_FOUND_0x7="@+id/gfr"/>
+</merge>

@@ -1,0 +1,2353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d分以内にアバターの作成を開始します。</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">%d種類のスタイルで続ける</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">人物の顔が写っている写真をあと%d枚以上選択してください</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">Sharpでアバターを1日に%d回作成できます</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">Sharpでアバターを週に%d回作成できます</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">Speedyでアバターを1日に%d回作成できます</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">Speedyでアバターを週に%d回作成できます</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">アバターは1日に%d回作成できます</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">アバターは1週間に%d回作成できます</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">%d分以内にアバターの作成を開始します。</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">承認済み(%d)</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%d人に新たにメンションされました。</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">%d件のリクエストがあります</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">%d件のリクエストがあります</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">%d問</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">最初の%d日間は、他のユーザーがあなたの投稿を見るにはそのユーザーも投稿する必要があります。</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">%d日が経過した後は、投稿しなくてもあなたの投稿を見ることができます。</item>
+    </plurals>
+    <plurals name="r">
+        <item quantity="other">%d日が経過すると、あなたの投稿はあなただけに表示されるようになります。</item>
+    </plurals>
+    <plurals name="s">
+        <item quantity="other">最初の%d日間は、他のユーザーがあなたのNow投稿を見るにはそのユーザーも投稿する必要があります。</item>
+    </plurals>
+    <plurals name="t">
+        <item quantity="other">%d個の商品</item>
+    </plurals>
+    <plurals name="u">
+        <item quantity="other">審査中(%d)</item>
+    </plurals>
+    <plurals name="v">
+        <item quantity="other">登録が承認されてから%dヶ月以内に、登録情報を変更することはできません。</item>
+    </plurals>
+    <plurals name="w">
+        <item quantity="other">登録情報の変更は、承認されてから%dヶ月後以降にのみ行えます。</item>
+    </plurals>
+    <plurals name="x">
+        <item quantity="other">%d枚まで画像をアップロードすることができます</item>
+    </plurals>
+    <plurals name="y">
+        <item quantity="other">{username}が作成した写真を開く</item>
+    </plurals>
+    <plurals name="z">
+        <item quantity="other">{number}人のユーザーがこの動画をセーブ済みに追加しました</item>
+    </plurals>
+    <plurals name="a0">
+        <item quantity="other">いいね%d件</item>
+    </plurals>
+    <plurals name="a1">
+        <item quantity="one">%@ billion</item>
+        <item quantity="other">%@ billion</item>
+    </plurals>
+    <plurals name="a2">
+        <item quantity="one">%@ million</item>
+        <item quantity="other">%@ million</item>
+    </plurals>
+    <plurals name="a3">
+        <item quantity="one">%@ thousand</item>
+        <item quantity="other">%@ thousand</item>
+    </plurals>
+    <plurals name="a4">
+        <item quantity="other">視聴数%d回</item>
+    </plurals>
+    <plurals name="a5">
+        <item quantity="other">コメントを受け付ける動画は%s本です</item>
+    </plurals>
+    <plurals name="a6">
+        <item quantity="other">コメントを受け付けない動画は%s本です</item>
+    </plurals>
+    <plurals name="a7">
+        <item quantity="other">ただし%dはデュエットできません</item>
+    </plurals>
+    <plurals name="a8">
+        <item quantity="other">誰でもあなたの動画とデュエットできます。あなたの動画の%1$d本でデュエットが許可されています。%2$s</item>
+    </plurals>
+    <plurals name="a9">
+        <item quantity="other">ただし%dはデュエットできません</item>
+    </plurals>
+    <plurals name="a_">
+        <item quantity="other">友達があなたの動画とデュエットできます。あなたの動画の%1$d本でデュエットが許可されています。%2$s</item>
+    </plurals>
+    <plurals name="aa">
+        <item quantity="other">ただし%dはデュエットできません</item>
+    </plurals>
+    <plurals name="ab">
+        <item quantity="other">あなたの動画とデュエットできるユーザーを確認してください。あなたの動画の%1$d本でデュエットが許可されています。%2$s</item>
+    </plurals>
+    <plurals name="ac">
+        <item quantity="other">ただし%dはリミックスできません</item>
+    </plurals>
+    <plurals name="ad">
+        <item quantity="other">あなたの動画とリミックスできるユーザーを確認してください。あなたの動画の%1$d本でリミックスが許可されています。%2$s</item>
+    </plurals>
+    <plurals name="ae">
+        <item quantity="other">ただし%dはリミックスできません</item>
+    </plurals>
+    <plurals name="af">
+        <item quantity="other">誰でもあなたの動画とリミックスできます。あなたの動画の%1$d本でリミックスが許可されています。%2$s</item>
+    </plurals>
+    <plurals name="ag">
+        <item quantity="other">ただし%dはリミックスできません</item>
+    </plurals>
+    <plurals name="ah">
+        <item quantity="other">友達があなたの動画とリミックスできます。あなたの動画の%1$d本でリミックスが許可されています。%2$s</item>
+    </plurals>
+    <plurals name="ai">
+        <item quantity="other">デュエットできる動画は%s本です</item>
+    </plurals>
+    <plurals name="aj">
+        <item quantity="other">デュエットできない動画は%s本です</item>
+    </plurals>
+    <plurals name="ak">
+        <item quantity="other">リミックスできる動画は%s本です</item>
+    </plurals>
+    <plurals name="al">
+        <item quantity="other">リミックスできない動画は%s本です</item>
+    </plurals>
+    <plurals name="am">
+        <item quantity="other">%d時間前にアクティブ</item>
+    </plurals>
+    <plurals name="an">
+        <item quantity="other">%d分前にアクティブ</item>
+    </plurals>
+    <plurals name="ao">
+        <item quantity="other">日</item>
+    </plurals>
+    <plurals name="ap">
+        <item quantity="other">時間</item>
+    </plurals>
+    <plurals name="aq">
+        <item quantity="other">分</item>
+    </plurals>
+    <plurals name="ar">
+        <item quantity="other">秒</item>
+    </plurals>
+    <plurals name="as">
+        <item quantity="other">エピソード数%d</item>
+    </plurals>
+    <plurals name="at">
+        <item quantity="other">%1$s · %2$d件の新しい投稿</item>
+    </plurals>
+    <plurals name="au">
+        <item quantity="other">%d曲をインポート</item>
+    </plurals>
+    <plurals name="av">
+        <item quantity="other">%2$d本のLIVE | %1$d本のストーリーズ</item>
+    </plurals>
+    <plurals name="aw">
+        <item quantity="other">LIVE %2$d本 | ストーリーズ%1$d本</item>
+    </plurals>
+    <plurals name="ax">
+        <item quantity="other">%d本のLIVE | ストーリーズ</item>
+    </plurals>
+    <plurals name="ay">
+        <item quantity="other">%2$d本のLIVE | %1$d本のストーリーズ</item>
+    </plurals>
+    <plurals name="az">
+        <item quantity="other">%d本のストーリーズ</item>
+    </plurals>
+    <plurals name="b0">
+        <item quantity="other">友達を%d人招待しました</item>
+    </plurals>
+    <plurals name="b1">
+        <item quantity="other">%s本の動画</item>
+    </plurals>
+    <plurals name="b2">
+        <item quantity="other">%s本の動画が追加されました</item>
+    </plurals>
+    <plurals name="b3">
+        <item quantity="other">%s本の動画が投稿されました</item>
+    </plurals>
+    <plurals name="b4">
+        <item quantity="other">動画を追加（%d）</item>
+    </plurals>
+    <plurals name="b5">
+        <item quantity="other">%s本の動画が追加されました。編集を終了するには「完了」をタップしてください。</item>
+    </plurals>
+    <plurals name="b6">
+        <item quantity="other">%d歳</item>
+    </plurals>
+    <plurals name="b7">
+        <item quantity="other">%d歳</item>
+    </plurals>
+    <plurals name="b8">
+        <item quantity="other">あなたは%d歳ですか？\n\nこの情報が正しくない場合、TikTokで適切な使用体験を得ることができない可能性があります。また、この情報はすぐには変更できない場合があります。</item>
+    </plurals>
+    <plurals name="b9">
+        <item quantity="other">あなたは%d歳ですか？</item>
+    </plurals>
+    <plurals name="b_">
+        <item quantity="other">年齢が%d 歳と入力されました。正しい生年月日を入力してください。</item>
+    </plurals>
+    <plurals name="ba">
+        <item quantity="other">%d歳</item>
+    </plurals>
+    <plurals name="bb">
+        <item quantity="other">%d関連のサウンド</item>
+    </plurals>
+    <plurals name="bc">
+        <item quantity="other">サウンドを同期中...</item>
+    </plurals>
+    <plurals name="bd">
+        <item quantity="other">シェア%s件</item>
+    </plurals>
+    <plurals name="be">
+        <item quantity="other">%s回視聴</item>
+    </plurals>
+    <plurals name="bf">
+        <item quantity="other">音声エフェクトによって精度が下がる可能性があります</item>
+    </plurals>
+    <plurals name="bg">
+        <item quantity="other">最大%d個のファイルをアップロード</item>
+    </plurals>
+    <plurals name="bh">
+        <item quantity="other">動画[num]件</item>
+    </plurals>
+    <plurals name="bi">
+        <item quantity="other">このベータ版は あと%d日で期限切れです</item>
+    </plurals>
+    <plurals name="bj">
+        <item quantity="other">あと%d日で期限切れです</item>
+    </plurals>
+    <plurals name="bk">
+        <item quantity="other">あと%d日で期限切れです</item>
+    </plurals>
+    <plurals name="bl">
+        <item quantity="other">あと%d日で期限切れです</item>
+    </plurals>
+    <plurals name="bm">
+        <item quantity="other">%d冊まで追加できます</item>
+    </plurals>
+    <plurals name="bn">
+        <item quantity="other">%1$d人の友達を招待しました。次に友達を招待すると、%2$s%3$dが獲得できます。</item>
+    </plurals>
+    <plurals name="bo">
+        <item quantity="other">が写真をシェアしました</item>
+    </plurals>
+    <plurals name="bp">
+        <item quantity="other">%s本のクリップ</item>
+    </plurals>
+    <plurals name="bq">
+        <item quantity="other">%dをもっと見る</item>
+    </plurals>
+    <plurals name="br">
+        <item quantity="other">%d件の返信を表示</item>
+    </plurals>
+    <plurals name="bs">
+        <item quantity="other">%dか月</item>
+    </plurals>
+    <plurals name="bt">
+        <item quantity="other">%d年</item>
+    </plurals>
+    <plurals name="bu">
+        <item quantity="other">アカウントをブロックする</item>
+    </plurals>
+    <plurals name="bv">
+        <item quantity="other">%d件のアカウントを選択済み。</item>
+    </plurals>
+    <plurals name="bw">
+        <item quantity="other">一度に最大%d件のアカウントを選択できます。</item>
+    </plurals>
+    <plurals name="bx">
+        <item quantity="other">%d件のアカウントがブロックの対象として選択されました。ブロックされたアカウントからはあなたのプロフィールまたはTikTok上のあなたのコンテンツを視聴することはできなくなります。</item>
+    </plurals>
+    <plurals name="by">
+        <item quantity="other">%d件のアカウントをブロックしますか？</item>
+    </plurals>
+    <plurals name="bz">
+        <item quantity="other">コメントを削除する</item>
+    </plurals>
+    <plurals name="c0">
+        <item quantity="other">%d件のコメントが選択されています。</item>
+    </plurals>
+    <plurals name="c1">
+        <item quantity="other">%d件のコメントを削除しますか？</item>
+    </plurals>
+    <plurals name="c2">
+        <item quantity="other">コメントが削除されました</item>
+    </plurals>
+    <plurals name="c3">
+        <item quantity="other">%d件のコメントを選択済み。</item>
+    </plurals>
+    <plurals name="c4">
+        <item quantity="other">一度に最大%d件のコメントを選択できます.</item>
+    </plurals>
+    <plurals name="c5">
+        <item quantity="other">コメントを報告</item>
+    </plurals>
+    <plurals name="c6">
+        <item quantity="other">%d件のコメントを報告しました。コメントに不適切な内容がないか確認します。</item>
+    </plurals>
+    <plurals name="c7">
+        <item quantity="other">%d件のコメントを報告しますか？</item>
+    </plurals>
+    <plurals name="c8">
+        <item quantity="other">コメントが報告されました</item>
+    </plurals>
+    <plurals name="c9">
+        <item quantity="other">%d件のコメントを選択済み</item>
+    </plurals>
+    <plurals name="c_">
+        <item quantity="other">TikTokで一番のおしゃべり好き？あなたは{comment_cnt}回コメントしました。</item>
+    </plurals>
+    <plurals name="ca">
+        <item quantity="other">あなたの最も注目を浴びたコメントには「いいね」が{comment_like_cnt}個つきました。</item>
+    </plurals>
+    <plurals name="cb">
+        <item quantity="other">%s件のコメント</item>
+    </plurals>
+    <plurals name="cc">
+        <item quantity="other">%s本の動画</item>
+    </plurals>
+    <plurals name="ch">
+        <item quantity="other">%s人のユーザーがリマインダーを設定しました</item>
+    </plurals>
+    <plurals name="ci">
+        <item quantity="other">%s個のエフェクト</item>
+    </plurals>
+    <plurals name="cj">
+        <item quantity="other">動画視聴数</item>
+    </plurals>
+    <plurals name="ck">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cl">
+        <item quantity="other">純フォロワー数</item>
+    </plurals>
+    <plurals name="cm">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cn">
+        <item quantity="other">「いいね」数</item>
+    </plurals>
+    <plurals name="co">
+        <item quantity="other">%d%%</item>
+    </plurals>
+    <plurals name="cp">
+        <item quantity="other">LIVE開始まであと10分です：「{0}」。{0}人のユーザーがリマインダーを設定しています。</item>
+    </plurals>
+    <plurals name="cq">
+        <item quantity="other">LIVE開始の時間です！{0}人のユーザーが「{0}」にリマインダーを設定しています。</item>
+    </plurals>
+    <plurals name="cr">
+        <item quantity="other">%s人のユーザーがリマインダーを設定しました</item>
+    </plurals>
+    <plurals name="cs">
+        <item quantity="other">フォロワーが%d人以上いる</item>
+    </plurals>
+    <plurals name="ct">
+        <item quantity="other">最近%2$d日以内に%1$d本以上の動画を投稿</item>
+    </plurals>
+    <plurals name="cu">
+        <item quantity="other">下書きを破棄しますか？</item>
+    </plurals>
+    <plurals name="cv">
+        <item quantity="other">%d本のデュエットとリミックス動画が、あなたの元動画を使用して作成されました。</item>
+    </plurals>
+    <plurals name="cw">
+        <item quantity="other">これらの動画を削除するかは、%d日後に選択することができます。</item>
+    </plurals>
+    <plurals name="cx">
+        <item quantity="other">%d日以内にアカウントを復元すると、これらの動画が復元されます。</item>
+    </plurals>
+    <plurals name="cy">
+        <item quantity="other">あなたのアカウントは%d日間利用停止となり、公開されません。利用停止の期間中でも、TikTokアカウントはいつでも復活させることができます。</item>
+    </plurals>
+    <plurals name="cz">
+        <item quantity="other">%d日後に、あなたのアカウントとデータは永久に削除されます。</item>
+    </plurals>
+    <plurals name="d0">
+        <item quantity="other">アカウントを削除する前に、%d件のタスクを確認してください</item>
+    </plurals>
+    <plurals name="d2">
+        <item quantity="other">%s件の投稿</item>
+    </plurals>
+    <plurals name="d3">
+        <item quantity="other">パスコードが違います。残り試行回数は%dです。</item>
+    </plurals>
+    <plurals name="d4">
+        <item quantity="other">試行回数が多すぎます。%d分後にもう一度お試しください。</item>
+    </plurals>
+    <plurals name="d5">
+        <item quantity="other">%d種類のメロディー</item>
+    </plurals>
+    <plurals name="d6">
+        <item quantity="other">%d曲</item>
+    </plurals>
+    <plurals name="d7">
+        <item quantity="other">%d種類の作品</item>
+    </plurals>
+    <plurals name="d8">
+        <item quantity="other">%d曲</item>
+    </plurals>
+    <plurals name="d9">
+        <item quantity="other">%d種類のサウンド</item>
+    </plurals>
+    <plurals name="d_">
+        <item quantity="other">%d種類の旋律</item>
+    </plurals>
+    <plurals name="da">
+        <item quantity="other">送信（%d）</item>
+    </plurals>
+    <plurals name="db">
+        <item quantity="other">あなたとこのユーザーの両方が%sと他%d人をフォローしています</item>
+    </plurals>
+    <plurals name="dc">
+        <item quantity="other">%1$dフォロー中 · %2$dフォロワー</item>
+    </plurals>
+    <plurals name="dd">
+        <item quantity="other">@新しいメンション</item>
+    </plurals>
+    <plurals name="de">
+        <item quantity="other">%s本の動画</item>
+    </plurals>
+    <plurals name="df">
+        <item quantity="other">新しいメッセージを送信しました。</item>
+    </plurals>
+    <plurals name="dg">
+        <item quantity="other">があなたに新しいメッセージを送信しました。</item>
+    </plurals>
+    <plurals name="dh">
+        <item quantity="other">最大%d人を選択できます</item>
+    </plurals>
+    <plurals name="di">
+        <item quantity="other">下書きを破棄しますか？</item>
+    </plurals>
+    <plurals name="dj">
+        <item quantity="other">下書きを破棄しますか？</item>
+    </plurals>
+    <plurals name="dk">
+        <item quantity="other">下書き{#}件の動画</item>
+    </plurals>
+    <plurals name="dl">
+        <item quantity="other">この動画が投稿されると、%1$sとその他%2$s人に通知が届きます。</item>
+    </plurals>
+    <plurals name="dm">
+        <item quantity="other">%s秒</item>
+    </plurals>
+    <plurals name="dn">
+        <item quantity="other">%d 件の商品</item>
+    </plurals>
+    <plurals name="do">
+        <item quantity="other">アイテム{number}個で{value}%オフ</item>
+    </plurals>
+    <plurals name="dp">
+        <item quantity="other">アイテム{number}個で{value}%オフです。あと{gapvalue}追加してディスカウントをゲットしよう！</item>
+    </plurals>
+    <plurals name="dq">
+        <item quantity="other">アイテム{number}個で{value}%オフです。{currency_mark}{savevalue}節約しました</item>
+    </plurals>
+    <plurals name="dr">
+        <item quantity="other">アイテムを{number}個より多く購入すると{value}%オフになります</item>
+    </plurals>
+    <plurals name="ds">
+        <item quantity="other">アイテムを%d個以上選択してください</item>
+    </plurals>
+    <plurals name="dt">
+        <item quantity="other">{{required_quantity}}点以上の商品</item>
+    </plurals>
+    <plurals name="du">
+        <item quantity="other">購入から%d日後のフォローアップレビュー</item>
+    </plurals>
+    <plurals name="dv">
+        <item quantity="other">不適格な商品</item>
+    </plurals>
+    <plurals name="dw">
+        <item quantity="other">あと{{num}}日で利用可能</item>
+    </plurals>
+    <plurals name="dx">
+        <item quantity="other">{count}ポイントで次のランクに上がります</item>
+    </plurals>
+    <plurals name="dy">
+        <item quantity="other">さらに{count}ポイントでトップクリエイターになれます</item>
+    </plurals>
+    <plurals name="dz">
+        <item quantity="other">フラッシュセールがあと{{num}}分でスタートします</item>
+    </plurals>
+    <plurals name="e0">
+        <item quantity="other">フラッシュセールがあと{num}分でスタートします</item>
+    </plurals>
+    <plurals name="e1">
+        <item quantity="other">フラッシュセールがあと{{num}}分でスタートします</item>
+    </plurals>
+    <plurals name="e2">
+        <item quantity="other">あと%s日で終了</item>
+    </plurals>
+    <plurals name="e3">
+        <item quantity="other">イベント開始の%s分前にプッシュ通知を送信します</item>
+    </plurals>
+    <plurals name="e4">
+        <item quantity="other">イベント開始の%s分前にプッシュ通知を送信します</item>
+    </plurals>
+    <plurals name="e5">
+        <item quantity="other">イベント開始の%s分前にプッシュ通知を送信します</item>
+    </plurals>
+    <plurals name="e6">
+        <item quantity="other">残り{{count}}日</item>
+    </plurals>
+    <plurals name="e7">
+        <item quantity="other">無料サンプルを提供する以下の商品を{{count}}個販売する招待を受けました。招待を受理して入手してください。</item>
+    </plurals>
+    <plurals name="e8">
+        <item quantity="other">商品を入手できません。TikTokサポートチームに問い合わせて、もう一度お試しください。</item>
+    </plurals>
+    <plurals name="e9">
+        <item quantity="other">無料サンプルに不具合が見つかりました。TikTokサポートチームに問い合わせて、もう一度お試しください。</item>
+    </plurals>
+    <plurals name="e_">
+        <item quantity="other">あと{count}日で終了</item>
+    </plurals>
+    <plurals name="ea">
+        <item quantity="other">あと{count}時間で終了</item>
+    </plurals>
+    <plurals name="eb">
+        <item quantity="other">あと{{count}}分で終了</item>
+    </plurals>
+    <plurals name="ec">
+        <item quantity="other">残り{count}分</item>
+    </plurals>
+    <plurals name="ed">
+        <item quantity="other">{count}人がリクエスト</item>
+    </plurals>
+    <plurals name="ee">
+        <item quantity="other">返金は{payment_method}に送られ、{count}日前後に到着する予定です。</item>
+    </plurals>
+    <plurals name="ef">
+        <item quantity="other">%sの分割払い</item>
+    </plurals>
+    <plurals name="eg">
+        <item quantity="other">無効な商品</item>
+    </plurals>
+    <plurals name="eh">
+        <item quantity="other">この商品はこの住所への配送ができません。</item>
+    </plurals>
+    <plurals name="ei">
+        <item quantity="other">この商品はこの住所への配送ができません。</item>
+    </plurals>
+    <plurals name="ej">
+        <item quantity="other">同様のご注文を%s時間前に行っています。前回ご注文された商品へのお支払いがまだ完了していません。</item>
+    </plurals>
+    <plurals name="ek">
+        <item quantity="other">同様のご注文を%s分前に行っています。前回ご注文された商品へのお支払いがまだ完了していません。</item>
+    </plurals>
+    <plurals name="el">
+        <item quantity="other">1：フォロワー</item>
+    </plurals>
+    <plurals name="em">
+        <item quantity="other">ビュー</item>
+    </plurals>
+    <plurals name="en">
+        <item quantity="other">契約</item>
+    </plurals>
+    <plurals name="eo">
+        <item quantity="other">おすすめ</item>
+    </plurals>
+    <plurals name="ep">
+        <item quantity="other">{count}個を超える数のアイテム付き</item>
+    </plurals>
+    <plurals name="eq">
+        <item quantity="other">商品数は%1$s、合計で%2$s</item>
+    </plurals>
+    <plurals name="er">
+        <item quantity="other">合計（%s個の商品）</item>
+    </plurals>
+    <plurals name="es">
+        <item quantity="other">以下の%d個の商品が削除されました。</item>
+    </plurals>
+    <plurals name="et">
+        <item quantity="other">%d個の商品が削除されました</item>
+    </plurals>
+    <plurals name="eu">
+        <item quantity="other">以下の%d個の商品が削除されました。</item>
+    </plurals>
+    <plurals name="ev">
+        <item quantity="other">商品が削除されました（%d個）</item>
+    </plurals>
+    <plurals name="ew">
+        <item quantity="other">%d個の商品が削除されました</item>
+    </plurals>
+    <plurals name="ex">
+        <item quantity="other">%d個の商品が削除されました</item>
+    </plurals>
+    <plurals name="ey">
+        <item quantity="other">以下の%d個の商品が削除されます。削除されたことを確認してください。または{date}に自動で実施されます。</item>
+    </plurals>
+    <plurals name="ez">
+        <item quantity="other">%d個の商品が削除されます</item>
+    </plurals>
+    <plurals name="f0">
+        <item quantity="other">%d個の商品が{date}に削除されます</item>
+    </plurals>
+    <plurals name="f1">
+        <item quantity="other">%d個の商品が削除されます</item>
+    </plurals>
+    <plurals name="f2">
+        <item quantity="other">最大で%d回まで編集できます</item>
+    </plurals>
+    <plurals name="f3">
+        <item quantity="other">テキストステッカーに適用されました すべてのテキストステッカーに適用されました</item>
+    </plurals>
+    <plurals name="f4">
+        <item quantity="other">あなたはこのエフェクトが使用された{effect_video_cnt}本の動画に「いいね」しました。</item>
+    </plurals>
+    <plurals name="f5">
+        <item quantity="other">エフェクトを%d秒プレビュー</item>
+    </plurals>
+    <plurals name="f6">
+        <item quantity="other">%1$s：%2$s、%3$s、%4$sや他のユーザーが新しい動画を%5$d本投稿しました。</item>
+    </plurals>
+    <plurals name="f7">
+        <item quantity="other">%1$s：%2$sが新しい動画を%3$d本投稿しました。</item>
+    </plurals>
+    <plurals name="f8">
+        <item quantity="other">%1$s：%2$s、%3$sおよび%4$sが新しい動画を%5$d本投稿しました。</item>
+    </plurals>
+    <plurals name="f9">
+        <item quantity="other">%1$s：%2$sおよび%3$sが新しい動画を%4$d本投稿しました。</item>
+    </plurals>
+    <plurals name="f_">
+        <item quantity="other">新たに%d人にフォローされました。</item>
+    </plurals>
+    <plurals name="fa">
+        <item quantity="other">%d人が新たに「いいね」しました。</item>
+    </plurals>
+    <plurals name="fb">
+        <item quantity="other">%d件の新しい通知があります。</item>
+    </plurals>
+    <plurals name="fc">
+        <item quantity="other">興味のありそうな動画を%d本見つけました。</item>
+    </plurals>
+    <plurals name="fd">
+        <item quantity="other">%1$s：あなたが関心のありそうな動画が%2$d本あります。</item>
+    </plurals>
+    <plurals name="fe">
+        <item quantity="other">タグ付けされています</item>
+    </plurals>
+    <plurals name="ff">
+        <item quantity="other">登録者数%d人</item>
+    </plurals>
+    <plurals name="fg">
+        <item quantity="other">登録者数%d人</item>
+    </plurals>
+    <plurals name="fh">
+        <item quantity="other">このイベントに登録しました</item>
+    </plurals>
+    <plurals name="fi">
+        <item quantity="other">このグループメンバーはあなたの知り合いかもしれません。</item>
+    </plurals>
+    <plurals name="fj">
+        <item quantity="other">%s本の動画</item>
+    </plurals>
+    <plurals name="fk">
+        <item quantity="other">%s本の動画が追加されました</item>
+    </plurals>
+    <plurals name="fl">
+        <item quantity="other">%d本の動画を%sから削除します</item>
+    </plurals>
+    <plurals name="fm">
+        <item quantity="other">%1$d本の動画を%2$sから削除する</item>
+    </plurals>
+    <plurals name="fn">
+        <item quantity="other">%d件の動画が%sに移動されました</item>
+    </plurals>
+    <plurals name="fo">
+        <item quantity="other">%1$d本の動画を%2$sに移動しました</item>
+    </plurals>
+    <plurals name="fp">
+        <item quantity="other">%d本の動画が削除されました</item>
+    </plurals>
+    <plurals name="fq">
+        <item quantity="other">%d個の新しいおすすめアカウント</item>
+    </plurals>
+    <plurals name="fr">
+        <item quantity="other">%sがフォロー中 %sと、その他%d人がフォロー中</item>
+    </plurals>
+    <plurals name="fs">
+        <item quantity="other">フォロワー</item>
+    </plurals>
+    <plurals name="ft">
+        <item quantity="other">%sをフォローしています %sと、その他%d人がフォローしています</item>
+    </plurals>
+    <plurals name="fu">
+        <item quantity="other">{0}、{1}、およびその他{2}人がフォロー中</item>
+    </plurals>
+    <plurals name="fv">
+        <item quantity="other">{0}およびその他{2}人がフォロー中です</item>
+    </plurals>
+    <plurals name="fw">
+        <item quantity="other">{0}、{1}、とその他{2}人をフォローしています</item>
+    </plurals>
+    <plurals name="fx">
+        <item quantity="other">{0}とその他{2}人をフォローしています</item>
+    </plurals>
+    <plurals name="fy">
+        <item quantity="other">{0}、{1}、とその他{2}人と友達です</item>
+    </plurals>
+    <plurals name="fz">
+        <item quantity="other">{0}とその他{2}人と友達です</item>
+    </plurals>
+    <plurals name="g0">
+        <item quantity="other">共通の友達{2}人</item>
+    </plurals>
+    <plurals name="g1">
+        <item quantity="other">%sと友達 %sと、その他%d人と友達</item>
+    </plurals>
+    <plurals name="g2">
+        <item quantity="other">友達の%d本の新しい動画</item>
+    </plurals>
+    <plurals name="g3">
+        <item quantity="other">%d人のメンバーが現在アクティブ</item>
+    </plurals>
+    <plurals name="g4">
+        <item quantity="other">%1$dのメンバーが%2$d分前にアクティブ</item>
+    </plurals>
+    <plurals name="g5">
+        <item quantity="other">%d人のメンバーが本日アクティブ</item>
+    </plurals>
+    <plurals name="g6">
+        <item quantity="other">%d人のメンバー</item>
+    </plurals>
+    <plurals name="g7">
+        <item quantity="other">新規リクエスト</item>
+    </plurals>
+    <plurals name="g8">
+        <item quantity="other">人のメンバー</item>
+    </plurals>
+    <plurals name="g9">
+        <item quantity="other">%s人のメンバー</item>
+    </plurals>
+    <plurals name="g_">
+        <item quantity="other">他%d人のメンバーを確認</item>
+    </plurals>
+    <plurals name="ga">
+        <item quantity="other">%s回視聴</item>
+    </plurals>
+    <plurals name="gb">
+        <item quantity="other">フォロワー：%s人</item>
+    </plurals>
+    <plurals name="gc">
+        <item quantity="other">動画：%s本</item>
+    </plurals>
+    <plurals name="gd">
+        <item quantity="other">%sと、他%d人に送信されました</item>
+    </plurals>
+    <plurals name="ge">
+        <item quantity="other">%d本のストーリーズをアップロードできませんでした。ストーリーズは下書きに保存されました。</item>
+    </plurals>
+    <plurals name="gf">
+        <item quantity="other">写真をアップロードできませんでした。この写真は下書きに保存されました。</item>
+    </plurals>
+    <plurals name="gg">
+        <item quantity="other">フォロワー%s人</item>
+    </plurals>
+    <plurals name="gh">
+        <item quantity="other">動画%d本</item>
+    </plurals>
+    <plurals name="gi">
+        <item quantity="other">ステッカー%d件</item>
+    </plurals>
+    <plurals name="gj">
+        <item quantity="other">が、写真であなたをメンションしました。</item>
+    </plurals>
+    <plurals name="gk">
+        <item quantity="other">%1$sは、%2$s、他%3$d人をフォローしています。プロフィールを見てみましょう。</item>
+    </plurals>
+    <plurals name="gl">
+        <item quantity="other">%1$sは、%2$s、他%3$d人からフォローされています。プロフィールを見てみましょう。</item>
+    </plurals>
+    <plurals name="gm">
+        <item quantity="other">%1$sは、%2$s、他%3$d人と友達です。プロフィールを見てみましょう。</item>
+    </plurals>
+    <plurals name="gn">
+        <item quantity="other">%1$sさんは、%2$s、%3$s、その他%4$d人のユーザーからフォローされています。プロフィールを見てみましょう。</item>
+    </plurals>
+    <plurals name="go">
+        <item quantity="other">%1$sさんは、%2$s、%3$s、その他%4$d人をフォローしています。プロフィールを見てみましょう。</item>
+    </plurals>
+    <plurals name="gp">
+        <item quantity="other">%1$sさんは、%2$s、%3$s、その他%4$d人のユーザーと友達です。プロフィールを見てみましょう。</item>
+    </plurals>
+    <plurals name="gq">
+        <item quantity="other">新規投稿%s件</item>
+    </plurals>
+    <plurals name="gr">
+        <item quantity="other">アクティビティ</item>
+    </plurals>
+    <plurals name="gs">
+        <item quantity="other">あなたの知り合いかもしれない%1$s、%2$s、他%d人をフォローして動画を楽しみましょう。</item>
+    </plurals>
+    <plurals name="gt">
+        <item quantity="other">他%d人</item>
+    </plurals>
+    <plurals name="gu">
+        <item quantity="other">あなたの知り合いかもしれない%1$s、%2$s、他%3$d人をフォローして動画を楽しみましょう。</item>
+    </plurals>
+    <plurals name="gv">
+        <item quantity="other">メッセージ</item>
+    </plurals>
+    <plurals name="gw">
+        <item quantity="other">新しいアクティビティ</item>
+    </plurals>
+    <plurals name="gx">
+        <item quantity="other">%s人のメンバー</item>
+    </plurals>
+    <plurals name="gy">
+        <item quantity="other">%s件の投稿</item>
+    </plurals>
+    <plurals name="h0">
+        <item quantity="other">%d個のキーワード</item>
+    </plurals>
+    <plurals name="h1">
+        <item quantity="other">{0}（{1}）にフォローされました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="h2">
+        <item quantity="other">{0}（{1}）にフォローされました。{2}とその他{3}人が{0}をフォローしています。</item>
+    </plurals>
+    <plurals name="h3">
+        <item quantity="other">{0}（{1}）にフォローされました。{2}と、その他{3}人が{0}と友達になっています。</item>
+    </plurals>
+    <plurals name="h4">
+        <item quantity="other">{0}（{1}）にフォローされました。{0}も{2}とその他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="h5">
+        <item quantity="other">が動画にコメントしました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="h6">
+        <item quantity="other">が動画にコメントしました。{2}およびその他{3}人がフォローしています。</item>
+    </plurals>
+    <plurals name="h7">
+        <item quantity="other">が動画にコメントしました。{2}およびその他{3}人が友達になっています。</item>
+    </plurals>
+    <plurals name="h8">
+        <item quantity="other">が動画にコメントしました。このユーザーも{2}およびその他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="h9">
+        <item quantity="other">があなたとのデュエットを作成しました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="h_">
+        <item quantity="other">があなたとのデュエットを作成しました。{2}とその他{3}人がフォローしています。</item>
+    </plurals>
+    <plurals name="ha">
+        <item quantity="other">があなたとのデュエットを作成しました。{2}とその他{3}人が友達になっています。</item>
+    </plurals>
+    <plurals name="hb">
+        <item quantity="other">があなたとのデュエットを作成しました。このユーザーも{2}と、その他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="hc">
+        <item quantity="other">動画に「いいね」されました。このユーザーも{2}とその他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="hd">
+        <item quantity="other">動画に「いいね」されました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="he">
+        <item quantity="other">から動画に「いいね」されました。{2}とその他{3}人がフォローしています。</item>
+    </plurals>
+    <plurals name="hf">
+        <item quantity="other">動画に「いいね」されました。{2}とその他{3}人が友達になっています。</item>
+    </plurals>
+    <plurals name="hg">
+        <item quantity="other">にコメント内でメンションされました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="hh">
+        <item quantity="other">にコメント内でメンションされました。{2}とその他{3}人がフォローしています。</item>
+    </plurals>
+    <plurals name="hi">
+        <item quantity="other">にコメント内でメンションされました。{2}とその他{3}人が友達になっています。</item>
+    </plurals>
+    <plurals name="hj">
+        <item quantity="other">にコメント内でメンションされました。このユーザーも{2}とその他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="hk">
+        <item quantity="other">[共通の友達{3}人]</item>
+    </plurals>
+    <plurals name="hl">
+        <item quantity="other">[どちらも{2}と他{3}人にフォローされています]</item>
+    </plurals>
+    <plurals name="hm">
+        <item quantity="other">[どちらも{2}と他{3}人をフォローしています]</item>
+    </plurals>
+    <plurals name="hn">
+        <item quantity="other">{0}にフォローされました。{0}も{2}とその他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="ho">
+        <item quantity="other">{0}にフォローされました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="hp">
+        <item quantity="other">{0}にフォローされました。{2}とその他{3}人が{0}をフォローしています。</item>
+    </plurals>
+    <plurals name="hq">
+        <item quantity="other">{0}にフォローされました。{2}とその他{3}人が{0}と友達になっています。</item>
+    </plurals>
+    <plurals name="hr">
+        <item quantity="other">[どちらも{2}およびその他{3}人と友達になっています]</item>
+    </plurals>
+    <plurals name="hs">
+        <item quantity="other">{0}（{1}）から、フォローのリクエストが届きました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="ht">
+        <item quantity="other">{0}（{1}）からフォローのリクエストが届きました。{2}とその他{3}人が{0}をフォローしています。</item>
+    </plurals>
+    <plurals name="hu">
+        <item quantity="other">{0}（{1}）からフォローのリクエストが届きました。{2}とその他{3}人が{0}と友達になっています。</item>
+    </plurals>
+    <plurals name="hv">
+        <item quantity="other">{0}（{1}）からフォローのリクエストが届きました。{2}とその他{3}人を{0}もフォローしています。</item>
+    </plurals>
+    <plurals name="hw">
+        <item quantity="other">{0}（{1}）にフォローされました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="hx">
+        <item quantity="other">{0}（{1}）にフォローされました。{2}とその他{3}人が{0}をフォローしています。</item>
+    </plurals>
+    <plurals name="hy">
+        <item quantity="other">{0}（{1}）にフォローされました。{2}とその他{3}人が{0}と友達になっています。</item>
+    </plurals>
+    <plurals name="hz">
+        <item quantity="other">{0}（{1}）にフォローされました。{0}も{2}とその他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="i0">
+        <item quantity="other">{0}がフォローリクエストを承認しました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="i1">
+        <item quantity="other">{0}がフォローリクエストを承認しました。{2}とその他{3}人が{0}をフォローしています。</item>
+    </plurals>
+    <plurals name="i2">
+        <item quantity="other">{0}がフォローリクエストを承認しました。{2}とその他{3}人が{0}と友達になっています。</item>
+    </plurals>
+    <plurals name="i3">
+        <item quantity="other">{0}がフォローリクエストを承認しました。{0}も{2}とその他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="i4">
+        <item quantity="other">{0}から、フォローのリクエストが届きました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="i5">
+        <item quantity="other">{0}からフォローリクエストが届きました。{2}とその他{3}人がフォローしています。</item>
+    </plurals>
+    <plurals name="i6">
+        <item quantity="other">{0}からフォローリクエストが届きました。{2}とその他{3}人が友達になっています。</item>
+    </plurals>
+    <plurals name="i7">
+        <item quantity="other">{0}からフォローのリクエストが届きました。{0}も{2}とその他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="i8">
+        <item quantity="other">がコメントに返信しました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="i9">
+        <item quantity="other">がコメントに返信しました。{2}およびその他{3}人がフォローしています。</item>
+    </plurals>
+    <plurals name="i_">
+        <item quantity="other">がコメントに返信しました。{2}およびその他{3}人が友達になっています。</item>
+    </plurals>
+    <plurals name="ia">
+        <item quantity="other">がコメントに返信しました。このユーザーも{2}およびその他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="ib">
+        <item quantity="other">が動画でコメントに返信しました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="ic">
+        <item quantity="other">が動画でコメントに返信しました。{2}およびその他{3}人がフォローしています。</item>
+    </plurals>
+    <plurals name="id">
+        <item quantity="other">が動画でコメントに返信しました。{2}およびその他{3}人が友達になっています。</item>
+    </plurals>
+    <plurals name="ie">
+        <item quantity="other">が動画でコメントに返信しました。このユーザーも{2}およびその他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="if">
+        <item quantity="other">に動画内でメンションされました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="ig">
+        <item quantity="other">に動画内でメンションされました。{2}とその他{3}人がフォローしています。</item>
+    </plurals>
+    <plurals name="ih">
+        <item quantity="other">に動画内でメンションされました。{2}とその他{3}人が友達になっています。</item>
+    </plurals>
+    <plurals name="ii">
+        <item quantity="other">に動画内でメンションされました。このユーザーも{2}とその他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="ij">
+        <item quantity="other">があなたの動画に投票しました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="ik">
+        <item quantity="other">が、あなたも返信したコメントに動画で返信しました。共通のつながりが{3}人います。</item>
+    </plurals>
+    <plurals name="il">
+        <item quantity="other">が、あなたも返信したコメントに動画で返信しました。{2}とその他{3}人がフォローしています。</item>
+    </plurals>
+    <plurals name="im">
+        <item quantity="other">が、あなたも返信したコメントに動画で返信しました。{2}とその他{3}人が友達になっています。</item>
+    </plurals>
+    <plurals name="in">
+        <item quantity="other">が、あなたも返信したコメントに動画で返信しました。このユーザーも{2}とその他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="io">
+        <item quantity="other">が、あなたの動画に投票しました。{2}およびその他{3}人がフォローしています。</item>
+    </plurals>
+    <plurals name="ip">
+        <item quantity="other">が、あなたの動画に投票しました。{2}およびその他{3}人が友達になっています。</item>
+    </plurals>
+    <plurals name="iq">
+        <item quantity="other">が、あなたの動画に投票しました。このユーザーも{2}およびその他{3}人をフォローしています。</item>
+    </plurals>
+    <plurals name="ir">
+        <item quantity="other">%d本のLIVE</item>
+    </plurals>
+    <plurals name="is">
+        <item quantity="other">あと%s日で終了</item>
+    </plurals>
+    <plurals name="it">
+        <item quantity="other">%d 件の商品</item>
+    </plurals>
+    <plurals name="iu">
+        <item quantity="other">%sと、他%d人に送信しています...</item>
+    </plurals>
+    <plurals name="iv">
+        <item quantity="other">%sと、他%d人に送信されました</item>
+    </plurals>
+    <plurals name="iw">
+        <item quantity="other">選択できるメディアファイルは%1$d個までです</item>
+    </plurals>
+    <plurals name="ix">
+        <item quantity="other">%d件のリクエスト</item>
+    </plurals>
+    <plurals name="iz">
+        <item quantity="other">さらに%d本の動画を送信できます</item>
+    </plurals>
+    <plurals name="j1">
+        <item quantity="other">新曲としての楽曲の選択を解除しますか？</item>
+    </plurals>
+    <plurals name="j2">
+        <item quantity="other">%d曲の新曲としての選択を解除しました</item>
+    </plurals>
+    <plurals name="j3">
+        <item quantity="other">%d曲リリース</item>
+    </plurals>
+    <plurals name="j4">
+        <item quantity="other">%d人のアーティスト</item>
+    </plurals>
+    <plurals name="j5">
+        <item quantity="other">共通の友達%d人</item>
+    </plurals>
+    <plurals name="j6">
+        <item quantity="other">共通のつながりが%d人</item>
+    </plurals>
+    <plurals name="j7">
+        <item quantity="other">最大%d​分までの動画をアップロードできるようになりました！</item>
+    </plurals>
+    <plurals name="j8">
+        <item quantity="other">%d分の動画が新登場</item>
+    </plurals>
+    <plurals name="j9">
+        <item quantity="other">共通の友達%d人</item>
+    </plurals>
+    <plurals name="j_">
+        <item quantity="other">%d件のコメント</item>
+    </plurals>
+    <plurals name="ja">
+        <item quantity="other">%d件のコメントをすべて表示</item>
+    </plurals>
+    <plurals name="jb">
+        <item quantity="other">{nickname}とその他{number_1}人</item>
+    </plurals>
+    <plurals name="jc">
+        <item quantity="other">{number}人の友達が本日のNowを投稿しました</item>
+    </plurals>
+    <plurals name="jd">
+        <item quantity="other">%1$sとその他%2$d人がNowを投稿しました</item>
+    </plurals>
+    <plurals name="je">
+        <item quantity="other">{nickname}とその他{number_1}人</item>
+    </plurals>
+    <plurals name="jf">
+        <item quantity="other">{number}人の友達と一緒にTikTok Nowをやってみよう。思いがけないタイミングで日常の一瞬をシェアしよう</item>
+    </plurals>
+    <plurals name="jg">
+        <item quantity="other">{number}分以内にNowを投稿してください</item>
+    </plurals>
+    <plurals name="jh">
+        <item quantity="other">Nowを投稿できるのはあと%d分です。</item>
+    </plurals>
+    <plurals name="ji">
+        <item quantity="other">%d人の共通の友達</item>
+    </plurals>
+    <plurals name="jj">
+        <item quantity="other">%d件の「いいね」</item>
+    </plurals>
+    <plurals name="jk">
+        <item quantity="other">{1}、{2}、{3}とその他{number}人がたった今Nowを投稿しました。</item>
+    </plurals>
+    <plurals name="jl">
+        <item quantity="other">%d個のリアクション</item>
+    </plurals>
+    <plurals name="jm">
+        <item quantity="other">視聴数%d回</item>
+    </plurals>
+    <plurals name="jn">
+        <item quantity="other">視聴数%d回</item>
+    </plurals>
+    <plurals name="jo">
+        <item quantity="other">%1$sとその他%2$s人</item>
+    </plurals>
+    <plurals name="jp">
+        <item quantity="other">Lemon8から同期した投稿にはまだ楽曲がありません。楽曲を追加して、視聴者にとってもっと魅力ある投稿にしましょう。</item>
+    </plurals>
+    <plurals name="jq">
+        <item quantity="other">楽曲を追加して投稿の魅力を高めよう</item>
+    </plurals>
+    <plurals name="jr">
+        <item quantity="other">が、あなたの写真に「いいね」しました。</item>
+    </plurals>
+    <plurals name="js">
+        <item quantity="other">が、あなたの写真に投票しました。</item>
+    </plurals>
+    <plurals name="jt">
+        <item quantity="other">動画を追加（%s）</item>
+    </plurals>
+    <plurals name="ju">
+        <item quantity="other">%d話</item>
+    </plurals>
+    <plurals name="jv">
+        <item quantity="other">エピソード数%d</item>
+    </plurals>
+    <plurals name="jw">
+        <item quantity="other">動画を削除（%s）</item>
+    </plurals>
+    <plurals name="jx">
+        <item quantity="other">%s回視聴</item>
+    </plurals>
+    <plurals name="jy">
+        <item quantity="other">あと%d回送信できます</item>
+    </plurals>
+    <plurals name="jz">
+        <item quantity="other">%d人の視聴者がリクエストしました</item>
+    </plurals>
+    <plurals name="k0">
+        <item quantity="other">アクセスは、あと%s日で復元されます</item>
+    </plurals>
+    <plurals name="k1">
+        <item quantity="other">1位の視聴者からのコイン%s枚</item>
+    </plurals>
+    <plurals name="k2">
+        <item quantity="other">2位の視聴者からのコイン%s枚</item>
+    </plurals>
+    <plurals name="k3">
+        <item quantity="other">フォロワー%s人</item>
+    </plurals>
+    <plurals name="k4">
+        <item quantity="other">購入可能な{number}点の商品を購入</item>
+    </plurals>
+    <plurals name="k5">
+        <item quantity="other">購入可能な{number}点の商品を購入</item>
+    </plurals>
+    <plurals name="k6">
+        <item quantity="other">LIVEクリエイターに贈ったコイン%s枚</item>
+    </plurals>
+    <plurals name="k7">
+        <item quantity="other">「いいね」%s 件</item>
+    </plurals>
+    <plurals name="k8">
+        <item quantity="other">%s名の視聴者</item>
+    </plurals>
+    <plurals name="k9">
+        <item quantity="other">シェア%s件。動画をシェアする</item>
+    </plurals>
+    <plurals name="k_">
+        <item quantity="other">%1$sが%2$sに投票しました</item>
+    </plurals>
+    <plurals name="ka">
+        <item quantity="other">%1$s人が投票した結果%2$s、%3$sが投票した結果%4$s</item>
+    </plurals>
+    <plurals name="kb">
+        <item quantity="other">%d分後</item>
+    </plurals>
+    <plurals name="kc">
+        <item quantity="other">あと%d経験値でレベルアップ</item>
+    </plurals>
+    <plurals name="kd">
+        <item quantity="other">あなたの報酬は%d日後に休止状態になります</item>
+    </plurals>
+    <plurals name="ke">
+        <item quantity="other">LIVEを終了しますか？現在%s人の視聴者が視聴しています。</item>
+    </plurals>
+    <plurals name="kf">
+        <item quantity="other">LIVEを終了しますか？現在%s人の視聴者が視聴しています。</item>
+    </plurals>
+    <plurals name="kg">
+        <item quantity="other">%s件の新着メッセージ</item>
+    </plurals>
+    <plurals name="kh">
+        <item quantity="other">{num}日連続でコラボ配信しました</item>
+    </plurals>
+    <plurals name="ki">
+        <item quantity="other">コインが{number}枚不足しています</item>
+    </plurals>
+    <plurals name="kj">
+        <item quantity="other">過去{number}日間のあなたの最高額：コイン{amount}枚</item>
+    </plurals>
+    <plurals name="kk">
+        <item quantity="other">推奨金額：コイン{amount}枚</item>
+    </plurals>
+    <plurals name="kl">
+        <item quantity="other">現在、コインは{number}枚あります。チャージしてコインを増やすことができます。</item>
+    </plurals>
+    <plurals name="km">
+        <item quantity="other">正解（%d）</item>
+    </plurals>
+    <plurals name="kn">
+        <item quantity="other">正解回答数は%s件</item>
+    </plurals>
+    <plurals name="ko">
+        <item quantity="other">%s人の視聴者が当てました��</item>
+    </plurals>
+    <plurals name="kp">
+        <item quantity="other">ほとんどの視聴者が%s個の言葉を当てました</item>
+    </plurals>
+    <plurals name="kq">
+        <item quantity="other">お題を当てられた視聴者はいませんでした</item>
+    </plurals>
+    <plurals name="kr">
+        <item quantity="other">お題の絵を描く時間は%s分間</item>
+    </plurals>
+    <plurals name="ks">
+        <item quantity="other">�� %d人の視聴者が%sを当てました</item>
+    </plurals>
+    <plurals name="kt">
+        <item quantity="other">私は%s個の言葉を当てました！</item>
+    </plurals>
+    <plurals name="ku">
+        <item quantity="other">あなたは%s個の言葉を当てました</item>
+    </plurals>
+    <plurals name="kv">
+        <item quantity="other">{0:string}とその他{1:string}人が購入中です</item>
+    </plurals>
+    <plurals name="kw">
+        <item quantity="other">%d枚の画像が小さすぎます。画像は 256 x 256ピクセル以上でなければなりません。</item>
+    </plurals>
+    <plurals name="kx">
+        <item quantity="other">%d人の視聴者</item>
+    </plurals>
+    <plurals name="ky">
+        <item quantity="other">コインが%d枚あります。</item>
+    </plurals>
+    <plurals name="kz">
+        <item quantity="other">%@をあと%d枚のコインに交換すると、このギフトを送信できます。</item>
+    </plurals>
+    <plurals name="l0">
+        <item quantity="other">LIVEギフトの残高をコイン{{num}}枚と交換しました</item>
+    </plurals>
+    <plurals name="l1">
+        <item quantity="other">コインが%1$d枚不足しています。%2$sをコインに交換して、%3$sを送りますか？</item>
+    </plurals>
+    <plurals name="l2">
+        <item quantity="other">%d枚のコインに交換して%sを送信しました</item>
+    </plurals>
+    <plurals name="l3">
+        <item quantity="other">%s人のメンバー</item>
+    </plurals>
+    <plurals name="l4">
+        <item quantity="other">{num}日間あなたと共に過ごしました</item>
+    </plurals>
+    <plurals name="l5">
+        <item quantity="other">アクティブな状態を維持するために、{num}時間でメンバーポイント1点を獲得してください</item>
+    </plurals>
+    <plurals name="l6">
+        <item quantity="other">あと%2$d回、コイン%1$d枚で送れます。</item>
+    </plurals>
+    <plurals name="l7">
+        <item quantity="other">現在、%d人のフォロワーがアクティブです</item>
+    </plurals>
+    <plurals name="l8">
+        <item quantity="other">{number}人の友達がLIVE中です。コラボ配信に招待しよう！</item>
+    </plurals>
+    <plurals name="l9">
+        <item quantity="other">チャージしてさらにコインを{num}枚ロック解除</item>
+    </plurals>
+    <plurals name="l_">
+        <item quantity="other">{num}日</item>
+    </plurals>
+    <plurals name="la">
+        <item quantity="other">コインを{num}枚ロック解除する</item>
+    </plurals>
+    <plurals name="lb">
+        <item quantity="other">コイン{num}枚</item>
+    </plurals>
+    <plurals name="lc">
+        <item quantity="other">コインをさらに{num}枚ロック解除します。</item>
+    </plurals>
+    <plurals name="ld">
+        <item quantity="other">コインをさらに{num_1}枚チャージします。</item>
+    </plurals>
+    <plurals name="le">
+        <item quantity="other">チャージして、コインをさらに{num}枚ロック解除しよう</item>
+    </plurals>
+    <plurals name="lf">
+        <item quantity="other">直近{number}日間</item>
+    </plurals>
+    <plurals name="lg">
+        <item quantity="other">{gameName}およびその他{number}個のゲームの価格が変更されました。詳細はパートナーシップセンターでご確認ください。</item>
+    </plurals>
+    <plurals name="lh">
+        <item quantity="other">プログラムの利用規約に違反したため、あなたのLIVEでのギフトの送信は%s日間ロックされています。</item>
+    </plurals>
+    <plurals name="li">
+        <item quantity="other">このLIVEでギフトの送信は一時停止されています。%s分後に復元されます。</item>
+    </plurals>
+    <plurals name="lj">
+        <item quantity="other">ギフトの送信は{0}日間、一時停止されます。</item>
+    </plurals>
+    <plurals name="lk">
+        <item quantity="other">ギフトの送信は%s日間、一時停止されます</item>
+    </plurals>
+    <plurals name="ll">
+        <item quantity="other">コイン%d枚で送信</item>
+    </plurals>
+    <plurals name="lm">
+        <item quantity="other">チャージが完了し、所有するコインが%d枚になりました。このギフトを送信して、応援しましょう！</item>
+    </plurals>
+    <plurals name="ln">
+        <item quantity="other">交換が完了し、所有するコインが%d枚になりました。このギフトを送信して、応援しましょう！</item>
+    </plurals>
+    <plurals name="lo">
+        <item quantity="other">{0:user}が初めてのギフトとして{1:gift}{3:string} ({2:string}ポイント) を送信しました。感謝の気持ちを伝えましょう！</item>
+    </plurals>
+    <plurals name="lp">
+        <item quantity="other">{0:user}が{1:gift}{3:string} ({2:string}ポイント) を送信しました</item>
+    </plurals>
+    <plurals name="lq">
+        <item quantity="other">{0:user}が{1:gift}{3:string} ({2:string}ポイント) を送信しました</item>
+    </plurals>
+    <plurals name="lr">
+        <item quantity="other">{0:user}は{1:gift}{3:string} ({2:string}ポイント) を送信して、このツアーで初めてクリエイターと{4:city}に行きました！</item>
+    </plurals>
+    <plurals name="ls">
+        <item quantity="other">ギフトの詳細（合計{{num}}件の取引）</item>
+    </plurals>
+    <plurals name="lt">
+        <item quantity="other">コイン{amount}枚</item>
+    </plurals>
+    <plurals name="lu">
+        <item quantity="other">ギフト</item>
+    </plurals>
+    <plurals name="lv">
+        <item quantity="other">%d枚のコイン</item>
+    </plurals>
+    <plurals name="lw">
+        <item quantity="other">%s個のギフトを受け取りました。お礼の言葉もお忘れなく。</item>
+    </plurals>
+    <plurals name="lx">
+        <item quantity="other">%s個のギフトを受け取りました</item>
+    </plurals>
+    <plurals name="ly">
+        <item quantity="other">コイン%s枚への交換を完了しますか？</item>
+    </plurals>
+    <plurals name="lz">
+        <item quantity="other">コイン%d枚への交換を完了しますか？</item>
+    </plurals>
+    <plurals name="m0">
+        <item quantity="other">LIVE開始まで (%d秒)</item>
+    </plurals>
+    <plurals name="m1">
+        <item quantity="other">%s件のゲストからのリクエスト</item>
+    </plurals>
+    <plurals name="m2">
+        <item quantity="other">%s件のリクエスト</item>
+    </plurals>
+    <plurals name="m3">
+        <item quantity="other">%sポイント</item>
+    </plurals>
+    <plurals name="m4">
+        <item quantity="other">%2$s位まであと%1$sポイント</item>
+    </plurals>
+    <plurals name="m5">
+        <item quantity="other">%d名の視聴者がリクエストしています</item>
+    </plurals>
+    <plurals name="m6">
+        <item quantity="other">あと%d日間、ゲストとしてLIVE配信を行うことが一時停止されています</item>
+    </plurals>
+    <plurals name="m7">
+        <item quantity="other">あと%d時間、ゲストとしてLIVE配信を行うことが一時停止されています</item>
+    </plurals>
+    <plurals name="m8">
+        <item quantity="other">あと%d分間、ゲストとしてLIVE配信を行うことが一時停止されています</item>
+    </plurals>
+    <plurals name="m9">
+        <item quantity="other">あと%d秒間、ゲストとしてLIVE配信を行うことが一時停止されています</item>
+    </plurals>
+    <plurals name="m_">
+        <item quantity="other">ツール</item>
+    </plurals>
+    <plurals name="ma">
+        <item quantity="other">[username]と[number]人のフォロワーからLIVE配信のリクエストがありました</item>
+    </plurals>
+    <plurals name="mb">
+        <item quantity="other">最近、[username]と[number]人のフォロワーからLIVE配信のリクエストがありました</item>
+    </plurals>
+    <plurals name="mc">
+        <item quantity="other">招待を承諾すると、該当のLIVEクリエイターがあなたの現在のコラボ配信者に加わります。</item>
+    </plurals>
+    <plurals name="ml">
+        <item quantity="other">{number}日間</item>
+    </plurals>
+    <plurals name="mm">
+        <item quantity="other">次のステップでは、一度ページを離れると、クーポンは{number}日後にしか使用できなくなります。</item>
+    </plurals>
+    <plurals name="mn">
+        <item quantity="other">次のステップでは、一度ページを離れると、クーポンは{number}時間後にしか使用できなくなります。</item>
+    </plurals>
+    <plurals name="mo">
+        <item quantity="other">次のステップでは、一度ページを離れると、クーポンは{number}分後にしか使用できなくなります。</item>
+    </plurals>
+    <plurals name="mp">
+        <item quantity="other">クーポンは{number}日後に再び使用できるようになります</item>
+    </plurals>
+    <plurals name="mq">
+        <item quantity="other">クーポンは{number}時間後に再び使用できるようになります</item>
+    </plurals>
+    <plurals name="mr">
+        <item quantity="other">クーポンは{number}分後に再び使用できるようになります</item>
+    </plurals>
+    <plurals name="ms">
+        <item quantity="other">「いいね」%s 件</item>
+    </plurals>
+    <plurals name="mt">
+        <item quantity="other">いいね</item>
+    </plurals>
+    <plurals name="mu">
+        <item quantity="other">「いいね」%s 件</item>
+    </plurals>
+    <plurals name="mv">
+        <item quantity="other">%d秒</item>
+    </plurals>
+    <plurals name="mw">
+        <item quantity="other">LIVEの申請は承認されませんでした。%d日後にもう一度申請できます。</item>
+    </plurals>
+    <plurals name="mx">
+        <item quantity="other">LIVEへのアクセスを申請したため、今後7日間はLIVE配信が可能です。コミュニティガイドラインを遵守し、最初の週に%d時間LIVE配信を行うと、引き続き配信できるようになります。</item>
+    </plurals>
+    <plurals name="my">
+        <item quantity="other">%sまでにあと%d時間LIVE配信を行うと、引き続き配信できるようになります</item>
+    </plurals>
+    <plurals name="mz">
+        <item quantity="other">%2$sまでにあと%1$s時間LIVE配信を行うと、引き続きLIVEにアクセスできるようになります</item>
+    </plurals>
+    <plurals name="n0">
+        <item quantity="other">%sTikポン</item>
+    </plurals>
+    <plurals name="n1">
+        <item quantity="other">{%s host username}が今週の{%n}位のLIVEクリエイターになるには、コインが{%d}枚必要です！</item>
+    </plurals>
+    <plurals name="n2">
+        <item quantity="other">残り1日。3位のLIVEクリエイターになってあなたの動画に限定バッジが付与されるよう、さらに{%d}個のダイヤモンドを獲得しましょう。</item>
+    </plurals>
+    <plurals name="n3">
+        <item quantity="other">残り1日。より多くの潜在視聴者にLIVEを届けるために、更に{%d}個のダイヤモンドを獲得しましょう。</item>
+    </plurals>
+    <plurals name="n4">
+        <item quantity="other">残り1日。LIVEクリエイター用のユニークな報酬を獲得するために、更に{%d}個のダイヤモンドを獲得しましょう！</item>
+    </plurals>
+    <plurals name="n5">
+        <item quantity="other">%s人のフォロワーがアクティブになっています</item>
+    </plurals>
+    <plurals name="n6">
+        <item quantity="other">コインが%s枚必要です</item>
+    </plurals>
+    <plurals name="n7">
+        <item quantity="other">%d人のサブスク登録者が視聴しています</item>
+    </plurals>
+    <plurals name="n8">
+        <item quantity="other">残り3分。LIVEクリエイター3位になって、限定バッジを獲得するために、更に{%d}個のダイヤモンドを獲得しましょう。</item>
+    </plurals>
+    <plurals name="n9">
+        <item quantity="other">残り3分。より多くの潜在視聴者にLIVEを届けるために、更に{%d}個のダイヤモンドを獲得しましょう。</item>
+    </plurals>
+    <plurals name="n_">
+        <item quantity="other">残り3分。人気のあるLIVEクリエイター用のユニークな報酬を獲得するために、更に{%d}個のダイヤモンドを獲得しましょう！</item>
+    </plurals>
+    <plurals name="na">
+        <item quantity="other">%s時間%d分</item>
+    </plurals>
+    <plurals name="nb">
+        <item quantity="other">ダイヤモンド</item>
+    </plurals>
+    <plurals name="nc">
+        <item quantity="other">視聴</item>
+    </plurals>
+    <plurals name="nd">
+        <item quantity="other">%s分を経過した質問には回答できません</item>
+    </plurals>
+    <plurals name="ne">
+        <item quantity="other">%s時間前</item>
+    </plurals>
+    <plurals name="nf">
+        <item quantity="other">%s分前</item>
+    </plurals>
+    <plurals name="ng">
+        <item quantity="other">「%s」は10分後に開始する予定です。%d人の視聴者があなたのイベントを閲覧しました。今すぐLIVEを開始して、プロモーションを最大限に活用しましょう！</item>
+    </plurals>
+    <plurals name="nh">
+        <item quantity="other">%d人の視聴者があなたのイベントを閲覧しました。LIVEの準備はいいですか？</item>
+    </plurals>
+    <plurals name="ni">
+        <item quantity="other">{numberofviews}人の視聴者があなたのイベントを閲覧しました。LIVEの準備はいいですか？</item>
+    </plurals>
+    <plurals name="nj">
+        <item quantity="other">%d人の視聴者があなたのイベントを見ました！予定の時間通りにLIVEを開始しましょう。</item>
+    </plurals>
+    <plurals name="nk">
+        <item quantity="other">%s件のチュートリアルタスクを表示</item>
+    </plurals>
+    <plurals name="nl">
+        <item quantity="other">ギフト贈呈者からのリクエスト%d個が優先されます</item>
+    </plurals>
+    <plurals name="nm">
+        <item quantity="other">%d枚のコイン</item>
+    </plurals>
+    <plurals name="nn">
+        <item quantity="other">これにはコインが%d枚必要です。</item>
+    </plurals>
+    <plurals name="no">
+        <item quantity="other">コインを%d枚送信しました。%s</item>
+    </plurals>
+    <plurals name="np">
+        <item quantity="other">LIVEクリエイターは、合計%dコイン以上を贈った贈呈者からのリクエストを優先することがあります。</item>
+    </plurals>
+    <plurals name="nq">
+        <item quantity="other">LIVEクリエイターは、合計でコイン%d枚以上を送信したユーザー（あなたを含む）からのリクエストを優先する場合があります。</item>
+    </plurals>
+    <plurals name="nr">
+        <item quantity="other">これにはコインが%d枚必要です。</item>
+    </plurals>
+    <plurals name="ns">
+        <item quantity="other">%2$s秒後にカメラを再度オンにするように%1$sを招待できます</item>
+    </plurals>
+    <plurals name="nt">
+        <item quantity="other">%2$s秒後にマイクを再度オンにするように%1$sを招待できます</item>
+    </plurals>
+    <plurals name="nu">
+        <item quantity="other">%d分</item>
+    </plurals>
+    <plurals name="nv">
+        <item quantity="other">%d秒</item>
+    </plurals>
+    <plurals name="nw">
+        <item quantity="other">%d分</item>
+    </plurals>
+    <plurals name="nx">
+        <item quantity="other">%d秒</item>
+    </plurals>
+    <plurals name="ny">
+        <item quantity="other">ステージ1完了までタスク%s個</item>
+    </plurals>
+    <plurals name="nz">
+        <item quantity="other">ステージ2完了までタスク%s個</item>
+    </plurals>
+    <plurals name="o0">
+        <item quantity="other">カスタマイズ特典は、最大で%s個作成することができます。新しいカスタマイズ特典を作成する場合は、特典を1つ削除してください。</item>
+    </plurals>
+    <plurals name="o1">
+        <item quantity="other">投票は%s秒後に終了します</item>
+    </plurals>
+    <plurals name="o2">
+        <item quantity="other">今すぐ投票（%s秒）：</item>
+    </plurals>
+    <plurals name="o3">
+        <item quantity="other">今日はコインを%d枚使用しました。</item>
+    </plurals>
+    <plurals name="o4">
+        <item quantity="other">ギフトを送るペースを下げて、%d分後にもう一度お試しください。</item>
+    </plurals>
+    <plurals name="o5">
+        <item quantity="other">{0:user}のポータルは終了しました。{1:string}人の視聴者がポータルから参加しました。</item>
+    </plurals>
+    <plurals name="o6">
+        <item quantity="other">{0:user}のポータルは終了しました。{1:string}人の視聴者がポータルから参加しました。おめでとうございます！��</item>
+    </plurals>
+    <plurals name="o7">
+        <item quantity="other">{0:user}のポータルは終了しました。{1:string}人の視聴者がポータルから参加しました。すばらしい！��</item>
+    </plurals>
+    <plurals name="o8">
+        <item quantity="other">%s回視聴</item>
+    </plurals>
+    <plurals name="o9">
+        <item quantity="other">デスクトップブラウザで{{num}}枚のコインを購入</item>
+    </plurals>
+    <plurals name="o_">
+        <item quantity="other">アプリで{{num}}枚のコインを購入</item>
+    </plurals>
+    <plurals name="oa">
+        <item quantity="other">モバイルブラウザで{{num}}枚のコインを購入</item>
+    </plurals>
+    <plurals name="ob">
+        <item quantity="other">異議申し立てを審査した結果、アクセス取消し期間を調整しました。PCまたはMacでのLIVE配信へのアクセスはあと%s日で復元されます。</item>
+    </plurals>
+    <plurals name="oc">
+        <item quantity="other">複数のコミュニティガイドライン違反があるため、PCまたはMacでのLIVE配信へのアクセスが%s日間一時停止されています。</item>
+    </plurals>
+    <plurals name="od">
+        <item quantity="other">あなたの異議申し立てを審査し、宝箱アクセスの取り消し期間を%s日間に調整しました。</item>
+    </plurals>
+    <plurals name="oe">
+        <item quantity="other">複数のコミュニティガイドライン違反により、宝箱へのアクセスは%s日間一時停止されています。</item>
+    </plurals>
+    <plurals name="of">
+        <item quantity="other">過去30日間で、%s個を超える数のダイヤモンドを獲得しました。週間ランキングに入れるよう、引き続き頑張ってください。</item>
+    </plurals>
+    <plurals name="og">
+        <item quantity="other">このランキングは、過去30日間に獲得したダイヤモンドの数が{0:string}個未満のLIVEクリエイターを表示しています。</item>
+    </plurals>
+    <plurals name="oh">
+        <item quantity="other">ギフトの送信は%s日間、一時停止されます</item>
+    </plurals>
+    <plurals name="oi">
+        <item quantity="other">現在、コインは{number_1}枚あります。 コインを{number_2}枚 ({amount}) チャージすれば、アイテムを送ることができます。</item>
+    </plurals>
+    <plurals name="oj">
+        <item quantity="other">コインが%s枚不足しています</item>
+    </plurals>
+    <plurals name="ok">
+        <item quantity="other">{number}個の招待リンクを受け取りました</item>
+    </plurals>
+    <plurals name="ol">
+        <item quantity="other">%sからのサブスクリプションの招待を開きます</item>
+    </plurals>
+    <plurals name="om">
+        <item quantity="other">リクエスト済み: %d分前</item>
+    </plurals>
+    <plurals name="on">
+        <item quantity="other">ギフトの送信は%s日間、一時停止されます</item>
+    </plurals>
+    <plurals name="oo">
+        <item quantity="other">あと%s日でアクセスは復元されます。</item>
+    </plurals>
+    <plurals name="op">
+        <item quantity="other">異議申し立てを審査した結果、アクセス取消し期間を調整しました。LIVE Studioへのアクセスはあと%s日で復元されます。</item>
+    </plurals>
+    <plurals name="oq">
+        <item quantity="other">異議申し立てを審査した結果、アクセス取消し期間を調整しました。モバイルゲームへのアクセスはあと%s日で復元されます。</item>
+    </plurals>
+    <plurals name="or">
+        <item quantity="other">異議申し立てを審査した結果、アクセス取消し期間を調整しました。PCまたはMacでのLIVE配信へのアクセスはあと%s日で復元されます。</item>
+    </plurals>
+    <plurals name="os">
+        <item quantity="other">LIVEルールまたはコミュニティガイドラインに繰り返し違反したため、LIVE Studioへのアクセスが%s日間一時停止されました。</item>
+    </plurals>
+    <plurals name="ot">
+        <item quantity="other">LIVEルールまたはコミュニティガイドラインにに繰り返し違反したため、モバイルゲームへのアクセスが%s日間一時停止されました。</item>
+    </plurals>
+    <plurals name="ou">
+        <item quantity="other">LIVEルールまたはコミュニティガイドラインに繰り返し違反したため、PCまたはMacでのLIVE配信へのアクセスが%s日間一時停止されました。</item>
+    </plurals>
+    <plurals name="ov">
+        <item quantity="other">目標：ギフト贈呈者{&lt;num&gt;}人</item>
+    </plurals>
+    <plurals name="ow">
+        <item quantity="other">目標：{&lt;num&gt;}ギフトポイント</item>
+    </plurals>
+    <plurals name="ox">
+        <item quantity="other">目標：チームのギフト贈呈者{&lt;num&gt;}人</item>
+    </plurals>
+    <plurals name="oy">
+        <item quantity="other">目標：チームで{&lt;num&gt;}ギフトポイント</item>
+    </plurals>
+    <plurals name="oz">
+        <item quantity="other">+ &lt;num&gt;対戦ポイント</item>
+    </plurals>
+    <plurals name="p0">
+        <item quantity="other">%s人の視聴者に対して、あなたのコメントが上部に表示されます</item>
+    </plurals>
+    <plurals name="p1">
+        <item quantity="other">あなたのスターコメントはLIVE中に削除されたため、このコメントについて24時間以内にコイン[0:string]枚の返金が行われます。</item>
+    </plurals>
+    <plurals name="p2">
+        <item quantity="other">%s件のスターコメントが順番待ちです</item>
+    </plurals>
+    <plurals name="p3">
+        <item quantity="other">あなたのスターコメントは削除されたばかりです。{num}時間後にもう一度お試しください。</item>
+    </plurals>
+    <plurals name="p4">
+        <item quantity="other">あなたのスターコメントは削除されたばかりです。{num}分後にもう一度お試しください。</item>
+    </plurals>
+    <plurals name="p5">
+        <item quantity="other">終了まで%s日</item>
+    </plurals>
+    <plurals name="pe">
+        <item quantity="other">%1$s人の視聴者が視聴しています。今、サブスク登録者限定LIVEを開始すると、新規サブスク登録者を%2$s人獲得できる可能性があります。</item>
+    </plurals>
+    <plurals name="pf">
+        <item quantity="other">%s人のサブスク登録者が視聴しています。サブスク登録者限定LIVEを使用してコミュニティとのつながりを深める良い機会です。</item>
+    </plurals>
+    <plurals name="pg">
+        <item quantity="other">毎月%2$s分間サブスク登録者限定LIVEを実施すると、新規サブスク登録者を%1$s人獲得できる可能性があります。</item>
+    </plurals>
+    <plurals name="ph">
+        <item quantity="other">コメントに入力できるエモートは%s個までです</item>
+    </plurals>
+    <plurals name="pi">
+        <item quantity="other">登録して%1$sのカスタムエモート%2$s個を使おう</item>
+    </plurals>
+    <plurals name="pj">
+        <item quantity="other">フォロワー数が{number}人未満</item>
+    </plurals>
+    <plurals name="pk">
+        <item quantity="other">フォロワー数が{number}人未満のクリエイターは招待できません</item>
+    </plurals>
+    <plurals name="pl">
+        <item quantity="other">あと{number1}人のクリエイターを招待すると{number2}位になれます！その調子で続けよう！</item>
+    </plurals>
+    <plurals name="pm">
+        <item quantity="other">あと{number}人のクリエイターを招待すると{rankminusone}位に届きます！その調子で続けよう！</item>
+    </plurals>
+    <plurals name="pn">
+        <item quantity="other">招待できるのは、フォロワー数が{number}人を超えるクリエイターのみです。</item>
+    </plurals>
+    <plurals name="po">
+        <item quantity="other">{num}個のエモートが承認されませんでした</item>
+    </plurals>
+    <plurals name="pp">
+        <item quantity="other">現在の特典でサブスク登録者が%d%%増える可能性があります。</item>
+    </plurals>
+    <plurals name="pq">
+        <item quantity="other">%1$sが%2$dヶ月のサブスクリプションを購入しました！</item>
+    </plurals>
+    <plurals name="pr">
+        <item quantity="other">オン/オフは%s分に1回のみ可能です。後で再度お試しください。</item>
+    </plurals>
+    <plurals name="ps">
+        <item quantity="other">サブスクリプションプレゼントは{num}個あります。他のユーザーに送信しましょう！</item>
+    </plurals>
+    <plurals name="pt">
+        <item quantity="other">サブスクリプションプレゼントは残り%d個です。今すぐ他のユーザーに送信しましょう！</item>
+    </plurals>
+    <plurals name="pu">
+        <item quantity="other">おめでとうございます！アクティビティの報酬として、サブスクリプションプレゼントを [number] 個獲得しました。</item>
+    </plurals>
+    <plurals name="pv">
+        <item quantity="other">{num}日前にコラボ配信しました</item>
+    </plurals>
+    <plurals name="pw">
+        <item quantity="other">{number}日前にあなたとLIVE配信をしました</item>
+    </plurals>
+    <plurals name="px">
+        <item quantity="other">{num}日前にあなたと一緒に配信しました</item>
+    </plurals>
+    <plurals name="py">
+        <item quantity="other">宝箱へのアクセスは一時停止されています。アクセスは%s日後に復元されます。</item>
+    </plurals>
+    <plurals name="pz">
+        <item quantity="other">上位視聴者</item>
+    </plurals>
+    <plurals name="q0">
+        <item quantity="other">トップ視聴者</item>
+    </plurals>
+    <plurals name="q1">
+        <item quantity="other">決勝開始まで%s秒</item>
+    </plurals>
+    <plurals name="q2">
+        <item quantity="other">決勝開始まで%s日</item>
+    </plurals>
+    <plurals name="q3">
+        <item quantity="other">決勝開始まで%s時間</item>
+    </plurals>
+    <plurals name="q4">
+        <item quantity="other">決勝開始まで%s分</item>
+    </plurals>
+    <plurals name="q5">
+        <item quantity="other">準決勝開始まで%s日</item>
+    </plurals>
+    <plurals name="q6">
+        <item quantity="other">準決勝開始まで%s時間</item>
+    </plurals>
+    <plurals name="q7">
+        <item quantity="other">準決勝開始まで%s分</item>
+    </plurals>
+    <plurals name="q8">
+        <item quantity="other">準決勝開始まで%s秒</item>
+    </plurals>
+    <plurals name="q9">
+        <item quantity="other">{1:string}位になるにはダイヤモンドがあと{0:string}個必要です</item>
+    </plurals>
+    <plurals name="q_">
+        <item quantity="other">{1:string}位になるにはギフト贈呈者があと{0:string}人必要です</item>
+    </plurals>
+    <plurals name="qa">
+        <item quantity="other">日</item>
+    </plurals>
+    <plurals name="qb">
+        <item quantity="other">{amount}を{num}枚のコインに交換しました。</item>
+    </plurals>
+    <plurals name="qc">
+        <item quantity="other">{amount}で{num}枚のコインを購入しました。</item>
+    </plurals>
+    <plurals name="qd">
+        <item quantity="other">2位より{num}ポイント多い</item>
+    </plurals>
+    <plurals name="qe">
+        <item quantity="other">+{num}チームポイント (1日のチームギフト送信数：%1$s/%2$s)</item>
+    </plurals>
+    <plurals name="qf">
+        <item quantity="other">%s人の視聴者が検索から参加</item>
+    </plurals>
+    <plurals name="qg">
+        <item quantity="other">%2$s位になるには チームポイント%1$s点が必要です</item>
+    </plurals>
+    <plurals name="qh">
+        <item quantity="other">%2$s位になるには%1$sチームポイントが必要です</item>
+    </plurals>
+    <plurals name="qi">
+        <item quantity="other">不明なエラーが発生しました。{number}時間後にもう一度お試しください</item>
+    </plurals>
+    <plurals name="qj">
+        <item quantity="other">不明なエラーが発生しました。{number}分後にもう一度アクセスしてください</item>
+    </plurals>
+    <plurals name="qk">
+        <item quantity="other">視聴者</item>
+    </plurals>
+    <plurals name="ql">
+        <item quantity="other">%d人の視聴者</item>
+    </plurals>
+    <plurals name="qm">
+        <item quantity="other">%s名の視聴者</item>
+    </plurals>
+    <plurals name="qn">
+        <item quantity="other">%s名の視聴者がギフトを送信しました</item>
+    </plurals>
+    <plurals name="qo">
+        <item quantity="other">投稿(%s)</item>
+    </plurals>
+    <plurals name="qp">
+        <item quantity="other">(%s件のレビュー)</item>
+    </plurals>
+    <plurals name="qq">
+        <item quantity="other">%s枚の写真がアップロードされませんでした。もう一度お試しください。</item>
+    </plurals>
+    <plurals name="qr">
+        <item quantity="other">%1$dコイン = %2$s%3$.2f</item>
+    </plurals>
+    <plurals name="qs">
+        <item quantity="other">%sのTikTok Shoutout動画の価格が%sコインに変更されました。</item>
+    </plurals>
+    <plurals name="qt">
+        <item quantity="other">%d曲の類似曲</item>
+    </plurals>
+    <plurals name="qu">
+        <item quantity="other">%d件のプロフィールの表示履歴</item>
+    </plurals>
+    <plurals name="qv">
+        <item quantity="other">フォロワー</item>
+    </plurals>
+    <plurals name="qw">
+        <item quantity="other">%1$sはすべての動画で合計%2$s回「いいね」されました</item>
+    </plurals>
+    <plurals name="qx">
+        <item quantity="other">このユーザーのプライバシー設定により、%dのアカウントは非表示になっています</item>
+    </plurals>
+    <plurals name="qy">
+        <item quantity="other">あなたのプロフィールを見ました。</item>
+    </plurals>
+    <plurals name="qz">
+        <item quantity="other">%1$s、%2$s、その他%d人</item>
+    </plurals>
+    <plurals name="r0">
+        <item quantity="other">%s人があなたのプロフィールを見ました。</item>
+    </plurals>
+    <plurals name="r1">
+        <item quantity="other">{0}、{1}および、その他{2}人があなたのプロフィールを見ました。</item>
+    </plurals>
+    <plurals name="r2">
+        <item quantity="other">あなたの%1$sと他の%2$sつのデバイスに通知を送りました。TikTokが開いていることを確認し、通知の「はい」をタップしてログインを続けてください。</item>
+    </plurals>
+    <plurals name="r3">
+        <item quantity="other">質問数（%d）</item>
+    </plurals>
+    <plurals name="r4">
+        <item quantity="other">%s本の動画</item>
+    </plurals>
+    <plurals name="r5">
+        <item quantity="other">%d本の動画</item>
+    </plurals>
+    <plurals name="r6">
+        <item quantity="other">回答数は{number}</item>
+    </plurals>
+    <plurals name="r7">
+        <item quantity="other">閲覧できない%s件の質問が招待者から削除されました</item>
+    </plurals>
+    <plurals name="r8">
+        <item quantity="other">%$sの質問はできません。お気に入りから削除されました。</item>
+    </plurals>
+    <plurals name="r9">
+        <item quantity="other">%s個の質問はできません。お気に入りから削除されました。</item>
+    </plurals>
+    <plurals name="r_">
+        <item quantity="other">%s件の新着メッセージ</item>
+    </plurals>
+    <plurals name="ra">
+        <item quantity="other">%s個の新しいリアクション</item>
+    </plurals>
+    <plurals name="rb">
+        <item quantity="other">{number}人がおすすめしました</item>
+    </plurals>
+    <plurals name="rc">
+        <item quantity="other">%s人がおすすめしました</item>
+    </plurals>
+    <plurals name="rd">
+        <item quantity="other">%d 人がおすすめしました</item>
+    </plurals>
+    <plurals name="re">
+        <item quantity="other">%d人がおすすめしました</item>
+    </plurals>
+    <plurals name="rf">
+        <item quantity="other">さらに%d件のおすすめを表示する</item>
+    </plurals>
+    <plurals name="rg">
+        <item quantity="other">%d秒まで撮影できます</item>
+    </plurals>
+    <plurals name="rh">
+        <item quantity="other">元動画の音源を使用して、%d秒まで撮影できます</item>
+    </plurals>
+    <plurals name="ri">
+        <item quantity="other">下書き (%d)</item>
+    </plurals>
+    <plurals name="rj">
+        <item quantity="other">この楽曲を復元すると、あなたの動画はミュートされます。</item>
+    </plurals>
+    <plurals name="rk">
+        <item quantity="other">著作権で保護された楽曲を復元しますか？</item>
+    </plurals>
+    <plurals name="rl">
+        <item quantity="other">著作権で保護された楽曲が削除されました</item>
+    </plurals>
+    <plurals name="rm">
+        <item quantity="other">楽曲を削除しています</item>
+    </plurals>
+    <plurals name="rn">
+        <item quantity="other">楽曲が削除されました</item>
+    </plurals>
+    <plurals name="ro">
+        <item quantity="other">別の楽曲を使う</item>
+    </plurals>
+    <plurals name="rp">
+        <item quantity="other">著作権で保護された楽曲を削除しています...</item>
+    </plurals>
+    <plurals name="rq">
+        <item quantity="other">あなたの動画で、著作権を侵害している1分を超える楽曲が検出されました。このままにすると、あなたの動画はミュートされます。別の楽曲に差し替えるか、動画を短くしてください。%s</item>
+    </plurals>
+    <plurals name="rr">
+        <item quantity="other">別の楽曲を使う</item>
+    </plurals>
+    <plurals name="rs">
+        <item quantity="other">著作権で保護された楽曲を削除しています...</item>
+    </plurals>
+    <plurals name="rt">
+        <item quantity="other">著作権を侵害している楽曲があなたの動画で検出されました。このままにすると、あなたの動画はミュートされます。別の楽曲に差し替えることもできます。%s</item>
+    </plurals>
+    <plurals name="ru">
+        <item quantity="other">著作権で保護された楽曲</item>
+    </plurals>
+    <plurals name="rv">
+        <item quantity="other">著作権者は1分間だけこの楽曲を使用することを許可しています。</item>
+    </plurals>
+    <plurals name="rw">
+        <item quantity="other">著作権者はこの楽曲の使用を許可していません。</item>
+    </plurals>
+    <plurals name="rx">
+        <item quantity="other">別の楽曲を使う</item>
+    </plurals>
+    <plurals name="ry">
+        <item quantity="other">あなたの動画で、著作権を侵害している1分を超える楽曲が検出されました。このままにすると、あなたの動画はミュートされます。別の楽曲に差し替えるか、動画を短くしてください。%s</item>
+    </plurals>
+    <plurals name="rz">
+        <item quantity="other">別の楽曲を使う</item>
+    </plurals>
+    <plurals name="s0">
+        <item quantity="other">著作権を侵害している楽曲があなたの動画で検出されました。このままにすると、あなたの動画はミュートされます。別の楽曲に差し替えることもできます。%s</item>
+    </plurals>
+    <plurals name="s1">
+        <item quantity="other">動画を削除（%d）</item>
+    </plurals>
+    <plurals name="s2">
+        <item quantity="other">%d件の再投稿</item>
+    </plurals>
+    <plurals name="s3">
+        <item quantity="other">{number}人が再投稿しました</item>
+    </plurals>
+    <plurals name="s4">
+        <item quantity="other">%s人が再投稿しました</item>
+    </plurals>
+    <plurals name="s5">
+        <item quantity="other">%dが再投稿しました</item>
+    </plurals>
+    <plurals name="s6">
+        <item quantity="other">%d人が再投稿しました</item>
+    </plurals>
+    <plurals name="s7">
+        <item quantity="other">さらに%d件の再投稿を表示</item>
+    </plurals>
+    <plurals name="s8">
+        <item quantity="other">%d日間</item>
+    </plurals>
+    <plurals name="s9">
+        <item quantity="other">{number} 間 {number} 分</item>
+    </plurals>
+    <plurals name="s_">
+        <item quantity="other">{number} 回</item>
+    </plurals>
+    <plurals name="sa">
+        <item quantity="other">{number} 回開かれました</item>
+    </plurals>
+    <plurals name="sb">
+        <item quantity="other">ここ1週間でTikTokを{number}時間視聴しました（前週より{percent}減少）。</item>
+    </plurals>
+    <plurals name="sc">
+        <item quantity="other">ここ1週間でTikTokを{number}時間視聴しました（前週より{percent}増加）。</item>
+    </plurals>
+    <plurals name="sd">
+        <item quantity="other">ここ1週間でTikTokを{number}時間視聴しました（前週より{percent}減少）</item>
+    </plurals>
+    <plurals name="se">
+        <item quantity="other">ここ1週間でTikTokを{number}時間視聴しました（前週より{percent}増加）</item>
+    </plurals>
+    <plurals name="sf">
+        <item quantity="other">ここ1週間でTikTokを{number}時間視聴しました（前週より{percent}減少）</item>
+    </plurals>
+    <plurals name="sg">
+        <item quantity="other">ここ1週間でTikTokを{number}時間視聴しました（前週より{percent}増加）</item>
+    </plurals>
+    <plurals name="sh">
+        <item quantity="other">あと%1$d回の検索で%2$dポイントをゲット</item>
+    </plurals>
+    <plurals name="si">
+        <item quantity="other">検索結果を%d秒間見よう</item>
+    </plurals>
+    <plurals name="sj">
+        <item quantity="other">あと%1$d回の検索で%2$dポイントをゲット！</item>
+    </plurals>
+    <plurals name="sk">
+        <item quantity="other">%d件の関連楽曲</item>
+    </plurals>
+    <plurals name="sl">
+        <item quantity="other">フォロワー%s人</item>
+    </plurals>
+    <plurals name="sm">
+        <item quantity="other">%d日前にアップデートしました</item>
+    </plurals>
+    <plurals name="sn">
+        <item quantity="other">%d時間前にアップデートしました</item>
+    </plurals>
+    <plurals name="so">
+        <item quantity="other">%d分前にアップデートしました</item>
+    </plurals>
+    <plurals name="sp">
+        <item quantity="other">%d秒前にアップデートしました</item>
+    </plurals>
+    <plurals name="sq">
+        <item quantity="other">%d週間前にアップデートしました</item>
+    </plurals>
+    <plurals name="sr">
+        <item quantity="other">動画%s本</item>
+    </plurals>
+    <plurals name="ss">
+        <item quantity="other">写真をシェアしました</item>
+    </plurals>
+    <plurals name="st">
+        <item quantity="other">おめでとうございます！昨日は%d回購入されました。その調子でがんばりましょう。シリーズのパフォーマンスは [クリエイターツール] &gt; [シリーズ] から追跡できます。</item>
+    </plurals>
+    <plurals name="su">
+        <item quantity="other">あなたのシリーズのページは、この数日間に%d回アクセスされました。シリーズのパフォーマンスを追跡し、購入を期待できるユーザーを増やすためのヒントを入手するには、[クリエイターツール] &gt; [シリーズ] からインサイトツールにアクセスしてください。</item>
+    </plurals>
+    <plurals name="sv">
+        <item quantity="other">おめでとうございます！あなたのLIVEの視聴者%d人が昨日、あなたのシリーズのアクセス権を購入しました。その調子でがんばりましょう。シリーズのパフォーマンスは [クリエイターツール] &gt; [シリーズ] から追跡できます。</item>
+    </plurals>
+    <plurals name="sw">
+        <item quantity="other">おめでとうございます！昨日、%d人の視聴者がシリーズリンク付きの動画からあなたのシリーズのアクセス権を購入しました。その調子でがんばりましょう。シリーズのパフォーマンスは [クリエイターツール] &gt; [シリーズ] から追跡できます。</item>
+    </plurals>
+    <plurals name="sx">
+        <item quantity="other">続行してカメラを起動(%d)</item>
+    </plurals>
+    <plurals name="sy">
+        <item quantity="one">%.1f (%s件のレビュー)</item>
+        <item quantity="other">%.1f (%s件のレビュー)</item>
+    </plurals>
+    <plurals name="sz">
+        <item quantity="other">購入者の先着%d人のみ</item>
+    </plurals>
+    <plurals name="t0">
+        <item quantity="other">残りわずか%d人分</item>
+    </plurals>
+    <plurals name="t1">
+        <item quantity="other">あと%d日で終了</item>
+    </plurals>
+    <plurals name="t2">
+        <item quantity="other">%d本の動画</item>
+    </plurals>
+    <plurals name="t3">
+        <item quantity="other">動画%d本</item>
+    </plurals>
+    <plurals name="t4">
+        <item quantity="other">%d本の動画</item>
+    </plurals>
+    <plurals name="t5">
+        <item quantity="other">%s本の動画</item>
+    </plurals>
+    <plurals name="t6">
+        <item quantity="other">あなたは今年{share_number}回シェアしました。</item>
+    </plurals>
+    <plurals name="t7">
+        <item quantity="other">{0}、{1}、その他{2}人があなたの投稿をストーリーズに追加しました。</item>
+    </plurals>
+    <plurals name="t8">
+        <item quantity="other">2020年にあなたのサウンドは{sound_use_cnt}本の動画で使用されました。</item>
+    </plurals>
+    <plurals name="t9">
+        <item quantity="other">そして視聴数{sound_views}回を獲得。</item>
+    </plurals>
+    <plurals name="t_">
+        <item quantity="other">あなたは2020年に「{music_name}」が使われた動画を{watch_video_cnt}本見ました。もちろん、他にもお気に入り曲はあったけど。</item>
+    </plurals>
+    <plurals name="ta">
+        <item quantity="other">今年のあなたのお気に入りジャンル数は{genre_cnt}でした：</item>
+    </plurals>
+    <plurals name="tb">
+        <item quantity="other">視聴数%d回</item>
+    </plurals>
+    <plurals name="tc">
+        <item quantity="other">ストーリーズ (%d)</item>
+    </plurals>
+    <plurals name="td">
+        <item quantity="other">{Brand}が元の承諾期間（{start_date}～{end_date}）から{num}日間の延長を希望しています。</item>
+    </plurals>
+    <plurals name="tf">
+        <item quantity="other">一番注目を浴びたあなたの動画は視聴数を{video_view_cnt}回獲得しました。</item>
+    </plurals>
+    <plurals name="tg">
+        <item quantity="other">このクリエイターの創作活動を支援していただきありがとうございます。クリエイターは%d時間以内にチップを受け取ります。</item>
+    </plurals>
+    <plurals name="th">
+        <item quantity="other">%d個のチップを送りました</item>
+    </plurals>
+    <plurals name="ti">
+        <item quantity="other">%d件の動画が追加されました</item>
+    </plurals>
+    <plurals name="tj">
+        <item quantity="other">%dか月以上TikTokを使用しているクリエイター。</item>
+    </plurals>
+    <plurals name="tk">
+        <item quantity="other">%d人以上のフォロワーがいるクリエイター。</item>
+    </plurals>
+    <plurals name="tl">
+        <item quantity="other">%d件のアクティビティ</item>
+    </plurals>
+    <plurals name="tm">
+        <item quantity="other">人気上昇中のトピックを追加できる1日の上限数：投稿%d件</item>
+    </plurals>
+    <plurals name="tn">
+        <item quantity="other">推定される審査期間：%d日</item>
+    </plurals>
+    <plurals name="to">
+        <item quantity="other">%@本の動画</item>
+    </plurals>
+    <plurals name="tp">
+        <item quantity="other">視聴数%@回</item>
+    </plurals>
+    <plurals name="tq">
+        <item quantity="other">%d日前</item>
+    </plurals>
+    <plurals name="tr">
+        <item quantity="other">時間</item>
+    </plurals>
+    <plurals name="ts">
+        <item quantity="other">%1$d時間前</item>
+    </plurals>
+    <plurals name="tt">
+        <item quantity="other">分</item>
+    </plurals>
+    <plurals name="tu">
+        <item quantity="other">%1$d分前</item>
+    </plurals>
+    <plurals name="tv">
+        <item quantity="other">時間</item>
+    </plurals>
+    <plurals name="tw">
+        <item quantity="other">分</item>
+    </plurals>
+    <plurals name="tx">
+        <item quantity="other">秒</item>
+    </plurals>
+    <plurals name="ty">
+        <item quantity="other">%1$d年前</item>
+    </plurals>
+    <plurals name="tz">
+        <item quantity="other">申し訳ありません。あなたはLIVE配信を禁止されました\n %1$d日後に再びLIVE配信できるようになります</item>
+    </plurals>
+    <plurals name="u0">
+        <item quantity="other">申し訳ありません。あなたはLIVE配信を禁止されました\n %1$d時間後に再びLIVE配信できるようになります</item>
+    </plurals>
+    <plurals name="u1">
+        <item quantity="other">申し訳ありません。あなたは現在LIVE配信を禁止されています。\n %1$d分後に再びLIVE配信できるようになります</item>
+    </plurals>
+    <plurals name="u2">
+        <item quantity="other">申し訳ありません。あなたはLIVE配信を禁止されました\n %1$d秒後に再びLIVE配信できるようになります</item>
+    </plurals>
+    <plurals name="u3">
+        <item quantity="other">%d人のユーザーが配信を観ています。終了しますか？</item>
+    </plurals>
+    <plurals name="u4">
+        <item quantity="other">%d日後に期限切れになります</item>
+    </plurals>
+    <plurals name="u5">
+        <item quantity="other">%d時間後に期限切れになります</item>
+    </plurals>
+    <plurals name="u6">
+        <item quantity="other">初回に%1$d個のダイヤモンドをチャージすると、追加で%2$d個獲得できます！</item>
+    </plurals>
+    <plurals name="u7">
+        <item quantity="other">分</item>
+    </plurals>
+    <plurals name="u8">
+        <item quantity="other">TikTokでの体験は残り：%d日</item>
+    </plurals>
+    <plurals name="u9">
+        <item quantity="other">%d日間</item>
+    </plurals>
+    <plurals name="u_">
+        <item quantity="other">TikTokでこの機能を体験できるのは%d日間です。それ以降は、TikTok Nowアプリをダウンロードして続行してください。</item>
+    </plurals>
+    <plurals name="ua">
+        <item quantity="other">投稿して、%d日間のTikTok Now体験を始めましょう。</item>
+    </plurals>
+    <plurals name="ub">
+        <item quantity="other">%d個のクリップを選択または録画します</item>
+    </plurals>
+    <plurals name="uc">
+        <item quantity="other">未完成の写真を編集しますか？</item>
+    </plurals>
+    <plurals name="ud">
+        <item quantity="other">新規投稿%s件</item>
+    </plurals>
+    <plurals name="ue">
+        <item quantity="other">%d本の動画を投稿しました</item>
+    </plurals>
+    <plurals name="uf">
+        <item quantity="other">あなたは%d歳ですか？</item>
+    </plurals>
+    <plurals name="ug">
+        <item quantity="other">サウンドのカットを使用。最大%d秒を録画。</item>
+    </plurals>
+    <plurals name="uh">
+        <item quantity="other">残念ながら%1$sはご希望の時間内にTikTok Shoutout動画を作成することができませんでした。24時間以内にあなたのアカウントに%2$dコインが返金されます。</item>
+    </plurals>
+    <plurals name="ui">
+        <item quantity="other">24時間以内に%dコインがあなたのアカウントに返金されます。</item>
+    </plurals>
+    <plurals name="uj">
+        <item quantity="other">この注文はタイムアウトのためキャンセルされます。%sコインがあなたのアカウントに返金されます。</item>
+    </plurals>
+    <plurals name="uk">
+        <item quantity="other">あなたのリクエストはキャンセルされました。24時間以内に%dコインがあなたのアカウントに返金されます。</item>
+    </plurals>
+    <plurals name="ul">
+        <item quantity="other">コイン</item>
+    </plurals>
+    <plurals name="um">
+        <item quantity="other">%1$sはあなたのリクエストを辞退しました。24時間以内に%2$sコインがあなたのアカウントに返金されます。</item>
+    </plurals>
+    <plurals name="un">
+        <item quantity="other">残念ながら%1$sはご希望の時間内にTikTok Shoutout動画を作成することができませんでした。あなたのリクエストは失効しました。24時間以内にあなたのアカウントに%2$sコインが返金されます。</item>
+    </plurals>
+    <plurals name="uo">
+        <item quantity="other">%1$sが2日以内にリクエストを承諾しなかった場合、あなたのリクエストは自動的にキャンセルされ、24時間以内に料金の%2$sコインが返金されます。</item>
+    </plurals>
+    <plurals name="up">
+        <item quantity="other">視聴者 %s人</item>
+    </plurals>
+    <plurals name="uq">
+        <item quantity="other">「いいね」%s 件</item>
+    </plurals>
+    <plurals name="ur">
+        <item quantity="other">%2$s秒で%1$sにシェアします</item>
+    </plurals>
+    <plurals name="us">
+        <item quantity="other">%d個の商品</item>
+    </plurals>
+    <plurals name="ut">
+        <item quantity="other">投稿</item>
+    </plurals>
+    <plurals name="uu">
+        <item quantity="other">%1$s、%2$s、その他%d人</item>
+    </plurals>
+    <plurals name="uv">
+        <item quantity="other">があなたの投稿を見ました。</item>
+    </plurals>
+    <plurals name="uw">
+        <item quantity="other">シェア%s件</item>
+    </plurals>
+    <plurals name="ux">
+        <item quantity="other">%s回視聴</item>
+    </plurals>
+    <plurals name="uy">
+        <item quantity="other">{0}、{1}とその他{2}人があなたの投稿を見ました。</item>
+    </plurals>
+    <plurals name="uz">
+        <item quantity="other">%dコイン</item>
+    </plurals>
+    <plurals name="v0">
+        <item quantity="other">%sを贈りました</item>
+    </plurals>
+    <plurals name="v1">
+        <item quantity="other">写真が保存されました</item>
+    </plurals>
+    <plurals name="v2">
+        <item quantity="other">{number} 人がギフトを受け取りましたが、まだアカウントにデータが追加されていません。 データギフトはまもなくご利用いただけるようになります。</item>
+    </plurals>
+    <plurals name="v3">
+        <item quantity="other">アクティビティはあと {countdown} 日で終了します。 数量限定です。 早い者勝ち！</item>
+    </plurals>
+    <plurals name="v4">
+        <item quantity="other">ギフトは残り {countdown} 個</item>
+    </plurals>
+</resources>

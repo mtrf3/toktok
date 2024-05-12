@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+    <stroke
+        width="1dp"
+        color="?attr/du"/>
+    <corners radius="5dp"/>
+    <padding
+        left="10dp"
+        top="10dp"
+        right="10dp"
+        bottom="10dp"/>
+</shape>

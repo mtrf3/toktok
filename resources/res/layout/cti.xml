@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/bss"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <TextView
+        textColor="?attr/dj"
+        gravity="center_vertical"
+        id="@+id/b0j"
+        layout_width="wrap_content"
+        layout_height="match_parent"
+        maxLines="2"
+        paddingStart="30dp"
+        paddingEnd="20dp"/>
+</FrameLayout>

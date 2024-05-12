@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item
+        gravity="center_vertical"
+        height="10dp"
+        width="1dp"
+        start="8dp"
+        end="8dp">
+        <shape>
+            <solid color="?attr/dl"/>
+        </shape>
+    </item>
+</layer-list>

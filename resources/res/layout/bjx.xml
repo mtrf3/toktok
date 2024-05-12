@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/feed_shake_egg_container"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        id="@+id/d8k"
+        visibility="gone"
+        clickable="true"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C37A
+        id="@+id/d8j"
+        visibility="gone"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+</FrameLayout>

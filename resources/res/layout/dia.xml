@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<X.C47121t6
+    textColor="?attr/dj"
+    ellipsize="end"
+    gravity="center"
+    background="@drawable/daa"
+    layout_width="wrap_content"
+    layout_height="wrap_content"
+    layout_marginTop="12dp"
+    minHeight="@dimen/a_p"
+    maxLines="1"
+    paddingStart="8dp"
+    paddingEnd="8dp"
+    layout_marginStart="5dp"
+    layout_marginEnd="5dp"
+    NOT_FOUND_0xd="@dimen/aif"
+    NOT_FOUND_0xe="12dp"
+    NOT_FOUND_0xf="1dp"
+    NOT_FOUND_0x10="1"
+    NOT_FOUND_0x11="@style/hc"
+    NOT_FOUND_0x12="1"/>

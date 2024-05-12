@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    id="@+id/j1s"
+    layout_width="wrap_content"
+    layout_height="16dp"
+    paddingStart="5dp"
+    paddingEnd="5dp">
+    <com.bytedance.tux.input.TuxTextView
+        id="@+id/j1q"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_centerVertical="true"
+        layout_toEndOf="@+id/j1r"
+        NOT_FOUND_0x8="81"/>
+    <ImageView
+        id="@+id/j1r"
+        visibility="gone"
+        layout_width="wrap_content"
+        layout_height="wrap_content"/>
+</RelativeLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bytedance.android.live.common.keyboard.MeasureLinearLayout
+    orientation="vertical"
+    id="@+id/ggi"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <FrameLayout
+        layout_width="match_parent"
+        layout_height="match_parent"
+        layout_marginBottom="4dp">
+        <com.bytedance.android.live.design.widget.LiveEditText
+            textSize="20dp"
+            textColor="#000000"
+            textColorHint="#57161823"
+            gravity="start|center_vertical"
+            layout_gravity="bottom"
+            id="@+id/cq8"
+            background="@drawable/csd"
+            paddingLeft="20dp"
+            paddingRight="20dp"
+            layout_width="match_parent"
+            layout_height="54dp"
+            hint="@string/kzn"
+            maxLines="1"
+            singleLine="true"
+            imeOptions="actionDone"
+            textAlignment="viewStart"/>
+    </FrameLayout>
+</com.bytedance.android.live.common.keyboard.MeasureLinearLayout>

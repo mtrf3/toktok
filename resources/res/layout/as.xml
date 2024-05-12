@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView
+    layout_width="20dp"
+    layout_height="20dp"
+    layout_marginLeft="5dp"
+    src="@drawable/k3"
+    scaleType="centerCrop"/>

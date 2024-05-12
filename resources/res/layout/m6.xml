@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    orientation="horizontal"
+    layout_width="match_parent">
+    <X.C71897SJp
+        id="@+id/ba0"
+        clickable="false"
+        layout_width="16dp"
+        layout_height="16dp"
+        NOT_FOUND_0x9="?attr/e9"
+        NOT_FOUND_0xa="0"
+        NOT_FOUND_0xb="0"
+        NOT_FOUND_0xc="?attr/gv"/>
+    <com.bytedance.tux.input.TuxTextView
+        id="@+id/ba1"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginLeft="4dp"
+        layout_marginRight="8dp"
+        layout_marginStart="4dp"
+        layout_marginEnd="8dp"
+        NOT_FOUND_0xd="41"/>
+</merge>

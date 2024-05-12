@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="36dp"
+    layout_height="36dp"
+    layout_marginStart="2dp"
+    layout_marginEnd="2dp">
+    <X.C29888BoC
+        layout_gravity="center"
+        id="@+id/ld_"
+        layout_width="36dp"
+        layout_height="36dp"/>
+    <com.bytedance.android.live.design.view.icon.LiveIconView
+        layout_gravity="center"
+        id="@+id/ld4"
+        layout_width="24dp"
+        layout_height="24dp"/>
+    <View
+        layout_gravity="end|top"
+        id="@+id/ldl"
+        background="@drawable/czr"
+        visibility="gone"
+        layout_width="8dp"
+        layout_height="8dp"
+        layout_marginTop="2dp"
+        layout_marginEnd="2dp"/>
+</FrameLayout>

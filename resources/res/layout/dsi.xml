@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <TextureView
+        id="@+id/n8n"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <ImageView
+        id="@+id/cover"
+        layout_width="match_parent"
+        layout_height="match_parent"
+        scaleType="centerCrop"/>
+</FrameLayout>

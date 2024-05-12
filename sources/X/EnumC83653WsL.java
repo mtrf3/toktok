@@ -1,0 +1,22 @@
+package X;
+
+/* renamed from: X.WsL, reason: case insensitive filesystem */
+/* loaded from: classes15.dex */
+public enum EnumC83653WsL implements InterfaceC83713WtJ {
+    OPEN_CAMERA_ENTER_PAGE_SURFACE_CREATE,
+    OPEN_CAMERA_ENTER_PAGE_TEXTURE_CREATE,
+    OPEN_CAMERA_ENTER_PAGE_ON_START,
+    OPEN_CAMERA_ENTER_PAGE_ON_RESUME,
+    FTC_OPEN_CAMERA_ENTER_PAGE,
+    SWITCH_CAMERA_DOUBLE_TAP_CAMERA_VIEW,
+    SWITCH_CAMERA_DOUBLE_TAP_CAMERA_GESTURE_COMP,
+    SWITCH_CAMERA_TOOL_BAR,
+    AUDIO_START_RECORD_DEFAULT_WITH_AUDIO,
+    AUDIO_START_RECORD_DEFAULT_NOT_AUDIO,
+    AUDIO_START_RECORD_USE_EFFECT,
+    AUDIO_START_DUET;
+
+    public static EnumC83653WsL valueOf(String str) {
+        return (EnumC83653WsL) V0N.LJJJ(EnumC83653WsL.class, str);
+    }
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    id="@+id/np2"
+    layout_width="match_parent"
+    layout_height="match_parent">
+    <X.C93603aTX
+        id="@+id/np1"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C93601aTV
+        id="@+id/nm4"
+        layout_width="match_parent"
+        layout_height="match_parent"/>
+    <X.C94613ajp
+        layout_gravity="bottom|center_horizontal"
+        id="@+id/nma"
+        layout_width="wrap_content"
+        layout_height="wrap_content"
+        layout_marginBottom="76dp"
+        overScrollMode="never"/>
+</FrameLayout>
