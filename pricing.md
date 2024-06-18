@@ -12,7 +12,7 @@ Each transaction processed through our gateway incurs a fee. This fee is negotia
 
 **2. Monthly Service Fee**
 
-We charge a monthly service fee for accessing our payment gateway services. This fee covers maintenance, security, and access to customer support.
+For limited time only there is no monthly service fee for accessing our payment gateway services. This fee covers maintenance, security, and access to customer support.
 
 **3. One-Time Setup Fee**
 
