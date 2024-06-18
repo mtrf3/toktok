@@ -9,7 +9,7 @@ description: >-
 
 **Contacting Support**
 
-**Email Support:** For maintenance support and general inquiries, please contact us via email at support@sitesway.sa. Our support team strives to respond to all emails within \[specify response time, e.g., 24 hours].
+**Email Support:** For maintenance support and general inquiries, please contact us via email at support@sitesway.sa. Our support team strives to respond to all emails as soon as they can.
 
 **Types of Support Offered**
 
