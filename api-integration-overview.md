@@ -326,5 +326,498 @@ You can obtain the public key for success callback authentication from [GET /pub
 
 Please note the provider is not responsible for any financial losses incurred due to not implementing payload signature verification.
 
-\
-\
+To run payments in your application use `POST /purchases/`, request to register payments and receive the checkout link (`checkout_url`). After the payment is processed, gateway will redirect the client back to your website (take note of `success_redirect`, `failure_redirect`).
+
+You have three options to check payment status: 1) use `success_callback` parameter of `Purchase` object; 2) use `GET /purchases/<purchase_id>/` request; 3) set up a Webhook using the UI or Webhook API to listen to `purchase.paid` or `purchase.payment_failure` event on your server.
+
+Using `skip_capture` flag allows you to separate the authentication and payment execution steps, allowing you to reserve funds on payer’s card account for some time. This flag can also enable preauthorization capability, allowing you to save the card without a financial transaction, if available.
+
+In case making a purchase client agrees to store his card for the upcoming purchases, next time he will be able to pay in a single click.
+
+Instead of a redirect you can also utilize Direct Post checkout: you can create an HTML `<form>` on your website with `method="POST"` and `action` pointing to `direct_post_url` of a created Purchase. You will also need to saturate form with `<input>`-s for card data fields. As a result, when a payer submits their card data, it will be posted straight to our system, allowing you to customize the checkout as you wish while your PCI DSS requirement is only raised to SAQ A-EP, as your system doesn't receive or process card data. For more details, see the documentation on Purchase's `direct_post_url` field.
+
+To pay for test Purchases, use `4444 3333 2222 1111` as the card number, `123` as CVC, any date/month greater than now as expiry and any (Latin) cardholder name. Any other card number/CVC/expiry not greater or equal than the current month will all fail a test payment.
+
+**Parameters**
+
+No parameters
+
+**Request body**
+
+application/json
+
+* Example Value
+* Schema
+
+```json
+{
+  "client": {
+    "email": "test@test.com"
+  },
+  "purchase": {
+    "products": [
+      {
+        "name": "test",
+        "price": 100
+      }
+    ]
+  },
+  "brand_id": "409eb80e-3782-4b1d-afa8-b779759266a5"
+}
+```
+
+**Responses**
+
+| Code | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 201  | <p>OK</p><p>Media typeapplication/jsonControls <code>Accept</code> header.</p><ul><li>Example Value</li><li>Schema</li></ul><pre class="language-json"><code class="lang-json">{
+  "type": "string",
+  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "created_on": 1619740800,
+  "updated_on": 1619740800,
+  "client": {
+    "bank_account": "string",
+    "bank_code": "string",
+    "email": "user@example.com",
+    "phone": "+44 45643564564",
+    "full_name": "string",
+    "personal_code": "string",
+    "street_address": "string",
+    "country": "st",
+    "city": "string",
+    "zip_code": "string",
+    "state": "string",
+    "shipping_street_address": "string",
+    "shipping_country": "st",
+    "shipping_city": "string",
+    "shipping_zip_code": "string",
+    "shipping_state": "string",
+    "cc": [
+      "user@example.com"
+    ],
+    "bcc": [
+      "user@example.com"
+    ],
+    "legal_name": "string",
+    "brand_name": "string",
+    "registration_number": "string",
+    "tax_number": "string"
+  },
+  "purchase": {
+    "currency": "str",
+    "products": [
+      {
+        "name": "string",
+        "quantity": "1",
+        "price": 0,
+        "discount": 0,
+        "tax_percent": "0",
+        "category": "string"
+      }
+    ],
+    "total": 0,
+    "language": "Default value is controlled in Company -> Brand section of merchant portal separately per each Brand used (default value, if no changes are made, is `en`). Brand to be used with corresponding Purchase/BillingTemplate specified using brand_id.",
+    "notes": "string",
+    "debt": 0,
+    "subtotal_override": null,
+    "total_tax_override": null,
+    "total_discount_override": null,
+    "total_override": null,
+    "request_client_details": [],
+    "timezone": "Europe/Oslo",
+    "due_strict": false,
+    "email_message": "string"
+  },
+  "payment": {
+    "is_outgoing": false,
+    "payment_type": "purchase",
+    "amount": 0,
+    "currency": "str",
+    "net_amount": 0,
+    "fee_amount": 0,
+    "pending_amount": 0,
+    "pending_unfreeze_on": 1619740800,
+    "description": "string",
+    "paid_on": 1619740800,
+    "remote_paid_on": 1619740800
+  },
+  "issuer_details": {
+    "website": "string",
+    "legal_street_address": "string",
+    "legal_country": "st",
+    "legal_city": "string",
+    "legal_zip_code": "string",
+    "bank_accounts": [
+      {
+        "bank_account": "string",
+        "bank_code": "string"
+      }
+    ],
+    "legal_name": "string",
+    "brand_name": "string",
+    "registration_number": "string",
+    "tax_number": "string"
+  },
+  "transaction_data": {
+    "payment_method": "string",
+    "extra": {},
+    "country": "string",
+    "attempts": [
+      {
+        "type": "execute",
+        "successful": true,
+        "payment_method": "string",
+        "extra": {},
+        "country": "string",
+        "client_ip": "string",
+        "processing_time": 1619740800,
+        "error": {
+          "code": "string",
+          "message": "string"
+        }
+      }
+    ]
+  },
+  "status": "created",
+  "status_history": [
+    {
+      "status": "created",
+      "timestamp": 1619740800,
+      "related_object": {
+        "type": "string",
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+      }
+    }
+  ],
+  "viewed_on": 1619740800,
+  "company_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "is_test": true,
+  "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "brand_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "billing_template_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "client_id": null,
+  "send_receipt": false,
+  "is_recurring_token": true,
+  "recurring_token": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "skip_capture": false,
+  "force_recurring": false,
+  "reference_generated": "string",
+  "reference": "string",
+  "issued": "2020-04-30",
+  "due": 1619740800,
+  "refund_availability": "all",
+  "refundable_amount": 0,
+  "currency_conversion": {
+    "original_currency": "string",
+    "original_amount": 0,
+    "exchange_rate": 0
+  },
+  "payment_method_whitelist": [
+    "string"
+  ],
+  "success_redirect": "string",
+  "failure_redirect": "string",
+  "cancel_redirect": "string",
+  "success_callback": "string",
+  "creator_agent": "string",
+  "platform": "web",
+  "product": "purchases",
+  "created_from_ip": "string",
+  "invoice_url": "string",
+  "checkout_url": "string",
+  "direct_post_url": "string",
+  "marked_as_paid": true,
+  "order_id": "string",
+  "upsell_campaigns": [
+    "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+  ],
+  "referral_campaign_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "referral_code": "string",
+  "referral_code_generated": "string",
+  "referral_code_details": {
+    "campaign_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "reward_type": "gift",
+    "discount_amount": 0,
+    "discount_percent": 0
+  },
+  "retain_level_details": {
+    "campaign_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "discount_amount": 0,
+    "discount_percent": 0
+  }
+}
+</code></pre> |
+| 400  | <p>Invalid data submitted or request processing error</p><p>Media typeapplication/json</p><ul><li>Example Value</li><li>Schema</li></ul><pre class="language-json"><code class="lang-json">{
+  "__all__": {
+    "message": "descriptive error message",
+    "code": "error_code"
+  }
+}
+</code></pre>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+
+POST[/purchases/{id}/cancel/](https://gate.sitesway.sa/api/#/Purchases/purchases\_cancel)Cancel a pending purchase.
+
+If you have a Purchase that payment is possible for, using this request you can guarantee that it won't be paid.
+
+**Parameters**
+
+| Name                     | Description      |
+| ------------------------ | ---------------- |
+| id \*string($uuid)(path) | Object ID (UUID) |
+
+**Responses**
+
+| Code | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 200  | <p>OK</p><p>Media typeapplication/jsonControls <code>Accept</code> header.</p><ul><li>Example Value</li><li>Schema</li></ul><pre class="language-json"><code class="lang-json">{
+  "type": "string",
+  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "created_on": 1619740800,
+  "updated_on": 1619740800,
+  "client": {
+    "bank_account": "string",
+    "bank_code": "string",
+    "email": "user@example.com",
+    "phone": "+44 45643564564",
+    "full_name": "string",
+    "personal_code": "string",
+    "street_address": "string",
+    "country": "st",
+    "city": "string",
+    "zip_code": "string",
+    "state": "string",
+    "shipping_street_address": "string",
+    "shipping_country": "st",
+    "shipping_city": "string",
+    "shipping_zip_code": "string",
+    "shipping_state": "string",
+    "cc": [
+      "user@example.com"
+    ],
+    "bcc": [
+      "user@example.com"
+    ],
+    "legal_name": "string",
+    "brand_name": "string",
+    "registration_number": "string",
+    "tax_number": "string"
+  },
+  "purchase": {
+    "currency": "str",
+    "products": [
+      {
+        "name": "string",
+        "quantity": "1",
+        "price": 0,
+        "discount": 0,
+        "tax_percent": "0",
+        "category": "string"
+      }
+    ],
+    "total": 0,
+    "language": "Default value is controlled in Company -> Brand section of merchant portal separately per each Brand used (default value, if no changes are made, is `en`). Brand to be used with corresponding Purchase/BillingTemplate specified using brand_id.",
+    "notes": "string",
+    "debt": 0,
+    "subtotal_override": null,
+    "total_tax_override": null,
+    "total_discount_override": null,
+    "total_override": null,
+    "request_client_details": [],
+    "timezone": "Europe/Oslo",
+    "due_strict": false,
+    "email_message": "string"
+  },
+  "payment": {
+    "is_outgoing": false,
+    "payment_type": "purchase",
+    "amount": 0,
+    "currency": "str",
+    "net_amount": 0,
+    "fee_amount": 0,
+    "pending_amount": 0,
+    "pending_unfreeze_on": 1619740800,
+    "description": "string",
+    "paid_on": 1619740800,
+    "remote_paid_on": 1619740800
+  },
+  "issuer_details": {
+    "website": "string",
+    "legal_street_address": "string",
+    "legal_country": "st",
+    "legal_city": "string",
+    "legal_zip_code": "string",
+    "bank_accounts": [
+      {
+        "bank_account": "string",
+        "bank_code": "string"
+      }
+    ],
+    "legal_name": "string",
+    "brand_name": "string",
+    "registration_number": "string",
+    "tax_number": "string"
+  },
+  "transaction_data": {
+    "payment_method": "string",
+    "extra": {},
+    "country": "string",
+    "attempts": [
+      {
+        "type": "execute",
+        "successful": true,
+        "payment_method": "string",
+        "extra": {},
+        "country": "string",
+        "client_ip": "string",
+        "processing_time": 1619740800,
+        "error": {
+          "code": "string",
+          "message": "string"
+        }
+      }
+    ]
+  },
+  "status": "created",
+  "status_history": [
+    {
+      "status": "created",
+      "timestamp": 1619740800,
+      "related_object": {
+        "type": "string",
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+      }
+    }
+  ],
+  "viewed_on": 1619740800,
+  "company_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "is_test": true,
+  "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "brand_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "billing_template_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "client_id": null,
+  "send_receipt": false,
+  "is_recurring_token": true,
+  "recurring_token": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "skip_capture": false,
+  "force_recurring": false,
+  "reference_generated": "string",
+  "reference": "string",
+  "issued": "2020-04-30",
+  "due": 1619740800,
+  "refund_availability": "all",
+  "refundable_amount": 0,
+  "currency_conversion": {
+    "original_currency": "string",
+    "original_amount": 0,
+    "exchange_rate": 0
+  },
+  "payment_method_whitelist": [
+    "string"
+  ],
+  "success_redirect": "string",
+  "failure_redirect": "string",
+  "cancel_redirect": "string",
+  "success_callback": "string",
+  "creator_agent": "string",
+  "platform": "web",
+  "product": "purchases",
+  "created_from_ip": "string",
+  "invoice_url": "string",
+  "checkout_url": "string",
+  "direct_post_url": "string",
+  "marked_as_paid": true,
+  "order_id": "string",
+  "upsell_campaigns": [
+    "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+  ],
+  "referral_campaign_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "referral_code": "string",
+  "referral_code_generated": "string",
+  "referral_code_details": {
+    "campaign_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "reward_type": "gift",
+    "discount_amount": 0,
+    "discount_percent": 0
+  },
+  "retain_level_details": {
+    "campaign_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "discount_amount": 0,
+    "discount_percent": 0
+  }
+}
+</code></pre> |
+| 404  | No such object                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+#### [Payment methods](https://gate.sitesway.sa/api/#/Payment%20methods) <a href="#operations-tag-payment_methods" id="operations-tag-payment_methods"></a>
+
+GET[/payment\_methods/](https://gate.sitesway.sa/api/#/Payment%20methods/payment\_methods)Get the list of payment methods available for your purchase.
+
+Send this request providing, at the very least, the `brand_id` and `currency` query parameters having the same values you'd use to create your Purchase. Be sure to use the same API key you'll create your Purchase with; it will define the test\_mode setting used in the lookup.
+
+In the response body you'll receive an object with `available_payment_methods` property containing the list of payment method names available to use with your Purchase (e.g. those codes can be used in `payment_method_whitelist` field or with `?preferred={payment_method}` option of `checkout_url`).
+
+Please note that all lookup arguments must be provided via query parameters after the endpoint, e.g. the minimal call would be similar to: `GET /api/v1/payment_methods/?brand_id=75a76529-91c7-4d98-90a9-8a641d70ee52&currency=EUR`
+
+**Parameters**
+
+| Name                           | Description                                                                                                                                                                                                                                      |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| brand\_id \*string(query)      | Which brand would you like to lookup the available payment methods for. Use the same value (UUID) you'd set the `Purchase.brand_id` to.                                                                                                          |
+| currency \*string(query)       | Currency you'd use in your Purchase in ISO 4217 format, e.g. `EUR`.                                                                                                                                                                              |
+| countrystring(query)           | Country code in the ISO 3166-1 alpha-2 format (e.g. `GB`). Optional.                                                                                                                                                                             |
+| recurringboolean(query)        | <p>If provided in the format of <code>recurring=true</code>, will filter out the methods that don't support recurring charges (see <code>POST /purchases/{id}/charge/</code>).</p><p>--truefalse</p>                                             |
+| skip\_captureboolean(query)    | <p>If provided in the format of <code>skip_capture=true</code>, will filter out the methods that don't support <code>skip_capture</code> functionality (see the description for <code>Purchase.skip_capture field</code>).</p><p>--truefalse</p> |
+| preauthorizationboolean(query) | <p>If provided in the format of <code>preauthorization=true</code>, will filter out the methods that don't support preauthorization functionality (see the description for <code>Purchase.skip_capture field</code>).</p><p>--truefalse</p>      |
+| languagestring(query)          | Language code in the ISO 639-1 format (e.g. 'en'). Optional.                                                                                                                                                                                     |
+
+**Responses**
+
+| Code | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 200  | <p>OK</p><p>Media typeapplication/jsonControls <code>Accept</code> header.</p><ul><li>Example Value</li><li>Schema</li></ul><pre class="language-json"><code class="lang-json">{
+  "available_payment_methods": [
+    "visa",
+    "mastercard",
+    "some_method"
+  ],
+  "by_country": {
+    "any": [
+      "card"
+    ],
+    "GB": [
+      "some_method"
+    ]
+  },
+  "country_names": {
+    "any": "Other",
+    "GB": "United Kingdom"
+  },
+  "names": {
+    "visa": "Visa",
+    "mastercard": "Mastercard",
+    "some_method": "Some method"
+  },
+  "logos": {
+    "some_method": [
+      "/static/images/icon-visa.svg",
+      "/static/images/icon-mastercard.svg",
+      "/static/images/icon-maestro.svg"
+    ],
+    "visa": "/static/images/icon-visa.svg",
+    "mastercard": "/static/images/icon-mastercard.svg"
+  },
+  "card_methods": [
+    "american_express",
+    "visa"
+  ]
+}
+</code></pre> |
+| 400  | <p>Invalid data submitted or request processing error</p><p>Media typeapplication/json</p><ul><li>Example Value</li><li>Schema</li></ul><pre class="language-json"><code class="lang-json">{
+  "__all__": {
+    "message": "descriptive error message",
+    "code": "error_code"
+  }
+}
+</code></pre>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+Apple pay is supported , as well as Mada card and STCPay. please note STCPay has to be in seperate aggrement.
