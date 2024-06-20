@@ -821,3 +821,7 @@ Please note that all lookup arguments must be provided via query parameters afte
 </code></pre>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 Apple pay is supported , as well as Mada card and STCPay. please note STCPay has to be in seperate aggrement.
+
+stcpay اس تي سي باي is supported in our platform.
+
+mada card schema is supported in out platform.
