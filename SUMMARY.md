@@ -8,3 +8,4 @@
 * [Settlement and Payout](settlement-and-payout.md)
 * [Supported Currencies and Countries](supported-currencies-and-countries.md)
 * [KYC Verification Process](kyc-verification-process.md)
+* [Features](features.md)
