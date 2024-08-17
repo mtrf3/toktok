@@ -8,7 +8,13 @@ Our payment gateway offers competitive pricing tailored to your business needs. 
 
 **1. Transaction Fees**
 
-Each transaction processed through our gateway incurs a fee. This fee is negotiated based on the volume of transactions and the specific needs of your business.
+Each transaction processed through our gateway incurs a fee. regular fee:
+
+1% for MADA transaction.
+
+2.50% for Credit Cards transactions, plus 1 SAR
+
+However,this fee is negotiated based on the volume of transactions and the specific needs of your business.
 
 **2. Monthly Service Fee**
 
