@@ -9,6 +9,8 @@ description: >-
 
 To comply with regulatory and internal requirements, we require the following legal documents from our clients before activating a payment gateway account. These documents help us verify the legitimacy of your business and ensure that our services are used in accordance with the law.
 
+the time process for verifying the docs can take up to 5 working days
+
 **1. Commercial Registration**
 
 Provide a copy of your commercial registration certificate. This document must be valid and clearly show your business name, registration number, and the date of issue. The commercial registration confirms that your business is legally recognized and is essential for validating your business activities.
